@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "d01-A01",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "expect",
+    "pos": "verb",
+    "ipa": "/ɪkˈspekt/",
+    "meaning_ko": "기대하다, 예상하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pect",
+          "type": "root",
+          "gloss": "보다 (spect)"
+        }
+      ],
+      "story": "밖을 내다보다 → 앞일을 내다보다 → 기대하다"
+    },
+    "example": {
+      "q": "What do you expect from this role?",
+      "a": "I expect to grow as an engineer and take on more responsibility.",
+      "a_ko": "엔지니어로 성장하고 더 많은 책임을 맡기를 기대합니다."
+    },
+    "collocations": [
+      "expect to do",
+      "as expected",
+      "more than expected"
+    ],
+    "related": [
+      "expectation",
+      "perspective",
+      "aspect",
+      "suspect"
+    ],
+    "tip": "지원 동기·기대치를 물을 때 바로 쓰는 단어. 라틴어 exspectare 에서 s 가 빠진 철자"
+  },
+  {
+    "id": "d01-A02",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "expectation",
+    "pos": "noun",
+    "ipa": "/ˌekspekˈteɪʃən/",
+    "meaning_ko": "기대, 기대치",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pect",
+          "type": "root",
+          "gloss": "보다 (spect)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "밖을 내다봄 → 앞일을 기다림 → 기대"
+    },
+    "example": {
+      "q": "How did your last project go?",
+      "a": "We delivered two weeks early, so we exceeded the client's expectations.",
+      "a_ko": "2주 일찍 납품해서 고객의 기대를 넘어섰습니다."
+    },
+    "collocations": [
+      "meet expectations",
+      "exceed expectations",
+      "set clear expectations"
+    ],
+    "related": [
+      "expect",
+      "perspective",
+      "spectator",
+      "aspect"
+    ],
+    "tip": "‘기대를 충족하다’는 meet, ‘넘어서다’는 exceed — 성과를 말할 때 짝으로 외우기"
+  },
+  {
+    "id": "d01-A03",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "aspect",
+    "pos": "noun",
+    "ipa": "/ˈæspekt/",
+    "meaning_ko": "측면, 면",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~쪽으로 (ad)"
+        },
+        {
+          "text": "spect",
+          "type": "root",
+          "gloss": "보다"
+        }
+      ],
+      "story": "~쪽을 바라본 모습 → 보이는 한 면 → 측면"
+    },
+    "example": {
+      "q": "What do you enjoy most about your job?",
+      "a": "The aspect I enjoy most is solving problems with my teammates.",
+      "a_ko": "제가 가장 좋아하는 부분은 팀원들과 함께 문제를 푸는 것입니다."
+    },
+    "collocations": [
+      "every aspect of",
+      "the most important aspect",
+      "a key aspect"
+    ],
+    "related": [
+      "perspective",
+      "expect",
+      "spectator",
+      "respect"
+    ],
+    "tip": "part 보다 격식 있는 ‘측면’. one aspect of ~ 형태로 많이 씀"
+  },
+  {
+    "id": "d01-A04",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "suspect",
+    "pos": "verb",
+    "ipa": "/səˈspekt/",
+    "meaning_ko": "의심하다, (원인을) 짐작하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "su",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "spect",
+          "type": "root",
+          "gloss": "보다"
+        }
+      ],
+      "story": "아래에서 몰래 올려다보다 → 의심하다 → 원인이 ~라고 짐작하다"
+    },
+    "example": {
+      "q": "How did you find the cause of the bug?",
+      "a": "I suspected a memory leak, so I checked the heap usage first.",
+      "a_ko": "메모리 누수를 의심해서 먼저 힙 사용량을 확인했습니다."
+    },
+    "collocations": [
+      "suspect a bug",
+      "I suspect that ~",
+      "prime suspect"
+    ],
+    "related": [
+      "suspicious",
+      "expect",
+      "inspect",
+      "aspect"
+    ],
+    "tip": "동사는 sus-PECT, 명사(용의자)는 SUS-pect 로 강세가 바뀜"
+  },
+  {
+    "id": "d01-A05",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "in spite of",
+    "pos": "phrase",
+    "ipa": "/ɪn ˈspaɪt əv/",
+    "meaning_ko": "~에도 불구하고",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "~ 안에"
+        },
+        {
+          "text": "spite",
+          "type": "root",
+          "gloss": "업신여김 (despite ← de + spect)"
+        },
+        {
+          "text": "of",
+          "type": "part",
+          "gloss": "~의"
+        }
+      ],
+      "story": "내려다보다(despicere) → 업신여김(despite) → 앞이 떨어져 spite → 업신여기듯 무시하고 → ~에도 불구하고"
+    },
+    "example": {
+      "q": "Tell me about a time you worked under pressure.",
+      "a": "In spite of the tight deadline, our team shipped the feature on time.",
+      "a_ko": "마감이 촉박했음에도 불구하고 저희 팀은 기능을 제때 출시했습니다."
+    },
+    "collocations": [
+      "in spite of the deadline",
+      "in spite of difficulties"
+    ],
+    "related": [
+      "despite",
+      "suspect",
+      "perspective"
+    ],
+    "tip": "despite 와 같은 뜻. despite 뒤에는 of 를 붙이지 않음 (despite of ✗)"
+  },
+  {
+    "id": "d01-A06",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "perspective",
+    "pos": "noun",
+    "ipa": "/pərˈspektɪv/",
+    "meaning_ko": "관점, 시각",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "꿰뚫어"
+        },
+        {
+          "text": "spect",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "꿰뚫어 보는 것(원근법) → 사물을 보는 시각 → 관점"
+    },
+    "example": {
+      "q": "Why are you interested in this role?",
+      "a": "Working closer to users would give me a broader perspective on how our product is actually used.",
+      "a_ko": "사용자와 더 가까이에서 일하면 제품이 실제로 어떻게 쓰이는지 더 넓은 관점을 얻을 수 있습니다."
+    },
+    "collocations": [
+      "from my perspective",
+      "a fresh perspective",
+      "put things in perspective"
+    ],
+    "related": [
+      "expect",
+      "aspect",
+      "retrospective",
+      "prospect"
+    ],
+    "tip": "from my perspective 는 의견을 부드럽게 꺼낼 때 쓰는 만능 표현"
+  },
+  {
+    "id": "d01-A07",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "suspicious",
+    "pos": "adjective",
+    "ipa": "/səˈspɪʃəs/",
+    "meaning_ko": "의심스러운, 수상한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "su",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "spic",
+          "type": "root",
+          "gloss": "보다 (spect)"
+        },
+        {
+          "text": "ious",
+          "type": "suffix",
+          "gloss": "~한 성질의"
+        }
+      ],
+      "story": "몰래 올려다보는 → 의심하는 → 수상한"
+    },
+    "example": {
+      "q": "Have you dealt with any security issues?",
+      "a": "I noticed suspicious login attempts from one IP, so I blocked it and alerted the security team.",
+      "a_ko": "한 IP에서 수상한 로그인 시도가 있는 걸 발견하고 차단한 뒤 보안팀에 알렸습니다."
+    },
+    "collocations": [
+      "suspicious activity",
+      "suspicious login",
+      "be suspicious of"
+    ],
+    "related": [
+      "suspect",
+      "conspicuous",
+      "auspicious"
+    ],
+    "tip": "suspicious activity 는 보안 경험을 말할 때 자주 나오는 표현"
+  },
+  {
+    "id": "d01-A08",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "spectator",
+    "pos": "noun",
+    "ipa": "/ˈspekteɪtər/",
+    "meaning_ko": "구경꾼, 방관자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spect",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "ator",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "지켜보는 사람 → 구경꾼 → (참여하지 않는) 방관자"
+    },
+    "example": {
+      "q": "How do you usually behave in meetings?",
+      "a": "I don't like being a spectator in meetings, so I always come with at least one idea.",
+      "a_ko": "회의에서 구경만 하는 건 싫어서, 항상 아이디어를 하나 이상 준비해 갑니다."
+    },
+    "collocations": [
+      "a passive spectator",
+      "not just a spectator",
+      "spectator sport"
+    ],
+    "related": [
+      "spectacular",
+      "spectrum",
+      "expect"
+    ],
+    "tip": "적극적인 성격을 말할 때 ‘방관자가 아니다’라는 반대 표현으로 활용"
+  },
+  {
+    "id": "d01-A09",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "spectacular",
+    "pos": "adjective",
+    "ipa": "/spekˈtækjələr/",
+    "meaning_ko": "눈부신, 극적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spect",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "acul",
+          "type": "suffix",
+          "gloss": "~하는 것 (구경거리)"
+        },
+        {
+          "text": "ar",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "보는 것 → 구경거리(spectacle) → 구경거리 같은 → 눈부신"
+    },
+    "example": {
+      "q": "What is your proudest achievement?",
+      "a": "It wasn't spectacular, but cutting our build time in half made every developer's day easier.",
+      "a_ko": "화려한 일은 아니었지만, 빌드 시간을 절반으로 줄여서 모든 개발자의 일이 편해졌습니다."
+    },
+    "collocations": [
+      "spectacular results",
+      "nothing spectacular",
+      "a spectacular failure"
+    ],
+    "related": [
+      "spectator",
+      "spectrum",
+      "perspective"
+    ],
+    "tip": "겸손하게 성과를 말할 때 It wasn't spectacular, but ~ 패턴이 자연스러움"
+  },
+  {
+    "id": "d01-A10",
+    "day": 1,
+    "level": 3,
+    "set": "A",
+    "family": "F1",
+    "word": "conspicuous",
+    "pos": "adjective",
+    "ipa": "/kənˈspɪkjuəs/",
+    "meaning_ko": "눈에 잘 띄는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "spic",
+          "type": "root",
+          "gloss": "보다 (spect)"
+        },
+        {
+          "text": "uous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "완전히 다 보이는 → 눈에 확 띄는"
+    },
+    "example": {
+      "q": "How did you improve the user experience?",
+      "a": "Users kept missing the error messages, so I made them more conspicuous, and support tickets dropped by about thirty percent.",
+      "a_ko": "사용자들이 오류 메시지를 계속 놓쳐서 더 눈에 띄게 바꿨더니, 문의 티켓이 약 30% 줄었습니다."
+    },
+    "collocations": [
+      "make it conspicuous",
+      "conspicuous by its absence"
+    ],
+    "related": [
+      "suspicious",
+      "auspicious",
+      "spectator"
+    ],
+    "tip": "visible 보다 강한 ‘확 눈에 띄는’. conspicuous by its absence(없어서 오히려 눈에 띄는)는 관용구"
+  },
+  {
+    "id": "d01-A11",
+    "day": 1,
+    "level": 3,
+    "set": "A",
+    "family": "F1",
+    "word": "auspicious",
+    "pos": "adjective",
+    "ipa": "/ɔːˈspɪʃəs/",
+    "meaning_ko": "순조로운, 상서로운",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "au",
+          "type": "root",
+          "gloss": "새 (avis)"
+        },
+        {
+          "text": "spic",
+          "type": "root",
+          "gloss": "보다 (spect)"
+        },
+        {
+          "text": "ious",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "새가 나는 모습을 보고 점치다(auspex) → 좋은 징조의 → 순조로운"
+    },
+    "example": {
+      "q": "Tell me about a mistake you made early in your career.",
+      "a": "My first week wasn't the most auspicious start: I broke the staging build, but I learned to run tests locally before every push.",
+      "a_ko": "첫 주는 순탄한 출발이 아니었습니다. 스테이징 빌드를 깨뜨렸지만, 덕분에 푸시 전에 항상 로컬 테스트를 돌리는 습관이 생겼습니다."
+    },
+    "collocations": [
+      "an auspicious start",
+      "an auspicious beginning"
+    ],
+    "related": [
+      "conspicuous",
+      "suspicious",
+      "spectacular"
+    ],
+    "tip": "not the most auspicious start 처럼 부정형으로 실수담을 가볍게 꺼낼 때 잘 어울림"
+  },
+  {
+    "id": "d01-A12",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "special",
+    "pos": "adjective",
+    "ipa": "/ˈspeʃəl/",
+    "meaning_ko": "특별한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "보다 → 모습·종류 (species)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "보이는 모습(species) → 종류 → 특정 종류의 → 특별한"
+    },
+    "example": {
+      "q": "Is there anything special about your background?",
+      "a": "What's special about my background is that I studied design before coding.",
+      "a_ko": "제 이력에서 특별한 점은 코딩 전에 디자인을 공부했다는 것입니다."
+    },
+    "collocations": [
+      "something special",
+      "special attention",
+      "nothing special"
+    ],
+    "related": [
+      "specialize",
+      "especially",
+      "specific",
+      "spectrum"
+    ],
+    "tip": "경험을 소개할 때 What's special about ~ is ... 구문이 유용"
+  },
+  {
+    "id": "d01-A13",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "specialize",
+    "pos": "verb",
+    "ipa": "/ˈspeʃəlaɪz/",
+    "meaning_ko": "전문으로 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "종류 (species)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "특별한(special) 것으로 만들다 → 한 분야를 전문으로 하다"
+    },
+    "example": {
+      "q": "What is your area of expertise?",
+      "a": "I specialize in backend development, especially payment systems.",
+      "a_ko": "백엔드 개발, 특히 결제 시스템을 전문으로 합니다."
+    },
+    "collocations": [
+      "specialize in",
+      "highly specialized"
+    ],
+    "related": [
+      "special",
+      "especially",
+      "specific"
+    ],
+    "tip": "specialize 뒤에는 in. 영국식 철자는 specialise"
+  },
+  {
+    "id": "d01-A14",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "especially",
+    "pos": "adverb",
+    "ipa": "/ɪˈspeʃəli/",
+    "meaning_ko": "특히",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "part",
+          "gloss": "(고대 프랑스어에서 붙은 앞소리)"
+        },
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "종류 (species)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "라틴어 specialis → 고대 프랑스어 especial(특별한) → 특별히 → 특히"
+    },
+    "example": {
+      "q": "What kind of work do you enjoy?",
+      "a": "I enjoy optimization work, especially when it makes the product feel faster.",
+      "a_ko": "최적화 작업을 좋아하는데, 특히 제품이 더 빠르게 느껴지게 만들 때 그렇습니다."
+    },
+    "collocations": [
+      "especially when",
+      "especially for",
+      "especially important"
+    ],
+    "related": [
+      "special",
+      "specialize",
+      "specific"
+    ],
+    "tip": "specially(특별히 ~용으로)와 구별 — ‘특히’는 especially"
+  },
+  {
+    "id": "d01-A15",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "specific",
+    "pos": "adjective",
+    "ipa": "/spəˈsɪfɪk/",
+    "meaning_ko": "구체적인, 특정한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "종류 (species)"
+        },
+        {
+          "text": "ific",
+          "type": "suffix",
+          "gloss": "~로 만드는 (fic)"
+        }
+      ],
+      "story": "종류(species)를 정하는 → 특정한 → 구체적인"
+    },
+    "example": {
+      "q": "Can you give me a specific example?",
+      "a": "Sure, let me give you a specific example from my last project.",
+      "a_ko": "네, 지난 프로젝트에서 있었던 구체적인 예를 말씀드리겠습니다."
+    },
+    "collocations": [
+      "a specific example",
+      "be more specific",
+      "specific to"
+    ],
+    "related": [
+      "specify",
+      "special",
+      "especially"
+    ],
+    "tip": "면접관이 Can you be more specific? 하면 숫자·사례로 답하라는 신호"
+  },
+  {
+    "id": "d01-A16",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "specify",
+    "pos": "verb",
+    "ipa": "/ˈspesɪfaɪ/",
+    "meaning_ko": "명시하다, 지정하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "종류 (species)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 하다 (fic)"
+        }
+      ],
+      "story": "종류를 정해 주다 → 하나하나 밝혀 적다 → 명시하다"
+    },
+    "example": {
+      "q": "How do you handle unclear requirements?",
+      "a": "I ask the product owner to specify the expected behavior, then I write it down as acceptance criteria.",
+      "a_ko": "제품 오너에게 기대 동작을 명시해 달라고 요청하고, 그것을 인수 조건으로 정리합니다."
+    },
+    "collocations": [
+      "specify requirements",
+      "unless otherwise specified",
+      "specify a version"
+    ],
+    "related": [
+      "specific",
+      "specification",
+      "special"
+    ],
+    "tip": "명사 specification(스펙)은 Day 11 단어 — 동사부터 먼저 익히기"
+  },
+  {
+    "id": "d01-A17",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "spectrum",
+    "pos": "noun",
+    "ipa": "/ˈspektrəm/",
+    "meaning_ko": "범위, 스펙트럼",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spec",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "trum",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "눈에 보이는 것(모습) → 빛이 나뉘어 보이는 띠 → 양 끝 사이의 넓은 범위"
+    },
+    "example": {
+      "q": "What kind of projects have you worked on?",
+      "a": "I've worked across a wide spectrum of projects, from mobile apps to data pipelines.",
+      "a_ko": "모바일 앱부터 데이터 파이프라인까지 폭넓은 범위의 프로젝트를 해 왔습니다."
+    },
+    "collocations": [
+      "a wide spectrum of",
+      "across the spectrum",
+      "on the other end of the spectrum"
+    ],
+    "related": [
+      "spectator",
+      "spectacular",
+      "special"
+    ],
+    "tip": "range 보다 ‘양 끝 사이의 모든 것’ 느낌. a wide spectrum of + 복수 명사"
+  },
+  {
+    "id": "d01-A18",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "speculate",
+    "pos": "verb",
+    "ipa": "/ˈspekjəleɪt/",
+    "meaning_ko": "추측하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "specul",
+          "type": "root",
+          "gloss": "망대에서 살피다 (specula ← spec)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "망대(specula)에서 살펴보다 → 이리저리 따져 보다 → (근거 없이) 추측하다"
+    },
+    "example": {
+      "q": "Why do you think the project failed?",
+      "a": "I don't want to speculate too much, but I think the requirements kept changing without clear priorities.",
+      "a_ko": "너무 추측하고 싶지는 않지만, 명확한 우선순위 없이 요구 사항이 계속 바뀐 게 원인이었다고 생각합니다."
+    },
+    "collocations": [
+      "speculate about",
+      "I don't want to speculate",
+      "speculate on"
+    ],
+    "related": [
+      "speculation",
+      "spectator",
+      "spectrum"
+    ],
+    "tip": "단정하기 조심스러울 때 I don't want to speculate, but ~ 로 쿠션을 넣음"
+  },
+  {
+    "id": "d01-A19",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "speculation",
+    "pos": "noun",
+    "ipa": "/ˌspekjəˈleɪʃən/",
+    "meaning_ko": "추측, 짐작",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "specul",
+          "type": "root",
+          "gloss": "망대에서 살피다 (specula ← spec)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "망대에서 살펴봄 → 이리저리 따져 봄 → 추측"
+    },
+    "example": {
+      "q": "How do you handle a production incident?",
+      "a": "During incidents, I avoid speculation and stick to what the logs and metrics actually show.",
+      "a_ko": "장애 때는 추측을 피하고, 로그와 지표가 실제로 보여 주는 것에 집중합니다."
+    },
+    "collocations": [
+      "pure speculation",
+      "avoid speculation",
+      "based on speculation"
+    ],
+    "related": [
+      "speculate",
+      "spectrum",
+      "perspective"
+    ],
+    "tip": "장애 대응 답변에서 ‘추측 대신 데이터’라는 태도를 보여 줄 때"
+  },
+  {
+    "id": "d01-A20",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "visual",
+    "pos": "adjective",
+    "ipa": "/ˈvɪʒuəl/",
+    "meaning_ko": "시각적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "ual",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "보는 것의 → 시각적인"
+    },
+    "example": {
+      "q": "How do you explain technical ideas to non-engineers?",
+      "a": "I use visual diagrams so everyone can follow the idea quickly.",
+      "a_ko": "누구나 빨리 이해할 수 있게 시각적인 다이어그램을 씁니다."
+    },
+    "collocations": [
+      "visual design",
+      "visual regression test",
+      "visual aid"
+    ],
+    "related": [
+      "visualize",
+      "visibility",
+      "vision",
+      "video"
+    ],
+    "tip": "발음은 /ˈvɪʒuəl/ — ‘비주얼’보다 ‘비쥬얼’에 가까움"
+  },
+  {
+    "id": "d01-A21",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "video",
+    "pos": "noun",
+    "ipa": "/ˈvɪdioʊ/",
+    "meaning_ko": "동영상, 비디오",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vid",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "eo",
+          "type": "suffix",
+          "gloss": "나는 ~한다 (라틴어 1인칭)"
+        }
+      ],
+      "story": "라틴어 video ‘나는 본다’ → 화면으로 보는 것 → 동영상"
+    },
+    "example": {
+      "q": "What product did you work on before?",
+      "a": "I worked on a video streaming service with about two million users.",
+      "a_ko": "약 200만 명이 쓰는 동영상 스트리밍 서비스를 개발했습니다."
+    },
+    "collocations": [
+      "video streaming",
+      "video call",
+      "video encoding"
+    ],
+    "related": [
+      "vision",
+      "visual",
+      "evident",
+      "provide"
+    ],
+    "tip": "라틴어 동사 그대로 ‘나는 본다’ — audio(나는 듣는다)와 짝"
+  },
+  {
+    "id": "d01-A22",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "visualize",
+    "pos": "verb",
+    "ipa": "/ˈvɪʒuəlaɪz/",
+    "meaning_ko": "시각화하다, 머릿속에 그리다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "ual",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "시각적으로(visual) 만들다 → 데이터를 그림으로 보여 주다"
+    },
+    "example": {
+      "q": "How do you monitor your services?",
+      "a": "I visualize key metrics on a dashboard, so the team can spot problems at a glance.",
+      "a_ko": "핵심 지표를 대시보드에 시각화해서 팀이 문제를 한눈에 알아챌 수 있게 합니다."
+    },
+    "collocations": [
+      "visualize data",
+      "visualize the flow",
+      "help visualize"
+    ],
+    "related": [
+      "visual",
+      "vision",
+      "visibility"
+    ],
+    "tip": "‘머릿속에 그려 보다’라는 뜻도 있음 (I can visualize the final product)"
+  },
+  {
+    "id": "d01-A23",
+    "day": 1,
+    "level": 2,
+    "set": "A",
+    "family": "F1",
+    "word": "visibility",
+    "pos": "noun",
+    "ipa": "/ˌvɪzəˈbɪləti/",
+    "meaning_ko": "가시성, (상황이) 잘 보이는 정도",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "ibil",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성 (명사)"
+        }
+      ],
+      "story": "볼 수 있음 → 가시성 → 진행 상황·시스템 상태가 잘 보이게 함"
+    },
+    "example": {
+      "q": "How do you keep stakeholders informed?",
+      "a": "I share a weekly status update, which gives managers better visibility into our progress and risks.",
+      "a_ko": "매주 진행 상황을 공유해서 관리자들이 진척과 리스크를 더 잘 볼 수 있게 합니다."
+    },
+    "collocations": [
+      "visibility into",
+      "give visibility",
+      "improve visibility"
+    ],
+    "related": [
+      "visible",
+      "vision",
+      "visual",
+      "evident"
+    ],
+    "tip": "‘~가 잘 보이게 함’은 visibility into ~. 모니터링·보고 이야기에 자주 씀"
+  },
+  {
+    "id": "d01-A24",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "background",
+    "pos": "noun",
+    "ipa": "/ˈbækɡraʊnd/",
+    "meaning_ko": "배경, 경력",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "back",
+          "type": "part",
+          "gloss": "뒤"
+        },
+        {
+          "text": "ground",
+          "type": "part",
+          "gloss": "땅, 바탕"
+        }
+      ],
+      "story": "그림 뒤쪽의 바탕 → 사람 뒤에 깔린 경험 → 학력·경력"
+    },
+    "example": {
+      "q": "Can you tell me about your background?",
+      "a": "I have a background in computer science and five years of web development.",
+      "a_ko": "컴퓨터공학을 전공했고 웹 개발 경력이 5년 있습니다."
+    },
+    "collocations": [
+      "a background in",
+      "educational background",
+      "background check"
+    ],
+    "related": [
+      "foreground",
+      "groundwork",
+      "background job"
+    ],
+    "tip": "자기소개 첫 문장 단골: I have a background in ~"
+  },
+  {
+    "id": "d01-A25",
+    "day": 1,
+    "level": 1,
+    "set": "A",
+    "family": "F1",
+    "word": "full-stack",
+    "pos": "adjective",
+    "ipa": "/ˌfʊlˈstæk/",
+    "meaning_ko": "풀스택의 (프론트·백엔드를 모두 다루는)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "full-",
+          "type": "part",
+          "gloss": "전부"
+        },
+        {
+          "text": "stack",
+          "type": "part",
+          "gloss": "쌓은 더미 (기술 계층)"
+        }
+      ],
+      "story": "쌓아 올린 기술 계층 전부 → 화면부터 서버·DB까지 다 다루는"
+    },
+    "example": {
+      "q": "What kind of developer are you?",
+      "a": "I'm a full-stack developer, but my real strength is the backend.",
+      "a_ko": "풀스택 개발자이지만, 진짜 강점은 백엔드입니다."
+    },
+    "collocations": [
+      "full-stack developer",
+      "full-stack experience",
+      "full-stack role"
+    ],
+    "related": [
+      "tech stack",
+      "call stack",
+      "stack trace"
+    ],
+    "tip": "명사 앞에서는 하이픈(full-stack developer). stack 은 고대 노르드어에서 온 게르만계 단어"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "d06-D01",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "terrific",
+  "pos": "adjective",
+  "ipa": "/təˈrɪfɪk/",
+  "meaning_ko": "아주 훌륭한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "terri",
+     "type": "root",
+     "gloss": "겁주다 (terrere)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "라틴어 terrificus '겁나게(terrere) 만드는(fac)' → 무시무시한 → (구어) 엄청난 → 아주 훌륭한"
+  },
+  "example": {
+   "q": "Tell me about someone who influenced your career.",
+   "a": "I had a terrific mentor who taught me how to write clean code.",
+   "a_ko": "깔끔한 코드를 쓰는 법을 가르쳐 준 훌륭한 멘토가 있었습니다."
+  },
+  "collocations": [
+   "terrific job",
+   "terrific opportunity",
+   "sounds terrific"
+  ],
+  "related": [
+   "terrible",
+   "sacrifice",
+   "significant"
+  ],
+  "tip": "terrible(끔찍한)과 뿌리는 같지만 뜻은 정반대로 '아주 좋은'"
+ },
+ {
+  "id": "d06-D02",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "fashion",
+  "pos": "noun",
+  "ipa": "/ˈfæʃn/",
+  "meaning_ko": "방식, 유행",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fash",
+     "type": "root",
+     "gloss": "만들다 (fac → factio)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "라틴어 factio '만드는 일' → 고대 프랑스어 façon '만드는 방식' → 방식 → 유행"
+  },
+  "example": {
+   "q": "How do you handle tight deadlines?",
+   "a": "I break the work into small pieces and deliver them in a timely fashion.",
+   "a_ko": "일을 작게 나눠서 제때 하나씩 전달합니다."
+  },
+  "collocations": [
+   "in a timely fashion",
+   "in a similar fashion",
+   "old-fashioned"
+  ],
+  "related": [
+   "fact",
+   "feature",
+   "manufacturing"
+  ],
+  "tip": "패션(유행)만이 아니라 'in a … fashion'(~한 방식으로)로 자주 씀"
+ },
+ {
+  "id": "d06-D03",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "identify",
+  "pos": "verb",
+  "ipa": "/aɪˈdentɪfaɪ/",
+  "meaning_ko": "찾아내다, 파악하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "identi",
+     "type": "root",
+     "gloss": "같은 (idem)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "중세 라틴어 identificare '같은 것(idem)으로 만들다' → 무엇인지 알아보다 → 찾아내다"
+  },
+  "example": {
+   "q": "Walk me through how you debug an issue.",
+   "a": "First, I identify the root cause by checking the logs and recent changes.",
+   "a_ko": "먼저 로그와 최근 변경 사항을 확인해서 근본 원인을 찾아냅니다."
+  },
+  "collocations": [
+   "identify the root cause",
+   "identify risks",
+   "identify with"
+  ],
+  "related": [
+   "identity",
+   "verify",
+   "classify"
+  ],
+  "tip": "find보다 '정확히 짚어 낸다'는 느낌 — 문제 해결 답변의 첫 단계"
+ },
+ {
+  "id": "d06-D04",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "qualification",
+  "pos": "noun",
+  "ipa": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+  "meaning_ko": "자격, 자격 요건",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "quali",
+     "type": "root",
+     "gloss": "어떠한 (qualis)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "중세 라틴어 qualificare '어떠한(qualis) 성질을 갖추게 만들다' → 일에 맞는 성질을 갖춤 → 자격"
+  },
+  "example": {
+   "q": "Why do you think you're a good fit for this role?",
+   "a": "I meet all the listed qualifications, and I've also led a team of four.",
+   "a_ko": "공고에 적힌 자격 요건을 모두 갖췄고, 4명 규모 팀을 이끈 경험도 있습니다."
+  },
+  "collocations": [
+   "meet the qualifications",
+   "required qualifications",
+   "preferred qualifications"
+  ],
+  "related": [
+   "qualify",
+   "quality",
+   "certification"
+  ],
+  "tip": "채용 공고의 'Qualifications'(자격 요건) 항목 — required/preferred 구분"
+ },
+ {
+  "id": "d06-D05",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "certification",
+  "pos": "noun",
+  "ipa": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+  "meaning_ko": "자격증, 인증",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "certi",
+     "type": "root",
+     "gloss": "확실한 (certus)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "확실하게(certus) 만듦 → 공식적으로 확인해 줌 → 인증, 자격증"
+  },
+  "example": {
+   "q": "How do you keep your skills up to date?",
+   "a": "I recently earned the AWS Solutions Architect certification.",
+   "a_ko": "최근에 AWS 솔루션스 아키텍트 자격증을 취득했습니다."
+  },
+  "collocations": [
+   "earn a certification",
+   "AWS certification",
+   "certification exam"
+  ],
+  "related": [
+   "certificate",
+   "certain",
+   "qualification"
+  ],
+  "tip": "earn/get a certification — license는 법적 면허일 때"
+ },
+ {
+  "id": "d06-D06",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "amplify",
+  "pos": "verb",
+  "ipa": "/ˈæmplɪfaɪ/",
+  "meaning_ko": "키우다, 증폭하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ampli",
+     "type": "root",
+     "gloss": "넓은·큰 (amplus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "크게(amplus) 만들다 → 증폭하다 → (영향력·목소리를) 키우다"
+  },
+  "example": {
+   "q": "How do you support your teammates?",
+   "a": "I try to amplify my teammates' work by sharing their wins in our weekly updates.",
+   "a_ko": "주간 공유 때 팀원들의 성과를 알려서 그들의 일이 더 잘 드러나도록 합니다."
+  },
+  "collocations": [
+   "amplify impact",
+   "amplify voices",
+   "amplify a signal"
+  ],
+  "related": [
+   "clarify",
+   "diversify",
+   "amplifier"
+  ],
+  "tip": "'amplify others' voices'(다른 사람의 목소리를 키우다)는 포용적 리더십 표현"
+ },
+ {
+  "id": "d06-D07",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "diversify",
+  "pos": "verb",
+  "ipa": "/daɪˈvɜːrsɪfaɪ/",
+  "meaning_ko": "다양화하다, 넓히다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "diversi",
+     "type": "root",
+     "gloss": "다양한 (diversus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "다양하게(diversus) 만들다 → 다양화하다 → (경험·역량을) 넓히다"
+  },
+  "example": {
+   "q": "Why are you looking for a new role?",
+   "a": "I've worked only on backend systems for five years, so I want to diversify my skills with cloud and data work.",
+   "a_ko": "5년 동안 백엔드만 해 와서 클라우드와 데이터 쪽으로 역량을 넓히고 싶습니다."
+  },
+  "collocations": [
+   "diversify my skills",
+   "diversify experience",
+   "diversify risk"
+  ],
+  "related": [
+   "diverse",
+   "unify",
+   "amplify"
+  ],
+  "tip": "diverse(다양한)의 동사형 — 이직 사유를 긍정적으로 말할 때"
+ },
+ {
+  "id": "d06-D08",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "structure",
+  "pos": "noun",
+  "ipa": "/ˈstrʌktʃər/",
+  "meaning_ko": "구조",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "라틴어 struere '쌓아 올리다' → 쌓아 올린 것 → 짜임새 → 구조"
+  },
+  "example": {
+   "q": "How do you organize a large project?",
+   "a": "I agree on a clear folder structure with the team before we start coding.",
+   "a_ko": "코딩을 시작하기 전에 팀과 명확한 폴더 구조를 정합니다."
+  },
+  "collocations": [
+   "data structure",
+   "team structure",
+   "code structure"
+  ],
+  "related": [
+   "infrastructure",
+   "construct",
+   "instruction"
+  ],
+  "tip": "답변 자체도 structure가 중요 — STAR 같은 'structured answer'"
+ },
+ {
+  "id": "d06-D09",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "instruction",
+  "pos": "noun",
+  "ipa": "/ɪnˈstrʌkʃn/",
+  "meaning_ko": "지시, 안내",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "라틴어 instruere '안에 쌓아 갖추다, 가르치다' → 가르침 → 지시, 사용 안내"
+  },
+  "example": {
+   "q": "How do you onboard new team members?",
+   "a": "I write clear setup instructions so new members can run the app on day one.",
+   "a_ko": "신규 팀원이 첫날부터 앱을 실행할 수 있도록 명확한 설치 안내를 써 둡니다."
+  },
+  "collocations": [
+   "follow instructions",
+   "step-by-step instructions",
+   "clear instructions"
+  ],
+  "related": [
+   "structure",
+   "instrumental",
+   "construct"
+  ],
+  "tip": "보통 복수 instructions — CPU의 '명령어'도 instruction"
+ },
+ {
+  "id": "d06-D10",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "construct",
+  "pos": "verb",
+  "ipa": "/kənˈstrʌkt/",
+  "meaning_ko": "구성하다, 만들다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    }
+   ],
+   "story": "함께(com) 쌓아 올리다(struere) → 짜 맞춰 만들다 → 구성하다"
+  },
+  "example": {
+   "q": "How did you find the cause of the slow page?",
+   "a": "Our ORM constructs SQL queries at runtime, so I added logging to see exactly what hits the database.",
+   "a_ko": "ORM이 실행 중에 SQL 쿼리를 만들어 내서, 실제로 DB에 어떤 쿼리가 가는지 보려고 로그를 추가했습니다."
+  },
+  "collocations": [
+   "construct a query",
+   "construct an object",
+   "language construct"
+  ],
+  "related": [
+   "constructive",
+   "structure",
+   "construe",
+   "instruction"
+  ],
+  "tip": "동사는 /kənˈstrʌkt/, 명사(구성 개념)는 /ˈkɑːnstrʌkt/ — 강세 위치가 바뀜"
+ },
+ {
+  "id": "d06-D11",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "constructive",
+  "pos": "adjective",
+  "ipa": "/kənˈstrʌktɪv/",
+  "meaning_ko": "건설적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "함께 쌓아 올리는 → 허물지 않고 세워 주는 → 건설적인"
+  },
+  "example": {
+   "q": "How do you handle criticism?",
+   "a": "I welcome constructive feedback, because it shows me blind spots I can't see myself.",
+   "a_ko": "건설적인 피드백은 환영합니다. 제가 스스로 볼 수 없는 맹점을 알려 주기 때문입니다."
+  },
+  "collocations": [
+   "constructive feedback",
+   "constructive criticism",
+   "constructive discussion"
+  ],
+  "related": [
+   "construct",
+   "destructive",
+   "structure"
+  ],
+  "tip": "'constructive feedback'을 통째로 — 피드백 질문의 필수 표현"
+ },
+ {
+  "id": "d06-D12",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "destructive",
+  "pos": "adjective",
+  "ipa": "/dɪˈstrʌktɪv/",
+  "meaning_ko": "파괴적인, (되돌릴 수 없게) 지우는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "반대로, 허물어"
+    },
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 destruere '쌓은 것을 허물다' → 파괴하는 → 되돌릴 수 없게 지우는"
+  },
+  "example": {
+   "q": "How do you prevent mistakes in production?",
+   "a": "On my team, any destructive command, like dropping a table, needs a second reviewer before it runs in production.",
+   "a_ko": "저희 팀에서는 테이블 삭제처럼 되돌릴 수 없는 명령은 운영 환경에서 실행하기 전에 반드시 다른 사람이 한 번 더 확인합니다."
+  },
+  "collocations": [
+   "destructive operation",
+   "destructive change",
+   "non-destructive"
+  ],
+  "related": [
+   "constructive",
+   "structure",
+   "instruction"
+  ],
+  "tip": "IT에선 '파괴적'보다 '데이터를 지우는·되돌릴 수 없는' 작업을 가리킴"
+ },
+ {
+  "id": "d06-D13",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "infrastructure",
+  "pos": "noun",
+  "ipa": "/ˈɪnfrəstrʌktʃər/",
+  "meaning_ko": "인프라, 기반 시설",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "infra",
+     "type": "prefix",
+     "gloss": "아래"
+    },
+    {
+     "text": "struct",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "아래에(infra) 쌓아 놓은(struct) 것 → 밑바탕 구조 → 기반 시설 → 서버·네트워크 같은 IT 기반"
+  },
+  "example": {
+   "q": "What's your experience with the cloud?",
+   "a": "I manage our AWS infrastructure with Terraform, so every change is reviewed and version-controlled.",
+   "a_ko": "AWS 인프라를 Terraform으로 관리해서 모든 변경이 리뷰를 거치고 버전 관리됩니다."
+  },
+  "collocations": [
+   "cloud infrastructure",
+   "infrastructure as code",
+   "infrastructure team"
+  ],
+  "related": [
+   "structure",
+   "construct",
+   "instruction"
+  ],
+  "tip": "IaC = infrastructure as code. 줄여서 'infra'라고도 함"
+ },
+ {
+  "id": "d06-D14",
+  "day": 6,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "instrumental",
+  "pos": "adjective",
+  "ipa": "/ˌɪnstrəˈmentl/",
+  "meaning_ko": "중요한 역할을 한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "stru",
+     "type": "root",
+     "gloss": "쌓다 (struere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 수단"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 instrumentum '갖춰 놓은 도구'(instruere) → 도구가 되는 → 일을 이루는 데 중요한 역할을 한"
+  },
+  "example": {
+   "q": "What was your role in the migration?",
+   "a": "I was instrumental in moving our monolith to microservices; I designed the rollout plan and mentored two engineers through it.",
+   "a_ko": "모놀리스를 마이크로서비스로 옮기는 데 핵심 역할을 했습니다. 단계적 전환 계획을 짜고 엔지니어 두 명을 이끌어 주었습니다."
+  },
+  "collocations": [
+   "be instrumental in",
+   "instrumental role",
+   "instrumental to"
+  ],
+  "related": [
+   "instruction",
+   "structure",
+   "construct"
+  ],
+  "tip": "'be instrumental in -ing' — 공을 과장하지 않으면서 기여를 강조"
+ },
+ {
+  "id": "d06-D15",
+  "day": 6,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "construe",
+  "pos": "verb",
+  "ipa": "/kənˈstruː/",
+  "meaning_ko": "해석하다, (~로) 받아들이다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "strue",
+     "type": "root",
+     "gloss": "쌓다 (struct)"
+    }
+   ],
+   "story": "라틴어 construere '짜 맞추다' → 문장 성분을 짜 맞춰 읽다 → 뜻을 해석하다"
+  },
+  "example": {
+   "q": "How do you give critical feedback in writing?",
+   "a": "I'm careful with written feedback, because short comments can easily be construed as harsh, so I add context and suggestions.",
+   "a_ko": "글로 하는 피드백은 조심합니다. 짧은 코멘트는 쉽게 가혹하게 받아들여질 수 있어서, 맥락과 제안을 덧붙입니다."
+  },
+  "collocations": [
+   "be construed as",
+   "misconstrue",
+   "construe narrowly"
+  ],
+  "related": [
+   "construct",
+   "structure",
+   "instruction"
+  ],
+  "tip": "주로 수동태 'be construed as ~'(~로 받아들여지다) — misconstrue(오해하다)도 같이"
+ },
+ {
+  "id": "d06-D16",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "engine",
+  "pos": "noun",
+  "ipa": "/ˈendʒɪn/",
+  "meaning_ko": "엔진, 핵심 처리 장치",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안에 (in)"
+    },
+    {
+     "text": "gine",
+     "type": "root",
+     "gloss": "타고난 (gen 낳다)"
+    }
+   ],
+   "story": "라틴어 ingenium '타고난 재주' → 재주로 만든 장치 → 기계 → 엔진, 핵심 처리부"
+  },
+  "example": {
+   "q": "What was the hardest part of that system?",
+   "a": "The hardest part was the pricing engine, which handled thousands of rules.",
+   "a_ko": "가장 어려웠던 건 수천 개의 규칙을 처리하는 가격 계산 엔진이었습니다."
+  },
+  "collocations": [
+   "search engine",
+   "rules engine",
+   "game engine"
+  ],
+  "related": [
+   "engineer",
+   "ingenious",
+   "generate"
+  ],
+  "tip": "소프트웨어에서도 '핵심 처리부'를 engine이라고 부름"
+ },
+ {
+  "id": "d06-D17",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "engineer",
+  "pos": "noun",
+  "ipa": "/ˌendʒɪˈnɪr/",
+  "meaning_ko": "엔지니어, 기술자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안에 (in)"
+    },
+    {
+     "text": "gine",
+     "type": "root",
+     "gloss": "타고난 (gen 낳다)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "engine(기계 장치)을 만드는 사람 → 기술자 → 엔지니어"
+  },
+  "example": {
+   "q": "Tell me about yourself.",
+   "a": "I'm a backend engineer with five years of experience in fintech.",
+   "a_ko": "핀테크 분야에서 5년 경력을 가진 백엔드 엔지니어입니다."
+  },
+  "collocations": [
+   "software engineer",
+   "senior engineer",
+   "engineering team"
+  ],
+  "related": [
+   "engine",
+   "ingenious",
+   "engender"
+  ],
+  "tip": "강세는 끝 /-ˈnɪr/ — 한국식 '엔지니어'보다 뒤를 세게"
+ },
+ {
+  "id": "d06-D18",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "gentle",
+  "pos": "adjective",
+  "ipa": "/ˈdʒentl/",
+  "meaning_ko": "부드러운, 온화한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gent",
+     "type": "root",
+     "gloss": "가문·태생 (gens ← gen 낳다)"
+    },
+    {
+     "text": "le",
+     "type": "suffix",
+     "gloss": "형용사 어미"
+    }
+   ],
+   "story": "라틴어 gentilis '같은 가문의' → 좋은 가문 출신의 → 점잖은 → 부드러운"
+  },
+  "example": {
+   "q": "How do you give feedback to junior developers?",
+   "a": "I give gentle but honest feedback, and I always explain the reason.",
+   "a_ko": "부드럽지만 솔직하게 피드백하고, 항상 이유를 설명합니다."
+  },
+  "collocations": [
+   "gentle reminder",
+   "gentle push",
+   "gentle approach"
+  ],
+  "related": [
+   "generous",
+   "general",
+   "engine"
+  ],
+  "tip": "메일의 'Just a gentle reminder'(가볍게 다시 알려 드립니다)도 자주 씀"
+ },
+ {
+  "id": "d06-D19",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "generous",
+  "pos": "adjective",
+  "ipa": "/ˈdʒenərəs/",
+  "meaning_ko": "너그러운, 아낌없는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gener",
+     "type": "root",
+     "gloss": "태생·종류 (genus)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 generosus '좋은 태생의' → 고귀한 → 마음이 넓은 → 아낌없이 베푸는"
+  },
+  "example": {
+   "q": "What kind of people do you like working with?",
+   "a": "I like working with people who are generous with their time and knowledge.",
+   "a_ko": "시간과 지식을 아낌없이 나누는 사람들과 일하는 게 좋습니다."
+  },
+  "collocations": [
+   "generous with",
+   "generous support",
+   "generous offer"
+  ],
+  "related": [
+   "generic",
+   "gentle",
+   "general"
+  ],
+  "tip": "'generous with + 시간/지식' — 돈 이야기에만 쓰는 말이 아님"
+ },
+ {
+  "id": "d06-D20",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "generic",
+  "pos": "adjective",
+  "ipa": "/dʒəˈnerɪk/",
+  "meaning_ko": "범용의, 일반적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gener",
+     "type": "root",
+     "gloss": "종류 (genus)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 genus '종류' → 한 종류 전체에 해당하는 → 특정하지 않은 → 범용의"
+  },
+  "example": {
+   "q": "How do you avoid duplicate code?",
+   "a": "I extracted the shared logic into a generic helper, so five services now use the same tested code.",
+   "a_ko": "공통 로직을 범용 헬퍼로 뽑아내서, 이제 다섯 개 서비스가 같은 검증된 코드를 씁니다."
+  },
+  "collocations": [
+   "generic type",
+   "generic solution",
+   "generic answer"
+  ],
+  "related": [
+   "general",
+   "generous",
+   "generate"
+  ],
+  "tip": "'a generic answer'(뻔한 답변)는 면접에서 피해야 할 것 — 구체적 사례로"
+ },
+ {
+  "id": "d06-D21",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "ingenious",
+  "pos": "adjective",
+  "ipa": "/ɪnˈdʒiːniəs/",
+  "meaning_ko": "기발한, 독창적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "geni",
+     "type": "root",
+     "gloss": "타고난 (gen 낳다)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 ingenium '타고난 재주' → ingeniosus '재주가 뛰어난' → 기발한"
+  },
+  "example": {
+   "q": "Tell me about a creative solution you saw or built.",
+   "a": "A teammate came up with an ingenious workaround that let us ship without waiting for the vendor's fix.",
+   "a_ko": "동료가 기발한 우회 방법을 생각해 내서 업체의 수정을 기다리지 않고 출시할 수 있었습니다."
+  },
+  "collocations": [
+   "ingenious solution",
+   "ingenious idea",
+   "ingenious way to"
+  ],
+  "related": [
+   "engine",
+   "engineer",
+   "genius"
+  ],
+  "tip": "ingenuous(순진한)와 철자 주의 — ingenious가 '기발한'"
+ },
+ {
+  "id": "d06-D22",
+  "day": 6,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "engender",
+  "pos": "verb",
+  "ipa": "/ɪnˈdʒendər/",
+  "meaning_ko": "(감정·분위기를) 불러일으키다, 쌓다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안에 (in)"
+    },
+    {
+     "text": "gender",
+     "type": "root",
+     "gloss": "낳다 (gen)"
+    }
+   ],
+   "story": "라틴어 ingenerare '안에 낳다, 심다' → 생기게 하다 → (신뢰·감정을) 불러일으키다"
+  },
+  "example": {
+   "q": "How do you build trust as a new team lead?",
+   "a": "I engender trust by being transparent about decisions, even unpopular ones, and by following through on what I promise.",
+   "a_ko": "인기 없는 결정이라도 투명하게 설명하고, 약속한 건 끝까지 지켜서 신뢰를 쌓습니다."
+  },
+  "collocations": [
+   "engender trust",
+   "engender loyalty",
+   "engender a sense of"
+  ],
+  "related": [
+   "generate",
+   "general",
+   "engine"
+  ],
+  "tip": "build trust의 격식체 — gender(성)와 같은 genus 뿌리지만 뜻은 '생기게 하다'"
+ },
+ {
+  "id": "d06-D23",
+  "day": 6,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "ship",
+  "pos": "verb",
+  "ipa": "/ʃɪp/",
+  "meaning_ko": "출시하다, 내보내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ship",
+     "type": "part",
+     "gloss": "배"
+    }
+   ],
+   "story": "배(ship) → 배로 실어 보내다 → 제품을 사용자에게 내보내다 → 출시하다"
+  },
+  "example": {
+   "q": "What did you achieve last quarter?",
+   "a": "Last quarter, my team shipped three major features on schedule.",
+   "a_ko": "지난 분기에 저희 팀은 큰 기능 세 개를 일정대로 출시했습니다."
+  },
+  "collocations": [
+   "ship a feature",
+   "ship to production",
+   "ship fast"
+  ],
+  "related": [
+   "release",
+   "rollout",
+   "build"
+  ],
+  "tip": "release보다 구어적인 개발자 말 — 'Ship it!'(내보내자!)"
+ },
+ {
+  "id": "d06-D24",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "pull request",
+  "pos": "noun",
+  "ipa": "/ˈpʊl rɪˌkwest/",
+  "meaning_ko": "풀 리퀘스트 (코드 병합 요청)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pull",
+     "type": "part",
+     "gloss": "끌다 (고대 영어 pullian)"
+    },
+    {
+     "text": "request",
+     "type": "part",
+     "gloss": "요청 (라틴어 re+quaerere 다시 구하다)"
+    }
+   ],
+   "story": "내 변경을 끌어가 달라는 요청 → 코드 리뷰·병합 요청"
+  },
+  "example": {
+   "q": "How does your team do code reviews?",
+   "a": "Every change goes through a pull request, and at least one teammate must approve it before merging.",
+   "a_ko": "모든 변경은 풀 리퀘스트를 거치고, 병합 전에 팀원 한 명 이상이 승인해야 합니다."
+  },
+  "collocations": [
+   "open a pull request",
+   "review a pull request"
+  ],
+  "related": [
+   "question",
+   "require",
+   "inquiry"
+  ],
+  "tip": "줄여서 PR. 'merge request(MR)' 라고 부르는 팀도 있음"
+ },
+ {
+  "id": "d06-D25",
+  "day": 6,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "edge case",
+  "pos": "noun",
+  "ipa": "/ˈedʒ keɪs/",
+  "meaning_ko": "예외적인 경우, 엣지 케이스",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "edge",
+     "type": "part",
+     "gloss": "가장자리"
+    },
+    {
+     "text": "case",
+     "type": "part",
+     "gloss": "경우"
+    }
+   ],
+   "story": "가장자리(edge)에 있는 경우(case) → 입력 범위의 끝에서 생기는 드문 상황"
+  },
+  "example": {
+   "q": "How do you write tests?",
+   "a": "Besides the happy path, I always test edge cases like empty input and very large files.",
+   "a_ko": "정상 경로뿐 아니라 빈 입력이나 아주 큰 파일 같은 엣지 케이스도 항상 테스트합니다."
+  },
+  "collocations": [
+   "handle edge cases",
+   "cover edge cases",
+   "corner case"
+  ],
+  "related": [
+   "bug",
+   "codebase",
+   "backlog"
+  ],
+  "tip": "corner case는 여러 조건이 겹친 더 드문 경우"
+ }
+]

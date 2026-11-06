@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "d01-C01",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "provide",
+    "pos": "verb",
+    "ipa": "/prəˈvaɪd/",
+    "meaning_ko": "제공하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "vide",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        }
+      ],
+      "story": "앞을 내다보다(providere) → 미리 대비하다 → 필요한 것을 마련해 주다"
+    },
+    "example": {
+      "q": "Why should we hire you?",
+      "a": "I can provide both strong backend skills and clear communication.",
+      "a_ko": "탄탄한 백엔드 역량과 명확한 소통 능력을 함께 제공할 수 있습니다."
+    },
+    "collocations": [
+      "provide support",
+      "provide feedback",
+      "provide A with B"
+    ],
+    "related": [
+      "provider",
+      "provision",
+      "prudent",
+      "evident"
+    ],
+    "tip": "provide A with B / provide B to A — 두 구문 다 익혀 두기"
+  },
+  {
+    "id": "d01-C02",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "provider",
+    "pos": "noun",
+    "ipa": "/prəˈvaɪdər/",
+    "meaning_ko": "제공업체, 공급자",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "vid",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 쪽"
+        }
+      ],
+      "story": "미리 내다보고 마련해 주는 쪽 → 공급자"
+    },
+    "example": {
+      "q": "Which cloud platforms have you used?",
+      "a": "I've used two cloud providers, AWS and GCP, in production.",
+      "a_ko": "운영 환경에서 AWS와 GCP 두 클라우드 제공업체를 써 봤습니다."
+    },
+    "collocations": [
+      "cloud provider",
+      "service provider",
+      "identity provider"
+    ],
+    "related": [
+      "provide",
+      "provision",
+      "supervisor"
+    ],
+    "tip": "SSO 이야기에서는 identity provider(IdP)로 자주 등장"
+  },
+  {
+    "id": "d01-C03",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "provision",
+    "pos": "verb",
+    "ipa": "/prəˈvɪʒən/",
+    "meaning_ko": "(서버·자원을) 프로비저닝하다, 준비하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것 (명사)"
+        }
+      ],
+      "story": "앞을 내다보고 마련함(provisio) → 필요한 자원을 미리 준비함 → 서버를 할당하다"
+    },
+    "example": {
+      "q": "How do you manage your infrastructure?",
+      "a": "We provision all our servers with Terraform, so every environment is reproducible.",
+      "a_ko": "모든 서버를 Terraform으로 프로비저닝해서 어떤 환경이든 똑같이 재현할 수 있습니다."
+    },
+    "collocations": [
+      "provision servers",
+      "provision resources",
+      "auto-provisioning"
+    ],
+    "related": [
+      "provide",
+      "provider",
+      "vision",
+      "revision"
+    ],
+    "tip": "일반 영어에서는 명사(조항·공급)로 많이 쓰지만, 인프라 이야기에서는 동사로 씀"
+  },
+  {
+    "id": "d01-C04",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "improvise",
+    "pos": "verb",
+    "ipa": "/ˈɪmprəvaɪz/",
+    "meaning_ko": "즉석에서 대처하다, 임기응변하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "아니다 (in)"
+        },
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "미리"
+        },
+        {
+          "text": "vise",
+          "type": "root",
+          "gloss": "보다 (vis)"
+        }
+      ],
+      "story": "미리 보지(준비하지) 못한(improvisus) → 준비 없이 즉석에서 해내다"
+    },
+    "example": {
+      "q": "Tell me about a time things didn't go as planned.",
+      "a": "Our demo server crashed right before the client meeting, so I had to improvise with screenshots and a local build.",
+      "a_ko": "고객 미팅 직전에 데모 서버가 죽어서, 스크린샷과 로컬 빌드로 즉석에서 대처해야 했습니다."
+    },
+    "collocations": [
+      "have to improvise",
+      "improvise a solution"
+    ],
+    "related": [
+      "provide",
+      "provision",
+      "revise"
+    ],
+    "tip": "계획대로 안 됐던 경험(STAR)에서 순발력을 보여 줄 때"
+  },
+  {
+    "id": "d01-C05",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "advise",
+    "pos": "verb",
+    "ipa": "/ədˈvaɪz/",
+    "meaning_ko": "조언하다, 권하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "vise",
+          "type": "root",
+          "gloss": "보다 (vis)"
+        }
+      ],
+      "story": "‘내가 보기에는’(ce m'est a vis) → 의견을 말하다 → 조언하다"
+    },
+    "example": {
+      "q": "How do you mentor junior developers?",
+      "a": "I advise them to write small pull requests and ask questions early.",
+      "a_ko": "작은 단위로 풀 리퀘스트를 만들고 일찍 질문하라고 조언합니다."
+    },
+    "collocations": [
+      "advise someone to do",
+      "strongly advise",
+      "advise against"
+    ],
+    "related": [
+      "advice",
+      "revise",
+      "supervise",
+      "vision"
+    ],
+    "tip": "동사 advise 는 [z] 발음, 명사 advice 는 [s] 발음"
+  },
+  {
+    "id": "d01-C06",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "advice",
+    "pos": "noun",
+    "ipa": "/ədˈvaɪs/",
+    "meaning_ko": "조언",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "vice",
+          "type": "root",
+          "gloss": "보다 (vis)"
+        }
+      ],
+      "story": "내가 보기에 ~하다 → 의견 → 조언"
+    },
+    "example": {
+      "q": "What's the best career advice you've received?",
+      "a": "The best advice I got was to understand the business before writing code.",
+      "a_ko": "제가 받은 최고의 조언은 코드를 쓰기 전에 비즈니스를 이해하라는 것이었습니다."
+    },
+    "collocations": [
+      "give advice",
+      "ask for advice",
+      "a piece of advice"
+    ],
+    "related": [
+      "advise",
+      "vision",
+      "provide"
+    ],
+    "tip": "셀 수 없는 명사 — an advice ✗, a piece of advice ○"
+  },
+  {
+    "id": "d01-C07",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "supervisor",
+    "pos": "noun",
+    "ipa": "/ˈsuːpərvaɪzər/",
+    "meaning_ko": "상사, 감독자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "super",
+          "type": "prefix",
+          "gloss": "위에서"
+        },
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "위에서 내려다보는 사람 → 감독자 → 상사"
+    },
+    "example": {
+      "q": "How would your supervisor describe you?",
+      "a": "My supervisor would describe me as reliable and calm under pressure.",
+      "a_ko": "상사는 저를 믿을 수 있고 압박 속에서도 침착한 사람이라고 말할 겁니다."
+    },
+    "collocations": [
+      "my direct supervisor",
+      "report to a supervisor"
+    ],
+    "related": [
+      "supervise",
+      "hypervisor",
+      "survey",
+      "overview"
+    ],
+    "tip": "‘직속 상사’는 direct supervisor 또는 manager"
+  },
+  {
+    "id": "d01-C08",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "supervise",
+    "pos": "verb",
+    "ipa": "/ˈsuːpərvaɪz/",
+    "meaning_ko": "감독하다, 지도하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "super",
+          "type": "prefix",
+          "gloss": "위에서"
+        },
+        {
+          "text": "vise",
+          "type": "root",
+          "gloss": "보다 (vis)"
+        }
+      ],
+      "story": "위에서 내려다보다(supervidere) → 감독하다 → (머신러닝) 정답을 주며 가르치다"
+    },
+    "example": {
+      "q": "Have you worked on any machine learning projects?",
+      "a": "Yes, I built a supervised model that classifies support tickets, using two years of labeled data.",
+      "a_ko": "네, 2년 치 라벨 데이터로 고객 문의 티켓을 분류하는 지도 학습 모델을 만들었습니다."
+    },
+    "collocations": [
+      "supervised learning",
+      "supervise a team",
+      "closely supervise"
+    ],
+    "related": [
+      "supervisor",
+      "hypervisor",
+      "survey",
+      "revise"
+    ],
+    "tip": "머신러닝의 supervised / unsupervised learning(지도·비지도 학습)에서 자주 만남"
+  },
+  {
+    "id": "d01-C09",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "hypervisor",
+    "pos": "noun",
+    "ipa": "/ˈhaɪpərvaɪzər/",
+    "meaning_ko": "하이퍼바이저 (가상 머신을 관리하는 소프트웨어)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hyper",
+          "type": "prefix",
+          "gloss": "그 위에 (그리스어)"
+        },
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "supervisor(옛날에 운영체제를 부르던 말)보다 한 단계 위(hyper)에서 지켜보는 것 → 여러 OS를 관리하는 소프트웨어"
+    },
+    "example": {
+      "q": "Do you have experience with virtualization?",
+      "a": "I managed VMware clusters for two years, so I'm comfortable troubleshooting hypervisor-level issues like memory overcommit.",
+      "a_ko": "2년간 VMware 클러스터를 운영해서, 메모리 오버커밋 같은 하이퍼바이저 수준의 문제 해결에 익숙합니다."
+    },
+    "collocations": [
+      "type 1 hypervisor",
+      "hypervisor layer"
+    ],
+    "related": [
+      "supervisor",
+      "supervise",
+      "vision"
+    ],
+    "tip": "super(위) 보다 더 위라는 뜻으로 그리스어 hyper 를 붙여 만든 단어"
+  },
+  {
+    "id": "d01-C10",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "visitor",
+    "pos": "noun",
+    "ipa": "/ˈvɪzɪtər/",
+    "meaning_ko": "방문자",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "보다 (vid)"
+        },
+        {
+          "text": "it",
+          "type": "suffix",
+          "gloss": "자주 ~하다 (반복)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "보러 가다(visitare) → 찾아오는 사람 → 사이트 방문자"
+    },
+    "example": {
+      "q": "How big was the service you worked on?",
+      "a": "Our website had about one million monthly visitors.",
+      "a_ko": "저희 웹사이트는 월 방문자가 약 100만 명이었습니다."
+    },
+    "collocations": [
+      "monthly visitors",
+      "unique visitors",
+      "first-time visitor"
+    ],
+    "related": [
+      "revisit",
+      "vision",
+      "review"
+    ],
+    "tip": "서비스 규모를 말할 때 숫자와 함께: monthly visitors / active users"
+  },
+  {
+    "id": "d01-C11",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "science",
+    "pos": "noun",
+    "ipa": "/ˈsaɪəns/",
+    "meaning_ko": "과학, 학문",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sci",
+          "type": "root",
+          "gloss": "알다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "아는 것(scientia) → 지식 → 체계적인 학문 → 과학"
+    },
+    "example": {
+      "q": "What did you study in college?",
+      "a": "I studied computer science, and I focused on databases.",
+      "a_ko": "컴퓨터공학을 전공했고, 데이터베이스를 중점적으로 공부했습니다."
+    },
+    "collocations": [
+      "computer science",
+      "data science",
+      "rocket science"
+    ],
+    "related": [
+      "scientist",
+      "conscience",
+      "conscientious",
+      "conscious"
+    ],
+    "tip": "It's not rocket science(그렇게 어렵지 않다)도 회화에서 자주 씀"
+  },
+  {
+    "id": "d01-C12",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "scientist",
+    "pos": "noun",
+    "ipa": "/ˈsaɪəntɪst/",
+    "meaning_ko": "과학자, (데이터) 사이언티스트",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sci",
+          "type": "root",
+          "gloss": "알다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "아는(학문하는) 사람 → 과학자"
+    },
+    "example": {
+      "q": "Who did you work with most closely?",
+      "a": "I worked closely with data scientists to put their models into production.",
+      "a_ko": "데이터 사이언티스트들과 긴밀히 협업해 그들의 모델을 운영 환경에 올렸습니다."
+    },
+    "collocations": [
+      "data scientist",
+      "research scientist"
+    ],
+    "related": [
+      "science",
+      "conscience",
+      "conscientious"
+    ],
+    "tip": "1834년에 science + -ist 로 새로 만든 단어"
+  },
+  {
+    "id": "d01-C13",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "conscience",
+    "pos": "noun",
+    "ipa": "/ˈkɑːnʃəns/",
+    "meaning_ko": "양심",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께·속속들이 (com)"
+        },
+        {
+          "text": "sci",
+          "type": "root",
+          "gloss": "알다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "속으로 함께 아는 것(conscientia) → 옳고 그름을 스스로 아는 마음 → 양심"
+    },
+    "example": {
+      "q": "Have you ever pushed back on a deadline?",
+      "a": "I couldn't in good conscience ship code with a known security bug, so I asked for two more days.",
+      "a_ko": "알려진 보안 버그가 있는 코드를 양심상 배포할 수 없어서, 이틀만 더 달라고 요청했습니다."
+    },
+    "collocations": [
+      "in good conscience",
+      "a clear conscience"
+    ],
+    "related": [
+      "conscientious",
+      "science",
+      "conscious"
+    ],
+    "tip": "in good conscience(양심상)는 부정문으로 ‘차마 ~할 수 없다’에 많이 씀"
+  },
+  {
+    "id": "d01-C14",
+    "day": 1,
+    "level": 3,
+    "set": "C",
+    "family": "F1",
+    "word": "conscientious",
+    "pos": "adjective",
+    "ipa": "/ˌkɑːnʃiˈenʃəs/",
+    "meaning_ko": "성실한, 꼼꼼한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께·속속들이 (com)"
+        },
+        {
+          "text": "sci",
+          "type": "root",
+          "gloss": "알다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        },
+        {
+          "text": "ious",
+          "type": "suffix",
+          "gloss": "~한 성질의"
+        }
+      ],
+      "story": "양심(conscience)을 따르는 → 맡은 일을 양심적으로 하는 → 성실하고 꼼꼼한"
+    },
+    "example": {
+      "q": "What are your greatest strengths?",
+      "a": "I'm conscientious about documentation: after every incident I wrote a clear postmortem, and new hires told me it helped them a lot.",
+      "a_ko": "문서화에 꼼꼼한 편입니다. 장애가 날 때마다 명확한 포스트모템을 썼고, 신입들이 큰 도움이 됐다고 말해 주었습니다."
+    },
+    "collocations": [
+      "conscientious about",
+      "a conscientious worker"
+    ],
+    "related": [
+      "conscience",
+      "science",
+      "conscious"
+    ],
+    "tip": "발음 주의 /ˌkɑːnʃiˈenʃəs/. 성격 질문에서 hard-working 보다 세련된 표현"
+  },
+  {
+    "id": "d01-C15",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "sentence",
+    "pos": "noun",
+    "ipa": "/ˈsentəns/",
+    "meaning_ko": "문장",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sent",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "느낀 것(sententia) → 의견 → 판결 → 한 생각을 담은 문장"
+    },
+    "example": {
+      "q": "Can you describe yourself in one sentence?",
+      "a": "In one sentence, I'm an engineer who loves turning messy problems into simple tools.",
+      "a_ko": "한 문장으로 말하면, 복잡한 문제를 단순한 도구로 바꾸는 걸 좋아하는 엔지니어입니다."
+    },
+    "collocations": [
+      "in one sentence",
+      "a single sentence"
+    ],
+    "related": [
+      "consent",
+      "sensor",
+      "sensitive",
+      "sentiment"
+    ],
+    "tip": "‘한마디로’ 정리를 요구받으면 In one sentence, ~ 로 시작"
+  },
+  {
+    "id": "d01-C16",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "sensor",
+    "pos": "noun",
+    "ipa": "/ˈsensər/",
+    "meaning_ko": "센서, 감지기",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sens",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "느끼는(감지하는) 장치 → 센서"
+    },
+    "example": {
+      "q": "What kind of data have you worked with?",
+      "a": "I built a pipeline that collects sensor data from factory machines.",
+      "a_ko": "공장 설비의 센서 데이터를 수집하는 파이프라인을 만들었습니다."
+    },
+    "collocations": [
+      "sensor data",
+      "temperature sensor",
+      "IoT sensor"
+    ],
+    "related": [
+      "sensitive",
+      "sensible",
+      "sense"
+    ],
+    "tip": "IoT·임베디드 경험을 말할 때 기본 단어"
+  },
+  {
+    "id": "d01-C17",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "sensitive",
+    "pos": "adjective",
+    "ipa": "/ˈsensətɪv/",
+    "meaning_ko": "민감한, (정보가) 기밀인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sens",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "itive",
+          "type": "suffix",
+          "gloss": "~하는 성질의"
+        }
+      ],
+      "story": "잘 느끼는 → 민감한 → 다루기 조심스러운 (민감 정보)"
+    },
+    "example": {
+      "q": "How do you handle personal data?",
+      "a": "We encrypt all sensitive data and never write it to the logs.",
+      "a_ko": "모든 민감한 데이터는 암호화하고 로그에는 절대 남기지 않습니다."
+    },
+    "collocations": [
+      "sensitive data",
+      "case-sensitive",
+      "time-sensitive"
+    ],
+    "related": [
+      "sensitivity",
+      "sensor",
+      "sensible",
+      "sense"
+    ],
+    "tip": "sensible(분별 있는)과 혼동 주의 — sensitive 는 ‘민감한’"
+  },
+  {
+    "id": "d01-C18",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "sensitivity",
+    "pos": "noun",
+    "ipa": "/ˌsensəˈtɪvəti/",
+    "meaning_ko": "세심함, 민감도",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sens",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "itiv",
+          "type": "suffix",
+          "gloss": "~하는 성질의"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성 (명사)"
+        }
+      ],
+      "story": "잘 느끼는 성질 → 남의 감정·상황을 헤아리는 세심함"
+    },
+    "example": {
+      "q": "How do you give critical feedback?",
+      "a": "I give feedback privately and with sensitivity, because people accept criticism better when they don't feel embarrassed.",
+      "a_ko": "피드백은 따로, 세심하게 전달합니다. 사람들은 창피함을 느끼지 않을 때 비판을 더 잘 받아들이기 때문입니다."
+    },
+    "collocations": [
+      "with sensitivity",
+      "cultural sensitivity",
+      "price sensitivity"
+    ],
+    "related": [
+      "sensitive",
+      "sensor",
+      "sensible"
+    ],
+    "tip": "IT 에서는 ‘민감도’(모델의 sensitivity 등)라는 뜻으로도 쓰임"
+  },
+  {
+    "id": "d01-C19",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "sensible",
+    "pos": "adjective",
+    "ipa": "/ˈsensəbəl/",
+    "meaning_ko": "합리적인, 분별 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sens",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "ible",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "느낄 수 있는(sensibilis) → 감각·판단력이 있는 → 분별 있는, 합리적인"
+    },
+    "example": {
+      "q": "How do you choose default settings for a new tool?",
+      "a": "I pick sensible defaults so most users never need to touch the configuration.",
+      "a_ko": "대부분의 사용자가 설정을 건드릴 필요가 없도록 합리적인 기본값을 정합니다."
+    },
+    "collocations": [
+      "sensible defaults",
+      "a sensible approach",
+      "make sensible decisions"
+    ],
+    "related": [
+      "sensitive",
+      "sensor",
+      "sense"
+    ],
+    "tip": "sensitive(민감한)와 헷갈리기 쉬움. sensible defaults 는 개발자가 자주 쓰는 표현"
+  },
+  {
+    "id": "d01-C20",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "consent",
+    "pos": "noun",
+    "ipa": "/kənˈsent/",
+    "meaning_ko": "동의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "sent",
+          "type": "root",
+          "gloss": "느끼다"
+        }
+      ],
+      "story": "함께 느끼다(consentire) → 같은 생각이다 → 동의"
+    },
+    "example": {
+      "q": "How did you handle privacy rules like GDPR?",
+      "a": "We added a consent screen and stopped collecting analytics data until users clearly agreed.",
+      "a_ko": "동의 화면을 추가하고, 사용자가 분명히 동의하기 전까지는 분석 데이터 수집을 멈췄습니다."
+    },
+    "collocations": [
+      "user consent",
+      "give consent",
+      "without consent"
+    ],
+    "related": [
+      "consensus",
+      "dissent",
+      "resent",
+      "sentence"
+    ],
+    "tip": "consensus(합의)와 혼동 주의 — consent 는 개인의 ‘허락·동의’"
+  },
+  {
+    "id": "d01-C21",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "resent",
+    "pos": "verb",
+    "ipa": "/rɪˈzent/",
+    "meaning_ko": "억울해하다, 언짢게 여기다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "강하게 (다시)"
+        },
+        {
+          "text": "sent",
+          "type": "root",
+          "gloss": "느끼다"
+        }
+      ],
+      "story": "강하게 다시 느끼다(ressentir) → 부당함을 곱씹다 → 억울해하다"
+    },
+    "example": {
+      "q": "How did you feel when you were assigned the legacy system?",
+      "a": "I didn't resent getting the legacy system; I saw it as a chance to learn how the business really worked.",
+      "a_ko": "레거시 시스템을 맡은 걸 억울해하지 않았습니다. 비즈니스가 실제로 어떻게 돌아가는지 배울 기회로 봤습니다."
+    },
+    "collocations": [
+      "resent being ~",
+      "deeply resent"
+    ],
+    "related": [
+      "consent",
+      "dissent",
+      "sentence"
+    ],
+    "tip": "발음은 /rɪˈzent/ (s 가 z 소리). re-sent(다시 보냈다)와 구별"
+  },
+  {
+    "id": "d01-C22",
+    "day": 1,
+    "level": 3,
+    "set": "C",
+    "family": "F1",
+    "word": "dissent",
+    "pos": "noun",
+    "ipa": "/dɪˈsent/",
+    "meaning_ko": "반대 의견",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "따로·떨어져"
+        },
+        {
+          "text": "sent",
+          "type": "root",
+          "gloss": "느끼다"
+        }
+      ],
+      "story": "따로 느끼다(dissentire) → 생각이 다르다 → 반대 의견"
+    },
+    "example": {
+      "q": "How do you handle disagreement in a team decision?",
+      "a": "I express my dissent early and back it with data, but once the team decides, I fully commit to the plan.",
+      "a_ko": "반대 의견은 데이터와 함께 일찍 말하지만, 팀이 결정하면 그 계획에 전적으로 따릅니다."
+    },
+    "collocations": [
+      "express dissent",
+      "voice dissent",
+      "without dissent"
+    ],
+    "related": [
+      "consent",
+      "resent",
+      "consensus"
+    ],
+    "tip": "‘Disagree and commit’ 문화를 설명할 때 어울리는 격식 있는 단어"
+  },
+  {
+    "id": "d01-C23",
+    "day": 1,
+    "level": 3,
+    "set": "C",
+    "family": "F1",
+    "word": "sentient",
+    "pos": "adjective",
+    "ipa": "/ˈsenʃənt/",
+    "meaning_ko": "지각(의식)이 있는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sent",
+          "type": "root",
+          "gloss": "느끼다"
+        },
+        {
+          "text": "ient",
+          "type": "suffix",
+          "gloss": "~하고 있는"
+        }
+      ],
+      "story": "느끼고 있는(sentientem) → 감각·의식이 있는"
+    },
+    "example": {
+      "q": "What's your view on the limits of AI?",
+      "a": "I don't think today's AI models are sentient, but they're powerful tools, so I always keep a human in the loop for critical decisions.",
+      "a_ko": "지금의 AI 모델이 의식이 있다고는 생각하지 않지만 강력한 도구이기 때문에, 중요한 결정에는 항상 사람이 검토하게 합니다."
+    },
+    "collocations": [
+      "sentient AI",
+      "sentient being"
+    ],
+    "related": [
+      "sentence",
+      "sensor",
+      "sensitive"
+    ],
+    "tip": "AI 윤리 질문에서 나올 수 있는 단어. 발음 /ˈsenʃənt/"
+  },
+  {
+    "id": "d01-C24",
+    "day": 1,
+    "level": 1,
+    "set": "C",
+    "family": "F1",
+    "word": "outgoing",
+    "pos": "adjective",
+    "ipa": "/ˈaʊtˌɡoʊɪŋ/",
+    "meaning_ko": "외향적인, 사교적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "going",
+          "type": "part",
+          "gloss": "가는"
+        }
+      ],
+      "story": "밖으로 나가는 → 사람에게 먼저 다가가는 → 외향적인"
+    },
+    "example": {
+      "q": "How would you describe your personality?",
+      "a": "I'm outgoing, so I enjoy meeting new teammates and people from other teams.",
+      "a_ko": "외향적인 편이라 새 팀원이나 다른 팀 사람들을 만나는 걸 좋아합니다."
+    },
+    "collocations": [
+      "an outgoing personality",
+      "friendly and outgoing"
+    ],
+    "related": [
+      "ongoing",
+      "outcome",
+      "going"
+    ],
+    "tip": "outgoing mail(발신 메일)처럼 ‘밖으로 나가는’ 뜻도 있음"
+  },
+  {
+    "id": "d01-C25",
+    "day": 1,
+    "level": 2,
+    "set": "C",
+    "family": "F1",
+    "word": "hands-on",
+    "pos": "adjective",
+    "ipa": "/ˌhændzˈɑːn/",
+    "meaning_ko": "직접 해 보는, 실무의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hands-",
+          "type": "part",
+          "gloss": "손"
+        },
+        {
+          "text": "on",
+          "type": "part",
+          "gloss": "~에 대고"
+        }
+      ],
+      "story": "손을 직접 대는 → 직접 해 보는 → 실무 경험의"
+    },
+    "example": {
+      "q": "Do you have experience with Kubernetes?",
+      "a": "Yes, I have two years of hands-on experience running Kubernetes clusters in production.",
+      "a_ko": "네, 운영 환경에서 쿠버네티스 클러스터를 직접 운영한 실무 경험이 2년 있습니다."
+    },
+    "collocations": [
+      "hands-on experience",
+      "a hands-on approach",
+      "a hands-on manager"
+    ],
+    "related": [
+      "hands-off",
+      "handy",
+      "hand"
+    ],
+    "tip": "반대말은 hands-off(간섭하지 않는). ‘실무 경험’은 hands-on experience"
+  }
+]

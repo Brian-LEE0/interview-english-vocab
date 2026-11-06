@@ -1,0 +1,4579 @@
+[
+ {
+  "id": "d05-A01",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "accept",
+  "pos": "verb",
+  "ipa": "/əkˈsept/",
+  "meaning_ko": "받아들이다, 수락하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    }
+   ],
+   "story": "내 쪽으로 잡아 들이다 → 받아들이다 → 수락하다"
+  },
+  "example": {
+   "q": "How do you handle criticism of your code?",
+   "a": "I accept feedback openly and use it to improve my next pull request.",
+   "a_ko": "피드백을 열린 마음으로 받아들이고 다음 풀 리퀘스트를 개선하는 데 활용합니다."
+  },
+  "collocations": [
+   "accept feedback",
+   "accept an offer",
+   "accept responsibility"
+  ],
+  "related": [
+   "acceptance",
+   "concept",
+   "exception",
+   "capable",
+   "receive"
+  ],
+  "tip": "except(~을 제외하고)와 발음이 비슷하니 주의: accept는 /ək-/, except는 /ɪk-/"
+ },
+ {
+  "id": "d05-A02",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "acceptance",
+  "pos": "noun",
+  "ipa": "/əkˈseptəns/",
+  "meaning_ko": "인수(검수), 수락",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "받아들임 → 만든 결과물을 받아들이는 일 → 인수·검수"
+  },
+  "example": {
+   "q": "How do you know a feature is done?",
+   "a": "It's done when it passes the acceptance criteria we agreed on with the product owner.",
+   "a_ko": "프로덕트 오너와 합의한 인수 조건을 통과하면 완료입니다."
+  },
+  "collocations": [
+   "acceptance criteria",
+   "user acceptance testing (UAT)",
+   "gain acceptance"
+  ],
+  "related": [
+   "accept",
+   "exception",
+   "concept",
+   "capable"
+  ],
+  "tip": "애자일의 acceptance criteria = 완료 조건, UAT = 사용자 인수 테스트"
+ },
+ {
+  "id": "d05-A03",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "concept",
+  "pos": "noun",
+  "ipa": "/ˈkɑːnsept/",
+  "meaning_ko": "개념",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히 (com)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    }
+   ],
+   "story": "마음속에 붙잡아 품은 것(conceptum) → 생각 → 개념"
+  },
+  "example": {
+   "q": "How do you learn a new framework?",
+   "a": "I start with the core concepts and then build a small project.",
+   "a_ko": "핵심 개념부터 익힌 다음 작은 프로젝트를 만들어 봅니다."
+  },
+  "collocations": [
+   "core concept",
+   "proof of concept (PoC)",
+   "grasp the concept"
+  ],
+  "related": [
+   "misconception",
+   "conceive",
+   "accept",
+   "exception"
+  ],
+  "tip": "PoC = proof of concept(개념 검증). IT 면접 단골 표현"
+ },
+ {
+  "id": "d05-A04",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "misconception",
+  "pos": "noun",
+  "ipa": "/ˌmɪskənˈsepʃən/",
+  "meaning_ko": "오해, 잘못된 생각",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mis",
+     "type": "prefix",
+     "gloss": "잘못 (영어 접두사)"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히 (com)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "잘못 붙잡은 생각 → 오해"
+  },
+  "example": {
+   "q": "What do people often get wrong about microservices?",
+   "a": "A common misconception is that microservices make a system faster; in reality, they mainly let teams release independently.",
+   "a_ko": "흔한 오해는 마이크로서비스가 시스템을 빠르게 만든다는 것인데, 실제로는 주로 팀이 독립적으로 배포할 수 있게 해 줍니다."
+  },
+  "collocations": [
+   "a common misconception",
+   "clear up a misconception",
+   "misconception about"
+  ],
+  "related": [
+   "concept",
+   "conceive",
+   "perception",
+   "exception"
+  ],
+  "tip": "'A common misconception is that ~'은 기술 설명을 시작할 때 쓰기 좋은 틀"
+ },
+ {
+  "id": "d05-A05",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "exception",
+  "pos": "noun",
+  "ipa": "/ɪkˈsepʃən/",
+  "meaning_ko": "예외",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "밖으로 집어낸 것 → 규칙에서 빠진 것 → 예외"
+  },
+  "example": {
+   "q": "How do you make your code more robust?",
+   "a": "I handle exceptions carefully and log enough context, so failures are easy to diagnose in production.",
+   "a_ko": "예외를 꼼꼼히 처리하고 충분한 맥락을 로그로 남겨서, 운영 환경에서 장애 원인을 쉽게 찾을 수 있게 합니다."
+  },
+  "collocations": [
+   "handle an exception",
+   "throw an exception",
+   "with the exception of"
+  ],
+  "related": [
+   "exceptional",
+   "accept",
+   "intercept",
+   "concept"
+  ],
+  "tip": "코드의 '예외'이자, 'with the exception of(~을 제외하고)'로 일반 답변에서도 씀"
+ },
+ {
+  "id": "d05-A06",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "exceptional",
+  "pos": "adjective",
+  "ipa": "/ɪkˈsepʃənl/",
+  "meaning_ko": "뛰어난, 예외적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의, ~한"
+    }
+   ],
+   "story": "예외에 해당하는 → 보통을 벗어난 → 뛰어난"
+  },
+  "example": {
+   "q": "What did your last manager say about you?",
+   "a": "She said my documentation was exceptional and asked me to coach new hires.",
+   "a_ko": "제 문서화가 뛰어나다며 신입 교육을 맡겨 주셨습니다."
+  },
+  "collocations": [
+   "exceptional performance",
+   "exceptional quality",
+   "in exceptional cases"
+  ],
+  "related": [
+   "exception",
+   "accept",
+   "acceptance",
+   "capable"
+  ],
+  "tip": "자기 자랑은 남의 말을 빌려서: 'My manager said ~ was exceptional'"
+ },
+ {
+  "id": "d05-A07",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "intercept",
+  "pos": "verb",
+  "ipa": "/ˌɪntərˈsept/",
+  "meaning_ko": "가로채다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    }
+   ],
+   "story": "사이에서 잡다 → 가는 길을 중간에서 가로채다"
+  },
+  "example": {
+   "q": "How did you add authentication to the frontend?",
+   "a": "I intercepted every outgoing HTTP request to attach the auth token, so no screen had to handle it manually.",
+   "a_ko": "나가는 HTTP 요청을 모두 가로채 인증 토큰을 붙였기 때문에, 화면마다 따로 처리할 필요가 없었습니다."
+  },
+  "collocations": [
+   "intercept a request",
+   "intercept traffic",
+   "intercept an error"
+  ],
+  "related": [
+   "interceptor",
+   "accept",
+   "exception",
+   "capture"
+  ],
+  "tip": "보안 문맥에서는 '도청·탈취하다'라는 부정적인 뜻으로도 씀"
+ },
+ {
+  "id": "d05-A08",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "interceptor",
+  "pos": "noun",
+  "ipa": "/ˌɪntərˈseptər/",
+  "meaning_ko": "인터셉터 (요청을 중간에 가로채 처리하는 코드)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "사이에서 잡는 것 → 요격기 → 요청·응답을 중간에서 가로채는 코드"
+  },
+  "example": {
+   "q": "How do you handle expired sessions?",
+   "a": "I wrote an interceptor that catches 401 responses and refreshes the token before retrying the request.",
+   "a_ko": "401 응답을 잡아서 토큰을 갱신한 뒤 요청을 다시 보내는 인터셉터를 작성했습니다."
+  },
+  "collocations": [
+   "HTTP interceptor",
+   "request interceptor",
+   "add an interceptor"
+  ],
+  "related": [
+   "intercept",
+   "exception",
+   "capture",
+   "receive"
+  ],
+  "tip": "Angular·Axios·Spring에서 자주 나오는 용어. 원래 뜻은 '요격기'"
+ },
+ {
+  "id": "d05-A09",
+  "day": 5,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "inception",
+  "pos": "noun",
+  "ipa": "/ɪnˈsepʃən/",
+  "meaning_ko": "시작, 출범",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로·위에"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "incipere = 손에 잡다 → 일에 착수하다 → 시작"
+  },
+  "example": {
+   "q": "What was your role in the project?",
+   "a": "I was involved from the project's inception, so I helped define the architecture, hire the first engineers, and set our coding standards.",
+   "a_ko": "프로젝트 시작 단계부터 참여해서 아키텍처를 정하고, 첫 엔지니어들을 채용하고, 코딩 규칙을 세우는 데 기여했습니다."
+  },
+  "collocations": [
+   "since its inception",
+   "from inception to launch",
+   "at the inception of"
+  ],
+  "related": [
+   "concept",
+   "accept",
+   "exception",
+   "capable"
+  ],
+  "tip": "'from the start'의 격식 있는 표현. since its inception = 처음부터 지금까지"
+ },
+ {
+  "id": "d05-A10",
+  "day": 5,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "deceptively",
+  "pos": "adverb",
+  "ipa": "/dɪˈseptɪvli/",
+  "meaning_ko": "겉보기와 달리",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져·아래로"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게 (부사)"
+    }
+   ],
+   "story": "decipere = 덫으로 낚아채다 → 속이다 → 사람을 속일 만큼 → 겉보기와 달리"
+  },
+  "example": {
+   "q": "What was the hardest bug you've fixed?",
+   "a": "It looked deceptively simple, just a wrong timestamp, but it turned out to be a time zone issue spread across three services.",
+   "a_ko": "타임스탬프 하나가 틀린 것처럼 겉보기엔 단순했지만, 알고 보니 서비스 세 개에 걸친 시간대 문제였습니다."
+  },
+  "collocations": [
+   "deceptively simple",
+   "deceptively easy",
+   "deceptively complex"
+  ],
+  "related": [
+   "receive",
+   "perceive",
+   "concept",
+   "exception"
+  ],
+  "tip": "'deceptively simple' = 쉬워 보이지만 실제로는 어렵다는 뜻. 단순하다는 말이 아님"
+ },
+ {
+  "id": "d05-A11",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "receive",
+  "pos": "verb",
+  "ipa": "/rɪˈsiːv/",
+  "meaning_ko": "받다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·되"
+    },
+    {
+     "text": "ceive",
+     "type": "root",
+     "gloss": "잡다 (cip ← capere)"
+    }
+   ],
+   "story": "recipere = 되잡다 → 건네진 것을 받다"
+  },
+  "example": {
+   "q": "Have you received any awards at work?",
+   "a": "I received a quarterly award for improving our test coverage.",
+   "a_ko": "테스트 커버리지를 높인 공로로 분기 표창을 받았습니다."
+  },
+  "collocations": [
+   "receive feedback",
+   "receive an award",
+   "receive an offer"
+  ],
+  "related": [
+   "receptive",
+   "recipient",
+   "perceive",
+   "conceive"
+  ],
+  "tip": "철자 주의: c 뒤에서는 ei → receive (recieve X)"
+ },
+ {
+  "id": "d05-A12",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "receptive",
+  "pos": "adjective",
+  "ipa": "/rɪˈseptɪv/",
+  "meaning_ko": "(의견을) 잘 받아들이는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·되"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 (형용사)"
+    }
+   ],
+   "story": "되받아들이는 성질의 → 남의 의견에 열려 있는"
+  },
+  "example": {
+   "q": "How do you respond to code review comments?",
+   "a": "I try to stay receptive to comments, even when I disagree, because reviewers often see issues I've missed.",
+   "a_ko": "동의하지 않을 때도 리뷰 의견을 열린 마음으로 받아들이려 합니다. 리뷰어가 제가 놓친 문제를 보는 경우가 많기 때문입니다."
+  },
+  "collocations": [
+   "receptive to feedback",
+   "receptive to new ideas",
+   "a receptive audience"
+  ],
+  "related": [
+   "receive",
+   "recipient",
+   "accept",
+   "perception"
+  ],
+  "tip": "open-minded보다 '받아들이는 태도'를 콕 집는 말. receptive to + 명사"
+ },
+ {
+  "id": "d05-A13",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "perceive",
+  "pos": "verb",
+  "ipa": "/pərˈsiːv/",
+  "meaning_ko": "인식하다, (~로) 여기다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "ceive",
+     "type": "root",
+     "gloss": "잡다 (cip ← capere)"
+    }
+   ],
+   "story": "percipere = 완전히 붙잡다 → 감각·마음으로 알아차리다 → 인식하다"
+  },
+  "example": {
+   "q": "How do your teammates see you?",
+   "a": "I think I'm perceived as the calm one during incidents, because I focus on facts rather than panic.",
+   "a_ko": "장애 상황에서 침착한 사람으로 여겨지는 것 같습니다. 당황하기보다 사실에 집중하기 때문입니다."
+  },
+  "collocations": [
+   "be perceived as",
+   "perceive a need",
+   "perceive a change"
+  ],
+  "related": [
+   "perception",
+   "receive",
+   "conceive",
+   "deceptively"
+  ],
+  "tip": "be perceived as ~ = 남들이 나를 ~로 본다. 강점을 겸손하게 말할 때 좋음"
+ },
+ {
+  "id": "d05-A14",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "perception",
+  "pos": "noun",
+  "ipa": "/pərˈsepʃən/",
+  "meaning_ko": "인식, (받는) 인상",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "완전히 붙잡음 → 알아차림 → 인식·인상"
+  },
+  "example": {
+   "q": "How do you measure the impact of performance work?",
+   "a": "Beyond metrics, I look at user perception, because a page that feels slow hurts trust even when it's technically fast.",
+   "a_ko": "지표만이 아니라 사용자가 어떻게 느끼는지도 봅니다. 기술적으로는 빨라도 느리게 느껴지는 페이지는 신뢰를 떨어뜨리기 때문입니다."
+  },
+  "collocations": [
+   "user perception",
+   "change the perception",
+   "perception versus reality"
+  ],
+  "related": [
+   "perceive",
+   "receptive",
+   "concept",
+   "misconception"
+  ],
+  "tip": "perceive의 명사. 'perception vs. reality'(인식과 실제) 대비로 자주 씀"
+ },
+ {
+  "id": "d05-A15",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "conceive",
+  "pos": "verb",
+  "ipa": "/kənˈsiːv/",
+  "meaning_ko": "구상하다, 생각해 내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히 (com)"
+    },
+    {
+     "text": "ceive",
+     "type": "root",
+     "gloss": "잡다 (cip ← capere)"
+    }
+   ],
+   "story": "concipere = 안에 붙잡아 품다 → 마음속에 품다 → 구상하다"
+  },
+  "example": {
+   "q": "Tell me about something you built on your own initiative.",
+   "a": "I conceived an internal tool that auto-generated test data, and it ended up saving our QA team hours every week.",
+   "a_ko": "테스트 데이터를 자동으로 만드는 사내 도구를 구상했는데, 결국 QA 팀의 시간을 매주 몇 시간씩 아껴 주었습니다."
+  },
+  "collocations": [
+   "conceive an idea",
+   "conceive a plan",
+   "hard to conceive"
+  ],
+  "related": [
+   "concept",
+   "misconception",
+   "receive",
+   "perceive"
+  ],
+  "tip": "concept의 동사 짝. '아이를 갖다'라는 뜻도 있으니 목적어로 idea·plan을 붙여 쓰기"
+ },
+ {
+  "id": "d05-A16",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "capable",
+  "pos": "adjective",
+  "ipa": "/ˈkeɪpəbl/",
+  "meaning_ko": "~할 수 있는, 유능한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cap",
+     "type": "root",
+     "gloss": "잡다·담다 (capere)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "capabilis = 받아 담을 수 있는 → 감당할 수 있는 → 유능한"
+  },
+  "example": {
+   "q": "Why should we hire you?",
+   "a": "I'm capable of owning a feature from design to release.",
+   "a_ko": "기능 하나를 설계부터 출시까지 책임지고 해낼 수 있습니다."
+  },
+  "collocations": [
+   "capable of + -ing",
+   "highly capable",
+   "in capable hands"
+  ],
+  "related": [
+   "capability",
+   "capacity",
+   "capture",
+   "accept"
+  ],
+  "tip": "capable of doing (O) / capable to do (X)"
+ },
+ {
+  "id": "d05-A17",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "capability",
+  "pos": "noun",
+  "ipa": "/ˌkeɪpəˈbɪləti/",
+  "meaning_ko": "역량, 능력",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cap",
+     "type": "root",
+     "gloss": "잡다·담다 (capere)"
+    },
+    {
+     "text": "abil",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (-able)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "감당할 수 있음 → 해낼 수 있는 힘 → 역량"
+  },
+  "example": {
+   "q": "What capabilities would you bring to our team?",
+   "a": "I'd bring solid backend capabilities, especially in building APIs that other teams find easy to use.",
+   "a_ko": "탄탄한 백엔드 역량을 가져올 수 있습니다. 특히 다른 팀이 쓰기 쉬운 API를 만드는 데 강합니다."
+  },
+  "collocations": [
+   "technical capabilities",
+   "build capability",
+   "beyond my capabilities"
+  ],
+  "related": [
+   "capable",
+   "capacity",
+   "capture",
+   "exception"
+  ],
+  "tip": "ability보다 사람·조직·시스템의 '역량'에 많이 씀. 복수형 capabilities가 자연스러움"
+ },
+ {
+  "id": "d05-A18",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "capacity",
+  "pos": "noun",
+  "ipa": "/kəˈpæsəti/",
+  "meaning_ko": "(맡은) 역할·자격, 용량",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "capac",
+     "type": "root",
+     "gloss": "많이 담을 수 있는 (capax ← capere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "담을 수 있는 양 → 용량 → 맡을 수 있는 몫 → 역할·자격"
+  },
+  "example": {
+   "q": "What was your role on that team?",
+   "a": "In my capacity as tech lead, I reviewed every major design.",
+   "a_ko": "테크 리드 역할로서 주요 설계를 모두 검토했습니다."
+  },
+  "collocations": [
+   "in my capacity as",
+   "at full capacity",
+   "capacity planning"
+  ],
+  "related": [
+   "capable",
+   "capability",
+   "capture",
+   "accept"
+  ],
+  "tip": "면접에서는 'in my capacity as ~'(~의 자격으로), 인프라에서는 'capacity planning'(용량 계획)"
+ },
+ {
+  "id": "d05-A19",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "capture",
+  "pos": "verb",
+  "ipa": "/ˈkæptʃər/",
+  "meaning_ko": "기록하다, 포착하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "capt",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~함 (명사 → 동사)"
+    }
+   ],
+   "story": "captura = 잡음 → 붙잡다 → 정보를 붙잡아 남기다"
+  },
+  "example": {
+   "q": "How do you track requirements?",
+   "a": "I capture each requirement in a ticket so nothing gets lost.",
+   "a_ko": "요구사항을 하나하나 티켓으로 기록해서 빠지는 게 없게 합니다."
+  },
+  "collocations": [
+   "capture requirements",
+   "capture metrics",
+   "capture a screenshot"
+  ],
+  "related": [
+   "caption",
+   "capable",
+   "capacity",
+   "intercept"
+  ],
+  "tip": "'잡다'에서 '데이터·요구사항을 붙잡아 기록하다'로 IT에서 아주 자주 씀"
+ },
+ {
+  "id": "d05-A20",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "caption",
+  "pos": "noun",
+  "ipa": "/ˈkæpʃən/",
+  "meaning_ko": "자막, (사진) 설명 글",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "capt",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "captio = 붙잡음 → (법률 문서의) 머리말 → 제목 → 사진·영상에 붙는 설명 글"
+  },
+  "example": {
+   "q": "Have you worked on accessibility?",
+   "a": "Yes, I added captions to all our product videos for deaf users.",
+   "a_ko": "네, 청각 장애가 있는 사용자를 위해 제품 영상에 모두 자막을 넣었습니다."
+  },
+  "collocations": [
+   "add captions",
+   "auto-generated captions",
+   "image captioning"
+  ],
+  "related": [
+   "capture",
+   "capable",
+   "capacity",
+   "exception"
+  ],
+  "tip": "AI 분야에서는 image captioning(이미지 설명 생성)으로도 나옴"
+ },
+ {
+  "id": "d05-A21",
+  "day": 5,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "recipient",
+  "pos": "noun",
+  "ipa": "/rɪˈsɪpiənt/",
+  "meaning_ko": "수신자, 받는 사람",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·되"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ient",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "recipere(받다) + 사람 → 받는 사람 → 수신자"
+  },
+  "example": {
+   "q": "Tell me about the notification system you built.",
+   "a": "It sent alerts to the right recipients based on service ownership, which cut noise for on-call engineers.",
+   "a_ko": "서비스 담당 기준으로 알맞은 수신자에게만 알림을 보내서, 당직 엔지니어가 받는 불필요한 알림을 줄였습니다."
+  },
+  "collocations": [
+   "email recipient",
+   "recipient list",
+   "award recipient"
+  ],
+  "related": [
+   "receive",
+   "receptive",
+   "recipe",
+   "participate"
+  ],
+  "tip": "receiver와 달리 메일의 '수신자', 상의 '수상자'에 주로 씀"
+ },
+ {
+  "id": "d05-A22",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "recipe",
+  "pos": "noun",
+  "ipa": "/ˈresəpi/",
+  "meaning_ko": "비결, 요리법",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·되"
+    },
+    {
+     "text": "cipe",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    }
+   ],
+   "story": "라틴어 recipe = '받아라·가져라!'(recipere의 명령형, 처방전 첫머리) → 처방 → 요리법 → 비결"
+  },
+  "example": {
+   "q": "What makes a project succeed?",
+   "a": "In my experience, the recipe is clear goals and fast feedback.",
+   "a_ko": "제 경험상 비결은 명확한 목표와 빠른 피드백입니다."
+  },
+  "collocations": [
+   "a recipe for success",
+   "a recipe for disaster",
+   "no magic recipe"
+  ],
+  "related": [
+   "recipient",
+   "receive",
+   "participate",
+   "accept"
+  ],
+  "tip": "'a recipe for disaster'(재앙을 부르는 지름길)도 면접 답변에서 자주 씀"
+ },
+ {
+  "id": "d05-A23",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "work ethic",
+  "pos": "noun",
+  "ipa": "/ˈwɝːk ˌeθɪk/",
+  "meaning_ko": "직업 윤리, 일하는 태도",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "work",
+     "type": "part",
+     "gloss": "일 (고대 영어 weorc)"
+    },
+    {
+     "text": "ethic",
+     "type": "part",
+     "gloss": "윤리 (그리스어 ēthos 관습)"
+    }
+   ],
+   "story": "일 + 관습·성품 → 일을 대하는 태도"
+  },
+  "example": {
+   "q": "What would your previous manager say about you?",
+   "a": "She would say I have a strong work ethic and always meet deadlines.",
+   "a_ko": "강한 직업 윤리를 가졌고 항상 마감을 지킨다고 말할 겁니다."
+  },
+  "collocations": [
+   "strong work ethic",
+   "work ethic and attitude"
+  ],
+  "related": [
+   "ethics",
+   "ethical",
+   "workplace"
+  ],
+  "tip": "강점을 말할 때 'hard-working' 대신 쓰면 더 전문적으로 들림"
+ },
+ {
+  "id": "d05-A24",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "comfort zone",
+  "pos": "noun",
+  "ipa": "/ˈkʌmfɚt ˌzoʊn/",
+  "meaning_ko": "익숙하고 편한 영역",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "comfort",
+     "type": "part",
+     "gloss": "편안함 (라틴어 com+fortis 강하게)"
+    },
+    {
+     "text": "zone",
+     "type": "part",
+     "gloss": "구역 (그리스어 zōnē 띠)"
+    }
+   ],
+   "story": "편안한 구역 → 익숙해서 도전이 없는 범위"
+  },
+  "example": {
+   "q": "Tell me about a time you challenged yourself.",
+   "a": "I stepped out of my comfort zone and led a frontend project.",
+   "a_ko": "편한 영역에서 벗어나 프론트엔드 프로젝트를 이끌었습니다."
+  },
+  "collocations": [
+   "step out of my comfort zone",
+   "outside my comfort zone"
+  ],
+  "related": [
+   "comfortable",
+   "effort",
+   "fortify"
+  ],
+  "tip": "성장·도전 질문의 단골 표현. 'step out of' 와 함께 외우기"
+ },
+ {
+  "id": "d05-A25",
+  "day": 5,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "grow",
+  "pos": "verb",
+  "ipa": "/ɡroʊ/",
+  "meaning_ko": "성장하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "grow",
+     "type": "part",
+     "gloss": "자라다 (고대 영어 grōwan)"
+    }
+   ],
+   "story": "식물이 자라다 → 사람·회사가 성장하다"
+  },
+  "example": {
+   "q": "Where do you see yourself in five years?",
+   "a": "I want to grow into a senior engineer who mentors others.",
+   "a_ko": "다른 사람을 이끌어 주는 시니어 엔지니어로 성장하고 싶습니다."
+  },
+  "collocations": [
+   "grow as an engineer",
+   "grow into a role",
+   "room to grow"
+  ],
+  "related": [
+   "upskill",
+   "learning curve",
+   "step up"
+  ],
+  "tip": "grow into ~ = 점점 ~이 되다 / grow out of ~ = ~에서 벗어나다"
+ },
+ {
+  "id": "d05-B01",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "participate",
+  "pos": "verb",
+  "ipa": "/pɑːrˈtɪsɪpeɪt/",
+  "meaning_ko": "참여하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "parti",
+     "type": "root",
+     "gloss": "부분·몫 (pars)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다 (동사)"
+    }
+   ],
+   "story": "particeps = 몫을 잡는 사람 → 몫을 나눠 갖다 → 참여하다"
+  },
+  "example": {
+   "q": "How do you contribute outside of coding?",
+   "a": "I actively participate in design reviews and hiring interviews.",
+   "a_ko": "설계 리뷰와 채용 면접에 적극적으로 참여합니다."
+  },
+  "collocations": [
+   "participate in",
+   "actively participate",
+   "participate fully"
+  ],
+  "related": [
+   "participant",
+   "anticipate",
+   "principle",
+   "recipient"
+  ],
+  "tip": "participate 뒤에는 반드시 in. join은 in 없이 씀"
+ },
+ {
+  "id": "d05-B02",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "participant",
+  "pos": "noun",
+  "ipa": "/pɑːrˈtɪsɪpənt/",
+  "meaning_ko": "참가자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "parti",
+     "type": "root",
+     "gloss": "부분·몫 (pars)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "몫을 잡는 사람 → 함께하는 사람 → 참가자"
+  },
+  "example": {
+   "q": "Have you ever run a workshop?",
+   "a": "I ran a Git workshop for twenty participants from other teams.",
+   "a_ko": "다른 팀 참가자 스무 명을 대상으로 Git 워크숍을 진행했습니다."
+  },
+  "collocations": [
+   "workshop participants",
+   "active participant",
+   "participant in"
+  ],
+  "related": [
+   "participate",
+   "anticipate",
+   "principal",
+   "capable"
+  ],
+  "tip": "'참가자 수'를 말할 때 attendees와 비슷하게 씀"
+ },
+ {
+  "id": "d05-B03",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "anticipate",
+  "pos": "verb",
+  "ipa": "/ænˈtɪsɪpeɪt/",
+  "meaning_ko": "예상하다, 미리 대비하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anti",
+     "type": "prefix",
+     "gloss": "미리 (ante)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다 (동사)"
+    }
+   ],
+   "story": "anticipare = 미리 잡다 → 앞일을 내다보고 대비하다"
+  },
+  "example": {
+   "q": "How do you prioritize your work?",
+   "a": "I try to anticipate risks early, so I tackle the riskiest part of a feature first.",
+   "a_ko": "위험을 미리 예상하려고 해서, 기능에서 가장 위험한 부분부터 먼저 처리합니다."
+  },
+  "collocations": [
+   "anticipate problems",
+   "anticipate needs",
+   "as anticipated"
+  ],
+  "related": [
+   "anticipation",
+   "participate",
+   "principle",
+   "capable"
+  ],
+  "tip": "여기 anti는 '반대'가 아니라 ante(미리)가 바뀐 꼴. expect보다 '미리 대비한다'는 뉘앙스"
+ },
+ {
+  "id": "d05-B04",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "anticipation",
+  "pos": "noun",
+  "ipa": "/ænˌtɪsɪˈpeɪʃən/",
+  "meaning_ko": "예상, 대비",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anti",
+     "type": "prefix",
+     "gloss": "미리 (ante)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "미리 잡음 → 앞일을 내다봄 → 예상·대비"
+  },
+  "example": {
+   "q": "Tell me about a time you prepared for heavy traffic.",
+   "a": "In anticipation of Black Friday, I load-tested our checkout service and doubled the database connection pool.",
+   "a_ko": "블랙프라이데이에 대비해 결제 서비스에 부하 테스트를 하고 DB 커넥션 풀을 두 배로 늘렸습니다."
+  },
+  "collocations": [
+   "in anticipation of",
+   "anticipation of demand",
+   "eager anticipation"
+  ],
+  "related": [
+   "anticipate",
+   "participate",
+   "recipient",
+   "capacity"
+  ],
+  "tip": "'in anticipation of ~'(~에 대비하여)를 통째로 외우기"
+ },
+ {
+  "id": "d05-B05",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "principle",
+  "pos": "noun",
+  "ipa": "/ˈprɪnsəpl/",
+  "meaning_ko": "원칙",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "prin",
+     "type": "root",
+     "gloss": "첫째 (primus)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "le",
+     "type": "suffix",
+     "gloss": "명사 어미"
+    }
+   ],
+   "story": "princeps = 첫 자리를 잡은 자 → principium 시작·근본 → 원칙"
+  },
+  "example": {
+   "q": "What guides the way you structure code?",
+   "a": "I follow the SOLID principles, but I keep things simple first.",
+   "a_ko": "SOLID 원칙을 따르되, 우선은 단순하게 만듭니다."
+  },
+  "collocations": [
+   "SOLID principles",
+   "design principle",
+   "in principle"
+  ],
+  "related": [
+   "principal",
+   "participate",
+   "anticipate",
+   "capable"
+  ],
+  "tip": "principal(주된, 수석)과 발음이 같으니 철자 주의: 원칙은 -ple"
+ },
+ {
+  "id": "d05-B06",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "principal",
+  "pos": "adjective",
+  "ipa": "/ˈprɪnsəpl/",
+  "meaning_ko": "수석(직급), 주된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "prin",
+     "type": "root",
+     "gloss": "첫째 (primus)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의, ~한"
+    }
+   ],
+   "story": "첫 자리를 잡은 → 가장 주된 → 수석"
+  },
+  "example": {
+   "q": "What are your long-term career goals?",
+   "a": "I'd like to become a principal engineer, someone who shapes technical strategy across several teams.",
+   "a_ko": "여러 팀의 기술 전략을 이끄는 수석 엔지니어가 되고 싶습니다."
+  },
+  "collocations": [
+   "principal engineer",
+   "principal reason",
+   "principal concern"
+  ],
+  "related": [
+   "principle",
+   "participate",
+   "anticipate",
+   "capable"
+  ],
+  "tip": "principle(원칙)과 같은 발음. 직급 사다리: senior → staff → principal"
+ },
+ {
+  "id": "d05-B07",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "occupy",
+  "pos": "verb",
+  "ipa": "/ˈɑːkjəpaɪ/",
+  "meaning_ko": "(시간·자리를) 차지하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "oc",
+     "type": "prefix",
+     "gloss": "~에 대해 (ob)"
+    },
+    {
+     "text": "cup",
+     "type": "root",
+     "gloss": "잡다 (cap ← capere)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "동사 어미"
+    }
+   ],
+   "story": "occupare = 붙잡아 차지하다 → 자리·시간을 차지하다"
+  },
+  "example": {
+   "q": "What does a typical day look like in your current job?",
+   "a": "Code reviews occupy most of my mornings, and I build features in the afternoon.",
+   "a_ko": "오전은 대부분 코드 리뷰로 채워지고, 오후에는 기능을 개발합니다."
+  },
+  "collocations": [
+   "occupy time",
+   "occupy a position",
+   "be occupied with"
+  ],
+  "related": [
+   "preoccupied",
+   "capture",
+   "capacity",
+   "accept"
+  ],
+  "tip": "take up보다 조금 격식 있는 말. be occupied with ~ = ~로 바쁘다"
+ },
+ {
+  "id": "d05-B08",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "preoccupied",
+  "pos": "adjective",
+  "ipa": "/priˈɑːkjəpaɪd/",
+  "meaning_ko": "(한 가지에) 정신이 팔린",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리·먼저"
+    },
+    {
+     "text": "oc",
+     "type": "prefix",
+     "gloss": "~에 대해 (ob)"
+    },
+    {
+     "text": "cup",
+     "type": "root",
+     "gloss": "잡다 (cap ← capere)"
+    },
+    {
+     "text": "ied",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "먼저 차지해 버린 → 마음이 이미 다른 것에 차지된 → 정신이 팔린"
+  },
+  "example": {
+   "q": "What's a weakness you've worked on?",
+   "a": "I used to get so preoccupied with clean code that I missed deadlines, so now I timebox refactoring.",
+   "a_ko": "예전에는 깔끔한 코드에 너무 매달려 마감을 놓치곤 해서, 지금은 리팩터링 시간을 미리 정해 둡니다."
+  },
+  "collocations": [
+   "preoccupied with",
+   "deeply preoccupied",
+   "seem preoccupied"
+  ],
+  "related": [
+   "occupy",
+   "capture",
+   "anticipate",
+   "capable"
+  ],
+  "tip": "약점 답변에 쓰기 좋은 단어. obsessed보다 부드러움"
+ },
+ {
+  "id": "d05-B09",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "catch",
+  "pos": "verb",
+  "ipa": "/kætʃ/",
+  "meaning_ko": "(버그를) 잡아내다, 잡다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "catch",
+     "type": "root",
+     "gloss": "잡다 (captare ← capere)"
+    }
+   ],
+   "story": "라틴어 captare(잡으려 하다) → 북부 고대 프랑스어 cachier → 잡다 → 버그를 잡아내다"
+  },
+  "example": {
+   "q": "Why do you write unit tests?",
+   "a": "Tests help me catch bugs before they reach our users.",
+   "a_ko": "테스트 덕분에 버그가 사용자에게 가기 전에 잡아낼 수 있습니다."
+  },
+  "collocations": [
+   "catch a bug",
+   "catch an exception",
+   "catch up on"
+  ],
+  "related": [
+   "chase",
+   "purchase",
+   "capture",
+   "intercept"
+  ],
+  "tip": "try-catch 구문의 그 catch. chase와 같은 뿌리"
+ },
+ {
+  "id": "d05-B10",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "chase",
+  "pos": "verb",
+  "ipa": "/tʃeɪs/",
+  "meaning_ko": "(끝까지) 추적하다, 쫓다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "chase",
+     "type": "root",
+     "gloss": "쫓다 (captiare ← capere)"
+    }
+   ],
+   "story": "속라틴어 *captiare(잡으려 쫓다) → 고대 프랑스어 chacier → 쫓다 → 문제를 끝까지 추적하다"
+  },
+  "example": {
+   "q": "How do you deal with flaky tests?",
+   "a": "I chase down the root cause instead of just rerunning the pipeline.",
+   "a_ko": "파이프라인을 다시 돌리기만 하지 않고 근본 원인을 끝까지 찾아냅니다."
+  },
+  "collocations": [
+   "chase down a bug",
+   "chase a deadline",
+   "chase people for updates"
+  ],
+  "related": [
+   "catch",
+   "purchase",
+   "capture",
+   "capable"
+  ],
+  "tip": "catch와 쌍둥이 단어 (북부 방언 cachier → catch, 중부 chacier → chase)"
+ },
+ {
+  "id": "d05-B11",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "purchase",
+  "pos": "noun",
+  "ipa": "/ˈpɜːrtʃəs/",
+  "meaning_ko": "구매, 결제",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pur",
+     "type": "prefix",
+     "gloss": "~을 위해 (pro)"
+    },
+    {
+     "text": "chase",
+     "type": "root",
+     "gloss": "쫓다 (captiare ← capere)"
+    }
+   ],
+   "story": "고대 프랑스어 porchacier = 얻으려고 쫓아다니다 → 손에 넣다 → 사다"
+  },
+  "example": {
+   "q": "What feature are you proudest of?",
+   "a": "I rebuilt our in-app purchase flow and cut payment errors by half.",
+   "a_ko": "앱 내 결제 흐름을 다시 만들어 결제 오류를 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "in-app purchase",
+   "purchase history",
+   "make a purchase"
+  ],
+  "related": [
+   "chase",
+   "catch",
+   "capture",
+   "capacity"
+  ],
+  "tip": "발음 /ˈpɜːr.tʃəs/ — '퍼체이스'가 아니라 '퍼처스'"
+ },
+ {
+  "id": "d05-B12",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "surprise",
+  "pos": "noun",
+  "ipa": "/sərˈpraɪz/",
+  "meaning_ko": "놀라움, 뜻밖의 일",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sur",
+     "type": "prefix",
+     "gloss": "위에서 (super)"
+    },
+    {
+     "text": "prise",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    }
+   ],
+   "story": "고대 프랑스어 surprendre = 위에서 덮쳐 잡다 → 불시에 덮침 → 놀라움"
+  },
+  "example": {
+   "q": "What surprised you most in your current job?",
+   "a": "The biggest surprise was how much I enjoyed mentoring interns.",
+   "a_ko": "가장 뜻밖이었던 건 인턴 멘토링이 생각보다 훨씬 즐거웠다는 점입니다."
+  },
+  "collocations": [
+   "no surprises",
+   "to my surprise",
+   "a pleasant surprise"
+  ],
+  "related": [
+   "enterprise",
+   "comprise",
+   "apprise",
+   "apprenticeship"
+  ],
+  "tip": "'No surprises'는 일정·위험을 미리 공유하는 습관을 말할 때 좋음"
+ },
+ {
+  "id": "d05-B13",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "enterprise",
+  "pos": "noun",
+  "ipa": "/ˈentərpraɪz/",
+  "meaning_ko": "기업, 기업용 (대기업 대상)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "enter",
+     "type": "prefix",
+     "gloss": "사이에 (entre ← inter)"
+    },
+    {
+     "text": "prise",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    }
+   ],
+   "story": "고대 프랑스어 entreprendre = 손에 잡아 떠맡다 → 떠맡은 일 → 사업 → 기업"
+  },
+  "example": {
+   "q": "What kind of software have you built?",
+   "a": "I've mostly built enterprise software for banks and insurers.",
+   "a_ko": "주로 은행과 보험사를 위한 기업용 소프트웨어를 만들었습니다."
+  },
+  "collocations": [
+   "enterprise software",
+   "enterprise customer",
+   "small and medium-sized enterprises"
+  ],
+  "related": [
+   "enterprising",
+   "entrepreneurial",
+   "surprise",
+   "comprise"
+  ],
+  "tip": "B2B·대기업용 제품을 말할 때 enterprise를 형용사처럼 앞에 붙임"
+ },
+ {
+  "id": "d05-B14",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "enterprising",
+  "pos": "adjective",
+  "ipa": "/ˈentərpraɪzɪŋ/",
+  "meaning_ko": "진취적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "enter",
+     "type": "prefix",
+     "gloss": "사이에 (entre ← inter)"
+    },
+    {
+     "text": "pris",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "일을 손에 잡아 떠맡는 → 새 일을 적극적으로 벌이는 → 진취적인"
+  },
+  "example": {
+   "q": "How would your colleagues describe you?",
+   "a": "They'd probably say I'm enterprising, since I often start small tools that the whole team ends up using.",
+   "a_ko": "진취적이라고 할 것 같습니다. 제가 작은 도구를 먼저 만들면 결국 팀 전체가 쓰게 되는 경우가 많거든요."
+  },
+  "collocations": [
+   "an enterprising engineer",
+   "enterprising spirit"
+  ],
+  "related": [
+   "enterprise",
+   "entrepreneurial",
+   "surprise",
+   "comprise"
+  ],
+  "tip": "proactive와 비슷하지만 '새로운 일을 벌이는' 쪽에 무게"
+ },
+ {
+  "id": "d05-B15",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "comprise",
+  "pos": "verb",
+  "ipa": "/kəmˈpraɪz/",
+  "meaning_ko": "~로 구성되다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "prise",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    }
+   ],
+   "story": "고대 프랑스어 compris(comprendre의 과거분사) = 함께 붙잡은 → 한데 품다 → ~로 이루어지다"
+  },
+  "example": {
+   "q": "Can you describe the system architecture?",
+   "a": "The platform comprises four services, and each one owns its own database to keep the teams independent.",
+   "a_ko": "플랫폼은 서비스 네 개로 이루어져 있고, 팀이 독립적으로 움직이도록 서비스마다 자기 DB를 따로 가집니다."
+  },
+  "collocations": [
+   "comprise A and B",
+   "be comprised of",
+   "the team comprises"
+  ],
+  "related": [
+   "surprise",
+   "enterprise",
+   "apprise",
+   "apprenticeship"
+  ],
+  "tip": "정석은 'A comprises B'(of 없이). consist of와 같은 뜻"
+ },
+ {
+  "id": "d05-B16",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "apprenticeship",
+  "pos": "noun",
+  "ipa": "/əˈprentɪsʃɪp/",
+  "meaning_ko": "견습 과정",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "prent",
+     "type": "root",
+     "gloss": "잡다·배우다 (prehendere)"
+    },
+    {
+     "text": "ice",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ship",
+     "type": "suffix",
+     "gloss": "신분·과정 (영어)"
+    }
+   ],
+   "story": "apprehendere(붙잡다) → 고대 프랑스어 aprendre(배우다) → aprentis(배우는 사람) → 견습 과정"
+  },
+  "example": {
+   "q": "How did you get into software engineering?",
+   "a": "I joined a one-year apprenticeship program, where I learned by pairing with senior developers every day.",
+   "a_ko": "1년짜리 견습 프로그램에 들어가 매일 시니어 개발자와 페어로 일하며 배웠습니다."
+  },
+  "collocations": [
+   "apprenticeship program",
+   "serve an apprenticeship",
+   "software apprenticeship"
+  ],
+  "related": [
+   "apprise",
+   "comprise",
+   "surprise",
+   "enterprise"
+  ],
+  "tip": "apprentice = 견습생. 부트캠프·인턴 경력을 설명할 때 활용"
+ },
+ {
+  "id": "d05-B17",
+  "day": 5,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "entrepreneurial",
+  "pos": "adjective",
+  "ipa": "/ˌɑːntrəprəˈnɜːriəl/",
+  "meaning_ko": "기업가적인, 주도적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "entre",
+     "type": "prefix",
+     "gloss": "사이에 (inter)"
+    },
+    {
+     "text": "pren",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "eur",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의, ~한"
+    }
+   ],
+   "story": "entreprendre(떠맡다) → 일을 떠맡는 사람(entrepreneur) → 기업가 → 기업가다운"
+  },
+  "example": {
+   "q": "Why do you want to join a startup?",
+   "a": "I'm drawn to entrepreneurial environments where engineers talk to customers directly and own outcomes, not just tickets.",
+   "a_ko": "엔지니어가 고객과 직접 이야기하고, 티켓이 아니라 결과를 책임지는 기업가적인 환경에 끌립니다."
+  },
+  "collocations": [
+   "entrepreneurial mindset",
+   "entrepreneurial spirit",
+   "entrepreneurial culture"
+  ],
+  "related": [
+   "enterprise",
+   "enterprising",
+   "surprise",
+   "comprise"
+  ],
+  "tip": "강세는 -neur-에. 스타트업 지원 동기에 딱 맞는 단어"
+ },
+ {
+  "id": "d05-B18",
+  "day": 5,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "apprise",
+  "pos": "verb",
+  "ipa": "/əˈpraɪz/",
+  "meaning_ko": "(진행 상황을) 알리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "prise",
+     "type": "root",
+     "gloss": "잡다·배우다 (prehendere)"
+    }
+   ],
+   "story": "apprehendere → 프랑스어 apprendre(배우다·가르치다)의 과거분사 appris → 알게 하다 → 알리다"
+  },
+  "example": {
+   "q": "How do you communicate during a long migration?",
+   "a": "I keep stakeholders apprised of progress with a short weekly update, so nobody is surprised when a milestone slips.",
+   "a_ko": "매주 짧은 업데이트로 이해관계자들에게 진행 상황을 알려서, 마일스톤이 밀려도 놀라는 사람이 없게 합니다."
+  },
+  "collocations": [
+   "keep someone apprised of",
+   "be apprised of",
+   "fully apprised"
+  ],
+  "related": [
+   "apprenticeship",
+   "comprise",
+   "surprise",
+   "enterprise"
+  ],
+  "tip": "'keep you posted'의 격식체. appraise(평가하다)와 헷갈리지 않기"
+ },
+ {
+  "id": "d05-B19",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "consume",
+  "pos": "verb",
+  "ipa": "/kənˈsuːm/",
+  "meaning_ko": "소비하다, (데이터를) 받아 쓰다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히 (com)"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "consumere = 완전히 취하다 → 다 써 버리다 → 소비하다"
+  },
+  "example": {
+   "q": "What does your service do?",
+   "a": "It consumes events from Kafka and updates the search index.",
+   "a_ko": "Kafka에서 이벤트를 받아서 검색 인덱스를 갱신합니다."
+  },
+  "collocations": [
+   "consume an API",
+   "consume messages",
+   "consume memory"
+  ],
+  "related": [
+   "consumption",
+   "resume",
+   "resumption",
+   "presume"
+  ],
+  "tip": "메시지 큐에서 consumer(소비자)와 producer(생산자)가 짝"
+ },
+ {
+  "id": "d05-B20",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "consumption",
+  "pos": "noun",
+  "ipa": "/kənˈsʌmpʃən/",
+  "meaning_ko": "소비, 사용량",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히 (com)"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "완전히 취해 써 버림 → 소비 → 자원 사용량"
+  },
+  "example": {
+   "q": "What performance improvement are you proud of?",
+   "a": "I cut the app's memory consumption by forty percent.",
+   "a_ko": "앱의 메모리 사용량을 40% 줄였습니다."
+  },
+  "collocations": [
+   "memory consumption",
+   "power consumption",
+   "reduce consumption"
+  ],
+  "related": [
+   "consume",
+   "resumption",
+   "presume",
+   "resume"
+  ],
+  "tip": "consume → consumption에서 p가 끼어듦 (sumere의 과거분사 sumptum)"
+ },
+ {
+  "id": "d05-B21",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "resume",
+  "pos": "noun",
+  "ipa": "/ˈrezəmeɪ/",
+  "meaning_ko": "이력서",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "resumere = 다시 취하다 → 프랑스어 résumer(요약하다) → résumé(요약본) → 이력서"
+  },
+  "example": {
+   "q": "Can you walk me through your resume?",
+   "a": "Sure, my resume starts with five years of backend work in fintech.",
+   "a_ko": "네, 제 이력서는 핀테크 분야 백엔드 경력 5년으로 시작합니다."
+  },
+  "collocations": [
+   "walk through my resume",
+   "update my resume",
+   "a gap in my resume"
+  ],
+  "related": [
+   "resumption",
+   "consume",
+   "presume",
+   "consumption"
+  ],
+  "tip": "명사 '이력서'는 /ˈrez.ə.meɪ/(résumé), 동사 '재개하다'는 /rɪˈzuːm/ — 발음이 다름"
+ },
+ {
+  "id": "d05-B22",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "resumption",
+  "pos": "noun",
+  "ipa": "/rɪˈzʌmpʃən/",
+  "meaning_ko": "재개",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "다시 취함 → 멈췄던 것을 다시 시작함 → 재개"
+  },
+  "example": {
+   "q": "Walk me through how you handled that outage.",
+   "a": "After the fix, I managed a gradual resumption of traffic, ramping from ten percent to full load over an hour.",
+   "a_ko": "수정 후에는 트래픽을 10%에서 시작해 한 시간에 걸쳐 전체 부하까지 단계적으로 재개했습니다."
+  },
+  "collocations": [
+   "resumption of service",
+   "gradual resumption",
+   "resumption of work"
+  ],
+  "related": [
+   "resume",
+   "consumption",
+   "consume",
+   "presume"
+  ],
+  "tip": "동사 resume(/rɪˈzuːm/ 재개하다)의 명사형"
+ },
+ {
+  "id": "d05-B23",
+  "day": 5,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "step up",
+  "pos": "phrasal verb",
+  "ipa": "/step ˈʌp/",
+  "meaning_ko": "(책임을 맡으려) 나서다, 한 단계 올라서다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "step",
+     "type": "part",
+     "gloss": "걸음 (고대 영어)"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    }
+   ],
+   "story": "한 걸음 위로 올라서다 → 책임을 지려고 앞으로 나서다"
+  },
+  "example": {
+   "q": "Tell me about a time you showed leadership.",
+   "a": "When our lead left, I stepped up and ran sprint planning.",
+   "a_ko": "리드가 퇴사했을 때 제가 나서서 스프린트 계획을 맡았습니다."
+  },
+  "collocations": [
+   "step up to the challenge",
+   "step up as a leader",
+   "step up my game"
+  ],
+  "related": [
+   "grow",
+   "upskill",
+   "skill set"
+  ],
+  "tip": "리더십 질문에서 '자원해서 맡았다'를 한 마디로"
+ },
+ {
+  "id": "d05-B24",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "skill set",
+  "pos": "noun",
+  "ipa": "/ˈskɪl set/",
+  "meaning_ko": "보유 기술, 역량 조합",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "skill",
+     "type": "part",
+     "gloss": "기술·솜씨 (고대 노르드어 skil)"
+    },
+    {
+     "text": "set",
+     "type": "part",
+     "gloss": "한 벌·묶음"
+    }
+   ],
+   "story": "기술 + 한 벌 → 한 사람이 가진 기술의 조합"
+  },
+  "example": {
+   "q": "Why are you a good fit for this role?",
+   "a": "My skill set combines backend development and data engineering, which matches the hybrid work this team does.",
+   "a_ko": "제 역량은 백엔드 개발과 데이터 엔지니어링을 아우르고, 이 팀이 하는 복합적인 업무와 잘 맞습니다."
+  },
+  "collocations": [
+   "broaden my skill set",
+   "a diverse skill set",
+   "technical skill set"
+  ],
+  "related": [
+   "upskill",
+   "strength",
+   "learning curve"
+  ],
+  "tip": "skillset처럼 붙여 쓰기도 함. skills보다 '조합'을 강조"
+ },
+ {
+  "id": "d05-B25",
+  "day": 5,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "upskill",
+  "pos": "verb",
+  "ipa": "/ˈʌpskɪl/",
+  "meaning_ko": "역량을 끌어올리다, 기술을 더 익히다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    },
+    {
+     "text": "skill",
+     "type": "part",
+     "gloss": "기술 (고대 노르드어 skil)"
+    }
+   ],
+   "story": "기술을 위로 올리다 → 지금 분야에서 기술 수준을 한 단계 높이다"
+  },
+  "example": {
+   "q": "How do you keep your skills current?",
+   "a": "I set aside a few hours each week to upskill, and recently I finished a Kubernetes certification.",
+   "a_ko": "매주 몇 시간씩 따로 떼어 역량을 키우고 있고, 최근에는 쿠버네티스 자격증을 땄습니다."
+  },
+  "collocations": [
+   "upskill the team",
+   "upskill in AI",
+   "upskilling program"
+  ],
+  "related": [
+   "skill set",
+   "grow",
+   "learning curve"
+  ],
+  "tip": "reskill(다른 분야로 전환)과 구분: upskill은 지금 분야에서 한 단계 위로"
+ },
+ {
+  "id": "d05-C01",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "obtain",
+  "pos": "verb",
+  "ipa": "/əbˈteɪn/",
+  "meaning_ko": "얻다, 받아 오다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~을 향해"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "obtinere = ~을 향해 붙잡아 쥐다 → 손에 넣다 → 얻다"
+  },
+  "example": {
+   "q": "How does your app authenticate users?",
+   "a": "The client obtains a token from our auth server at login.",
+   "a_ko": "로그인할 때 클라이언트가 인증 서버에서 토큰을 받아 옵니다."
+  },
+  "collocations": [
+   "obtain a token",
+   "obtain approval",
+   "obtain a certification"
+  ],
+  "related": [
+   "retain",
+   "pertain",
+   "entertain",
+   "tenant"
+  ],
+  "tip": "get의 격식체. 자격증·승인을 '취득하다'에도 씀"
+ },
+ {
+  "id": "d05-C02",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "continue",
+  "pos": "verb",
+  "ipa": "/kənˈtɪnjuː/",
+  "meaning_ko": "계속하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "ue",
+     "type": "suffix",
+     "gloss": "동사 어미"
+    }
+   ],
+   "story": "continere(함께 붙잡고 있다) → continuus(끊김 없이 이어진) → 계속하다"
+  },
+  "example": {
+   "q": "Why do you want to stay in backend development?",
+   "a": "I want to continue building systems that handle real scale.",
+   "a_ko": "실제 대규모 트래픽을 처리하는 시스템을 계속 만들고 싶습니다."
+  },
+  "collocations": [
+   "continue to grow",
+   "continue working on",
+   "continue learning"
+  ],
+  "related": [
+   "continuous",
+   "retain",
+   "obtain",
+   "tenant"
+  ],
+  "tip": "continue to do / continue doing 둘 다 가능"
+ },
+ {
+  "id": "d05-C03",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "continuous",
+  "pos": "adjective",
+  "ipa": "/kənˈtɪnjuəs/",
+  "meaning_ko": "지속적인, 끊김 없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "uous",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "함께 붙잡고 있는 → 끊기지 않고 이어진 → 지속적인"
+  },
+  "example": {
+   "q": "What does your CI/CD setup look like?",
+   "a": "We use continuous integration, so every commit runs the full test suite.",
+   "a_ko": "지속적 통합(CI)을 써서 커밋마다 전체 테스트가 돌아갑니다."
+  },
+  "collocations": [
+   "continuous integration (CI)",
+   "continuous delivery",
+   "continuous improvement"
+  ],
+  "related": [
+   "continue",
+   "content",
+   "retention",
+   "obtain"
+  ],
+  "tip": "continuous(끊김 없이 계속) vs continual(자주 반복해서) 차이 주의"
+ },
+ {
+  "id": "d05-C04",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "content",
+  "pos": "noun",
+  "ipa": "/ˈkɑːntent/",
+  "meaning_ko": "콘텐츠, 내용",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "continere(담고 있다)의 과거분사 contentum → 안에 담긴 것 → 내용·콘텐츠"
+  },
+  "example": {
+   "q": "What kind of product did you work on?",
+   "a": "I built a content management system for a news website.",
+   "a_ko": "뉴스 사이트용 콘텐츠 관리 시스템(CMS)을 만들었습니다."
+  },
+  "collocations": [
+   "content management system (CMS)",
+   "user-generated content",
+   "content delivery network (CDN)"
+  ],
+  "related": [
+   "continue",
+   "continuous",
+   "retain",
+   "tenant"
+  ],
+  "tip": "명사 /ˈkɑːn.tent/(내용), 형용사 /kənˈtent/(만족한) — 강세 위치가 다름"
+ },
+ {
+  "id": "d05-C05",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "retain",
+  "pos": "verb",
+  "ipa": "/rɪˈteɪn/",
+  "meaning_ko": "유지하다, (인재·지식을) 붙잡아 두다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에·다시"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "retinere = 뒤에서 꽉 쥐고 있다 → 놓치지 않고 간직하다 → 유지하다"
+  },
+  "example": {
+   "q": "How do you make sure knowledge isn't lost when people leave?",
+   "a": "I write short design docs for every major choice, so the team retains context even after people move on.",
+   "a_ko": "중요한 결정마다 짧은 설계 문서를 남겨서, 사람이 떠나도 팀이 맥락을 잃지 않게 합니다."
+  },
+  "collocations": [
+   "retain talent",
+   "retain knowledge",
+   "retain customers"
+  ],
+  "related": [
+   "retention",
+   "obtain",
+   "continue",
+   "tenant"
+  ],
+  "tip": "keep의 격식체. 인재 유지(retain talent)는 면접관이 좋아하는 화제"
+ },
+ {
+  "id": "d05-C06",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "retention",
+  "pos": "noun",
+  "ipa": "/rɪˈtenʃən/",
+  "meaning_ko": "보존(기간), 유지율",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에·다시"
+    },
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "뒤에서 쥐고 있음 → 붙잡아 둠 → 보존·유지"
+  },
+  "example": {
+   "q": "How did you reduce your storage costs?",
+   "a": "I set a thirty-day retention policy for debug logs, which cut our storage bill by about half.",
+   "a_ko": "디버그 로그 보존 기간을 30일로 정해서 스토리지 비용을 절반 정도 줄였습니다."
+  },
+  "collocations": [
+   "data retention",
+   "retention policy",
+   "user retention"
+  ],
+  "related": [
+   "retain",
+   "obtain",
+   "continuous",
+   "tenant"
+  ],
+  "tip": "IT에서는 '데이터 보존 기간', 서비스 지표에서는 '사용자 유지율'"
+ },
+ {
+  "id": "d05-C07",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "tenant",
+  "pos": "noun",
+  "ipa": "/ˈtenənt/",
+  "meaning_ko": "테넌트 (서비스를 함께 쓰는 고객 단위)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "고대 프랑스어 tenir(보유하다)의 현재분사 → 땅을 쥐고 있는 사람 → 세입자 → 시스템을 빌려 쓰는 고객 단위"
+  },
+  "example": {
+   "q": "What was challenging about your SaaS platform?",
+   "a": "Because hundreds of tenants shared one cluster, I had to make sure one tenant's traffic spike never slowed down the others.",
+   "a_ko": "수백 개 테넌트가 클러스터 하나를 함께 써서, 한 테넌트의 트래픽 급증이 다른 테넌트를 느리게 만들지 않도록 해야 했습니다."
+  },
+  "collocations": [
+   "multi-tenant",
+   "tenant isolation",
+   "tenant ID"
+  ],
+  "related": [
+   "tenet",
+   "untenable",
+   "retain",
+   "content"
+  ],
+  "tip": "원래 뜻은 '세입자'. SaaS에서는 고객사 하나 = tenant 하나"
+ },
+ {
+  "id": "d05-C08",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "pertain",
+  "pos": "verb",
+  "ipa": "/pərˈteɪn/",
+  "meaning_ko": "(~에) 관련되다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히·끝까지"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "pertinere = 끝까지 뻗어 닿아 있다 → ~에 속하다 → 관련되다"
+  },
+  "example": {
+   "q": "Do you have any questions for us?",
+   "a": "Yes, one question pertains to the on-call rotation: how often would I be on call in the first year?",
+   "a_ko": "네, 당직 순번에 관한 질문이 하나 있습니다. 첫해에는 얼마나 자주 당직을 서게 되나요?"
+  },
+  "collocations": [
+   "pertain to",
+   "pertaining to",
+   "issues pertaining to"
+  ],
+  "related": [
+   "pertinent",
+   "retain",
+   "obtain",
+   "entertain"
+  ],
+  "tip": "relate to의 격식체. 'pertaining to ~'(~에 관한)로 자주 씀"
+ },
+ {
+  "id": "d05-C09",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "pertinent",
+  "pos": "adjective",
+  "ipa": "/ˈpɜːrtnənt/",
+  "meaning_ko": "관련 있는, 적절한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히·끝까지"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "pertinere(~에 닿아 있다) → 딱 관련된 → 적절한"
+  },
+  "example": {
+   "q": "How do you write a good bug report?",
+   "a": "I attach only the pertinent logs and steps to reproduce, so the next engineer doesn't have to dig through noise.",
+   "a_ko": "관련 있는 로그와 재현 단계만 첨부해서, 다음 엔지니어가 불필요한 정보를 뒤질 필요가 없게 합니다."
+  },
+  "collocations": [
+   "pertinent information",
+   "pertinent details",
+   "highly pertinent"
+  ],
+  "related": [
+   "pertain",
+   "retain",
+   "tenant",
+   "tenet"
+  ],
+  "tip": "relevant의 격식체. 반대말 impertinent는 '무례한'이라는 뜻이니 주의"
+ },
+ {
+  "id": "d05-C10",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "entertain",
+  "pos": "verb",
+  "ipa": "/ˌentərˈteɪn/",
+  "meaning_ko": "(생각·제안을) 고려하다, 즐겁게 하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "enter",
+     "type": "prefix",
+     "gloss": "사이에 (entre ← inter)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "고대 프랑스어 entretenir = 사이에서 붙들고 있다 → 유지하다·대접하다 → 생각을 마음에 품다 → 고려하다"
+  },
+  "example": {
+   "q": "What do you do when a teammate proposes a different approach?",
+   "a": "I'm always willing to entertain other approaches, as long as we compare them with real data.",
+   "a_ko": "실제 데이터로 비교만 한다면 다른 접근 방식도 언제든 기꺼이 고려합니다."
+  },
+  "collocations": [
+   "entertain an idea",
+   "entertain a proposal",
+   "entertain the possibility"
+  ],
+  "related": [
+   "retain",
+   "obtain",
+   "pertain",
+   "tenet"
+  ],
+  "tip": "면접에서는 '즐겁게 하다'보다 '(생각을) 고려하다'라는 뜻으로 씀"
+ },
+ {
+  "id": "d05-C11",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "tenet",
+  "pos": "noun",
+  "ipa": "/ˈtenɪt/",
+  "meaning_ko": "신조, 원칙",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "et",
+     "type": "suffix",
+     "gloss": "그가 ~한다 (라틴어 3인칭 어미)"
+    }
+   ],
+   "story": "라틴어 tenet = '그는 (그렇게) 굳게 쥐고 있다' → 굳게 지키는 믿음 → 신조"
+  },
+  "example": {
+   "q": "What engineering values matter most to you?",
+   "a": "A core tenet of mine is that every alert should be actionable; if nobody needs to act on it, I'd rather delete it.",
+   "a_ko": "제 핵심 신조 중 하나는 모든 알림이 행동으로 이어져야 한다는 것입니다. 아무도 대응할 필요가 없는 알림이라면 차라리 지웁니다."
+  },
+  "collocations": [
+   "a core tenet",
+   "basic tenets",
+   "the tenets of agile"
+  ],
+  "related": [
+   "tenant",
+   "untenable",
+   "retain",
+   "pertinent"
+  ],
+  "tip": "principle보다 '굳게 믿고 지키는 신조' 느낌. tenant(/ˈtenənt/)와 발음 구분"
+ },
+ {
+  "id": "d05-C12",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "untenable",
+  "pos": "adjective",
+  "ipa": "/ʌnˈtenəbl/",
+  "meaning_ko": "유지할 수 없는, 버틸 수 없는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "~아닌"
+    },
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "붙들고 있을 수 없는 → (입장·상황을) 지킬 수 없는 → 더는 버틸 수 없는"
+  },
+  "example": {
+   "q": "Why did you push for the rewrite?",
+   "a": "With releases taking four hours and failing half the time, the situation had become untenable, so I proposed breaking up the monolith in stages.",
+   "a_ko": "배포가 네 시간씩 걸리고 절반은 실패하는 상황이라 더는 버틸 수 없어서, 모놀리스를 단계적으로 나누자고 제안했습니다."
+  },
+  "collocations": [
+   "an untenable situation",
+   "an untenable position",
+   "become untenable"
+  ],
+  "related": [
+   "tenet",
+   "tenant",
+   "retain",
+   "continue"
+  ],
+  "tip": "unsustainable과 비슷. '이대로는 안 된다'를 격식 있게 말할 때"
+ },
+ {
+  "id": "d05-C13",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "presume",
+  "pos": "verb",
+  "ipa": "/prɪˈzuːm/",
+  "meaning_ko": "(확인 없이) 짐작하다, 추정하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "praesumere = 미리 취하다 → 확인하기 전에 사실로 받아들이다 → 짐작하다"
+  },
+  "example": {
+   "q": "How do you approach a ticket with vague requirements?",
+   "a": "I don't presume I know what the user wants; I ask the product manager a few quick questions first.",
+   "a_ko": "사용자가 원하는 걸 안다고 짐작하지 않고, 먼저 PM에게 짧게 몇 가지 질문합니다."
+  },
+  "collocations": [
+   "presume that",
+   "I presume",
+   "presumed to be"
+  ],
+  "related": [
+   "presumptuous",
+   "subsume",
+   "consume",
+   "resume"
+  ],
+  "tip": "assume과 비슷하지만 presume은 '어느 정도 근거가 있는 짐작'"
+ },
+ {
+  "id": "d05-C14",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "presumptuous",
+  "pos": "adjective",
+  "ipa": "/prɪˈzʌmptʃuəs/",
+  "meaning_ko": "주제넘은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tuous",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "미리 취해 버리는 → 허락도 받기 전에 나서는 → 주제넘은"
+  },
+  "example": {
+   "q": "Do you have any questions for us?",
+   "a": "I don't want to be presumptuous, but if I join the team, could you tell me what my first project would likely be?",
+   "a_ko": "주제넘은 질문일 수도 있지만, 혹시 제가 팀에 합류하게 된다면 첫 프로젝트는 무엇이 될지 여쭤봐도 될까요?"
+  },
+  "collocations": [
+   "I don't want to be presumptuous, but",
+   "seem presumptuous",
+   "a presumptuous question"
+  ],
+  "related": [
+   "presume",
+   "subsume",
+   "consumption",
+   "resumption"
+  ],
+  "tip": "'I don't want to be presumptuous, but ~'는 조심스럽게 질문을 꺼내는 통문장"
+ },
+ {
+  "id": "d05-C15",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "subsume",
+  "pos": "verb",
+  "ipa": "/səbˈsuːm/",
+  "meaning_ko": "(더 큰 것에) 포함시키다, 흡수하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "아래로 취해 넣다 → 더 큰 범주 안에 포함시키다"
+  },
+  "example": {
+   "q": "How did you simplify the codebase?",
+   "a": "We had three logging libraries, so I subsumed them into one shared module with a single configuration.",
+   "a_ko": "로깅 라이브러리가 세 개나 있어서, 설정 하나로 관리되는 공통 모듈 하나로 흡수해 통합했습니다."
+  },
+  "collocations": [
+   "subsume into",
+   "be subsumed under",
+   "subsume a role"
+  ],
+  "related": [
+   "presume",
+   "consume",
+   "resume",
+   "presumptuous"
+  ],
+  "tip": "merge보다 '큰 쪽이 작은 쪽을 품는다'는 느낌. 문어체"
+ },
+ {
+  "id": "d05-C16",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "ability",
+  "pos": "noun",
+  "ipa": "/əˈbɪləti/",
+  "meaning_ko": "능력",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "abil",
+     "type": "root",
+     "gloss": "다루기 쉬운 (habilis ← habere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "habere(쥐다) → habilis(손에 쥐고 다루기 쉬운) → habilitas → 고대 프랑스어 ableté → 능력"
+  },
+  "example": {
+   "q": "What makes you a good team player?",
+   "a": "My ability to explain technical ideas simply helps the whole team.",
+   "a_ko": "기술적인 내용을 쉽게 설명하는 능력이 팀 전체에 도움이 됩니다."
+  },
+  "collocations": [
+   "ability to + 동사",
+   "to the best of my ability",
+   "leadership ability"
+  ],
+  "related": [
+   "enable",
+   "disable",
+   "exhibit",
+   "prohibit"
+  ],
+  "tip": "ability to do. 'to the best of my ability'(최선을 다해)도 함께 외우기"
+ },
+ {
+  "id": "d05-C17",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "enable",
+  "pos": "verb",
+  "ipa": "/ɪˈneɪbl/",
+  "meaning_ko": "가능하게 하다, (기능을) 켜다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~하게 만들다"
+    },
+    {
+     "text": "able",
+     "type": "root",
+     "gloss": "할 수 있는 (habilis ← habere)"
+    }
+   ],
+   "story": "할 수 있게 만들다 → 가능하게 하다 → 기능을 켜다"
+  },
+  "example": {
+   "q": "How do you release risky features?",
+   "a": "I hide them behind feature flags and enable them gradually.",
+   "a_ko": "위험한 기능은 피처 플래그 뒤에 숨겨 두고 조금씩 켭니다."
+  },
+  "collocations": [
+   "enable a feature",
+   "enable the team to",
+   "enable logging"
+  ],
+  "related": [
+   "disable",
+   "ability",
+   "exhibit",
+   "prohibit"
+  ],
+  "tip": "enable A to do = A가 ~할 수 있게 하다. 설정을 '켜다'로도 씀"
+ },
+ {
+  "id": "d05-C18",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "disable",
+  "pos": "verb",
+  "ipa": "/dɪsˈeɪbl/",
+  "meaning_ko": "(기능을) 끄다, 비활성화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "반대로·없애다"
+    },
+    {
+     "text": "able",
+     "type": "root",
+     "gloss": "할 수 있는 (habilis ← habere)"
+    }
+   ],
+   "story": "할 수 있는 상태를 없애다 → 못 하게 하다 → 기능을 끄다"
+  },
+  "example": {
+   "q": "What did you do first during the incident?",
+   "a": "I disabled the new feature flag right away to stop the errors.",
+   "a_ko": "오류를 멈추려고 새 기능 플래그부터 바로 껐습니다."
+  },
+  "collocations": [
+   "disable a feature",
+   "disable caching",
+   "temporarily disable"
+  ],
+  "related": [
+   "enable",
+   "ability",
+   "prohibit",
+   "exhibit"
+  ],
+  "tip": "turn off의 IT 용어. 명사 disability는 '장애'라는 뜻이니 문맥 주의"
+ },
+ {
+  "id": "d05-C19",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "debt",
+  "pos": "noun",
+  "ipa": "/det/",
+  "meaning_ko": "빚, 부채",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "debt",
+     "type": "root",
+     "gloss": "빚지다 (debere ← de + habere)"
+    }
+   ],
+   "story": "de(떨어져) + habere(가지다) → debere(남의 것을 가지고 있다 = 빚지다) → debitum → 빚 → 기술 부채"
+  },
+  "example": {
+   "q": "How do you balance new features and code quality?",
+   "a": "I set aside some time each sprint to pay down technical debt.",
+   "a_ko": "스프린트마다 일정 시간을 떼어 기술 부채를 갚습니다."
+  },
+  "collocations": [
+   "technical debt",
+   "pay down debt",
+   "accumulate debt"
+  ],
+  "related": [
+   "indebted",
+   "duty",
+   "due",
+   "endeavor"
+  ],
+  "tip": "b는 묵음 /det/. 라틴어 debitum을 따라 철자에만 b를 다시 넣은 것"
+ },
+ {
+  "id": "d05-C20",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "indebted",
+  "pos": "adjective",
+  "ipa": "/ɪnˈdetɪd/",
+  "meaning_ko": "신세를 진, (은혜를 입어) 고마운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "debt",
+     "type": "root",
+     "gloss": "빚 (debere ← de + habere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "빚 안에 들어간 → 빚진 → 은혜를 입은"
+  },
+  "example": {
+   "q": "Who has shaped your career most?",
+   "a": "I'm deeply indebted to my first mentor, who taught me to read code before writing it.",
+   "a_ko": "첫 멘토에게 큰 신세를 졌습니다. 코드를 쓰기 전에 먼저 읽는 법을 가르쳐 주셨거든요."
+  },
+  "collocations": [
+   "indebted to",
+   "deeply indebted",
+   "forever indebted"
+  ],
+  "related": [
+   "debt",
+   "duty",
+   "due",
+   "endeavor"
+  ],
+  "tip": "grateful보다 '은혜를 입었다'는 깊은 감사. b는 묵음"
+ },
+ {
+  "id": "d05-C21",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "duty",
+  "pos": "noun",
+  "ipa": "/ˈduːti/",
+  "meaning_ko": "직무, 의무",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "du",
+     "type": "root",
+     "gloss": "빚진·마땅한 (debere)"
+    },
+    {
+     "text": "ty",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "debere(빚지다) → 고대 프랑스어 deu(마땅히 해야 할) → 해야 할 일 → 직무·의무"
+  },
+  "example": {
+   "q": "What are your main duties now?",
+   "a": "My main duty is building APIs, and I also review most of the team's pull requests.",
+   "a_ko": "주된 업무는 API 개발이고, 팀 풀 리퀘스트도 대부분 제가 리뷰합니다."
+  },
+  "collocations": [
+   "main duties",
+   "on duty",
+   "duties and responsibilities"
+  ],
+  "related": [
+   "due",
+   "debt",
+   "indebted",
+   "endeavor"
+  ],
+  "tip": "'맡은 업무 목록'에 가까운 말. 답변에서는 duties 뒤에 성과를 붙여 말하기"
+ },
+ {
+  "id": "d05-C22",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "due",
+  "pos": "adjective",
+  "ipa": "/duː/",
+  "meaning_ko": "~때문인, (기한이) 예정된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "due",
+     "type": "root",
+     "gloss": "빚진·마땅한 (debere)"
+    }
+   ],
+   "story": "debere(빚지다)의 과거분사 → 고대 프랑스어 deu(갚아야 할) → 기한이 된 → ~에 돌려야 할(~때문인)"
+  },
+  "example": {
+   "q": "Why did you leave your last company?",
+   "a": "I left due to a reorganization that removed my team.",
+   "a_ko": "제 팀이 없어지는 조직 개편 때문에 퇴사했습니다."
+  },
+  "collocations": [
+   "due to",
+   "due date",
+   "in due course"
+  ],
+  "related": [
+   "duty",
+   "debt",
+   "indebted",
+   "endeavor"
+  ],
+  "tip": "due to + 명사 = ~때문에. 퇴사 이유를 부정적이지 않게 설명할 때 좋음"
+ },
+ {
+  "id": "d05-C23",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "endeavor",
+  "pos": "noun",
+  "ipa": "/ɪnˈdevər/",
+  "meaning_ko": "노력, 시도",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~안에"
+    },
+    {
+     "text": "deavor",
+     "type": "root",
+     "gloss": "의무 (devoir ← debere)"
+    }
+   ],
+   "story": "고대 프랑스어 mettre en deveir(의무로 삼다) → 의무로 여기고 힘쓰다 → 노력·시도"
+  },
+  "example": {
+   "q": "What do you do outside of work?",
+   "a": "My latest endeavor outside work is an open-source library for parsing invoices, which now has a few hundred users.",
+   "a_ko": "요즘 업무 외에 하고 있는 일은 청구서를 파싱하는 오픈소스 라이브러리로, 지금은 사용자가 수백 명 정도 됩니다."
+  },
+  "collocations": [
+   "in all my endeavors",
+   "a new endeavor",
+   "make every endeavor"
+  ],
+  "related": [
+   "duty",
+   "due",
+   "debt",
+   "indebted"
+  ],
+  "tip": "영국식 철자는 endeavour. effort보다 '도전·시도'에 무게"
+ },
+ {
+  "id": "d05-C24",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "feedback",
+  "pos": "noun",
+  "ipa": "/ˈfiːdbæk/",
+  "meaning_ko": "피드백, 의견",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feed",
+     "type": "part",
+     "gloss": "먹이다·공급하다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "되돌려"
+    }
+   ],
+   "story": "출력을 다시 입력으로 되먹이다(전자공학 용어) → 결과에 대한 의견"
+  },
+  "example": {
+   "q": "How do you improve as an engineer?",
+   "a": "I ask for feedback after every project and act on it quickly.",
+   "a_ko": "프로젝트가 끝날 때마다 피드백을 요청하고 바로 반영합니다."
+  },
+  "collocations": [
+   "ask for feedback",
+   "constructive feedback",
+   "give feedback"
+  ],
+  "related": [
+   "grow",
+   "upskill",
+   "learning curve"
+  ],
+  "tip": "셀 수 없는 명사: a feedback (X) → some feedback / a piece of feedback"
+ },
+ {
+  "id": "d05-C25",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "lessons learned",
+  "pos": "phrase",
+  "ipa": "/ˈlesənz ˌlɝːnd/",
+  "meaning_ko": "얻은 교훈",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lessons",
+     "type": "part",
+     "gloss": "배움 (라틴어 lectio 읽기)"
+    },
+    {
+     "text": "learned",
+     "type": "part",
+     "gloss": "배운 (고대 영어 leornian)"
+    }
+   ],
+   "story": "읽고 배운 것 → 경험에서 얻은 교훈"
+  },
+  "example": {
+   "q": "What did you learn from that failed project?",
+   "a": "The main lessons learned were to test early and share risks sooner.",
+   "a_ko": "가장 큰 교훈은 일찍 테스트하고 위험을 더 빨리 공유하는 것이었습니다."
+  },
+  "collocations": [
+   "share lessons learned",
+   "key lessons learned"
+  ],
+  "related": [
+   "lecture",
+   "collect",
+   "select"
+  ],
+  "tip": "실패 경험 질문의 답을 마무리할 때 쓰는 정석 표현"
+ },
+ {
+  "id": "d05-D01",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "attract",
+  "pos": "verb",
+  "ipa": "/əˈtrækt/",
+  "meaning_ko": "끌어들이다, 마음을 끌다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "~쪽으로 끌어당기다 → 마음을 끌다"
+  },
+  "example": {
+   "q": "What attracted you to our company?",
+   "a": "Your focus on developer tools attracted me, because I love building for engineers.",
+   "a_ko": "개발자 도구에 집중하는 점에 끌렸습니다. 엔지니어를 위한 제품을 만드는 걸 좋아하거든요."
+  },
+  "collocations": [
+   "attract talent",
+   "attract users",
+   "be attracted to"
+  ],
+  "related": [
+   "attractive",
+   "traction",
+   "distract",
+   "extract"
+  ],
+  "tip": "지원 동기 질문 'What attracted you to ~?'에 그대로 받아서 답하기"
+ },
+ {
+  "id": "d05-D02",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "attractive",
+  "pos": "adjective",
+  "ipa": "/əˈtræktɪv/",
+  "meaning_ko": "매력적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 (형용사)"
+    }
+   ],
+   "story": "끌어당기는 성질의 → 매력적인"
+  },
+  "example": {
+   "q": "Why does this role interest you?",
+   "a": "The chance to work on large-scale data systems is very attractive to me.",
+   "a_ko": "대규모 데이터 시스템을 다룰 기회가 저에게 아주 매력적입니다."
+  },
+  "collocations": [
+   "an attractive offer",
+   "attractive to",
+   "highly attractive"
+  ],
+  "related": [
+   "attract",
+   "traction",
+   "distraction",
+   "extract"
+  ],
+  "tip": "외모보다 기회·조건(opportunity, offer)에 많이 씀"
+ },
+ {
+  "id": "d05-D03",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "distract",
+  "pos": "verb",
+  "ipa": "/dɪˈstrækt/",
+  "meaning_ko": "주의를 흩뜨리다, 방해하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져·따로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "다른 쪽으로 떼어 끌다 → 주의를 흩뜨리다"
+  },
+  "example": {
+   "q": "How do you stay focused?",
+   "a": "I mute chat for two hours each morning so nothing distracts me.",
+   "a_ko": "매일 아침 두 시간은 채팅 알림을 꺼서 방해받지 않게 합니다."
+  },
+  "collocations": [
+   "distract from",
+   "get distracted",
+   "easily distracted"
+  ],
+  "related": [
+   "distraction",
+   "attract",
+   "detract",
+   "extract"
+  ],
+  "tip": "be distracted by ~ = ~때문에 집중을 못 하다"
+ },
+ {
+  "id": "d05-D04",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "distraction",
+  "pos": "noun",
+  "ipa": "/dɪˈstrækʃən/",
+  "meaning_ko": "방해 요소, 주의 산만",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져·따로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "주의를 딴 데로 끄는 것 → 방해 요소"
+  },
+  "example": {
+   "q": "How do you work remotely?",
+   "a": "I keep a separate workspace at home to avoid distractions.",
+   "a_ko": "방해 요소를 피하려고 집에 따로 작업 공간을 두고 있습니다."
+  },
+  "collocations": [
+   "avoid distractions",
+   "minimize distractions",
+   "without distraction"
+  ],
+  "related": [
+   "distract",
+   "attract",
+   "traction",
+   "detract"
+  ],
+  "tip": "원격 근무 질문에 자주 나오는 단어"
+ },
+ {
+  "id": "d05-D05",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "extract",
+  "pos": "verb",
+  "ipa": "/ɪkˈstrækt/",
+  "meaning_ko": "추출하다, 뽑아내다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "밖으로 끌어내다 → 뽑아내다 → 추출하다"
+  },
+  "example": {
+   "q": "How did you clean up that legacy code?",
+   "a": "I extracted the shared logic into small, well-tested functions.",
+   "a_ko": "공통 로직을 작고 테스트가 잘된 함수들로 뽑아냈습니다."
+  },
+  "collocations": [
+   "extract a method",
+   "extract data",
+   "extract insights"
+  ],
+  "related": [
+   "extraction",
+   "attract",
+   "distract",
+   "subtract"
+  ],
+  "tip": "리팩터링 기법 'Extract Method'의 그 extract. 동사는 /ɪkˈstrækt/, 명사는 /ˈek.strækt/"
+ },
+ {
+  "id": "d05-D06",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "extraction",
+  "pos": "noun",
+  "ipa": "/ɪkˈstrækʃən/",
+  "meaning_ko": "추출",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "밖으로 끌어냄 → 추출"
+  },
+  "example": {
+   "q": "Tell me about your data pipeline experience.",
+   "a": "I owned the extraction step, pulling data from six source systems every night and validating it before loading.",
+   "a_ko": "추출 단계를 맡아 매일 밤 여섯 개 원천 시스템에서 데이터를 가져와 적재 전에 검증했습니다."
+  },
+  "collocations": [
+   "data extraction",
+   "feature extraction",
+   "ETL (extract, transform, load)"
+  ],
+  "related": [
+   "extract",
+   "subtract",
+   "trace",
+   "traction"
+  ],
+  "tip": "ETL의 E. 머신러닝의 feature extraction(특징 추출)으로도 씀"
+ },
+ {
+  "id": "d05-D07",
+  "day": 5,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "traction",
+  "pos": "noun",
+  "ipa": "/ˈtrækʃən/",
+  "meaning_ko": "호응, 탄력 (성과가 붙기 시작함)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "끄는 힘 → 바퀴가 땅을 붙잡고 나아가는 힘(접지력) → 아이디어·제품이 실제로 앞으로 나아가는 힘 → 호응"
+  },
+  "example": {
+   "q": "Tell me about an idea you championed.",
+   "a": "My idea for a shared UI library didn't gain traction at first, so I built a small demo, and within a month three teams had adopted it.",
+   "a_ko": "공통 UI 라이브러리 아이디어가 처음에는 호응을 얻지 못해서 작은 데모를 만들었고, 한 달 만에 세 팀이 도입했습니다."
+  },
+  "collocations": [
+   "gain traction",
+   "get traction",
+   "early traction"
+  ],
+  "related": [
+   "attract",
+   "extract",
+   "intractable",
+   "protracted"
+  ],
+  "tip": "'gain traction' = 호응을 얻다·탄력이 붙다. 스타트업·제품 이야기의 단골 표현"
+ },
+ {
+  "id": "d05-D08",
+  "day": 5,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "intractable",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtræktəbl/",
+  "meaning_ko": "다루기 힘든, 고질적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~아닌"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다·다루다 (trahere)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "tractabilis(다룰 수 있는, tractare ← trahere) → 다룰 수 없는 → 고질적인"
+  },
+  "example": {
+   "q": "What's the toughest technical problem you've solved?",
+   "a": "A memory leak in our payment service had seemed intractable for months, but I finally reproduced it with a heap dump and traced it to an unclosed stream.",
+   "a_ko": "결제 서비스의 메모리 누수가 몇 달 동안 손쓸 수 없어 보였는데, 힙 덤프로 재현해서 닫히지 않은 스트림이 원인이라는 걸 찾아냈습니다."
+  },
+  "collocations": [
+   "an intractable problem",
+   "seemingly intractable",
+   "computationally intractable"
+  ],
+  "related": [
+   "traction",
+   "treat",
+   "attract",
+   "protracted"
+  ],
+  "tip": "computationally intractable(계산상 현실적으로 풀 수 없는)은 알고리즘 용어로도 씀"
+ },
+ {
+  "id": "d05-D09",
+  "day": 5,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "protracted",
+  "pos": "adjective",
+  "ipa": "/proʊˈtræktɪd/",
+  "meaning_ko": "(질질) 오래 끈",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "앞으로 길게 끌어낸 → 질질 늘어진 → 오래 끈"
+  },
+  "example": {
+   "q": "Tell me about a disagreement with your team.",
+   "a": "We were stuck in a protracted debate over two databases, so I suggested a one-week spike to test both, and the data settled it.",
+   "a_ko": "데이터베이스 두 개를 두고 논쟁이 길어져서, 둘 다 시험해 보는 1주일짜리 스파이크를 제안했고 결국 데이터로 결론이 났습니다."
+  },
+  "collocations": [
+   "a protracted debate",
+   "protracted negotiations",
+   "a protracted outage"
+  ],
+  "related": [
+   "traction",
+   "intractable",
+   "retract",
+   "detract"
+  ],
+  "tip": "long보다 '쓸데없이 길어진'이라는 부정적인 뉘앙스"
+ },
+ {
+  "id": "d05-D10",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "detract",
+  "pos": "verb",
+  "ipa": "/dɪˈtrækt/",
+  "meaning_ko": "(가치를) 떨어뜨리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져·아래로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "떼어 끌어내다 → 덜어 내다 → 가치를 깎아내리다"
+  },
+  "example": {
+   "q": "How do you choose what to leave out of a release?",
+   "a": "I cut features that would detract from the core experience, even if they're fun to build.",
+   "a_ko": "만들기 재미있더라도 핵심 경험을 해치는 기능은 뺍니다."
+  },
+  "collocations": [
+   "detract from",
+   "detract from the value",
+   "not detract"
+  ],
+  "related": [
+   "distract",
+   "retract",
+   "attract",
+   "protracted"
+  ],
+  "tip": "항상 detract from 형태. distract(주의를 흩뜨리다)와 헷갈리지 않기"
+ },
+ {
+  "id": "d05-D11",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "retract",
+  "pos": "verb",
+  "ipa": "/rɪˈtrækt/",
+  "meaning_ko": "(말·제안을) 철회하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "뒤로 끌어당기다 → 내놓은 것을 거둬들이다 → 철회하다"
+  },
+  "example": {
+   "q": "Tell me about a time you were wrong.",
+   "a": "I once pushed hard for a caching layer, but I retracted my suggestion after load tests showed it barely helped.",
+   "a_ko": "한번은 캐시 계층 도입을 강하게 주장했지만, 부하 테스트에서 거의 효과가 없다고 나와서 제안을 철회했습니다."
+  },
+  "collocations": [
+   "retract a statement",
+   "retract a suggestion",
+   "retract an offer"
+  ],
+  "related": [
+   "retreat",
+   "detract",
+   "protracted",
+   "attract"
+  ],
+  "tip": "틀렸음을 인정하는 답변에서 성숙함을 보여 주는 단어"
+ },
+ {
+  "id": "d05-D12",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "subtract",
+  "pos": "verb",
+  "ipa": "/səbˈtrækt/",
+  "meaning_ko": "빼다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에서"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "아래에서 끌어내다 → 빼내다 → 빼다"
+  },
+  "example": {
+   "q": "How did you measure the real processing time?",
+   "a": "I subtracted the queue wait time from the total response time.",
+   "a_ko": "전체 응답 시간에서 큐 대기 시간을 뺐습니다."
+  },
+  "collocations": [
+   "subtract A from B",
+   "add and subtract",
+   "subtract the overhead"
+  ],
+  "related": [
+   "extract",
+   "attract",
+   "distract",
+   "trace"
+  ],
+  "tip": "subtract A from B = B에서 A를 빼다 (순서 주의)"
+ },
+ {
+  "id": "d05-D13",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "trait",
+  "pos": "noun",
+  "ipa": "/treɪt/",
+  "meaning_ko": "특성, 성향",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trait",
+     "type": "root",
+     "gloss": "끌다·긋다 (tractus ← trahere)"
+    }
+   ],
+   "story": "라틴어 tractus(끈 것, 그은 선) → 프랑스어 trait(획) → 얼굴·성격을 그리는 획 → 특성"
+  },
+  "example": {
+   "q": "What personality trait helps you most at work?",
+   "a": "My most useful trait is curiosity, because it keeps me learning.",
+   "a_ko": "가장 도움이 되는 제 성향은 호기심입니다. 계속 배우게 해 주거든요."
+  },
+  "collocations": [
+   "personality trait",
+   "key trait",
+   "leadership traits"
+  ],
+  "related": [
+   "treat",
+   "portray",
+   "trace",
+   "traction"
+  ],
+  "tip": "미국식 /treɪt/ (끝 t를 발음). 강점 질문에서 타고난 성향을 말할 때"
+ },
+ {
+  "id": "d05-D14",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "treat",
+  "pos": "verb",
+  "ipa": "/triːt/",
+  "meaning_ko": "다루다, 취급하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "treat",
+     "type": "root",
+     "gloss": "다루다 (tractare ← trahere)"
+    }
+   ],
+   "story": "라틴어 tractare(자꾸 끌다 → 만지다·다루다) → 고대 프랑스어 traitier → 다루다·취급하다"
+  },
+  "example": {
+   "q": "How strict are you about code quality?",
+   "a": "I treat compiler warnings as errors, so problems never pile up.",
+   "a_ko": "컴파일러 경고를 오류로 취급해서 문제가 쌓이지 않게 합니다."
+  },
+  "collocations": [
+   "treat A as B",
+   "treat warnings as errors",
+   "treat people fairly"
+  ],
+  "related": [
+   "trait",
+   "intractable",
+   "portray",
+   "retreat"
+  ],
+  "tip": "treat A as B = A를 B로 취급하다. '대접하다'라는 뜻도 있음"
+ },
+ {
+  "id": "d05-D15",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "portray",
+  "pos": "verb",
+  "ipa": "/pɔːrˈtreɪ/",
+  "meaning_ko": "묘사하다, (~로) 그려 보이다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "por",
+     "type": "prefix",
+     "gloss": "앞으로 (pro)"
+    },
+    {
+     "text": "tray",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "protrahere(앞으로 끌어내다) → 고대 프랑스어 portraire(그려 내다) → 묘사하다"
+  },
+  "example": {
+   "q": "How do you present results to non-technical leaders?",
+   "a": "I portray the impact in business language, like hours saved or revenue protected, rather than technical metrics.",
+   "a_ko": "기술 지표보다는 절약한 시간이나 지켜 낸 매출처럼 비즈니스 언어로 효과를 보여 드립니다."
+  },
+  "collocations": [
+   "portray A as B",
+   "accurately portray",
+   "portray the situation"
+  ],
+  "related": [
+   "trait",
+   "treat",
+   "retreat",
+   "traction"
+  ],
+  "tip": "portrait(초상화)와 같은 뿌리. portray A as B = A를 B로 그리다"
+ },
+ {
+  "id": "d05-D16",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "train",
+  "pos": "verb",
+  "ipa": "/treɪn/",
+  "meaning_ko": "(모델을) 학습시키다, 훈련하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "train",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "trahere → 속라틴어 *traginare → 고대 프랑스어 trainer(끌다) → 끌어 이끌다 → 가르치다·훈련하다"
+  },
+  "example": {
+   "q": "Have you worked with machine learning?",
+   "a": "Yes, I trained a model to classify support tickets.",
+   "a_ko": "네, 고객 문의 티켓을 분류하는 모델을 학습시켰습니다."
+  },
+  "collocations": [
+   "train a model",
+   "training data",
+   "train new hires"
+  ],
+  "related": [
+   "training",
+   "trace",
+   "trait",
+   "treat"
+  ],
+  "tip": "ML에서 train(학습) / test(평가). 기차 train도 '끌려가는 줄'에서 나온 말"
+ },
+ {
+  "id": "d05-D17",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "training",
+  "pos": "noun",
+  "ipa": "/ˈtreɪnɪŋ/",
+  "meaning_ko": "교육, 연수",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "train",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기 (명사)"
+    }
+   ],
+   "story": "끌어 이끌기 → 가르치기 → 교육·연수"
+  },
+  "example": {
+   "q": "How did you onboard new team members?",
+   "a": "I created a two-week training plan for new backend engineers.",
+   "a_ko": "신입 백엔드 엔지니어를 위한 2주짜리 교육 계획을 만들었습니다."
+  },
+  "collocations": [
+   "training plan",
+   "on-the-job training",
+   "receive training"
+  ],
+  "related": [
+   "train",
+   "trait",
+   "treat",
+   "attract"
+  ],
+  "tip": "셀 수 없는 명사: a training (X) → a training program"
+ },
+ {
+  "id": "d05-D18",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "trace",
+  "pos": "verb",
+  "ipa": "/treɪs/",
+  "meaning_ko": "추적하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trace",
+     "type": "root",
+     "gloss": "끌다 (tractus ← trahere)"
+    }
+   ],
+   "story": "tractus(끈 자국) → 속라틴어 *tractiare → 고대 프랑스어 tracier(자국을 따라가다) → 추적하다"
+  },
+  "example": {
+   "q": "How do you debug slow requests?",
+   "a": "I trace each request across services to find the slow step.",
+   "a_ko": "요청 하나하나를 서비스 간에 추적해서 느린 단계를 찾습니다."
+  },
+  "collocations": [
+   "trace a request",
+   "stack trace",
+   "distributed tracing"
+  ],
+  "related": [
+   "traceability",
+   "train",
+   "trait",
+   "extract"
+  ],
+  "tip": "stack trace(호출 기록), distributed tracing(분산 추적)으로 IT에서 자주 씀"
+ },
+ {
+  "id": "d05-D19",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "traceability",
+  "pos": "noun",
+  "ipa": "/ˌtreɪsəˈbɪləti/",
+  "meaning_ko": "추적 가능성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trace",
+     "type": "root",
+     "gloss": "끌다 (tractus ← trahere)"
+    },
+    {
+     "text": "abil",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (-able)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "자국을 따라갈 수 있음 → 추적 가능성"
+  },
+  "example": {
+   "q": "How do you handle compliance requirements?",
+   "a": "I link every commit to a ticket, so we have full traceability from requirement to release during audits.",
+   "a_ko": "모든 커밋을 티켓과 연결해서, 감사 때 요구사항부터 출시까지 전부 추적할 수 있게 합니다."
+  },
+  "collocations": [
+   "end-to-end traceability",
+   "requirements traceability",
+   "ensure traceability"
+  ],
+  "related": [
+   "trace",
+   "extract",
+   "train",
+   "treat"
+  ],
+  "tip": "금융·의료처럼 규제가 있는 업계 면접에서 특히 중요"
+ },
+ {
+  "id": "d05-D20",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "retreat",
+  "pos": "noun",
+  "ipa": "/rɪˈtriːt/",
+  "meaning_ko": "(팀) 워크숍, 후퇴",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "treat",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "retrahere(뒤로 끌다) → 고대 프랑스어 retret(물러남) → 후퇴 → 일상에서 물러나 모이는 자리"
+  },
+  "example": {
+   "q": "How do you build trust on a remote team?",
+   "a": "I helped organize our first team retreat, and meeting in person made our async work much smoother afterward.",
+   "a_ko": "첫 팀 워크숍을 함께 준비했는데, 직접 만나고 나니 이후 비동기 협업이 훨씬 매끄러워졌습니다."
+  },
+  "collocations": [
+   "team retreat",
+   "company retreat",
+   "retreat from"
+  ],
+  "related": [
+   "retract",
+   "treat",
+   "portray",
+   "attract"
+  ],
+  "tip": "원래 '후퇴'. 회사에서는 일상 업무를 떠나 모이는 워크숍(offsite)"
+ },
+ {
+  "id": "d05-D21",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "exhibit",
+  "pos": "verb",
+  "ipa": "/ɪɡˈzɪbɪt/",
+  "meaning_ko": "(자질을) 보여 주다, 드러내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다·가지다 (hab ← habere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "동사 어미 (과거분사 -itus)"
+    }
+   ],
+   "story": "exhibere = 밖으로 내밀어 쥐고 있다 → 내보이다 → 드러내다"
+  },
+  "example": {
+   "q": "Why do you think you're ready for a senior role?",
+   "a": "I've repeatedly exhibited ownership, for example by leading two migrations from start to finish without being asked.",
+   "a_ko": "주인의식을 여러 번 보여 왔습니다. 예를 들어 누가 시키지 않아도 마이그레이션 두 건을 처음부터 끝까지 이끌었습니다."
+  },
+  "collocations": [
+   "exhibit leadership",
+   "exhibit behavior",
+   "exhibit symptoms"
+  ],
+  "related": [
+   "prohibit",
+   "prohibitive",
+   "ability",
+   "enable"
+  ],
+  "tip": "show의 격식체. 발음 /ɪɡˈzɪb.ɪt/ — h는 소리 나지 않음"
+ },
+ {
+  "id": "d05-D22",
+  "day": 5,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "prohibit",
+  "pos": "verb",
+  "ipa": "/proʊˈhɪbɪt/",
+  "meaning_ko": "금지하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다·가지다 (hab ← habere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "동사 어미 (과거분사 -itus)"
+    }
+   ],
+   "story": "prohibere = 앞에서 붙잡아 막다 → 금지하다"
+  },
+  "example": {
+   "q": "How do you keep secrets out of your repository?",
+   "a": "Our pipeline prohibits any commit with API keys or passwords.",
+   "a_ko": "파이프라인이 API 키나 비밀번호가 들어간 커밋을 아예 막습니다."
+  },
+  "collocations": [
+   "prohibit A from -ing",
+   "strictly prohibited",
+   "prohibit access"
+  ],
+  "related": [
+   "prohibitive",
+   "exhibit",
+   "ability",
+   "enable"
+  ],
+  "tip": "prohibit A from doing = A가 ~하는 것을 금지하다"
+ },
+ {
+  "id": "d05-D23",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "prohibitive",
+  "pos": "adjective",
+  "ipa": "/proʊˈhɪbətɪv/",
+  "meaning_ko": "(비용이) 엄두를 못 낼 만큼 비싼",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다·가지다 (hab ← habere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "동사 어미 (과거분사 -itus)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 (형용사)"
+    }
+   ],
+   "story": "앞을 막는 → 비용이 너무 커서 사실상 막아 버리는 → 엄두를 못 낼 만큼 비싼"
+  },
+  "example": {
+   "q": "Why didn't you use a managed service?",
+   "a": "At our data volume, the cost of the managed service was prohibitive, so we ran our own cluster instead.",
+   "a_ko": "저희 데이터 규모에서는 관리형 서비스 비용이 감당할 수 없을 만큼 비싸서, 대신 클러스터를 직접 운영했습니다."
+  },
+  "collocations": [
+   "prohibitive cost",
+   "prohibitively expensive",
+   "prohibitive for"
+  ],
+  "related": [
+   "prohibit",
+   "exhibit",
+   "ability",
+   "disable"
+  ],
+  "tip": "'prohibitively expensive'(엄두가 안 날 만큼 비싼)로도 자주 씀"
+ },
+ {
+  "id": "d05-D24",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "learning curve",
+  "pos": "noun",
+  "ipa": "/ˈlɜːrnɪŋ kɜːrv/",
+  "meaning_ko": "학습 곡선, 익히는 데 드는 노력",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "learning",
+     "type": "part",
+     "gloss": "배움 (고대 영어 leornian)"
+    },
+    {
+     "text": "curve",
+     "type": "part",
+     "gloss": "곡선 (curvus 굽은)"
+    }
+   ],
+   "story": "배움 + 곡선 → 익숙해지기까지 걸리는 시간과 노력"
+  },
+  "example": {
+   "q": "How quickly can you get up to speed with our stack?",
+   "a": "Rust has a steep learning curve, but I've already built two small services with it, so I'm confident I can ramp up quickly.",
+   "a_ko": "Rust는 익히기 어려운 편이지만 이미 작은 서비스 두 개를 만들어 봐서 금방 적응할 수 있다고 자신합니다."
+  },
+  "collocations": [
+   "a steep learning curve",
+   "climb the learning curve",
+   "shorten the learning curve"
+  ],
+  "related": [
+   "upskill",
+   "grow",
+   "skill set"
+  ],
+  "tip": "'steep learning curve'는 보통 '처음에 배우기 어렵다'는 뜻으로 씀"
+ },
+ {
+  "id": "d05-D25",
+  "day": 5,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "shortcoming",
+  "pos": "noun",
+  "ipa": "/ˈʃɔːrtkʌmɪŋ/",
+  "meaning_ko": "단점, 부족한 점",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "short",
+     "type": "part",
+     "gloss": "짧은·모자란"
+    },
+    {
+     "text": "coming",
+     "type": "part",
+     "gloss": "옴 (come)"
+    }
+   ],
+   "story": "come short(모자라게 오다 = 기준에 못 미치다) → 기준에 못 미치는 점 → 단점"
+  },
+  "example": {
+   "q": "What's an area you're still working on?",
+   "a": "One shortcoming of mine is estimating tasks, so I now track my estimates against actual time to get better.",
+   "a_ko": "제 부족한 점 중 하나는 작업 시간 추정이라서, 지금은 추정치와 실제 걸린 시간을 비교해 기록하며 개선하고 있습니다."
+  },
+  "collocations": [
+   "my biggest shortcoming",
+   "overcome a shortcoming",
+   "address shortcomings"
+  ],
+  "related": [
+   "weakness",
+   "strength",
+   "upskill"
+  ],
+  "tip": "weakness보다 부드럽고 격식 있는 말. 흔히 복수형 shortcomings로 씀"
+ }
+]

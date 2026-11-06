@@ -1,0 +1,1129 @@
+[
+ {
+  "id": "d06-A01",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "fact",
+  "pos": "noun",
+  "ipa": "/fækt/",
+  "meaning_ko": "사실",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "행해진 일 (fac 하다)"
+    }
+   ],
+   "story": "facere(하다)의 과거분사 factum '행해진 일' → 실제로 일어난 일 → 사실"
+  },
+  "example": {
+   "q": "How do you handle disagreements with teammates?",
+   "a": "I try to focus on facts rather than opinions.",
+   "a_ko": "의견보다는 사실에 집중하려고 합니다."
+  },
+  "collocations": [
+   "in fact",
+   "the fact that",
+   "facts and figures"
+  ],
+  "related": [
+   "factual",
+   "effect",
+   "manufacturing",
+   "satisfaction"
+  ],
+  "tip": "in fact(사실은)는 앞 말을 보강할 때 쓰는 연결어 — 답변 중간에 유용"
+ },
+ {
+  "id": "d06-A02",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "factual",
+  "pos": "adjective",
+  "ipa": "/ˈfæktʃuəl/",
+  "meaning_ko": "사실에 근거한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "행해진 일 (fac)"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "fact(사실) + -ual(~의) → 사실에 근거한"
+  },
+  "example": {
+   "q": "How do you write incident reports?",
+   "a": "I keep my incident reports factual, so I describe what happened and when, without blaming anyone.",
+   "a_ko": "장애 보고서는 사실 위주로 씁니다. 누구도 탓하지 않고 무슨 일이 언제 일어났는지만 적습니다."
+  },
+  "collocations": [
+   "factual information",
+   "keep it factual",
+   "factual error"
+  ],
+  "related": [
+   "fact",
+   "effect",
+   "perfect"
+  ],
+  "tip": "'의견 말고 사실 그대로'라는 뉘앙스 — 보고·피드백 이야기할 때"
+ },
+ {
+  "id": "d06-A03",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "manufacturing",
+  "pos": "noun",
+  "ipa": "/ˌmænjəˈfæktʃərɪŋ/",
+  "meaning_ko": "제조업, 제조",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "manu",
+     "type": "root",
+     "gloss": "손 (manus)"
+    },
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "uring",
+     "type": "suffix",
+     "gloss": "~하는 일 (-ure + -ing)"
+    }
+   ],
+   "story": "손(manus)으로 만드는(fac) 일 → 물건을 만들어 내는 일 → 제조업"
+  },
+  "example": {
+   "q": "Tell me about your previous company.",
+   "a": "My previous company was in manufacturing, so I built systems for factory data.",
+   "a_ko": "이전 회사는 제조업 쪽이라서 공장 데이터를 다루는 시스템을 만들었습니다."
+  },
+  "collocations": [
+   "manufacturing industry",
+   "manufacturing process",
+   "smart manufacturing"
+  ],
+  "related": [
+   "fact",
+   "feature",
+   "factory",
+   "artificial"
+  ],
+  "tip": "지금은 기계로 만들지만 어원은 '손으로 만들기' — 이전 직장의 업종을 말할 때"
+ },
+ {
+  "id": "d06-A04",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "feature",
+  "pos": "noun",
+  "ipa": "/ˈfiːtʃər/",
+  "meaning_ko": "기능, 특징",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feat",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "라틴어 factura '만든 것, 생김새' → 얼굴 생김새·특징 → 제품의 기능"
+  },
+  "example": {
+   "q": "What was your main role on the project?",
+   "a": "I built the search feature from design to release.",
+   "a_ko": "검색 기능을 설계부터 출시까지 맡아 만들었습니다."
+  },
+  "collocations": [
+   "new feature",
+   "feature request",
+   "feature flag"
+  ],
+  "related": [
+   "fact",
+   "manufacturing",
+   "effect"
+  ],
+  "tip": "제품의 '기능'은 function보다 feature가 자연스러움 — 'ship a feature'(기능을 출시하다)"
+ },
+ {
+  "id": "d06-A05",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "effect",
+  "pos": "noun",
+  "ipa": "/ɪˈfekt/",
+  "meaning_ko": "효과, 영향",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "밖으로(ex) 만들어 낸(fac) 것 → 행동이 만들어 낸 결과 → 효과"
+  },
+  "example": {
+   "q": "What impact did your work have?",
+   "a": "The new caching layer had a big effect on page speed.",
+   "a_ko": "새 캐시 계층이 페이지 속도에 큰 효과를 냈습니다."
+  },
+  "collocations": [
+   "have an effect on",
+   "side effect",
+   "take effect"
+  ],
+  "related": [
+   "effective",
+   "affect",
+   "perfect",
+   "efficient"
+  ],
+  "tip": "effect는 주로 명사(효과), affect는 주로 동사(영향을 주다) — 헷갈리기 쉬운 짝"
+ },
+ {
+  "id": "d06-A06",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "effective",
+  "pos": "adjective",
+  "ipa": "/ɪˈfektɪv/",
+  "meaning_ko": "효과적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "결과를 만들어 내는 → 효과가 있는 → 효과적인"
+  },
+  "example": {
+   "q": "How do you communicate with non-technical people?",
+   "a": "I find that simple diagrams are the most effective way to explain things.",
+   "a_ko": "간단한 다이어그램이 가장 효과적인 설명 방법이라고 느낍니다."
+  },
+  "collocations": [
+   "effective communication",
+   "highly effective",
+   "cost-effective"
+  ],
+  "related": [
+   "effect",
+   "efficient",
+   "efficacy"
+  ],
+  "tip": "effective(원하는 결과가 나는) vs efficient(낭비 없이 효율적인) — 결과 vs 과정"
+ },
+ {
+  "id": "d06-A07",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "affect",
+  "pos": "verb",
+  "ipa": "/əˈfekt/",
+  "meaning_ko": "영향을 주다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "af",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "하다 (fac)"
+    }
+   ],
+   "story": "~에(ad) 무언가를 하다(fac) → 작용하다 → 영향을 주다"
+  },
+  "example": {
+   "q": "Tell me about a mistake you made.",
+   "a": "I once pushed a bug that affected thousands of users.",
+   "a_ko": "한번은 제가 올린 버그가 수천 명의 사용자에게 영향을 준 적이 있습니다."
+  },
+  "collocations": [
+   "directly affect",
+   "be affected by",
+   "affect performance"
+  ],
+  "related": [
+   "effect",
+   "defect",
+   "perfect"
+  ],
+  "tip": "발음 /əˈfekt/ — effect /ɪˈfekt/와 거의 같으니 품사로 구분"
+ },
+ {
+  "id": "d06-A08",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "perfect",
+  "pos": "adjective",
+  "ipa": "/ˈpɜːrfɪkt/",
+  "meaning_ko": "완벽한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "완전히(per) 다 만든(fac) → 완성된 → 완벽한"
+  },
+  "example": {
+   "q": "What kind of team do you want to work with?",
+   "a": "No team is perfect, but I value open and honest feedback.",
+   "a_ko": "완벽한 팀은 없지만, 저는 열려 있고 솔직한 피드백을 중요하게 생각합니다."
+  },
+  "collocations": [
+   "perfect fit",
+   "nobody's perfect",
+   "perfect timing"
+  ],
+  "related": [
+   "perfectionist",
+   "effect",
+   "defect"
+  ],
+  "tip": "'This role is a perfect fit for me'(이 자리가 저와 딱 맞습니다)도 지원 동기에서 자주 씀"
+ },
+ {
+  "id": "d06-A09",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "perfectionist",
+  "pos": "noun",
+  "ipa": "/pərˈfekʃənɪst/",
+  "meaning_ko": "완벽주의자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    },
+    {
+     "text": "ist",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "완전히 다 만듦(perfection) → 완벽을 추구하는 사람 → 완벽주의자"
+  },
+  "example": {
+   "q": "What is your greatest weakness?",
+   "a": "I used to be a perfectionist, so now I set time limits and ship a good first version.",
+   "a_ko": "예전엔 완벽주의자였는데, 지금은 시간 제한을 두고 괜찮은 첫 버전을 먼저 내놓습니다."
+  },
+  "collocations": [
+   "a bit of a perfectionist",
+   "recovering perfectionist"
+  ],
+  "related": [
+   "perfect",
+   "effect",
+   "defect"
+  ],
+  "tip": "약점 질문의 단골 답 — 너무 흔하니 '어떻게 고쳤는지'를 꼭 붙이기"
+ },
+ {
+  "id": "d06-A10",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "defect",
+  "pos": "noun",
+  "ipa": "/ˈdiːfekt/",
+  "meaning_ko": "결함",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져, 아래로"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "하다 (fac)"
+    }
+   ],
+   "story": "라틴어 deficere '해야 할 것에서 떨어지다, 모자라다' → 모자란 부분 → 결함"
+  },
+  "example": {
+   "q": "How do you ensure quality?",
+   "a": "We track every defect in Jira, and we review the root cause of critical ones every week.",
+   "a_ko": "모든 결함을 Jira로 관리하고, 심각한 결함은 매주 근본 원인을 함께 검토합니다."
+  },
+  "collocations": [
+   "defect rate",
+   "critical defect",
+   "fix a defect"
+  ],
+  "related": [
+   "deficiency",
+   "effect",
+   "perfect"
+  ],
+  "tip": "명사는 /ˈdiːfekt/, 동사(망명하다)는 /dɪˈfekt/ — 업무에선 bug보다 격식 있는 말"
+ },
+ {
+  "id": "d06-A11",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "feasible",
+  "pos": "adjective",
+  "ipa": "/ˈfiːzəbl/",
+  "meaning_ko": "실현 가능한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feas",
+     "type": "root",
+     "gloss": "하다 (fac → 프랑스어 faire)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "고대 프랑스어 faisable '할 수 있는'(faire ← facere) → 실제로 해낼 수 있는"
+  },
+  "example": {
+   "q": "How do you decide whether to pursue a new idea?",
+   "a": "First I build a quick prototype to check whether the idea is technically feasible.",
+   "a_ko": "먼저 빠르게 프로토타입을 만들어 기술적으로 실현 가능한지 확인합니다."
+  },
+  "collocations": [
+   "technically feasible",
+   "feasible solution",
+   "economically feasible"
+  ],
+  "related": [
+   "feasibility",
+   "feature",
+   "fact"
+  ],
+  "tip": "possible(가능한)보다 '현실적으로 해낼 수 있는'의 뉘앙스"
+ },
+ {
+  "id": "d06-A12",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "feasibility",
+  "pos": "noun",
+  "ipa": "/ˌfiːzəˈbɪləti/",
+  "meaning_ko": "실현 가능성, 타당성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feas",
+     "type": "root",
+     "gloss": "하다 (fac)"
+    },
+    {
+     "text": "ibility",
+     "type": "suffix",
+     "gloss": "~할 수 있음"
+    }
+   ],
+   "story": "할 수 있는(feasible) 정도 → 실현 가능성"
+  },
+  "example": {
+   "q": "Have you ever pushed back on a project?",
+   "a": "I ran a two-week feasibility study and showed that the deadline was not realistic.",
+   "a_ko": "2주간 타당성 검토를 해서 마감일이 현실적이지 않다는 걸 보여 드렸습니다."
+  },
+  "collocations": [
+   "feasibility study",
+   "technical feasibility",
+   "assess feasibility"
+  ],
+  "related": [
+   "feasible",
+   "fact",
+   "feature"
+  ],
+  "tip": "feasibility study(타당성 검토)를 통째로 외우기"
+ },
+ {
+  "id": "d06-A13",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "profit",
+  "pos": "noun",
+  "ipa": "/ˈprɑːfɪt/",
+  "meaning_ko": "이익, 수익",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "fit",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "라틴어 proficere '앞으로 나아가게 하다' → 나아짐·이득 → 이익"
+  },
+  "example": {
+   "q": "Why are you interested in our company?",
+   "a": "I like that your company cares about social impact, not only profit.",
+   "a_ko": "이익만이 아니라 사회적 영향도 중요하게 생각하는 회사라는 점이 좋습니다."
+  },
+  "collocations": [
+   "make a profit",
+   "profit margin",
+   "non-profit"
+  ],
+  "related": [
+   "proficient",
+   "efficient",
+   "sufficient"
+  ],
+  "tip": "non-profit(비영리 단체) 경력이 있으면 그대로 쓰는 말"
+ },
+ {
+  "id": "d06-A14",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "difficult",
+  "pos": "adjective",
+  "ipa": "/ˈdɪfɪkəlt/",
+  "meaning_ko": "어려운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dif",
+     "type": "prefix",
+     "gloss": "아닌 (dis)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "쉬운 (facilis ← fac 하다)"
+    },
+    {
+     "text": "ult",
+     "type": "suffix",
+     "gloss": "어미"
+    }
+   ],
+   "story": "dis(아닌) + facilis(하기 쉬운) → 하기 쉽지 않은 → 어려운"
+  },
+  "example": {
+   "q": "Tell me about a difficult situation at work.",
+   "a": "The most difficult part was working with a team in another time zone.",
+   "a_ko": "가장 어려웠던 건 다른 시간대에 있는 팀과 함께 일하는 것이었습니다."
+  },
+  "collocations": [
+   "difficult decision",
+   "find it difficult to",
+   "difficult conversation"
+  ],
+  "related": [
+   "difficulty",
+   "facilitate",
+   "efficient"
+  ],
+  "tip": "hard보다 조금 격식 있는 말 — 'a difficult conversation'(껄끄러운 대화)도 자주 씀"
+ },
+ {
+  "id": "d06-A15",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "difficulty",
+  "pos": "noun",
+  "ipa": "/ˈdɪfɪkəlti/",
+  "meaning_ko": "어려움",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dif",
+     "type": "prefix",
+     "gloss": "아닌 (dis)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "쉬운 (facilis ← fac 하다)"
+    },
+    {
+     "text": "ulty",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "하기 쉽지 않음(difficultas) → 어려움"
+  },
+  "example": {
+   "q": "How do you handle problems you can't solve alone?",
+   "a": "When I have difficulty with a task, I ask for help early.",
+   "a_ko": "일하다 어려움이 생기면 일찍 도움을 요청합니다."
+  },
+  "collocations": [
+   "have difficulty -ing",
+   "without difficulty",
+   "technical difficulties"
+  ],
+  "related": [
+   "difficult",
+   "facilitate",
+   "facility"
+  ],
+  "tip": "have difficulty -ing 형태로 — 'I had difficulty finding the cause.'"
+ },
+ {
+  "id": "d06-A16",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "efficient",
+  "pos": "adjective",
+  "ipa": "/ɪˈfɪʃnt/",
+  "meaning_ko": "효율적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ient",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 efficere '해내다, 이루다' → 결과를 잘 만들어 내는 → 낭비 없이 효율적인"
+  },
+  "example": {
+   "q": "How do you manage your time?",
+   "a": "I block focus time every morning, which helps me stay efficient even during busy weeks.",
+   "a_ko": "매일 아침 집중 시간을 따로 잡아 두는데, 바쁜 주에도 효율적으로 일하는 데 도움이 됩니다."
+  },
+  "collocations": [
+   "energy-efficient",
+   "cost-efficient",
+   "more efficient"
+  ],
+  "related": [
+   "efficiency",
+   "effect",
+   "sufficient",
+   "efficacy"
+  ],
+  "tip": "efficient = 적은 자원으로 / effective = 원하는 결과를 — 둘을 같이 써도 좋음"
+ },
+ {
+  "id": "d06-A17",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "efficiency",
+  "pos": "noun",
+  "ipa": "/ɪˈfɪʃnsi/",
+  "meaning_ko": "효율",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "iency",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "효율적인(efficient) 상태 → 효율"
+  },
+  "example": {
+   "q": "What did you improve in your last project?",
+   "a": "I rewrote our batch jobs in Go, which improved efficiency and cut cloud costs by thirty percent.",
+   "a_ko": "배치 작업을 Go로 다시 작성해서 효율을 높이고 클라우드 비용을 30% 줄였습니다."
+  },
+  "collocations": [
+   "improve efficiency",
+   "operational efficiency",
+   "energy efficiency"
+  ],
+  "related": [
+   "efficient",
+   "effect",
+   "deficiency"
+  ],
+  "tip": "성과를 말할 때 '무엇을 해서 → 효율이 몇 % 좋아졌다' 순서로"
+ },
+ {
+  "id": "d06-A18",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "sufficient",
+  "pos": "adjective",
+  "ipa": "/səˈfɪʃnt/",
+  "meaning_ko": "충분한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "suf",
+     "type": "prefix",
+     "gloss": "아래에 (sub)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ient",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 sufficere '밑에 받쳐 채우다, 넉넉하다' → 충분한"
+  },
+  "example": {
+   "q": "How do you make decisions under uncertainty?",
+   "a": "I don't wait for perfect data; I move forward once I have sufficient information to decide.",
+   "a_ko": "완벽한 데이터를 기다리지 않고, 판단할 만큼 정보가 충분하면 바로 진행합니다."
+  },
+  "collocations": [
+   "sufficient time",
+   "sufficient evidence",
+   "self-sufficient"
+  ],
+  "related": [
+   "insufficient",
+   "efficient",
+   "deficiency"
+  ],
+  "tip": "enough보다 격식 있는 말 — 'sufficient + 명사' 형태로"
+ },
+ {
+  "id": "d06-A19",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "insufficient",
+  "pos": "adjective",
+  "ipa": "/ˌɪnsəˈfɪʃnt/",
+  "meaning_ko": "불충분한, 부족한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "suf",
+     "type": "prefix",
+     "gloss": "아래에 (sub)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ient",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "충분하지(sufficient) 않은 → 부족한"
+  },
+  "example": {
+   "q": "Tell me about a production issue you debugged.",
+   "a": "The job kept failing with an insufficient permissions error, so I traced it to a missing IAM role.",
+   "a_ko": "작업이 '권한 부족' 오류로 계속 실패해서 추적해 보니 IAM 역할이 빠져 있었습니다."
+  },
+  "collocations": [
+   "insufficient permissions",
+   "insufficient memory",
+   "insufficient data"
+  ],
+  "related": [
+   "sufficient",
+   "deficiency",
+   "efficient"
+  ],
+  "tip": "에러 메시지에 자주 나오는 단어 — 'insufficient permissions/funds'"
+ },
+ {
+  "id": "d06-A20",
+  "day": 6,
+  "level": 2,
+  "set": "A",
+  "family": "F6",
+  "word": "deficiency",
+  "pos": "noun",
+  "ipa": "/dɪˈfɪʃnsi/",
+  "meaning_ko": "부족, 결함",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "하다 (fac)"
+    },
+    {
+     "text": "iency",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "라틴어 deficere '(해야 할 것에서) 떨어지다, 모자라다' → 모자람 → 부족, 결함"
+  },
+  "example": {
+   "q": "What did you notice when you joined your current team?",
+   "a": "I found a deficiency in our test coverage, so I added integration tests for the payment flow.",
+   "a_ko": "테스트 커버리지가 부족한 부분을 발견해서 결제 흐름에 통합 테스트를 추가했습니다."
+  },
+  "collocations": [
+   "identify deficiencies",
+   "major deficiency",
+   "address a deficiency"
+  ],
+  "related": [
+   "defect",
+   "sufficient",
+   "efficient"
+  ],
+  "tip": "defect(하나하나의 결함)보다 '모자란 상태' 전반을 말할 때"
+ },
+ {
+  "id": "d06-A21",
+  "day": 6,
+  "level": 3,
+  "set": "A",
+  "family": "F6",
+  "word": "efficacy",
+  "pos": "noun",
+  "ipa": "/ˈefɪkəsi/",
+  "meaning_ko": "효능, 실제 효과",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "acy",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "라틴어 efficax '결과를 낼 수 있는' → 효능 → 실제로 효과가 있는 정도"
+  },
+  "example": {
+   "q": "How do you know whether a change actually worked?",
+   "a": "Before rolling out the new retry logic everywhere, I ran an A/B test to measure its efficacy against the old approach.",
+   "a_ko": "새 재시도 로직을 전체에 적용하기 전에 A/B 테스트로 기존 방식 대비 효과를 측정했습니다."
+  },
+  "collocations": [
+   "measure the efficacy of",
+   "proven efficacy",
+   "efficacy and safety"
+  ],
+  "related": [
+   "effective",
+   "efficient",
+   "effect"
+  ],
+  "tip": "강세는 앞 /ˈef-/ — effectiveness보다 격식 있게 '검증된 효과'를 말할 때"
+ },
+ {
+  "id": "d06-A22",
+  "day": 6,
+  "level": 3,
+  "set": "A",
+  "family": "F6",
+  "word": "facilitate",
+  "pos": "verb",
+  "ipa": "/fəˈsɪlɪteɪt/",
+  "meaning_ko": "원활하게 하다, (회의를) 진행하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "facil",
+     "type": "root",
+     "gloss": "쉬운 (facilis ← fac 하다)"
+    },
+    {
+     "text": "itate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "라틴어 facilis '하기 쉬운' → 쉽게 만들다 → 일이 잘 돌아가게 돕다, 회의를 진행하다"
+  },
+  "example": {
+   "q": "Do you have any leadership experience?",
+   "a": "I facilitated our weekly planning meetings for a year, making sure quieter team members also had a chance to speak.",
+   "a_ko": "1년 동안 주간 계획 회의 진행을 맡아, 조용한 팀원들도 말할 기회를 갖도록 챙겼습니다."
+  },
+  "collocations": [
+   "facilitate a meeting",
+   "facilitate communication",
+   "facilitate collaboration"
+  ],
+  "related": [
+   "facility",
+   "difficult",
+   "efficient"
+  ],
+  "tip": "lead보다 '돕는 진행자' 느낌 — 리더십을 겸손하게 말할 때 좋음"
+ },
+ {
+  "id": "d06-A23",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "bug",
+  "pos": "noun",
+  "ipa": "/bʌɡ/",
+  "meaning_ko": "버그, 결함",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bug",
+     "type": "part",
+     "gloss": "벌레"
+    }
+   ],
+   "story": "벌레 → 기계 속에 숨어 말썽을 일으키는 것 → 프로그램 결함 (19세기 엔지니어들이 이미 쓰던 말)"
+  },
+  "example": {
+   "q": "How do you deal with bugs reported by users?",
+   "a": "I first reproduce the bug, then write a test before fixing it.",
+   "a_ko": "먼저 버그를 재현하고, 고치기 전에 테스트부터 작성합니다."
+  },
+  "collocations": [
+   "fix a bug",
+   "bug report",
+   "critical bug"
+  ],
+  "related": [
+   "debug",
+   "defect",
+   "edge case"
+  ],
+  "tip": "defect보다 일상적인 말 — 'squash a bug'(버그를 잡다)도 자주 씀"
+ },
+ {
+  "id": "d06-A24",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "build",
+  "pos": "verb",
+  "ipa": "/bɪld/",
+  "meaning_ko": "만들다, 빌드하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "build",
+     "type": "part",
+     "gloss": "집을 짓다 (고대 영어 byldan)"
+    }
+   ],
+   "story": "고대 영어 byldan '집을 짓다' → 무언가를 만들어 세우다 → 소스 코드를 실행 가능한 형태로 만들다"
+  },
+  "example": {
+   "q": "What kind of work do you enjoy most?",
+   "a": "I enjoy building tools that make other developers more productive.",
+   "a_ko": "다른 개발자들의 생산성을 높여 주는 도구를 만드는 일을 가장 좋아합니다."
+  },
+  "collocations": [
+   "build a product",
+   "build pipeline",
+   "break the build"
+  ],
+  "related": [
+   "structure",
+   "construct",
+   "rebuild"
+  ],
+  "tip": "make보다 '차곡차곡 쌓아 만든다'는 느낌 — 'build a team'도 OK. 명사 'the build'는 빌드 결과물"
+ },
+ {
+  "id": "d06-A25",
+  "day": 6,
+  "level": 1,
+  "set": "A",
+  "family": "F6",
+  "word": "side project",
+  "pos": "noun",
+  "ipa": "/ˈsaɪd ˌprɑːdʒekt/",
+  "meaning_ko": "개인 프로젝트, 사이드 프로젝트",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "side",
+     "type": "part",
+     "gloss": "옆 (고대 영어 sīde)"
+    },
+    {
+     "text": "project",
+     "type": "part",
+     "gloss": "계획 (라틴어 pro+iacere 앞으로 던지다)"
+    }
+   ],
+   "story": "본업 옆에서 하는 계획 → 개인적으로 하는 프로젝트"
+  },
+  "example": {
+   "q": "What do you do to keep your skills up to date?",
+   "a": "I build small side projects on weekends to try new frameworks.",
+   "a_ko": "주말에 작은 사이드 프로젝트를 만들며 새 프레임워크를 써 봅니다."
+  },
+  "collocations": [
+   "work on a side project",
+   "personal side project"
+  ],
+  "related": [
+   "project",
+   "inject",
+   "object"
+  ],
+  "tip": "자기 계발 질문에 GitHub 링크와 함께 말하면 효과적"
+ }
+]

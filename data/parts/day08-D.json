@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "d08-D01",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "fraction",
+    "pos": "noun",
+    "ipa": "/ˈfrækʃən/",
+    "meaning_ko": "일부, 아주 적은 양",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fract",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "깨진 조각 → 전체의 일부 → 분수"
+    },
+    "example": {
+      "q": "What was the result of your optimization?",
+      "a": "The new query runs in a fraction of the time the old one took.",
+      "a_ko": "새 쿼리는 예전 쿼리에 걸리던 시간의 극히 일부만으로 실행됩니다."
+    },
+    "collocations": [
+      "a fraction of the time",
+      "a fraction of the cost",
+      "a small fraction"
+    ],
+    "related": [
+      "fractional",
+      "fracture",
+      "fragile",
+      "infringe"
+    ],
+    "tip": "a fraction of the time/cost = 훨씬 적은 시간·비용 — 성과를 말할 때 딱"
+  },
+  {
+    "id": "d08-D02",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "fractional",
+    "pos": "adjective",
+    "ipa": "/ˈfrækʃənl/",
+    "meaning_ko": "일부의, 분수의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fract",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "깨진 조각의 → 전체가 아닌 일부의"
+    },
+    "example": {
+      "q": "How do you keep cloud costs down?",
+      "a": "We request fractional CPU for small services, like a quarter of a core, instead of giving every pod a full one.",
+      "a_ko": "작은 서비스에는 코어 하나를 통째로 주지 않고, 4분의 1 코어처럼 CPU를 일부만 할당합니다."
+    },
+    "collocations": [
+      "fractional CPU",
+      "fractional ownership"
+    ],
+    "related": [
+      "fraction",
+      "fracture",
+      "fragile"
+    ],
+    "tip": "Kubernetes에서 CPU를 0.25처럼 쪼개서 줄 때 씀"
+  },
+  {
+    "id": "d08-D03",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "fragile",
+    "pos": "adjective",
+    "ipa": "/ˈfrædʒəl/",
+    "meaning_ko": "깨지기 쉬운, 취약한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "frag",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "ile",
+          "type": "suffix",
+          "gloss": "~하기 쉬운"
+        }
+      ],
+      "story": "깨지기 쉬운 → 조금만 건드려도 망가지는"
+    },
+    "example": {
+      "q": "What was wrong with the old test suite?",
+      "a": "The old tests were fragile, so small UI changes broke dozens of them.",
+      "a_ko": "예전 테스트는 취약해서 UI를 조금만 바꿔도 수십 개가 깨졌습니다."
+    },
+    "collocations": [
+      "fragile code",
+      "fragile tests"
+    ],
+    "related": [
+      "fragility",
+      "fraction",
+      "fracture"
+    ],
+    "tip": "발음 미국식 [프래절], 영국식 [프래자일]"
+  },
+  {
+    "id": "d08-D04",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "fragility",
+    "pos": "noun",
+    "ipa": "/frəˈdʒɪləti/",
+    "meaning_ko": "취약함, 깨지기 쉬움",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "frag",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "il",
+          "type": "suffix",
+          "gloss": "~하기 쉬운"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함 (성질)"
+        }
+      ],
+      "story": "깨지기 쉬움 → 취약함"
+    },
+    "example": {
+      "q": "Why did you push for a redesign?",
+      "a": "The system's fragility was slowing us down; any small change risked an outage, so I proposed splitting it into modules.",
+      "a_ko": "시스템이 너무 취약해서 작은 변경에도 장애 위험이 있었고, 그래서 모듈로 나누자고 제안했습니다."
+    },
+    "collocations": [
+      "system fragility",
+      "reduce fragility"
+    ],
+    "related": [
+      "fragile",
+      "fraction",
+      "fracture"
+    ],
+    "tip": "반대 개념은 robustness(견고함)"
+  },
+  {
+    "id": "d08-D05",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "fracture",
+    "pos": "verb",
+    "ipa": "/ˈfræktʃər/",
+    "meaning_ko": "(조직이) 갈라지다, 금이 가다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fract",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "깨짐 → (뼈의) 골절 → (조직이) 금 가고 갈라지다"
+    },
+    "example": {
+      "q": "How did you bring the team together after the reorg?",
+      "a": "The team had started to fracture into small groups, so I set up shared on-call shifts to get people working together again.",
+      "a_ko": "팀이 작은 무리들로 갈라지기 시작해서, 다시 함께 일하도록 공동 온콜 당번을 만들었습니다."
+    },
+    "collocations": [
+      "fracture into groups",
+      "a fractured team"
+    ],
+    "related": [
+      "fraction",
+      "fragile",
+      "infringe"
+    ],
+    "tip": "원래 '뼈가 부러지다'. fracture into ~ = 여러 무리로 갈라지다"
+  },
+  {
+    "id": "d08-D06",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "infringement",
+    "pos": "noun",
+    "ipa": "/ɪnˈfrɪndʒmənt/",
+    "meaning_ko": "(권리·라이선스) 침해",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "fringe",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "안으로 깨고 들어감 → 남의 권리를 침해함"
+    },
+    "example": {
+      "q": "Why did you replace that image library?",
+      "a": "Its license was unclear, and our legal team worried about infringement, so we switched to an MIT-licensed library.",
+      "a_ko": "라이선스가 불분명해서 법무팀이 침해를 우려했고, 그래서 MIT 라이선스 라이브러리로 바꿨습니다."
+    },
+    "collocations": [
+      "copyright infringement",
+      "patent infringement"
+    ],
+    "related": [
+      "infringe",
+      "fracture",
+      "fraction"
+    ],
+    "tip": "법무·라이선스 이야기에서 자주 나오는 명사"
+  },
+  {
+    "id": "d08-D07",
+    "day": 8,
+    "level": 3,
+    "set": "D",
+    "family": "F8",
+    "word": "infringe",
+    "pos": "verb",
+    "ipa": "/ɪnˈfrɪndʒ/",
+    "meaning_ko": "(권리·라이선스를) 침해하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "fringe",
+          "type": "root",
+          "gloss": "깨다 (fract/frag)"
+        }
+      ],
+      "story": "안으로 깨고 들어가다 → 남의 권리·규칙을 침해하다"
+    },
+    "example": {
+      "q": "How do you handle open-source licenses?",
+      "a": "Before we shipped, I audited our dependencies to make sure we didn't infringe any GPL licenses in our commercial product.",
+      "a_ko": "출시 전에 의존성을 점검해서, 상용 제품이 GPL 라이선스를 침해하지 않는지 확인했습니다."
+    },
+    "collocations": [
+      "infringe a patent",
+      "infringe on privacy",
+      "infringe copyright"
+    ],
+    "related": [
+      "infringement",
+      "fraction",
+      "fracture",
+      "fragile"
+    ],
+    "tip": "frangere(깨다)가 fring 으로 바뀐 꼴. infringe on/upon ~ 형태로도 씀"
+  },
+  {
+    "id": "d08-D08",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "sector",
+    "pos": "noun",
+    "ipa": "/ˈsektər/",
+    "meaning_ko": "부문, 분야",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sect",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "자르는 것 → (원을 잘라 낸) 부채꼴 → 잘라 나눈 영역 → 산업 부문"
+    },
+    "example": {
+      "q": "Why do you want to move into fintech?",
+      "a": "I've worked in the public sector for three years, and now I want faster product cycles.",
+      "a_ko": "공공 부문에서 3년 일했고, 이제는 제품 주기가 더 빠른 곳에서 일하고 싶습니다."
+    },
+    "collocations": [
+      "public sector",
+      "private sector",
+      "financial sector"
+    ],
+    "related": [
+      "intersection",
+      "dissect",
+      "segment",
+      "bisect"
+    ],
+    "tip": "industry 보다 넓은 '부문'. public/private sector 로 많이 씀"
+  },
+  {
+    "id": "d08-D09",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "intersection",
+    "pos": "noun",
+    "ipa": "/ˌɪntərˈsekʃən/",
+    "meaning_ko": "교차점, 만나는 지점",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "inter",
+          "type": "prefix",
+          "gloss": "사이에"
+        },
+        {
+          "text": "sect",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "사이를 가르며 만나는 곳 → 교차로, 교차점"
+    },
+    "example": {
+      "q": "Why are you interested in this role?",
+      "a": "This role is at the intersection of data and product, where I want to grow.",
+      "a_ko": "이 직무는 데이터와 제품이 만나는 지점에 있고, 제가 성장하고 싶은 곳이 바로 거기입니다."
+    },
+    "collocations": [
+      "at the intersection of",
+      "intersection of sets"
+    ],
+    "related": [
+      "intersect",
+      "sector",
+      "dissect",
+      "segment"
+    ],
+    "tip": "at the intersection of A and B = A와 B가 만나는 지점 — 지원 동기에 좋음"
+  },
+  {
+    "id": "d08-D10",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "intersect",
+    "pos": "verb",
+    "ipa": "/ˌɪntərˈsekt/",
+    "meaning_ko": "교차하다, 교집합을 구하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "inter",
+          "type": "prefix",
+          "gloss": "사이에"
+        },
+        {
+          "text": "sect",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        }
+      ],
+      "story": "사이를 가르다 → 서로 가로지르다 → 겹치는 부분을 구하다"
+    },
+    "example": {
+      "q": "How did you find users affected by both bugs?",
+      "a": "I intersected the two lists of user IDs in SQL, which showed only 40 users were hit by both.",
+      "a_ko": "SQL로 두 사용자 ID 목록의 교집합을 구했더니, 두 버그를 모두 겪은 사용자는 40명뿐이었습니다."
+    },
+    "collocations": [
+      "intersect with",
+      "sets intersect"
+    ],
+    "related": [
+      "intersection",
+      "sector",
+      "bisect"
+    ],
+    "tip": "SQL 의 INTERSECT = 두 결과에 공통으로 있는 행"
+  },
+  {
+    "id": "d08-D11",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "dissect",
+    "pos": "verb",
+    "ipa": "/dɪˈsekt/",
+    "meaning_ko": "(꼼꼼히) 뜯어보다, 해부하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "sect",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        }
+      ],
+      "story": "갈라서 떼어 내다 → 해부하다 → 하나하나 뜯어보며 분석하다"
+    },
+    "example": {
+      "q": "How do you learn from incidents?",
+      "a": "After every incident, we dissect the timeline minute by minute to see where we lost time.",
+      "a_ko": "장애가 끝나면 타임라인을 분 단위로 뜯어보며 어디서 시간을 잃었는지 확인합니다."
+    },
+    "collocations": [
+      "dissect a problem",
+      "dissect the data"
+    ],
+    "related": [
+      "intersection",
+      "sector",
+      "segment",
+      "bisect"
+    ],
+    "tip": "발음 [디섹트]·[다이섹트] 둘 다. analyze 보다 '하나하나 뜯어보다' 느낌"
+  },
+  {
+    "id": "d08-D12",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "segment",
+    "pos": "noun",
+    "ipa": "/ˈseɡmənt/",
+    "meaning_ko": "구획, (고객·사용자) 층",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "seg",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "잘라 낸 조각 → 구획 → 나눠 놓은 사용자층"
+    },
+    "example": {
+      "q": "How did you decide where to launch the feature first?",
+      "a": "We launched it to a small segment of users first, because we wanted real feedback before a full rollout.",
+      "a_ko": "전체 출시 전에 실제 피드백을 받고 싶어서, 먼저 일부 사용자층에게만 공개했습니다."
+    },
+    "collocations": [
+      "user segment",
+      "customer segment",
+      "network segment"
+    ],
+    "related": [
+      "segmentation",
+      "sector",
+      "dissect",
+      "intersection"
+    ],
+    "tip": "명사 강세는 앞 [세그먼트]. 동사로도 씀(segment users)"
+  },
+  {
+    "id": "d08-D13",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "segmentation",
+    "pos": "noun",
+    "ipa": "/ˌseɡmenˈteɪʃən/",
+    "meaning_ko": "분할, (망) 분리, 세분화",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "seg",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "잘라 낸 조각으로 나누기 → 분할, 세분화"
+    },
+    "example": {
+      "q": "How do you secure internal services?",
+      "a": "We use network segmentation, so even if one service is compromised, the attacker can't reach the database directly.",
+      "a_ko": "네트워크를 분리해 두어서, 서비스 하나가 뚫려도 공격자가 DB에 바로 접근할 수 없습니다."
+    },
+    "collocations": [
+      "network segmentation",
+      "customer segmentation"
+    ],
+    "related": [
+      "segment",
+      "sector",
+      "intersect"
+    ],
+    "tip": "보안(망 분리)과 마케팅(고객 세분화) 양쪽에서 씀"
+  },
+  {
+    "id": "d08-D14",
+    "day": 8,
+    "level": 3,
+    "set": "D",
+    "family": "F8",
+    "word": "bisect",
+    "pos": "verb",
+    "ipa": "/baɪˈsekt/",
+    "meaning_ko": "둘로 나누다, (git bisect로) 범위를 반씩 좁히다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bi",
+          "type": "prefix",
+          "gloss": "둘로"
+        },
+        {
+          "text": "sect",
+          "type": "root",
+          "gloss": "자르다 (sect)"
+        }
+      ],
+      "story": "둘로 자르다 → 범위를 반씩 잘라 가며 원인을 찾다"
+    },
+    "example": {
+      "q": "How did you find which commit introduced the bug?",
+      "a": "I used git bisect to split the 200 commits in half repeatedly, and found the bad commit in about eight steps.",
+      "a_ko": "git bisect로 커밋 200개를 계속 반으로 나눠서, 여덟 번 정도 만에 문제 커밋을 찾았습니다."
+    },
+    "collocations": [
+      "git bisect",
+      "bisect a range"
+    ],
+    "related": [
+      "dissect",
+      "intersect",
+      "segment",
+      "sector"
+    ],
+    "tip": "이분 탐색(binary search)을 커밋 이력에 적용한 것"
+  },
+  {
+    "id": "d08-D15",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "concise",
+    "pos": "adjective",
+    "ipa": "/kənˈsaɪs/",
+    "meaning_ko": "간결한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "cise",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        }
+      ],
+      "story": "완전히 잘라 다듬은 → 군더더기 없는 → 간결한"
+    },
+    "example": {
+      "q": "How do you write documentation?",
+      "a": "I keep my documents concise and put the key points at the top.",
+      "a_ko": "문서는 간결하게 쓰고, 핵심은 맨 위에 둡니다."
+    },
+    "collocations": [
+      "concise summary",
+      "clear and concise"
+    ],
+    "related": [
+      "concisely",
+      "precise",
+      "decide"
+    ],
+    "tip": "clear and concise 는 짝으로 자주 씀"
+  },
+  {
+    "id": "d08-D16",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "concisely",
+    "pos": "adverb",
+    "ipa": "/kənˈsaɪsli/",
+    "meaning_ko": "간결하게",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "cise",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "완전히 잘라 다듬어서 → 간결하게"
+    },
+    "example": {
+      "q": "Can you briefly summarize your experience?",
+      "a": "Sure, let me put it concisely: five years of backend work, mostly Java and AWS.",
+      "a_ko": "네, 간결하게 말씀드리면 백엔드 5년, 주로 Java와 AWS입니다."
+    },
+    "collocations": [
+      "put it concisely",
+      "explain concisely"
+    ],
+    "related": [
+      "concise",
+      "precise",
+      "decide"
+    ],
+    "tip": "To put it concisely, … 로 요약을 시작할 수 있음"
+  },
+  {
+    "id": "d08-D17",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "particular",
+    "pos": "adjective",
+    "ipa": "/pərˈtɪkjələr/",
+    "meaning_ko": "특정한, 특별한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "parti",
+          "type": "root",
+          "gloss": "부분 (part)"
+        },
+        {
+          "text": "cul",
+          "type": "suffix",
+          "gloss": "작은 (-cula)"
+        },
+        {
+          "text": "ar",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "작은 부분(particula)의 → 콕 집은 → 특정한"
+    },
+    "example": {
+      "q": "What do you enjoy about backend work?",
+      "a": "In particular, I enjoy designing database schemas for complex data.",
+      "a_ko": "특히 복잡한 데이터를 위한 DB 스키마 설계를 좋아합니다."
+    },
+    "collocations": [
+      "in particular",
+      "a particular case",
+      "be particular about"
+    ],
+    "related": [
+      "particularly",
+      "participate",
+      "partner",
+      "department"
+    ],
+    "tip": "be particular about ~ = ~에 까다롭다, 꼼꼼하다"
+  },
+  {
+    "id": "d08-D18",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "particularly",
+    "pos": "adverb",
+    "ipa": "/pərˈtɪkjələrli/",
+    "meaning_ko": "특히",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "parti",
+          "type": "root",
+          "gloss": "부분 (part)"
+        },
+        {
+          "text": "cul",
+          "type": "suffix",
+          "gloss": "작은 (-cula)"
+        },
+        {
+          "text": "ar",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "작은 부분을 콕 집어 → 특히"
+    },
+    "example": {
+      "q": "Which of your projects are you proudest of?",
+      "a": "I'm particularly proud of our search feature because I led it from start to finish.",
+      "a_ko": "처음부터 끝까지 제가 주도한 검색 기능이 특히 자랑스럽습니다."
+    },
+    "collocations": [
+      "particularly proud",
+      "particularly important"
+    ],
+    "related": [
+      "particular",
+      "participate",
+      "partner"
+    ],
+    "tip": "especially 와 같은 뜻. 발음 [퍼티큘러리]"
+  },
+  {
+    "id": "d08-D19",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "partner",
+    "pos": "verb",
+    "ipa": "/ˈpɑːrtnər/",
+    "meaning_ko": "협력하다, 파트너가 되다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "몫, 부분 (part)"
+        },
+        {
+          "text": "ner",
+          "type": "suffix",
+          "gloss": "~하는 사람 (parcener에서)"
+        }
+      ],
+      "story": "몫을 나눠 갖는 사람(parcener)이 part 의 영향으로 바뀐 말 → 동업자 → 협력하다"
+    },
+    "example": {
+      "q": "How do you work with product managers?",
+      "a": "I partner with product managers to turn user feedback into small experiments.",
+      "a_ko": "제품 매니저와 협력해서 사용자 피드백을 작은 실험으로 바꿉니다."
+    },
+    "collocations": [
+      "partner with",
+      "business partner"
+    ],
+    "related": [
+      "partnership",
+      "participate",
+      "counterpart",
+      "party"
+    ],
+    "tip": "동사로 partner with ~ = ~와 손잡고 일하다"
+  },
+  {
+    "id": "d08-D20",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "partnership",
+    "pos": "noun",
+    "ipa": "/ˈpɑːrtnərʃɪp/",
+    "meaning_ko": "협력 관계, 동업",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "몫, 부분 (part)"
+        },
+        {
+          "text": "ner",
+          "type": "suffix",
+          "gloss": "~하는 사람 (parcener에서)"
+        },
+        {
+          "text": "ship",
+          "type": "suffix",
+          "gloss": "관계, 상태"
+        }
+      ],
+      "story": "몫을 나눠 갖는 사람들의 관계 → 협력 관계"
+    },
+    "example": {
+      "q": "How did you work with the QA team?",
+      "a": "We built a strong partnership with QA by writing test plans together.",
+      "a_ko": "테스트 계획을 함께 작성하면서 QA 팀과 탄탄한 협력 관계를 만들었습니다."
+    },
+    "collocations": [
+      "build a partnership",
+      "in partnership with"
+    ],
+    "related": [
+      "partner",
+      "participate",
+      "counterpart"
+    ],
+    "tip": "in partnership with ~ = ~와 손잡고"
+  },
+  {
+    "id": "d08-D21",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "department",
+    "pos": "noun",
+    "ipa": "/dɪˈpɑːrtmənt/",
+    "meaning_ko": "부서",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "나누다 (part)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "떼어 나눈 것 → 나뉜 조직 단위 → 부서"
+    },
+    "example": {
+      "q": "Who did you work with most?",
+      "a": "I worked most with the sales department to fix issues in our ordering system.",
+      "a_ko": "주문 시스템 문제를 해결하려고 영업 부서와 가장 많이 일했습니다."
+    },
+    "collocations": [
+      "sales department",
+      "IT department",
+      "cross-department"
+    ],
+    "related": [
+      "departure",
+      "partner",
+      "party",
+      "partial"
+    ],
+    "tip": "division(사업부)보다 작은 단위인 '부서'"
+  },
+  {
+    "id": "d08-D22",
+    "day": 8,
+    "level": 1,
+    "set": "D",
+    "family": "F8",
+    "word": "departure",
+    "pos": "noun",
+    "ipa": "/dɪˈpɑːrtʃər/",
+    "meaning_ko": "떠남, 퇴사, (기존 방식에서) 벗어남",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "나누다 (part)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "떨어져 나뉨 → 떠남 → (방식에서) 벗어남"
+    },
+    "example": {
+      "q": "Why did you leave your last company?",
+      "a": "My departure was mainly about growth; I wanted to lead a team.",
+      "a_ko": "이직은 주로 성장 때문이었습니다. 팀을 이끌어 보고 싶었습니다."
+    },
+    "collocations": [
+      "a departure from",
+      "sudden departure"
+    ],
+    "related": [
+      "department",
+      "partner",
+      "apart"
+    ],
+    "tip": "a departure from ~ = ~에서 벗어난 새로운 방식"
+  },
+  {
+    "id": "d08-D23",
+    "day": 8,
+    "level": 3,
+    "set": "D",
+    "family": "F8",
+    "word": "compartmentalize",
+    "pos": "verb",
+    "ipa": "/kəmˌpɑːrtˈmentəlaɪz/",
+    "meaning_ko": "(일·감정을) 칸칸이 나눠 관리하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께, 완전히"
+        },
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "나누다 (part)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "완전히 나눈 칸(compartment) → 칸칸이 나눠 두다 → 일과 감정을 따로 떼어 관리하다"
+    },
+    "example": {
+      "q": "How do you handle stress during a busy release?",
+      "a": "I compartmentalize: I block focus time for the release and keep other requests in a list, so I can still respond to them later.",
+      "a_ko": "일을 칸칸이 나눠서 관리합니다. 릴리스에 집중할 시간을 따로 잡고, 다른 요청은 목록에 모아 두었다가 나중에 대응합니다."
+    },
+    "collocations": [
+      "compartmentalize work",
+      "compartmentalize stress"
+    ],
+    "related": [
+      "department",
+      "partner",
+      "particular",
+      "apart"
+    ],
+    "tip": "장점으로는 집중력. 다만 정보를 너무 칸막이하면 공유가 안 된다는 뜻도 있음"
+  },
+  {
+    "id": "d08-D24",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "trade-off",
+    "pos": "noun",
+    "ipa": "/ˈtreɪdɔːf/",
+    "meaning_ko": "절충, (얻는 것과 잃는 것의) 맞교환",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trade",
+          "type": "part",
+          "gloss": "맞바꾸다"
+        },
+        {
+          "text": "off",
+          "type": "part",
+          "gloss": "떼어 내어"
+        }
+      ],
+      "story": "하나를 내주고 하나를 맞바꿈 → 절충, 득실"
+    },
+    "example": {
+      "q": "How do you make technical decisions?",
+      "a": "I list the trade-offs, like speed versus maintainability, and choose what fits the business goal.",
+      "a_ko": "속도와 유지보수성처럼 무엇을 얻고 잃는지 정리하고, 사업 목표에 맞는 쪽을 고릅니다."
+    },
+    "collocations": [
+      "make a trade-off",
+      "the trade-off between A and B"
+    ],
+    "related": [
+      "bottleneck",
+      "stopgap",
+      "roadblock"
+    ],
+    "tip": "시니어 면접 핵심 단어. There's always a trade-off. 로 답을 시작하면 좋음"
+  },
+  {
+    "id": "d08-D25",
+    "day": 8,
+    "level": 2,
+    "set": "D",
+    "family": "F8",
+    "word": "roadblock",
+    "pos": "noun",
+    "ipa": "/ˈroʊdblɑːk/",
+    "meaning_ko": "장애물, 걸림돌",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "road",
+          "type": "part",
+          "gloss": "길"
+        },
+        {
+          "text": "block",
+          "type": "part",
+          "gloss": "막다"
+        }
+      ],
+      "story": "길을 막는 바리케이드 → 일의 진행을 막는 장애물"
+    },
+    "example": {
+      "q": "What do you do when you're blocked by another team?",
+      "a": "When I hit a roadblock, I raise it in standup early, and I suggest a workaround so we don't lose time.",
+      "a_ko": "장애물을 만나면 스탠드업에서 일찍 알리고, 시간을 잃지 않도록 우회 방법을 제안합니다."
+    },
+    "collocations": [
+      "hit a roadblock",
+      "remove roadblocks"
+    ],
+    "related": [
+      "bottleneck",
+      "stopgap",
+      "trade-off"
+    ],
+    "tip": "blocker(진행을 막는 이슈)와 비슷. remove roadblocks for the team 은 리더십 표현"
+  }
+]

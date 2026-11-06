@@ -1,0 +1,1102 @@
+[
+ {
+  "id": "d06-B01",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "artificial",
+  "pos": "adjective",
+  "ipa": "/ˌɑːrtɪˈfɪʃl/",
+  "meaning_ko": "인공의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "arti",
+     "type": "root",
+     "gloss": "기술 (ars)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "기술(ars)로 만든(fac) → 사람이 만든 → 인공의"
+  },
+  "example": {
+   "q": "What technology trends interest you?",
+   "a": "I'm excited about artificial intelligence, especially how it can help developers review code faster.",
+   "a_ko": "인공지능, 특히 개발자가 코드를 더 빨리 리뷰하도록 돕는 방식에 관심이 많습니다."
+  },
+  "collocations": [
+   "artificial intelligence",
+   "artificial limit",
+   "artificial deadline"
+  ],
+  "related": [
+   "artifact",
+   "sacrifice",
+   "efficient"
+  ],
+  "tip": "AI = artificial intelligence. 'artificial deadline'(억지로 정한 마감)처럼 부정적 뜻도"
+ },
+ {
+  "id": "d06-B02",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "sacrifice",
+  "pos": "verb",
+  "ipa": "/ˈsækrɪfaɪs/",
+  "meaning_ko": "희생하다, 포기하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sacri",
+     "type": "root",
+     "gloss": "신성한 (sacer)"
+    },
+    {
+     "text": "fice",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "신성하게(sacer) 만들다(fac) → 신에게 바치다 → 더 중요한 것을 위해 포기하다"
+  },
+  "example": {
+   "q": "How do you balance speed and quality?",
+   "a": "I never sacrifice code quality for speed, but I'm willing to cut scope to meet a deadline.",
+   "a_ko": "속도를 위해 코드 품질을 희생하지는 않지만, 마감을 맞추려고 범위를 줄이는 건 기꺼이 합니다."
+  },
+  "collocations": [
+   "sacrifice A for B",
+   "sacrifice quality",
+   "make sacrifices"
+  ],
+  "related": [
+   "satisfy",
+   "artificial",
+   "significant"
+  ],
+  "tip": "트레이드오프 질문에 바로 쓰는 단어 — 'sacrifice A for B'(B를 위해 A를 포기하다)"
+ },
+ {
+  "id": "d06-B03",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "satisfy",
+  "pos": "verb",
+  "ipa": "/ˈsætɪsfaɪ/",
+  "meaning_ko": "만족시키다, (조건을) 충족하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "satis",
+     "type": "root",
+     "gloss": "충분히 (satis)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "충분하게(satis) 만들다(fac) → 바라는 만큼 채워 주다 → 만족시키다"
+  },
+  "example": {
+   "q": "How do you handle demanding clients?",
+   "a": "I listen carefully first, because it's hard to satisfy someone you don't understand.",
+   "a_ko": "먼저 잘 듣습니다. 이해하지 못하는 사람을 만족시키기는 어렵기 때문입니다."
+  },
+  "collocations": [
+   "satisfy requirements",
+   "satisfy customers",
+   "satisfy a condition"
+  ],
+  "related": [
+   "satisfaction",
+   "sufficient",
+   "verify"
+  ],
+  "tip": "조건을 '충족하다'의 뜻도 — 'satisfy the requirements'"
+ },
+ {
+  "id": "d06-B04",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "satisfaction",
+  "pos": "noun",
+  "ipa": "/ˌsætɪsˈfækʃn/",
+  "meaning_ko": "만족, 보람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "satis",
+     "type": "root",
+     "gloss": "충분히 (satis)"
+    },
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "충분하게 만들어 줌 → 만족"
+  },
+  "example": {
+   "q": "What motivates you at work?",
+   "a": "I get the most satisfaction when a feature I built solves a real problem for users.",
+   "a_ko": "제가 만든 기능이 사용자의 실제 문제를 해결할 때 가장 큰 보람을 느낍니다."
+  },
+  "collocations": [
+   "job satisfaction",
+   "customer satisfaction",
+   "a sense of satisfaction"
+  ],
+  "related": [
+   "satisfy",
+   "fact",
+   "effect"
+  ],
+  "tip": "'job satisfaction'(직무 만족)은 이직 사유를 이야기할 때도 유용"
+ },
+ {
+  "id": "d06-B05",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "verify",
+  "pos": "verb",
+  "ipa": "/ˈverɪfaɪ/",
+  "meaning_ko": "확인하다, 검증하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "veri",
+     "type": "root",
+     "gloss": "참된 (verus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "참되다고(verus) 만들다 → 사실인지 확인하다 → 검증하다"
+  },
+  "example": {
+   "q": "How do you make decisions?",
+   "a": "I always verify my assumptions with data before I decide.",
+   "a_ko": "결정하기 전에 늘 데이터로 제 가정을 확인합니다."
+  },
+  "collocations": [
+   "verify the results",
+   "verify that",
+   "verify identity"
+  ],
+  "related": [
+   "clarify",
+   "modify",
+   "verification"
+  ],
+  "tip": "check보다 '근거로 확인한다'는 뜻이 강함 — 검증 습관을 강조할 때"
+ },
+ {
+  "id": "d06-B06",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "modify",
+  "pos": "verb",
+  "ipa": "/ˈmɑːdɪfaɪ/",
+  "meaning_ko": "수정하다, 변경하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "modi",
+     "type": "root",
+     "gloss": "척도·방식 (modus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "척도(modus)에 맞게 만들다 → 알맞게 바꾸다 → 수정하다"
+  },
+  "example": {
+   "q": "Have you worked with legacy code?",
+   "a": "I modified a ten-year-old billing module without breaking any existing tests.",
+   "a_ko": "10년 된 결제 모듈을 기존 테스트를 하나도 깨뜨리지 않고 수정했습니다."
+  },
+  "collocations": [
+   "modify the code",
+   "slightly modified",
+   "modify settings"
+  ],
+  "related": [
+   "model",
+   "verify",
+   "unify"
+  ],
+  "tip": "change보다 '일부를 고친다'는 느낌 — HTTP의 'Last-Modified' 헤더도 같은 단어"
+ },
+ {
+  "id": "d06-B07",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "defeat",
+  "pos": "noun",
+  "ipa": "/dɪˈfiːt/",
+  "meaning_ko": "패배, 실패",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "반대로 (dis)"
+    },
+    {
+     "text": "feat",
+     "type": "root",
+     "gloss": "하다 (fac)"
+    }
+   ],
+   "story": "중세 라틴어 disfacere '해 놓은 것을 무너뜨리다' → 고대 프랑스어 desfait → 쳐부숨 → 패배"
+  },
+  "example": {
+   "q": "How do you deal with failure?",
+   "a": "I don't see a failed project as a defeat; I see it as a lesson.",
+   "a_ko": "실패한 프로젝트를 패배로 보지 않고, 배움으로 봅니다."
+  },
+  "collocations": [
+   "admit defeat",
+   "accept defeat",
+   "self-defeating"
+  ],
+  "related": [
+   "feature",
+   "fact",
+   "effect"
+  ],
+  "tip": "동사(이기다)로도 쓰지만 면접에선 'not a defeat but a lesson'처럼 명사로"
+ },
+ {
+  "id": "d06-B08",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "clarify",
+  "pos": "verb",
+  "ipa": "/ˈklærəfaɪ/",
+  "meaning_ko": "명확히 하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "clari",
+     "type": "root",
+     "gloss": "맑은·분명한 (clarus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "맑게(clarus) 만들다 → 흐린 것을 분명하게 → 명확히 하다"
+  },
+  "example": {
+   "q": "What do you do when requirements are unclear?",
+   "a": "I ask questions to clarify the goal early, because building the wrong thing is the most expensive mistake.",
+   "a_ko": "초기에 질문해서 목표를 명확히 합니다. 엉뚱한 걸 만드는 게 가장 비싼 실수이기 때문입니다."
+  },
+  "collocations": [
+   "clarify requirements",
+   "let me clarify",
+   "clarify expectations"
+  ],
+  "related": [
+   "verify",
+   "notify",
+   "clear"
+  ],
+  "tip": "면접 중 질문이 모호할 때: 'Could I clarify what you mean by …?'"
+ },
+ {
+  "id": "d06-B09",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "factory",
+  "pos": "noun",
+  "ipa": "/ˈfæktəri/",
+  "meaning_ko": "공장; (프로그래밍) 팩토리 패턴",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ory",
+     "type": "suffix",
+     "gloss": "~하는 곳"
+    }
+   ],
+   "story": "만드는 곳 → 공장 → 객체를 만들어 주는 코드(팩토리 패턴)"
+  },
+  "example": {
+   "q": "Which design patterns have you used?",
+   "a": "I used the factory pattern to create different payment objects.",
+   "a_ko": "다양한 결제 객체를 만들 때 팩토리 패턴을 썼습니다."
+  },
+  "collocations": [
+   "factory pattern",
+   "factory method"
+  ],
+  "related": [
+   "manufacture",
+   "fact",
+   "effect"
+  ],
+  "tip": "디자인 패턴 질문에서 singleton, observer 와 함께 자주 나옴"
+ },
+ {
+  "id": "d06-B10",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "classify",
+  "pos": "verb",
+  "ipa": "/ˈklæsɪfaɪ/",
+  "meaning_ko": "분류하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "class",
+     "type": "root",
+     "gloss": "부류 (classis)"
+    },
+    {
+     "text": "ify",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "부류(classis)로 만들다 → 종류별로 나누다 → 분류하다"
+  },
+  "example": {
+   "q": "Tell me about a machine learning project.",
+   "a": "I trained a model to classify support tickets by urgency, which cut our response time in half.",
+   "a_ko": "고객 문의 티켓을 긴급도별로 분류하는 모델을 학습시켜 응답 시간을 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "classify data",
+   "be classified as",
+   "classification model"
+  ],
+  "related": [
+   "class",
+   "modify",
+   "unify"
+  ],
+  "tip": "형용사 classified는 '기밀의'라는 뜻도 — classified information"
+ },
+ {
+  "id": "d06-B11",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "unify",
+  "pos": "verb",
+  "ipa": "/ˈjuːnɪfaɪ/",
+  "meaning_ko": "통합하다, 하나로 묶다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "uni",
+     "type": "prefix",
+     "gloss": "하나 (unus)"
+    },
+    {
+     "text": "fy",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "하나로(unus) 만들다 → 통합하다"
+  },
+  "example": {
+   "q": "How did you handle conflicting opinions on your team?",
+   "a": "I helped unify the team around one shared metric, so we stopped arguing about personal preferences.",
+   "a_ko": "팀이 공통 지표 하나를 바라보도록 묶었더니 개인 취향을 두고 다투는 일이 사라졌습니다."
+  },
+  "collocations": [
+   "unify the team",
+   "unified platform",
+   "unify standards"
+  ],
+  "related": [
+   "uniform",
+   "union",
+   "modify"
+  ],
+  "tip": "형용사 unified(통합된)는 IT 제품 설명에도 자주 — 'unified logging'"
+ },
+ {
+  "id": "d06-B12",
+  "day": 6,
+  "level": 3,
+  "set": "B",
+  "family": "F6",
+  "word": "codify",
+  "pos": "verb",
+  "ipa": "/ˈkɑːdɪfaɪ/",
+  "meaning_ko": "체계화하다, 규칙으로 정리하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cod",
+     "type": "root",
+     "gloss": "법전·규칙 (code ← 라틴어 codex)"
+    },
+    {
+     "text": "ify",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    }
+   ],
+   "story": "법전(code)으로 만들다 → 흩어진 관행을 규칙·문서로 정리하다 → 체계화하다"
+  },
+  "example": {
+   "q": "How do you share knowledge on your team?",
+   "a": "After the same mistakes kept happening, I codified our code review rules into a short checklist and a linter config.",
+   "a_ko": "같은 실수가 반복되길래 코드 리뷰 규칙을 짧은 체크리스트와 린터 설정으로 체계화했습니다."
+  },
+  "collocations": [
+   "codify best practices",
+   "codify rules",
+   "codified in policy"
+  ],
+  "related": [
+   "code",
+   "clarify",
+   "modify"
+  ],
+  "tip": "암묵지를 문서·자동화로 바꿨다는 시니어다운 표현 — 'codify best practices'"
+ },
+ {
+  "id": "d06-B13",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "form",
+  "pos": "verb",
+  "ipa": "/fɔːrm/",
+  "meaning_ko": "만들다, 결성하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    }
+   ],
+   "story": "라틴어 forma '모양' → 모양을 만들다 → (팀·습관을) 만들다"
+  },
+  "example": {
+   "q": "What did you do after joining your last company?",
+   "a": "I formed a small study group to learn Kubernetes together.",
+   "a_ko": "쿠버네티스를 함께 공부하는 작은 스터디 모임을 만들었습니다."
+  },
+  "collocations": [
+   "form a team",
+   "form a habit",
+   "form an opinion"
+  ],
+  "related": [
+   "formal",
+   "inform",
+   "platform",
+   "format"
+  ],
+  "tip": "명사 form(양식)도 있지만, 면접에선 동사 'form a team/habit'이 유용"
+ },
+ {
+  "id": "d06-B14",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "formal",
+  "pos": "adjective",
+  "ipa": "/ˈfɔːrml/",
+  "meaning_ko": "공식적인, 격식을 갖춘",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "정해진 모양(form)을 갖춘 → 형식을 갖춘 → 공식적인"
+  },
+  "example": {
+   "q": "Do you have any management experience?",
+   "a": "I don't have a formal title, but I mentor two junior developers.",
+   "a_ko": "공식 직함은 없지만 주니어 개발자 두 명의 멘토를 맡고 있습니다."
+  },
+  "collocations": [
+   "formal training",
+   "formal education",
+   "formal review"
+  ],
+  "related": [
+   "informal",
+   "form",
+   "formulate"
+  ],
+  "tip": "'formal title은 없지만'은 리더십 경험을 겸손하게 말하는 단골 표현"
+ },
+ {
+  "id": "d06-B15",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "informal",
+  "pos": "adjective",
+  "ipa": "/ɪnˈfɔːrml/",
+  "meaning_ko": "비공식적인, 격식 없는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "정해진 형식(formal)이 아닌 → 격식 없는, 비공식적인"
+  },
+  "example": {
+   "q": "How do you build relationships with coworkers?",
+   "a": "I set up informal coffee chats with people from other teams.",
+   "a_ko": "다른 팀 사람들과 가볍게 커피 마시는 자리를 만들어 관계를 쌓습니다."
+  },
+  "collocations": [
+   "informal chat",
+   "informal leader",
+   "informal feedback"
+  ],
+  "related": [
+   "formal",
+   "inform",
+   "form"
+  ],
+  "tip": "inform(알리다)의 형용사가 아니라 formal의 반대말 — 여기서 in-은 '아닌'"
+ },
+ {
+  "id": "d06-B16",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "inform",
+  "pos": "verb",
+  "ipa": "/ɪnˈfɔːrm/",
+  "meaning_ko": "알리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    }
+   ],
+   "story": "라틴어 informare '모양을 잡아 주다' → 생각에 모양을 잡아 주다 → 알려 주다"
+  },
+  "example": {
+   "q": "What would you do if you were going to miss a deadline?",
+   "a": "I would inform my manager right away and suggest a new plan.",
+   "a_ko": "바로 매니저에게 알리고 새 계획을 제안하겠습니다."
+  },
+  "collocations": [
+   "inform someone of",
+   "keep someone informed",
+   "informed decision"
+  ],
+  "related": [
+   "information",
+   "form",
+   "formal"
+  ],
+  "tip": "'keep my team informed'(팀에 계속 공유하다)는 소통 질문의 단골 표현"
+ },
+ {
+  "id": "d06-B17",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "information",
+  "pos": "noun",
+  "ipa": "/ˌɪnfərˈmeɪʃn/",
+  "meaning_ko": "정보",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "생각에 모양을 잡아 주는 것 → 알려 주는 내용 → 정보"
+  },
+  "example": {
+   "q": "How do you get up to speed in a new team?",
+   "a": "I gather information by reading the docs and asking lots of questions.",
+   "a_ko": "문서를 읽고 질문을 많이 하면서 정보를 모읍니다."
+  },
+  "collocations": [
+   "gather information",
+   "share information",
+   "information security"
+  ],
+  "related": [
+   "inform",
+   "form",
+   "format"
+  ],
+  "tip": "셀 수 없는 명사 — 'an information'(X), 'a piece of information'(O)"
+ },
+ {
+  "id": "d06-B18",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "platform",
+  "pos": "noun",
+  "ipa": "/ˈplætfɔːrm/",
+  "meaning_ko": "플랫폼, 기반",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "plat",
+     "type": "root",
+     "gloss": "평평한 (프랑스어 plat)"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    }
+   ],
+   "story": "프랑스어 plateforme '평평한 모양' → 평평한 단 → 그 위에 서비스를 올리는 기반"
+  },
+  "example": {
+   "q": "What does your current team do?",
+   "a": "My team runs the internal platform that other teams use to ship their services.",
+   "a_ko": "저희 팀은 다른 팀들이 서비스를 내보낼 때 쓰는 사내 플랫폼을 운영합니다."
+  },
+  "collocations": [
+   "platform team",
+   "cloud platform",
+   "cross-platform"
+  ],
+  "related": [
+   "form",
+   "uniform",
+   "format"
+  ],
+  "tip": "'platform engineering'(플랫폼 엔지니어링)은 직무명으로도 쓰임"
+ },
+ {
+  "id": "d06-B19",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "uniform",
+  "pos": "adjective",
+  "ipa": "/ˈjuːnɪfɔːrm/",
+  "meaning_ko": "균일한, 통일된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "uni",
+     "type": "prefix",
+     "gloss": "하나의 (unus)"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    }
+   ],
+   "story": "하나의(uni) 모양(form) → 모두 같은 모양 → 균일한"
+  },
+  "example": {
+   "q": "How did you make your APIs easier to use?",
+   "a": "I introduced a uniform error response across all our APIs, so clients could handle failures in one place.",
+   "a_ko": "모든 API의 에러 응답을 통일된 형태로 맞춰서 클라이언트가 한곳에서 실패를 처리할 수 있게 했습니다."
+  },
+  "collocations": [
+   "uniform interface",
+   "uniform distribution",
+   "uniform naming"
+  ],
+  "related": [
+   "unify",
+   "form",
+   "platform"
+  ],
+  "tip": "명사 uniform(제복)으로 익숙하지만 IT에선 형용사 '한결같은, 통일된'이 자주 쓰임"
+ },
+ {
+  "id": "d06-B20",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "conform",
+  "pos": "verb",
+  "ipa": "/kənˈfɔːrm/",
+  "meaning_ko": "(규칙·기준을) 따르다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    }
+   ],
+   "story": "같은 모양으로(com + forma) 맞추다 → 기준에 맞추다 → 따르다"
+  },
+  "example": {
+   "q": "How do you work with a team's existing practices?",
+   "a": "When I join a team, I conform to their style guide first and suggest changes only after I understand the reasons.",
+   "a_ko": "새 팀에 가면 먼저 그 팀의 스타일 가이드를 따르고, 이유를 이해한 뒤에야 변경을 제안합니다."
+  },
+  "collocations": [
+   "conform to standards",
+   "conform to the spec",
+   "conform with"
+  ],
+  "related": [
+   "form",
+   "uniform",
+   "formal"
+  ],
+  "tip": "conform to + 기준 — follow보다 '틀에 맞춘다'는 느낌"
+ },
+ {
+  "id": "d06-B21",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "malformed",
+  "pos": "adjective",
+  "ipa": "/ˌmælˈfɔːrmd/",
+  "meaning_ko": "형식이 잘못된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mal",
+     "type": "prefix",
+     "gloss": "나쁘게"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "나쁘게(mal) 모양 잡힌(form) → 형식이 깨진 → 잘못된 형식의"
+  },
+  "example": {
+   "q": "Tell me about a tricky bug you fixed.",
+   "a": "A single malformed JSON payload from a partner was crashing our parser, so I added strict input validation.",
+   "a_ko": "파트너사가 보낸 잘못된 형식의 JSON 하나가 파서를 죽이고 있어서 엄격한 입력 검증을 추가했습니다."
+  },
+  "collocations": [
+   "malformed request",
+   "malformed input",
+   "malformed data"
+  ],
+  "related": [
+   "form",
+   "uniform",
+   "malfunction"
+  ],
+  "tip": "에러 메시지 '400 Bad Request: malformed …'에 자주 등장"
+ },
+ {
+  "id": "d06-B22",
+  "day": 6,
+  "level": 2,
+  "set": "B",
+  "family": "F6",
+  "word": "formulate",
+  "pos": "verb",
+  "ipa": "/ˈfɔːrmjəleɪt/",
+  "meaning_ko": "(계획·생각을) 세우다, 정리하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "ul",
+     "type": "suffix",
+     "gloss": "작은 (지소사)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "formula(작은 틀, 공식) → 틀에 맞춰 만들다 → 생각·계획을 체계적으로 세우다"
+  },
+  "example": {
+   "q": "How do you approach a problem you've never seen before?",
+   "a": "I break it into smaller questions and formulate a few hypotheses before I start writing code.",
+   "a_ko": "작은 질문들로 쪼갠 다음, 코드를 쓰기 전에 몇 가지 가설을 세웁니다."
+  },
+  "collocations": [
+   "formulate a plan",
+   "formulate a strategy",
+   "formulate a hypothesis"
+  ],
+  "related": [
+   "formula",
+   "form",
+   "formal"
+  ],
+  "tip": "make a plan보다 격식 있게 — 'formulate a strategy'"
+ },
+ {
+  "id": "d06-B23",
+  "day": 6,
+  "level": 3,
+  "set": "B",
+  "family": "F6",
+  "word": "formative",
+  "pos": "adjective",
+  "ipa": "/ˈfɔːrmətɪv/",
+  "meaning_ko": "(사람·생각을) 형성한, 성장에 큰 영향을 준",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "모양 (forma)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "모양을 만들어 가는 → 사람의 성격·관점을 빚어낸 → 성장에 큰 영향을 준"
+  },
+  "example": {
+   "q": "Tell me about an experience that shaped you as an engineer.",
+   "a": "My first on-call rotation was a formative experience; handling outages taught me to stay calm and communicate clearly under pressure.",
+   "a_ko": "첫 당직 근무가 저를 만든 경험이었습니다. 장애를 처리하면서 압박 속에서도 침착하게, 분명하게 소통하는 법을 배웠습니다."
+  },
+  "collocations": [
+   "formative experience",
+   "formative years",
+   "formative period"
+  ],
+  "related": [
+   "form",
+   "formulate",
+   "transform"
+  ],
+  "tip": "'저를 만든 경험'을 한 단어로 — 성장 스토리를 시작할 때 쓰면 좋음"
+ },
+ {
+  "id": "d06-B24",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "backend",
+  "pos": "noun",
+  "ipa": "/ˈbækend/",
+  "meaning_ko": "백엔드",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "뒤"
+    },
+    {
+     "text": "end",
+     "type": "part",
+     "gloss": "끝, 쪽"
+    }
+   ],
+   "story": "뒤(back) 쪽(end) → 사용자 눈에 안 보이는 뒤편 → 서버·데이터 처리 부분"
+  },
+  "example": {
+   "q": "Which area do you specialize in?",
+   "a": "I mainly work on the backend, building APIs and data pipelines.",
+   "a_ko": "주로 백엔드에서 API와 데이터 파이프라인을 만듭니다."
+  },
+  "collocations": [
+   "backend developer",
+   "backend service",
+   "backend system"
+  ],
+  "related": [
+   "frontend",
+   "codebase",
+   "infrastructure"
+  ],
+  "tip": "back end / back-end / backend 다 쓰임 — 명사 앞에선 back-end도 많음"
+ },
+ {
+  "id": "d06-B25",
+  "day": 6,
+  "level": 1,
+  "set": "B",
+  "family": "F6",
+  "word": "frontend",
+  "pos": "noun",
+  "ipa": "/ˈfrʌntend/",
+  "meaning_ko": "프런트엔드",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "front",
+     "type": "part",
+     "gloss": "앞"
+    },
+    {
+     "text": "end",
+     "type": "part",
+     "gloss": "끝, 쪽"
+    }
+   ],
+   "story": "앞(front) 쪽(end) → 사용자가 직접 보는 앞면 → 화면·UI 부분"
+  },
+  "example": {
+   "q": "Have you done any full-stack work?",
+   "a": "Yes, I've also built frontend pages with React for our admin tools.",
+   "a_ko": "네, 사내 관리 도구용으로 React 프런트엔드 화면도 만들어 봤습니다."
+  },
+  "collocations": [
+   "frontend developer",
+   "frontend framework",
+   "frontend code"
+  ],
+  "related": [
+   "backend",
+   "design",
+   "platform"
+  ],
+  "tip": "합성어로 통째 외우기 — frontend ↔ backend 짝으로"
+ }
+]

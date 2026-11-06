@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "d04-C01",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "prefer",
+    "pos": "verb",
+    "ipa": "/prɪˈfɜːr/",
+    "meaning_ko": "더 좋아하다, 선호하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "앞으로 날라 놓다 → 먼저 두다 → 더 좋아하다"
+    },
+    "example": {
+      "q": "Do you prefer working alone or in a team?",
+      "a": "I prefer working in a team, but I am comfortable working alone too.",
+      "a_ko": "팀으로 일하는 것을 더 좋아하지만, 혼자 일하는 것도 편합니다."
+    },
+    "collocations": [
+      "prefer A to B",
+      "prefer to work",
+      "would prefer"
+    ],
+    "related": [
+      "preference",
+      "refer",
+      "conference",
+      "suffer"
+    ],
+    "tip": "강세가 뒤에(pre-FER). 'A보다 B'는 than이 아니라 prefer A to B"
+  },
+  {
+    "id": "d04-C02",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "preference",
+    "pos": "noun",
+    "ipa": "/ˈprefrəns/",
+    "meaning_ko": "선호(하는 것)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "앞에 두는 것 → 더 좋아하는 것 → 선호"
+    },
+    "example": {
+      "q": "Do you have a preference between remote and office work?",
+      "a": "My preference is a hybrid setup, because I focus best at home but value in-person design discussions.",
+      "a_ko": "재택과 출근을 섞는 방식을 선호합니다. 집에서 가장 집중이 잘 되지만, 대면 설계 논의도 중요하게 생각하기 때문입니다."
+    },
+    "collocations": [
+      "have a preference for",
+      "personal preference",
+      "user preferences"
+    ],
+    "related": [
+      "prefer",
+      "reference",
+      "difference",
+      "inference"
+    ],
+    "tip": "강세가 앞으로 이동: pre-FER → PREF-er-ence"
+  },
+  {
+    "id": "d04-C03",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "refer",
+    "pos": "verb",
+    "ipa": "/rɪˈfɜːr/",
+    "meaning_ko": "참고하다, 언급하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "도로 날라 가다 → (자료·사람에게) 가져가 맡기다 → 참고하다·언급하다"
+    },
+    "example": {
+      "q": "How do you keep track of all the details of the system?",
+      "a": "I do not memorize everything; I refer to our design docs when I need details.",
+      "a_ko": "전부 외우지는 않고, 세부 내용이 필요할 때 설계 문서를 참고합니다."
+    },
+    "collocations": [
+      "refer to",
+      "refer someone to",
+      "as referred to"
+    ],
+    "related": [
+      "reference",
+      "prefer",
+      "conference",
+      "difference"
+    ],
+    "tip": "refer to + 대상. 강세 re-FER"
+  },
+  {
+    "id": "d04-C04",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "reference",
+    "pos": "noun",
+    "ipa": "/ˈrefrəns/",
+    "meaning_ko": "추천인, 참고(자료)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "도로 날라 가 맡김 → 확인을 맡기는 사람·자료 → 추천인·참고"
+    },
+    "example": {
+      "q": "Can you provide references?",
+      "a": "Yes, my former team lead is happy to be a reference for me.",
+      "a_ko": "네, 이전 팀장님께서 기꺼이 추천인이 되어 주시기로 했습니다."
+    },
+    "collocations": [
+      "reference check",
+      "provide references",
+      "for reference"
+    ],
+    "related": [
+      "refer",
+      "preference",
+      "inference"
+    ],
+    "tip": "채용 마지막 단계의 reference check(평판 조회)에 꼭 나옴"
+  },
+  {
+    "id": "d04-C05",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "difference",
+    "pos": "noun",
+    "ipa": "/ˈdɪfrəns/",
+    "meaning_ko": "차이",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dif",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "따로따로 날라 가다 → 서로 떨어짐 → 차이"
+    },
+    "example": {
+      "q": "Why do you enjoy working on developer tools?",
+      "a": "I like seeing how small tools make a big difference in daily work.",
+      "a_ko": "작은 도구가 일상 업무에 큰 차이를 만드는 걸 보는 게 좋습니다."
+    },
+    "collocations": [
+      "make a difference",
+      "the difference between",
+      "key difference"
+    ],
+    "related": [
+      "differentiate",
+      "prefer",
+      "refer",
+      "conference"
+    ],
+    "tip": "make a difference는 지원 동기·성과 설명의 단골 표현"
+  },
+  {
+    "id": "d04-C06",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "differentiate",
+    "pos": "verb",
+    "ipa": "/ˌdɪfəˈrenʃieɪt/",
+    "meaning_ko": "차별화하다, 구별하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dif",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        },
+        {
+          "text": "iate",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "떨어져 나르는 → 다른 → 다르게 만들다 → 차별화하다"
+    },
+    "example": {
+      "q": "What makes you different from other candidates?",
+      "a": "I think what differentiates me is that I have worked on both the backend and the data pipeline.",
+      "a_ko": "백엔드와 데이터 파이프라인을 모두 다뤄 봤다는 점이 저를 차별화한다고 생각합니다."
+    },
+    "collocations": [
+      "differentiate between",
+      "differentiate yourself",
+      "differentiate from"
+    ],
+    "related": [
+      "difference",
+      "prefer",
+      "inference"
+    ],
+    "tip": "'다른 지원자와의 차이' 질문의 답을 시작할 때 좋음. 명사 differentiator(차별점)"
+  },
+  {
+    "id": "d04-C07",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "conference",
+    "pos": "noun",
+    "ipa": "/ˈkɑːnfərəns/",
+    "meaning_ko": "콘퍼런스, 회의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "함께 날라 와 모으다 → 의견을 모으는 자리 → 회의·학회"
+    },
+    "example": {
+      "q": "How do you keep your skills up to date?",
+      "a": "I attend one tech conference a year and share what I learn with my team.",
+      "a_ko": "1년에 한 번 기술 콘퍼런스에 참석하고, 배운 내용을 팀과 공유합니다."
+    },
+    "collocations": [
+      "attend a conference",
+      "conference call",
+      "give a talk at a conference"
+    ],
+    "related": [
+      "prefer",
+      "refer",
+      "difference",
+      "inference"
+    ],
+    "tip": "conference call은 '다자간 전화 회의'"
+  },
+  {
+    "id": "d04-C08",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "suffer",
+    "pos": "verb",
+    "ipa": "/ˈsʌfər/",
+    "meaning_ko": "(질·성과가) 나빠지다, 겪다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "suf",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "아래에서 짊어지다 → 견디다 → 손해를 겪다"
+    },
+    "example": {
+      "q": "What happens when a team grows too fast?",
+      "a": "Code quality can suffer if we skip reviews to move faster.",
+      "a_ko": "더 빨리 가려고 리뷰를 건너뛰면 코드 품질이 나빠질 수 있습니다."
+    },
+    "collocations": [
+      "quality suffers",
+      "suffer from",
+      "performance suffered"
+    ],
+    "related": [
+      "prefer",
+      "refer",
+      "conference"
+    ],
+    "tip": "면접에서는 '고통받다'보다 '(품질·성과가) 나빠지다'로 많이 씀"
+  },
+  {
+    "id": "d04-C09",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "infer",
+    "pos": "verb",
+    "ipa": "/ɪnˈfɜːr/",
+    "meaning_ko": "추론하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "안으로 날라 오다 → 결론을 끌어오다 → 추론하다"
+    },
+    "example": {
+      "q": "Why do you like TypeScript?",
+      "a": "TypeScript can infer most types on its own, so we get safety without writing types everywhere.",
+      "a_ko": "TypeScript는 대부분의 타입을 스스로 추론해서, 모든 곳에 타입을 쓰지 않아도 안정성을 얻을 수 있습니다."
+    },
+    "collocations": [
+      "infer from",
+      "type inference",
+      "infer that"
+    ],
+    "related": [
+      "inference",
+      "refer",
+      "prefer",
+      "conference"
+    ],
+    "tip": "imply(넌지시 말하다)는 말하는 쪽, infer(추론하다)는 듣는 쪽"
+  },
+  {
+    "id": "d04-C10",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "inference",
+    "pos": "noun",
+    "ipa": "/ˈɪnfərəns/",
+    "meaning_ko": "추론(학습된 모델로 예측하기)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "안으로 날라 온 결론 → 추론 → (ML) 모델로 결과를 내는 단계"
+    },
+    "example": {
+      "q": "Have you worked with machine learning models?",
+      "a": "Yes, I optimized model inference on GPUs and reduced response time from two seconds to three hundred milliseconds.",
+      "a_ko": "네, GPU에서 모델 추론을 최적화해서 응답 시간을 2초에서 300밀리초로 줄였습니다."
+    },
+    "collocations": [
+      "model inference",
+      "inference cost",
+      "real-time inference"
+    ],
+    "related": [
+      "infer",
+      "reference",
+      "preference"
+    ],
+    "tip": "ML에서 training(학습)과 짝을 이루는 단계. inference server, inference latency"
+  },
+  {
+    "id": "d04-C11",
+    "day": 4,
+    "level": 3,
+    "set": "C",
+    "family": "F4",
+    "word": "proliferation",
+    "pos": "noun",
+    "ipa": "/prəˌlɪfəˈreɪʃn/",
+    "meaning_ko": "급증, 난립",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "proli",
+          "type": "root",
+          "gloss": "자손 (라틴어 proles)"
+        },
+        {
+          "text": "fer",
+          "type": "root",
+          "gloss": "나르다, 낳다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "자손을 낳다 → 마구 불어나다 → 급증·난립"
+    },
+    "example": {
+      "q": "What problems did you see with microservices?",
+      "a": "We had a proliferation of small services with no clear owners, so I led an effort to merge them into fewer, well-owned services.",
+      "a_ko": "담당자가 분명하지 않은 작은 서비스들이 난립해서, 제가 주도해 담당이 명확한 소수의 서비스로 통합했습니다."
+    },
+    "collocations": [
+      "proliferation of tools",
+      "rapid proliferation",
+      "prevent the proliferation"
+    ],
+    "related": [
+      "prefer",
+      "infer",
+      "conference",
+      "suffer"
+    ],
+    "tip": "'좋지 않게 마구 늘어남'의 뉘앙스. 동사는 proliferate"
+  },
+  {
+    "id": "d04-C12",
+    "day": 4,
+    "level": 3,
+    "set": "C",
+    "family": "F4",
+    "word": "elated",
+    "pos": "adjective",
+    "ipa": "/iˈleɪtɪd/",
+    "meaning_ko": "몹시 기쁜, 들뜬",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로, 위로 (ex)"
+        },
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "나르다 (ferre의 과거분사 latus)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "라틴어 elatus '들어 올려진' → 기분이 붕 떠오른 → 몹시 기쁜"
+    },
+    "example": {
+      "q": "Tell me about a moment you were proud of at work.",
+      "a": "When our app finally passed the load test after three failed attempts, the whole team was elated, and we celebrated with a small demo day.",
+      "a_ko": "세 번 실패한 끝에 앱이 부하 테스트를 통과했을 때 팀 전체가 정말 기뻐했고, 작은 데모 데이를 열어 축하했습니다."
+    },
+    "collocations": [
+      "be elated",
+      "elated about",
+      "elated to hear"
+    ],
+    "related": [
+      "collate",
+      "correlation",
+      "ablation",
+      "relate"
+    ],
+    "tip": "happy보다 훨씬 강한 기쁨. 성과 스토리의 마무리에 쓰기 좋음"
+  },
+  {
+    "id": "d04-C13",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "collate",
+    "pos": "verb",
+    "ipa": "/kəˈleɪt/",
+    "meaning_ko": "취합하다, 대조하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "col",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "나르다 (latus)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "동사 어미"
+        }
+      ],
+      "story": "라틴어 collatus '함께 날라 온' → 모아서 맞춰 보다 → 취합하다"
+    },
+    "example": {
+      "q": "How did you prepare the quarterly incident review?",
+      "a": "I collated data from our monitoring and ticket systems, so we could see which issues kept coming back.",
+      "a_ko": "모니터링 시스템과 티켓 시스템의 데이터를 취합해서, 어떤 문제가 반복되는지 볼 수 있게 했습니다."
+    },
+    "collocations": [
+      "collate data",
+      "collate results",
+      "collate feedback"
+    ],
+    "related": [
+      "correlation",
+      "elated",
+      "ablation",
+      "relate"
+    ],
+    "tip": "DB의 collation(문자열 정렬·비교 규칙)도 같은 말"
+  },
+  {
+    "id": "d04-C14",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "correlation",
+    "pos": "noun",
+    "ipa": "/ˌkɔːrəˈleɪʃn/",
+    "meaning_ko": "상관관계",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시, 서로"
+        },
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "나르다 (latus)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "서로 되날라 이어진 관계 → 함께 움직이는 관계 → 상관관계"
+    },
+    "example": {
+      "q": "How did you find the cause of the slowdown?",
+      "a": "I noticed a strong correlation between slow pages and a specific database query, and that query turned out to be the cause.",
+      "a_ko": "느린 페이지와 특정 DB 쿼리 사이에 강한 상관관계가 있는 걸 발견했는데, 결국 그 쿼리가 원인이었습니다."
+    },
+    "collocations": [
+      "correlation between",
+      "strong correlation",
+      "correlation ID"
+    ],
+    "related": [
+      "collate",
+      "elated",
+      "ablation",
+      "relate"
+    ],
+    "tip": "correlation is not causation(상관관계는 인과관계가 아니다)은 데이터 면접 단골"
+  },
+  {
+    "id": "d04-C15",
+    "day": 4,
+    "level": 3,
+    "set": "C",
+    "family": "F4",
+    "word": "ablation",
+    "pos": "noun",
+    "ipa": "/æˈbleɪʃn/",
+    "meaning_ko": "제거 실험(어블레이션), 제거",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ab",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "나르다 (latus)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 ablatus '날라 가 버린' → 떼어 냄 → (ML) 요소를 하나씩 빼 보는 실험"
+    },
+    "example": {
+      "q": "How did you know which feature helped your model?",
+      "a": "I ran an ablation study, removing one input feature at a time, and found that the user history feature drove most of the gain.",
+      "a_ko": "입력 특성을 하나씩 빼 보는 어블레이션 실험을 해서, 성능 향상의 대부분이 사용자 이력 특성에서 나왔다는 걸 확인했습니다."
+    },
+    "collocations": [
+      "ablation study",
+      "ablation experiment",
+      "run an ablation"
+    ],
+    "related": [
+      "collate",
+      "correlation",
+      "elated"
+    ],
+    "tip": "ML 논문·면접에서 '무엇이 효과를 냈는지' 증명하는 방법"
+  },
+  {
+    "id": "d04-C16",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "suggest",
+    "pos": "verb",
+    "ipa": "/səɡˈdʒest/",
+    "meaning_ko": "제안하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sug",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다 (gerere)"
+        }
+      ],
+      "story": "라틴어 suggerere '아래에서 날라다 주다' → 슬쩍 내놓다 → 제안하다"
+    },
+    "example": {
+      "q": "How do you share ideas with senior engineers?",
+      "a": "I suggest small experiments first, so the idea is easy to test.",
+      "a_ko": "아이디어를 시험해 보기 쉽도록 먼저 작은 실험을 제안합니다."
+    },
+    "collocations": [
+      "suggest that",
+      "suggest -ing",
+      "strongly suggest"
+    ],
+    "related": [
+      "suggestion",
+      "register",
+      "digest",
+      "congestion"
+    ],
+    "tip": "suggest + to부정사는 틀림: suggest trying / suggest that we try. 어근 gest(gerere)도 '나르다'"
+  },
+  {
+    "id": "d04-C17",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "suggestion",
+    "pos": "noun",
+    "ipa": "/səɡˈdʒestʃən/",
+    "meaning_ko": "제안",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sug",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다 (gerere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "아래에서 날라다 준 것 → 내놓은 생각 → 제안"
+    },
+    "example": {
+      "q": "How do you respond when someone criticizes your code?",
+      "a": "I thank them and treat each comment as a useful suggestion.",
+      "a_ko": "고맙다고 말하고, 코멘트 하나하나를 유용한 제안으로 받아들입니다."
+    },
+    "collocations": [
+      "make a suggestion",
+      "open to suggestions",
+      "a helpful suggestion"
+    ],
+    "related": [
+      "suggest",
+      "gesture",
+      "digest"
+    ],
+    "tip": "I'm open to suggestions(제안 환영합니다)는 회의에서 자주 씀"
+  },
+  {
+    "id": "d04-C18",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "register",
+    "pos": "verb",
+    "ipa": "/ˈredʒɪstər/",
+    "meaning_ko": "등록하다, 가입하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "gist",
+          "type": "root",
+          "gloss": "나르다 (gest)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 regerere '도로 날라 오다 → 기록하다' → 기록부 → 등록하다"
+    },
+    "example": {
+      "q": "What did your first feature at the company do?",
+      "a": "It let users register with their Google account in one click.",
+      "a_ko": "사용자가 구글 계정으로 클릭 한 번에 가입할 수 있게 하는 기능이었습니다."
+    },
+    "collocations": [
+      "register a user",
+      "register a domain",
+      "register for"
+    ],
+    "related": [
+      "registration",
+      "suggest",
+      "digest",
+      "ingest"
+    ],
+    "tip": "CPU의 '레지스터'도 같은 단어 — 값을 기록해 두는 곳"
+  },
+  {
+    "id": "d04-C19",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "digest",
+    "pos": "noun",
+    "ipa": "/ˈdaɪdʒest/",
+    "meaning_ko": "요약본; 해시값(다이제스트)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로 (dis)"
+        },
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다 (gerere)"
+        }
+      ],
+      "story": "라틴어 digerere '따로따로 날라 나누다 → 정리하다' → 정리된 요약 → 데이터를 짧게 줄인 해시"
+    },
+    "example": {
+      "q": "How do you keep your team updated on alerts?",
+      "a": "I set up a daily digest of non-urgent alerts, so the team is not interrupted all day.",
+      "a_ko": "급하지 않은 알림은 하루 한 번 요약본으로 보내도록 설정해서, 팀이 하루 종일 방해받지 않게 했습니다."
+    },
+    "collocations": [
+      "daily digest",
+      "message digest",
+      "weekly digest"
+    ],
+    "related": [
+      "suggest",
+      "ingest",
+      "congestion",
+      "register"
+    ],
+    "tip": "동사 di-GEST는 '소화하다·이해하다', 명사 DI-gest는 '요약'. 보안에서는 SHA-256 digest"
+  },
+  {
+    "id": "d04-C20",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "ingest",
+    "pos": "verb",
+    "ipa": "/ɪnˈdʒest/",
+    "meaning_ko": "(데이터를) 수집·적재하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다 (gerere)"
+        }
+      ],
+      "story": "안으로 날라 넣다 → 먹다 → 데이터를 시스템에 받아들이다"
+    },
+    "example": {
+      "q": "What does your data pipeline do?",
+      "a": "It ingests about ten million events a day from our apps and loads them into the data warehouse.",
+      "a_ko": "앱에서 하루 약 1,000만 건의 이벤트를 수집해서 데이터 웨어하우스에 적재합니다."
+    },
+    "collocations": [
+      "ingest data",
+      "data ingestion",
+      "ingest in real time"
+    ],
+    "related": [
+      "digest",
+      "suggest",
+      "congestion",
+      "register"
+    ],
+    "tip": "명사 ingestion: data ingestion pipeline(데이터 수집 파이프라인)"
+  },
+  {
+    "id": "d04-C21",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "congestion",
+    "pos": "noun",
+    "ipa": "/kənˈdʒestʃən/",
+    "meaning_ko": "혼잡, 정체",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다 (gerere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "한데 날라 쌓다 → 쌓여서 막힘 → 혼잡"
+    },
+    "example": {
+      "q": "Why did your API slow down during peak hours?",
+      "a": "Network congestion between regions was the main cause, so we moved the cache closer to our users.",
+      "a_ko": "리전 간 네트워크 혼잡이 주된 원인이어서, 캐시를 사용자와 가까운 곳으로 옮겼습니다."
+    },
+    "collocations": [
+      "network congestion",
+      "traffic congestion",
+      "congestion control"
+    ],
+    "related": [
+      "ingest",
+      "digest",
+      "suggest"
+    ],
+    "tip": "TCP의 congestion control(혼잡 제어)로 자주 나옴"
+  },
+  {
+    "id": "d04-C22",
+    "day": 4,
+    "level": 2,
+    "set": "C",
+    "family": "F4",
+    "word": "gesture",
+    "pos": "noun",
+    "ipa": "/ˈdʒestʃər/",
+    "meaning_ko": "(마음을 보여 주는) 행동, 몸짓",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gest",
+          "type": "root",
+          "gloss": "나르다, 행하다 (gerere)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 gerere '나르다 → 몸을 움직여 행하다' → 몸짓 → 마음을 보여 주는 행동"
+    },
+    "example": {
+      "q": "How did you help new members join your team?",
+      "a": "I wrote a short onboarding guide for them, which was a small gesture but saved them days of confusion.",
+      "a_ko": "짧은 온보딩 가이드를 써 줬는데, 작은 배려였지만 그들이 며칠씩 헤맬 시간을 아껴 줬습니다."
+    },
+    "collocations": [
+      "a small gesture",
+      "a kind gesture",
+      "a gesture of goodwill"
+    ],
+    "related": [
+      "suggest",
+      "digest",
+      "register"
+    ],
+    "tip": "면접에서는 '몸짓'보다 a small gesture(작은 배려)로 쓰기 좋음"
+  },
+  {
+    "id": "d04-C23",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "reach out",
+    "pos": "phrasal verb",
+    "ipa": "/ˌriːtʃ ˈaʊt/",
+    "meaning_ko": "연락하다, 도움을 청하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reach",
+          "type": "part",
+          "gloss": "손을 뻗다"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖으로"
+        }
+      ],
+      "story": "밖으로 손을 뻗다 → 먼저 연락하다"
+    },
+    "example": {
+      "q": "What do you do when you are stuck?",
+      "a": "If I am stuck for over an hour, I reach out to a teammate.",
+      "a_ko": "한 시간 넘게 막히면 팀원에게 도움을 요청합니다."
+    },
+    "collocations": [
+      "reach out to",
+      "feel free to reach out",
+      "reach out for help"
+    ],
+    "related": [
+      "point out",
+      "check in",
+      "get back to"
+    ],
+    "tip": "contact보다 부드럽고 친근한 '연락하다'"
+  },
+  {
+    "id": "d04-C24",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "point out",
+    "pos": "phrasal verb",
+    "ipa": "/ˌpɔɪnt ˈaʊt/",
+    "meaning_ko": "지적하다, 짚어 주다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "point",
+          "type": "part",
+          "gloss": "가리키다"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "드러나게"
+        }
+      ],
+      "story": "손가락으로 가리켜 드러내다 → 지적하다"
+    },
+    "example": {
+      "q": "How do you give feedback in code reviews?",
+      "a": "I point out the issue clearly and suggest a fix when I can.",
+      "a_ko": "문제를 분명하게 짚어 주고, 가능하면 고칠 방법도 제안합니다."
+    },
+    "collocations": [
+      "point out a problem",
+      "point out that",
+      "as you pointed out"
+    ],
+    "related": [
+      "bring up",
+      "speak up",
+      "reach out"
+    ],
+    "tip": "As you pointed out, ~ (말씀하신 대로)로 면접관의 말을 받을 수 있음"
+  },
+  {
+    "id": "d04-C25",
+    "day": 4,
+    "level": 1,
+    "set": "C",
+    "family": "F4",
+    "word": "bring up",
+    "pos": "phrasal verb",
+    "ipa": "/ˌbrɪŋ ˈʌp/",
+    "meaning_ko": "(화제를) 꺼내다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bring",
+          "type": "part",
+          "gloss": "가져오다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로, 드러나게"
+        }
+      ],
+      "story": "위로 가져오다 → 화제를 테이블 위에 올리다 → 꺼내다"
+    },
+    "example": {
+      "q": "What do you do if you disagree with your manager?",
+      "a": "I bring it up in our one-on-one instead of in a big meeting.",
+      "a_ko": "큰 회의 자리보다는 1:1 면담에서 그 이야기를 꺼냅니다."
+    },
+    "collocations": [
+      "bring up an issue",
+      "bring up a topic",
+      "bring it up with"
+    ],
+    "related": [
+      "point out",
+      "speak up",
+      "push back"
+    ],
+    "tip": "raise와 비슷한 뜻. bring up a child(아이를 키우다)라는 뜻도 있음"
+  }
+]

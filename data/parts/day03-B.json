@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "d03-B01",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "positioning",
+    "pos": "noun",
+    "ipa": "/pəˈzɪʃənɪŋ/",
+    "meaning_ko": "포지셔닝, 자리매김",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "자리에 놓기 → 시장·조직 안에서 자리 잡기 → 자리매김"
+    },
+    "example": {
+      "q": "What do you know about our product?",
+      "a": "I like your positioning as a developer-first platform, because it matches how I choose tools as an engineer.",
+      "a_ko": "개발자 우선 플랫폼으로 자리매김하신 점이 좋습니다. 제가 엔지니어로서 도구를 고르는 방식과 맞기 때문입니다."
+    },
+    "collocations": [
+      "market positioning",
+      "product positioning",
+      "strategic positioning"
+    ],
+    "related": [
+      "position",
+      "posture",
+      "exposure",
+      "oppose"
+    ],
+    "tip": "회사 조사를 했다는 걸 보여 줄 때 좋은 단어. position(자리)에서 나온 말"
+  },
+  {
+    "id": "d03-B02",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "pose",
+    "pos": "verb",
+    "ipa": "/poʊz/",
+    "meaning_ko": "(위험·문제를) 일으키다, 제기하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "놓다 → (문제를) 앞에 내놓다 → 제기하다·일으키다"
+    },
+    "example": {
+      "q": "Why did you push back on that design?",
+      "a": "The design posed a security risk, because it stored tokens in plain text, so I suggested encryption.",
+      "a_ko": "그 설계는 토큰을 평문으로 저장해서 보안 위험이 있었기 때문에 암호화를 제안했습니다."
+    },
+    "collocations": [
+      "pose a risk",
+      "pose a question",
+      "pose a challenge"
+    ],
+    "related": [
+      "expose",
+      "oppose",
+      "exposure",
+      "positioning"
+    ],
+    "tip": "pose a risk/threat/challenge 묶음으로 외우기. 사진 찍을 때 '포즈'와 같은 단어"
+  },
+  {
+    "id": "d03-B03",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "oppose",
+    "pos": "verb",
+    "ipa": "/əˈpoʊz/",
+    "meaning_ko": "반대하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "op",
+          "type": "prefix",
+          "gloss": "맞서 (ob)"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "맞서 놓다 → 반대편에 서다 → 반대하다"
+    },
+    "example": {
+      "q": "Tell me about a time you disagreed with your manager.",
+      "a": "I opposed a plan to skip testing before launch, but I explained the risks with data instead of emotions.",
+      "a_ko": "출시 전에 테스트를 건너뛰자는 계획에 반대했지만, 감정이 아니라 데이터로 위험을 설명했습니다."
+    },
+    "collocations": [
+      "oppose a plan",
+      "as opposed to",
+      "strongly oppose"
+    ],
+    "related": [
+      "opposite",
+      "pose",
+      "exposure",
+      "impostor"
+    ],
+    "tip": "as opposed to(~와 달리)는 비교하는 답변에 아주 유용"
+  },
+  {
+    "id": "d03-B04",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "exposure",
+    "pos": "noun",
+    "ipa": "/ɪkˈspoʊʒɚ/",
+    "meaning_ko": "(접해 본) 경험, 노출",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "밖에 내놓아짐 → (어떤 것에) 노출됨 → 접해 본 경험"
+    },
+    "example": {
+      "q": "How familiar are you with machine learning?",
+      "a": "I've had some exposure to machine learning through a recommendation project, but my main strength is backend work.",
+      "a_ko": "추천 프로젝트를 통해 머신러닝을 어느 정도 접해 봤지만, 제 주력은 백엔드입니다."
+    },
+    "collocations": [
+      "exposure to",
+      "some exposure",
+      "limited exposure"
+    ],
+    "related": [
+      "expose",
+      "pose",
+      "positioning",
+      "posture"
+    ],
+    "tip": "경험이 깊지 않을 때 솔직하게 'some exposure to ~'라고 말하면 좋음"
+  },
+  {
+    "id": "d03-B05",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "impostor",
+    "pos": "noun",
+    "ipa": "/ɪmˈpɑːstɚ/",
+    "meaning_ko": "가짜, 사기꾼",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "위에 (in)"
+        },
+        {
+          "text": "post",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "(거짓을) 덧씌워 놓는 사람(imponere) → 속이는 사람 → 가짜"
+    },
+    "example": {
+      "q": "What is something you struggled with early in your career?",
+      "a": "As a junior developer, I had impostor syndrome, but asking questions and tracking my progress helped me build confidence.",
+      "a_ko": "주니어 개발자 시절 가면 증후군이 있었지만, 질문하고 성장 기록을 남기면서 자신감을 키웠습니다."
+    },
+    "collocations": [
+      "impostor syndrome",
+      "feel like an impostor"
+    ],
+    "related": [
+      "impose",
+      "oppose",
+      "pose",
+      "exposure"
+    ],
+    "tip": "'impostor syndrome(가면 증후군)'으로 약점·성장 질문에 씀. imposter 철자도 많이 씀"
+  },
+  {
+    "id": "d03-B06",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "disposal",
+    "pos": "noun",
+    "ipa": "/dɪˈspoʊzəl/",
+    "meaning_ko": "마음대로 쓸 수 있음, 처분",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "따로·여기저기"
+        },
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "여기저기 배치함 → 마음대로 처리할 수 있음 → (at one's disposal) 쓸 수 있는"
+    },
+    "example": {
+      "q": "What do you need to succeed in this role?",
+      "a": "I work best when I have good documentation at my disposal and a clear person to ask questions.",
+      "a_ko": "제가 쓸 수 있는 좋은 문서가 있고, 질문할 사람이 분명할 때 가장 잘 일합니다."
+    },
+    "collocations": [
+      "at my disposal",
+      "at your disposal",
+      "waste disposal"
+    ],
+    "related": [
+      "disposable",
+      "oppose",
+      "impostor",
+      "positioning"
+    ],
+    "tip": "at one's disposal(마음대로 쓸 수 있는) 형태로 가장 많이 씀"
+  },
+  {
+    "id": "d03-B07",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "transpose",
+    "pos": "verb",
+    "ipa": "/trænsˈpoʊz/",
+    "meaning_ko": "(행과 열을) 바꾸다, 전치하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "건너편으로 옮겨 놓다 → 위치를 바꾸다 → 행과 열을 바꾸다"
+    },
+    "example": {
+      "q": "How did you prepare the data for the dashboard?",
+      "a": "I transposed the raw table so that each metric became a column, which made the charts much easier to build.",
+      "a_ko": "원본 테이블을 전치해서 지표마다 열이 되게 했더니 차트 만들기가 훨씬 쉬워졌습니다."
+    },
+    "collocations": [
+      "transpose a matrix",
+      "transpose rows and columns"
+    ],
+    "related": [
+      "pose",
+      "exposure",
+      "composition",
+      "decompose"
+    ],
+    "tip": "엑셀·pandas에서 행과 열을 바꿀 때 쓰는 동사"
+  },
+  {
+    "id": "d03-B08",
+    "day": 3,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "compound",
+    "pos": "verb",
+    "ipa": "/kəmˈpaʊnd/",
+    "meaning_ko": "(문제를) 키우다, 쌓여 커지다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pound",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        }
+      ],
+      "story": "함께 놓다(componere) → 섞어 합치다 → 쌓여서 더 커지다"
+    },
+    "example": {
+      "q": "Why do you care so much about technical debt?",
+      "a": "Small shortcuts compound over time; on my last project, they turned a one-day feature into a two-week effort.",
+      "a_ko": "작은 편법은 시간이 지나며 쌓여 커집니다. 지난 프로젝트에서는 하루짜리 기능이 2주짜리 작업이 됐습니다."
+    },
+    "collocations": [
+      "compound the problem",
+      "compound over time",
+      "compound interest"
+    ],
+    "related": [
+      "component",
+      "composition",
+      "proponent",
+      "posture"
+    ],
+    "tip": "명사(혼합물)는 강세가 앞 /ˈkɑːm-/, 동사는 뒤 /kəmˈpaʊnd/"
+  },
+  {
+    "id": "d03-B09",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "system",
+    "pos": "noun",
+    "ipa": "/ˈsɪstəm/",
+    "meaning_ko": "시스템, 체계",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sy",
+          "type": "prefix",
+          "gloss": "함께 (syn)"
+        },
+        {
+          "text": "stem",
+          "type": "root",
+          "gloss": "세운 것 (그리스어 sta)"
+        }
+      ],
+      "story": "함께 세워 놓은 것 → 짜임새 있는 전체 → 체계·시스템"
+    },
+    "example": {
+      "q": "What kind of systems have you built?",
+      "a": "I've built payment systems that handle thousands of transactions per minute.",
+      "a_ko": "분당 수천 건의 거래를 처리하는 결제 시스템을 만들어 왔습니다."
+    },
+    "collocations": [
+      "build a system",
+      "legacy system",
+      "distributed system"
+    ],
+    "related": [
+      "systematic",
+      "ecosystem",
+      "static",
+      "stance"
+    ],
+    "tip": "그리스어 syn(함께) + histanai(세우다). 라틴어 sta와 같은 뿌리"
+  },
+  {
+    "id": "d03-B10",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "systematic",
+    "pos": "adjective",
+    "ipa": "/ˌsɪstəˈmætɪk/",
+    "meaning_ko": "체계적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sy",
+          "type": "prefix",
+          "gloss": "함께 (syn)"
+        },
+        {
+          "text": "stemat",
+          "type": "root",
+          "gloss": "세운 것 (그리스어 sta)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "체계(system)를 따르는 → 체계적인"
+    },
+    "example": {
+      "q": "How do you debug a problem you have never seen before?",
+      "a": "I take a systematic approach: I reproduce the issue, narrow down the cause with logs, and test one change at a time.",
+      "a_ko": "체계적으로 접근합니다. 문제를 재현하고, 로그로 원인을 좁히고, 한 번에 하나씩 바꿔 보며 확인합니다."
+    },
+    "collocations": [
+      "systematic approach",
+      "in a systematic way",
+      "systematic review"
+    ],
+    "related": [
+      "system",
+      "ecosystem",
+      "static",
+      "statistics"
+    ],
+    "tip": "문제 해결 방식을 물을 때 'systematic approach'가 가장 깔끔한 답"
+  },
+  {
+    "id": "d03-B11",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "statistics",
+    "pos": "noun",
+    "ipa": "/stəˈtɪstɪks/",
+    "meaning_ko": "통계",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stat",
+          "type": "root",
+          "gloss": "서 있는 상태 → 국가 (status)"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        },
+        {
+          "text": "ics",
+          "type": "suffix",
+          "gloss": "~학"
+        }
+      ],
+      "story": "서 있는 상태(status) → 국가(state) → 국가 상태를 나타내는 숫자 → 통계"
+    },
+    "example": {
+      "q": "How do you decide which features to improve?",
+      "a": "I check the usage statistics first and focus on the most used features.",
+      "a_ko": "먼저 사용 통계를 보고 가장 많이 쓰이는 기능에 집중합니다."
+    },
+    "collocations": [
+      "usage statistics",
+      "statistics show",
+      "basic statistics"
+    ],
+    "related": [
+      "statement",
+      "static",
+      "stance",
+      "system"
+    ],
+    "tip": "줄여서 stats. 원래 '국가 상태에 관한 숫자'라는 뜻"
+  },
+  {
+    "id": "d03-B12",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "statement",
+    "pos": "noun",
+    "ipa": "/ˈsteɪtmənt/",
+    "meaning_ko": "(코드·SQL의) 문, 진술",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "state",
+          "type": "root",
+          "gloss": "상태 → 밝혀 말하다 (status)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "상태를 밝힘 → 진술 → 코드의 한 문장"
+    },
+    "example": {
+      "q": "How do you prevent SQL injection?",
+      "a": "I always use prepared statements instead of building SQL strings by hand.",
+      "a_ko": "SQL 문자열을 직접 조립하지 않고 항상 prepared statement를 씁니다."
+    },
+    "collocations": [
+      "prepared statement",
+      "if statement",
+      "problem statement"
+    ],
+    "related": [
+      "statistics",
+      "static",
+      "stance",
+      "constitute"
+    ],
+    "tip": "면접에서는 'problem statement(문제 정의)'로도 자주 씀"
+  },
+  {
+    "id": "d03-B13",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "static",
+    "pos": "adjective",
+    "ipa": "/ˈstætɪk/",
+    "meaning_ko": "정적인, 고정된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stat",
+          "type": "root",
+          "gloss": "서 있게 하다 (그리스어 sta)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "서 있게 하는 → 움직이지 않는 → 정적인"
+    },
+    "example": {
+      "q": "How did you improve the page load time?",
+      "a": "I moved static assets like images and scripts to a CDN, which reduced load time by about forty percent.",
+      "a_ko": "이미지와 스크립트 같은 정적 리소스를 CDN으로 옮겨 로딩 시간을 약 40% 줄였습니다."
+    },
+    "collocations": [
+      "static assets",
+      "static analysis",
+      "static typing"
+    ],
+    "related": [
+      "system",
+      "statistics",
+      "statement",
+      "stance"
+    ],
+    "tip": "반대말은 dynamic. 'static analysis(정적 분석)'도 자주 나옴"
+  },
+  {
+    "id": "d03-B14",
+    "day": 3,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "stance",
+    "pos": "noun",
+    "ipa": "/stæns/",
+    "meaning_ko": "입장, 태도",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "서 있는 자리 → 서 있는 자세 → 입장"
+    },
+    "example": {
+      "q": "What is your stance on remote work?",
+      "a": "My stance is flexible: I'm productive remotely, but I value in-person time for planning and design discussions.",
+      "a_ko": "저는 유연한 입장입니다. 원격으로도 생산적으로 일하지만, 기획이나 설계 논의에는 대면 시간이 소중하다고 생각합니다."
+    },
+    "collocations": [
+      "take a stance",
+      "my stance on",
+      "a firm stance"
+    ],
+    "related": [
+      "statement",
+      "static",
+      "constant",
+      "circumstance"
+    ],
+    "tip": "opinion보다 '분명한 입장'이라는 느낌. take a stance on ~"
+  },
+  {
+    "id": "d03-B15",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "establish",
+    "pos": "verb",
+    "ipa": "/ɪˈstæblɪʃ/",
+    "meaning_ko": "세우다, (연결을) 맺다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "establ",
+          "type": "root",
+          "gloss": "단단히 세우다 (stabilis ← sta)"
+        },
+        {
+          "text": "ish",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "단단히 서게 하다(stabilire) → 세우다 → 확립하다"
+    },
+    "example": {
+      "q": "What did you do first when you joined your last team?",
+      "a": "I established a code review process because the team had no review rules.",
+      "a_ko": "팀에 리뷰 규칙이 없어서 코드 리뷰 프로세스를 먼저 만들었습니다."
+    },
+    "collocations": [
+      "establish a connection",
+      "establish a process",
+      "well-established"
+    ],
+    "related": [
+      "constant",
+      "constitute",
+      "statistics",
+      "system"
+    ],
+    "tip": "IT에서는 'establish a connection(연결을 맺다)'으로 자주 씀. 앞의 e-는 발음을 위해 붙은 소리"
+  },
+  {
+    "id": "d03-B16",
+    "day": 3,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "constitute",
+    "pos": "verb",
+    "ipa": "/ˈkɑːnstətuːt/",
+    "meaning_ko": "~을 차지하다, 구성하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "stitute",
+          "type": "root",
+          "gloss": "세우다 (statuere ← sta)"
+        }
+      ],
+      "story": "함께 세우다 → 이루다 → ~에 해당하다·차지하다"
+    },
+    "example": {
+      "q": "How did you decide what to fix first?",
+      "a": "I found that three endpoints constituted over seventy percent of our errors, so I fixed those first and saw the error rate drop quickly.",
+      "a_ko": "엔드포인트 세 개가 전체 오류의 70% 이상을 차지한다는 걸 알고, 그것부터 고쳐서 오류율을 빠르게 낮췄습니다."
+    },
+    "collocations": [
+      "constitute a risk",
+      "constitute the majority",
+      "what constitutes"
+    ],
+    "related": [
+      "substitute",
+      "institute",
+      "establish",
+      "constant"
+    ],
+    "tip": "make up보다 격식 있음. 'X constitutes Y%'로 비율을 말할 때 좋음"
+  },
+  {
+    "id": "d03-B17",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "constant",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːnstənt/",
+    "meaning_ko": "일정한, 끊임없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께·완전히"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "굳게 서 있는 → 변하지 않는 → 일정한·상수"
+    },
+    "example": {
+      "q": "Why did you choose that database?",
+      "a": "It gives constant read times even when our data grows quickly.",
+      "a_ko": "데이터가 빠르게 늘어나도 읽기 시간이 일정하게 유지되기 때문입니다."
+    },
+    "collocations": [
+      "constant time",
+      "constant feedback",
+      "define a constant"
+    ],
+    "related": [
+      "stance",
+      "contrast",
+      "establish",
+      "constitute"
+    ],
+    "tip": "알고리즘의 constant time = O(1). 코드에서는 명사로 '상수'"
+  },
+  {
+    "id": "d03-B18",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "contrast",
+    "pos": "noun",
+    "ipa": "/ˈkɑːntræst/",
+    "meaning_ko": "대조, 차이",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "contra",
+          "type": "prefix",
+          "gloss": "맞서"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        }
+      ],
+      "story": "맞서 서 있다 → 나란히 세워 비교 → 대조"
+    },
+    "example": {
+      "q": "How is this role different from your current one?",
+      "a": "In contrast to my current job, this role focuses more on product design.",
+      "a_ko": "지금 일과 달리 이 직무는 제품 설계에 더 집중합니다."
+    },
+    "collocations": [
+      "in contrast to",
+      "by contrast",
+      "a sharp contrast"
+    ],
+    "related": [
+      "constant",
+      "stance",
+      "establish",
+      "stage"
+    ],
+    "tip": "명사는 강세가 앞 /ˈkɑːn-/, 동사는 뒤 /kənˈtræst/"
+  },
+  {
+    "id": "d03-B19",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "stage",
+    "pos": "noun",
+    "ipa": "/steɪdʒ/",
+    "meaning_ko": "단계, 무대",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "age",
+          "type": "suffix",
+          "gloss": "~하는 곳"
+        }
+      ],
+      "story": "서 있는 곳 → 층·단 → 단계"
+    },
+    "example": {
+      "q": "How does your CI pipeline work?",
+      "a": "Our pipeline has three stages: build, test, and deploy.",
+      "a_ko": "저희 파이프라인은 빌드, 테스트, 배포의 세 단계로 되어 있습니다."
+    },
+    "collocations": [
+      "pipeline stage",
+      "early stage",
+      "at this stage"
+    ],
+    "related": [
+      "staging",
+      "workstation",
+      "statistics",
+      "static"
+    ],
+    "tip": "at this stage(현재 단계에서)는 진행 상황을 말할 때도 씀"
+  },
+  {
+    "id": "d03-B20",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "workstation",
+    "pos": "noun",
+    "ipa": "/ˈwɝːkˌsteɪʃən/",
+    "meaning_ko": "작업용 컴퓨터, 워크스테이션",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일"
+        },
+        {
+          "text": "sta",
+          "type": "root",
+          "gloss": "서다"
+        },
+        {
+          "text": "tion",
+          "type": "suffix",
+          "gloss": "~하는 곳"
+        }
+      ],
+      "story": "일(work) + 서 있는 곳(station) → 일하는 자리 → 작업용 컴퓨터"
+    },
+    "example": {
+      "q": "How do you set up a new development environment?",
+      "a": "I use a setup script, so a new workstation is ready in under an hour.",
+      "a_ko": "설정 스크립트를 써서 새 작업용 PC를 한 시간 안에 준비합니다."
+    },
+    "collocations": [
+      "developer workstation",
+      "set up a workstation"
+    ],
+    "related": [
+      "stage",
+      "statistics",
+      "system",
+      "establish"
+    ],
+    "tip": "station(서 있는 곳, 라틴어 statio)에 work가 붙은 합성어"
+  },
+  {
+    "id": "d03-B21",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "cost",
+    "pos": "noun",
+    "ipa": "/kɔːst/",
+    "meaning_ko": "비용",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "prefix",
+          "gloss": "함께 (con)"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        }
+      ],
+      "story": "함께 서다(constare) → 값이 ~에 서다 → 값이 들다 → 비용"
+    },
+    "example": {
+      "q": "What was the impact of your optimization?",
+      "a": "We cut our monthly cloud cost by thirty percent by removing idle servers.",
+      "a_ko": "놀고 있는 서버를 정리해서 월 클라우드 비용을 30% 줄였습니다."
+    },
+    "collocations": [
+      "cloud cost",
+      "reduce costs",
+      "at the cost of"
+    ],
+    "related": [
+      "costly",
+      "constant",
+      "contrast",
+      "stance"
+    ],
+    "tip": "라틴어 constare가 고대 프랑스어 coster를 거쳐 줄어든 말"
+  },
+  {
+    "id": "d03-B22",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "costly",
+    "pos": "adjective",
+    "ipa": "/ˈkɔːstli/",
+    "meaning_ko": "대가가 큰, 비싼",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "prefix",
+          "gloss": "함께 (con)"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "비용(cost)이 큰 → 대가가 큰"
+    },
+    "example": {
+      "q": "What is the biggest mistake you have made?",
+      "a": "I once skipped a backup check, and it became a costly mistake.",
+      "a_ko": "한 번 백업 확인을 건너뛰었는데, 그게 대가가 큰 실수가 됐습니다."
+    },
+    "collocations": [
+      "costly mistake",
+      "costly delay",
+      "prove costly"
+    ],
+    "related": [
+      "cost",
+      "constant",
+      "contrast"
+    ],
+    "tip": "-ly로 끝나지만 부사가 아니라 형용사"
+  },
+  {
+    "id": "d03-B23",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "workplace",
+    "pos": "noun",
+    "ipa": "/ˈwɝːkpleɪs/",
+    "meaning_ko": "직장, 일터",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일"
+        },
+        {
+          "text": "place",
+          "type": "part",
+          "gloss": "장소"
+        }
+      ],
+      "story": "일(work) + 장소(place) → 일하는 곳 → 직장"
+    },
+    "example": {
+      "q": "What kind of workplace do you thrive in?",
+      "a": "I do best in a workplace where people share feedback openly.",
+      "a_ko": "사람들이 피드백을 솔직하게 주고받는 직장에서 가장 잘 일합니다."
+    },
+    "collocations": [
+      "inclusive workplace",
+      "workplace culture",
+      "in the workplace"
+    ],
+    "related": [
+      "coworker",
+      "workload",
+      "teamwork",
+      "teammate"
+    ],
+    "tip": "회사 문화를 묻는 질문에서 company보다 자연스럽게 쓰임"
+  },
+  {
+    "id": "d03-B24",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "workload",
+    "pos": "noun",
+    "ipa": "/ˈwɝːkloʊd/",
+    "meaning_ko": "업무량",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일"
+        },
+        {
+          "text": "load",
+          "type": "part",
+          "gloss": "짐"
+        }
+      ],
+      "story": "일(work) + 짐(load) → 짊어진 일의 양 → 업무량"
+    },
+    "example": {
+      "q": "How do you manage a heavy workload?",
+      "a": "When my workload is heavy, I rank tasks and ask my manager what can wait.",
+      "a_ko": "업무량이 많을 때는 일의 순위를 정하고, 무엇을 미뤄도 되는지 매니저에게 물어봅니다."
+    },
+    "collocations": [
+      "heavy workload",
+      "manage my workload",
+      "balance the workload"
+    ],
+    "related": [
+      "workplace",
+      "deadline",
+      "workflow",
+      "coworker"
+    ],
+    "tip": "IT에서는 '서버가 처리하는 작업량'이라는 뜻으로도 씀"
+  },
+  {
+    "id": "d03-B25",
+    "day": 3,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "teamwork",
+    "pos": "noun",
+    "ipa": "/ˈtiːmwɝːk/",
+    "meaning_ko": "팀워크, 협동",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "team",
+          "type": "part",
+          "gloss": "팀"
+        },
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일"
+        }
+      ],
+      "story": "팀(team) + 일(work) → 함께 하는 일 → 협동"
+    },
+    "example": {
+      "q": "Can you give an example of good teamwork?",
+      "a": "Our launch succeeded because of teamwork between design, backend, and QA.",
+      "a_ko": "디자인, 백엔드, QA 사이의 팀워크 덕분에 출시가 성공했습니다."
+    },
+    "collocations": [
+      "good teamwork",
+      "teamwork skills",
+      "strong teamwork"
+    ],
+    "related": [
+      "teammate",
+      "coworker",
+      "workplace"
+    ],
+    "tip": "셀 수 없는 명사 — a teamwork(X)"
+  }
+]

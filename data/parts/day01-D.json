@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "d01-D01",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "evidence",
+    "pos": "noun",
+    "ipa": "/ˈevɪdəns/",
+    "meaning_ko": "근거, 증거",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "vid",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "밖으로 드러나 보이는 것(evidentia) → 분명한 근거 → 증거"
+    },
+    "example": {
+      "q": "How do you convince your team to change something?",
+      "a": "I bring evidence, like metrics or user feedback, instead of just opinions.",
+      "a_ko": "그냥 의견이 아니라 지표나 사용자 피드백 같은 근거를 가져갑니다."
+    },
+    "collocations": [
+      "clear evidence",
+      "evidence-based",
+      "provide evidence"
+    ],
+    "related": [
+      "evident",
+      "provide",
+      "video",
+      "vision"
+    ],
+    "tip": "셀 수 없는 명사 — a piece of evidence"
+  },
+  {
+    "id": "d01-D02",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "evident",
+    "pos": "adjective",
+    "ipa": "/ˈevɪdənt/",
+    "meaning_ko": "분명한, 명백한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "vid",
+          "type": "root",
+          "gloss": "보다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "밖으로 드러나 보이는 → 명백한"
+    },
+    "example": {
+      "q": "How did you know the redesign worked?",
+      "a": "It became evident within a week, because support tickets about checkout dropped by half.",
+      "a_ko": "일주일 만에 분명해졌습니다. 결제 관련 문의 티켓이 절반으로 줄었기 때문입니다."
+    },
+    "collocations": [
+      "it became evident that",
+      "self-evident",
+      "evident in"
+    ],
+    "related": [
+      "evidence",
+      "visible",
+      "provide",
+      "vision"
+    ],
+    "tip": "clear 보다 격식 있는 ‘명백한’. It became evident that ~ 으로 결과를 말할 때"
+  },
+  {
+    "id": "d01-D03",
+    "day": 1,
+    "level": 3,
+    "set": "D",
+    "family": "F1",
+    "word": "prudent",
+    "pos": "adjective",
+    "ipa": "/ˈpruːdənt/",
+    "meaning_ko": "신중한, 현명한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "prud",
+          "type": "root",
+          "gloss": "앞을 내다보다 (pro + vid 가 줄어든 꼴)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "앞을 내다보는(providentem → prudentem) → 미리 대비하는 → 신중한"
+    },
+    "example": {
+      "q": "How did you decide on the migration plan?",
+      "a": "Instead of a big-bang migration, I thought it was more prudent to move one service at a time and keep a rollback plan ready.",
+      "a_ko": "한 번에 전부 옮기기보다는, 서비스를 하나씩 옮기고 롤백 계획을 준비해 두는 게 더 신중하다고 판단했습니다."
+    },
+    "collocations": [
+      "it would be prudent to",
+      "a prudent approach",
+      "financially prudent"
+    ],
+    "related": [
+      "provide",
+      "provision",
+      "evident",
+      "purview"
+    ],
+    "tip": "careful 보다 ‘앞을 내다보고 현명하게’라는 뉘앙스. 시니어다운 판단을 말할 때"
+  },
+  {
+    "id": "d01-D04",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "notice",
+    "pos": "verb",
+    "ipa": "/ˈnoʊtɪs/",
+    "meaning_ko": "알아차리다, 눈치채다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "ice",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "알려진 것(notitia) → 알게 됨 → 알아차리다"
+    },
+    "example": {
+      "q": "How did you find the problem?",
+      "a": "I noticed that the error rate went up right after each deployment.",
+      "a_ko": "배포 직후마다 오류율이 올라가는 걸 알아차렸습니다."
+    },
+    "collocations": [
+      "notice that",
+      "notice period",
+      "at short notice"
+    ],
+    "related": [
+      "noticeable",
+      "notify",
+      "notion",
+      "recognize"
+    ],
+    "tip": "명사 notice period(퇴사 통보 기간)도 면접 필수: My notice period is one month"
+  },
+  {
+    "id": "d01-D05",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "noticeable",
+    "pos": "adjective",
+    "ipa": "/ˈnoʊtɪsəbəl/",
+    "meaning_ko": "눈에 띄는, 뚜렷한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "ice",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "알아차릴 수 있는 → 눈에 띄는"
+    },
+    "example": {
+      "q": "Did the optimization make a difference?",
+      "a": "Yes, users saw a noticeable drop in page load time.",
+      "a_ko": "네, 사용자들이 페이지 로딩 시간이 눈에 띄게 줄어든 걸 체감했습니다."
+    },
+    "collocations": [
+      "a noticeable improvement",
+      "noticeable latency",
+      "barely noticeable"
+    ],
+    "related": [
+      "notice",
+      "notify",
+      "notion"
+    ],
+    "tip": "숫자가 없을 때도 a noticeable improvement 로 체감 성과를 표현할 수 있음"
+  },
+  {
+    "id": "d01-D06",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "notify",
+    "pos": "verb",
+    "ipa": "/ˈnoʊtɪfaɪ/",
+    "meaning_ko": "알리다, 통지하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 하다 (fic)"
+        }
+      ],
+      "story": "알게(notus) 만들다(facere) → 알리다"
+    },
+    "example": {
+      "q": "What happens when a service goes down?",
+      "a": "Our monitoring system automatically notifies the on-call engineer.",
+      "a_ko": "모니터링 시스템이 자동으로 온콜 엔지니어에게 알립니다."
+    },
+    "collocations": [
+      "notify someone of",
+      "notify the team",
+      "get notified"
+    ],
+    "related": [
+      "notification",
+      "notice",
+      "notion"
+    ],
+    "tip": "notify A of B (A에게 B를 알리다) 형태로 씀"
+  },
+  {
+    "id": "d01-D07",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "notification",
+    "pos": "noun",
+    "ipa": "/ˌnoʊtɪfɪˈkeɪʃən/",
+    "meaning_ko": "알림",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "ific",
+          "type": "suffix",
+          "gloss": "~하게 함 (fic)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "알게 만듦 → 알림"
+    },
+    "example": {
+      "q": "What feature are you most proud of?",
+      "a": "I built the push notification system for our mobile app.",
+      "a_ko": "모바일 앱의 푸시 알림 시스템을 만들었습니다."
+    },
+    "collocations": [
+      "push notification",
+      "notification settings",
+      "email notification"
+    ],
+    "related": [
+      "notify",
+      "notice",
+      "noticeable"
+    ],
+    "tip": "앱 개발 경험을 말할 때 push notification 은 그대로 통하는 용어"
+  },
+  {
+    "id": "d01-D08",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "notion",
+    "pos": "noun",
+    "ipa": "/ˈnoʊʃən/",
+    "meaning_ko": "생각, 개념",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것 (명사)"
+        }
+      ],
+      "story": "알게 됨(notio) → 머릿속에 든 개념 → 생각"
+    },
+    "example": {
+      "q": "What did you learn from your first job?",
+      "a": "I gave up the notion that good code is enough; communication matters just as much.",
+      "a_ko": "좋은 코드만 있으면 된다는 생각을 버렸습니다. 소통도 그만큼 중요합니다."
+    },
+    "collocations": [
+      "the notion that",
+      "a vague notion",
+      "challenge the notion"
+    ],
+    "related": [
+      "notice",
+      "notify",
+      "cognition"
+    ],
+    "tip": "the notion that ~ (~라는 생각)으로 생각의 변화를 말할 때 유용"
+  },
+  {
+    "id": "d01-D09",
+    "day": 1,
+    "level": 3,
+    "set": "D",
+    "family": "F1",
+    "word": "notorious",
+    "pos": "adjective",
+    "ipa": "/noʊˈtɔːriəs/",
+    "meaning_ko": "악명 높은",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "not",
+          "type": "root",
+          "gloss": "알다 (gno → no)"
+        },
+        {
+          "text": "orious",
+          "type": "suffix",
+          "gloss": "~한 (형용사)"
+        }
+      ],
+      "story": "널리 알려진(notorius) → 나쁜 쪽으로 유명한 → 악명 높은"
+    },
+    "example": {
+      "q": "What's the hardest bug you've fixed?",
+      "a": "Race conditions are notoriously hard to reproduce, so I added detailed logging and finally caught one that appeared only once a week.",
+      "a_ko": "경쟁 상태는 재현하기 어렵기로 악명 높아서, 상세 로그를 추가해 일주일에 한 번만 나타나던 버그를 마침내 잡았습니다."
+    },
+    "collocations": [
+      "notoriously difficult",
+      "notorious for"
+    ],
+    "related": [
+      "notice",
+      "notion",
+      "notify",
+      "recognize"
+    ],
+    "tip": "IT 에서는 notoriously hard / flaky 처럼 부사형으로 자주 씀"
+  },
+  {
+    "id": "d01-D10",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "recognize",
+    "pos": "verb",
+    "ipa": "/ˈrekəɡnaɪz/",
+    "meaning_ko": "알아보다, 인정하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "cogn",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "다시 알아보다(recognoscere) → 알아보다 → (사실·가치를) 인정하다"
+    },
+    "example": {
+      "q": "What's one weakness you're working on?",
+      "a": "I recognize that I sometimes take on too much work myself.",
+      "a_ko": "제가 가끔 일을 너무 많이 혼자 떠안는다는 걸 알고 있습니다."
+    },
+    "collocations": [
+      "recognize a problem",
+      "be recognized for",
+      "widely recognized"
+    ],
+    "related": [
+      "recognition",
+      "cognitive",
+      "cognizant",
+      "diagnose"
+    ],
+    "tip": "약점 질문에서 I recognize that ~ 으로 시작하면 자기 인식이 있다는 인상을 줌"
+  },
+  {
+    "id": "d01-D11",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "recognition",
+    "pos": "noun",
+    "ipa": "/ˌrekəɡˈnɪʃən/",
+    "meaning_ko": "인식, 인정",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "cogn",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ition",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "다시 알아봄 → 알아봄(인식) → 인정"
+    },
+    "example": {
+      "q": "What AI projects have you worked on?",
+      "a": "I worked on an image recognition feature for scanning receipts.",
+      "a_ko": "영수증을 스캔하는 이미지 인식 기능을 개발했습니다."
+    },
+    "collocations": [
+      "image recognition",
+      "speech recognition",
+      "gain recognition"
+    ],
+    "related": [
+      "recognize",
+      "cognitive",
+      "cognition",
+      "incognito"
+    ],
+    "tip": "‘공로를 인정받다’는 receive recognition — 성과 질문에도 쓸 수 있음"
+  },
+  {
+    "id": "d01-D12",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "cognitive",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːɡnətɪv/",
+    "meaning_ko": "인지의, 인지적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cogn",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "itive",
+          "type": "suffix",
+          "gloss": "~하는 성질의"
+        }
+      ],
+      "story": "알아 가는(cognit-) → 인지의"
+    },
+    "example": {
+      "q": "Why did you refactor that module?",
+      "a": "The module was hard to read, so I split it up to reduce the cognitive load for new developers.",
+      "a_ko": "그 모듈은 읽기가 어려워서, 새 개발자의 인지 부담을 줄이려고 나눴습니다."
+    },
+    "collocations": [
+      "cognitive load",
+      "cognitive bias",
+      "cognitive science"
+    ],
+    "related": [
+      "cognition",
+      "recognize",
+      "cognizant"
+    ],
+    "tip": "cognitive load(인지 부하)는 코드 가독성·UX 를 설명할 때 강력한 단어"
+  },
+  {
+    "id": "d01-D13",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "cognition",
+    "pos": "noun",
+    "ipa": "/kɑːɡˈnɪʃən/",
+    "meaning_ko": "인지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cogn",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ition",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "알아 감(cognitio) → 인지"
+    },
+    "example": {
+      "q": "Why did you move from psychology into software?",
+      "a": "I studied human cognition, and I realized I could apply it to designing software that people find intuitive.",
+      "a_ko": "인간의 인지를 공부하면서, 그것을 사람들이 직관적으로 느끼는 소프트웨어 설계에 적용할 수 있겠다는 걸 깨달았습니다."
+    },
+    "collocations": [
+      "human cognition",
+      "social cognition"
+    ],
+    "related": [
+      "cognitive",
+      "recognition",
+      "cognizant"
+    ],
+    "tip": "전공·배경을 설명할 때 쓰는 학술 어휘. 일상 대화에서는 cognitive 가 더 흔함"
+  },
+  {
+    "id": "d01-D14",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "incognito",
+    "pos": "adjective",
+    "ipa": "/ˌɪnkɑːɡˈniːtoʊ/",
+    "meaning_ko": "시크릿 모드의, 신분을 숨긴",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아니다"
+        },
+        {
+          "text": "cogn",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ito",
+          "type": "suffix",
+          "gloss": "~된 (과거분사)"
+        }
+      ],
+      "story": "알려지지 않은(incognitus) → 신분을 숨긴 → 브라우저의 시크릿 모드"
+    },
+    "example": {
+      "q": "How did you debug the login issue?",
+      "a": "I reproduced it in incognito mode, which proved the problem was caused by an old cookie.",
+      "a_ko": "시크릿 모드에서 재현해 보니, 오래된 쿠키 때문에 생긴 문제라는 게 확인됐습니다."
+    },
+    "collocations": [
+      "incognito mode",
+      "incognito window",
+      "go incognito"
+    ],
+    "related": [
+      "cognition",
+      "recognize",
+      "cognizant"
+    ],
+    "tip": "이탈리아어를 거쳐 들어온 단어. 크롬의 Incognito = 한국어판 ‘시크릿 모드’"
+  },
+  {
+    "id": "d01-D15",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "acquaint",
+    "pos": "verb",
+    "ipa": "/əˈkweɪnt/",
+    "meaning_ko": "익히다, 알게 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ac",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "quaint",
+          "type": "root",
+          "gloss": "알다 (cognit)"
+        }
+      ],
+      "story": "~을 알게 하다(accognitare) → 잘 알게 되다 → 익숙해지다"
+    },
+    "example": {
+      "q": "How do you get up to speed in a new codebase?",
+      "a": "I acquaint myself with the codebase by reading the tests first, because they show how the code is meant to be used.",
+      "a_ko": "먼저 테스트 코드를 읽으며 코드베이스를 익힙니다. 테스트가 코드의 사용 의도를 보여 주기 때문입니다."
+    },
+    "collocations": [
+      "acquaint myself with",
+      "get acquainted with",
+      "be acquainted with"
+    ],
+    "related": [
+      "recognize",
+      "cognizant",
+      "notice"
+    ],
+    "tip": "familiarize myself with 와 같은 뜻의 조금 더 격식 있는 표현"
+  },
+  {
+    "id": "d01-D16",
+    "day": 1,
+    "level": 3,
+    "set": "D",
+    "family": "F1",
+    "word": "cognizant",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːɡnɪzənt/",
+    "meaning_ko": "인식하고 있는, 잘 알고 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cogniz",
+          "type": "root",
+          "gloss": "알다 (cognoscere)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하고 있는"
+        }
+      ],
+      "story": "알고 있는(고대 프랑스어 conoissant) → 잘 인식하고 있는"
+    },
+    "example": {
+      "q": "How do you balance speed and quality?",
+      "a": "I'm always cognizant of technical debt, so when we cut corners to hit a deadline, I log a follow-up ticket right away.",
+      "a_ko": "기술 부채를 항상 의식하고 있어서, 마감 때문에 타협할 때는 바로 후속 티켓을 남깁니다."
+    },
+    "collocations": [
+      "be cognizant of",
+      "fully cognizant"
+    ],
+    "related": [
+      "recognize",
+      "cognitive",
+      "cognition",
+      "incognito"
+    ],
+    "tip": "aware 보다 격식 있는 말. be cognizant of ~ 로 시니어다운 책임감을 표현"
+  },
+  {
+    "id": "d01-D17",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "ignore",
+    "pos": "verb",
+    "ipa": "/ɪɡˈnɔːr/",
+    "meaning_ko": "무시하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "i",
+          "type": "prefix",
+          "gloss": "아니다 (in)"
+        },
+        {
+          "text": "gnore",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        }
+      ],
+      "story": "알지 못하다(ignorare) → 모르는 척하다 → 무시하다"
+    },
+    "example": {
+      "q": "How do you react to negative feedback?",
+      "a": "I never ignore negative feedback, even when it's hard to hear.",
+      "a_ko": "듣기 힘들더라도 부정적인 피드백을 절대 무시하지 않습니다."
+    },
+    "collocations": [
+      "ignore warnings",
+      "can't ignore",
+      "ignore the noise"
+    ],
+    "related": [
+      "ignorance",
+      "recognize",
+      "agnostic",
+      "diagnose"
+    ],
+    "tip": "라틴어에서는 ‘모르다’였다가 영어에서 ‘무시하다’가 된 단어"
+  },
+  {
+    "id": "d01-D18",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "ignorance",
+    "pos": "noun",
+    "ipa": "/ˈɪɡnərəns/",
+    "meaning_ko": "모름, 무지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "i",
+          "type": "prefix",
+          "gloss": "아니다 (in)"
+        },
+        {
+          "text": "gnor",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "알지 못함(ignorantia) → 무지"
+    },
+    "example": {
+      "q": "What do you do when you don't know the answer?",
+      "a": "I'm not afraid to admit ignorance in meetings, because asking early saves the team time later.",
+      "a_ko": "회의에서 모른다고 인정하는 걸 두려워하지 않습니다. 일찍 물어보면 나중에 팀의 시간을 아낄 수 있기 때문입니다."
+    },
+    "collocations": [
+      "admit ignorance",
+      "out of ignorance"
+    ],
+    "related": [
+      "ignore",
+      "agnostic",
+      "recognize"
+    ],
+    "tip": "‘무식’보다는 ‘(그 내용을) 모름’에 가까운 뜻. admit my ignorance 는 겸손한 표현"
+  },
+  {
+    "id": "d01-D19",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "diagnose",
+    "pos": "verb",
+    "ipa": "/ˌdaɪəɡˈnoʊs/",
+    "meaning_ko": "진단하다, 원인을 찾다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dia",
+          "type": "prefix",
+          "gloss": "구별하여·꿰뚫어 (그리스어)"
+        },
+        {
+          "text": "gnose",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        }
+      ],
+      "story": "구별해서 알아내다(diagignōskein) → 병을 진단하다 → 문제의 원인을 찾다"
+    },
+    "example": {
+      "q": "How do you handle performance issues?",
+      "a": "I diagnose the problem with profiling tools before changing any code.",
+      "a_ko": "코드를 고치기 전에 프로파일링 도구로 문제를 진단합니다."
+    },
+    "collocations": [
+      "diagnose a problem",
+      "diagnose the root cause",
+      "hard to diagnose"
+    ],
+    "related": [
+      "diagnostic",
+      "agnostic",
+      "recognize"
+    ],
+    "tip": "명사 diagnosis(진단)에서 거꾸로 만들어진 동사"
+  },
+  {
+    "id": "d01-D20",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "diagnostic",
+    "pos": "adjective",
+    "ipa": "/ˌdaɪəɡˈnɑːstɪk/",
+    "meaning_ko": "진단의, 진단용",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dia",
+          "type": "prefix",
+          "gloss": "구별하여·꿰뚫어 (그리스어)"
+        },
+        {
+          "text": "gnost",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "구별해서 아는 → 진단의 → 진단용"
+    },
+    "example": {
+      "q": "How did you make customer support faster?",
+      "a": "I added a diagnostic page that shows the app version and network status, so support could solve tickets without asking users.",
+      "a_ko": "앱 버전과 네트워크 상태를 보여 주는 진단 페이지를 추가해서, 지원팀이 사용자에게 묻지 않고도 티켓을 해결할 수 있게 했습니다."
+    },
+    "collocations": [
+      "diagnostic tool",
+      "diagnostic logs",
+      "run diagnostics"
+    ],
+    "related": [
+      "diagnose",
+      "agnostic",
+      "cognitive"
+    ],
+    "tip": "복수형 diagnostics 는 ‘진단 정보·진단 기능’이라는 명사로도 씀"
+  },
+  {
+    "id": "d01-D21",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "agnostic",
+    "pos": "adjective",
+    "ipa": "/æɡˈnɑːstɪk/",
+    "meaning_ko": "(특정 기술에) 종속되지 않는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "아니다 (그리스어)"
+        },
+        {
+          "text": "gnost",
+          "type": "root",
+          "gloss": "알다 (gno)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "알 수 없다고 보는(agnōstos) → 불가지론의 → (IT) 어느 쪽인지 따지지 않는 → 특정 기술에 묶이지 않는"
+    },
+    "example": {
+      "q": "Why did you choose that architecture?",
+      "a": "We designed the storage layer to be cloud-agnostic, so we could switch providers without rewriting the business logic.",
+      "a_ko": "스토리지 계층을 특정 클라우드에 종속되지 않게 설계해서, 비즈니스 로직을 다시 쓰지 않고도 제공업체를 바꿀 수 있었습니다."
+    },
+    "collocations": [
+      "cloud-agnostic",
+      "platform-agnostic",
+      "vendor-agnostic"
+    ],
+    "related": [
+      "diagnose",
+      "diagnostic",
+      "ignore",
+      "recognize"
+    ],
+    "tip": "1869년 헉슬리가 만든 철학 용어(불가지론자)가 IT 에서 ‘~에 무관한’으로 쓰이게 됨"
+  },
+  {
+    "id": "d01-D22",
+    "day": 1,
+    "level": 2,
+    "set": "D",
+    "family": "F1",
+    "word": "narrative",
+    "pos": "noun",
+    "ipa": "/ˈnærətɪv/",
+    "meaning_ko": "이야기, 서사",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "narr",
+          "type": "root",
+          "gloss": "알게 하다 (gnarus ‘알고 있는’)"
+        },
+        {
+          "text": "ative",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "알고 있는(gnarus) → 알게 해 주다(narrare) → 이야기하다 → 이야기·서사"
+    },
+    "example": {
+      "q": "How do you present technical results to executives?",
+      "a": "I turn the numbers into a simple narrative: what the problem was, what we changed, and how much it saved.",
+      "a_ko": "숫자를 단순한 이야기로 바꿉니다. 문제가 무엇이었고, 무엇을 바꿨고, 그래서 얼마나 아꼈는지를요."
+    },
+    "collocations": [
+      "a clear narrative",
+      "build a narrative",
+      "career narrative"
+    ],
+    "related": [
+      "ignore",
+      "notion",
+      "recognize"
+    ],
+    "tip": "자기소개를 하나의 흐름으로 엮은 것을 career narrative 라고 함"
+  },
+  {
+    "id": "d01-D23",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "strength",
+    "pos": "noun",
+    "ipa": "/streŋθ/",
+    "meaning_ko": "강점, 힘",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "streng",
+          "type": "part",
+          "gloss": "강한 (strong)"
+        },
+        {
+          "text": "th",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "강한(strong) + -th → 강함 → 힘 → 사람의 강점"
+    },
+    "example": {
+      "q": "What is your greatest strength?",
+      "a": "My greatest strength is turning complex problems into small, clear steps.",
+      "a_ko": "제 가장 큰 강점은 복잡한 문제를 작고 명확한 단계로 바꾸는 것입니다."
+    },
+    "collocations": [
+      "greatest strength",
+      "strengths and weaknesses",
+      "play to my strengths"
+    ],
+    "related": [
+      "strong",
+      "strengthen",
+      "weakness"
+    ],
+    "tip": "strong → strength 처럼 long → length, wide → width 도 같은 패턴"
+  },
+  {
+    "id": "d01-D24",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "weakness",
+    "pos": "noun",
+    "ipa": "/ˈwiːknəs/",
+    "meaning_ko": "약점",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "weak",
+          "type": "part",
+          "gloss": "약한 (고대 노르드어 veikr)"
+        },
+        {
+          "text": "ness",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "약함 → 약점"
+    },
+    "example": {
+      "q": "What is your biggest weakness?",
+      "a": "My biggest weakness is public speaking, so I joined a speaking club.",
+      "a_ko": "가장 큰 약점은 사람들 앞에서 말하는 것이라, 스피치 모임에 들어갔습니다."
+    },
+    "collocations": [
+      "biggest weakness",
+      "work on a weakness",
+      "strengths and weaknesses"
+    ],
+    "related": [
+      "weak",
+      "weaken",
+      "strength"
+    ],
+    "tip": "약점 + 개선 노력(so I ~)을 한 세트로 말하는 것이 정석"
+  },
+  {
+    "id": "d01-D25",
+    "day": 1,
+    "level": 1,
+    "set": "D",
+    "family": "F1",
+    "word": "hard-working",
+    "pos": "adjective",
+    "ipa": "/ˌhɑːrdˈwɜːrkɪŋ/",
+    "meaning_ko": "근면한, 열심히 일하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hard-",
+          "type": "part",
+          "gloss": "열심히"
+        },
+        {
+          "text": "working",
+          "type": "part",
+          "gloss": "일하는"
+        }
+      ],
+      "story": "열심히(hard) 일하는(working) → 근면한"
+    },
+    "example": {
+      "q": "What would your teammates say about you?",
+      "a": "They'd say I'm hard-working and always finish what I start.",
+      "a_ko": "제가 근면하고 시작한 일은 꼭 끝낸다고 말할 겁니다."
+    },
+    "collocations": [
+      "hard-working and reliable",
+      "a hard-working team"
+    ],
+    "related": [
+      "hard work",
+      "workload",
+      "teamwork"
+    ],
+    "tip": "너무 흔한 표현이라 근거(always finish what I start)를 꼭 붙이기"
+  }
+]

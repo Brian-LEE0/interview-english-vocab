@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>면접영어 어원 단어장 — 디자인 시안</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<style>
+  :root{
+    --ink:#16233B; --ink-2:#4A5872; --paper:#EEF1F4; --card:#FFFFFF; --line:#C9D1DB;
+    --prefix:#2F5BD3; --root:#B9770E; --suffix:#127A68;
+    --display:"Bricolage Grotesque", "Pretendard", sans-serif;
+    --body:"Pretendard", system-ui, sans-serif;
+    --mono:"JetBrains Mono", ui-monospace, monospace; --tab:60px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}
+  :focus-visible{outline:3px solid var(--prefix);outline-offset:2px;border-radius:4px}
+
+  /* top bar */
+  .bar{display:flex;align-items:center;gap:24px;padding:14px 32px;border-bottom:1px solid var(--line);background:var(--paper)}
+  .brand{font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:-.02em}
+  .brand span{color:var(--root)}
+  .bar nav{display:flex;gap:4px;margin-left:auto}
+  .bar nav a{color:var(--ink-2);text-decoration:none;padding:6px 12px;border-radius:6px;font-size:14px}
+  .bar nav a[aria-current]{background:var(--ink);color:#fff}
+
+  .wrap{display:grid;grid-template-columns:260px 1fr;gap:32px;max-width:1180px;margin:0 auto;padding:32px}
+
+  /* left rail: 30-day map */
+  .rail h2{font-size:13px;font-weight:600;color:var(--ink-2);margin:0 0 10px;letter-spacing:.04em}
+  .levels{display:flex;flex-direction:column;gap:10px;margin-bottom:28px}
+  .lvname{display:block;font-size:12px;color:var(--ink-2);margin-bottom:4px}
+  .days{display:grid;grid-template-columns:repeat(10,1fr);gap:3px}
+  .sets{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+  .set{font-size:13px;color:var(--ink-2);font-family:var(--mono)}
+  .set span{display:block;font-family:var(--body);font-weight:600}
+  .set.on span{color:var(--ink)}
+  .set small{font-size:11px}
+  .set .meter{margin:4px 0 2px}
+  .ladder{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:14px}
+  .ladder li{display:grid;grid-template-columns:76px 1fr;gap:8px;padding:6px 10px;border-radius:6px}
+  .ladder .lvl{font-size:12px;color:var(--ink-2)}
+  .ladder b{color:var(--root)}
+  .ladder .past{color:var(--ink-2)}
+  .ladder .now{background:var(--paper);font-weight:600}
+  .ladder .now u{text-decoration-color:var(--root);text-underline-offset:4px}
+  .ladder .next{color:var(--ink-2);opacity:.75}
+  .days b{display:grid;place-items:center;aspect-ratio:1;border-radius:6px;font-family:var(--mono);font-size:12px;font-weight:400;border:1px solid var(--line);color:var(--ink-2);background:transparent}
+  .days b.done{background:var(--ink);border-color:var(--ink);color:#fff}
+  .days b.today{border:2px solid var(--root);color:var(--root);font-weight:600}
+  .days b.mock{border-style:dashed}
+  .legend{font-size:12px;color:var(--ink-2);margin:-16px 0 28px}
+  .roots{list-style:none;padding:0;margin:0 0 28px}
+  .roots li{display:flex;align-items:baseline;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+  .roots code{font-family:var(--mono);font-size:18px;font-weight:600;color:var(--root)}
+  .roots small{color:var(--ink-2)}
+  .mix{display:flex;flex-direction:column;gap:8px;font-size:14px}
+  .mix div{display:flex;justify-content:space-between}
+  .meter{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-top:2px}
+  .meter i{display:block;height:100%;background:var(--ink)}
+
+  /* main card */
+  .progress{display:flex;align-items:center;gap:14px;font-family:var(--mono);font-size:13px;color:var(--ink-2);margin-bottom:14px}
+  .progress .meter{flex:1;margin:0}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:36px 40px}
+  .meta{display:flex;gap:10px;align-items:center;font-size:13px;color:var(--ink-2);margin-bottom:22px}
+  .tag{border:1px solid var(--line);border-radius:999px;padding:2px 10px;color:var(--ink)}
+
+  /* signature: interlinear gloss */
+  .gloss{display:flex;align-items:flex-end;flex-wrap:wrap;gap:0;margin:0 0 8px}
+  .m{display:flex;flex-direction:column;padding-right:4px}
+  .m .t{font-family:var(--display);font-weight:800;font-size:clamp(44px,7vw,84px);line-height:1;letter-spacing:-.035em}
+  .m .u{height:4px;margin:10px 0 8px;border-radius:2px}
+  .m .g{font-family:var(--body);font-size:16px;font-weight:600;line-height:1.3}
+  .m .g em{display:block;font-style:normal;font-weight:400;font-size:11px;opacity:.7;letter-spacing:.04em}
+  .prefix .t,.prefix .g{color:var(--prefix)} .prefix .u{background:var(--prefix)}
+  .root .t,.root .g{color:var(--root)}       .root .u{background:var(--root);height:6px}
+  .suffix .t,.suffix .g{color:var(--suffix)} .suffix .u{background:var(--suffix)}
+  .dot{font-family:var(--display);font-size:40px;color:var(--line);align-self:flex-start;padding:14px 6px 0 2px}
+
+  .ipa{font-family:var(--mono);color:var(--ink-2);font-size:14px;margin:18px 0 4px}
+  .meaning{font-size:24px;font-weight:700;margin:0}
+  .story{color:var(--ink-2);margin:6px 0 0}
+  .story b{color:var(--ink);font-weight:600}
+
+  /* transcript */
+  .transcript{margin:30px 0 0;border-top:1px solid var(--line);padding-top:22px}
+  .transcript h3,.side h3{font-size:12px;letter-spacing:.08em;color:var(--ink-2);margin:0 0 12px;font-weight:600}
+  .line{display:grid;grid-template-columns:28px 1fr;gap:12px;margin-bottom:12px}
+  .line .who{font-family:var(--mono);font-weight:600;font-size:13px;width:28px;height:28px;display:grid;place-items:center;border-radius:6px}
+  .line.q .who{background:var(--paper);color:var(--ink-2)}
+  .line.a .who{background:var(--ink);color:#fff}
+  .line.q p{color:var(--ink-2);margin:2px 0 0}
+  .line.a p{margin:2px 0 0;font-size:18px}
+  .line.a mark{background:none;color:var(--root);font-weight:700;border-bottom:2px solid var(--root)}
+  .line.a .ko{display:block;font-size:14px;color:var(--ink-2);margin-top:4px}
+  .listen{font-family:var(--body);font-size:13px;border:1px solid var(--line);background:none;border-radius:6px;padding:4px 10px;color:var(--ink);cursor:pointer;margin-left:40px}
+
+  .side{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:26px;border-top:1px solid var(--line);padding-top:22px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chips span{font-size:14px;background:var(--paper);border-radius:6px;padding:4px 10px}
+  .chips a{font-size:14px;color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:6px;padding:4px 10px}
+  .chips a b{color:var(--root)}
+
+  .actions{display:flex;gap:10px;margin-top:20px}
+  .actions button{font:inherit;font-weight:600;padding:12px 20px;border-radius:10px;cursor:pointer;border:1px solid var(--ink)}
+  .again{background:transparent;color:var(--ink)}
+  .know{background:var(--ink);color:#fff;margin-left:auto}
+  .tip{font-size:14px;color:var(--ink-2);margin-top:14px}
+
+  /* mobile: thumb-first */
+  @media (max-width:860px){
+    body{padding-bottom:calc(var(--tab) + env(safe-area-inset-bottom))}
+    .bar{padding:12px 16px;position:sticky;top:0;z-index:5}
+    .bar .daychip{display:inline-flex}
+    .bar nav{position:fixed;left:0;right:0;bottom:0;margin:0;z-index:10;display:grid;grid-template-columns:repeat(4,1fr);gap:0;
+      background:var(--card);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom));height:calc(var(--tab) + env(safe-area-inset-bottom));align-items:center}
+    .bar nav a{text-align:center;padding:10px 4px;font-size:13px;border-radius:8px}
+    .wrap{grid-template-columns:1fr;gap:20px;padding:12px 14px}
+    .rail{order:2}
+    .card{padding:22px 18px;border-radius:12px}
+    .m .t{font-size:clamp(34px,11vw,60px)}
+    .m .g{font-size:15px}
+    .dot{font-size:28px;padding:8px 3px 0 1px}
+    .meaning{font-size:20px}
+    .line.a p{font-size:17px}
+    .listen{margin-left:40px;min-height:40px}
+    .side{grid-template-columns:1fr;gap:22px}
+    .ladder li{grid-template-columns:56px 1fr}
+    .sets{gap:6px}
+    .set span{font-size:12px}
+    .actions{position:sticky;bottom:calc(var(--tab) + env(safe-area-inset-bottom));z-index:4;margin:16px -14px 0;padding:10px 14px;
+      background:var(--paper);border-top:1px solid var(--line)}
+    .know .long{display:none}
+    .actions button{flex:1;min-height:52px;font-size:16px}
+    .know{margin-left:0}
+    .days b{font-size:11px}
+  }
+  .daychip{display:none;margin-left:auto;font-family:var(--mono);font-size:12px;border:1px solid var(--line);border-radius:999px;padding:3px 10px;color:var(--ink-2)}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <div class="brand">mensetsu<span>.</span>tango</div>
+  <span class="daychip">Day 11 · 2구간</span>
+  <nav aria-label="메뉴">
+    <a href="#" aria-current="page">오늘의 학습</a>
+    <a href="#">퀴즈</a>
+    <a href="#">복습 (18)</a>
+    <a href="#">어근 지도</a>
+  </nav>
+</header>
+
+<div class="wrap">
+  <aside class="rail">
+    <h2>30일 진도</h2>
+    <div class="levels" aria-label="30일 진도표">
+      <div class="lv"><span class="lvname">1구간 · 기초 50 · 중급 40 · 고급 10</span>
+        <div class="days"><b class="done">1</b><b class="done">2</b><b class="done">3</b><b class="done">4</b><b class="done">5</b><b class="done">6</b><b class="done">7</b><b class="done">8</b><b class="done">9</b><b class="done mock">10</b></div></div>
+      <div class="lv"><span class="lvname">2구간 · 기초 30 · 중급 50 · 고급 20</span>
+        <div class="days"><b class="today" aria-current="date">11</b><b>12</b><b>13</b><b>14</b><b>15</b><b>16</b><b>17</b><b>18</b><b>19</b><b class="mock">20</b></div></div>
+      <div class="lv"><span class="lvname">3구간 · 기초 20 · 중급 40 · 고급 40</span>
+        <div class="days"><b>21</b><b>22</b><b>23</b><b>24</b><b>25</b><b>26</b><b>27</b><b>28</b><b>29</b><b class="mock">30</b></div></div>
+    </div>
+    <p class="legend">점선 = 모의 면접 날</p>
+
+    <h2>Day 11 · 보다·알다 가족</h2>
+    <ul class="roots">
+      <li><code>spect</code><span>보다</span><small>22</small></li>
+      <li><code>vis · vid</code><span>보다</span><small>18</small></li>
+      <li><code>sci</code><span>알다</span><small>12</small></li>
+      <li><code>cogn · gno</code><span>알다</span><small>14</small></li>
+      <li><code>sens · sent</code><span>느끼다</span><small>14</small></li>
+      <li><code>scop</code><span>살펴보다</span><small>10</small></li>
+    </ul>
+
+    <h2>오늘의 분야</h2>
+    <div class="mix">
+      <div><span>🎤 면접·커리어</span><span>3 / 40</span></div>
+      <div class="meter"><i style="width:7.5%"></i></div>
+      <div><span>💻 IT 기술</span><span>1 / 35</span></div>
+      <div class="meter"><i style="width:3%"></i></div>
+      <div><span>🤝 협상·오퍼</span><span>0 / 25</span></div>
+      <div class="meter"><i style="width:0%"></i></div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="sets" aria-label="오늘의 세트 진행">
+      <div class="set on"><span>세트 A</span><div class="meter"><i style="width:16%"></i></div><small>4 / 25</small></div>
+      <div class="set"><span>세트 B</span><div class="meter"><i style="width:0"></i></div><small>0 / 25</small></div>
+      <div class="set"><span>세트 C</span><div class="meter"><i style="width:0"></i></div><small>0 / 25</small></div>
+      <div class="set"><span>세트 D</span><div class="meter"><i style="width:0"></i></div><small>0 / 25</small></div>
+    </div>
+
+    <article class="card">
+      <div class="meta">
+        <span class="tag">🟡 중급</span>
+        <span class="tag">💻 IT 기술</span>
+        <span>noun</span>
+      </div>
+
+      <div class="gloss" aria-label="retrospective = retro(뒤로) + spect(보다) + ive(~하는 것)">
+        <div class="m prefix"><span class="t">retro</span><span class="u"></span><span class="g"><em>접두사</em>뒤로</span></div>
+        <span class="dot" aria-hidden="true">·</span>
+        <div class="m root"><span class="t">spect</span><span class="u"></span><span class="g"><em>어근</em>보다</span></div>
+        <span class="dot" aria-hidden="true">·</span>
+        <div class="m suffix"><span class="t">ive</span><span class="u"></span><span class="g"><em>접미사</em>~하는 것</span></div>
+      </div>
+
+      <p class="ipa">/ˌretrəˈspektɪv/</p>
+      <p class="meaning">회고 (지난 작업을 돌아보는 회의)</p>
+      <p class="story">뒤를 돌아보는 것 → <b>스프린트를 돌아보는 회의</b></p>
+
+      <section class="transcript">
+        <h3>면접에서 이렇게</h3>
+        <div class="line q"><span class="who">Q</span><p>How does your team learn from failures?</p></div>
+        <div class="line a"><span class="who">A</span>
+          <p>We hold a <mark>retrospective</mark> after every sprint to discuss what went well and what we should improve.
+            <span class="ko">매 스프린트 후 회고를 열어 잘된 점과 개선할 점을 이야기합니다.</span></p>
+        </div>
+        <button class="listen" type="button">▶ 답변 듣기</button>
+      </section>
+
+      <section class="side">
+        <div>
+          <h3>자주 쓰는 표현</h3>
+          <div class="chips"><span>hold a retrospective</span><span>sprint retrospective</span><span>in retrospect</span></div>
+        </div>
+        <div>
+          <h3>어근 사다리 <code style="color:var(--root);font-family:var(--mono)">spect</code></h3>
+          <ol class="ladder">
+            <li class="past"><span class="lvl">Day 1</span><span>🟢 ex<b>pect</b> · 🟡 per<b>spect</b>ive</span></li>
+            <li class="now"><span class="lvl">오늘 Day 11</span><span>🟢 re<b>spect</b> · 🟡 <u>retro<b>spect</b>ive</u> · 🔴 intro<b>spect</b>ion</span></li>
+            <li class="next"><span class="lvl">Day 21</span><span>🔴 circum<b>spect</b></span></li>
+          </ol>
+        </div>
+      </section>
+
+      <p class="tip">💡 애자일 경험을 물을 때 바로 꺼낼 수 있는 단어입니다.</p>
+    </article>
+
+    <div class="actions">
+      <button class="again" type="button">다시 볼래요</button>
+      <button class="know" type="button">외웠어요<span class="long"> → 다음 단어</span></button>
+    </div>
+  </main>
+</div>
+</body>
+</html>

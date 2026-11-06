@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "d03-A01",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "position",
+    "pos": "noun",
+    "ipa": "/pəˈzɪʃən/",
+    "meaning_ko": "직무, 자리, 입장",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "놓인 곳 → 자리 → 직책·입장"
+    },
+    "example": {
+      "q": "Why are you interested in this position?",
+      "a": "This position matches my backend experience and my interest in cloud systems.",
+      "a_ko": "이 직무가 제 백엔드 경력과 클라우드 시스템에 대한 관심에 잘 맞기 때문입니다."
+    },
+    "collocations": [
+      "apply for a position",
+      "in a good position to",
+      "my position on"
+    ],
+    "related": [
+      "positive",
+      "component",
+      "proposal",
+      "composure"
+    ],
+    "tip": "job보다 격식 있는 말. role과 함께 면접에서 가장 자주 쓰임"
+  },
+  {
+    "id": "d03-A02",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "positive",
+    "pos": "adjective",
+    "ipa": "/ˈpɑːzətɪv/",
+    "meaning_ko": "긍정적인, 확신하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "(규칙으로) 놓여 정해진 → 확실한 → 긍정적인"
+    },
+    "example": {
+      "q": "How would your previous team describe you?",
+      "a": "They would say I stay positive and calm, even when deadlines are tight.",
+      "a_ko": "마감이 빠듯할 때도 긍정적이고 침착하다고 말할 것 같습니다."
+    },
+    "collocations": [
+      "positive attitude",
+      "positive impact",
+      "stay positive"
+    ],
+    "related": [
+      "position",
+      "opposite",
+      "proposal",
+      "postpone"
+    ],
+    "tip": "'I'm positive.'는 '확신합니다'라는 뜻도 됨"
+  },
+  {
+    "id": "d03-A03",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "purpose",
+    "pos": "noun",
+    "ipa": "/ˈpɝːpəs/",
+    "meaning_ko": "목적, 의도",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pur",
+          "type": "prefix",
+          "gloss": "앞에 (pro)"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "앞에 내놓은 것 → 이루려고 세운 목표 → 목적"
+    },
+    "example": {
+      "q": "What gives you a sense of purpose at work?",
+      "a": "Building tools that save my teammates time gives me a real sense of purpose.",
+      "a_ko": "동료들의 시간을 아껴 주는 도구를 만들 때 진짜 보람과 목적의식을 느낍니다."
+    },
+    "collocations": [
+      "sense of purpose",
+      "on purpose",
+      "serve a purpose"
+    ],
+    "related": [
+      "propose",
+      "suppose",
+      "position",
+      "proponent"
+    ],
+    "tip": "발음은 /ˈpɝːpəs/ '퍼-퍼스'. on purpose = 일부러"
+  },
+  {
+    "id": "d03-A04",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "suppose",
+    "pos": "verb",
+    "ipa": "/səˈpoʊz/",
+    "meaning_ko": "~라고 생각하다, ~하기로 되어 있다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sup",
+          "type": "prefix",
+          "gloss": "아래에 (sub)"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "밑에 깔아 두다 → 전제로 삼다 → 가정하다·생각하다"
+    },
+    "example": {
+      "q": "How do you handle unclear requirements?",
+      "a": "If I'm unsure what a feature is supposed to do, I ask early.",
+      "a_ko": "기능이 어떻게 동작해야 하는지 확실하지 않으면 일찍 물어봅니다."
+    },
+    "collocations": [
+      "be supposed to",
+      "I suppose",
+      "suppose that"
+    ],
+    "related": [
+      "purpose",
+      "propose",
+      "impose",
+      "expose"
+    ],
+    "tip": "be supposed to(~하기로 되어 있다)가 면접에서 가장 많이 쓰이는 형태"
+  },
+  {
+    "id": "d03-A05",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "opposite",
+    "pos": "adjective",
+    "ipa": "/ˈɑːpəzɪt/",
+    "meaning_ko": "정반대의, 반대",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "op",
+          "type": "prefix",
+          "gloss": "맞서 (ob)"
+        },
+        {
+          "text": "posite",
+          "type": "root",
+          "gloss": "놓인 (positus ← pon)"
+        }
+      ],
+      "story": "맞은편에 놓인 → 정반대의"
+    },
+    "example": {
+      "q": "Did your first approach work?",
+      "a": "Actually, the result was the opposite of what I expected, so I changed my approach.",
+      "a_ko": "사실 결과가 예상과 정반대여서 접근 방식을 바꿨습니다."
+    },
+    "collocations": [
+      "the opposite of",
+      "the opposite direction",
+      "quite the opposite"
+    ],
+    "related": [
+      "oppose",
+      "position",
+      "expose",
+      "component"
+    ],
+    "tip": "발음 /ˈɑːpəzɪt/ — '오포짓'보다 '아-퍼짓'에 가깝게"
+  },
+  {
+    "id": "d03-A06",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "propose",
+    "pos": "verb",
+    "ipa": "/prəˈpoʊz/",
+    "meaning_ko": "제안하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "앞에 내놓다 → 제안하다"
+    },
+    "example": {
+      "q": "How do you share new ideas with your team?",
+      "a": "I usually write a short document and propose the idea at our weekly meeting.",
+      "a_ko": "보통 짧은 문서를 써서 주간 회의에서 아이디어를 제안합니다."
+    },
+    "collocations": [
+      "propose a solution",
+      "propose that",
+      "propose an idea"
+    ],
+    "related": [
+      "proposal",
+      "purpose",
+      "suppose",
+      "proponent"
+    ],
+    "tip": "suggest보다 조금 더 공식적으로 '안을 내놓는' 느낌"
+  },
+  {
+    "id": "d03-A07",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "proposal",
+    "pos": "noun",
+    "ipa": "/prəˈpoʊzəl/",
+    "meaning_ko": "제안(서), 기획안",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "앞에 내놓은 것 → 제안·기획안"
+    },
+    "example": {
+      "q": "Tell me about a time you influenced a technical decision.",
+      "a": "I wrote a proposal to move our batch jobs to a queue, and I backed it with load-test results.",
+      "a_ko": "배치 작업을 큐 방식으로 옮기자는 제안서를 쓰고, 부하 테스트 결과로 근거를 댔습니다."
+    },
+    "collocations": [
+      "write a proposal",
+      "put forward a proposal",
+      "design proposal"
+    ],
+    "related": [
+      "propose",
+      "purpose",
+      "proponent",
+      "position"
+    ],
+    "tip": "propose(동사)의 명사형. 'proposal for/to ~'로 무엇에 대한 제안인지 붙임"
+  },
+  {
+    "id": "d03-A08",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "postpone",
+    "pos": "verb",
+    "ipa": "/poʊstˈpoʊn/",
+    "meaning_ko": "미루다, 연기하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "post",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "pone",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        }
+      ],
+      "story": "뒤에 놓다 → 나중으로 미루다"
+    },
+    "example": {
+      "q": "Have you ever had to delay a release?",
+      "a": "Yes, we postponed a release by two days to fix a critical bug.",
+      "a_ko": "네, 치명적인 버그를 고치려고 릴리스를 이틀 미룬 적이 있습니다."
+    },
+    "collocations": [
+      "postpone a meeting",
+      "postpone until",
+      "postpone the launch"
+    ],
+    "related": [
+      "position",
+      "component",
+      "proponent",
+      "purpose"
+    ],
+    "tip": "delay보다 '일정을 의도적으로 뒤로 옮긴다'는 느낌. put off와 같은 뜻"
+  },
+  {
+    "id": "d03-A09",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "expose",
+    "pos": "verb",
+    "ipa": "/ɪkˈspoʊz/",
+    "meaning_ko": "(API 등을) 외부에 공개하다, 노출하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "밖에 내놓다 → 드러내다 → 외부에 공개하다"
+    },
+    "example": {
+      "q": "How did you design the service interface?",
+      "a": "We exposed only three REST endpoints and kept everything else internal.",
+      "a_ko": "REST 엔드포인트 세 개만 외부에 공개하고 나머지는 내부에 두었습니다."
+    },
+    "collocations": [
+      "expose an API",
+      "expose an endpoint",
+      "be exposed to"
+    ],
+    "related": [
+      "exposure",
+      "impose",
+      "suppose",
+      "position"
+    ],
+    "tip": "be exposed to ~(~을 접해 보다)라는 뜻으로 경험을 말할 때도 씀"
+  },
+  {
+    "id": "d03-A10",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "impose",
+    "pos": "verb",
+    "ipa": "/ɪmˈpoʊz/",
+    "meaning_ko": "(제한·규칙을) 걸다, 부과하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "위에 (in)"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "위에 얹어 놓다 → 부담·규칙을 지우다 → 제한을 걸다"
+    },
+    "example": {
+      "q": "How did you protect the API from abuse?",
+      "a": "We imposed a rate limit of 100 requests per minute per user, which stopped the traffic spikes from bots.",
+      "a_ko": "사용자당 분당 100건의 요청 제한을 걸어서 봇이 만드는 트래픽 급증을 막았습니다."
+    },
+    "collocations": [
+      "impose a limit",
+      "impose restrictions",
+      "impose on someone"
+    ],
+    "related": [
+      "impostor",
+      "expose",
+      "suppose",
+      "component"
+    ],
+    "tip": "impose a limit/constraint처럼 '제약을 건다'는 맥락에서 IT 답변에 자주 씀"
+  },
+  {
+    "id": "d03-A11",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "component",
+    "pos": "noun",
+    "ipa": "/kəmˈpoʊnənt/",
+    "meaning_ko": "구성 요소, 컴포넌트",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pon",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "함께 놓인 것 → 전체를 이루는 부품 → 구성 요소"
+    },
+    "example": {
+      "q": "What did you work on in your last frontend project?",
+      "a": "I built a shared component library in React, so five product teams could reuse the same buttons and forms.",
+      "a_ko": "리액트로 공용 컴포넌트 라이브러리를 만들어서 다섯 개 제품팀이 같은 버튼과 폼을 재사용할 수 있게 했습니다."
+    },
+    "collocations": [
+      "UI component",
+      "key component",
+      "component library"
+    ],
+    "related": [
+      "composition",
+      "composite",
+      "proponent",
+      "exponential"
+    ],
+    "tip": "pon(놓다)이 그대로 보이는 단어. 강세는 '포' /kəmˈpoʊ-/"
+  },
+  {
+    "id": "d03-A12",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "composition",
+    "pos": "noun",
+    "ipa": "/ˌkɑːmpəˈzɪʃən/",
+    "meaning_ko": "합성(조합), 구성",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "함께 놓음 → 조합해서 만듦 → 구성·합성"
+    },
+    "example": {
+      "q": "How do you keep your code easy to change?",
+      "a": "I prefer composition over inheritance, because small objects combined together are easier to test and replace.",
+      "a_ko": "상속보다 합성(조합)을 선호합니다. 작은 객체를 조합하면 테스트하고 교체하기가 더 쉽기 때문입니다."
+    },
+    "collocations": [
+      "composition over inheritance",
+      "team composition",
+      "function composition"
+    ],
+    "related": [
+      "component",
+      "composite",
+      "decompose",
+      "position"
+    ],
+    "tip": "'composition over inheritance'는 설계 면접 단골 문구"
+  },
+  {
+    "id": "d03-A13",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "composite",
+    "pos": "adjective",
+    "ipa": "/kəmˈpɑːzɪt/",
+    "meaning_ko": "복합의, 합성된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "posite",
+          "type": "root",
+          "gloss": "놓인 (positus ← pon)"
+        }
+      ],
+      "story": "함께 놓인 → 여러 개가 합쳐진 → 복합의"
+    },
+    "example": {
+      "q": "How did you speed up that slow query?",
+      "a": "I added a composite index on user ID and created date, which cut the query time from two seconds to fifty milliseconds.",
+      "a_ko": "사용자 ID와 생성일에 복합 인덱스를 추가해서 쿼리 시간을 2초에서 50밀리초로 줄였습니다."
+    },
+    "collocations": [
+      "composite index",
+      "composite key",
+      "composite score"
+    ],
+    "related": [
+      "composition",
+      "component",
+      "decompose",
+      "exponential"
+    ],
+    "tip": "DB의 '복합 인덱스/복합 키'를 말할 때 바로 쓰는 단어. 미국식 강세는 '파' /kəmˈpɑː-/"
+  },
+  {
+    "id": "d03-A14",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "decompose",
+    "pos": "verb",
+    "ipa": "/ˌdiːkəmˈpoʊz/",
+    "meaning_ko": "(작은 단위로) 나누다, 분해하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져·반대로"
+        },
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pose",
+          "type": "root",
+          "gloss": "놓다 (pos)"
+        }
+      ],
+      "story": "함께 놓인 것을 거꾸로 풀다 → 분해하다 → 작은 단위로 나누다"
+    },
+    "example": {
+      "q": "How do you approach a large, vague task?",
+      "a": "I decompose it into small tickets that each take a day or two, so progress is easy to track.",
+      "a_ko": "하루 이틀이면 끝나는 작은 티켓으로 쪼개서 진행 상황을 쉽게 추적할 수 있게 합니다."
+    },
+    "collocations": [
+      "decompose a problem",
+      "decompose a monolith",
+      "decompose into"
+    ],
+    "related": [
+      "composition",
+      "composite",
+      "composure",
+      "component"
+    ],
+    "tip": "break down보다 기술적인 느낌. 모놀리스를 서비스로 쪼갤 때도 씀"
+  },
+  {
+    "id": "d03-A15",
+    "day": 3,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "composure",
+    "pos": "noun",
+    "ipa": "/kəmˈpoʊʒɚ/",
+    "meaning_ko": "침착함, 평정",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~한 상태"
+        }
+      ],
+      "story": "(마음을) 가지런히 모아 놓은 상태 → 흐트러지지 않음 → 침착함"
+    },
+    "example": {
+      "q": "How do you handle pressure during a production incident?",
+      "a": "During a major outage last year, I kept my composure, split the investigation into clear tasks, and gave stakeholders updates every thirty minutes.",
+      "a_ko": "작년 대규모 장애 때 침착함을 유지하면서 조사를 명확한 작업으로 나누고, 이해관계자에게 30분마다 상황을 공유했습니다."
+    },
+    "collocations": [
+      "keep my composure",
+      "lose my composure",
+      "regain composure"
+    ],
+    "related": [
+      "decompose",
+      "composition",
+      "component",
+      "position"
+    ],
+    "tip": "calm의 격식 있는 명사. keep/maintain one's composure 형태로 씀"
+  },
+  {
+    "id": "d03-A16",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "repository",
+    "pos": "noun",
+    "ipa": "/rɪˈpɑːzətɔːri/",
+    "meaning_ko": "저장소, (코드) 리포지토리",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시·뒤로"
+        },
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (pon)"
+        },
+        {
+          "text": "ory",
+          "type": "suffix",
+          "gloss": "~하는 곳"
+        }
+      ],
+      "story": "도로 넣어 두는 곳 → 보관 장소 → 저장소"
+    },
+    "example": {
+      "q": "How did you organize code across multiple services?",
+      "a": "We moved six services into a single repository, which made shared changes and code reviews much easier.",
+      "a_ko": "서비스 여섯 개를 하나의 저장소로 합쳐서 공통 변경과 코드 리뷰가 훨씬 쉬워졌습니다."
+    },
+    "collocations": [
+      "Git repository",
+      "clone a repository",
+      "central repository"
+    ],
+    "related": [
+      "position",
+      "composite",
+      "disposable",
+      "exponential"
+    ],
+    "tip": "줄여서 repo. 강세는 '파' /rɪˈpɑː-/"
+  },
+  {
+    "id": "d03-A17",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "disposable",
+    "pos": "adjective",
+    "ipa": "/dɪˈspoʊzəbəl/",
+    "meaning_ko": "일회용의, 쓰고 버리는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "따로·떨어져"
+        },
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "따로 치워 놓을 수 있는 → 처리해 버릴 수 있는 → 일회용의"
+    },
+    "example": {
+      "q": "How do you test infrastructure changes safely?",
+      "a": "We spin up disposable test environments for each pull request and delete them automatically after merging.",
+      "a_ko": "풀 리퀘스트마다 일회용 테스트 환경을 띄우고, 머지 후 자동으로 삭제합니다."
+    },
+    "collocations": [
+      "disposable environment",
+      "disposable container",
+      "disposable income"
+    ],
+    "related": [
+      "disposal",
+      "expose",
+      "repository",
+      "component"
+    ],
+    "tip": "언제든 버리고 새로 만드는 클라우드식 인프라를 설명할 때 좋음"
+  },
+  {
+    "id": "d03-A18",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "exponential",
+    "pos": "adjective",
+    "ipa": "/ˌekspəˈnenʃəl/",
+    "meaning_ko": "기하급수적인, 지수의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pon",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "밖으로 내놓다(exponere) → 수 위에 내놓은 지수(exponent) → 지수 함수처럼 급격히 느는"
+    },
+    "example": {
+      "q": "Why did you redesign the retry logic?",
+      "a": "Our clients retried instantly and overloaded the server, so I added exponential backoff with a maximum delay.",
+      "a_ko": "클라이언트가 즉시 재시도해서 서버에 과부하가 걸렸기 때문에, 최대 대기 시간이 있는 지수 백오프를 넣었습니다."
+    },
+    "collocations": [
+      "exponential backoff",
+      "exponential growth",
+      "at an exponential rate"
+    ],
+    "related": [
+      "component",
+      "proponent",
+      "postpone",
+      "position"
+    ],
+    "tip": "'exponential backoff'(점점 길게 기다렸다가 재시도)는 분산 시스템 면접 필수 표현"
+  },
+  {
+    "id": "d03-A19",
+    "day": 3,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "posture",
+    "pos": "noun",
+    "ipa": "/ˈpɑːstʃɚ/",
+    "meaning_ko": "(보안) 태세, 자세",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pos",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ture",
+          "type": "suffix",
+          "gloss": "~한 상태"
+        }
+      ],
+      "story": "놓인 모양 → 자세 → 대비 태세"
+    },
+    "example": {
+      "q": "What did you do to improve security?",
+      "a": "I enabled MFA and removed unused admin accounts, which clearly improved our security posture before the audit.",
+      "a_ko": "MFA를 켜고 쓰지 않는 관리자 계정을 정리해서, 감사 전에 보안 태세를 확실히 개선했습니다."
+    },
+    "collocations": [
+      "security posture",
+      "improve our posture",
+      "defensive posture"
+    ],
+    "related": [
+      "position",
+      "composite",
+      "exposure",
+      "impose"
+    ],
+    "tip": "원래 '자세'. 보안 분야에서는 'security posture(보안 수준·대비 상태)'로 씀"
+  },
+  {
+    "id": "d03-A20",
+    "day": 3,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "proponent",
+    "pos": "noun",
+    "ipa": "/prəˈpoʊnənt/",
+    "meaning_ko": "지지자, 옹호자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "pon",
+          "type": "root",
+          "gloss": "놓다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "앞에 내놓는 사람 → 안을 내세우는 사람 → 지지자"
+    },
+    "example": {
+      "q": "What engineering practices do you care about most?",
+      "a": "I'm a strong proponent of small pull requests, because on my last team they cut our review time almost in half.",
+      "a_ko": "작은 풀 리퀘스트를 적극 지지합니다. 이전 팀에서 리뷰 시간을 거의 절반으로 줄여 줬기 때문입니다."
+    },
+    "collocations": [
+      "a strong proponent of",
+      "leading proponent",
+      "proponent of change"
+    ],
+    "related": [
+      "component",
+      "propose",
+      "proposal",
+      "exponential"
+    ],
+    "tip": "'어떤 방식·생각을 지지하는 사람'. a strong proponent of ~ 형태로 씀"
+  },
+  {
+    "id": "d03-A21",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "location",
+    "pos": "noun",
+    "ipa": "/loʊˈkeɪʃən/",
+    "meaning_ko": "위치, 근무지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "자리를 정함 → 놓인 자리 → 위치"
+    },
+    "example": {
+      "q": "Is the office location a concern for you?",
+      "a": "Not at all, the office location is easy for me to reach by subway.",
+      "a_ko": "전혀요, 사무실 위치는 지하철로 다니기 편합니다."
+    },
+    "collocations": [
+      "office location",
+      "work location",
+      "remote location"
+    ],
+    "related": [
+      "relocate",
+      "locale",
+      "local",
+      "allocate"
+    ],
+    "tip": "근무지를 묻는 질문(work location)에서 자주 나옴"
+  },
+  {
+    "id": "d03-A22",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "relocate",
+    "pos": "verb",
+    "ipa": "/ˌriːˈloʊkeɪt/",
+    "meaning_ko": "이주하다, 근무지를 옮기다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "다시 자리를 정하다 → 옮겨 가다 → 이주하다"
+    },
+    "example": {
+      "q": "Are you willing to relocate for this role?",
+      "a": "Yes, I'm willing to relocate to Tokyo and can move within two months.",
+      "a_ko": "네, 도쿄로 이주할 의향이 있고 두 달 안에 옮길 수 있습니다."
+    },
+    "collocations": [
+      "willing to relocate",
+      "relocate to",
+      "relocation package"
+    ],
+    "related": [
+      "location",
+      "locale",
+      "local",
+      "allocate"
+    ],
+    "tip": "해외 취업 면접 단골 질문. relocation package(이주 지원)도 같이 알아 두기"
+  },
+  {
+    "id": "d03-A23",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "teammate",
+    "pos": "noun",
+    "ipa": "/ˈtiːmmeɪt/",
+    "meaning_ko": "팀원, 같은 팀 동료",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "team",
+          "type": "part",
+          "gloss": "팀"
+        },
+        {
+          "text": "mate",
+          "type": "part",
+          "gloss": "동료·짝"
+        }
+      ],
+      "story": "팀(team) + 짝(mate) → 같은 팀 동료"
+    },
+    "example": {
+      "q": "How do you help new teammates?",
+      "a": "I pair with new teammates on their first ticket so they feel supported.",
+      "a_ko": "새 팀원과 첫 티켓을 같이 진행해서 든든하게 느끼도록 합니다."
+    },
+    "collocations": [
+      "new teammate",
+      "former teammate",
+      "support my teammates"
+    ],
+    "related": [
+      "coworker",
+      "teamwork",
+      "workplace",
+      "onboarding"
+    ],
+    "tip": "coworker보다 '같은 팀'이라는 소속감이 강한 말"
+  },
+  {
+    "id": "d03-A24",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "coworker",
+    "pos": "noun",
+    "ipa": "/ˈkoʊˌwɝːkɚ/",
+    "meaning_ko": "직장 동료",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "part",
+          "gloss": "함께"
+        },
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일"
+        },
+        {
+          "text": "er",
+          "type": "part",
+          "gloss": "사람"
+        }
+      ],
+      "story": "함께(co) 일하는(work) 사람(er) → 직장 동료"
+    },
+    "example": {
+      "q": "How would your coworkers describe you?",
+      "a": "My coworkers would say I'm reliable and always happy to help.",
+      "a_ko": "동료들은 제가 믿음직하고 늘 기꺼이 돕는 사람이라고 말할 겁니다."
+    },
+    "collocations": [
+      "former coworker",
+      "work with coworkers",
+      "coworkers and managers"
+    ],
+    "related": [
+      "teammate",
+      "workplace",
+      "workload",
+      "teamwork"
+    ],
+    "tip": "colleague와 같은 뜻. colleague가 조금 더 격식 있음"
+  },
+  {
+    "id": "d03-A25",
+    "day": 3,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "deadline",
+    "pos": "noun",
+    "ipa": "/ˈdedlaɪn/",
+    "meaning_ko": "마감 기한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dead",
+          "type": "part",
+          "gloss": "넘으면 안 되는 (죽음)"
+        },
+        {
+          "text": "line",
+          "type": "part",
+          "gloss": "선"
+        }
+      ],
+      "story": "넘으면 안 되는 선(dead line) → 넘기면 안 되는 시한 → 마감"
+    },
+    "example": {
+      "q": "How do you handle tight deadlines?",
+      "a": "I prioritize the work and warn my manager early if a deadline is at risk.",
+      "a_ko": "일의 우선순위를 정하고, 마감이 위험하면 매니저에게 일찍 알립니다."
+    },
+    "collocations": [
+      "meet a deadline",
+      "miss a deadline",
+      "tight deadline"
+    ],
+    "related": [
+      "workload",
+      "teammate",
+      "workflow"
+    ],
+    "tip": "meet a deadline = 마감을 지키다. keep a deadline이라고는 하지 않음"
+  }
+]

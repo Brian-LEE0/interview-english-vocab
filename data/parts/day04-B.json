@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "d04-B01",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "submit",
+    "pos": "verb",
+    "ipa": "/səbˈmɪt/",
+    "meaning_ko": "제출하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "아래로 보내다(맡기다) → 판단을 받도록 내놓다 → 제출하다"
+    },
+    "example": {
+      "q": "When can you complete the take-home assignment?",
+      "a": "I can submit the assignment by Friday, including a short README.",
+      "a_ko": "금요일까지 간단한 README를 포함해서 과제를 제출할 수 있습니다."
+    },
+    "collocations": [
+      "submit an application",
+      "submit a pull request",
+      "submit feedback"
+    ],
+    "related": [
+      "submission",
+      "commit",
+      "permit",
+      "admit",
+      "mission"
+    ],
+    "tip": "send보다 공식적인 '제출'. 개발에서는 submit a PR(풀 리퀘스트 올리기)"
+  },
+  {
+    "id": "d04-B02",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "submission",
+    "pos": "noun",
+    "ipa": "/səbˈmɪʃn/",
+    "meaning_ko": "제출(물)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "아래로 보낸 것 → 제출한 것"
+    },
+    "example": {
+      "q": "How do code reviews work on your team?",
+      "a": "Every code submission must pass automated tests before a reviewer looks at it, which saves everyone time.",
+      "a_ko": "모든 코드 제출물은 리뷰어가 보기 전에 자동 테스트를 통과해야 해서, 모두의 시간을 아낄 수 있습니다."
+    },
+    "collocations": [
+      "code submission",
+      "submission deadline",
+      "form submission"
+    ],
+    "related": [
+      "submit",
+      "mission",
+      "permission",
+      "transmission"
+    ],
+    "tip": "'복종'이라는 뜻도 있지만 IT·면접에서는 '제출'로 씀"
+  },
+  {
+    "id": "d04-B03",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "commit",
+    "pos": "verb",
+    "ipa": "/kəˈmɪt/",
+    "meaning_ko": "커밋하다, (commit to) 전념하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께, 완전히"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "라틴어 committere '함께 보내다, 맡기다' → 맡기고 확정하다 → 변경을 확정해 저장하다"
+    },
+    "example": {
+      "q": "How often do you commit your code?",
+      "a": "I commit small changes often, so each commit is easy to review.",
+      "a_ko": "작은 변경을 자주 커밋해서, 커밋 하나하나를 리뷰하기 쉽게 합니다."
+    },
+    "collocations": [
+      "commit changes",
+      "commit to",
+      "commit message"
+    ],
+    "related": [
+      "commitment",
+      "submit",
+      "mission",
+      "permit"
+    ],
+    "tip": "깃에서는 '확정 저장'. commit to + 명사/동명사 = ~에 전념하다(면접용)"
+  },
+  {
+    "id": "d04-B04",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "commitment",
+    "pos": "noun",
+    "ipa": "/kəˈmɪtmənt/",
+    "meaning_ko": "헌신, 약속",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께, 완전히"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "자신을 맡겨 보냄 → 맡은 일에 묶임 → 헌신·약속"
+    },
+    "example": {
+      "q": "Why should we hire you?",
+      "a": "I bring a strong commitment to quality, and I always follow through on what I promise my team.",
+      "a_ko": "품질에 대한 책임감이 강하고, 팀에 약속한 일은 반드시 끝까지 해냅니다."
+    },
+    "collocations": [
+      "commitment to",
+      "make a commitment",
+      "long-term commitment"
+    ],
+    "related": [
+      "commit",
+      "submit",
+      "promise",
+      "mission"
+    ],
+    "tip": "철자 주의: commitment는 t가 하나, committed는 t가 둘"
+  },
+  {
+    "id": "d04-B05",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "mission",
+    "pos": "noun",
+    "ipa": "/ˈmɪʃn/",
+    "meaning_ko": "사명, 임무",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "보내는 일 → 보내져서 맡은 일 → 사명"
+    },
+    "example": {
+      "q": "Why do you want to join our company?",
+      "a": "Your mission to make healthcare data accessible really speaks to me.",
+      "a_ko": "의료 데이터를 누구나 쓸 수 있게 하겠다는 귀사의 사명에 크게 공감합니다."
+    },
+    "collocations": [
+      "company mission",
+      "mission statement",
+      "on a mission to"
+    ],
+    "related": [
+      "mission-critical",
+      "submit",
+      "permission",
+      "message"
+    ],
+    "tip": "지원 동기에서 회사의 mission에 공감한다고 말하면 자연스러움"
+  },
+  {
+    "id": "d04-B06",
+    "day": 4,
+    "level": 3,
+    "set": "B",
+    "family": "F4",
+    "word": "mission-critical",
+    "pos": "adjective",
+    "ipa": "/ˌmɪʃn ˈkrɪtɪkl/",
+    "meaning_ko": "업무에 필수적인(멈추면 안 되는)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "critical",
+          "type": "part",
+          "gloss": "결정적인"
+        }
+      ],
+      "story": "임무 수행에 결정적인 → 멈추면 사업이 멈추는"
+    },
+    "example": {
+      "q": "What kind of systems have you supported in production?",
+      "a": "I was on call for a mission-critical payment system, so I focused on monitoring and fast rollback before adding new features.",
+      "a_ko": "멈추면 안 되는 결제 시스템의 온콜을 맡았기 때문에, 새 기능보다 모니터링과 빠른 롤백을 우선했습니다."
+    },
+    "collocations": [
+      "mission-critical system",
+      "mission-critical workload",
+      "mission-critical data"
+    ],
+    "related": [
+      "mission",
+      "permission",
+      "commit"
+    ],
+    "tip": "important보다 '이게 멈추면 사업이 멈춘다'는 강한 뉘앙스"
+  },
+  {
+    "id": "d04-B07",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "permit",
+    "pos": "verb",
+    "ipa": "/pərˈmɪt/",
+    "meaning_ko": "허락하다, 가능하게 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "통과하여"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "통과해 보내 주다 → 지나가게 허락하다"
+    },
+    "example": {
+      "q": "Do you have any questions for us?",
+      "a": "If time permits, I would love to hear about your team's roadmap.",
+      "a_ko": "시간이 허락한다면 팀의 로드맵에 대해 듣고 싶습니다."
+    },
+    "collocations": [
+      "if time permits",
+      "permit someone to",
+      "work permit"
+    ],
+    "related": [
+      "permission",
+      "submit",
+      "admit",
+      "emit"
+    ],
+    "tip": "if time permits는 면접 끝 질문 시간에 바로 쓸 수 있는 표현. 명사 PER-mit은 '허가증'"
+  },
+  {
+    "id": "d04-B08",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "permission",
+    "pos": "noun",
+    "ipa": "/pərˈmɪʃn/",
+    "meaning_ko": "권한, 허락",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "통과하여"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "통과해 보내 줌 → 허락 → 접근 권한"
+    },
+    "example": {
+      "q": "How do you protect sensitive data?",
+      "a": "I give each service only the permissions it needs, and nothing more.",
+      "a_ko": "각 서비스에 꼭 필요한 권한만 주고, 그 이상은 주지 않습니다."
+    },
+    "collocations": [
+      "access permissions",
+      "grant permission",
+      "read-only permission"
+    ],
+    "related": [
+      "permit",
+      "submission",
+      "mission"
+    ],
+    "tip": "최소 권한 원칙은 principle of least privilege"
+  },
+  {
+    "id": "d04-B09",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "admit",
+    "pos": "verb",
+    "ipa": "/ədˈmɪt/",
+    "meaning_ko": "인정하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~로"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "안으로 들여보내다 → 받아들이다 → (사실을) 인정하다"
+    },
+    "example": {
+      "q": "What is your biggest weakness?",
+      "a": "I admit that I used to say yes to too many tasks at once.",
+      "a_ko": "예전에는 한꺼번에 너무 많은 일을 맡겠다고 했다는 점을 인정합니다."
+    },
+    "collocations": [
+      "admit a mistake",
+      "I have to admit",
+      "admit that"
+    ],
+    "related": [
+      "admittedly",
+      "submit",
+      "permit",
+      "commit"
+    ],
+    "tip": "약점 질문에서 솔직함을 보여 줄 때. admit + -ing도 가능(admit making a mistake)"
+  },
+  {
+    "id": "d04-B10",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "admittedly",
+    "pos": "adverb",
+    "ipa": "/ədˈmɪtɪdli/",
+    "meaning_ko": "솔직히 말하면, 인정하건대",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~로"
+        },
+        {
+          "text": "mitt",
+          "type": "root",
+          "gloss": "보내다 (mit)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "인정된 대로 → 솔직히 인정하자면"
+    },
+    "example": {
+      "q": "How comfortable are you with frontend work?",
+      "a": "Admittedly, frontend is not my strongest area, but I have shipped several React features on my own.",
+      "a_ko": "솔직히 프런트엔드가 제 가장 강한 분야는 아니지만, React 기능을 혼자서 여러 개 출시해 봤습니다."
+    },
+    "collocations": [
+      "admittedly small",
+      "although admittedly",
+      "admittedly, I"
+    ],
+    "related": [
+      "admit",
+      "commit",
+      "permit"
+    ],
+    "tip": "약점을 먼저 인정하고 but으로 강점을 붙이는 답변 구조에 딱 맞음"
+  },
+  {
+    "id": "d04-B11",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "promise",
+    "pos": "verb",
+    "ipa": "/ˈprɑːmɪs/",
+    "meaning_ko": "약속하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "mise",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        }
+      ],
+      "story": "라틴어 promittere '앞으로 내보내다' → 미리 말해 두다 → 약속하다"
+    },
+    "example": {
+      "q": "How do you manage deadlines?",
+      "a": "I never promise a date until I understand the full scope of the work.",
+      "a_ko": "작업 범위를 전부 파악하기 전에는 날짜를 약속하지 않습니다."
+    },
+    "collocations": [
+      "keep a promise",
+      "promise to",
+      "over-promise"
+    ],
+    "related": [
+      "promising",
+      "compromise",
+      "premise",
+      "commit"
+    ],
+    "tip": "under-promise and over-deliver(약속은 적게, 결과는 크게)도 알아 두면 좋음"
+  },
+  {
+    "id": "d04-B12",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "promising",
+    "pos": "adjective",
+    "ipa": "/ˈprɑːmɪsɪŋ/",
+    "meaning_ko": "유망한, 가능성 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "mis",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "앞날을 약속하는 → 기대되는 → 유망한"
+    },
+    "example": {
+      "q": "How did the first test go?",
+      "a": "The early results were promising, so we expanded the test to all users.",
+      "a_ko": "초기 결과가 좋아서 테스트를 전체 사용자로 넓혔습니다."
+    },
+    "collocations": [
+      "promising results",
+      "a promising start",
+      "look promising"
+    ],
+    "related": [
+      "promise",
+      "compromise",
+      "premise"
+    ],
+    "tip": "결과를 과장 없이 긍정적으로 말할 때 좋음"
+  },
+  {
+    "id": "d04-B13",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "message",
+    "pos": "noun",
+    "ipa": "/ˈmesɪdʒ/",
+    "meaning_ko": "메시지, 전하려는 요지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mess",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        },
+        {
+          "text": "age",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "중세 라틴어 missaticum '보낸 것' → 전하는 말 → 메시지"
+    },
+    "example": {
+      "q": "How do you explain technical issues to executives?",
+      "a": "I keep one clear message per slide and save the details for questions.",
+      "a_ko": "슬라이드마다 분명한 메시지를 하나만 두고, 세부 내용은 질문을 받을 때 설명합니다."
+    },
+    "collocations": [
+      "key message",
+      "get the message across",
+      "send a message"
+    ],
+    "related": [
+      "messaging",
+      "mission",
+      "submit"
+    ],
+    "tip": "발음 /ˈmesɪdʒ/ — '메시지'보다 '메시쥐'에 가까움"
+  },
+  {
+    "id": "d04-B14",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "messaging",
+    "pos": "noun",
+    "ipa": "/ˈmesɪdʒɪŋ/",
+    "meaning_ko": "메시징(시스템 간 메시지 전달)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mess",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        },
+        {
+          "text": "ag",
+          "type": "suffix",
+          "gloss": "~것 (age)"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "메시지를 보내기 → 시스템끼리 메시지를 주고받는 구조"
+    },
+    "example": {
+      "q": "How do your services communicate?",
+      "a": "Our services talk through a messaging system like Kafka instead of direct calls.",
+      "a_ko": "서비스끼리 직접 호출하지 않고 Kafka 같은 메시징 시스템을 통해 통신합니다."
+    },
+    "collocations": [
+      "messaging system",
+      "messaging platform",
+      "asynchronous messaging"
+    ],
+    "related": [
+      "message",
+      "emit",
+      "transmit"
+    ],
+    "tip": "message queue(MQ)와 함께 비동기 구조를 설명할 때 씀"
+  },
+  {
+    "id": "d04-B15",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "emit",
+    "pos": "verb",
+    "ipa": "/iˈmɪt/",
+    "meaning_ko": "(이벤트·로그를) 내보내다, 발생시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "밖으로 보내다 → 빛·소리를 내다 → 이벤트·지표를 내보내다"
+    },
+    "example": {
+      "q": "How do you monitor your services?",
+      "a": "Each service emits metrics and structured logs, so we can trace a problem across the system quickly.",
+      "a_ko": "각 서비스가 지표와 구조화된 로그를 내보내서, 시스템 전체에서 문제를 빠르게 추적할 수 있습니다."
+    },
+    "collocations": [
+      "emit events",
+      "emit metrics",
+      "emit a signal"
+    ],
+    "related": [
+      "transmit",
+      "submit",
+      "messaging"
+    ],
+    "tip": "이벤트 기반 코드(emit an event)와 모니터링에서 자주 나옴"
+  },
+  {
+    "id": "d04-B16",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "transmit",
+    "pos": "verb",
+    "ipa": "/trænzˈmɪt/",
+    "meaning_ko": "전송하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너서"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "건너편으로 보내다 → 전송하다"
+    },
+    "example": {
+      "q": "How did you secure the data between the app and the server?",
+      "a": "All data is encrypted with TLS before we transmit it, so it cannot be read in transit.",
+      "a_ko": "모든 데이터는 전송 전에 TLS로 암호화해서, 전송 중에 다른 사람이 읽을 수 없습니다."
+    },
+    "collocations": [
+      "transmit data",
+      "transmit securely",
+      "transmit over the network"
+    ],
+    "related": [
+      "transmission",
+      "emit",
+      "submit",
+      "transport"
+    ],
+    "tip": "send의 기술적인 표현. in transit(전송 중)과 함께 기억"
+  },
+  {
+    "id": "d04-B17",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "transmission",
+    "pos": "noun",
+    "ipa": "/trænzˈmɪʃn/",
+    "meaning_ko": "전송",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너서"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "건너편으로 보내는 일 → 전송"
+    },
+    "example": {
+      "q": "How did you reduce mobile data usage?",
+      "a": "I compressed the images before transmission, which cut data usage by about forty percent.",
+      "a_ko": "전송 전에 이미지를 압축해서 데이터 사용량을 약 40% 줄였습니다."
+    },
+    "collocations": [
+      "data transmission",
+      "transmission error",
+      "during transmission"
+    ],
+    "related": [
+      "transmit",
+      "submission",
+      "permission"
+    ],
+    "tip": "자동차의 '변속기'도 transmission — 동력을 건너 보내는 장치"
+  },
+  {
+    "id": "d04-B18",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "dismiss",
+    "pos": "verb",
+    "ipa": "/dɪsˈmɪs/",
+    "meaning_ko": "묵살하다, 일축하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "멀리 보내 버리다 → 내쫓다 → 의견을 무시하다"
+    },
+    "example": {
+      "q": "How do you handle feedback you disagree with?",
+      "a": "I try not to dismiss feedback right away, because there is often a useful point behind it.",
+      "a_ko": "피드백을 바로 일축하지 않으려고 합니다. 그 뒤에 유용한 지적이 숨어 있는 경우가 많기 때문입니다."
+    },
+    "collocations": [
+      "dismiss an idea",
+      "dismiss concerns",
+      "be dismissed"
+    ],
+    "related": [
+      "dismissive",
+      "mission",
+      "submit",
+      "admit"
+    ],
+    "tip": "'해고하다'라는 뜻도 있으니 문맥 주의"
+  },
+  {
+    "id": "d04-B19",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "dismissive",
+    "pos": "adjective",
+    "ipa": "/dɪsˈmɪsɪv/",
+    "meaning_ko": "무시하는, 대수롭지 않게 여기는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "멀리 보내 버리는 → 대수롭지 않게 여기는"
+    },
+    "example": {
+      "q": "What did you learn in your first year as an engineer?",
+      "a": "Early on, I was a bit dismissive of testing, but a production bug quickly changed my mind.",
+      "a_ko": "초반에는 테스트를 좀 대수롭지 않게 여겼는데, 운영 환경에서 버그를 겪고 금방 생각이 바뀌었습니다."
+    },
+    "collocations": [
+      "dismissive of",
+      "dismissive attitude",
+      "sound dismissive"
+    ],
+    "related": [
+      "dismiss",
+      "mission",
+      "admittedly"
+    ],
+    "tip": "be dismissive of ~ 형태로 씀. 예전 태도를 반성하는 답변에 쓰기 좋음"
+  },
+  {
+    "id": "d04-B20",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "on-premises",
+    "pos": "adjective",
+    "ipa": "/ˌɑːn ˈpremɪsɪz/",
+    "meaning_ko": "온프레미스(사내 서버에 직접 구축한)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "on",
+          "type": "part",
+          "gloss": "~에서"
+        },
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "mis",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        },
+        {
+          "text": "es",
+          "type": "suffix",
+          "gloss": "복수"
+        }
+      ],
+      "story": "앞에 보내 둔(앞서 말한) 것 → 법률 문서의 '앞서 말한 부동산' → 건물·부지 → 회사 건물 안의 서버에서"
+    },
+    "example": {
+      "q": "Have you worked on cloud migrations?",
+      "a": "Yes, I helped move our on-premises databases to AWS, which cut our hardware costs significantly.",
+      "a_ko": "네, 사내에 구축된 데이터베이스를 AWS로 옮기는 일을 도왔고, 하드웨어 비용을 크게 줄였습니다."
+    },
+    "collocations": [
+      "on-premises servers",
+      "on-premises to cloud",
+      "on-premises deployment"
+    ],
+    "related": [
+      "premise",
+      "decommission",
+      "mission"
+    ],
+    "tip": "흔히 on-prem으로 줄여 말함. on-premise도 많이 쓰지만 엄밀히는 premises가 맞음"
+  },
+  {
+    "id": "d04-B21",
+    "day": 4,
+    "level": 2,
+    "set": "B",
+    "family": "F4",
+    "word": "decommission",
+    "pos": "verb",
+    "ipa": "/ˌdiːkəˈmɪʃn/",
+    "meaning_ko": "(시스템을) 폐기하다, 운영 종료하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "해제, 반대로"
+        },
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께, 완전히"
+        },
+        {
+          "text": "miss",
+          "type": "root",
+          "gloss": "보내다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "commission '임무를 맡김'(com + mittere) + de '해제' → 맡긴 임무를 거두다 → 운영을 끝내다"
+    },
+    "example": {
+      "q": "What happened to the old system after the migration?",
+      "a": "After two weeks of parallel running, we decommissioned the old servers and saved on licensing costs.",
+      "a_ko": "2주 동안 병행 운영한 뒤 기존 서버를 폐기해서 라이선스 비용을 절감했습니다."
+    },
+    "collocations": [
+      "decommission a server",
+      "decommission legacy systems",
+      "be decommissioned"
+    ],
+    "related": [
+      "mission",
+      "commit",
+      "permission",
+      "on-premises"
+    ],
+    "tip": "shut down보다 '계획적으로 운영을 끝내고 정리한다'는 뜻"
+  },
+  {
+    "id": "d04-B22",
+    "day": 4,
+    "level": 3,
+    "set": "B",
+    "family": "F4",
+    "word": "remit",
+    "pos": "noun",
+    "ipa": "/ˈriːmɪt/",
+    "meaning_ko": "(맡은) 업무 범위, 권한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "라틴어 remittere '돌려보내다' → 안건을 담당자에게 넘기다 → 넘겨받아 맡은 범위"
+    },
+    "example": {
+      "q": "How much ownership did you take in that role?",
+      "a": "Infrastructure costs were officially outside my remit, but I noticed waste, raised it with my manager, and we cut the bill by twenty percent.",
+      "a_ko": "인프라 비용은 공식적으로 제 업무 범위 밖이었지만, 낭비를 발견해 매니저에게 알렸고 결국 비용을 20% 줄였습니다."
+    },
+    "collocations": [
+      "within my remit",
+      "outside my remit",
+      "broad remit"
+    ],
+    "related": [
+      "submit",
+      "commit",
+      "permit",
+      "admit"
+    ],
+    "tip": "주로 영국식 격식체. 미국에서는 scope나 responsibilities가 더 흔함"
+  },
+  {
+    "id": "d04-B23",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "get back to",
+    "pos": "phrasal verb",
+    "ipa": "/ˌɡet ˈbæk tuː/",
+    "meaning_ko": "(확인 후) 다시 연락하다, 다시 답하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "get",
+          "type": "part",
+          "gloss": "가다, 되다"
+        },
+        {
+          "text": "back",
+          "type": "part",
+          "gloss": "되돌아"
+        },
+        {
+          "text": "to",
+          "type": "part",
+          "gloss": "~에게"
+        }
+      ],
+      "story": "~에게 되돌아가다 → 확인한 뒤 다시 연락하다"
+    },
+    "example": {
+      "q": "When would you be able to start?",
+      "a": "Let me check my notice period and get back to you by tomorrow.",
+      "a_ko": "퇴사 통보 기간을 확인하고 내일까지 다시 말씀드리겠습니다."
+    },
+    "collocations": [
+      "get back to you",
+      "get back to someone on",
+      "get back to work"
+    ],
+    "related": [
+      "check in",
+      "reach out",
+      "loop in"
+    ],
+    "tip": "바로 답하기 어려운 질문에는 얼버무리지 말고 Let me get back to you on that."
+  },
+  {
+    "id": "d04-B24",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "speak up",
+    "pos": "phrasal verb",
+    "ipa": "/ˌspiːk ˈʌp/",
+    "meaning_ko": "(숨기지 않고) 의견을 말하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "speak",
+          "type": "part",
+          "gloss": "말하다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로, 드러나게"
+        }
+      ],
+      "story": "소리를 높여 말하다 → 숨기지 않고 의견을 내다"
+    },
+    "example": {
+      "q": "What do you do when you see a risk in a plan?",
+      "a": "I speak up early, even if I am the most junior person in the room.",
+      "a_ko": "그 자리에서 제가 가장 주니어라도 일찍 의견을 말합니다."
+    },
+    "collocations": [
+      "speak up about",
+      "speak up in meetings",
+      "feel safe to speak up"
+    ],
+    "related": [
+      "point out",
+      "bring up",
+      "push back"
+    ],
+    "tip": "Could you speak up? 는 '조금 크게 말씀해 주시겠어요?'라는 뜻"
+  },
+  {
+    "id": "d04-B25",
+    "day": 4,
+    "level": 1,
+    "set": "B",
+    "family": "F4",
+    "word": "check in",
+    "pos": "phrasal verb",
+    "ipa": "/ˌtʃek ˈɪn/",
+    "meaning_ko": "(진행 상황을) 확인하다, 잠깐 이야기 나누다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "check",
+          "type": "part",
+          "gloss": "확인하다"
+        },
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "안으로, 들러서"
+        }
+      ],
+      "story": "들러서 확인하다 → 상대에게 잠깐 연락해 진행 상황을 확인하다"
+    },
+    "example": {
+      "q": "How do you support a teammate who is struggling?",
+      "a": "I check in with them every morning and offer to pair on the hardest part.",
+      "a_ko": "매일 아침 상황을 물어보고, 가장 어려운 부분은 같이 작업하자고 제안합니다."
+    },
+    "collocations": [
+      "check in with",
+      "a quick check-in",
+      "weekly check-in"
+    ],
+    "related": [
+      "reach out",
+      "get back to",
+      "loop in"
+    ],
+    "tip": "명사는 하이픈: a weekly check-in(주간 점검 미팅). 호텔 '체크인'과 같은 말"
+  }
+]

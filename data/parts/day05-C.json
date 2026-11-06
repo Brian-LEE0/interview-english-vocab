@@ -1,0 +1,1124 @@
+[
+ {
+  "id": "d05-C01",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "obtain",
+  "pos": "verb",
+  "ipa": "/əbˈteɪn/",
+  "meaning_ko": "얻다, 받아 오다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~을 향해"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "obtinere = ~을 향해 붙잡아 쥐다 → 손에 넣다 → 얻다"
+  },
+  "example": {
+   "q": "How does your app authenticate users?",
+   "a": "The client obtains a token from our auth server at login.",
+   "a_ko": "로그인할 때 클라이언트가 인증 서버에서 토큰을 받아 옵니다."
+  },
+  "collocations": [
+   "obtain a token",
+   "obtain approval",
+   "obtain a certification"
+  ],
+  "related": [
+   "retain",
+   "pertain",
+   "entertain",
+   "tenant"
+  ],
+  "tip": "get의 격식체. 자격증·승인을 '취득하다'에도 씀"
+ },
+ {
+  "id": "d05-C02",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "continue",
+  "pos": "verb",
+  "ipa": "/kənˈtɪnjuː/",
+  "meaning_ko": "계속하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "ue",
+     "type": "suffix",
+     "gloss": "동사 어미"
+    }
+   ],
+   "story": "continere(함께 붙잡고 있다) → continuus(끊김 없이 이어진) → 계속하다"
+  },
+  "example": {
+   "q": "Why do you want to stay in backend development?",
+   "a": "I want to continue building systems that handle real scale.",
+   "a_ko": "실제 대규모 트래픽을 처리하는 시스템을 계속 만들고 싶습니다."
+  },
+  "collocations": [
+   "continue to grow",
+   "continue working on",
+   "continue learning"
+  ],
+  "related": [
+   "continuous",
+   "retain",
+   "obtain",
+   "tenant"
+  ],
+  "tip": "continue to do / continue doing 둘 다 가능"
+ },
+ {
+  "id": "d05-C03",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "continuous",
+  "pos": "adjective",
+  "ipa": "/kənˈtɪnjuəs/",
+  "meaning_ko": "지속적인, 끊김 없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "uous",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "함께 붙잡고 있는 → 끊기지 않고 이어진 → 지속적인"
+  },
+  "example": {
+   "q": "What does your CI/CD setup look like?",
+   "a": "We use continuous integration, so every commit runs the full test suite.",
+   "a_ko": "지속적 통합(CI)을 써서 커밋마다 전체 테스트가 돌아갑니다."
+  },
+  "collocations": [
+   "continuous integration (CI)",
+   "continuous delivery",
+   "continuous improvement"
+  ],
+  "related": [
+   "continue",
+   "content",
+   "retention",
+   "obtain"
+  ],
+  "tip": "continuous(끊김 없이 계속) vs continual(자주 반복해서) 차이 주의"
+ },
+ {
+  "id": "d05-C04",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "content",
+  "pos": "noun",
+  "ipa": "/ˈkɑːntent/",
+  "meaning_ko": "콘텐츠, 내용",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "continere(담고 있다)의 과거분사 contentum → 안에 담긴 것 → 내용·콘텐츠"
+  },
+  "example": {
+   "q": "What kind of product did you work on?",
+   "a": "I built a content management system for a news website.",
+   "a_ko": "뉴스 사이트용 콘텐츠 관리 시스템(CMS)을 만들었습니다."
+  },
+  "collocations": [
+   "content management system (CMS)",
+   "user-generated content",
+   "content delivery network (CDN)"
+  ],
+  "related": [
+   "continue",
+   "continuous",
+   "retain",
+   "tenant"
+  ],
+  "tip": "명사 /ˈkɑːn.tent/(내용), 형용사 /kənˈtent/(만족한) — 강세 위치가 다름"
+ },
+ {
+  "id": "d05-C05",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "retain",
+  "pos": "verb",
+  "ipa": "/rɪˈteɪn/",
+  "meaning_ko": "유지하다, (인재·지식을) 붙잡아 두다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에·다시"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "retinere = 뒤에서 꽉 쥐고 있다 → 놓치지 않고 간직하다 → 유지하다"
+  },
+  "example": {
+   "q": "How do you make sure knowledge isn't lost when people leave?",
+   "a": "I write short design docs for every major choice, so the team retains context even after people move on.",
+   "a_ko": "중요한 결정마다 짧은 설계 문서를 남겨서, 사람이 떠나도 팀이 맥락을 잃지 않게 합니다."
+  },
+  "collocations": [
+   "retain talent",
+   "retain knowledge",
+   "retain customers"
+  ],
+  "related": [
+   "retention",
+   "obtain",
+   "continue",
+   "tenant"
+  ],
+  "tip": "keep의 격식체. 인재 유지(retain talent)는 면접관이 좋아하는 화제"
+ },
+ {
+  "id": "d05-C06",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "retention",
+  "pos": "noun",
+  "ipa": "/rɪˈtenʃən/",
+  "meaning_ko": "보존(기간), 유지율",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에·다시"
+    },
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "뒤에서 쥐고 있음 → 붙잡아 둠 → 보존·유지"
+  },
+  "example": {
+   "q": "How did you reduce your storage costs?",
+   "a": "I set a thirty-day retention policy for debug logs, which cut our storage bill by about half.",
+   "a_ko": "디버그 로그 보존 기간을 30일로 정해서 스토리지 비용을 절반 정도 줄였습니다."
+  },
+  "collocations": [
+   "data retention",
+   "retention policy",
+   "user retention"
+  ],
+  "related": [
+   "retain",
+   "obtain",
+   "continuous",
+   "tenant"
+  ],
+  "tip": "IT에서는 '데이터 보존 기간', 서비스 지표에서는 '사용자 유지율'"
+ },
+ {
+  "id": "d05-C07",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "tenant",
+  "pos": "noun",
+  "ipa": "/ˈtenənt/",
+  "meaning_ko": "테넌트 (서비스를 함께 쓰는 고객 단위)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "고대 프랑스어 tenir(보유하다)의 현재분사 → 땅을 쥐고 있는 사람 → 세입자 → 시스템을 빌려 쓰는 고객 단위"
+  },
+  "example": {
+   "q": "What was challenging about your SaaS platform?",
+   "a": "Because hundreds of tenants shared one cluster, I had to make sure one tenant's traffic spike never slowed down the others.",
+   "a_ko": "수백 개 테넌트가 클러스터 하나를 함께 써서, 한 테넌트의 트래픽 급증이 다른 테넌트를 느리게 만들지 않도록 해야 했습니다."
+  },
+  "collocations": [
+   "multi-tenant",
+   "tenant isolation",
+   "tenant ID"
+  ],
+  "related": [
+   "tenet",
+   "untenable",
+   "retain",
+   "content"
+  ],
+  "tip": "원래 뜻은 '세입자'. SaaS에서는 고객사 하나 = tenant 하나"
+ },
+ {
+  "id": "d05-C08",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "pertain",
+  "pos": "verb",
+  "ipa": "/pərˈteɪn/",
+  "meaning_ko": "(~에) 관련되다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히·끝까지"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "pertinere = 끝까지 뻗어 닿아 있다 → ~에 속하다 → 관련되다"
+  },
+  "example": {
+   "q": "Do you have any questions for us?",
+   "a": "Yes, one question pertains to the on-call rotation: how often would I be on call in the first year?",
+   "a_ko": "네, 당직 순번에 관한 질문이 하나 있습니다. 첫해에는 얼마나 자주 당직을 서게 되나요?"
+  },
+  "collocations": [
+   "pertain to",
+   "pertaining to",
+   "issues pertaining to"
+  ],
+  "related": [
+   "pertinent",
+   "retain",
+   "obtain",
+   "entertain"
+  ],
+  "tip": "relate to의 격식체. 'pertaining to ~'(~에 관한)로 자주 씀"
+ },
+ {
+  "id": "d05-C09",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "pertinent",
+  "pos": "adjective",
+  "ipa": "/ˈpɜːrtnənt/",
+  "meaning_ko": "관련 있는, 적절한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히·끝까지"
+    },
+    {
+     "text": "tin",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "pertinere(~에 닿아 있다) → 딱 관련된 → 적절한"
+  },
+  "example": {
+   "q": "How do you write a good bug report?",
+   "a": "I attach only the pertinent logs and steps to reproduce, so the next engineer doesn't have to dig through noise.",
+   "a_ko": "관련 있는 로그와 재현 단계만 첨부해서, 다음 엔지니어가 불필요한 정보를 뒤질 필요가 없게 합니다."
+  },
+  "collocations": [
+   "pertinent information",
+   "pertinent details",
+   "highly pertinent"
+  ],
+  "related": [
+   "pertain",
+   "retain",
+   "tenant",
+   "tenet"
+  ],
+  "tip": "relevant의 격식체. 반대말 impertinent는 '무례한'이라는 뜻이니 주의"
+ },
+ {
+  "id": "d05-C10",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "entertain",
+  "pos": "verb",
+  "ipa": "/ˌentərˈteɪn/",
+  "meaning_ko": "(생각·제안을) 고려하다, 즐겁게 하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "enter",
+     "type": "prefix",
+     "gloss": "사이에 (entre ← inter)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (ten ← tenere)"
+    }
+   ],
+   "story": "고대 프랑스어 entretenir = 사이에서 붙들고 있다 → 유지하다·대접하다 → 생각을 마음에 품다 → 고려하다"
+  },
+  "example": {
+   "q": "What do you do when a teammate proposes a different approach?",
+   "a": "I'm always willing to entertain other approaches, as long as we compare them with real data.",
+   "a_ko": "실제 데이터로 비교만 한다면 다른 접근 방식도 언제든 기꺼이 고려합니다."
+  },
+  "collocations": [
+   "entertain an idea",
+   "entertain a proposal",
+   "entertain the possibility"
+  ],
+  "related": [
+   "retain",
+   "obtain",
+   "pertain",
+   "tenet"
+  ],
+  "tip": "면접에서는 '즐겁게 하다'보다 '(생각을) 고려하다'라는 뜻으로 씀"
+ },
+ {
+  "id": "d05-C11",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "tenet",
+  "pos": "noun",
+  "ipa": "/ˈtenɪt/",
+  "meaning_ko": "신조, 원칙",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "et",
+     "type": "suffix",
+     "gloss": "그가 ~한다 (라틴어 3인칭 어미)"
+    }
+   ],
+   "story": "라틴어 tenet = '그는 (그렇게) 굳게 쥐고 있다' → 굳게 지키는 믿음 → 신조"
+  },
+  "example": {
+   "q": "What engineering values matter most to you?",
+   "a": "A core tenet of mine is that every alert should be actionable; if nobody needs to act on it, I'd rather delete it.",
+   "a_ko": "제 핵심 신조 중 하나는 모든 알림이 행동으로 이어져야 한다는 것입니다. 아무도 대응할 필요가 없는 알림이라면 차라리 지웁니다."
+  },
+  "collocations": [
+   "a core tenet",
+   "basic tenets",
+   "the tenets of agile"
+  ],
+  "related": [
+   "tenant",
+   "untenable",
+   "retain",
+   "pertinent"
+  ],
+  "tip": "principle보다 '굳게 믿고 지키는 신조' 느낌. tenant(/ˈtenənt/)와 발음 구분"
+ },
+ {
+  "id": "d05-C12",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "untenable",
+  "pos": "adjective",
+  "ipa": "/ʌnˈtenəbl/",
+  "meaning_ko": "유지할 수 없는, 버틸 수 없는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "~아닌"
+    },
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "붙들고 있을 수 없는 → (입장·상황을) 지킬 수 없는 → 더는 버틸 수 없는"
+  },
+  "example": {
+   "q": "Why did you push for the rewrite?",
+   "a": "With releases taking four hours and failing half the time, the situation had become untenable, so I proposed breaking up the monolith in stages.",
+   "a_ko": "배포가 네 시간씩 걸리고 절반은 실패하는 상황이라 더는 버틸 수 없어서, 모놀리스를 단계적으로 나누자고 제안했습니다."
+  },
+  "collocations": [
+   "an untenable situation",
+   "an untenable position",
+   "become untenable"
+  ],
+  "related": [
+   "tenet",
+   "tenant",
+   "retain",
+   "continue"
+  ],
+  "tip": "unsustainable과 비슷. '이대로는 안 된다'를 격식 있게 말할 때"
+ },
+ {
+  "id": "d05-C13",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "presume",
+  "pos": "verb",
+  "ipa": "/prɪˈzuːm/",
+  "meaning_ko": "(확인 없이) 짐작하다, 추정하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "praesumere = 미리 취하다 → 확인하기 전에 사실로 받아들이다 → 짐작하다"
+  },
+  "example": {
+   "q": "How do you approach a ticket with vague requirements?",
+   "a": "I don't presume I know what the user wants; I ask the product manager a few quick questions first.",
+   "a_ko": "사용자가 원하는 걸 안다고 짐작하지 않고, 먼저 PM에게 짧게 몇 가지 질문합니다."
+  },
+  "collocations": [
+   "presume that",
+   "I presume",
+   "presumed to be"
+  ],
+  "related": [
+   "presumptuous",
+   "subsume",
+   "consume",
+   "resume"
+  ],
+  "tip": "assume과 비슷하지만 presume은 '어느 정도 근거가 있는 짐작'"
+ },
+ {
+  "id": "d05-C14",
+  "day": 5,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "presumptuous",
+  "pos": "adjective",
+  "ipa": "/prɪˈzʌmptʃuəs/",
+  "meaning_ko": "주제넘은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tuous",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "미리 취해 버리는 → 허락도 받기 전에 나서는 → 주제넘은"
+  },
+  "example": {
+   "q": "Do you have any questions for us?",
+   "a": "I don't want to be presumptuous, but if I join the team, could you tell me what my first project would likely be?",
+   "a_ko": "주제넘은 질문일 수도 있지만, 혹시 제가 팀에 합류하게 된다면 첫 프로젝트는 무엇이 될지 여쭤봐도 될까요?"
+  },
+  "collocations": [
+   "I don't want to be presumptuous, but",
+   "seem presumptuous",
+   "a presumptuous question"
+  ],
+  "related": [
+   "presume",
+   "subsume",
+   "consumption",
+   "resumption"
+  ],
+  "tip": "'I don't want to be presumptuous, but ~'는 조심스럽게 질문을 꺼내는 통문장"
+ },
+ {
+  "id": "d05-C15",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "subsume",
+  "pos": "verb",
+  "ipa": "/səbˈsuːm/",
+  "meaning_ko": "(더 큰 것에) 포함시키다, 흡수하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "sume",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    }
+   ],
+   "story": "아래로 취해 넣다 → 더 큰 범주 안에 포함시키다"
+  },
+  "example": {
+   "q": "How did you simplify the codebase?",
+   "a": "We had three logging libraries, so I subsumed them into one shared module with a single configuration.",
+   "a_ko": "로깅 라이브러리가 세 개나 있어서, 설정 하나로 관리되는 공통 모듈 하나로 흡수해 통합했습니다."
+  },
+  "collocations": [
+   "subsume into",
+   "be subsumed under",
+   "subsume a role"
+  ],
+  "related": [
+   "presume",
+   "consume",
+   "resume",
+   "presumptuous"
+  ],
+  "tip": "merge보다 '큰 쪽이 작은 쪽을 품는다'는 느낌. 문어체"
+ },
+ {
+  "id": "d05-C16",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "ability",
+  "pos": "noun",
+  "ipa": "/əˈbɪləti/",
+  "meaning_ko": "능력",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "abil",
+     "type": "root",
+     "gloss": "다루기 쉬운 (habilis ← habere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "habere(쥐다) → habilis(손에 쥐고 다루기 쉬운) → habilitas → 고대 프랑스어 ableté → 능력"
+  },
+  "example": {
+   "q": "What makes you a good team player?",
+   "a": "My ability to explain technical ideas simply helps the whole team.",
+   "a_ko": "기술적인 내용을 쉽게 설명하는 능력이 팀 전체에 도움이 됩니다."
+  },
+  "collocations": [
+   "ability to + 동사",
+   "to the best of my ability",
+   "leadership ability"
+  ],
+  "related": [
+   "enable",
+   "disable",
+   "exhibit",
+   "prohibit"
+  ],
+  "tip": "ability to do. 'to the best of my ability'(최선을 다해)도 함께 외우기"
+ },
+ {
+  "id": "d05-C17",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "enable",
+  "pos": "verb",
+  "ipa": "/ɪˈneɪbl/",
+  "meaning_ko": "가능하게 하다, (기능을) 켜다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~하게 만들다"
+    },
+    {
+     "text": "able",
+     "type": "root",
+     "gloss": "할 수 있는 (habilis ← habere)"
+    }
+   ],
+   "story": "할 수 있게 만들다 → 가능하게 하다 → 기능을 켜다"
+  },
+  "example": {
+   "q": "How do you release risky features?",
+   "a": "I hide them behind feature flags and enable them gradually.",
+   "a_ko": "위험한 기능은 피처 플래그 뒤에 숨겨 두고 조금씩 켭니다."
+  },
+  "collocations": [
+   "enable a feature",
+   "enable the team to",
+   "enable logging"
+  ],
+  "related": [
+   "disable",
+   "ability",
+   "exhibit",
+   "prohibit"
+  ],
+  "tip": "enable A to do = A가 ~할 수 있게 하다. 설정을 '켜다'로도 씀"
+ },
+ {
+  "id": "d05-C18",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "disable",
+  "pos": "verb",
+  "ipa": "/dɪsˈeɪbl/",
+  "meaning_ko": "(기능을) 끄다, 비활성화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "반대로·없애다"
+    },
+    {
+     "text": "able",
+     "type": "root",
+     "gloss": "할 수 있는 (habilis ← habere)"
+    }
+   ],
+   "story": "할 수 있는 상태를 없애다 → 못 하게 하다 → 기능을 끄다"
+  },
+  "example": {
+   "q": "What did you do first during the incident?",
+   "a": "I disabled the new feature flag right away to stop the errors.",
+   "a_ko": "오류를 멈추려고 새 기능 플래그부터 바로 껐습니다."
+  },
+  "collocations": [
+   "disable a feature",
+   "disable caching",
+   "temporarily disable"
+  ],
+  "related": [
+   "enable",
+   "ability",
+   "prohibit",
+   "exhibit"
+  ],
+  "tip": "turn off의 IT 용어. 명사 disability는 '장애'라는 뜻이니 문맥 주의"
+ },
+ {
+  "id": "d05-C19",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "debt",
+  "pos": "noun",
+  "ipa": "/det/",
+  "meaning_ko": "빚, 부채",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "debt",
+     "type": "root",
+     "gloss": "빚지다 (debere ← de + habere)"
+    }
+   ],
+   "story": "de(떨어져) + habere(가지다) → debere(남의 것을 가지고 있다 = 빚지다) → debitum → 빚 → 기술 부채"
+  },
+  "example": {
+   "q": "How do you balance new features and code quality?",
+   "a": "I set aside some time each sprint to pay down technical debt.",
+   "a_ko": "스프린트마다 일정 시간을 떼어 기술 부채를 갚습니다."
+  },
+  "collocations": [
+   "technical debt",
+   "pay down debt",
+   "accumulate debt"
+  ],
+  "related": [
+   "indebted",
+   "duty",
+   "due",
+   "endeavor"
+  ],
+  "tip": "b는 묵음 /det/. 라틴어 debitum을 따라 철자에만 b를 다시 넣은 것"
+ },
+ {
+  "id": "d05-C20",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "indebted",
+  "pos": "adjective",
+  "ipa": "/ɪnˈdetɪd/",
+  "meaning_ko": "신세를 진, (은혜를 입어) 고마운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "debt",
+     "type": "root",
+     "gloss": "빚 (debere ← de + habere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "빚 안에 들어간 → 빚진 → 은혜를 입은"
+  },
+  "example": {
+   "q": "Who has shaped your career most?",
+   "a": "I'm deeply indebted to my first mentor, who taught me to read code before writing it.",
+   "a_ko": "첫 멘토에게 큰 신세를 졌습니다. 코드를 쓰기 전에 먼저 읽는 법을 가르쳐 주셨거든요."
+  },
+  "collocations": [
+   "indebted to",
+   "deeply indebted",
+   "forever indebted"
+  ],
+  "related": [
+   "debt",
+   "duty",
+   "due",
+   "endeavor"
+  ],
+  "tip": "grateful보다 '은혜를 입었다'는 깊은 감사. b는 묵음"
+ },
+ {
+  "id": "d05-C21",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "duty",
+  "pos": "noun",
+  "ipa": "/ˈduːti/",
+  "meaning_ko": "직무, 의무",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "du",
+     "type": "root",
+     "gloss": "빚진·마땅한 (debere)"
+    },
+    {
+     "text": "ty",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "debere(빚지다) → 고대 프랑스어 deu(마땅히 해야 할) → 해야 할 일 → 직무·의무"
+  },
+  "example": {
+   "q": "What are your main duties now?",
+   "a": "My main duty is building APIs, and I also review most of the team's pull requests.",
+   "a_ko": "주된 업무는 API 개발이고, 팀 풀 리퀘스트도 대부분 제가 리뷰합니다."
+  },
+  "collocations": [
+   "main duties",
+   "on duty",
+   "duties and responsibilities"
+  ],
+  "related": [
+   "due",
+   "debt",
+   "indebted",
+   "endeavor"
+  ],
+  "tip": "'맡은 업무 목록'에 가까운 말. 답변에서는 duties 뒤에 성과를 붙여 말하기"
+ },
+ {
+  "id": "d05-C22",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "due",
+  "pos": "adjective",
+  "ipa": "/duː/",
+  "meaning_ko": "~때문인, (기한이) 예정된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "due",
+     "type": "root",
+     "gloss": "빚진·마땅한 (debere)"
+    }
+   ],
+   "story": "debere(빚지다)의 과거분사 → 고대 프랑스어 deu(갚아야 할) → 기한이 된 → ~에 돌려야 할(~때문인)"
+  },
+  "example": {
+   "q": "Why did you leave your last company?",
+   "a": "I left due to a reorganization that removed my team.",
+   "a_ko": "제 팀이 없어지는 조직 개편 때문에 퇴사했습니다."
+  },
+  "collocations": [
+   "due to",
+   "due date",
+   "in due course"
+  ],
+  "related": [
+   "duty",
+   "debt",
+   "indebted",
+   "endeavor"
+  ],
+  "tip": "due to + 명사 = ~때문에. 퇴사 이유를 부정적이지 않게 설명할 때 좋음"
+ },
+ {
+  "id": "d05-C23",
+  "day": 5,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "endeavor",
+  "pos": "noun",
+  "ipa": "/ɪnˈdevər/",
+  "meaning_ko": "노력, 시도",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~안에"
+    },
+    {
+     "text": "deavor",
+     "type": "root",
+     "gloss": "의무 (devoir ← debere)"
+    }
+   ],
+   "story": "고대 프랑스어 mettre en deveir(의무로 삼다) → 의무로 여기고 힘쓰다 → 노력·시도"
+  },
+  "example": {
+   "q": "What do you do outside of work?",
+   "a": "My latest endeavor outside work is an open-source library for parsing invoices, which now has a few hundred users.",
+   "a_ko": "요즘 업무 외에 하고 있는 일은 청구서를 파싱하는 오픈소스 라이브러리로, 지금은 사용자가 수백 명 정도 됩니다."
+  },
+  "collocations": [
+   "in all my endeavors",
+   "a new endeavor",
+   "make every endeavor"
+  ],
+  "related": [
+   "duty",
+   "due",
+   "debt",
+   "indebted"
+  ],
+  "tip": "영국식 철자는 endeavour. effort보다 '도전·시도'에 무게"
+ },
+ {
+  "id": "d05-C24",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "feedback",
+  "pos": "noun",
+  "ipa": "/ˈfiːdbæk/",
+  "meaning_ko": "피드백, 의견",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feed",
+     "type": "part",
+     "gloss": "먹이다·공급하다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "되돌려"
+    }
+   ],
+   "story": "출력을 다시 입력으로 되먹이다(전자공학 용어) → 결과에 대한 의견"
+  },
+  "example": {
+   "q": "How do you improve as an engineer?",
+   "a": "I ask for feedback after every project and act on it quickly.",
+   "a_ko": "프로젝트가 끝날 때마다 피드백을 요청하고 바로 반영합니다."
+  },
+  "collocations": [
+   "ask for feedback",
+   "constructive feedback",
+   "give feedback"
+  ],
+  "related": [
+   "grow",
+   "upskill",
+   "learning curve"
+  ],
+  "tip": "셀 수 없는 명사: a feedback (X) → some feedback / a piece of feedback"
+ },
+ {
+  "id": "d05-C25",
+  "day": 5,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "lessons learned",
+  "pos": "phrase",
+  "ipa": "/ˈlesənz ˌlɝːnd/",
+  "meaning_ko": "얻은 교훈",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lessons",
+     "type": "part",
+     "gloss": "배움 (라틴어 lectio 읽기)"
+    },
+    {
+     "text": "learned",
+     "type": "part",
+     "gloss": "배운 (고대 영어 leornian)"
+    }
+   ],
+   "story": "읽고 배운 것 → 경험에서 얻은 교훈"
+  },
+  "example": {
+   "q": "What did you learn from that failed project?",
+   "a": "The main lessons learned were to test early and share risks sooner.",
+   "a_ko": "가장 큰 교훈은 일찍 테스트하고 위험을 더 빨리 공유하는 것이었습니다."
+  },
+  "collocations": [
+   "share lessons learned",
+   "key lessons learned"
+  ],
+  "related": [
+   "lecture",
+   "collect",
+   "select"
+  ],
+  "tip": "실패 경험 질문의 답을 마무리할 때 쓰는 정석 표현"
+ }
+]

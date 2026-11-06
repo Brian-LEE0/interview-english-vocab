@@ -1,0 +1,669 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#EEF1F4">
+<title>면접영어 어원 단어장</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<style>
+:root{
+  --ink:#16233B; --ink-2:#4A5872; --paper:#EEF1F4; --card:#FFFFFF; --line:#C9D1DB;
+  --prefix:#2F5BD3; --root:#B9770E; --suffix:#127A68; --ok:#127A68; --bad:#C0392B;
+  --display:"Bricolage Grotesque","Pretendard",sans-serif;
+  --body:"Pretendard",system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  --tab:60px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--prefix);outline-offset:2px;border-radius:4px}
+[hidden]{display:none!important}
+
+/* top bar */
+.bar{display:flex;align-items:center;gap:24px;padding:14px 32px;border-bottom:1px solid var(--line);background:var(--paper)}
+.brand{font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:-.02em}
+.brand span{color:var(--root)}
+.bar nav{display:flex;gap:4px;margin-left:auto}
+.bar nav button{background:none;border:0;color:var(--ink-2);padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer}
+.bar nav button[aria-current]{background:var(--ink);color:#fff}
+.badge{display:inline-block;min-width:18px;padding:0 5px;margin-left:4px;border-radius:9px;background:var(--root);color:#fff;font-size:11px;line-height:18px;text-align:center}
+.daychip{display:none;margin-left:auto;font-family:var(--mono);font-size:12px;border:1px solid var(--line);border-radius:999px;padding:3px 10px;color:var(--ink-2);background:none}
+
+.wrap{display:grid;grid-template-columns:260px minmax(0,1fr);gap:32px;max-width:1180px;margin:0 auto;padding:32px}
+.wrap.single{grid-template-columns:minmax(0,760px);justify-content:center}
+
+/* rail */
+.rail h2{font-size:13px;font-weight:600;color:var(--ink-2);margin:0 0 10px;letter-spacing:.04em}
+.levels{display:flex;flex-direction:column;gap:10px;margin-bottom:10px}
+.lvname{display:block;font-size:12px;color:var(--ink-2);margin-bottom:4px}
+.days{display:grid;grid-template-columns:repeat(10,1fr);gap:3px}
+.days button{display:grid;place-items:center;aspect-ratio:1;border-radius:6px;font-family:var(--mono);font-size:12px;border:1px solid var(--line);color:var(--ink-2);background:transparent;padding:0;cursor:pointer}
+.days button.part{background:#DCE3EC}
+.days button.done{background:var(--ink);border-color:var(--ink);color:#fff}
+.days button.now{border:2px solid var(--root);color:var(--root);font-weight:600}
+.days button.done.now{color:#fff}
+.days button.mock{border-style:dashed}
+.days button:disabled{opacity:.35;cursor:default}
+.legend{font-size:12px;color:var(--ink-2);margin:0 0 28px}
+.roots{list-style:none;padding:0;margin:0 0 28px}
+.roots li{display:flex;align-items:baseline;gap:10px;padding:9px 0;border-top:1px solid var(--line)}
+.roots code{font-family:var(--mono);font-size:17px;font-weight:600;color:var(--root)}
+.roots small{color:var(--ink-2);margin-left:auto;font-family:var(--mono)}
+.mix{display:flex;flex-direction:column;gap:8px;font-size:14px;margin-bottom:28px}
+.mix div{display:flex;justify-content:space-between}
+.meter{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-top:2px}
+.meter i{display:block;height:100%;background:var(--ink)}
+.linkbtn{background:none;border:0;padding:0;color:var(--ink-2);font-size:13px;text-decoration:underline;cursor:pointer}
+
+/* day header + sets */
+.dayhead{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.dayhead h1{font-family:var(--display);font-size:22px;margin:0;letter-spacing:-.02em}
+.dayhead .sub{font-size:13px;color:var(--ink-2)}
+.dayhead .arrows{margin-left:auto;display:flex;gap:6px}
+.btn-s{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:6px 12px;font-size:14px;cursor:pointer}
+.btn-s:disabled{opacity:.4;cursor:default}
+.btn-s[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.sets{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+.set{font-size:13px;color:var(--ink-2);font-family:var(--mono);background:none;border:0;padding:6px 4px;text-align:left;border-radius:8px;cursor:pointer}
+.set span{display:block;font-family:var(--body);font-weight:600}
+.set[aria-current] {background:var(--card)}
+.set[aria-current] span{color:var(--ink)}
+.set small{font-size:11px}
+.set .meter{margin:4px 0 2px}
+.banner{background:var(--card);border:1px dashed var(--root);border-radius:12px;padding:14px 18px;margin-bottom:14px;font-size:14px}
+.banner b{color:var(--root)}
+.banner ol{margin:8px 0 0;padding-left:20px}
+
+/* card */
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:32px 40px;touch-action:pan-y}
+.meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--ink-2);margin-bottom:20px}
+.tag{border:1px solid var(--line);border-radius:999px;padding:2px 10px;color:var(--ink)}
+.meta .pos{margin-right:auto}
+.icon{border:1px solid var(--line);background:none;border-radius:8px;padding:4px 10px;font-size:13px;cursor:pointer}
+.counter{font-family:var(--mono);font-size:12px}
+
+.gloss{display:flex;align-items:flex-end;flex-wrap:wrap;row-gap:10px;margin:0 0 6px}
+.m{display:flex;flex-direction:column;padding-right:4px;min-width:0}
+.m .t{font-family:var(--display);font-weight:800;line-height:1;letter-spacing:-.035em;white-space:nowrap}
+.gloss.xl .t{font-size:clamp(44px,12vw,84px)}
+.gloss.l .t{font-size:clamp(36px,9.5vw,70px)}
+.gloss.m_ .t{font-size:clamp(30px,7.5vw,54px)}
+.gloss.s .t{font-size:clamp(24px,6vw,42px)}
+.m .u{height:4px;margin:10px 0 8px;border-radius:2px}
+.m .g{font-size:15px;font-weight:600;line-height:1.3;max-width:16em}
+.m .g em{display:block;font-style:normal;font-weight:400;font-size:11px;opacity:.7;letter-spacing:.04em}
+.prefix .t,.prefix .g{color:var(--prefix)} .prefix .u{background:var(--prefix)}
+.root .t,.root .g{color:var(--root)} .root .u{background:var(--root);height:6px}
+.suffix .t,.suffix .g{color:var(--suffix)} .suffix .u{background:var(--suffix)}
+.part .t,.part .g{color:var(--ink)} .part .u{background:var(--line)}
+.dot{font-family:var(--display);font-size:32px;color:var(--line);align-self:flex-start;padding:10px 4px 0 1px}
+
+.ipa{font-family:var(--mono);color:var(--ink-2);font-size:14px;margin:14px 0 4px}
+.meaning{font-size:24px;font-weight:700;margin:0}
+.story{color:var(--ink-2);margin:6px 0 0}
+.revealbtn{display:block;width:100%;margin-top:22px;padding:16px;border:1px dashed var(--line);background:var(--paper);border-radius:10px;font-weight:600;cursor:pointer}
+
+.transcript{margin:26px 0 0;border-top:1px solid var(--line);padding-top:20px}
+.transcript h3,.side h3{font-size:12px;letter-spacing:.08em;color:var(--ink-2);margin:0 0 12px;font-weight:600}
+.line{display:grid;grid-template-columns:28px 1fr;gap:12px;margin-bottom:12px}
+.line .who{font-family:var(--mono);font-weight:600;font-size:13px;width:28px;height:28px;display:grid;place-items:center;border-radius:6px}
+.line.q .who{background:var(--paper);color:var(--ink-2)}
+.line.a .who{background:var(--ink);color:#fff}
+.line.q p{color:var(--ink-2);margin:2px 0 0}
+.line.a p{margin:2px 0 0;font-size:18px}
+mark{background:none;color:var(--root);font-weight:700;border-bottom:2px solid var(--root)}
+.line.a .ko{display:block;font-size:14px;color:var(--ink-2);margin-top:4px}
+.listen{margin-left:40px;min-height:36px}
+
+.side{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:24px;border-top:1px solid var(--line);padding-top:20px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips span,.chips button{font-size:14px;background:var(--paper);border:0;border-radius:6px;padding:4px 10px}
+.chips button{cursor:pointer;border:1px solid var(--line);background:none}
+.tip{font-size:14px;color:var(--ink-2);margin:16px 0 0}
+
+.actions{display:flex;gap:10px;margin-top:18px;align-items:center}
+.actions button{font-weight:600;padding:12px 20px;border-radius:10px;cursor:pointer;border:1px solid var(--ink)}
+.again{background:transparent}
+.know{background:var(--ink);color:#fff;margin-left:auto}
+.prev{border-color:var(--line)!important;background:none}
+.hint{font-size:12px;color:var(--ink-2);margin-top:8px;text-align:right}
+
+/* panels */
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:28px 32px}
+.panel h2{font-family:var(--display);font-size:24px;margin:0 0 6px;letter-spacing:-.02em}
+.panel p.lead{color:var(--ink-2);margin:0 0 20px}
+.field{margin-bottom:18px}
+.field > span{display:block;font-size:13px;font-weight:600;color:var(--ink-2);margin-bottom:6px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.primary{background:var(--ink);color:#fff;border:0;border-radius:10px;padding:14px 22px;font-weight:600;cursor:pointer}
+.primary:disabled{opacity:.4}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+
+/* quiz */
+.qtop{display:flex;justify-content:space-between;font-family:var(--mono);font-size:13px;color:var(--ink-2);margin-bottom:10px}
+.qprompt{font-family:var(--display);font-weight:800;font-size:clamp(32px,8vw,56px);letter-spacing:-.03em;line-height:1.1;margin:6px 0}
+.qsent{font-size:19px;margin:8px 0}
+.qsent .blank{display:inline-block;min-width:90px;border-bottom:2px solid var(--root);color:var(--root);font-weight:700}
+.qhint{color:var(--ink-2);font-size:14px}
+.qask{font-size:14px;font-weight:600;color:var(--ink-2);margin:18px 0 10px}
+.opts{display:grid;gap:8px}
+.opt{text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:var(--card);cursor:pointer;font-size:16px;min-height:52px}
+.opt.right{border-color:var(--ok);background:#E3F3EF;font-weight:600}
+.opt.wrong{border-color:var(--bad);background:#FBE9E7}
+.opt:disabled{cursor:default;color:var(--ink)}
+.explain{margin-top:14px;padding:12px 14px;background:var(--paper);border-radius:10px;font-size:14px}
+.score{font-family:var(--display);font-size:64px;font-weight:800;color:var(--root);line-height:1}
+
+/* lists */
+.fams{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.fam{text-align:left;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;cursor:pointer}
+.fam b{display:block;font-size:16px}
+.fam code{font-family:var(--mono);font-size:12px;color:var(--root)}
+.fam small{display:block;color:var(--ink-2);font-size:12px;margin-top:4px}
+.rgroup{border-top:1px solid var(--line);padding:12px 0}
+.rgroup h3{margin:0 0 8px;font-size:14px}
+.rgroup h3 code{font-family:var(--mono);color:var(--root);font-size:17px;margin-right:6px}
+.search{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font:inherit;background:var(--card);margin-bottom:16px}
+.results{list-style:none;margin:0;padding:0}
+.results li button{display:grid;grid-template-columns:auto 1fr auto;gap:10px;width:100%;text-align:left;padding:10px 4px;border:0;border-top:1px solid var(--line);background:none;cursor:pointer;align-items:baseline}
+.results b{font-size:16px}
+.results small{color:var(--ink-2);font-family:var(--mono);font-size:12px}
+.results span{color:var(--ink-2);font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.empty{text-align:center;color:var(--ink-2);padding:24px 8px}
+
+/* sheet */
+.sheet{position:fixed;inset:0;background:rgba(22,35,59,.45);display:flex;align-items:flex-start;justify-content:center;z-index:50;overflow-y:auto;padding:40px 16px}
+.sheet .inner{width:min(760px,100%)}
+.sheet .close{display:block;margin:0 0 10px auto;background:var(--card);border:0;border-radius:999px;padding:8px 16px;font-weight:600;cursor:pointer}
+
+/* mobile: thumb-first */
+@media (max-width:860px){
+  body{padding-bottom:calc(var(--tab) + env(safe-area-inset-bottom))}
+  .bar{padding:12px 16px;position:sticky;top:0;z-index:5}
+  .daychip{display:inline-flex}
+  .bar nav{position:fixed;left:0;right:0;bottom:0;margin:0;z-index:10;display:grid;grid-template-columns:repeat(4,1fr);gap:0;align-items:center;
+    background:var(--card);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom));height:calc(var(--tab) + env(safe-area-inset-bottom))}
+  .bar nav button{text-align:center;padding:10px 2px;font-size:13px;border-radius:8px}
+  .wrap,.wrap.single{grid-template-columns:minmax(0,1fr);gap:20px;padding:12px 14px}
+  .rail{order:2}
+  .card{padding:22px 18px;border-radius:12px}
+  .panel{padding:22px 18px}
+  .m .g{font-size:14px}
+  .dot{font-size:24px;padding:6px 3px 0 1px}
+  .meaning{font-size:20px}
+  .line.a p{font-size:17px}
+  .side{grid-template-columns:1fr;gap:22px}
+  .sets{gap:4px}
+  .set span{font-size:12px}
+  .dayhead h1{font-size:19px}
+  .actions{position:sticky;bottom:calc(var(--tab) + env(safe-area-inset-bottom));z-index:4;margin:16px -14px 0;padding:10px 14px;background:var(--paper);border-top:1px solid var(--line)}
+  .actions button{flex:1;min-height:52px;font-size:16px}
+  .actions .prev{flex:0 0 52px;padding:0}
+  .know{margin-left:0}
+  .know .long,.hint{display:none}
+  .sheet{padding:16px 10px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div class="brand">mensetsu<span>.</span>tango</div>
+  <button class="daychip" type="button" data-act="go" data-view="learn" id="daychip"></button>
+  <nav aria-label="메뉴">
+    <button type="button" data-act="go" data-view="learn">오늘의 학습</button>
+    <button type="button" data-act="go" data-view="quiz">퀴즈</button>
+    <button type="button" data-act="go" data-view="review">복습<span id="revcount"></span></button>
+    <button type="button" data-act="go" data-view="map">어근 지도</button>
+  </nav>
+</header>
+<div id="app"></div>
+<div id="sheet" class="sheet" role="dialog" aria-modal="true" aria-label="단어 카드" hidden><div class="inner"></div></div>
+
+<script>window.WORDS = /*__WORDS__*/[];</script>
+<script>
+"use strict";
+const WORDS = window.WORDS;
+const FAMILIES = {
+  F1:["보다·알다","spect · vis/vid · sci · cogn/gno · sens/sent · scop"],
+  F2:["이끌다·가다·움직이다","duc · mov/mot · ven · cede/cess · grad/gress · sequ · it · cur · ag"],
+  F3:["놓다·서다·머물다 (+손)","pon/pos · sta/sist · sid/sed · man/main · manu · loc · fix"],
+  F4:["나르다·보내다·던지다","fer · port · mit/miss · ject · lat · via · gest · pher · bol"],
+  F5:["잡다·쥐다·끌다","cap/cip/cept · ten/tain · tract · prehend · sum/sump · hab/hib"],
+  F6:["만들다·채우다·쓰다","fac/fic/fect · struct · form · gen · ple/plete · scrib/sign"],
+  F7:["돌리다·뻗다·묶다·바꾸다","vert/vers · plic/ply · tend/tens · nect/lig · mut/alter · flu"],
+  F8:["깨다·자르다·풀다·닫다","rupt · fract/frag · sect/cis · part/vid · solv/lys · clud/clus"],
+  F9:["말하다·믿다·다스리다","dic/dict · voc/vok · cred/fid · spond/spons · reg/rect · jur/leg"],
+  F10:["값·재다·좋고 나쁨","pens/pend · val/vail · rat/quant · bene/grat · neg/counter · term/fin"]
+};
+const LV = {1:["🟢","기초"],2:["🟡","중급"],3:["🔴","고급"]};
+const CAT = {interview:["🎤","면접"],it:["💻","IT"],negotiation:["🤝","협상"]};
+const TYPE_KO = {prefix:"접두사",root:"어근",suffix:"접미사",part:"조각"};
+const PERIOD_MIX = {1:"기초 50 · 중급 40 · 고급 10",2:"기초 30 · 중급 50 · 고급 20",3:"기초 20 · 중급 40 · 고급 40"};
+const MOCK_DAYS = [10,20,30];
+const SETS = ["A","B","C","D"];
+const INTERVALS = [1,3,7];
+const KEY = "mensetsu-tango:v1";
+
+const byId = Object.fromEntries(WORDS.map(w => [w.id, w]));
+const byDay = {};
+WORDS.forEach(w => (byDay[w.day] ||= []).push(w));
+const DAYS = Object.keys(byDay).map(Number).sort((a,b) => a-b);
+const period = d => d <= 10 ? 1 : d <= 20 ? 2 : 3;
+
+/* ---------- state ---------- */
+const S = Object.assign({day:null, set:{}, prog:{}, hide:false,
+  quiz:{scope:"day", lv:[1,2,3], type:"mix"}, revLv:[1,2,3]}, safeLoad());
+function safeLoad(){ try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; } }
+function save(){ try { localStorage.setItem(KEY, JSON.stringify(S)); } catch {} }
+let view = "learn", cursor = null, reveal = false, quiz = null, mapFam = null, query = "";
+
+const ymd = d => d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+const today = () => ymd(new Date());
+const inDays = n => { const d = new Date(); d.setDate(d.getDate()+n); return ymd(d); };
+const seen = id => !!S.prog[id]?.l;   /* l = studied on the 오늘의 학습 screen */
+const dueList = () => WORDS.filter(w => { const p = S.prog[w.id]; return p && p.s === "again" && p.due <= today(); });
+
+function learnMark(id, ok){
+  S.prog[id] = ok ? {s:"known", l:1} : {s:"again", step:0, due:inDays(1), l:1};
+  save();
+}
+function reviewMark(id, ok){
+  const p = S.prog[id] || {s:"again", step:0}, l = p.l;
+  if (!ok) S.prog[id] = {s:"again", step:0, due:inDays(1), l};
+  else {
+    const step = (p.step || 0) + 1;
+    S.prog[id] = step >= INTERVALS.length ? {s:"known", l} : {s:"again", step, due:inDays(INTERVALS[step]), l};
+  }
+  save();
+}
+function quizWrong(id){
+  const p = S.prog[id];
+  if (!p || p.s !== "again" || p.due > inDays(1)) S.prog[id] = {s:"again", step:0, due:inDays(1), l:p?.l};
+  save();
+}
+if (!S.day || !byDay[S.day]) S.day = DAYS.find(d => byDay[d].some(w => !seen(w.id))) || DAYS[0];
+
+/* ---------- helpers ---------- */
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const shuffle = a => { a = a.slice(); for (let i = a.length-1; i > 0; i--) { const j = Math.floor(Math.random()*(i+1)); [a[i],a[j]] = [a[j],a[i]]; } return a; };
+const stripParen = s => String(s).replace(/\s*\([^)]*\)\s*/g, " ").trim();
+function headSpan(w){
+  const a = w.example.a, low = a.toLowerCase(), ph = w.word.toLowerCase();
+  const i = low.indexOf(ph);
+  if (i >= 0) return [i, i+ph.length, true];
+  const stem = ph.split(/[\s-]/)[0].replace(/[ye]$/, "").slice(0,5).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const m = new RegExp("\\b" + stem + "[a-z]*", "i").exec(a);
+  return m ? [m.index, m.index + m[0].length, !/[\s]/.test(ph)] : null;
+}
+function markHead(w){
+  const sp = headSpan(w), a = w.example.a;
+  if (!sp) return esc(a);
+  return esc(a.slice(0,sp[0])) + "<mark>" + esc(a.slice(sp[0],sp[1])) + "</mark>" + esc(a.slice(sp[1]));
+}
+function say(text){
+  if (!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text); u.lang = "en-US"; u.rate = .95;
+  speechSynthesis.speak(u);
+}
+const rootParts = w => w.etymology.parts.filter(p => p.type === "root");
+/* the root that ties the word to its family: prefer one whose gloss names a source root "(spect)", then the longest */
+function mainRoot(w){
+  const rs = rootParts(w); if (!rs.length) return null;
+  const tagged = rs.filter(p => /\(/.test(p.gloss));
+  return (tagged.length ? tagged : rs).slice().sort((a,b) => b.text.length - a.text.length)[0];
+}
+const lvTag = l => `<span class="tag">${LV[l][0]} ${LV[l][1]}</span>`;
+const catTag = c => `<span class="tag">${CAT[c][0]} ${CAT[c][1]}</span>`;
+
+/* ---------- card ---------- */
+function glossHTML(w){
+  const parts = w.etymology.parts;
+  const len = w.word.length;
+  const size = len <= 8 ? "xl" : len <= 12 ? "l" : len <= 17 ? "m_" : "s";
+  const label = w.word + " = " + parts.map(p => `${p.text}(${p.gloss})`).join(" + ");
+  return `<div class="gloss ${size}" aria-label="${esc(label)}">` + parts.map((p,i) =>
+    (i ? `<span class="dot" aria-hidden="true">·</span>` : "") +
+    `<div class="m ${esc(p.type)}"><span class="t">${esc(p.text)}</span><span class="u"></span><span class="g"><em>${TYPE_KO[p.type]||""}</em>${esc(p.gloss)}</span></div>`
+  ).join("") + `</div>`;
+}
+function cardHTML(w, {hide=false, counter=""} = {}){
+  const fam = FAMILIES[w.family];
+  const rel = (w.related||[]).map(r => {
+    const t = WORDS.find(x => x.word.toLowerCase() === r.toLowerCase());
+    return t ? `<button type="button" data-act="open" data-id="${t.id}">${esc(r)}</button>` : `<span>${esc(r)}</span>`;
+  }).join("");
+  return `<article class="card" id="card">
+    <div class="meta">${lvTag(w.level)}${catTag(w.category)}<span class="pos">${esc(w.pos)}</span>
+      ${counter ? `<span class="counter">${counter}</span>` : ""}
+      <button class="icon" type="button" data-act="say" data-text="${esc(w.word)}" aria-label="단어 발음 듣기">🔊</button></div>
+    ${glossHTML(w)}
+    <p class="ipa">${esc(w.ipa)}</p>
+    ${hide ? `<button class="revealbtn" type="button" data-act="reveal">뜻 보기 <small>(Space)</small></button>` : `
+    <p class="meaning">${esc(w.meaning_ko)}</p>
+    <p class="story">${esc(w.etymology.story)}</p>
+    <section class="transcript">
+      <h3>면접에서 이렇게</h3>
+      <div class="line q"><span class="who">Q</span><p>${esc(w.example.q)}</p></div>
+      <div class="line a"><span class="who">A</span><p>${markHead(w)}<span class="ko">${esc(w.example.a_ko)}</span></p></div>
+      <button class="icon listen" type="button" data-act="say" data-text="${esc(w.example.a)}">▶ 답변 듣기</button>
+    </section>
+    <section class="side">
+      <div><h3>자주 쓰는 표현</h3><div class="chips">${(w.collocations||[]).map(c => `<span>${esc(c)}</span>`).join("")}</div></div>
+      <div><h3>같은 어근 · ${esc(fam ? fam[0] : w.family)}</h3><div class="chips">${rel}</div></div>
+    </section>
+    <p class="tip">💡 ${esc(w.tip)}</p>`}
+  </article>`;
+}
+
+/* ---------- rail ---------- */
+function railHTML(){
+  const rows = [1,2,3].map(p => {
+    const cells = [];
+    for (let d = (p-1)*10+1; d <= p*10; d++){
+      const ws = byDay[d] || [], n = ws.filter(w => seen(w.id)).length;
+      const cls = [n && n === ws.length ? "done" : n ? "part" : "", d === S.day ? "now" : "", MOCK_DAYS.includes(d) ? "mock" : ""].join(" ");
+      cells.push(`<button type="button" class="${cls}" data-act="day" data-day="${d}" ${ws.length ? "" : "disabled"} ${d === S.day ? 'aria-current="date"' : ""} aria-label="Day ${d}${ws.length ? ` ${n}/100` : " 준비 중"}">${d}</button>`);
+    }
+    return `<div><span class="lvname">${p}구간 · ${PERIOD_MIX[p]}</span><div class="days">${cells.join("")}</div></div>`;
+  }).join("");
+  const ws = byDay[S.day];
+  const rc = {};
+  ws.forEach(w => rootParts(w).forEach(p => { const k = p.text.toLowerCase(); (rc[k] ||= {n:0, g:stripParen(p.gloss)}).n++; }));
+  const top = Object.entries(rc).sort((a,b) => b[1].n - a[1].n).slice(0,6);
+  const cats = Object.keys(CAT).map(c => {
+    const all = ws.filter(w => w.category === c); if (!all.length) return "";
+    const n = all.filter(w => seen(w.id)).length;
+    return `<div><span>${CAT[c][0]} ${CAT[c][1]}</span><span>${n} / ${all.length}</span></div><div class="meter"><i style="width:${n/all.length*100}%"></i></div>`;
+  }).join("");
+  return `<aside class="rail">
+    <h2>30일 진도</h2><div class="levels">${rows}</div>
+    <p class="legend">점선 = 모의 면접 날 · 회색 칸 = 아직 준비 중</p>
+    <h2>Day ${S.day} · ${esc(FAMILIES[ws[0].family][0])} 가족</h2>
+    <ul class="roots">${top.map(([k,v]) => `<li><code>${esc(k)}</code><span>${esc(v.g)}</span><small>${v.n}</small></li>`).join("")}</ul>
+    <h2>오늘의 분야</h2><div class="mix">${cats}</div>
+    <button class="linkbtn" type="button" data-act="reset">진도 초기화</button>
+  </aside>`;
+}
+
+/* ---------- learn ---------- */
+function setWords(){ return byDay[S.day].filter(w => w.set === (S.set[S.day] || "A")); }
+function learnHTML(){
+  const set = S.set[S.day] || "A";
+  const ws = setWords();
+  if (cursor === null){ cursor = ws.findIndex(w => !seen(w.id)); if (cursor < 0) cursor = ws.length; }
+  const di = DAYS.indexOf(S.day);
+  const sets = SETS.map(s => {
+    const sw = byDay[S.day].filter(w => w.set === s), n = sw.filter(w => seen(w.id)).length;
+    return `<button type="button" class="set" data-act="set" data-set="${s}" ${s === set ? 'aria-current="true"' : ""}><span>세트 ${s}</span><div class="meter"><i style="width:${n/sw.length*100}%"></i></div><small>${n} / ${sw.length}</small></button>`;
+  }).join("");
+  let mock = "";
+  if (MOCK_DAYS.includes(S.day)){
+    const qs = shuffle([...new Set(WORDS.filter(w => period(w.day) === period(S.day) && w.category === "interview").map(w => w.example.q))]).slice(0,5);
+    mock = `<div class="banner"><b>모의 면접 날</b> — 이번 구간에서 배운 단어로 아래 질문에 소리 내어 답해 보세요.<ol>${qs.map(q => `<li>${esc(q)}</li>`).join("")}</ol></div>`;
+  }
+  let body;
+  if (cursor >= ws.length){
+    const again = ws.filter(w => S.prog[w.id]?.s === "again").length;
+    const nextSet = SETS[SETS.indexOf(set)+1];
+    body = `<div class="panel"><h2>세트 ${set} 끝!</h2>
+      <p class="lead">외웠어요 ${ws.length - again}개 · 다시 볼래요 ${again}개 — 다시 볼래요 단어는 내일 복습에 나와요.</p>
+      <div class="row">
+        <button class="primary" type="button" data-act="quizset">세트 ${set} 퀴즈 풀기</button>
+        ${nextSet ? `<button class="btn-s" type="button" data-act="set" data-set="${nextSet}">세트 ${nextSet}로 →</button>`
+          : DAYS[di+1] ? `<button class="btn-s" type="button" data-act="day" data-day="${DAYS[di+1]}">Day ${DAYS[di+1]}로 →</button>` : ""}
+        <button class="btn-s" type="button" data-act="restart">세트 ${set} 다시 보기</button>
+      </div></div>`;
+  } else {
+    const w = ws[cursor];
+    body = cardHTML(w, {hide: S.hide && !reveal, counter: `${cursor+1} / ${ws.length}`}) + `
+      <div class="actions">
+        <button class="prev" type="button" data-act="prev" ${cursor ? "" : "disabled"} aria-label="이전 단어">←</button>
+        <button class="again" type="button" data-act="learn" data-ok="0">다시 볼래요</button>
+        <button class="know" type="button" data-act="learn" data-ok="1">외웠어요<span class="long"> → 다음 단어</span></button>
+      </div>
+      <p class="hint">키보드: ← 다시 볼래요 · → 외웠어요 · Space 뜻 보기 · 휴대폰: 카드를 왼쪽/오른쪽으로 밀기</p>`;
+  }
+  return `<div class="wrap">${railHTML()}<main>
+    <div class="dayhead">
+      <div><h1>Day ${S.day}</h1><div class="sub">${period(S.day)}구간 · ${esc(FAMILIES[byDay[S.day][0].family][0])}</div></div>
+      <div class="arrows">
+        <button class="btn-s" type="button" data-act="hide" aria-pressed="${S.hide}">뜻 가리기</button>
+        <button class="btn-s" type="button" data-act="day" data-day="${DAYS[di-1]}" ${di > 0 ? "" : "disabled"} aria-label="이전 Day">‹</button>
+        <button class="btn-s" type="button" data-act="day" data-day="${DAYS[di+1]}" ${DAYS[di+1] ? "" : "disabled"} aria-label="다음 Day">›</button>
+      </div>
+    </div>
+    <div class="sets" aria-label="세트 진행">${sets}</div>
+    ${mock}${body}
+  </main></div>`;
+}
+
+/* ---------- quiz ---------- */
+function quizPool(scope, lv){
+  let ws = scope === "set" ? setWords() : scope === "day" ? byDay[S.day] : scope === "seen" ? WORDS.filter(w => seen(w.id)) : WORDS;
+  return ws.filter(w => lv.includes(w.level));
+}
+function eligible(w, t){
+  if (t === "blank"){ const sp = headSpan(w); return !!sp && sp[2]; }
+  if (t === "root") return rootParts(w).length > 0;
+  return true;
+}
+function distract(w, pool, key, n=3){
+  const val = key(w), out = new Set();
+  const cand = shuffle(pool.length >= 8 ? pool : byDay[w.day]).concat(shuffle(WORDS));
+  for (const x of cand){ const v = key(x); if (v && v !== val && !out.has(v)) out.add(v); if (out.size === n) break; }
+  return shuffle([val, ...out]);
+}
+function makeQuiz(){
+  const {scope, lv, type} = S.quiz;
+  const pool = quizPool(scope, lv);
+  const qs = [];
+  for (const w of shuffle(pool)){
+    const types = (type === "mix" ? ["meaning","blank","root"] : [type]).filter(t => eligible(w,t));
+    if (!types.length) continue;
+    const t = types[Math.floor(Math.random()*types.length)];
+    if (t === "meaning") qs.push({w, t, opts: distract(w, pool, x => x.meaning_ko), ans: w.meaning_ko});
+    if (t === "blank")   qs.push({w, t, opts: distract(w, pool, x => x.word), ans: w.word});
+    if (t === "root"){ const g = x => { const r = mainRoot(x); return r ? stripParen(r.gloss) : null; };
+      qs.push({w, t, opts: distract(w, pool, g), ans: g(w)}); }
+    if (qs.length === 10) break;
+  }
+  return {qs, i:0, picked:null, right:0, wrong:[]};
+}
+function quizHTML(){
+  if (!quiz){
+    const q = S.quiz, n = quizPool(q.scope, q.lv).length;
+    const opt = (k, v, label) => `<button class="btn-s" type="button" data-act="qopt" data-k="${k}" data-v="${v}" aria-pressed="${k === "lv" ? q.lv.includes(+v) : q[k] === v}">${label}</button>`;
+    return `<div class="wrap single"><main><div class="panel">
+      <h2>퀴즈</h2><p class="lead">10문제씩 풀어요. 틀린 단어는 내일 복습에 자동으로 들어가요.</p>
+      <div class="field"><span>범위</span><div class="seg">
+        ${opt("scope","set",`Day ${S.day} 세트 ${S.set[S.day]||"A"}`)}${opt("scope","day",`Day ${S.day} 전체`)}${opt("scope","seen","지금까지 본 단어")}${opt("scope","all",`전체 Day ${DAYS[0]}–${DAYS[DAYS.length-1]}`)}</div></div>
+      <div class="field"><span>난이도</span><div class="seg">${[1,2,3].map(l => opt("lv", l, LV[l].join(" "))).join("")}</div></div>
+      <div class="field"><span>문제 유형</span><div class="seg">
+        ${opt("type","mix","섞어서")}${opt("type","meaning","뜻 맞히기")}${opt("type","blank","예문 빈칸")}${opt("type","root","어근 뜻")}</div></div>
+      <div class="row"><button class="primary" type="button" data-act="qstart" ${n >= 4 ? "" : "disabled"}>시작하기</button>
+        <span class="qhint">${n >= 4 ? `문제로 나올 수 있는 단어 ${n}개` : "단어가 4개 이상 있어야 해요. 범위나 난이도를 넓혀 주세요."}</span></div>
+    </div></main></div>`;
+  }
+  if (quiz.i >= quiz.qs.length){
+    return `<div class="wrap single"><main><div class="panel">
+      <p class="score">${quiz.right} / ${quiz.qs.length}</p>
+      <h2>${quiz.right === quiz.qs.length ? "모두 맞혔어요!" : "틀린 단어는 내일 복습에 나와요"}</h2>
+      ${quiz.wrong.length ? `<ul class="results">${quiz.wrong.map(w => resultRow(w)).join("")}</ul>` : ""}
+      <div class="row" style="margin-top:20px"><button class="primary" type="button" data-act="qstart">한 번 더</button>
+        <button class="btn-s" type="button" data-act="qsetup">범위 바꾸기</button></div>
+    </div></main></div>`;
+  }
+  const q = quiz.qs[quiz.i], w = q.w, done = quiz.picked !== null;
+  let prompt;
+  if (q.t === "meaning") prompt = `<div class="qprompt">${esc(w.word)}</div><div class="qhint">${esc(w.ipa)}</div><p class="qask">이 단어의 뜻은?</p>`;
+  if (q.t === "blank"){ const sp = headSpan(w), a = w.example.a;
+    prompt = `<div class="qhint">Q. ${esc(w.example.q)}</div><p class="qsent">${esc(a.slice(0,sp[0]))}<span class="blank">${done ? esc(a.slice(sp[0],sp[1])) : "&nbsp;"}</span>${esc(a.slice(sp[1]))}</p><div class="qhint">${esc(w.example.a_ko)}</div><p class="qask">빈칸에 들어갈 단어는?</p>`; }
+  if (q.t === "root"){ const r = mainRoot(w);
+    prompt = `<div class="qprompt">${w.etymology.parts.map(p => p === r ? `<span style="color:var(--root)">${esc(p.text)}</span>` : esc(p.text)).join("")}</div><p class="qask">어근 <b style="color:var(--root)">${esc(r.text)}</b> 의 뜻은?</p>`; }
+  const opts = q.opts.map((o,i) => {
+    const cls = done ? (o === q.ans ? "right" : i === quiz.picked ? "wrong" : "") : "";
+    return `<button class="opt ${cls}" type="button" data-act="qpick" data-i="${i}" ${done ? "disabled" : ""}>${esc(o)}</button>`;
+  }).join("");
+  return `<div class="wrap single"><main><div class="panel">
+    <div class="qtop"><span>${quiz.i+1} / ${quiz.qs.length}</span><span>${LV[w.level].join(" ")} · Day ${w.day}</span></div>
+    ${prompt}<div class="opts">${opts}</div>
+    ${done ? `<div class="explain"><b>${esc(w.word)}</b> — ${esc(w.meaning_ko)}<br>${esc(w.etymology.story)}</div>
+      <div class="row" style="margin-top:14px"><button class="primary" type="button" data-act="qnext">${quiz.i+1 < quiz.qs.length ? "다음 문제" : "결과 보기"}</button>
+      <button class="btn-s" type="button" data-act="open" data-id="${w.id}">카드 보기</button></div>` : ""}
+  </div></main></div>`;
+}
+
+/* ---------- review ---------- */
+function reviewHTML(){
+  const due = dueList();
+  const list = due.filter(w => S.revLv.includes(w.level));
+  const later = WORDS.filter(w => S.prog[w.id]?.s === "again" && S.prog[w.id].due > today()).length;
+  const chips = [1,2,3].map(l => `<button class="btn-s" type="button" data-act="revlv" data-v="${l}" aria-pressed="${S.revLv.includes(l)}">${LV[l].join(" ")}</button>`).join("");
+  let body;
+  if (!list.length){
+    body = `<div class="panel"><h2>오늘 복습할 단어가 없어요</h2>
+      <p class="lead">오늘의 학습에서 「다시 볼래요」를 누르거나 퀴즈에서 틀린 단어가 1일 · 3일 · 7일 뒤에 여기 나와요.${later ? ` 나중에 나올 단어: ${later}개` : ""}</p>
+      <button class="primary" type="button" data-act="go" data-view="learn">오늘의 학습 하기</button></div>`;
+  } else {
+    const w = list[0], step = S.prog[w.id].step || 0;
+    body = cardHTML(w, {hide: !reveal, counter: `남은 ${list.length} · ${step+1}단계/${INTERVALS.length}`}) + `
+      <div class="actions">
+        <button class="again" type="button" data-act="rev" data-ok="0">아직 몰라요</button>
+        <button class="know" type="button" data-act="rev" data-ok="1">기억나요<span class="long"> → 다음</span></button>
+      </div>
+      <p class="hint">기억나요를 누르면 ${INTERVALS.slice(step+1).length ? INTERVALS[step+1] + "일 뒤에 다시 나와요" : "복습이 끝나요"} · 아직 몰라요는 내일 다시</p>`;
+  }
+  return `<div class="wrap single"><main>
+    <div class="dayhead"><div><h1>복습</h1><div class="sub">오늘 ${due.length}개</div></div><div class="arrows">${chips}</div></div>
+    ${body}</main></div>`;
+}
+
+/* ---------- root map ---------- */
+function resultRow(w){
+  return `<li><button type="button" data-act="open" data-id="${w.id}"><b>${esc(w.word)}</b><span>${LV[w.level][0]} ${esc(w.meaning_ko)}</span><small>Day ${w.day}</small></button></li>`;
+}
+function mapHTML(){
+  let body;
+  const q = query.trim().toLowerCase();
+  if (q){
+    const hits = WORDS.filter(w => w.word.toLowerCase().includes(q) || w.meaning_ko.includes(q) || w.etymology.parts.some(p => p.text.toLowerCase() === q)).slice(0,80);
+    body = hits.length ? `<ul class="results">${hits.map(resultRow).join("")}</ul>` : `<p class="empty">“${esc(query)}” 에 맞는 단어가 없어요. 영어 철자, 한국어 뜻, 어근(예: spect)으로 찾을 수 있어요.</p>`;
+  } else if (mapFam){
+    const ws = WORDS.filter(w => w.family === mapFam);
+    const groups = {};
+    ws.forEach(w => { const r = mainRoot(w); const k = r ? r.text.toLowerCase() : "＊핵심어"; (groups[k] ||= {g: r ? stripParen(r.gloss) : "어근 없는 합성어·구동사", ws: []}).ws.push(w); });
+    const sorted = Object.entries(groups).sort((a,b) => b[1].ws.length - a[1].ws.length);
+    body = `<button class="btn-s" type="button" data-act="fam" data-f="">← 가족 목록</button>
+      <h2 style="font-family:var(--display);margin:14px 0 4px">${mapFam} ${esc(FAMILIES[mapFam][0])}</h2>
+      <p class="qhint" style="margin:0 0 10px">${ws.length}단어 · ${[...new Set(ws.map(w => w.day))].map(d => "Day " + d).join(", ")}</p>
+      ${sorted.map(([k,v]) => `<div class="rgroup"><h3><code>${esc(k)}</code>${esc(v.g)} <small>${v.ws.length}</small></h3>
+        <div class="chips">${v.ws.sort((a,b) => a.level - b.level).map(w => `<button type="button" data-act="open" data-id="${w.id}">${LV[w.level][0]} ${esc(w.word)}</button>`).join("")}</div></div>`).join("")}`;
+  } else {
+    body = `<div class="fams">${Object.entries(FAMILIES).map(([f,[name,roots]]) => {
+      const n = WORDS.filter(w => w.family === f).length;
+      return `<button class="fam" type="button" data-act="fam" data-f="${f}" ${n ? "" : "disabled"}><b>${f} ${esc(name)}</b><code>${esc(roots)}</code><small>${n ? n + "단어" : "준비 중"}</small></button>`;
+    }).join("")}</div>`;
+  }
+  return `<div class="wrap single"><main>
+    <div class="dayhead"><div><h1>어근 지도</h1><div class="sub">뜻이 비슷한 어근 10가족 · 전체 ${WORDS.length}단어</div></div></div>
+    <input class="search" id="search" type="search" placeholder="단어·뜻·어근 찾기 (예: spect, 기대)" value="${esc(query)}" aria-label="단어 찾기">
+    ${body}</main></div>`;
+}
+
+/* ---------- render ---------- */
+function render(){
+  const app = document.getElementById("app");
+  app.innerHTML = view === "quiz" ? quizHTML() : view === "review" ? reviewHTML() : view === "map" ? mapHTML() : learnHTML();
+  document.querySelectorAll(".bar nav button").forEach(b => b.toggleAttribute("aria-current", b.dataset.view === view));
+  const n = dueList().length;
+  document.getElementById("revcount").innerHTML = n ? `<span class="badge">${n}</span>` : "";
+  document.getElementById("daychip").textContent = `Day ${S.day} · ${period(S.day)}구간`;
+  bindSwipe();
+}
+function openSheet(id){
+  const sh = document.getElementById("sheet");
+  sh.querySelector(".inner").innerHTML = `<button class="close" type="button" data-act="close">닫기 ✕</button>` + cardHTML(byId[id]);
+  sh.hidden = false; sh.scrollTop = 0; sh.querySelector(".close").focus();
+}
+function closeSheet(){ document.getElementById("sheet").hidden = true; }
+
+function act(a, el){
+  const d = el.dataset;
+  switch (a){
+    case "go": view = d.view; reveal = false; closeSheet(); if (view === "learn") cursor = null; break;
+    case "day": if (!d.day || !byDay[+d.day]) return; S.day = +d.day; cursor = null; reveal = false; view = "learn"; save(); break;
+    case "set": S.set[S.day] = d.set; cursor = null; reveal = false; save(); break;
+    case "learn": { const w = setWords()[cursor]; learnMark(w.id, d.ok === "1"); cursor++; reveal = false; break; }
+    case "prev": cursor = Math.max(0, cursor-1); reveal = false; break;
+    case "restart": cursor = 0; break;
+    case "hide": S.hide = !S.hide; reveal = false; save(); break;
+    case "reveal": reveal = true; break;
+    case "say": say(d.text); return;
+    case "rev": { const w = dueList().filter(x => S.revLv.includes(x.level))[0]; if (w) reviewMark(w.id, d.ok === "1"); reveal = false; break; }
+    case "revlv": { const v = +d.v; S.revLv = S.revLv.includes(v) ? S.revLv.filter(x => x !== v) : [...S.revLv, v].sort(); save(); break; }
+    case "qopt": { const q = S.quiz; if (d.k === "lv"){ const v = +d.v; q.lv = q.lv.includes(v) ? q.lv.filter(x => x !== v) : [...q.lv, v].sort(); } else q[d.k] = d.v; save(); break; }
+    case "quizset": S.quiz.scope = "set"; save(); view = "quiz"; quiz = makeQuiz(); break;
+    case "qstart": quiz = makeQuiz(); if (!quiz.qs.length) quiz = null; break;
+    case "qsetup": quiz = null; break;
+    case "qpick": { const i = +d.i, q = quiz.qs[quiz.i]; quiz.picked = i;
+      if (q.opts[i] === q.ans) quiz.right++; else { quiz.wrong.push(q.w); quizWrong(q.w.id); } break; }
+    case "qnext": quiz.i++; quiz.picked = null; break;
+    case "fam": mapFam = d.f || null; break;
+    case "open": openSheet(d.id); return;
+    case "close": closeSheet(); return;
+    case "reset": if (confirm("모든 진도와 복습 기록을 지울까요? 되돌릴 수 없어요.")){ S.prog = {}; S.set = {}; save(); cursor = null; } break;
+    default: return;
+  }
+  render();
+  if (["learn","prev","set","day","go","rev","qnext","qstart"].includes(a)) window.scrollTo({top:0});
+}
+document.addEventListener("click", e => {
+  const el = e.target.closest("[data-act]");
+  if (el && !el.disabled) act(el.dataset.act, el);
+  else if (e.target.id === "sheet") closeSheet();
+});
+document.addEventListener("input", e => {
+  if (e.target.id !== "search") return;
+  query = e.target.value; const pos = e.target.selectionStart;
+  render(); const s = document.getElementById("search"); s.focus(); s.setSelectionRange(pos,pos);
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") return closeSheet();
+  if (!document.getElementById("sheet").hidden || /INPUT|TEXTAREA/.test(e.target.tagName) || e.ctrlKey || e.metaKey || e.altKey) return;
+  const click = sel => { const b = document.querySelector(sel); if (b && !b.disabled){ e.preventDefault(); act(b.dataset.act, b); } };
+  if (view === "learn" || view === "review"){
+    const pre = view === "learn" ? "learn" : "rev";
+    if (e.key === "ArrowRight") click(`[data-act="${pre}"][data-ok="1"]`);
+    if (e.key === "ArrowLeft") click(`[data-act="${pre}"][data-ok="0"]`);
+    if (e.key === " ") click('[data-act="reveal"]');
+  }
+  if (view === "quiz" && quiz){
+    if (/^[1-4]$/.test(e.key)) click(`[data-act="qpick"][data-i="${+e.key-1}"]`);
+    if (e.key === "Enter") click('[data-act="qnext"]');
+  }
+});
+function bindSwipe(){
+  const card = document.getElementById("card");
+  if (!card || !(view === "learn" || view === "review")) return;
+  let x0 = null, y0 = null;
+  card.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, {passive:true});
+  card.addEventListener("touchend", e => {
+    if (x0 === null) return;
+    const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0; x0 = null;
+    if (Math.abs(dx) < 70 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+    const pre = view === "learn" ? "learn" : "rev";
+    const b = document.querySelector(`[data-act="${pre}"][data-ok="${dx > 0 ? 1 : 0}"]`);
+    if (b) act(b.dataset.act, b);
+  });
+}
+render();
+</script>
+</body>
+</html>

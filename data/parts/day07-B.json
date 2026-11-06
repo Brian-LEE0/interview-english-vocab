@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "d07-B01",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "display",
+    "pos": "verb",
+    "ipa": "/dɪˈspleɪ/",
+    "meaning_ko": "표시하다, 보여 주다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "풀어 (dis)"
+        },
+        {
+          "text": "play",
+          "type": "root",
+          "gloss": "접다 (plic)"
+        }
+      ],
+      "story": "접힌 것을 풀어 펼치다(displicare) → 펼쳐 보여 주다 → 표시하다, 화면"
+    },
+    "example": {
+      "q": "What did you build on the frontend?",
+      "a": "I built a dashboard that displays real-time order data for the sales team.",
+      "a_ko": "영업팀을 위해 실시간 주문 데이터를 보여 주는 대시보드를 만들었습니다."
+    },
+    "collocations": [
+      "display data",
+      "display an error message",
+      "on display"
+    ],
+    "related": [
+      "deploy",
+      "deployment",
+      "employ",
+      "apply"
+    ],
+    "tip": "play(놀다)와는 상관없음! deploy 와 같은 라틴어 displicare(펼치다)에서 나온 쌍둥이 단어"
+  },
+  {
+    "id": "d07-B02",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "deployment",
+    "pos": "noun",
+    "ipa": "/dɪˈplɔɪmənt/",
+    "meaning_ko": "배포",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "풀어 (dis)"
+        },
+        {
+          "text": "ploy",
+          "type": "root",
+          "gloss": "접다 (plic)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "접힌 것을 펼침 → (병력의) 전개 → (서비스의) 배포"
+    },
+    "example": {
+      "q": "How often does your team release?",
+      "a": "We do several deployments a day with a fully automated pipeline.",
+      "a_ko": "완전 자동화된 파이프라인으로 하루에도 여러 번 배포합니다."
+    },
+    "collocations": [
+      "deployment pipeline",
+      "blue-green deployment",
+      "zero-downtime deployment"
+    ],
+    "related": [
+      "deploy",
+      "display",
+      "employer",
+      "apply"
+    ],
+    "tip": "횟수를 말할 땐 셀 수 있는 명사로: several deployments a day"
+  },
+  {
+    "id": "d07-B03",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "deploy",
+    "pos": "verb",
+    "ipa": "/dɪˈplɔɪ/",
+    "meaning_ko": "배포하다, (자원을) 투입하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "풀어 (dis)"
+        },
+        {
+          "text": "ploy",
+          "type": "root",
+          "gloss": "접다 (plic)"
+        }
+      ],
+      "story": "라틴어 displicare → 프랑스어 déployer(펼치다) → 군대를 전개하다 → 서비스를 배포하다"
+    },
+    "example": {
+      "q": "Walk me through how you release a new feature.",
+      "a": "I deploy it behind a feature flag first, so we can turn it off instantly if error rates rise.",
+      "a_ko": "먼저 기능 플래그 뒤에 배포해서, 에러율이 오르면 바로 끌 수 있게 합니다."
+    },
+    "collocations": [
+      "deploy to production",
+      "deploy a model",
+      "deploy resources"
+    ],
+    "related": [
+      "deployment",
+      "display",
+      "employ",
+      "apply"
+    ],
+    "tip": "deploy to production 처럼 to + 환경. 사람·자원을 '투입하다'라는 뜻도 있음"
+  },
+  {
+    "id": "d07-B04",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "employer",
+    "pos": "noun",
+    "ipa": "/ɪmˈplɔɪər/",
+    "meaning_ko": "고용주, (다니는) 회사",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "em",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "ploy",
+          "type": "root",
+          "gloss": "접다 (plic)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "안으로 접어 넣다(implicare) → 일에 끌어들이다 → 고용하다(employ) → 고용하는 쪽"
+    },
+    "example": {
+      "q": "Why are you leaving your current employer?",
+      "a": "My current employer is great, but I want to work on larger-scale systems.",
+      "a_ko": "지금 회사도 좋지만, 더 큰 규모의 시스템을 다뤄 보고 싶습니다."
+    },
+    "collocations": [
+      "current employer",
+      "previous employer",
+      "equal opportunity employer"
+    ],
+    "related": [
+      "employee",
+      "employment",
+      "deploy",
+      "imply"
+    ],
+    "tip": "전 직장을 말할 때 my previous employer 라고 하면 격식 있게 들림"
+  },
+  {
+    "id": "d07-B05",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "employee",
+    "pos": "noun",
+    "ipa": "/ɪmˈplɔɪiː/",
+    "meaning_ko": "직원",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "em",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "ploy",
+          "type": "root",
+          "gloss": "접다 (plic)"
+        },
+        {
+          "text": "ee",
+          "type": "suffix",
+          "gloss": "~되는 사람"
+        }
+      ],
+      "story": "일에 끌어들여진(employ) 사람 → 고용된 사람 → 직원"
+    },
+    "example": {
+      "q": "What kind of employee are you?",
+      "a": "I'm the kind of employee who raises problems early instead of hiding them.",
+      "a_ko": "저는 문제를 숨기지 않고 일찍 알리는 직원입니다."
+    },
+    "collocations": [
+      "full-time employee",
+      "new employee",
+      "employee onboarding"
+    ],
+    "related": [
+      "employer",
+      "employment",
+      "deploy",
+      "display"
+    ],
+    "tip": "-er 은 하는 쪽(고용주), -ee 는 받는 쪽(직원)"
+  },
+  {
+    "id": "d07-B06",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "exploit",
+    "pos": "verb",
+    "ipa": "/ɪkˈsplɔɪt/",
+    "meaning_ko": "(취약점을) 악용하다, 활용하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "ploit",
+          "type": "root",
+          "gloss": "펼치다 (plic)"
+        }
+      ],
+      "story": "라틴어 explicitum(펼쳐진 것) → 고대 프랑스어 esploit(성취) → 이득을 끌어내다 → (약점을) 악용하다"
+    },
+    "example": {
+      "q": "Have you dealt with security issues?",
+      "a": "We found that an outdated library could be exploited, so I patched it and added dependency scanning to our CI.",
+      "a_ko": "오래된 라이브러리가 악용될 수 있다는 걸 발견해서, 패치하고 CI에 의존성 검사를 추가했습니다."
+    },
+    "collocations": [
+      "exploit a vulnerability",
+      "be exploited",
+      "zero-day exploit"
+    ],
+    "related": [
+      "explicit",
+      "deploy",
+      "display",
+      "apply"
+    ],
+    "tip": "명사 exploit 은 '공격 코드'. 사람에게 쓰면 '착취하다'가 되니 조심"
+  },
+  {
+    "id": "d07-B07",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "duplicate",
+    "pos": "verb",
+    "ipa": "/ˈduːplɪkeɪt/",
+    "meaning_ko": "중복되게 하다, 복제하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "du",
+          "type": "prefix",
+          "gloss": "둘 (duo)"
+        },
+        {
+          "text": "plic",
+          "type": "root",
+          "gloss": "접다"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "두 겹으로 접다(duplicare) → 두 배로 만들다 → 똑같이 하나 더 만들다, 중복하다"
+    },
+    "example": {
+      "q": "How do you keep your code clean?",
+      "a": "I avoid duplicating logic by moving shared code into one module.",
+      "a_ko": "공통 코드를 하나의 모듈로 옮겨서 로직이 중복되지 않게 합니다."
+    },
+    "collocations": [
+      "duplicate code",
+      "duplicate records",
+      "duplicate effort"
+    ],
+    "related": [
+      "deduplication",
+      "replica",
+      "multiple",
+      "complex"
+    ],
+    "tip": "동사는 '두플리케이트', 형용사·명사는 '두플리컷'처럼 끝이 약해짐"
+  },
+  {
+    "id": "d07-B08",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "deduplication",
+    "pos": "noun",
+    "ipa": "/diːˌduːplɪˈkeɪʃn/",
+    "meaning_ko": "중복 제거",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "없애다 (de)"
+        },
+        {
+          "text": "du",
+          "type": "prefix",
+          "gloss": "둘 (duo)"
+        },
+        {
+          "text": "plic",
+          "type": "root",
+          "gloss": "접다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "두 겹(duplicate)을 없앰 → 중복 제거"
+    },
+    "example": {
+      "q": "How did you improve data quality?",
+      "a": "I added a deduplication step to the pipeline, which removed about five percent of duplicate customer records.",
+      "a_ko": "파이프라인에 중복 제거 단계를 넣어 중복된 고객 레코드를 약 5% 없앴습니다."
+    },
+    "collocations": [
+      "data deduplication",
+      "deduplication logic"
+    ],
+    "related": [
+      "duplicate",
+      "replication",
+      "simplify"
+    ],
+    "tip": "줄여서 dedup(디덥)이라고도 함"
+  },
+  {
+    "id": "d07-B09",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "replica",
+    "pos": "noun",
+    "ipa": "/ˈreplɪkə/",
+    "meaning_ko": "복제본, 레플리카",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "plic",
+          "type": "root",
+          "gloss": "접다"
+        },
+        {
+          "text": "a",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        }
+      ],
+      "story": "라틴어 replicare(다시 접다·되풀이하다) → 이탈리아어 replica(되풀이) → 되풀이해 만든 것 → 복제본"
+    },
+    "example": {
+      "q": "How did you scale reads on your database?",
+      "a": "We added two read replicas and routed reporting queries to them, which cut the load on the primary by half.",
+      "a_ko": "읽기 전용 복제본 두 개를 추가하고 리포트용 쿼리를 그쪽으로 보내서, 기본 DB 부하를 절반으로 줄였습니다."
+    },
+    "collocations": [
+      "read replica",
+      "replica set",
+      "exact replica"
+    ],
+    "related": [
+      "replication",
+      "reply",
+      "duplicate",
+      "apply"
+    ],
+    "tip": "DB 확장 질문에서 바로 쓰는 단어. 강세는 첫 음절 '레'"
+  },
+  {
+    "id": "d07-B10",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "replication",
+    "pos": "noun",
+    "ipa": "/ˌreplɪˈkeɪʃn/",
+    "meaning_ko": "복제, 레플리케이션",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "plic",
+          "type": "root",
+          "gloss": "접다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "다시 접다(replicare) → 똑같이 되풀이함 → (데이터) 복제"
+    },
+    "example": {
+      "q": "How do you protect data against failures?",
+      "a": "We use replication across availability zones, so losing one zone doesn't mean losing data.",
+      "a_ko": "가용 영역 간에 데이터를 복제해 두어서, 한 영역이 죽어도 데이터는 잃지 않습니다."
+    },
+    "collocations": [
+      "database replication",
+      "replication lag",
+      "asynchronous replication"
+    ],
+    "related": [
+      "replica",
+      "reply",
+      "duplicate",
+      "multiple"
+    ],
+    "tip": "replication lag(복제 지연)도 같이 외우기"
+  },
+  {
+    "id": "d07-B11",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "connect",
+    "pos": "verb",
+    "ipa": "/kəˈnekt/",
+    "meaning_ko": "연결하다, 이어 주다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "nect",
+          "type": "root",
+          "gloss": "묶다"
+        }
+      ],
+      "story": "함께 묶다(conectere) → 잇다 → 연결하다"
+    },
+    "example": {
+      "q": "Why are you interested in our company?",
+      "a": "Your product connects small businesses with customers, and I care about that mission.",
+      "a_ko": "귀사의 제품은 소상공인과 고객을 이어 주는데, 저는 그 미션에 공감합니다."
+    },
+    "collocations": [
+      "connect with",
+      "connect A to B",
+      "stay connected"
+    ],
+    "related": [
+      "connection",
+      "connectivity",
+      "disconnect",
+      "annex"
+    ],
+    "tip": "사람과 '마음이 통하다'도 connect with"
+  },
+  {
+    "id": "d07-B12",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "connection",
+    "pos": "noun",
+    "ipa": "/kəˈnekʃn/",
+    "meaning_ko": "연결, 커넥션",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "nect",
+          "type": "root",
+          "gloss": "묶다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "함께 묶음 → 연결"
+    },
+    "example": {
+      "q": "Tell me about a performance issue you fixed.",
+      "a": "I fixed slow responses by reusing database connections through a connection pool.",
+      "a_ko": "커넥션 풀로 데이터베이스 연결을 재사용해서 느린 응답을 해결했습니다."
+    },
+    "collocations": [
+      "connection pool",
+      "network connection",
+      "in connection with"
+    ],
+    "related": [
+      "connect",
+      "connectivity",
+      "reliable"
+    ],
+    "tip": "connection pool, connection timeout 처럼 IT 합성어가 많음"
+  },
+  {
+    "id": "d07-B13",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "reliable",
+    "pos": "adjective",
+    "ipa": "/rɪˈlaɪəbl/",
+    "meaning_ko": "믿을 수 있는, 신뢰할 만한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "단단히·다시"
+        },
+        {
+          "text": "li",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "단단히 묶다(religare → 고대 프랑스어 relier) → 기대다(rely) → 기댈 수 있는 → 믿을 만한"
+    },
+    "example": {
+      "q": "What would your teammates say about you?",
+      "a": "They would say I'm reliable because I always deliver what I promise.",
+      "a_ko": "제가 약속한 건 늘 해내서 믿을 만하다고 말할 겁니다."
+    },
+    "collocations": [
+      "reliable source",
+      "highly reliable",
+      "reliable teammate"
+    ],
+    "related": [
+      "reliability",
+      "rely",
+      "ally",
+      "liaison"
+    ],
+    "tip": "rely on(~에 의지하다)의 형용사. 강점 질문의 단골 단어"
+  },
+  {
+    "id": "d07-B14",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "reliability",
+    "pos": "noun",
+    "ipa": "/rɪˌlaɪəˈbɪləti/",
+    "meaning_ko": "안정성, 신뢰성",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "단단히·다시"
+        },
+        {
+          "text": "li",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        },
+        {
+          "text": "ability",
+          "type": "suffix",
+          "gloss": "~할 수 있음"
+        }
+      ],
+      "story": "기댈 수 있음(reliable) → 믿을 수 있는 정도 → (시스템의) 안정성"
+    },
+    "example": {
+      "q": "What does good engineering mean to you?",
+      "a": "For me it means reliability first, because a fast feature is useless if the service keeps going down.",
+      "a_ko": "저에게는 안정성이 먼저입니다. 서비스가 계속 죽으면 빨리 만든 기능도 소용이 없으니까요."
+    },
+    "collocations": [
+      "site reliability engineering",
+      "improve reliability",
+      "reliability target"
+    ],
+    "related": [
+      "reliable",
+      "rely",
+      "liability",
+      "ally"
+    ],
+    "tip": "SRE = Site Reliability Engineering"
+  },
+  {
+    "id": "d07-B15",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "ally",
+    "pos": "noun",
+    "ipa": "/ˈælaɪ/",
+    "meaning_ko": "협력자, 우군",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "al",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "ly",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        }
+      ],
+      "story": "라틴어 alligare(~에 묶다) → 고대 프랑스어 alier → 한편으로 묶인 사람 → 동맹, 협력자"
+    },
+    "example": {
+      "q": "How did you get support for your idea?",
+      "a": "I found an ally in the product manager, who helped me present the data to leadership.",
+      "a_ko": "프로덕트 매니저라는 협력자를 찾았고, 그분이 경영진에게 데이터를 발표하는 걸 도와주었습니다."
+    },
+    "collocations": [
+      "find an ally",
+      "a strong ally",
+      "ally with"
+    ],
+    "related": [
+      "alliance",
+      "rally",
+      "reliable",
+      "liaison"
+    ],
+    "tip": "명사는 '앨라이'로 첫 음절에, 동사는 '얼라이'로 둘째 음절에 강세가 오는 경우가 많음"
+  },
+  {
+    "id": "d07-B16",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "rally",
+    "pos": "verb",
+    "ipa": "/ˈræli/",
+    "meaning_ko": "(사람들을) 결집시키다, 힘을 모으다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "r",
+          "type": "prefix",
+          "gloss": "다시 (re)"
+        },
+        {
+          "text": "ally",
+          "type": "root",
+          "gloss": "한편으로 묶다 (ad + lig)"
+        }
+      ],
+      "story": "프랑스어 rallier = re(다시) + allier(한편으로 묶다) → 흩어진 사람을 다시 모으다 → 결집시키다"
+    },
+    "example": {
+      "q": "Tell me about a time you led without authority.",
+      "a": "During a long outage, I rallied engineers from three teams around a single incident channel and a clear plan.",
+      "a_ko": "긴 장애가 났을 때, 세 팀의 엔지니어를 하나의 장애 대응 채널과 명확한 계획 아래로 모았습니다."
+    },
+    "collocations": [
+      "rally the team",
+      "rally around",
+      "rally support"
+    ],
+    "related": [
+      "ally",
+      "alliance",
+      "reliable"
+    ],
+    "tip": "rally the team 은 리더십 질문에 쓰기 좋은 표현"
+  },
+  {
+    "id": "d07-B17",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "liaison",
+    "pos": "noun",
+    "ipa": "/ˈliːəzɑːn/",
+    "meaning_ko": "연락 담당, 가교 역할",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "liais",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        },
+        {
+          "text": "on",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 ligare → 프랑스어 lier(묶다) → 묶어 주는 것 → 연결 → 연락 담당"
+    },
+    "example": {
+      "q": "How do you work with non-technical teams?",
+      "a": "I acted as the liaison between our engineers and a Japanese client, translating requirements in both directions.",
+      "a_ko": "엔지니어와 일본 고객사 사이에서 연락 담당을 맡아 양쪽의 요구사항을 서로 전달했습니다."
+    },
+    "collocations": [
+      "act as a liaison",
+      "liaison between A and B",
+      "liaison role"
+    ],
+    "related": [
+      "ally",
+      "rally",
+      "reliable",
+      "liability"
+    ],
+    "tip": "발음 '리-어전'. 한국 회사에서 말하는 '브릿지' 역할을 영어로는 이렇게"
+  },
+  {
+    "id": "d07-B18",
+    "day": 7,
+    "level": 3,
+    "set": "B",
+    "family": "F7",
+    "word": "alliance",
+    "pos": "noun",
+    "ipa": "/əˈlaɪəns/",
+    "meaning_ko": "협력 관계, 동맹",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "al",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "li",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "~에 묶임(ally) → 한편이 됨 → 협력 관계, 동맹"
+    },
+    "example": {
+      "q": "How do you work across departments?",
+      "a": "I built an alliance with the QA lead early on, so when deadlines got tight, we already trusted each other and could cut scope together.",
+      "a_ko": "초기부터 QA 리드와 협력 관계를 쌓아 두었기 때문에, 마감이 빠듯해졌을 때 이미 서로 믿고 함께 범위를 줄일 수 있었습니다."
+    },
+    "collocations": [
+      "build an alliance",
+      "form an alliance",
+      "strategic alliance"
+    ],
+    "related": [
+      "ally",
+      "rally",
+      "reliable",
+      "liaison"
+    ],
+    "tip": "회사 간 제휴(strategic alliance)에도 쓰지만, 면접에서는 '부서 간 협력 관계'로 쓰면 시니어답게 들림"
+  },
+  {
+    "id": "d07-B19",
+    "day": 7,
+    "level": 3,
+    "set": "B",
+    "family": "F7",
+    "word": "liability",
+    "pos": "noun",
+    "ipa": "/ˌlaɪəˈbɪləti/",
+    "meaning_ko": "부담(이 되는 것), 법적 책임",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "li",
+          "type": "root",
+          "gloss": "묶다 (lig)"
+        },
+        {
+          "text": "ability",
+          "type": "suffix",
+          "gloss": "~할 수 있음"
+        }
+      ],
+      "story": "(법·의무에) 묶일 수 있음(liable) → 책임 → 짐이 되는 존재"
+    },
+    "example": {
+      "q": "What would you do with a system nobody wants to touch?",
+      "a": "That legacy service had become a liability because only one engineer understood it, so I documented it and trained two others before we refactored it.",
+      "a_ko": "그 레거시 서비스는 아는 사람이 한 명뿐이라 이미 부담이 되어 있었습니다. 그래서 리팩터링 전에 문서화하고 두 명을 더 교육했습니다."
+    },
+    "collocations": [
+      "become a liability",
+      "legal liability",
+      "limited liability"
+    ],
+    "related": [
+      "reliable",
+      "reliability",
+      "ally",
+      "liaison"
+    ],
+    "tip": "asset(자산)의 반대말. a liability 는 '짐·골칫거리'라는 뜻으로 자주 씀"
+  },
+  {
+    "id": "d07-B20",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "attend",
+    "pos": "verb",
+    "ipa": "/əˈtend/",
+    "meaning_ko": "참석하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "at",
+          "type": "prefix",
+          "gloss": "~쪽으로 (ad)"
+        },
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다"
+        }
+      ],
+      "story": "~쪽으로 (마음을) 뻗다(attendere) → 주의를 기울이다 → 그 자리에 가다 → 참석하다"
+    },
+    "example": {
+      "q": "How do you keep learning outside work?",
+      "a": "I attend a local developer meetup every month to learn from other engineers.",
+      "a_ko": "매달 지역 개발자 모임에 참석해서 다른 엔지니어들에게 배웁니다."
+    },
+    "collocations": [
+      "attend a meeting",
+      "attend a conference",
+      "attend to"
+    ],
+    "related": [
+      "attention",
+      "intend",
+      "tend",
+      "extent"
+    ],
+    "tip": "attend 는 바로 목적어: attend a meeting (to 없음). attend to 는 '처리하다, 돌보다'"
+  },
+  {
+    "id": "d07-B21",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "attention",
+    "pos": "noun",
+    "ipa": "/əˈtenʃn/",
+    "meaning_ko": "주의, 관심",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "at",
+          "type": "prefix",
+          "gloss": "~쪽으로 (ad)"
+        },
+        {
+          "text": "tent",
+          "type": "root",
+          "gloss": "뻗다 (tend)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "~쪽으로 마음을 뻗음 → 주의, 관심"
+    },
+    "example": {
+      "q": "What is your greatest strength?",
+      "a": "My strength is attention to detail, especially when I review code.",
+      "a_ko": "제 강점은 꼼꼼함입니다. 특히 코드를 리뷰할 때 그렇습니다."
+    },
+    "collocations": [
+      "attention to detail",
+      "pay attention to",
+      "bring to someone's attention"
+    ],
+    "related": [
+      "attend",
+      "intention",
+      "tension",
+      "tend"
+    ],
+    "tip": "attention to detail = '꼼꼼함'. 강점 질문 단골 표현"
+  },
+  {
+    "id": "d07-B22",
+    "day": 7,
+    "level": 2,
+    "set": "B",
+    "family": "F7",
+    "word": "contend",
+    "pos": "verb",
+    "ipa": "/kənˈtend/",
+    "meaning_ko": "(어려움과) 씨름하다, 주장하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께·힘껏"
+        },
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다"
+        }
+      ],
+      "story": "힘껏 뻗다(contendere) → 맞서 애쓰다 → (문제와) 씨름하다, 강하게 주장하다"
+    },
+    "example": {
+      "q": "What was the hardest part of that project?",
+      "a": "We had to contend with a ten-year-old codebase that had almost no tests.",
+      "a_ko": "테스트가 거의 없는 10년 된 코드베이스와 씨름해야 했습니다."
+    },
+    "collocations": [
+      "contend with",
+      "contend that",
+      "have to contend with"
+    ],
+    "related": [
+      "tend",
+      "attend",
+      "intend",
+      "extent"
+    ],
+    "tip": "contend with = deal with 의 격식 있는 버전. 형용사 contentious 는 Day 27"
+  },
+  {
+    "id": "d07-B23",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "catch up",
+    "pos": "phrasal verb",
+    "ipa": "/kætʃ ʌp/",
+    "meaning_ko": "따라잡다, (밀린 것을) 만회하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "catch",
+          "type": "part",
+          "gloss": "잡다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "끝까지"
+        }
+      ],
+      "story": "붙잡을 때까지 쫓아가다 → 뒤처진 것을 따라잡다"
+    },
+    "example": {
+      "q": "How do you get back to work after a long vacation?",
+      "a": "I catch up by reading the team's meeting notes and recent pull requests first.",
+      "a_ko": "먼저 팀 회의록과 최근 풀 리퀘스트를 읽으면서 밀린 내용을 따라잡습니다."
+    },
+    "collocations": [
+      "catch up on",
+      "catch up with",
+      "play catch-up"
+    ],
+    "related": [
+      "keep up with",
+      "ramp up",
+      "get used to"
+    ],
+    "tip": "catch up on + 밀린 일, catch up with + 사람·경쟁자"
+  },
+  {
+    "id": "d07-B24",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "get used to",
+    "pos": "phrase",
+    "ipa": "/ɡet ˈjuːst tə/",
+    "meaning_ko": "~에 익숙해지다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "get",
+          "type": "part",
+          "gloss": "~하게 되다"
+        },
+        {
+          "text": "used",
+          "type": "part",
+          "gloss": "익숙한"
+        },
+        {
+          "text": "to",
+          "type": "part",
+          "gloss": "~에"
+        }
+      ],
+      "story": "익숙한(used) 상태가 되다(get) → ~에 익숙해지다"
+    },
+    "example": {
+      "q": "How do you adapt to a new team?",
+      "a": "I got used to a new codebase quickly by fixing small bugs first.",
+      "a_ko": "작은 버그부터 고치면서 새 코드베이스에 빨리 익숙해졌습니다."
+    },
+    "collocations": [
+      "get used to it",
+      "get used to working",
+      "be used to"
+    ],
+    "related": [
+      "catch up",
+      "ramp up",
+      "pick up"
+    ],
+    "tip": "to 뒤에는 -ing: get used to working remotely. used 발음은 '유스트'"
+  },
+  {
+    "id": "d07-B25",
+    "day": 7,
+    "level": 1,
+    "set": "B",
+    "family": "F7",
+    "word": "pick up",
+    "pos": "phrasal verb",
+    "ipa": "/pɪk ʌp/",
+    "meaning_ko": "(기술을) 금방 익히다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pick",
+          "type": "part",
+          "gloss": "집다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로"
+        }
+      ],
+      "story": "집어 들다 → 자연스럽게 얻다 → (기술·언어를) 금방 익히다"
+    },
+    "example": {
+      "q": "How fast do you learn new technologies?",
+      "a": "I pick up new languages quickly; I learned Go in two weeks for a project.",
+      "a_ko": "새 언어를 빨리 익힙니다. 한 프로젝트를 위해 Go를 2주 만에 배웠습니다."
+    },
+    "collocations": [
+      "pick up a skill",
+      "pick up quickly",
+      "pick up where I left off"
+    ],
+    "related": [
+      "catch up",
+      "get used to",
+      "learning curve"
+    ],
+    "tip": "learn 보다 '자연스럽게 금방 익히다'라는 느낌"
+  }
+]

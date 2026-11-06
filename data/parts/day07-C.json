@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "d07-C01",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "conversation",
+  "pos": "noun",
+  "ipa": "/ˌkɑːnvərˈseɪʃn/",
+  "meaning_ko": "대화",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "라틴어 conversari(함께 돌며 지내다) → 함께 어울림 → 대화"
+  },
+  "example": {
+   "q": "How do you handle disagreements with a coworker?",
+   "a": "I start a private conversation and listen to their reasons first.",
+   "a_ko": "따로 대화를 시작해서 먼저 그 사람의 이유를 듣습니다."
+  },
+  "collocations": [
+   "have a conversation",
+   "start a conversation",
+   "one-on-one conversation"
+  ],
+  "related": [
+   "conversely",
+   "controversial",
+   "convert",
+   "reverse"
+  ],
+  "tip": "갈등 질문에서는 argue 대신 have a conversation 이라고 하면 부드러움"
+ },
+ {
+  "id": "d07-C02",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "controversial",
+  "pos": "adjective",
+  "ipa": "/ˌkɑːntrəˈvɜːrʃl/",
+  "meaning_ko": "논란이 많은, 의견이 갈리는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "contro",
+     "type": "prefix",
+     "gloss": "반대로 (contra)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "반대쪽으로 돌린(controversus) → 의견이 맞서는 → 논란이 많은"
+  },
+  "example": {
+   "q": "Tell me about a time you made an unpopular decision.",
+   "a": "Dropping support for the old API was controversial, so I shared usage data showing only two percent of clients still used it.",
+   "a_ko": "구 API 지원을 중단하는 건 논란이 컸기 때문에, 아직 쓰는 고객이 2%뿐이라는 사용 데이터를 공유했습니다."
+  },
+  "collocations": [
+   "a controversial decision",
+   "highly controversial",
+   "controversial topic"
+  ],
+  "related": [
+   "conversation",
+   "reverse",
+   "diverse",
+   "adverse"
+  ],
+  "tip": "발음 '칸트러-버-셜'. 명사는 controversy"
+ },
+ {
+  "id": "d07-C03",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "reverse",
+  "pos": "verb",
+  "ipa": "/rɪˈvɜːrs/",
+  "meaning_ko": "뒤집다, 거꾸로 하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "뒤로 돌린(reversus) → 거꾸로의 → 뒤집다, 거꾸로 하다"
+  },
+  "example": {
+   "q": "How did you fix the timeout issue?",
+   "a": "I reversed the order of two middleware layers, and the timeout disappeared.",
+   "a_ko": "미들웨어 두 개의 순서를 뒤집었더니 타임아웃이 사라졌습니다."
+  },
+  "collocations": [
+   "reverse the order",
+   "reverse proxy",
+   "reverse a decision"
+  ],
+  "related": [
+   "irreversible",
+   "revert",
+   "inversion",
+   "diverse"
+  ],
+  "tip": "reverse proxy(리버스 프록시)는 인프라 면접 필수 용어"
+ },
+ {
+  "id": "d07-C04",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "irreversible",
+  "pos": "adjective",
+  "ipa": "/ˌɪrɪˈvɜːrsəbl/",
+  "meaning_ko": "되돌릴 수 없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ir",
+     "type": "prefix",
+     "gloss": "~아닌 (in)"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "뒤로 돌릴 수 없는 → 되돌릴 수 없는"
+  },
+  "example": {
+   "q": "How do you decide how carefully to review a change?",
+   "a": "I spend more review time on irreversible changes, like deleting data, than on changes we can easily roll back.",
+   "a_ko": "데이터 삭제처럼 되돌릴 수 없는 변경에는, 쉽게 롤백할 수 있는 변경보다 리뷰 시간을 더 씁니다."
+  },
+  "collocations": [
+   "irreversible change",
+   "irreversible decision",
+   "irreversible damage"
+  ],
+  "related": [
+   "reverse",
+   "revert",
+   "inversion",
+   "versatile"
+  ],
+  "tip": "'one-way door'(되돌릴 수 없는 결정)라는 표현과 같이 쓰면 좋음"
+ },
+ {
+  "id": "d07-C05",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "revert",
+  "pos": "verb",
+  "ipa": "/rɪˈvɜːrt/",
+  "meaning_ko": "되돌리다, 원래대로 돌아가다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "뒤로 돌리다(revertere) → 원래 상태로 되돌리다"
+  },
+  "example": {
+   "q": "What do you do when a release breaks production?",
+   "a": "I revert the commit first to restore service, and then investigate the root cause calmly.",
+   "a_ko": "먼저 커밋을 되돌려 서비스를 복구하고, 그다음 차분하게 근본 원인을 조사합니다."
+  },
+  "collocations": [
+   "revert a commit",
+   "revert the change",
+   "revert to"
+  ],
+  "related": [
+   "reverse",
+   "irreversible",
+   "inversion",
+   "convert"
+  ],
+  "tip": "Git 의 git revert. 메일의 'I'll revert to you(답장 드릴게요)'는 인도식 영어라 피하는 게 좋음"
+ },
+ {
+  "id": "d07-C06",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "diverse",
+  "pos": "adjective",
+  "ipa": "/daɪˈvɜːrs/",
+  "meaning_ko": "다양한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "갈라져 (dis)"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "서로 다른 방향으로 돌린(diversus) → 제각각인 → 다양한"
+  },
+  "example": {
+   "q": "What kind of team do you like to work in?",
+   "a": "I like diverse teams because different backgrounds lead to better ideas.",
+   "a_ko": "배경이 다르면 더 좋은 아이디어가 나오기 때문에 다양한 팀을 좋아합니다."
+  },
+  "collocations": [
+   "diverse team",
+   "diverse backgrounds",
+   "culturally diverse"
+  ],
+  "related": [
+   "diversity",
+   "divert",
+   "universal",
+   "conversation"
+  ],
+  "tip": "발음 '다이-버스', 강세는 둘째 음절"
+ },
+ {
+  "id": "d07-C07",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "diversity",
+  "pos": "noun",
+  "ipa": "/daɪˈvɜːrsəti/",
+  "meaning_ko": "다양성",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "갈라져 (dis)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "제각각임(diverse) → 다양성"
+  },
+  "example": {
+   "q": "Why does this company appeal to you?",
+   "a": "I value the diversity of your team; people from twenty countries work here.",
+   "a_ko": "귀사 팀의 다양성이 좋습니다. 20개국 출신이 함께 일하고 있으니까요."
+  },
+  "collocations": [
+   "diversity and inclusion",
+   "cultural diversity",
+   "value diversity"
+  ],
+  "related": [
+   "diverse",
+   "divert",
+   "adversity",
+   "universal"
+  ],
+  "tip": "D&I(diversity and inclusion)는 외국계 기업 면접에서 자주 나오는 주제"
+ },
+ {
+  "id": "d07-C08",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "divert",
+  "pos": "verb",
+  "ipa": "/daɪˈvɜːrt/",
+  "meaning_ko": "(다른 곳으로) 돌리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "갈라져·다른 쪽으로 (dis)"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "다른 쪽으로 돌리다(divertere) → (자원·주의를) 돌리다"
+  },
+  "example": {
+   "q": "How do you handle unplanned requests?",
+   "a": "If a request is urgent, I divert one engineer to it, but I tell stakeholders what will be delayed as a result.",
+   "a_ko": "급한 요청이면 엔지니어 한 명을 그쪽으로 돌리되, 그 때문에 무엇이 늦어지는지 이해관계자에게 알립니다."
+  },
+  "collocations": [
+   "divert resources",
+   "divert attention",
+   "divert traffic"
+  ],
+  "related": [
+   "diverse",
+   "diversity",
+   "revert",
+   "avert"
+  ],
+  "tip": "IT 에서는 divert traffic(트래픽을 다른 서버로 돌리다)으로도 씀"
+ },
+ {
+  "id": "d07-C09",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "universal",
+  "pos": "adjective",
+  "ipa": "/ˌjuːnɪˈvɜːrsl/",
+  "meaning_ko": "보편적인, 모두에게 통하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "uni",
+     "type": "prefix",
+     "gloss": "하나"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "하나로 돌려 모은(universus) → 전체의 → 모두에게 통하는"
+  },
+  "example": {
+   "q": "What's your favorite framework?",
+   "a": "There's no universal answer, so I choose tools based on the problem.",
+   "a_ko": "모든 경우에 맞는 답은 없어서, 문제에 맞춰 도구를 고릅니다."
+  },
+  "collocations": [
+   "universal solution",
+   "universal truth",
+   "near-universal"
+  ],
+  "related": [
+   "university",
+   "diverse",
+   "conversation",
+   "reverse"
+  ],
+  "tip": "There's no universal solution 은 '정답은 상황마다 다르다'를 말할 때 유용"
+ },
+ {
+  "id": "d07-C10",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "university",
+  "pos": "noun",
+  "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+  "meaning_ko": "대학교",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "uni",
+     "type": "prefix",
+     "gloss": "하나"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "하나로 모인 전체(universitas) → 선생·학생의 조합 → 대학교"
+  },
+  "example": {
+   "q": "Tell me about your education.",
+   "a": "I studied computer science at a university in Seoul.",
+   "a_ko": "서울에 있는 대학교에서 컴퓨터공학을 전공했습니다."
+  },
+  "collocations": [
+   "at university",
+   "university degree",
+   "graduate from university"
+  ],
+  "related": [
+   "universal",
+   "diversity",
+   "conversation"
+  ],
+  "tip": "a university — u 가 '유' 발음이라 an 이 아니라 a"
+ },
+ {
+  "id": "d07-C11",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "advertise",
+  "pos": "verb",
+  "ipa": "/ˈædvərtaɪz/",
+  "meaning_ko": "광고하다, (채용) 공고를 내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ise",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "라틴어 advertere(~쪽으로 돌리다) → 주의를 그쪽으로 돌리게 하다 → 알리다 → 광고하다"
+  },
+  "example": {
+   "q": "How did you hear about this position?",
+   "a": "I saw the role advertised on LinkedIn, and it matched my skills well.",
+   "a_ko": "링크드인에 올라온 채용 공고를 봤는데, 제 기술과 잘 맞았습니다."
+  },
+  "collocations": [
+   "advertise a position",
+   "as advertised",
+   "advertise for"
+  ],
+  "related": [
+   "adverse",
+   "inadvertently",
+   "avert",
+   "diverse"
+  ],
+  "tip": "'공고된 자리'는 the advertised role. 명사는 advertisement (줄여서 ad)"
+ },
+ {
+  "id": "d07-C12",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "introvert",
+  "pos": "noun",
+  "ipa": "/ˈɪntrəvɜːrt/",
+  "meaning_ko": "내향적인 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "intro",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "안으로 돌린 (마음) → 관심이 안쪽을 향하는 사람 → 내향적인 사람"
+  },
+  "example": {
+   "q": "Are you comfortable working with others?",
+   "a": "I'm an introvert, but I speak up clearly when it matters.",
+   "a_ko": "저는 내향적인 편이지만, 중요할 때는 분명하게 의견을 말합니다."
+  },
+  "collocations": [
+   "a natural introvert",
+   "introverted personality"
+  ],
+  "related": [
+   "extrovert",
+   "convert",
+   "reverse",
+   "diverse"
+  ],
+  "tip": "MBTI 의 I. 형용사는 introverted"
+ },
+ {
+  "id": "d07-C13",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "extrovert",
+  "pos": "noun",
+  "ipa": "/ˈekstrəvɜːrt/",
+  "meaning_ko": "외향적인 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "extro",
+     "type": "prefix",
+     "gloss": "밖으로 (extra)"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "밖으로 돌린 (마음) → 관심이 바깥을 향하는 사람 → 외향적인 사람"
+  },
+  "example": {
+   "q": "How would you describe your personality?",
+   "a": "I'm an extrovert, so I enjoy running team workshops and demos.",
+   "a_ko": "외향적인 편이라 팀 워크숍과 데모를 진행하는 걸 즐깁니다."
+  },
+  "collocations": [
+   "a natural extrovert",
+   "extroverted"
+  ],
+  "related": [
+   "introvert",
+   "advertise",
+   "reverse"
+  ],
+  "tip": "extravert 철자도 있음. MBTI 의 E"
+ },
+ {
+  "id": "d07-C14",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "vertical",
+  "pos": "adjective",
+  "ipa": "/ˈvɜːrtɪkl/",
+  "meaning_ko": "수직의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vertic",
+     "type": "root",
+     "gloss": "꼭대기 (vertex ← vert 돌리다)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "vertex(소용돌이 → 정수리·꼭대기) → 꼭대기 방향의 → 수직의"
+  },
+  "example": {
+   "q": "How did you scale the service?",
+   "a": "We started with vertical scaling, then moved to horizontal scaling as traffic grew.",
+   "a_ko": "처음에는 수직 확장으로 시작했고, 트래픽이 늘면서 수평 확장으로 바꿨습니다."
+  },
+  "collocations": [
+   "vertical scaling",
+   "vertical slice",
+   "vertical integration"
+  ],
+  "related": [
+   "vertex",
+   "reverse",
+   "inversion"
+  ],
+  "tip": "vertical scaling(서버를 더 크게) vs horizontal scaling(서버를 더 많이)"
+ },
+ {
+  "id": "d07-C15",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "vertex",
+  "pos": "noun",
+  "ipa": "/ˈvɜːrteks/",
+  "meaning_ko": "(그래프의) 정점, 꼭짓점",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ex",
+     "type": "suffix",
+     "gloss": "(명사 어미)"
+    }
+   ],
+   "story": "라틴어 vertex(도는 곳·소용돌이) → 정수리·꼭대기 → 꼭짓점 → 그래프의 정점"
+  },
+  "example": {
+   "q": "How would you detect circular dependencies?",
+   "a": "I'd model each service as a vertex and each call as an edge, then run cycle detection on the graph.",
+   "a_ko": "각 서비스를 정점, 각 호출을 간선으로 보고 그래프에서 사이클을 찾겠습니다."
+  },
+  "collocations": [
+   "vertex and edge",
+   "adjacent vertex"
+  ],
+  "related": [
+   "vertical",
+   "traverse",
+   "inversion"
+  ],
+  "tip": "복수형은 vertices(버-티시즈). node 와 거의 같은 뜻"
+ },
+ {
+  "id": "d07-C16",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "inversion",
+  "pos": "noun",
+  "ipa": "/ɪnˈvɜːrʒn/",
+  "meaning_ko": "역전, 뒤집기",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안쪽으로 돌려 뒤집다(invertere) → 거꾸로 함 → 역전"
+  },
+  "example": {
+   "q": "Which design principles do you follow?",
+   "a": "I follow dependency inversion, so business logic depends on interfaces, not on a specific database.",
+   "a_ko": "의존성 역전 원칙을 따라서, 비즈니스 로직이 특정 데이터베이스가 아니라 인터페이스에 의존하게 합니다."
+  },
+  "collocations": [
+   "dependency inversion",
+   "inversion of control",
+   "priority inversion"
+  ],
+  "related": [
+   "reverse",
+   "revert",
+   "vertical",
+   "traverse"
+  ],
+  "tip": "SOLID 의 D = Dependency Inversion Principle"
+ },
+ {
+  "id": "d07-C17",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "traverse",
+  "pos": "verb",
+  "ipa": "/trəˈvɜːrs/",
+  "meaning_ko": "순회하다, 가로지르다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tra",
+     "type": "prefix",
+     "gloss": "가로질러 (trans)"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "라틴어 transversus(가로로 돌린) → 가로지르다 → (트리·그래프를) 차례로 훑다"
+  },
+  "example": {
+   "q": "How would you solve this tree problem?",
+   "a": "I'd traverse the tree with breadth-first search, because we need the shortest path from the root.",
+   "a_ko": "루트에서 가장 짧은 경로가 필요하니, 너비 우선 탐색으로 트리를 순회하겠습니다."
+  },
+  "collocations": [
+   "traverse a tree",
+   "traverse a graph",
+   "tree traversal"
+  ],
+  "related": [
+   "vertex",
+   "reverse",
+   "inversion",
+   "diverse"
+  ],
+  "tip": "명사는 traversal. 코딩 테스트에서 자주 말하게 됨"
+ },
+ {
+  "id": "d07-C18",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "averse",
+  "pos": "adjective",
+  "ipa": "/əˈvɜːrs/",
+  "meaning_ko": "~을 꺼리는, 싫어하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "떨어져 (ab)"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "얼굴을 돌린(aversus) → 피하는 → ~을 꺼리는"
+  },
+  "example": {
+   "q": "How do you approach risk?",
+   "a": "I'm not risk-averse, but I always make sure we have a rollback plan before trying something new.",
+   "a_ko": "위험을 꺼리지는 않지만, 새로운 시도 전에는 꼭 롤백 계획을 마련해 둡니다."
+  },
+  "collocations": [
+   "risk-averse",
+   "averse to change",
+   "conflict-averse"
+  ],
+  "related": [
+   "avert",
+   "adverse",
+   "diverse",
+   "reverse"
+  ],
+  "tip": "averse(꺼리는)와 adverse(불리한)는 철자가 비슷해서 자주 헷갈림"
+ },
+ {
+  "id": "d07-C19",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "adverse",
+  "pos": "adjective",
+  "ipa": "/ædˈvɜːrs/",
+  "meaning_ko": "부정적인, 불리한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로 (맞서)"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "~쪽으로 돌아선(adversus) → 맞서는 → 불리한, 부정적인"
+  },
+  "example": {
+   "q": "How do you test a change before rolling it out?",
+   "a": "We run a canary release first, and if we see any adverse effect on latency, we stop the rollout.",
+   "a_ko": "먼저 카나리 배포를 하고, 지연 시간에 부정적인 영향이 보이면 배포를 멈춥니다."
+  },
+  "collocations": [
+   "adverse effect",
+   "adverse impact",
+   "adverse conditions"
+  ],
+  "related": [
+   "adversity",
+   "averse",
+   "advertise",
+   "inadvertently"
+  ],
+  "tip": "negative 보다 격식 있는 표현. adverse effect 를 덩어리로"
+ },
+ {
+  "id": "d07-C20",
+  "day": 7,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "adversity",
+  "pos": "noun",
+  "ipa": "/ədˈvɜːrsəti/",
+  "meaning_ko": "역경, 어려움",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로 (맞서)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "맞서 오는 것(adversus) → 불리한 처지 → 역경"
+  },
+  "example": {
+   "q": "Tell me about a time you faced adversity.",
+   "a": "When half our team left, I faced real adversity, but I took over their services and kept every release on schedule.",
+   "a_ko": "팀원 절반이 떠났을 때 큰 어려움을 겪었지만, 그들이 맡던 서비스를 넘겨받아 모든 릴리스를 일정대로 지켰습니다."
+  },
+  "collocations": [
+   "face adversity",
+   "overcome adversity",
+   "in the face of adversity"
+  ],
+  "related": [
+   "adverse",
+   "averse",
+   "diversity",
+   "advertise"
+  ],
+  "tip": "STAR 질문 'Tell me about a time you faced adversity'를 그대로 받아서 답하기"
+ },
+ {
+  "id": "d07-C21",
+  "day": 7,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "avert",
+  "pos": "verb",
+  "ipa": "/əˈvɜːrt/",
+  "meaning_ko": "(사고를) 막다, 피하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "떨어져 (ab)"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "다른 쪽으로 돌려 버리다(avertere) → (위험을) 비껴가게 하다 → 막다"
+  },
+  "example": {
+   "q": "Tell me about a time you prevented a problem.",
+   "a": "I noticed disk usage climbing on a Friday night, expanded the volume, and averted an outage that would have hit our weekend sales.",
+   "a_ko": "금요일 밤에 디스크 사용량이 오르는 걸 발견하고 볼륨을 늘려, 주말 매출에 타격을 줄 뻔한 장애를 막았습니다."
+  },
+  "collocations": [
+   "avert an outage",
+   "avert a crisis",
+   "narrowly avert"
+  ],
+  "related": [
+   "averse",
+   "divert",
+   "revert",
+   "adverse"
+  ],
+  "tip": "prevent 보다 '닥쳐오던 위기를 아슬아슬하게 막다'라는 느낌"
+ },
+ {
+  "id": "d07-C22",
+  "day": 7,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "inadvertently",
+  "pos": "adverb",
+  "ipa": "/ˌɪnədˈvɜːrtəntli/",
+  "meaning_ko": "무심코, 의도치 않게",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~아닌"
+    },
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "마음을 그쪽으로 돌리지(advertere) 않은 채 → 주의하지 않고 → 무심코"
+  },
+  "example": {
+   "q": "Tell me about a mistake you made.",
+   "a": "I once inadvertently deleted a staging table, so I owned it right away, restored it from backup, and added a confirmation step to the script.",
+   "a_ko": "한번은 무심코 스테이징 테이블을 지운 적이 있습니다. 바로 제 실수라고 알리고 백업에서 복구한 뒤, 스크립트에 확인 단계를 넣었습니다."
+  },
+  "collocations": [
+   "inadvertently delete",
+   "inadvertently cause",
+   "inadvertently expose"
+  ],
+  "related": [
+   "advertise",
+   "adverse",
+   "avert",
+   "versatile"
+  ],
+  "tip": "실수 질문에서 '일부러 그런 건 아니었다'를 자연스럽게 전달"
+ },
+ {
+  "id": "d07-C23",
+  "day": 7,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "versatile",
+  "pos": "adjective",
+  "ipa": "/ˈvɜːrsətl/",
+  "meaning_ko": "다재다능한, 쓰임새가 많은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "atile",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 versatilis(잘 도는) → 이리저리 방향을 바꿀 수 있는 → 다재다능한"
+  },
+  "example": {
+   "q": "Why should we hire you?",
+   "a": "I'm versatile: I've owned backend services, set up CI pipelines, and stepped in on the frontend when we were short-staffed.",
+   "a_ko": "저는 다재다능합니다. 백엔드 서비스를 맡았고, CI 파이프라인도 구축했고, 인원이 부족할 때는 프론트엔드도 지원했습니다."
+  },
+  "collocations": [
+   "versatile engineer",
+   "versatile tool",
+   "highly versatile"
+  ],
+  "related": [
+   "reverse",
+   "diverse",
+   "conversation",
+   "version"
+  ],
+  "tip": "발음 '버-서틀'. versatile 이라고만 하지 말고 바로 예시 2~3개를 붙이기"
+ },
+ {
+  "id": "d07-C24",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "settle in",
+  "pos": "phrasal verb",
+  "ipa": "/ˌsetəl ˈɪn/",
+  "meaning_ko": "(새 환경에) 자리 잡다, 적응하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "settle",
+     "type": "part",
+     "gloss": "자리 잡다 (고대 영어 setl 자리)"
+    },
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "안에"
+    }
+   ],
+   "story": "자리 안에 앉다 → 새 곳에 익숙해지다"
+  },
+  "example": {
+   "q": "How do you adapt to a new team?",
+   "a": "I settle in quickly by asking lots of questions in my first weeks.",
+   "a_ko": "처음 몇 주 동안 질문을 많이 하면서 빨리 적응합니다."
+  },
+  "collocations": [
+   "settle in quickly",
+   "settle into a new role"
+  ],
+  "related": [
+   "settle",
+   "get used to"
+  ],
+  "tip": "settle into + 장소/역할 형태로도 자주 씀"
+ },
+ {
+  "id": "d07-C25",
+  "day": 7,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "roll back",
+  "pos": "phrasal verb",
+  "ipa": "/roʊl bæk/",
+  "meaning_ko": "(이전 버전으로) 되돌리다, 롤백하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "roll",
+     "type": "part",
+     "gloss": "굴리다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "뒤로"
+    }
+   ],
+   "story": "뒤로 굴려 되돌리다 → 이전 상태로 되돌리다"
+  },
+  "example": {
+   "q": "What happens if a deployment fails?",
+   "a": "We roll back to the previous version within five minutes.",
+   "a_ko": "5분 안에 이전 버전으로 롤백합니다."
+  },
+  "collocations": [
+   "roll back a release",
+   "roll back to",
+   "rollback plan"
+  ],
+  "related": [
+   "revert",
+   "reverse",
+   "workaround"
+  ],
+  "tip": "동사는 띄어서 roll back, 명사는 붙여서 rollback"
+ }
+]

@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "d03-D01",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "stay",
+    "pos": "verb",
+    "ipa": "/steɪ/",
+    "meaning_ko": "(상태를) 유지하다, 머물다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stay",
+          "type": "root",
+          "gloss": "서다·머물다 (sta)"
+        }
+      ],
+      "story": "서다(stare) → 고대 프랑스어 ester → 그 자리에 서 있다 → 머물다·계속 ~한 상태이다"
+    },
+    "example": {
+      "q": "How do you keep your skills current?",
+      "a": "I stay up to date by reading release notes and building small side projects.",
+      "a_ko": "릴리스 노트를 읽고 작은 사이드 프로젝트를 만들면서 최신 흐름을 따라갑니다."
+    },
+    "collocations": [
+      "stay up to date",
+      "stay focused",
+      "stay calm"
+    ],
+    "related": [
+      "rest",
+      "remain",
+      "permanent",
+      "constant"
+    ],
+    "tip": "stay + 형용사(focused, calm, positive)로 태도를 말할 때 편리"
+  },
+  {
+    "id": "d03-D02",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "rest",
+    "pos": "noun",
+    "ipa": "/rest/",
+    "meaning_ko": "나머지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        }
+      ],
+      "story": "뒤에 서 있다(restare) → 남다 → 남은 것 → 나머지"
+    },
+    "example": {
+      "q": "What did you do after the prototype was approved?",
+      "a": "I built the core module and helped the rest of the team finish theirs.",
+      "a_ko": "핵심 모듈을 만들고, 나머지 팀원들이 맡은 부분을 끝내도록 도왔습니다."
+    },
+    "collocations": [
+      "the rest of the team",
+      "the rest of the day",
+      "for the rest of"
+    ],
+    "related": [
+      "stay",
+      "remain",
+      "remainder",
+      "constant"
+    ],
+    "tip": "'휴식'의 rest는 게르만어에서 온 다른 단어. '나머지' rest만 라틴어 restare"
+  },
+  {
+    "id": "d03-D03",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "remain",
+    "pos": "verb",
+    "ipa": "/rɪˈmeɪn/",
+    "meaning_ko": "남아 있다, 여전히 ~이다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "main",
+          "type": "root",
+          "gloss": "머물다 (manere)"
+        }
+      ],
+      "story": "뒤에 머물다 → 남다 → 계속 ~인 채로 있다"
+    },
+    "example": {
+      "q": "What is still challenging in that project?",
+      "a": "One issue remains: our test suite is still too slow.",
+      "a_ko": "한 가지 문제가 남아 있습니다. 테스트가 여전히 너무 느립니다."
+    },
+    "collocations": [
+      "remain calm",
+      "remain the same",
+      "remain open to"
+    ],
+    "related": [
+      "remainder",
+      "permanent",
+      "stay",
+      "rest"
+    ],
+    "tip": "maintain의 main(손)과 철자는 같지만 remain의 main은 manere(머물다)"
+  },
+  {
+    "id": "d03-D04",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "remainder",
+    "pos": "noun",
+    "ipa": "/rɪˈmeɪndɚ/",
+    "meaning_ko": "나머지, 남은 기간",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "main",
+          "type": "root",
+          "gloss": "머물다 (manere)"
+        },
+        {
+          "text": "der",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "뒤에 머물러 있는 것 → 남은 것 → 나머지"
+    },
+    "example": {
+      "q": "What would you focus on if you joined mid-year?",
+      "a": "For the remainder of the year, I'd focus on reducing our on-call alerts.",
+      "a_ko": "남은 기간 동안은 온콜 알림을 줄이는 데 집중하겠습니다."
+    },
+    "collocations": [
+      "the remainder of",
+      "for the remainder of the year"
+    ],
+    "related": [
+      "remain",
+      "permanent",
+      "rest",
+      "stay"
+    ],
+    "tip": "수학·코드에서는 나눗셈의 '나머지'(% 연산)도 remainder"
+  },
+  {
+    "id": "d03-D05",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "permanent",
+    "pos": "adjective",
+    "ipa": "/ˈpɝːmənənt/",
+    "meaning_ko": "정규의, 영구적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "끝까지"
+        },
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "머물다 (manere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "끝까지 머무는 → 오래 가는 → 영구적인·정규의"
+    },
+    "example": {
+      "q": "Are you looking for a contract role or a permanent one?",
+      "a": "I'm looking for a permanent role where I can grow for several years.",
+      "a_ko": "몇 년 동안 꾸준히 성장할 수 있는 정규직 자리를 찾고 있습니다."
+    },
+    "collocations": [
+      "permanent role",
+      "permanent fix",
+      "permanent position"
+    ],
+    "related": [
+      "remain",
+      "remainder",
+      "stay",
+      "rest"
+    ],
+    "tip": "temporary(임시의)와 짝으로 외우기. permanent fix는 '근본적인 수정'"
+  },
+  {
+    "id": "d03-D06",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "maintain",
+    "pos": "verb",
+    "ipa": "/meɪnˈteɪn/",
+    "meaning_ko": "유지보수하다, 유지하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "main",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "tain",
+          "type": "root",
+          "gloss": "쥐다 (tenere)"
+        }
+      ],
+      "story": "손에 쥐고 있다(manu tenere) → 계속 붙들다 → 유지하다"
+    },
+    "example": {
+      "q": "What do you do in your current role?",
+      "a": "I maintain three internal services and add new features every sprint.",
+      "a_ko": "사내 서비스 세 개를 유지보수하고, 스프린트마다 새 기능을 추가합니다."
+    },
+    "collocations": [
+      "maintain a service",
+      "maintain quality",
+      "easy to maintain"
+    ],
+    "related": [
+      "maintenance",
+      "manage",
+      "manual",
+      "manipulate"
+    ],
+    "tip": "main은 manus(손)에서 온 것으로, remain의 main(머물다)과 어원이 다름. tain은 tenere(쥐다)"
+  },
+  {
+    "id": "d03-D07",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "maintenance",
+    "pos": "noun",
+    "ipa": "/ˈmeɪntənəns/",
+    "meaning_ko": "유지보수, 점검",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "main",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "ten",
+          "type": "root",
+          "gloss": "쥐다 (tenere)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "손에 쥐고 있음 → 계속 돌봄 → 유지보수"
+    },
+    "example": {
+      "q": "How did you keep the legacy system running?",
+      "a": "I scheduled regular maintenance windows at night, so we could patch servers without affecting users.",
+      "a_ko": "야간에 정기 점검 시간을 잡아서, 사용자에게 영향을 주지 않고 서버를 패치할 수 있게 했습니다."
+    },
+    "collocations": [
+      "scheduled maintenance",
+      "maintenance window",
+      "low maintenance"
+    ],
+    "related": [
+      "maintain",
+      "manual",
+      "manage",
+      "manipulate"
+    ],
+    "tip": "철자 주의: maintain → maintenance (ai가 e로 바뀜)"
+  },
+  {
+    "id": "d03-D08",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "manage",
+    "pos": "verb",
+    "ipa": "/ˈmænɪdʒ/",
+    "meaning_ko": "관리하다, 해내다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "age",
+          "type": "suffix",
+          "gloss": "~하다 (이탈리아어 -eggiare)"
+        }
+      ],
+      "story": "손으로 (말을) 다루다(이탈리아어 maneggiare) → 다루다 → 관리하다·해내다"
+    },
+    "example": {
+      "q": "How do you manage competing priorities?",
+      "a": "I manage competing priorities by reviewing them with my lead every Monday.",
+      "a_ko": "매주 월요일 리드와 함께 검토하면서 겹치는 우선순위를 관리합니다."
+    },
+    "collocations": [
+      "manage a team",
+      "manage to do",
+      "manage expectations"
+    ],
+    "related": [
+      "manager",
+      "manual",
+      "maintain",
+      "maneuver"
+    ],
+    "tip": "manage to + 동사 = (어렵게) 해내다"
+  },
+  {
+    "id": "d03-D09",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "manager",
+    "pos": "noun",
+    "ipa": "/ˈmænɪdʒɚ/",
+    "meaning_ko": "매니저, 관리자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "ag",
+          "type": "suffix",
+          "gloss": "~하다"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "손으로 다루는 사람 → 관리하는 사람"
+    },
+    "example": {
+      "q": "Why are you leaving your current job?",
+      "a": "My manager has been very supportive, but I want bigger technical challenges.",
+      "a_ko": "매니저는 많이 지원해 줬지만, 더 큰 기술적 도전을 원합니다."
+    },
+    "collocations": [
+      "hiring manager",
+      "engineering manager",
+      "report to a manager"
+    ],
+    "related": [
+      "manage",
+      "manual",
+      "maintain"
+    ],
+    "tip": "면접관이 hiring manager(채용 담당 매니저)인 경우가 많음"
+  },
+  {
+    "id": "d03-D10",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "manual",
+    "pos": "adjective",
+    "ipa": "/ˈmænjuəl/",
+    "meaning_ko": "수동의, 손으로 하는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "manu",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "손의 → 손으로 하는 → 수동의"
+    },
+    "example": {
+      "q": "What task did you automate?",
+      "a": "I replaced a manual release checklist with a script that runs in two minutes.",
+      "a_ko": "수동 릴리스 체크리스트를 2분 만에 도는 스크립트로 바꿨습니다."
+    },
+    "collocations": [
+      "manual testing",
+      "manual process",
+      "user manual"
+    ],
+    "related": [
+      "manage",
+      "maintain",
+      "manipulate",
+      "maneuver"
+    ],
+    "tip": "반대말은 automated. 명사로는 '설명서'"
+  },
+  {
+    "id": "d03-D11",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "manipulate",
+    "pos": "verb",
+    "ipa": "/məˈnɪpjəleɪt/",
+    "meaning_ko": "(데이터를) 가공하다, 조작하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mani",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "pul",
+          "type": "root",
+          "gloss": "가득 채우다 → 한 줌 (manipulus)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "손(manus)에 한 줌(manipulus) 쥐다 → 손으로 다루다 → 가공·조작하다"
+    },
+    "example": {
+      "q": "What tools do you use for data work?",
+      "a": "I mainly use pandas to clean and manipulate large datasets before loading them into our warehouse.",
+      "a_ko": "주로 pandas로 대용량 데이터를 정리하고 가공한 뒤 데이터 웨어하우스에 적재합니다."
+    },
+    "collocations": [
+      "manipulate data",
+      "DOM manipulation",
+      "string manipulation"
+    ],
+    "related": [
+      "manual",
+      "manage",
+      "maintain",
+      "maneuver"
+    ],
+    "tip": "데이터·DOM에는 중립적인 '다루다'지만, 사람에게 쓰면 '조종하다'라는 나쁜 뜻이니 주의"
+  },
+  {
+    "id": "d03-D12",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "maneuver",
+    "pos": "noun",
+    "ipa": "/məˈnuːvɚ/",
+    "meaning_ko": "운신의 폭, (능숙한) 움직임",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "euver",
+          "type": "root",
+          "gloss": "일하다 (opera)"
+        }
+      ],
+      "story": "손으로 일하다(manu operari) → 능숙한 조작 → 움직임·운신"
+    },
+    "example": {
+      "q": "How did you handle a deadline that could not move?",
+      "a": "Since the date was fixed, our only room to maneuver was scope, so I negotiated which features could wait.",
+      "a_ko": "날짜가 고정돼 있어서 움직일 수 있는 건 범위뿐이었기에, 어떤 기능을 미룰 수 있을지 협의했습니다."
+    },
+    "collocations": [
+      "room to maneuver",
+      "a clever maneuver"
+    ],
+    "related": [
+      "manual",
+      "manipulate",
+      "manage",
+      "maintain"
+    ],
+    "tip": "room to maneuver(조정할 여지)로 자주 씀. 영국식 철자는 manoeuvre"
+  },
+  {
+    "id": "d03-D13",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "session",
+    "pos": "noun",
+    "ipa": "/ˈseʃən/",
+    "meaning_ko": "세션, (모임) 시간",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "앉아 있음 → 함께 앉아 하는 모임 → 한 번의 접속 기간"
+    },
+    "example": {
+      "q": "How do you handle user logins?",
+      "a": "We store session data in Redis and expire it after thirty minutes.",
+      "a_ko": "세션 데이터를 Redis에 저장하고 30분 뒤에 만료시킵니다."
+    },
+    "collocations": [
+      "user session",
+      "session timeout",
+      "knowledge-sharing session"
+    ],
+    "related": [
+      "assess",
+      "possess",
+      "obsess",
+      "supersede"
+    ],
+    "tip": "'앉아서 하는 모임'이 원뜻이라 회의·교육 시간도 session"
+  },
+  {
+    "id": "d03-D14",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "assess",
+    "pos": "verb",
+    "ipa": "/əˈses/",
+    "meaning_ko": "평가하다, 판단하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        }
+      ],
+      "story": "곁에 앉다(재판관 곁의 보좌관) → 세금·가치를 매기다 → 평가하다"
+    },
+    "example": {
+      "q": "How do you evaluate a new library before using it?",
+      "a": "I assess it by checking how active the maintainers are, how good the docs are, and whether it fits our license policy.",
+      "a_ko": "메인테이너가 얼마나 활발한지, 문서가 좋은지, 사내 라이선스 정책에 맞는지 확인해서 평가합니다."
+    },
+    "collocations": [
+      "assess the risk",
+      "assess the impact",
+      "assess whether"
+    ],
+    "related": [
+      "assessment",
+      "session",
+      "possess",
+      "supersede"
+    ],
+    "tip": "'상황·위험을 판단한다'는 느낌. assess the risk/impact로 자주 씀"
+  },
+  {
+    "id": "d03-D15",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "assessment",
+    "pos": "noun",
+    "ipa": "/əˈsesmənt/",
+    "meaning_ko": "평가, (채용) 과제 테스트",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "곁에 앉아 값을 매김 → 평가"
+    },
+    "example": {
+      "q": "What did you think of our coding assessment?",
+      "a": "I enjoyed the assessment, because it felt close to real work instead of puzzles, and it showed me what the team values.",
+      "a_ko": "퍼즐이 아니라 실제 업무에 가까워서 좋았고, 팀이 무엇을 중요하게 여기는지 알 수 있었습니다."
+    },
+    "collocations": [
+      "technical assessment",
+      "risk assessment",
+      "honest assessment"
+    ],
+    "related": [
+      "assess",
+      "session",
+      "possess",
+      "obsess"
+    ],
+    "tip": "채용 과정의 과제 테스트를 보통 coding/technical assessment라고 부름"
+  },
+  {
+    "id": "d03-D16",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "possess",
+    "pos": "verb",
+    "ipa": "/pəˈzes/",
+    "meaning_ko": "갖추다, 가지다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pos",
+          "type": "prefix",
+          "gloss": "주인으로 (potis)"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        }
+      ],
+      "story": "주인으로 앉다(possidere) → 차지하다 → 가지고 있다"
+    },
+    "example": {
+      "q": "Why do you think you are a good fit?",
+      "a": "I possess the two skills this role needs most, backend design and clear communication, and I've used both daily for five years.",
+      "a_ko": "이 직무에 가장 필요한 두 가지, 백엔드 설계와 명확한 소통 능력을 갖추고 있고, 5년 동안 매일 써 왔습니다."
+    },
+    "collocations": [
+      "possess skills",
+      "possess knowledge",
+      "possess the ability to"
+    ],
+    "related": [
+      "assess",
+      "obsess",
+      "session",
+      "supersede"
+    ],
+    "tip": "have보다 격식 있음. 여기 pos는 '놓다'가 아니라 potis(힘 있는·주인)"
+  },
+  {
+    "id": "d03-D17",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "obsess",
+    "pos": "verb",
+    "ipa": "/əbˈses/",
+    "meaning_ko": "집착하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "앞에·맞서"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        }
+      ],
+      "story": "앞을 막고 앉다(포위하다) → 마음을 사로잡다 → 집착하다"
+    },
+    "example": {
+      "q": "What is your biggest weakness?",
+      "a": "I sometimes obsess over small details, so now I set a time limit and ask for feedback earlier.",
+      "a_ko": "가끔 작은 부분에 집착하는 편이라, 이제는 시간 제한을 정하고 피드백을 더 일찍 받습니다."
+    },
+    "collocations": [
+      "obsess over",
+      "obsess about",
+      "customer-obsessed"
+    ],
+    "related": [
+      "possess",
+      "assess",
+      "session",
+      "supersede"
+    ],
+    "tip": "약점 질문 단골. customer-obsessed(고객에 집착하는)는 좋은 의미로도 씀"
+  },
+  {
+    "id": "d03-D18",
+    "day": 3,
+    "level": 3,
+    "set": "D",
+    "family": "F3",
+    "word": "subsidiary",
+    "pos": "noun",
+    "ipa": "/səbˈsɪdieri/",
+    "meaning_ko": "자회사",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래·뒤에"
+        },
+        {
+          "text": "sid",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "iary",
+          "type": "suffix",
+          "gloss": "~에 속한"
+        }
+      ],
+      "story": "뒤에 앉아 대기하는 예비 병력(subsidium) → 보조하는 것 → 자회사"
+    },
+    "example": {
+      "q": "What do you know about our company structure?",
+      "a": "I understand the Tokyo office is a subsidiary of the US company, so I expect to work closely with teams across time zones, which I've done before.",
+      "a_ko": "도쿄 오피스가 미국 본사의 자회사라고 알고 있어서, 시차가 있는 팀들과 긴밀히 일하게 될 거라 예상합니다. 전에도 해 본 일입니다."
+    },
+    "collocations": [
+      "a subsidiary of",
+      "wholly owned subsidiary",
+      "local subsidiary"
+    ],
+    "related": [
+      "session",
+      "assess",
+      "possess",
+      "supersede"
+    ],
+    "tip": "parent company(모회사)와 짝. 외국계 지사·자회사 면접에서 유용"
+  },
+  {
+    "id": "d03-D19",
+    "day": 3,
+    "level": 3,
+    "set": "D",
+    "family": "F3",
+    "word": "supersede",
+    "pos": "verb",
+    "ipa": "/ˌsuːpɚˈsiːd/",
+    "meaning_ko": "대체하다, 밀어내다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "super",
+          "type": "prefix",
+          "gloss": "위에"
+        },
+        {
+          "text": "sede",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        }
+      ],
+      "story": "위에 앉다 → (옛것의) 자리를 차지하다 → 대체하다"
+    },
+    "example": {
+      "q": "How did you handle the old API version?",
+      "a": "Once version two superseded the old API, we announced a six-month deprecation period and helped each client team migrate.",
+      "a_ko": "버전 2가 기존 API를 대체한 뒤, 6개월의 지원 종료 기간을 공지하고 각 클라이언트 팀의 이전을 도왔습니다."
+    },
+    "collocations": [
+      "be superseded by",
+      "supersede the old version"
+    ],
+    "related": [
+      "session",
+      "assess",
+      "possess",
+      "obsess"
+    ],
+    "tip": "철자 주의: -cede가 아니라 -sede (sedere 앉다)"
+  },
+  {
+    "id": "d03-D20",
+    "day": 3,
+    "level": 3,
+    "set": "D",
+    "family": "F3",
+    "word": "assiduous",
+    "pos": "adjective",
+    "ipa": "/əˈsɪdʒuəs/",
+    "meaning_ko": "꼼꼼하고 부지런한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sid",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "uous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "곁에 붙어 앉아 있는 → 꾸준히 매달리는 → 부지런하고 꼼꼼한"
+    },
+    "example": {
+      "q": "How do you make sure nothing is missed in a big migration?",
+      "a": "I'm assiduous about documentation: during our last migration, I kept a detailed runbook, and we finished with zero data loss.",
+      "a_ko": "문서화에 아주 꼼꼼합니다. 지난 마이그레이션 때 상세한 런북을 관리했고, 데이터 손실 없이 마쳤습니다."
+    },
+    "collocations": [
+      "assiduous about",
+      "assiduous attention to detail"
+    ],
+    "related": [
+      "session",
+      "assess",
+      "subsidiary",
+      "supersede"
+    ],
+    "tip": "diligent보다 격식 있는 말. 과장으로 들릴 수 있으니 답변 하나에 한 번만"
+  },
+  {
+    "id": "d03-D21",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "fix",
+    "pos": "verb",
+    "ipa": "/fɪks/",
+    "meaning_ko": "고치다, 수정하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fix",
+          "type": "root",
+          "gloss": "고정하다 (figere)"
+        }
+      ],
+      "story": "단단히 박다(figere, fixus) → 고정하다 → 바로잡다 → 고치다"
+    },
+    "example": {
+      "q": "Tell me about a bug you fixed recently.",
+      "a": "I fixed a memory leak that crashed our server every few days.",
+      "a_ko": "며칠마다 서버를 죽이던 메모리 누수를 고쳤습니다."
+    },
+    "collocations": [
+      "fix a bug",
+      "quick fix",
+      "fix the root cause"
+    ],
+    "related": [
+      "hotfix",
+      "suffix",
+      "fixed",
+      "fixture"
+    ],
+    "tip": "원래 '고정하다'. fixed price, fixed schedule(고정된 ~)로도 씀"
+  },
+  {
+    "id": "d03-D22",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "hotfix",
+    "pos": "noun",
+    "ipa": "/ˈhɑːtfɪks/",
+    "meaning_ko": "긴급 수정(패치)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hot",
+          "type": "part",
+          "gloss": "급한"
+        },
+        {
+          "text": "fix",
+          "type": "root",
+          "gloss": "고정하다 → 고치다 (figere)"
+        }
+      ],
+      "story": "급한(hot) + 수정(fix) → 운영 중 긴급 패치"
+    },
+    "example": {
+      "q": "How do you deal with a critical bug in production?",
+      "a": "We ship a hotfix from a separate branch, then merge it back so the fix is not lost in the next release.",
+      "a_ko": "별도 브랜치에서 긴급 수정을 배포하고, 다음 릴리스에서 빠지지 않도록 다시 병합합니다."
+    },
+    "collocations": [
+      "ship a hotfix",
+      "hotfix branch",
+      "apply a hotfix"
+    ],
+    "related": [
+      "fix",
+      "suffix",
+      "fixed",
+      "prefix"
+    ],
+    "tip": "정식 릴리스 주기를 기다리지 않는 긴급 패치. hot은 게르만어"
+  },
+  {
+    "id": "d03-D23",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "suffix",
+    "pos": "noun",
+    "ipa": "/ˈsʌfɪks/",
+    "meaning_ko": "접미사, 뒤에 붙는 문자열",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "suf",
+          "type": "prefix",
+          "gloss": "아래·뒤에 (sub)"
+        },
+        {
+          "text": "fix",
+          "type": "root",
+          "gloss": "붙이다 (figere)"
+        }
+      ],
+      "story": "아래(뒤)에 붙이다 → 끝에 붙는 것 → 접미사"
+    },
+    "example": {
+      "q": "How do you keep cloud resource names organized?",
+      "a": "We add an environment suffix such as dev or prod to every resource name, so nobody deletes the wrong one.",
+      "a_ko": "모든 리소스 이름 뒤에 dev나 prod 같은 환경 접미사를 붙여서, 누구도 엉뚱한 것을 지우지 않게 합니다."
+    },
+    "collocations": [
+      "add a suffix",
+      "file suffix",
+      "naming suffix"
+    ],
+    "related": [
+      "fix",
+      "hotfix",
+      "fixture",
+      "prefix"
+    ],
+    "tip": "앞에 붙는 것은 prefix, 뒤에 붙는 것은 suffix"
+  },
+  {
+    "id": "d03-D24",
+    "day": 3,
+    "level": 1,
+    "set": "D",
+    "family": "F3",
+    "word": "standup",
+    "pos": "noun",
+    "ipa": "/ˈstændʌp/",
+    "meaning_ko": "스탠드업 (짧은 일일 회의)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stand",
+          "type": "part",
+          "gloss": "서다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로"
+        }
+      ],
+      "story": "일어서서(stand up) 하는 회의 → 짧게 서서 진행하는 일일 회의"
+    },
+    "example": {
+      "q": "What does a typical day look like for you?",
+      "a": "My day starts with a fifteen-minute standup where we share blockers.",
+      "a_ko": "제 하루는 막힌 점을 공유하는 15분짜리 스탠드업으로 시작합니다."
+    },
+    "collocations": [
+      "daily standup",
+      "standup meeting",
+      "in the standup"
+    ],
+    "related": [
+      "teammate",
+      "workflow",
+      "stakeholder"
+    ],
+    "tip": "stand는 게르만어지만 라틴어 stare(서다)와 같은 인도유럽어 뿌리"
+  },
+  {
+    "id": "d03-D25",
+    "day": 3,
+    "level": 2,
+    "set": "D",
+    "family": "F3",
+    "word": "stakeholder",
+    "pos": "noun",
+    "ipa": "/ˈsteɪkˌhoʊldɚ/",
+    "meaning_ko": "이해관계자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stake",
+          "type": "part",
+          "gloss": "내기에 건 몫"
+        },
+        {
+          "text": "hold",
+          "type": "part",
+          "gloss": "쥐다"
+        },
+        {
+          "text": "er",
+          "type": "part",
+          "gloss": "사람"
+        }
+      ],
+      "story": "내기에 건 돈(stake)을 맡아 쥔 사람 → 일에 이해가 걸린 사람 → 이해관계자"
+    },
+    "example": {
+      "q": "How do you communicate with non-technical stakeholders?",
+      "a": "I avoid jargon and explain trade-offs in terms of time, cost, and user impact, so stakeholders can decide quickly.",
+      "a_ko": "전문 용어를 피하고 시간, 비용, 사용자 영향으로 트레이드오프를 설명해서 이해관계자가 빨리 결정할 수 있게 합니다."
+    },
+    "collocations": [
+      "key stakeholders",
+      "stakeholder management",
+      "align with stakeholders"
+    ],
+    "related": [
+      "teammate",
+      "coworker",
+      "standup"
+    ],
+    "tip": "원래 '내기 돈을 맡아 두는 사람'. 지금은 프로젝트에 이해가 걸린 모든 사람"
+  }
+]

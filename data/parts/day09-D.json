@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "d09-D01",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "address",
+    "pos": "verb",
+    "ipa": "/əˈdres/",
+    "meaning_ko": "(문제를) 다루다, 해결하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~을 향해"
+        },
+        {
+          "text": "dress",
+          "type": "root",
+          "gloss": "곧게 하다 (directiare←regere)"
+        }
+      ],
+      "story": "~을 향해 곧게 하다 → 겨냥하다 → (말·문제를) 정면으로 다루다"
+    },
+    "example": {
+      "q": "How do you handle conflicts on a team?",
+      "a": "I address conflicts early by talking to the person one-on-one.",
+      "a_ko": "갈등은 당사자와 일대일로 이야기해서 일찍 해결합니다."
+    },
+    "collocations": [
+      "address an issue",
+      "address concerns",
+      "IP address"
+    ],
+    "related": [
+      "dress code",
+      "direct",
+      "correct",
+      "rectify"
+    ],
+    "tip": "명사 '주소'는 /ˈædres/처럼 앞에 강세를 두기도 함"
+  },
+  {
+    "id": "d09-D02",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "dress code",
+    "pos": "noun",
+    "ipa": "/ˈdres ˌkoʊd/",
+    "meaning_ko": "복장 규정",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dress",
+          "type": "root",
+          "gloss": "바로 정돈하다 (directiare←regere)"
+        },
+        {
+          "text": "code",
+          "type": "part",
+          "gloss": "규정"
+        }
+      ],
+      "story": "몸을 바르게 정돈하다 → 옷을 입다 + 규정 → 복장 규정"
+    },
+    "example": {
+      "q": "Do you have any questions for us?",
+      "a": "Yes, could you tell me about the dress code and the remote work policy?",
+      "a_ko": "네, 복장 규정과 원격 근무 정책에 대해 여쭤봐도 될까요?"
+    },
+    "collocations": [
+      "casual dress code",
+      "business dress code",
+      "follow the dress code"
+    ],
+    "related": [
+      "address",
+      "direct",
+      "correct"
+    ],
+    "tip": "역질문 목록에 넣어 두면 좋은 표현. dress의 원뜻은 '바로잡다·정돈하다'"
+  },
+  {
+    "id": "d09-D03",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "rectangle",
+    "pos": "noun",
+    "ipa": "/ˈrekˌtæŋɡəl/",
+    "meaning_ko": "직사각형",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧은 (rectus←regere)"
+        },
+        {
+          "text": "angle",
+          "type": "root",
+          "gloss": "각 (angulus)"
+        }
+      ],
+      "story": "곧은(직각) 각을 가진 도형 → 직사각형"
+    },
+    "example": {
+      "q": "How do you explain a system design on the whiteboard?",
+      "a": "I draw each service as a rectangle and show the data flow with arrows.",
+      "a_ko": "서비스마다 직사각형으로 그리고 화살표로 데이터 흐름을 보여 줍니다."
+    },
+    "collocations": [
+      "draw a rectangle",
+      "bounding rectangle",
+      "rounded rectangle"
+    ],
+    "related": [
+      "rectify",
+      "correct",
+      "direct"
+    ],
+    "tip": "화이트보드 설계 면접에서 box와 함께 자주 쓰는 단어"
+  },
+  {
+    "id": "d09-D04",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "rule out",
+    "pos": "phrasal verb",
+    "ipa": "/ˌrul ˈaʊt/",
+    "meaning_ko": "배제하다, 가능성을 지우다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rule",
+          "type": "root",
+          "gloss": "규칙·판정하다 (regula←regere)"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖으로"
+        }
+      ],
+      "story": "판정해서 밖으로 빼다 → 후보에서 제외하다"
+    },
+    "example": {
+      "q": "How did you find the root cause?",
+      "a": "I checked the logs and ruled out a network issue first.",
+      "a_ko": "로그를 확인해서 먼저 네트워크 문제 가능성을 지웠습니다."
+    },
+    "collocations": [
+      "rule out a cause",
+      "rule out the possibility",
+      "can't rule out"
+    ],
+    "related": [
+      "rule of thumb",
+      "ground rules",
+      "guardrail"
+    ],
+    "tip": "디버깅 과정을 설명할 때 '원인을 하나씩 지워 나갔다'를 표현하기 좋음"
+  },
+  {
+    "id": "d09-D05",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "ground rules",
+    "pos": "noun",
+    "ipa": "/ˈɡraʊnd ˌrulz/",
+    "meaning_ko": "기본 규칙",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ground",
+          "type": "part",
+          "gloss": "바닥·기초"
+        },
+        {
+          "text": "rule",
+          "type": "root",
+          "gloss": "규칙 (regula←regere)"
+        },
+        {
+          "text": "s",
+          "type": "suffix",
+          "gloss": "(복수)"
+        }
+      ],
+      "story": "기초가 되는 규칙 → 함께 지키기로 정한 기본 규칙"
+    },
+    "example": {
+      "q": "How do you start a new project with a team?",
+      "a": "At kickoff, I like to set ground rules for code reviews, so feedback stays respectful and fast.",
+      "a_ko": "킥오프 때 코드 리뷰 기본 규칙을 정해서 피드백이 정중하고 빠르게 오가도록 합니다."
+    },
+    "collocations": [
+      "set ground rules",
+      "agree on ground rules",
+      "basic ground rules"
+    ],
+    "related": [
+      "rule of thumb",
+      "rule out",
+      "guardrail"
+    ],
+    "tip": "거의 항상 복수형 ground rules로 씀"
+  },
+  {
+    "id": "d09-D06",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "realm",
+    "pos": "noun",
+    "ipa": "/relm/",
+    "meaning_ko": "영역, 분야",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "realm",
+          "type": "root",
+          "gloss": "다스림 (regimen←regere)"
+        }
+      ],
+      "story": "다스리는 범위(왕국) → 활동 범위 → 분야·영역"
+    },
+    "example": {
+      "q": "Do you have machine learning experience?",
+      "a": "Machine learning is outside my core realm, but I've worked closely with data scientists to put their models into production.",
+      "a_ko": "머신러닝은 제 핵심 분야는 아니지만, 데이터 과학자들과 긴밀히 협업해서 모델을 실서비스에 올린 경험이 있습니다."
+    },
+    "collocations": [
+      "in the realm of",
+      "within the realm of possibility",
+      "realm of expertise"
+    ],
+    "related": [
+      "region",
+      "regional",
+      "direct"
+    ],
+    "tip": "발음은 /relm/ — a는 소리 나지 않음. field보다 문어적인 말"
+  },
+  {
+    "id": "d09-D07",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "conditional",
+    "pos": "adjective",
+    "ipa": "/kənˈdɪʃənəl/",
+    "meaning_ko": "조건부의, 조건문의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "dit",
+          "type": "root",
+          "gloss": "말하다 (dic)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "함께 말해 정한 조건의 → 조건에 따라 달라지는"
+    },
+    "example": {
+      "q": "How did you clean up that messy function?",
+      "a": "I replaced a long chain of conditional statements with a lookup table.",
+      "a_ko": "길게 이어진 조건문을 룩업 테이블로 바꿨습니다."
+    },
+    "collocations": [
+      "conditional statement",
+      "conditional logic",
+      "conditional offer"
+    ],
+    "related": [
+      "condition",
+      "predict",
+      "dictate",
+      "indicate"
+    ],
+    "tip": "conditional offer(조건부 합격)처럼 채용 과정에서도 쓰는 말"
+  },
+  {
+    "id": "d09-D08",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "revoke",
+    "pos": "verb",
+    "ipa": "/rɪˈvoʊk/",
+    "meaning_ko": "취소하다, (권한을) 회수하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "vok",
+          "type": "root",
+          "gloss": "부르다 (voc)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "다시 불러들이다 → 취소하다 → (권한을) 회수하다"
+    },
+    "example": {
+      "q": "How do you handle access when someone leaves the company?",
+      "a": "We revoke their access tokens automatically, so former employees lose access within an hour.",
+      "a_ko": "접근 토큰을 자동으로 회수해서 퇴사자는 한 시간 안에 접근 권한을 잃습니다."
+    },
+    "collocations": [
+      "revoke access",
+      "revoke a token",
+      "revoke permissions"
+    ],
+    "related": [
+      "irrevocable",
+      "advocate",
+      "vocal",
+      "invoke"
+    ],
+    "tip": "grant(부여) ↔ revoke(회수)는 보안 면접 필수 짝"
+  },
+  {
+    "id": "d09-D09",
+    "day": 9,
+    "level": 3,
+    "set": "D",
+    "family": "F9",
+    "word": "irrevocable",
+    "pos": "adjective",
+    "ipa": "/ɪˈrevəkəbəl/",
+    "meaning_ko": "되돌릴 수 없는, 취소 불가능한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ir",
+          "type": "prefix",
+          "gloss": "아닌 (in)"
+        },
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "voc",
+          "type": "root",
+          "gloss": "부르다"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "다시 불러들일 수 없는 → 되돌릴 수 없는"
+    },
+    "example": {
+      "q": "How do you work safely in production?",
+      "a": "Before running an irrevocable operation like dropping a table, I always take a backup and ask a colleague to review the command.",
+      "a_ko": "테이블 삭제처럼 되돌릴 수 없는 작업을 하기 전에는 항상 백업을 하고 동료에게 명령어 검토를 부탁합니다."
+    },
+    "collocations": [
+      "irrevocable decision",
+      "irrevocable change",
+      "irrevocable damage"
+    ],
+    "related": [
+      "revoke",
+      "advocate",
+      "vocation",
+      "invoke"
+    ],
+    "tip": "발음 주의: 강세가 둘째 음절 rev에 있고 '보크' 소리가 나지 않음"
+  },
+  {
+    "id": "d09-D10",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "justify",
+    "pos": "verb",
+    "ipa": "/ˈdʒʌstəˌfaɪ/",
+    "meaning_ko": "정당화하다, 근거를 대다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "just",
+          "type": "root",
+          "gloss": "올바른 (jus 법)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 만들다"
+        }
+      ],
+      "story": "올바르게 만들다 → 옳음을 보이다 → 근거를 들어 설명하다"
+    },
+    "example": {
+      "q": "How do you make technical decisions?",
+      "a": "I justify my technical choices with data, such as benchmarks or cost estimates, rather than gut feeling.",
+      "a_ko": "기술적 선택은 감이 아니라 벤치마크나 비용 추정 같은 데이터로 근거를 댑니다."
+    },
+    "collocations": [
+      "justify a decision",
+      "hard to justify",
+      "justify the cost"
+    ],
+    "related": [
+      "justification",
+      "judgment",
+      "prejudice",
+      "legitimate"
+    ],
+    "tip": "'Can you justify that?'은 압박 질문. 숫자로 답하면 강함"
+  },
+  {
+    "id": "d09-D11",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "justification",
+    "pos": "noun",
+    "ipa": "/ˌdʒʌstəfɪˈkeɪʃən/",
+    "meaning_ko": "근거, 정당화",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "just",
+          "type": "root",
+          "gloss": "올바른 (jus 법)"
+        },
+        {
+          "text": "ific",
+          "type": "suffix",
+          "gloss": "만들다 (facere)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "올바르게 만드는 일 → 옳다는 근거"
+    },
+    "example": {
+      "q": "How did you get approval to move to Kubernetes?",
+      "a": "I wrote a one-page justification that compared costs and showed how much time we would save on deployments.",
+      "a_ko": "비용을 비교하고 배포 시간을 얼마나 줄일 수 있는지 보여 주는 한 장짜리 근거 문서를 작성했습니다."
+    },
+    "collocations": [
+      "technical justification",
+      "business justification",
+      "without justification"
+    ],
+    "related": [
+      "justify",
+      "judgment",
+      "legitimate"
+    ],
+    "tip": "문서 편집에서 '양쪽 맞춤'도 justification"
+  },
+  {
+    "id": "d09-D12",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "do justice to",
+    "pos": "phrase",
+    "ipa": "/du ˈdʒʌstɪs tu/",
+    "meaning_ko": "제대로 보여 주다, 제 가치를 살리다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "do",
+          "type": "part",
+          "gloss": "하다"
+        },
+        {
+          "text": "just",
+          "type": "root",
+          "gloss": "올바른 (jus 법)"
+        },
+        {
+          "text": "ice",
+          "type": "suffix",
+          "gloss": "~함"
+        },
+        {
+          "text": "to",
+          "type": "part",
+          "gloss": "~에게"
+        }
+      ],
+      "story": "~에게 올바름(정당한 대우)을 해 주다 → 제 가치를 제대로 보여 주다"
+    },
+    "example": {
+      "q": "Can you briefly summarize your biggest project?",
+      "a": "A short answer can't really do justice to that project, but let me share the three key results.",
+      "a_ko": "짧은 답으로는 그 프로젝트를 제대로 전달하기 어렵지만, 핵심 성과 세 가지를 말씀드리겠습니다."
+    },
+    "collocations": [
+      "do justice to",
+      "not do it justice",
+      "do yourself justice"
+    ],
+    "related": [
+      "justify",
+      "justification",
+      "judgment",
+      "the jury is still out"
+    ],
+    "tip": "'doesn't do it justice'처럼 목적어를 중간에 넣는 형태도 자주 씀"
+  },
+  {
+    "id": "d09-D13",
+    "day": 9,
+    "level": 3,
+    "set": "D",
+    "family": "F9",
+    "word": "the jury is still out",
+    "pos": "phrase",
+    "ipa": "/ðə ˈdʒʊri ɪz ˌstɪl ˈaʊt/",
+    "meaning_ko": "아직 결론이 나지 않았다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "the",
+          "type": "part",
+          "gloss": "그"
+        },
+        {
+          "text": "jur",
+          "type": "root",
+          "gloss": "맹세하다 (jurare←jus 법)"
+        },
+        {
+          "text": "y",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        },
+        {
+          "text": "is still out",
+          "type": "part",
+          "gloss": "아직 나가 있다"
+        }
+      ],
+      "story": "맹세한 배심원단이 아직 평의하러 나가 있다 → 판결 전이다 → 아직 결론이 나지 않았다"
+    },
+    "example": {
+      "q": "What do you think about AI coding assistants?",
+      "a": "The jury is still out on whether they improve long-term code quality, so I review every suggestion carefully before merging.",
+      "a_ko": "장기적으로 코드 품질을 높이는지는 아직 결론이 나지 않아서, 머지하기 전에 모든 제안을 꼼꼼히 검토합니다."
+    },
+    "collocations": [
+      "the jury is still out on",
+      "the jury is out"
+    ],
+    "related": [
+      "judgment",
+      "justify",
+      "prejudice",
+      "jurisdiction"
+    ],
+    "tip": "확신 없는 주제에 대해 균형 잡힌 의견을 말할 때 좋은 표현"
+  },
+  {
+    "id": "d09-D14",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "judgment",
+    "pos": "noun",
+    "ipa": "/ˈdʒʌdʒmənt/",
+    "meaning_ko": "판단, 판단력",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "judg",
+          "type": "root",
+          "gloss": "판결하다 (judicare←jus+dic)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "법(jus)을 말하다(dic) → 판결하다 → 판단"
+    },
+    "example": {
+      "q": "How do you make decisions without enough data?",
+      "a": "I use my best judgment and then check it with a small experiment.",
+      "a_ko": "제 최선의 판단으로 결정한 뒤 작은 실험으로 검증합니다."
+    },
+    "collocations": [
+      "good judgment",
+      "use judgment",
+      "judgment call"
+    ],
+    "related": [
+      "misjudge",
+      "prejudice",
+      "judicious",
+      "justify",
+      "predict"
+    ],
+    "tip": "영국식 철자는 judgement. 미국 회사라면 judgment"
+  },
+  {
+    "id": "d09-D15",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "misjudge",
+    "pos": "verb",
+    "ipa": "/ˌmɪsˈdʒʌdʒ/",
+    "meaning_ko": "잘못 판단하다, 오판하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mis",
+          "type": "prefix",
+          "gloss": "잘못"
+        },
+        {
+          "text": "judge",
+          "type": "root",
+          "gloss": "판결하다 (judicare←jus+dic)"
+        }
+      ],
+      "story": "잘못 판결하다 → 오판하다"
+    },
+    "example": {
+      "q": "Tell me about a time you underestimated a task.",
+      "a": "Early in my career, I misjudged how long a migration would take, so now I always add buffer time to my estimates.",
+      "a_ko": "경력 초기에 마이그레이션 기간을 잘못 판단한 적이 있어서, 지금은 항상 추정치에 여유 시간을 둡니다."
+    },
+    "collocations": [
+      "misjudge the situation",
+      "misjudge the time",
+      "badly misjudge"
+    ],
+    "related": [
+      "judgment",
+      "prejudice",
+      "judicious",
+      "justify"
+    ],
+    "tip": "실수 질문에서 '무엇을 잘못 봤고 무엇을 바꿨는지'를 한 번에 말하는 단어"
+  },
+  {
+    "id": "d09-D16",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "prejudice",
+    "pos": "noun",
+    "ipa": "/ˈpredʒədɪs/",
+    "meaning_ko": "편견, 선입견",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "미리"
+        },
+        {
+          "text": "jud",
+          "type": "root",
+          "gloss": "판단 (judicium←jus+dic)"
+        },
+        {
+          "text": "ice",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "미리 내린 판단 → 편견"
+    },
+    "example": {
+      "q": "How do you handle ideas from junior teammates?",
+      "a": "I review every idea without prejudice, judging it on evidence rather than on who suggested it.",
+      "a_ko": "모든 아이디어를 편견 없이 보고, 누가 냈는지가 아니라 근거로 판단합니다."
+    },
+    "collocations": [
+      "without prejudice",
+      "unconscious prejudice",
+      "prejudice against"
+    ],
+    "related": [
+      "judgment",
+      "misjudge",
+      "judicious",
+      "justify"
+    ],
+    "tip": "bias보다 강한 말. 'without prejudice'로 공정함을 강조"
+  },
+  {
+    "id": "d09-D17",
+    "day": 9,
+    "level": 3,
+    "set": "D",
+    "family": "F9",
+    "word": "judicious",
+    "pos": "adjective",
+    "ipa": "/dʒuˈdɪʃəs/",
+    "meaning_ko": "신중한, 현명한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "judic",
+          "type": "root",
+          "gloss": "판단 (judicium←jus+dic)"
+        },
+        {
+          "text": "ious",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "판단력이 있는 → 분별 있고 신중한"
+    },
+    "example": {
+      "q": "How do you balance performance and complexity?",
+      "a": "We made judicious use of caching only on our slowest endpoints, which cut response times in half without adding much complexity.",
+      "a_ko": "가장 느린 엔드포인트에만 캐싱을 신중하게 적용해서, 복잡도는 크게 늘리지 않고 응답 시간을 절반으로 줄였습니다."
+    },
+    "collocations": [
+      "judicious use of",
+      "judicious choice",
+      "judicious approach"
+    ],
+    "related": [
+      "judgment",
+      "prejudice",
+      "misjudge",
+      "justify"
+    ],
+    "tip": "'judicious use of ~(~을 꼭 필요한 곳에만 씀)'를 덩어리로 외우기"
+  },
+  {
+    "id": "d09-D18",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "legitimate",
+    "pos": "adjective",
+    "ipa": "/lɪˈdʒɪtəmət/",
+    "meaning_ko": "타당한, 정당한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "법 (lex)"
+        },
+        {
+          "text": "itim",
+          "type": "suffix",
+          "gloss": "~에 맞는 (-itimus)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "법에 맞는 → 정당한 → 타당한"
+    },
+    "example": {
+      "q": "How do you handle customer complaints?",
+      "a": "I treat every complaint as a legitimate signal, because complaints often reveal bugs that our tests missed.",
+      "a_ko": "고객 불만은 테스트가 놓친 버그를 드러내는 경우가 많아서, 모두 타당한 신호로 받아들입니다."
+    },
+    "collocations": [
+      "legitimate concern",
+      "legitimate reason",
+      "perfectly legitimate"
+    ],
+    "related": [
+      "legal",
+      "privilege",
+      "loyal",
+      "legacy"
+    ],
+    "tip": "'That's a legitimate concern.'은 상대 의견을 인정할 때 쓰는 좋은 표현"
+  },
+  {
+    "id": "d09-D19",
+    "day": 9,
+    "level": 2,
+    "set": "D",
+    "family": "F9",
+    "word": "privilege",
+    "pos": "noun",
+    "ipa": "/ˈprɪvəlɪdʒ/",
+    "meaning_ko": "(접근) 권한, 특권",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "privi",
+          "type": "root",
+          "gloss": "개인의 (privus)"
+        },
+        {
+          "text": "lege",
+          "type": "root",
+          "gloss": "법 (lex)"
+        }
+      ],
+      "story": "한 사람에게만 적용되는 법 → 특권 → 시스템 접근 권한"
+    },
+    "example": {
+      "q": "How do you secure your cloud services?",
+      "a": "I follow the principle of least privilege, giving each service only the permissions it actually needs.",
+      "a_ko": "최소 권한 원칙에 따라 각 서비스에 실제로 필요한 권한만 줍니다."
+    },
+    "collocations": [
+      "least privilege",
+      "admin privileges",
+      "privilege escalation"
+    ],
+    "related": [
+      "privileged",
+      "legitimate",
+      "loyal",
+      "legal"
+    ],
+    "tip": "보안 면접 필수어: least privilege(최소 권한), privilege escalation(권한 상승)"
+  },
+  {
+    "id": "d09-D20",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "privileged",
+    "pos": "adjective",
+    "ipa": "/ˈprɪvəlɪdʒd/",
+    "meaning_ko": "영광스러운, 특권을 가진",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "privi",
+          "type": "root",
+          "gloss": "개인의 (privus)"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "법 (lex)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "특권(한 사람만의 법)을 받은 → 혜택을 받은 → 영광스러운"
+    },
+    "example": {
+      "q": "What did you enjoy most about your last team?",
+      "a": "I feel privileged to have worked with such talented engineers.",
+      "a_ko": "그렇게 뛰어난 엔지니어들과 함께 일할 수 있어서 영광이었습니다."
+    },
+    "collocations": [
+      "feel privileged",
+      "privileged access",
+      "privileged account"
+    ],
+    "related": [
+      "privilege",
+      "legitimate",
+      "loyal"
+    ],
+    "tip": "'I feel privileged to ~'는 감사와 겸손을 함께 보여 줌"
+  },
+  {
+    "id": "d09-D21",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "loyal",
+    "pos": "adjective",
+    "ipa": "/ˈlɔɪəl/",
+    "meaning_ko": "충실한, 의리 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loy",
+          "type": "root",
+          "gloss": "법 (lex→legalis)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "법(의무)에 맞는 → 의무를 지키는 → 충실한 (legal과 같은 뿌리)"
+    },
+    "example": {
+      "q": "Why did you stay at your last company so long?",
+      "a": "I'm loyal to teams that help me grow, and that team really did.",
+      "a_ko": "저를 성장시켜 주는 팀에는 오래 함께하는 편인데, 그 팀이 정말 그랬습니다."
+    },
+    "collocations": [
+      "loyal to",
+      "loyal customer",
+      "stay loyal"
+    ],
+    "related": [
+      "loyalty",
+      "legal",
+      "legitimate",
+      "privilege"
+    ],
+    "tip": "loyal과 legal은 같은 라틴어 legalis에서 갈라진 쌍둥이 단어"
+  },
+  {
+    "id": "d09-D22",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "loyalty",
+    "pos": "noun",
+    "ipa": "/ˈlɔɪəlti/",
+    "meaning_ko": "충성심, 의리",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loy",
+          "type": "root",
+          "gloss": "법 (lex→legalis)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ty",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "의무를 지키는 마음 → 충성심"
+    },
+    "example": {
+      "q": "Why are you leaving your current job?",
+      "a": "I have strong loyalty to my team, but I want bigger technical challenges now.",
+      "a_ko": "지금 팀에 애정이 크지만, 이제는 더 큰 기술적 도전을 원합니다."
+    },
+    "collocations": [
+      "customer loyalty",
+      "loyalty to",
+      "brand loyalty"
+    ],
+    "related": [
+      "loyal",
+      "legitimate",
+      "privilege",
+      "legal"
+    ],
+    "tip": "이직 사유 질문에서 전 직장을 깎아내리지 않는 답변에 쓰기 좋음"
+  },
+  {
+    "id": "d09-D23",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "heads-up",
+    "pos": "noun",
+    "ipa": "/ˈhedz ˌʌp/",
+    "meaning_ko": "미리 알림, 사전 경고",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "heads",
+          "type": "part",
+          "gloss": "머리들"
+        },
+        {
+          "text": "-",
+          "type": "part",
+          "gloss": "(연결)"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로"
+        }
+      ],
+      "story": "고개를 들어라 → 주의하라고 미리 알려 줌"
+    },
+    "example": {
+      "q": "How do you reduce risk during a big deployment?",
+      "a": "I give the support team a heads-up before any risky release.",
+      "a_ko": "위험한 릴리스 전에는 항상 지원팀에 미리 알려 둡니다."
+    },
+    "collocations": [
+      "give someone a heads-up",
+      "a quick heads-up",
+      "thanks for the heads-up"
+    ],
+    "related": [
+      "warn",
+      "notify",
+      "let someone know"
+    ],
+    "tip": "'Thanks for the heads-up.'은 미리 알려 준 상대에게 쓰는 짧은 감사 표현"
+  },
+  {
+    "id": "d09-D24",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "looking back",
+    "pos": "phrase",
+    "ipa": "/ˌlʊkɪŋ ˈbæk/",
+    "meaning_ko": "돌이켜 보면",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "look",
+          "type": "part",
+          "gloss": "보다"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하면서"
+        },
+        {
+          "text": "back",
+          "type": "part",
+          "gloss": "뒤로"
+        }
+      ],
+      "story": "뒤를 돌아보면서 → 돌이켜 보면"
+    },
+    "example": {
+      "q": "What would you do differently on that project?",
+      "a": "Looking back, I should have asked for help much sooner.",
+      "a_ko": "돌이켜 보면, 훨씬 더 일찍 도움을 요청했어야 했습니다."
+    },
+    "collocations": [
+      "looking back",
+      "looking back on",
+      "when I look back"
+    ],
+    "related": [
+      "in hindsight",
+      "in retrospect",
+      "retrospective"
+    ],
+    "tip": "뒤에 'I should have ~'를 붙이면 반성과 배움을 자연스럽게 말할 수 있음"
+  },
+  {
+    "id": "d09-D25",
+    "day": 9,
+    "level": 1,
+    "set": "D",
+    "family": "F9",
+    "word": "that said",
+    "pos": "phrase",
+    "ipa": "/ˈðæt ˌsed/",
+    "meaning_ko": "그렇긴 하지만",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "that",
+          "type": "part",
+          "gloss": "그것"
+        },
+        {
+          "text": "said",
+          "type": "part",
+          "gloss": "말해진"
+        }
+      ],
+      "story": "그 말을 한 상태에서 → 그렇긴 하지만"
+    },
+    "example": {
+      "q": "Are you more of a frontend or backend engineer?",
+      "a": "I enjoy backend work most. That said, I'm comfortable building React screens too.",
+      "a_ko": "백엔드 일을 가장 좋아합니다. 그렇긴 하지만 React 화면 개발도 익숙합니다."
+    },
+    "collocations": [
+      "that said",
+      "having said that",
+      "with that said"
+    ],
+    "related": [
+      "however",
+      "having said that",
+      "on the other hand"
+    ],
+    "tip": "문장 맨 앞에 쓰고 쉼표를 찍음. but보다 세련된 전환"
+  }
+]

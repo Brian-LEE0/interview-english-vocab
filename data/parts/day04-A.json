@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "d04-A01",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "support",
+    "pos": "verb",
+    "ipa": "/səˈpɔːrt/",
+    "meaning_ko": "지원하다, 뒷받침하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sup",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "아래에서 받쳐 나르다 → 떠받치다 → 지원하다"
+    },
+    "example": {
+      "q": "How do you work with junior engineers?",
+      "a": "I support junior engineers through regular code reviews and pair programming.",
+      "a_ko": "정기적인 코드 리뷰와 페어 프로그래밍으로 주니어 엔지니어들을 지원합니다."
+    },
+    "collocations": [
+      "support the team",
+      "customer support",
+      "support a decision"
+    ],
+    "related": [
+      "supportive",
+      "report",
+      "import",
+      "transport",
+      "rapport"
+    ],
+    "tip": "명사로도 씀: technical support(기술 지원). help보다 '꾸준히 뒷받침한다'는 느낌"
+  },
+  {
+    "id": "d04-A02",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "supportive",
+    "pos": "adjective",
+    "ipa": "/səˈpɔːrtɪv/",
+    "meaning_ko": "힘이 되어 주는, 협조적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sup",
+          "type": "prefix",
+          "gloss": "아래에서 (sub)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "떠받쳐 주는 → 곁에서 힘이 되어 주는"
+    },
+    "example": {
+      "q": "What kind of team culture do you work best in?",
+      "a": "I do my best work in a supportive team where people share knowledge openly.",
+      "a_ko": "서로 지식을 열린 마음으로 나누는, 힘이 되어 주는 팀에서 가장 좋은 성과를 냅니다."
+    },
+    "collocations": [
+      "supportive environment",
+      "supportive manager",
+      "be supportive of"
+    ],
+    "related": [
+      "support",
+      "report",
+      "portable"
+    ],
+    "tip": "선호하는 팀 문화를 말할 때. be supportive of + 사람/아이디어"
+  },
+  {
+    "id": "d04-A03",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "report",
+    "pos": "verb",
+    "ipa": "/rɪˈpɔːrt/",
+    "meaning_ko": "보고하다, (report to) ~의 지휘를 받다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "도로 날라 오다 → 소식을 가져와 전하다 → 보고하다"
+    },
+    "example": {
+      "q": "Who did you report to in your last role?",
+      "a": "I reported directly to the engineering manager and gave weekly status updates.",
+      "a_ko": "엔지니어링 매니저에게 직접 보고했고, 매주 진행 상황을 공유했습니다."
+    },
+    "collocations": [
+      "report to",
+      "report a bug",
+      "weekly report"
+    ],
+    "related": [
+      "reporting",
+      "support",
+      "export",
+      "rapport"
+    ],
+    "tip": "report to + 사람 = 그 사람이 내 직속 상사. 조직 구조를 설명할 때 필수"
+  },
+  {
+    "id": "d04-A04",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "reporting",
+    "pos": "noun",
+    "ipa": "/rɪˈpɔːrtɪŋ/",
+    "meaning_ko": "리포팅(데이터 보고서 기능), 보고",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "도로 날라 와 전하기 → 데이터를 모아 보고서로 보여 주기"
+    },
+    "example": {
+      "q": "What kind of internal tools have you built?",
+      "a": "I built a reporting dashboard that shows daily sales data to the business team.",
+      "a_ko": "사업 부서에 일일 매출 데이터를 보여 주는 리포팅 대시보드를 만들었습니다."
+    },
+    "collocations": [
+      "reporting tool",
+      "reporting dashboard",
+      "reporting line"
+    ],
+    "related": [
+      "report",
+      "import",
+      "export"
+    ],
+    "tip": "IT에서는 BI·대시보드 기능을 가리키는 일이 많음. reporting line은 '보고 체계'"
+  },
+  {
+    "id": "d04-A05",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "import",
+    "pos": "verb",
+    "ipa": "/ɪmˈpɔːrt/",
+    "meaning_ko": "가져오다, 불러오다(임포트)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "안으로 날라 들이다 → 수입하다 → 데이터·모듈을 불러오다"
+    },
+    "example": {
+      "q": "How did you migrate the old customer data?",
+      "a": "I wrote a script to import the old data into the new database.",
+      "a_ko": "기존 데이터를 새 데이터베이스로 가져오는 스크립트를 작성했습니다."
+    },
+    "collocations": [
+      "import data",
+      "import a module",
+      "import from CSV"
+    ],
+    "related": [
+      "export",
+      "important",
+      "transport",
+      "portable"
+    ],
+    "tip": "동사는 im-PORT, 명사는 IM-port로 강세가 바뀜"
+  },
+  {
+    "id": "d04-A06",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "export",
+    "pos": "verb",
+    "ipa": "/ɪkˈspɔːrt/",
+    "meaning_ko": "내보내다(익스포트)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "밖으로 날라 내다 → 수출하다 → 데이터를 파일로 내보내다"
+    },
+    "example": {
+      "q": "What feature did users request most?",
+      "a": "Users wanted to export their reports as CSV, so I added that feature first.",
+      "a_ko": "사용자들이 리포트를 CSV로 내보내고 싶어 해서 그 기능부터 추가했습니다."
+    },
+    "collocations": [
+      "export data",
+      "export to CSV",
+      "export a function"
+    ],
+    "related": [
+      "import",
+      "report",
+      "transport"
+    ],
+    "tip": "import의 반대말. 강세 규칙도 같음(동사 ex-PORT, 명사 EX-port)"
+  },
+  {
+    "id": "d04-A07",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "important",
+    "pos": "adjective",
+    "ipa": "/ɪmˈpɔːrtnt/",
+    "meaning_ko": "중요한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "중세 라틴어 importare '안으로 가져오다 → 영향을 미치다' → 무게가 있는 → 중요한"
+    },
+    "example": {
+      "q": "What is important to you in your next job?",
+      "a": "It is important to me to work on products that real users depend on.",
+      "a_ko": "실제 사용자들이 의지하는 제품을 만드는 것이 저에게는 중요합니다."
+    },
+    "collocations": [
+      "it is important to",
+      "important to me",
+      "an important role"
+    ],
+    "related": [
+      "importance",
+      "import",
+      "support"
+    ],
+    "tip": "What's important to me is ~ 로 답을 시작하면 자연스러움"
+  },
+  {
+    "id": "d04-A08",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "importance",
+    "pos": "noun",
+    "ipa": "/ɪmˈpɔːrtns/",
+    "meaning_ko": "중요성",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "안으로 가져올 만한 무게 → 중요성"
+    },
+    "example": {
+      "q": "What did you learn from your first project?",
+      "a": "I learned the importance of writing clear documentation for the next developer.",
+      "a_ko": "다음 개발자를 위해 명확한 문서를 쓰는 것이 얼마나 중요한지 배웠습니다."
+    },
+    "collocations": [
+      "the importance of",
+      "stress the importance",
+      "of great importance"
+    ],
+    "related": [
+      "important",
+      "import",
+      "report"
+    ],
+    "tip": "I learned the importance of ~ 는 '배운 점' 질문의 단골 패턴"
+  },
+  {
+    "id": "d04-A09",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "transport",
+    "pos": "noun",
+    "ipa": "/ˈtrænspɔːrt/",
+    "meaning_ko": "전송, 수송",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너서"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "건너편으로 날라 가다 → 운송 → (네트워크) 데이터 전송"
+    },
+    "example": {
+      "q": "Why did you choose that protocol?",
+      "a": "We needed a fast transport between services, so we chose gRPC over HTTP/2.",
+      "a_ko": "서비스 간에 빠른 전송 방식이 필요해서 HTTP/2 기반의 gRPC를 선택했습니다."
+    },
+    "collocations": [
+      "transport layer",
+      "transport protocol",
+      "public transport"
+    ],
+    "related": [
+      "import",
+      "export",
+      "portable",
+      "support"
+    ],
+    "tip": "네트워크의 transport layer(전송 계층, TCP/UDP)로 자주 나옴. 명사 TRANS-port / 동사 trans-PORT"
+  },
+  {
+    "id": "d04-A10",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "portable",
+    "pos": "adjective",
+    "ipa": "/ˈpɔːrtəbl/",
+    "meaning_ko": "이식성 있는, 휴대용의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "나를 수 있는 → 들고 다닐 수 있는 → 다른 환경으로 옮겨도 돌아가는"
+    },
+    "example": {
+      "q": "Why did you use Docker?",
+      "a": "Docker made our app portable, so it ran the same on every machine.",
+      "a_ko": "Docker 덕분에 앱이 이식성을 갖춰서 어느 머신에서나 똑같이 실행됐습니다."
+    },
+    "collocations": [
+      "portable code",
+      "highly portable",
+      "portable device"
+    ],
+    "related": [
+      "portability",
+      "port",
+      "transport"
+    ],
+    "tip": "IT에서는 '휴대용'보다 '다른 OS·환경에서도 그대로 돌아가는'의 뜻"
+  },
+  {
+    "id": "d04-A11",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "portability",
+    "pos": "noun",
+    "ipa": "/ˌpɔːrtəˈbɪləti/",
+    "meaning_ko": "이식성",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        },
+        {
+          "text": "abil",
+          "type": "suffix",
+          "gloss": "~할 수 있는 (able)"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성"
+        }
+      ],
+      "story": "나를 수 있는 성질 → 다른 플랫폼으로 옮길 수 있는 정도"
+    },
+    "example": {
+      "q": "How do you avoid vendor lock-in?",
+      "a": "I keep cloud-specific code behind interfaces to improve portability, so we can switch providers without rewriting everything.",
+      "a_ko": "클라우드 전용 코드는 인터페이스 뒤에 두어 이식성을 높입니다. 그래서 전부 다시 쓰지 않고도 클라우드 업체를 바꿀 수 있습니다."
+    },
+    "collocations": [
+      "code portability",
+      "improve portability",
+      "data portability"
+    ],
+    "related": [
+      "portable",
+      "port",
+      "support"
+    ],
+    "tip": "vendor lock-in(특정 업체 종속)과 함께 자주 나오는 단어"
+  },
+  {
+    "id": "d04-A12",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "port",
+    "pos": "verb",
+    "ipa": "/pɔːrt/",
+    "meaning_ko": "(다른 플랫폼으로) 이식하다, 포팅하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "프랑스어 porter '나르다'(라틴어 portare) → 코드를 다른 환경으로 옮겨 오다 → 포팅하다"
+    },
+    "example": {
+      "q": "Have you worked with legacy code?",
+      "a": "Yes, I ported a legacy Python 2 service to Python 3 and added tests along the way.",
+      "a_ko": "네, 레거시 Python 2 서비스를 Python 3로 포팅하면서 테스트도 함께 추가했습니다."
+    },
+    "collocations": [
+      "port to",
+      "port an app",
+      "a port of"
+    ],
+    "related": [
+      "portable",
+      "portability",
+      "transport"
+    ],
+    "tip": "네트워크 '포트'(port 80)는 '문'을 뜻하는 다른 라틴어 porta 쪽 말이라 뜻이 다름"
+  },
+  {
+    "id": "d04-A13",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "sport",
+    "pos": "noun",
+    "ipa": "/spɔːrt/",
+    "meaning_ko": "운동, 스포츠",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "s",
+          "type": "prefix",
+          "gloss": "떨어져 (dis가 줄어든 것)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "disport '(일에서) 떨어져 나가다 → 기분 전환하다' → 앞이 줄어 sport → 운동 경기"
+    },
+    "example": {
+      "q": "What do you do outside of work?",
+      "a": "I play team sports like basketball, which helps me recharge after a long week.",
+      "a_ko": "농구 같은 단체 운동을 하는데, 긴 한 주를 보낸 뒤 재충전하는 데 도움이 됩니다."
+    },
+    "collocations": [
+      "team sports",
+      "play sports",
+      "be a good sport"
+    ],
+    "related": [
+      "support",
+      "report",
+      "transport",
+      "rapport"
+    ],
+    "tip": "취미 질문에 바로 쓰는 단어. be a good sport = 져도 기분 좋게 받아들이는 사람"
+  },
+  {
+    "id": "d04-A14",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "rapport",
+    "pos": "noun",
+    "ipa": "/ræˈpɔːr/",
+    "meaning_ko": "신뢰 관계, 친밀감",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rap",
+          "type": "prefix",
+          "gloss": "다시 + ~로 (re + ad)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "나르다"
+        }
+      ],
+      "story": "프랑스어 rapporter '다시 가져오다' → 서로 주고받는 관계 → 마음이 통하는 관계"
+    },
+    "example": {
+      "q": "How do you work with non-technical stakeholders?",
+      "a": "I build rapport by meeting them early and explaining technical issues in plain language.",
+      "a_ko": "초기에 직접 만나고 기술적인 문제를 쉬운 말로 설명하면서 신뢰 관계를 쌓습니다."
+    },
+    "collocations": [
+      "build rapport",
+      "good rapport with",
+      "establish rapport"
+    ],
+    "related": [
+      "report",
+      "support",
+      "import"
+    ],
+    "tip": "발음 주의: 끝의 t는 소리 내지 않음 /ræˈpɔːr/"
+  },
+  {
+    "id": "d04-A15",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "omit",
+    "pos": "verb",
+    "ipa": "/oʊˈmɪt/",
+    "meaning_ko": "빼다, 생략하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "o",
+          "type": "prefix",
+          "gloss": "떨어져 (ob)"
+        },
+        {
+          "text": "mit",
+          "type": "root",
+          "gloss": "보내다"
+        }
+      ],
+      "story": "라틴어 omittere '떨어져 가게 내버려 두다' → 빼먹다 → 생략하다"
+    },
+    "example": {
+      "q": "How do you keep your presentations short?",
+      "a": "I omit details the audience does not need and keep a backup slide in case someone asks.",
+      "a_ko": "청중에게 필요 없는 세부 내용은 빼고, 누가 물어볼 때를 대비해 예비 슬라이드를 따로 둡니다."
+    },
+    "collocations": [
+      "omit details",
+      "omit a step",
+      "accidentally omit"
+    ],
+    "related": [
+      "submit",
+      "admit",
+      "emit",
+      "mission"
+    ],
+    "tip": "leave out의 격식 있는 말. 명사는 omission"
+  },
+  {
+    "id": "d04-A16",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "premise",
+    "pos": "noun",
+    "ipa": "/ˈpremɪs/",
+    "meaning_ko": "전제",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "mise",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        }
+      ],
+      "story": "중세 라틴어 praemissa '앞에 보내 둔 것' → 논리의 앞에 놓는 말 → 전제"
+    },
+    "example": {
+      "q": "How do you challenge an idea in a meeting?",
+      "a": "I first check the premise, because if the starting assumption is wrong, the whole plan fails.",
+      "a_ko": "먼저 전제를 확인합니다. 출발점이 되는 가정이 틀리면 계획 전체가 무너지기 때문입니다."
+    },
+    "collocations": [
+      "basic premise",
+      "based on the premise that",
+      "false premise"
+    ],
+    "related": [
+      "promise",
+      "compromise",
+      "on-premises",
+      "mission"
+    ],
+    "tip": "복수형 premises는 '건물·부지'라는 뜻도 있어 on-premises(사내 구축)가 여기서 나옴"
+  },
+  {
+    "id": "d04-A17",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "compromise",
+    "pos": "noun",
+    "ipa": "/ˈkɑːmprəmaɪz/",
+    "meaning_ko": "타협(안), 절충",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "mise",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        }
+      ],
+      "story": "라틴어 compromissum '서로 함께 약속함(중재 결과를 따르기로)' → 서로 양보해 맞추기 → 타협"
+    },
+    "example": {
+      "q": "Tell me about a disagreement with a teammate.",
+      "a": "We disagreed on the release date, so we reached a compromise and shipped the core features first.",
+      "a_ko": "출시일을 두고 의견이 달라서, 핵심 기능을 먼저 출시하는 것으로 타협했습니다."
+    },
+    "collocations": [
+      "reach a compromise",
+      "find a compromise",
+      "make compromises"
+    ],
+    "related": [
+      "promise",
+      "compromised",
+      "premise",
+      "commit"
+    ],
+    "tip": "동사로도 씀. compromise on quality(품질을 타협하다)는 부정적인 뜻"
+  },
+  {
+    "id": "d04-A18",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "compromised",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːmprəmaɪzd/",
+    "meaning_ko": "(보안이) 뚫린, 침해된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "mis",
+          "type": "root",
+          "gloss": "보내다 (miss)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "서로 약속하다 → 약점을 내주다 → 위험에 노출되다 → (계정·시스템이) 뚫린"
+    },
+    "example": {
+      "q": "Have you ever handled a security incident?",
+      "a": "When an API key was compromised, I revoked it within minutes and rotated all related secrets.",
+      "a_ko": "API 키가 유출됐을 때 몇 분 안에 키를 폐기하고 관련된 비밀 정보를 모두 교체했습니다."
+    },
+    "collocations": [
+      "compromised account",
+      "be compromised",
+      "compromised credentials"
+    ],
+    "related": [
+      "compromise",
+      "promise",
+      "permission"
+    ],
+    "tip": "보안 사고를 말할 때 hacked보다 전문적인 표현"
+  },
+  {
+    "id": "d04-A19",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "problem",
+    "pos": "noun",
+    "ipa": "/ˈprɑːbləm/",
+    "meaning_ko": "문제",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "blem",
+          "type": "root",
+          "gloss": "던지다 (그리스어 ballein)"
+        }
+      ],
+      "story": "그리스어 problēma '앞에 던져진 것' → 풀어야 할 과제 → 문제"
+    },
+    "example": {
+      "q": "How do you approach a difficult task?",
+      "a": "I break a big problem into smaller parts and solve them one by one.",
+      "a_ko": "큰 문제를 작은 부분으로 나눠서 하나씩 해결합니다."
+    },
+    "collocations": [
+      "solve a problem",
+      "problem-solving",
+      "the root of the problem"
+    ],
+    "related": [
+      "problematic",
+      "symbol",
+      "hyperbole",
+      "reject"
+    ],
+    "tip": "그리스어 bol/blem(던지다)은 라틴어 ject(던지다)와 같은 뜻의 짝 어근"
+  },
+  {
+    "id": "d04-A20",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "problematic",
+    "pos": "adjective",
+    "ipa": "/ˌprɑːbləˈmætɪk/",
+    "meaning_ko": "문제가 되는, 곤란한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "blem",
+          "type": "root",
+          "gloss": "던지다 (그리스어 ballein)"
+        },
+        {
+          "text": "atic",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "앞에 던져진 것 같은 → 걸려서 골치 아픈 → 문제가 되는"
+    },
+    "example": {
+      "q": "Why did you redesign the deployment process?",
+      "a": "Manual deployments became problematic as the team grew, so I automated them with a CI pipeline.",
+      "a_ko": "팀이 커지면서 수동 배포가 문제가 되어, CI 파이프라인으로 자동화했습니다."
+    },
+    "collocations": [
+      "become problematic",
+      "highly problematic",
+      "problematic for"
+    ],
+    "related": [
+      "problem",
+      "symbol",
+      "hyperbole"
+    ],
+    "tip": "'문제가 생겼다'를 차분하게 말할 때. 사람에게는 잘 쓰지 않음"
+  },
+  {
+    "id": "d04-A21",
+    "day": 4,
+    "level": 1,
+    "set": "A",
+    "family": "F4",
+    "word": "symbol",
+    "pos": "noun",
+    "ipa": "/ˈsɪmbl/",
+    "meaning_ko": "기호, 심볼",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sym",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "bol",
+          "type": "root",
+          "gloss": "던지다 (그리스어 ballein)"
+        }
+      ],
+      "story": "그리스어 symbolon '함께 던져 맞춰 보는 조각(신표)' → 표시 → 기호"
+    },
+    "example": {
+      "q": "How did you debug the crash in production?",
+      "a": "I loaded the debug symbols and found the exact line that caused the crash.",
+      "a_ko": "디버그 심볼을 불러와서 크래시를 일으킨 정확한 줄을 찾았습니다."
+    },
+    "collocations": [
+      "debug symbols",
+      "symbol table",
+      "a symbol of"
+    ],
+    "related": [
+      "problem",
+      "hyperbole",
+      "problematic"
+    ],
+    "tip": "디버깅의 debug symbols, 컴파일러의 symbol table로 자주 나옴"
+  },
+  {
+    "id": "d04-A22",
+    "day": 4,
+    "level": 3,
+    "set": "A",
+    "family": "F4",
+    "word": "hyperbole",
+    "pos": "noun",
+    "ipa": "/haɪˈpɜːrbəli/",
+    "meaning_ko": "과장(법)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hyper",
+          "type": "prefix",
+          "gloss": "넘어서"
+        },
+        {
+          "text": "bole",
+          "type": "root",
+          "gloss": "던지다 (그리스어 ballein)"
+        }
+      ],
+      "story": "그리스어 hyperbolē '너머로 던지기' → 정도를 넘어선 말 → 과장"
+    },
+    "example": {
+      "q": "What is the hardest project you have worked on?",
+      "a": "Without any hyperbole, the payment migration was the hardest project of my career, because we had zero tolerance for downtime.",
+      "a_ko": "과장 없이 말씀드리면, 결제 시스템 이전이 제 경력에서 가장 어려운 프로젝트였습니다. 다운타임이 전혀 허용되지 않았기 때문입니다."
+    },
+    "collocations": [
+      "without hyperbole",
+      "it is no hyperbole to say",
+      "marketing hyperbole"
+    ],
+    "related": [
+      "problem",
+      "symbol",
+      "exaggerate"
+    ],
+    "tip": "발음 주의: '하이퍼볼'이 아니라 /haɪˈpɜːrbəli/ (하이퍼-벌리)"
+  },
+  {
+    "id": "d04-A23",
+    "day": 4,
+    "level": 3,
+    "set": "A",
+    "family": "F4",
+    "word": "semaphore",
+    "pos": "noun",
+    "ipa": "/ˈseməfɔːr/",
+    "meaning_ko": "세마포어(동시 접근 수를 제한하는 장치)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sema",
+          "type": "root",
+          "gloss": "신호 (그리스어 sēma)"
+        },
+        {
+          "text": "phore",
+          "type": "root",
+          "gloss": "나르는 것 (그리스어 pherein)"
+        }
+      ],
+      "story": "신호를 나르는 것 → 깃발 신호기 → 동시에 들어갈 수 있는 수를 신호로 제어하는 장치"
+    },
+    "example": {
+      "q": "How did you handle the rate limit of the external API?",
+      "a": "I used a semaphore to cap concurrent requests at ten, which kept us under the rate limit without slowing the batch job much.",
+      "a_ko": "세마포어로 동시 요청을 10개로 제한해서, 배치 작업을 크게 늦추지 않고도 호출 제한 안에 머물렀습니다."
+    },
+    "collocations": [
+      "acquire a semaphore",
+      "release a semaphore",
+      "binary semaphore"
+    ],
+    "related": [
+      "peripheral",
+      "metaphor",
+      "prefer"
+    ],
+    "tip": "그리스어 pher/phor(나르다)는 라틴어 fer(나르다)와 뿌리가 같음. mutex는 1개, semaphore는 N개까지 허용"
+  },
+  {
+    "id": "d04-A24",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "loop in",
+    "pos": "phrasal verb",
+    "ipa": "/ˌluːp ˈɪn/",
+    "meaning_ko": "(논의·메일에) 끼워 넣다, 포함시키다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loop",
+          "type": "part",
+          "gloss": "고리"
+        },
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "안으로"
+        }
+      ],
+      "story": "고리 안으로 넣다 → 대화·메일의 흐름에 포함시키다"
+    },
+    "example": {
+      "q": "How do you keep stakeholders informed?",
+      "a": "I loop in product managers early on design changes, so there are no surprises at review time.",
+      "a_ko": "설계가 바뀌면 기획자를 초기에 논의에 포함시켜서, 리뷰 때 놀랄 일이 없게 합니다."
+    },
+    "collocations": [
+      "loop someone in",
+      "keep someone in the loop",
+      "loop in the team"
+    ],
+    "related": [
+      "check in",
+      "reach out",
+      "get back to"
+    ],
+    "tip": "keep me in the loop = 진행 상황을 계속 공유해 달라. 메일에 CC로 넣을 때도 씀"
+  },
+  {
+    "id": "d04-A25",
+    "day": 4,
+    "level": 2,
+    "set": "A",
+    "family": "F4",
+    "word": "walk through",
+    "pos": "phrasal verb",
+    "ipa": "/ˌwɔːk ˈθruː/",
+    "meaning_ko": "차근차근 설명하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "walk",
+          "type": "part",
+          "gloss": "걷다"
+        },
+        {
+          "text": "through",
+          "type": "part",
+          "gloss": "처음부터 끝까지"
+        }
+      ],
+      "story": "처음부터 끝까지 함께 걸어가다 → 한 단계씩 짚으며 설명하다"
+    },
+    "example": {
+      "q": "Can you walk me through a project you are proud of?",
+      "a": "Sure, let me walk you through how I redesigned our search service, from the problem to the final results.",
+      "a_ko": "네, 검색 서비스를 다시 설계한 과정을 문제부터 최종 결과까지 차근차근 설명드리겠습니다."
+    },
+    "collocations": [
+      "walk someone through",
+      "walk through the code",
+      "a quick walk-through"
+    ],
+    "related": [
+      "point out",
+      "bring up",
+      "check in"
+    ],
+    "tip": "면접관이 Walk me through ~ 로 자주 물어봄. 명사는 walk-through"
+  }
+]

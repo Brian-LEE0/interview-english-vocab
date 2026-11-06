@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "d08-A01",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "divide",
+    "pos": "verb",
+    "ipa": "/dɪˈvaɪd/",
+    "meaning_ko": "나누다, 분할하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "vide",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        }
+      ],
+      "story": "따로 떼어 가르다 → 나누다"
+    },
+    "example": {
+      "q": "How did you approach the monolith migration?",
+      "a": "We divided the monolith into smaller services, one domain at a time.",
+      "a_ko": "모놀리스를 도메인 하나씩 더 작은 서비스로 나눴습니다."
+    },
+    "collocations": [
+      "divide A into B",
+      "divide the work",
+      "divide and conquer"
+    ],
+    "related": [
+      "division",
+      "individual",
+      "device",
+      "dividend"
+    ],
+    "tip": "divide and conquer(분할 정복)는 알고리즘·설계 설명에서도 자주 씀"
+  },
+  {
+    "id": "d08-A02",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "division",
+    "pos": "noun",
+    "ipa": "/dɪˈvɪʒən/",
+    "meaning_ko": "사업부, 부문",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "vis",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "나눈 것 → 회사를 나눈 큰 단위 → 사업부"
+    },
+    "example": {
+      "q": "Which team are you most interested in?",
+      "a": "I'm most interested in the cloud division because it matches my background.",
+      "a_ko": "제 경력과 잘 맞아서 클라우드 사업부에 가장 관심이 있습니다."
+    },
+    "collocations": [
+      "cloud division",
+      "division of labor",
+      "across divisions"
+    ],
+    "related": [
+      "divide",
+      "individual",
+      "dividend",
+      "device"
+    ],
+    "tip": "department(부서)보다 큰 단위(사업부)를 말할 때가 많음"
+  },
+  {
+    "id": "d08-A03",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "individual",
+    "pos": "adjective",
+    "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+    "meaning_ko": "개인의, 개별적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아니다"
+        },
+        {
+          "text": "divid",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        },
+        {
+          "text": "ual",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "더 나눌 수 없는 → 더 쪼갤 수 없는 한 사람 → 개인의"
+    },
+    "example": {
+      "q": "Do you prefer working alone or in a team?",
+      "a": "I'm productive on individual tasks, but I do my best work in a team.",
+      "a_ko": "혼자 하는 업무도 잘하지만, 팀에서 일할 때 가장 좋은 성과를 냅니다."
+    },
+    "collocations": [
+      "individual contributor",
+      "individual task",
+      "each individual"
+    ],
+    "related": [
+      "individually",
+      "divide",
+      "division",
+      "device"
+    ],
+    "tip": "IC(individual contributor)는 관리자가 아닌 실무자 트랙을 뜻함"
+  },
+  {
+    "id": "d08-A04",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "individually",
+    "pos": "adverb",
+    "ipa": "/ˌɪndɪˈvɪdʒuəli/",
+    "meaning_ko": "개별적으로, 한 사람씩",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아니다"
+        },
+        {
+          "text": "divid",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        },
+        {
+          "text": "ual",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "더 나눌 수 없는 하나하나 → 한 사람씩 따로"
+    },
+    "example": {
+      "q": "How do you support junior engineers?",
+      "a": "I meet each junior engineer individually once a week to review their progress.",
+      "a_ko": "주니어 엔지니어 한 명 한 명과 매주 따로 만나 진행 상황을 함께 봅니다."
+    },
+    "collocations": [
+      "meet individually",
+      "individually tailored",
+      "individually and as a team"
+    ],
+    "related": [
+      "individual",
+      "divide",
+      "division"
+    ],
+    "tip": "1:1 미팅을 설명할 때 meet individually 라고 하면 자연스러움"
+  },
+  {
+    "id": "d08-A05",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "device",
+    "pos": "noun",
+    "ipa": "/dɪˈvaɪs/",
+    "meaning_ko": "기기, 장치",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져 (di-가 변한 꼴)"
+        },
+        {
+          "text": "vice",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        }
+      ],
+      "story": "나누다 → 나눠 배치하다·궁리하다 → 궁리해서 만든 것 → 장치"
+    },
+    "example": {
+      "q": "What kind of testing have you done?",
+      "a": "I tested our app on over thirty Android devices before each release.",
+      "a_ko": "릴리스마다 30종이 넘는 안드로이드 기기에서 앱을 테스트했습니다."
+    },
+    "collocations": [
+      "mobile device",
+      "edge device",
+      "device compatibility"
+    ],
+    "related": [
+      "devise",
+      "divide",
+      "individual",
+      "division"
+    ],
+    "tip": "명사 device[-스] vs 동사 devise[-즈] — 철자와 끝소리가 다름"
+  },
+  {
+    "id": "d08-A06",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "devise",
+    "pos": "verb",
+    "ipa": "/dɪˈvaɪz/",
+    "meaning_ko": "고안하다, 궁리해 내다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져 (di-가 변한 꼴)"
+        },
+        {
+          "text": "vise",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        }
+      ],
+      "story": "나누다 → 나눠 배치하다 → 계획을 짜다 → 고안하다"
+    },
+    "example": {
+      "q": "Tell me about a time you had to be creative.",
+      "a": "Our test environment was always busy, so I devised a scheduling script that let teams book time slots automatically.",
+      "a_ko": "테스트 환경이 늘 붐벼서, 팀들이 시간대를 자동으로 예약할 수 있는 스케줄링 스크립트를 고안했습니다."
+    },
+    "collocations": [
+      "devise a plan",
+      "devise a strategy",
+      "devise a way to"
+    ],
+    "related": [
+      "device",
+      "divide",
+      "division"
+    ],
+    "tip": "come up with 의 격식 있는 말. 계획·방법을 짜낼 때 씀"
+  },
+  {
+    "id": "d08-A07",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "dividend",
+    "pos": "noun",
+    "ipa": "/ˈdɪvɪdend/",
+    "meaning_ko": "배당금, (나중에 돌아오는) 보답",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "divid",
+          "type": "root",
+          "gloss": "나누다 (vid)"
+        },
+        {
+          "text": "end",
+          "type": "suffix",
+          "gloss": "~될 것 (-endum)"
+        }
+      ],
+      "story": "나눠 가질 것 → 배당금 → (pay dividends) 나중에 보답이 돌아오다"
+    },
+    "example": {
+      "q": "What's an investment of time that paid off for you?",
+      "a": "Writing thorough documentation early on paid dividends, because new hires could onboard in days instead of weeks.",
+      "a_ko": "초기에 문서를 꼼꼼히 써 둔 것이 나중에 큰 보답이 됐습니다. 신입이 몇 주가 아니라 며칠 만에 적응할 수 있었거든요."
+    },
+    "collocations": [
+      "pay dividends",
+      "dividend payment"
+    ],
+    "related": [
+      "divide",
+      "divvy up",
+      "division"
+    ],
+    "tip": "pay dividends = 시간이 지나 효과를 보다. 면접에서는 거의 이 관용구로 씀"
+  },
+  {
+    "id": "d08-A08",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "divvy up",
+    "pos": "phrasal verb",
+    "ipa": "/ˈdɪvi ʌp/",
+    "meaning_ko": "(일을) 나누다, 분담하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "divvy",
+          "type": "root",
+          "gloss": "몫을 나누다 (dividend의 줄임말)"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "완전히, 끝까지"
+        }
+      ],
+      "story": "dividend(배당)를 줄인 말 → 몫을 나누다 → 일을 나눠 맡다"
+    },
+    "example": {
+      "q": "How does your team split the work?",
+      "a": "On each project we divvy up the tasks based on our strengths, and I usually take the backend APIs.",
+      "a_ko": "프로젝트마다 각자의 강점에 따라 업무를 나누는데, 저는 주로 백엔드 API를 맡습니다."
+    },
+    "collocations": [
+      "divvy up the work",
+      "divvy up tasks"
+    ],
+    "related": [
+      "dividend",
+      "divide",
+      "division"
+    ],
+    "tip": "split up 보다 구어적인 표현. 과거형은 divvied up"
+  },
+  {
+    "id": "d08-A09",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "apart",
+    "pos": "adverb",
+    "ipa": "/əˈpɑːrt/",
+    "meaning_ko": "떨어져, 따로 (set apart: 돋보이게 하다)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~쪽으로 (ad)"
+        },
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "부분, 쪽 (part)"
+        }
+      ],
+      "story": "한쪽으로 → 따로 떨어져 → 남들과 구별되게"
+    },
+    "example": {
+      "q": "What sets you apart from other candidates?",
+      "a": "What sets me apart is that I have experience on both the frontend and the backend.",
+      "a_ko": "저를 다른 지원자와 구별해 주는 점은 프론트엔드와 백엔드를 모두 경험했다는 것입니다."
+    },
+    "collocations": [
+      "set apart",
+      "apart from",
+      "take apart"
+    ],
+    "related": [
+      "impart",
+      "particular",
+      "department",
+      "counterpart"
+    ],
+    "tip": "What sets you apart? 는 단골 질문. set A apart = A를 돋보이게 하다"
+  },
+  {
+    "id": "d08-A10",
+    "day": 8,
+    "level": 3,
+    "set": "A",
+    "family": "F8",
+    "word": "impart",
+    "pos": "verb",
+    "ipa": "/ɪmˈpɑːrt/",
+    "meaning_ko": "(지식·경험을) 전하다, 나눠 주다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "안으로 (in)"
+        },
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "몫, 나누다 (part)"
+        }
+      ],
+      "story": "몫을 나눠 안에 넣어 주다 → 지식·경험을 나눠 주다"
+    },
+    "example": {
+      "q": "How do you share knowledge with your team?",
+      "a": "As a tech lead, I try to impart not just how to fix an issue but why it happened, so the team can prevent similar problems.",
+      "a_ko": "테크 리드로서 문제를 고치는 방법만이 아니라 왜 생겼는지까지 전해 주려고 합니다. 그래야 팀이 비슷한 문제를 막을 수 있으니까요."
+    },
+    "collocations": [
+      "impart knowledge",
+      "impart a sense of"
+    ],
+    "related": [
+      "apart",
+      "particular",
+      "participate",
+      "counterpart"
+    ],
+    "tip": "share 보다 격식 있는 말. 형용사 impartial(공정한)과는 뜻이 다름"
+  },
+  {
+    "id": "d08-A11",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "include",
+    "pos": "verb",
+    "ipa": "/ɪnˈkluːd/",
+    "meaning_ko": "포함하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안에"
+        },
+        {
+          "text": "clude",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "안에 넣고 닫다 → 포함하다"
+    },
+    "example": {
+      "q": "What does your current role involve?",
+      "a": "My role includes designing APIs and reviewing pull requests for the team.",
+      "a_ko": "제 업무에는 API 설계와 팀의 풀 리퀘스트 리뷰가 포함됩니다."
+    },
+    "collocations": [
+      "include A in B",
+      "including",
+      "be included"
+    ],
+    "related": [
+      "inclusive",
+      "exclude",
+      "conclude",
+      "closure"
+    ],
+    "tip": "예시를 들 때는 including ~ 으로 이어 말하면 편함"
+  },
+  {
+    "id": "d08-A12",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "inclusive",
+    "pos": "adjective",
+    "ipa": "/ɪnˈkluːsɪv/",
+    "meaning_ko": "포용적인, (범위를) 포함하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안에"
+        },
+        {
+          "text": "clus",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "안에 넣어 두는 → 아무도 빼지 않는 → 포용적인"
+    },
+    "example": {
+      "q": "What kind of team culture do you want to build?",
+      "a": "I want an inclusive culture where junior members feel comfortable asking questions in meetings.",
+      "a_ko": "주니어도 회의에서 편하게 질문할 수 있는, 모두를 포용하는 문화를 만들고 싶습니다."
+    },
+    "collocations": [
+      "inclusive culture",
+      "inclusive environment",
+      "1 to 10 inclusive"
+    ],
+    "related": [
+      "include",
+      "exclusion",
+      "conclude"
+    ],
+    "tip": "범위를 말할 때 1 to 10 inclusive(1과 10 포함)라는 뜻으로도 씀"
+  },
+  {
+    "id": "d08-A13",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "exclude",
+    "pos": "verb",
+    "ipa": "/ɪkˈskluːd/",
+    "meaning_ko": "제외하다, 빼다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "clude",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "밖에 두고 문을 닫다 → 빼다, 제외하다"
+    },
+    "example": {
+      "q": "How did you reduce the size of your app bundle?",
+      "a": "I excluded test fixtures from the production bundle, which cut its size by 30%.",
+      "a_ko": "운영 번들에서 테스트용 파일을 제외해서 크기를 30% 줄였습니다."
+    },
+    "collocations": [
+      "exclude A from B",
+      "excluding"
+    ],
+    "related": [
+      "exclusion",
+      "include",
+      "conclude",
+      "disclose"
+    ],
+    "tip": "반대말 include 와 짝으로 외우기"
+  },
+  {
+    "id": "d08-A14",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "exclusion",
+    "pos": "noun",
+    "ipa": "/ɪkˈskluːʒən/",
+    "meaning_ko": "제외, 배제",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "clus",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "밖에 두고 닫음 → 제외"
+    },
+    "example": {
+      "q": "How do you prevent sensitive data from leaking into logs?",
+      "a": "We maintain an exclusion list of sensitive fields, so passwords and tokens are masked before anything is logged.",
+      "a_ko": "민감한 필드의 제외 목록을 관리해서, 로그에 남기기 전에 비밀번호와 토큰을 가립니다."
+    },
+    "collocations": [
+      "exclusion list",
+      "exclusion rule"
+    ],
+    "related": [
+      "exclude",
+      "include",
+      "inclusive"
+    ],
+    "tip": "exclusive(독점적인)와 뜻이 다름 — exclusion 은 '제외'"
+  },
+  {
+    "id": "d08-A15",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "conclude",
+    "pos": "verb",
+    "ipa": "/kənˈkluːd/",
+    "meaning_ko": "결론짓다, 마무리하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "clude",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "완전히 닫다 → 끝맺다 → 결론을 내리다"
+    },
+    "example": {
+      "q": "What did you learn from the experiment?",
+      "a": "We concluded that caching alone would not fix the slow response times.",
+      "a_ko": "캐싱만으로는 느린 응답 시간을 해결할 수 없다고 결론지었습니다."
+    },
+    "collocations": [
+      "conclude that",
+      "to conclude"
+    ],
+    "related": [
+      "conclusion",
+      "include",
+      "exclude",
+      "closure"
+    ],
+    "tip": "To conclude, … 로 긴 답변을 깔끔하게 마무리할 수 있음"
+  },
+  {
+    "id": "d08-A16",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "conclusion",
+    "pos": "noun",
+    "ipa": "/kənˈkluːʒən/",
+    "meaning_ko": "결론",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "clus",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "완전히 닫음 → 끝맺음 → 결론"
+    },
+    "example": {
+      "q": "So what's your main takeaway from that project?",
+      "a": "My conclusion is that clear ownership matters more than the tools we choose.",
+      "a_ko": "제 결론은, 어떤 도구를 쓰느냐보다 책임 소재를 분명히 하는 게 더 중요하다는 것입니다."
+    },
+    "collocations": [
+      "come to a conclusion",
+      "in conclusion",
+      "jump to conclusions"
+    ],
+    "related": [
+      "conclude",
+      "inclusive",
+      "closure"
+    ],
+    "tip": "jump to conclusions = 성급하게 결론 내리다 (약점 답변에 유용)"
+  },
+  {
+    "id": "d08-A17",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "closely",
+    "pos": "adverb",
+    "ipa": "/ˈkloʊsli/",
+    "meaning_ko": "긴밀하게, 면밀히",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "close",
+          "type": "root",
+          "gloss": "닫힌 → 가까운 (clud)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "닫힌 → 빈틈없이 붙은 → 가깝게, 긴밀하게"
+    },
+    "example": {
+      "q": "How do you work with designers?",
+      "a": "I work closely with designers from the start, so there are fewer surprises later.",
+      "a_ko": "처음부터 디자이너와 긴밀하게 일해서, 나중에 생기는 예상 밖 변경을 줄입니다."
+    },
+    "collocations": [
+      "work closely with",
+      "closely related",
+      "monitor closely"
+    ],
+    "related": [
+      "closure",
+      "enclose",
+      "disclose",
+      "include"
+    ],
+    "tip": "close·closely 의 s 는 [s] 발음 — 동사 close [z]와 구별"
+  },
+  {
+    "id": "d08-A18",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "enclose",
+    "pos": "verb",
+    "ipa": "/ɪnˈkloʊz/",
+    "meaning_ko": "감싸다, 둘러싸다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "en",
+          "type": "prefix",
+          "gloss": "안에"
+        },
+        {
+          "text": "close",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "안에 두고 닫다 → 둘러싸다, 감싸다"
+    },
+    "example": {
+      "q": "What's a common bug you've seen in config files?",
+      "a": "Values with spaces must be enclosed in quotes, or the parser splits them.",
+      "a_ko": "공백이 있는 값은 따옴표로 감싸야 합니다. 안 그러면 파서가 값을 나눠 버립니다."
+    },
+    "collocations": [
+      "enclose in quotes",
+      "enclose in brackets"
+    ],
+    "related": [
+      "closure",
+      "closely",
+      "include",
+      "disclose"
+    ],
+    "tip": "문자열을 따옴표·괄호로 '감싼다'고 할 때 씀"
+  },
+  {
+    "id": "d08-A19",
+    "day": 8,
+    "level": 1,
+    "set": "A",
+    "family": "F8",
+    "word": "clause",
+    "pos": "noun",
+    "ipa": "/klɔːz/",
+    "meaning_ko": "(SQL·문장의) 절, (계약서의) 조항",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "clause",
+          "type": "root",
+          "gloss": "닫힌 것 (clud)"
+        }
+      ],
+      "story": "닫힌 한 덩어리 → 문장의 끝맺은 한 단위 → 절, 조항"
+    },
+    "example": {
+      "q": "How did you optimize that slow query?",
+      "a": "I indexed the column used in the WHERE clause, and the query ran ten times faster.",
+      "a_ko": "WHERE 절에 쓰인 컬럼에 인덱스를 걸어서 쿼리가 열 배 빨라졌습니다."
+    },
+    "collocations": [
+      "WHERE clause",
+      "JOIN clause",
+      "contract clause"
+    ],
+    "related": [
+      "closure",
+      "conclude",
+      "include"
+    ],
+    "tip": "계약서의 '조항'도 clause — 나중에 오퍼 계약서에서도 만남"
+  },
+  {
+    "id": "d08-A20",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "closure",
+    "pos": "noun",
+    "ipa": "/ˈkloʊʒər/",
+    "meaning_ko": "(프로그래밍) 클로저, 마무리",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "clos",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "닫음 → (함수가) 바깥 변수를 안에 감싸 닫아 둔 것 → 클로저"
+    },
+    "example": {
+      "q": "Can you explain a JavaScript concept you use often?",
+      "a": "I often use closures to keep state private, for example in a counter function that remembers its value.",
+      "a_ko": "상태를 숨기려고 클로저를 자주 씁니다. 예를 들어 자기 값을 기억하는 카운터 함수 같은 경우입니다."
+    },
+    "collocations": [
+      "JavaScript closure",
+      "get closure",
+      "bring closure to"
+    ],
+    "related": [
+      "closely",
+      "enclose",
+      "include",
+      "clause"
+    ],
+    "tip": "일상에서는 '마무리, 매듭'(get closure)이라는 뜻도 있음"
+  },
+  {
+    "id": "d08-A21",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "disclose",
+    "pos": "verb",
+    "ipa": "/dɪsˈkloʊz/",
+    "meaning_ko": "밝히다, 공개하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "반대로"
+        },
+        {
+          "text": "close",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "닫힌 것을 반대로 열다 → 드러내다, 밝히다"
+    },
+    "example": {
+      "q": "Is there anything that might affect your start date?",
+      "a": "I should disclose that I have a two-month notice period, so the earliest I could start is March.",
+      "a_ko": "미리 말씀드리면 퇴사 통보 기간이 두 달이라, 빠르면 3월에 입사할 수 있습니다."
+    },
+    "collocations": [
+      "disclose information",
+      "disclose a conflict of interest"
+    ],
+    "related": [
+      "disclosure",
+      "closure",
+      "enclose",
+      "exclude"
+    ],
+    "tip": "공식적으로 '밝히다'. 비밀 유지 계약(NDA) 이야기에서도 자주 나옴"
+  },
+  {
+    "id": "d08-A22",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "disclosure",
+    "pos": "noun",
+    "ipa": "/dɪsˈkloʊʒər/",
+    "meaning_ko": "(사실을) 밝힘, 공개",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "반대로"
+        },
+        {
+          "text": "clos",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "닫힌 것을 엶 → 숨김없이 밝힘"
+    },
+    "example": {
+      "q": "How much experience do you have with Kotlin?",
+      "a": "In the interest of full disclosure, I've only used Kotlin in side projects, but I'm learning quickly.",
+      "a_ko": "솔직히 말씀드리면 Kotlin은 개인 프로젝트에서만 써 봤지만, 빠르게 익히고 있습니다."
+    },
+    "collocations": [
+      "full disclosure",
+      "responsible disclosure"
+    ],
+    "related": [
+      "disclose",
+      "closure",
+      "conclusion"
+    ],
+    "tip": "Full disclosure, … = 솔직히 털어놓자면. 보안 분야의 responsible disclosure(책임 있는 공개)도 있음"
+  },
+  {
+    "id": "d08-A23",
+    "day": 8,
+    "level": 3,
+    "set": "A",
+    "family": "F8",
+    "word": "foreclose",
+    "pos": "verb",
+    "ipa": "/fɔːrˈkloʊz/",
+    "meaning_ko": "(가능성을) 미리 막다, 배제하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fore",
+          "type": "prefix",
+          "gloss": "밖에 (고대 프랑스어 fors — 영어 fore- 아님)"
+        },
+        {
+          "text": "close",
+          "type": "root",
+          "gloss": "닫다 (clud)"
+        }
+      ],
+      "story": "밖에 두고 문을 닫다 → 미리 막아 버리다 → 선택지를 배제하다"
+    },
+    "example": {
+      "q": "How do you make architecture decisions under uncertainty?",
+      "a": "I avoid foreclosing options too early; we kept the storage layer behind an interface so we could switch databases later.",
+      "a_ko": "선택지를 너무 일찍 닫아 버리지 않으려고 합니다. 저장 계층을 인터페이스 뒤에 두어서 나중에 DB를 바꿀 수 있게 했습니다."
+    },
+    "collocations": [
+      "foreclose an option",
+      "foreclose the possibility of"
+    ],
+    "related": [
+      "exclude",
+      "conclude",
+      "disclose",
+      "closure"
+    ],
+    "tip": "대표 뜻은 '(담보물을) 압류하다'지만, 면접에서는 '가능성을 미리 차단하다'로 씀"
+  },
+  {
+    "id": "d08-A24",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "bottleneck",
+    "pos": "noun",
+    "ipa": "/ˈbɑːtlnek/",
+    "meaning_ko": "병목, 병목 지점",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bottle",
+          "type": "part",
+          "gloss": "병"
+        },
+        {
+          "text": "neck",
+          "type": "part",
+          "gloss": "목"
+        }
+      ],
+      "story": "병의 좁은 목 → 흐름이 막히는 좁은 곳 → 병목"
+    },
+    "example": {
+      "q": "How did you find the cause of the slowdown?",
+      "a": "Profiling showed the bottleneck was a single database query that ran on every request.",
+      "a_ko": "프로파일링해 보니 요청마다 실행되는 DB 쿼리 하나가 병목이었습니다."
+    },
+    "collocations": [
+      "performance bottleneck",
+      "identify the bottleneck",
+      "become a bottleneck"
+    ],
+    "related": [
+      "root cause",
+      "stopgap",
+      "troubleshoot"
+    ],
+    "tip": "사람에게도 씀 — I didn't want to become a bottleneck for the team."
+  },
+  {
+    "id": "d08-A25",
+    "day": 8,
+    "level": 2,
+    "set": "A",
+    "family": "F8",
+    "word": "root cause",
+    "pos": "noun",
+    "ipa": "/ˈruːt ˌkɔːz/",
+    "meaning_ko": "근본 원인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "root",
+          "type": "part",
+          "gloss": "뿌리"
+        },
+        {
+          "text": "cause",
+          "type": "part",
+          "gloss": "원인"
+        }
+      ],
+      "story": "뿌리에 있는 원인 → 근본 원인"
+    },
+    "example": {
+      "q": "What did you do after the outage was over?",
+      "a": "I led the root cause analysis and found that a config change had skipped code review.",
+      "a_ko": "근본 원인 분석을 주도했고, 설정 변경 하나가 코드 리뷰를 거치지 않았다는 것을 찾아냈습니다."
+    },
+    "collocations": [
+      "root cause analysis",
+      "find the root cause",
+      "address the root cause"
+    ],
+    "related": [
+      "bottleneck",
+      "troubleshoot",
+      "stopgap"
+    ],
+    "tip": "증상(symptom)과 대비해서 쓰면 좋음. RCA = root cause analysis"
+  }
+]

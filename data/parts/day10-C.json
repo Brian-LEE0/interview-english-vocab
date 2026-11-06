@@ -1,0 +1,1170 @@
+[
+ {
+  "id": "d10-C01",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "deny",
+  "pos": "verb",
+  "ipa": "/dɪˈnaɪ/",
+  "meaning_ko": "부인하다, 거절하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "ny",
+     "type": "root",
+     "gloss": "아니라고 하다 (negare ← neg)"
+    }
+   ],
+   "story": "라틴어 denegare(완전히 아니라고 하다) → 부인하다"
+  },
+  "example": {
+   "q": "Have you ever made a big mistake at work?",
+   "a": "I won't deny it; I once deleted a test database by accident.",
+   "a_ko": "부인하지 않겠습니다. 한 번 실수로 테스트 데이터베이스를 삭제한 적이 있습니다."
+  },
+  "collocations": [
+   "deny access",
+   "deny a request",
+   "there's no denying"
+  ],
+  "related": [
+   "denial",
+   "negate",
+   "neglect",
+   "neutral"
+  ],
+  "tip": "실수 질문에서 'I won't deny it.'으로 솔직함을 보여 줄 수 있음"
+ },
+ {
+  "id": "d10-C02",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "denial",
+  "pos": "noun",
+  "ipa": "/dɪˈnaɪəl/",
+  "meaning_ko": "거부, 부인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "ni",
+     "type": "root",
+     "gloss": "아니라고 하다 (neg)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "완전히 아니라고 하는 것 → 거부 → (IT) 서비스 거부"
+  },
+  "example": {
+   "q": "What security issues have you handled?",
+   "a": "We were hit by a denial-of-service attack, so I added request throttling at the gateway.",
+   "a_ko": "서비스 거부 공격을 받아서 게이트웨이에 요청 제한을 추가했습니다."
+  },
+  "collocations": [
+   "denial of service",
+   "access denial",
+   "in denial"
+  ],
+  "related": [
+   "deny",
+   "negate",
+   "null"
+  ],
+  "tip": "DoS = Denial of Service, DDoS = Distributed Denial of Service"
+ },
+ {
+  "id": "d10-C03",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "neglect",
+  "pos": "verb",
+  "ipa": "/nɪˈɡlekt/",
+  "meaning_ko": "소홀히 하다, 방치하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "neg",
+     "type": "root",
+     "gloss": "아니다 (nec)"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "줍다, 고르다 (legere)"
+    }
+   ],
+   "story": "라틴어 neglegere(줍지 않다) → 신경 쓰지 않다 → 소홀히 하다"
+  },
+  "example": {
+   "q": "What's important when you're under deadline pressure?",
+   "a": "Even under pressure, I never neglect writing tests.",
+   "a_ko": "압박 속에서도 테스트 작성은 절대 소홀히 하지 않습니다."
+  },
+  "collocations": [
+   "neglect to do",
+   "neglect testing",
+   "long neglected"
+  ],
+  "related": [
+   "negligible",
+   "negate",
+   "deny",
+   "neutral"
+  ],
+  "tip": "neg + lect — lect 는 collect, select 의 그 lect(줍다, 고르다)"
+ },
+ {
+  "id": "d10-C04",
+  "day": 10,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "negligible",
+  "pos": "adjective",
+  "ipa": "/ˈneɡlɪdʒəbəl/",
+  "meaning_ko": "무시해도 될 정도의, 미미한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "neg",
+     "type": "root",
+     "gloss": "아니다 (nec)"
+    },
+    {
+     "text": "lig",
+     "type": "root",
+     "gloss": "줍다, 고르다 (legere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "줍지 않아도 되는 → 신경 쓰지 않아도 될 만한 → 미미한"
+  },
+  "example": {
+   "q": "Didn't adding encryption slow the system down?",
+   "a": "We measured it carefully under production load, and the extra latency was negligible, less than two milliseconds per request.",
+   "a_ko": "운영 부하에서 꼼꼼히 측정했는데, 추가 지연은 요청당 2밀리초 미만으로 미미했습니다."
+  },
+  "collocations": [
+   "negligible impact",
+   "negligible overhead",
+   "negligible cost"
+  ],
+  "related": [
+   "neglect",
+   "negate",
+   "deny",
+   "null"
+  ],
+  "tip": "small 보다 '측정해 봤는데 무시해도 된다'는 근거가 담긴 말"
+ },
+ {
+  "id": "d10-C05",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "negate",
+  "pos": "verb",
+  "ipa": "/nɪˈɡeɪt/",
+  "meaning_ko": "무효로 만들다, 상쇄하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "neg",
+     "type": "root",
+     "gloss": "아니라고 하다"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "라틴어 negare(아니라고 하다) → 없던 것으로 만들다 → 효과를 없애다"
+  },
+  "example": {
+   "q": "Why do you care so much about safe deployments?",
+   "a": "One careless release can negate months of trust with users, so I always push for a staged rollout.",
+   "a_ko": "부주의한 릴리스 한 번이 몇 달 동안 쌓은 사용자 신뢰를 무너뜨릴 수 있어서, 늘 단계적 배포를 주장합니다."
+  },
+  "collocations": [
+   "negate the effect",
+   "negate the gains",
+   "negate a condition"
+  ],
+  "related": [
+   "deny",
+   "denial",
+   "neglect",
+   "negligible"
+  ],
+  "tip": "Day 30 의 negative 와 같은 어근 neg(아니다)"
+ },
+ {
+  "id": "d10-C06",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "null",
+  "pos": "noun",
+  "ipa": "/nʌl/",
+  "meaning_ko": "널(값 없음), 없음",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "n",
+     "type": "prefix",
+     "gloss": "아니다 (ne, neg 의 뿌리)"
+    },
+    {
+     "text": "ull",
+     "type": "root",
+     "gloss": "어떤 것 (ullus)"
+    }
+   ],
+   "story": "라틴어 nullus(아무것도 아닌, ne + ullus) → 없음 → 값이 없음"
+  },
+  "example": {
+   "q": "What kind of bugs do you see most often?",
+   "a": "Null values from external APIs cause most of our crashes.",
+   "a_ko": "외부 API에서 오는 널 값이 저희 장애의 대부분을 일으킵니다."
+  },
+  "collocations": [
+   "null value",
+   "null pointer",
+   "null check"
+  ],
+  "related": [
+   "nullable",
+   "neutral",
+   "necessary",
+   "deny"
+  ],
+  "tip": "발음 '널' — '눌'이라고 읽지 않기"
+ },
+ {
+  "id": "d10-C07",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "nullable",
+  "pos": "adjective",
+  "ipa": "/ˈnʌləbəl/",
+  "meaning_ko": "널을 허용하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "n",
+     "type": "prefix",
+     "gloss": "아니다 (ne)"
+    },
+    {
+     "text": "ull",
+     "type": "root",
+     "gloss": "어떤 것 (ullus)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "null 이 될 수 있는 → 값이 비어도 되는"
+  },
+  "example": {
+   "q": "How do you design a database schema?",
+   "a": "I make a column nullable only when 'unknown' is a real state, because nulls make queries harder to read.",
+   "a_ko": "'모름'이 실제로 있는 상태일 때만 컬럼에 널을 허용합니다. 널이 많으면 쿼리를 읽기 어려워지기 때문입니다."
+  },
+  "collocations": [
+   "nullable column",
+   "nullable field",
+   "non-nullable"
+  ],
+  "related": [
+   "null",
+   "neutral",
+   "necessary"
+  ],
+  "tip": "Kotlin·TypeScript 의 nullable type 이야기에서도 자주 나옴"
+ },
+ {
+  "id": "d10-C08",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "necessary",
+  "pos": "adjective",
+  "ipa": "/ˈnesəseri/",
+  "meaning_ko": "필요한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ne",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "cess",
+     "type": "root",
+     "gloss": "물러나다 (cede)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 necesse(물러설 수 없는, ne + cedere) → 피할 수 없는 → 필요한"
+  },
+  "example": {
+   "q": "Are you willing to learn new languages?",
+   "a": "Of course, I'll learn whatever is necessary for the project.",
+   "a_ko": "물론입니다. 프로젝트에 필요한 것이라면 무엇이든 배우겠습니다."
+  },
+  "collocations": [
+   "if necessary",
+   "necessary for",
+   "absolutely necessary"
+  ],
+  "related": [
+   "unnecessary",
+   "neutral",
+   "null",
+   "deny"
+  ],
+  "tip": "ne(아니다) + cess(물러나다 — Day 2 의 access 와 같은 어근)"
+ },
+ {
+  "id": "d10-C09",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "unnecessary",
+  "pos": "adjective",
+  "ipa": "/ʌnˈnesəseri/",
+  "meaning_ko": "불필요한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "~ 아닌"
+    },
+    {
+     "text": "ne",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "cess",
+     "type": "root",
+     "gloss": "물러나다 (cede)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "필요하지(necessary) 않은 → 불필요한"
+  },
+  "example": {
+   "q": "How did you speed up the app?",
+   "a": "I removed unnecessary API calls on the home screen.",
+   "a_ko": "홈 화면의 불필요한 API 호출을 없앴습니다."
+  },
+  "collocations": [
+   "unnecessary calls",
+   "unnecessary complexity",
+   "avoid unnecessary"
+  ],
+  "related": [
+   "necessary",
+   "null",
+   "neutral"
+  ],
+  "tip": "성능 개선 경험을 말할 때 'remove unnecessary ~' 형태로 자주 씀"
+ },
+ {
+  "id": "d10-C10",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "neutral",
+  "pos": "adjective",
+  "ipa": "/ˈnuːtrəl/",
+  "meaning_ko": "중립적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ne",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "utr",
+     "type": "root",
+     "gloss": "둘 중 하나 (uter)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 neuter(둘 중 어느 쪽도 아닌) → 중립의"
+  },
+  "example": {
+   "q": "How do you handle conflict between two teammates?",
+   "a": "I stay neutral and help them focus on the facts.",
+   "a_ko": "중립을 지키면서 두 사람이 사실에 집중하도록 돕습니다."
+  },
+  "collocations": [
+   "stay neutral",
+   "neutral position",
+   "vendor-neutral"
+  ],
+  "related": [
+   "null",
+   "necessary",
+   "deny",
+   "negate"
+  ],
+  "tip": "IT 에서는 'vendor-neutral'(특정 업체에 묶이지 않는)으로도 씀"
+ },
+ {
+  "id": "d10-C11",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "non-trivial",
+  "pos": "adjective",
+  "ipa": "/ˌnɑːnˈtrɪviəl/",
+  "meaning_ko": "간단하지 않은, 상당히 까다로운",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non-",
+     "type": "prefix",
+     "gloss": "아니다 (non ← ne)"
+    },
+    {
+     "text": "tri",
+     "type": "prefix",
+     "gloss": "셋"
+    },
+    {
+     "text": "vi",
+     "type": "root",
+     "gloss": "길 (via)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "trivial(세 갈래 길처럼 흔한 → 사소한) + 아닌 → 사소하지 않은 → 까다로운"
+  },
+  "example": {
+   "q": "What was the hardest part of the migration?",
+   "a": "Moving the data was easy, but keeping both systems in sync during the switch was non-trivial.",
+   "a_ko": "데이터를 옮기는 건 쉬웠지만, 전환하는 동안 두 시스템을 동기화하는 건 꽤 까다로웠습니다."
+  },
+  "collocations": [
+   "non-trivial problem",
+   "non-trivial amount",
+   "non-trivial change"
+  ],
+  "related": [
+   "null",
+   "neutral",
+   "non-functional"
+  ],
+  "tip": "'hard'라고 하는 것보다 엔지니어다운 절제된 표현"
+ },
+ {
+  "id": "d10-C12",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "non-functional",
+  "pos": "adjective",
+  "ipa": "/ˌnɑːnˈfʌŋkʃənəl/",
+  "meaning_ko": "비기능적인 (성능·보안 등)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non-",
+     "type": "prefix",
+     "gloss": "아니다 (non ← ne)"
+    },
+    {
+     "text": "funct",
+     "type": "root",
+     "gloss": "수행하다 (fungi)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "기능(function)에 관한 것이 아닌 → 기능 외의 품질 요구 (성능·보안·가용성)"
+  },
+  "example": {
+   "q": "What do you check besides features when designing a system?",
+   "a": "I always clarify non-functional requirements like latency and security early, because they shape the whole architecture.",
+   "a_ko": "지연 시간이나 보안 같은 비기능 요구 사항을 초기에 꼭 확인합니다. 전체 아키텍처를 좌우하기 때문입니다."
+  },
+  "collocations": [
+   "non-functional requirements",
+   "non-functional testing"
+  ],
+  "related": [
+   "non-trivial",
+   "null",
+   "neutral"
+  ],
+  "tip": "'기능하지 않는(고장 난)'이라는 뜻도 있으니 requirements 와 함께 쓰기"
+ },
+ {
+  "id": "d10-C13",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "encounter",
+  "pos": "verb",
+  "ipa": "/ɪnˈkaʊntər/",
+  "meaning_ko": "(문제 등에) 부딪히다, 마주치다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "counter",
+     "type": "root",
+     "gloss": "맞서, 마주 보고 (contra)"
+    }
+   ],
+   "story": "라틴어 in + contra(맞은편으로) → 마주치다 → 문제에 부딪히다"
+  },
+  "example": {
+   "q": "What's the biggest challenge you've faced?",
+   "a": "The biggest problem I encountered was a memory leak in production.",
+   "a_ko": "제가 부딪힌 가장 큰 문제는 운영 환경의 메모리 누수였습니다."
+  },
+  "collocations": [
+   "encounter a problem",
+   "encounter an error",
+   "first encounter"
+  ],
+  "related": [
+   "contrast",
+   "contrary",
+   "counterpart",
+   "country"
+  ],
+  "tip": "에러 메시지·트러블슈팅 이야기에서 'run into'의 격식 있는 버전"
+ },
+ {
+  "id": "d10-C14",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "appreciate",
+  "pos": "verb",
+  "ipa": "/əˈpriːʃieɪt/",
+  "meaning_ko": "감사하다, 높이 평가하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "preci",
+     "type": "root",
+     "gloss": "값 (pretium)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "~에 값을 매기다 → 가치를 알아보다 → 고맙게 여기다"
+  },
+  "example": {
+   "q": "Do you have any final comments?",
+   "a": "I really appreciate the chance to talk with your team today.",
+   "a_ko": "오늘 팀과 이야기할 기회를 주셔서 정말 감사합니다."
+  },
+  "collocations": [
+   "appreciate the opportunity",
+   "I'd appreciate it if"
+  ],
+  "related": [
+   "price",
+   "precious",
+   "depreciate",
+   "appraise"
+  ],
+  "tip": "면접 마지막 인사의 정석. 'thank you' 보다 정중하게 들림"
+ },
+ {
+  "id": "d10-C15",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "contrary",
+  "pos": "noun",
+  "ipa": "/ˈkɑːntreri/",
+  "meaning_ko": "반대",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "contr",
+     "type": "root",
+     "gloss": "반대 (contra)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~한 (것)"
+    }
+   ],
+   "story": "라틴어 contrarius(반대쪽의) → 반대"
+  },
+  "example": {
+   "q": "Do you think remote work hurts collaboration?",
+   "a": "On the contrary, it made our team write clearer documentation.",
+   "a_ko": "오히려 반대로, 저희 팀은 문서를 더 명확하게 쓰게 됐습니다."
+  },
+  "collocations": [
+   "on the contrary",
+   "contrary to",
+   "quite the contrary"
+  ],
+  "related": [
+   "contrast",
+   "encounter",
+   "controversial"
+  ],
+  "tip": "'On the contrary'는 상대 말을 정면으로 뒤집을 때 — 부드럽게 하려면 'Actually,'"
+ },
+ {
+  "id": "d10-C16",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "counterargument",
+  "pos": "noun",
+  "ipa": "/ˈkaʊntɚˌɑːrɡjəmənt/",
+  "meaning_ko": "반론",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "반대로 (contra)"
+    },
+    {
+     "text": "argu",
+     "type": "root",
+     "gloss": "밝히다, 증명하다 (arguere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "반대쪽에서 밝혀 보이는 것 → 반대 논거"
+  },
+  "example": {
+   "q": "How do you handle disagreements about technical decisions?",
+   "a": "I listen to the counterargument first, then compare both options with data before deciding.",
+   "a_ko": "먼저 반론을 듣고, 결정하기 전에 두 선택지를 데이터로 비교합니다."
+  },
+  "collocations": [
+   "consider the counterargument",
+   "a strong counterargument"
+  ],
+  "related": [
+   "counteroffer",
+   "counterpart",
+   "argue"
+  ],
+  "tip": "토론·갈등 질문에서 열린 태도를 보여 주는 단어"
+ },
+ {
+  "id": "d10-C17",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "country",
+  "pos": "noun",
+  "ipa": "/ˈkʌntri/",
+  "meaning_ko": "나라, 국가",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "country",
+     "type": "root",
+     "gloss": "맞은편 땅 (contra)"
+    }
+   ],
+   "story": "중세 라틴어 (terra) contrata(맞은편에 펼쳐진 땅) → 지방 → 나라"
+  },
+  "example": {
+   "q": "Are you open to relocating?",
+   "a": "Yes, I'm excited about moving to a new country for this role.",
+   "a_ko": "네, 이 직무를 위해 새로운 나라로 옮기는 것이 기대됩니다."
+  },
+  "collocations": [
+   "move to another country",
+   "home country",
+   "across the country"
+  ],
+  "related": [
+   "encounter",
+   "contrary",
+   "counterpart"
+  ],
+  "tip": "count(세다)와는 관계없음 — contra(맞은편)에서 온 말"
+ },
+ {
+  "id": "d10-C18",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "counterpart",
+  "pos": "noun",
+  "ipa": "/ˈkaʊntərpɑːrt/",
+  "meaning_ko": "(다른 조직에서) 같은 역할을 하는 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞은편의 (contra)"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 몫 (pars)"
+    }
+   ],
+   "story": "맞은편의 몫 → (원래) 계약서 사본 → 상대편에서 같은 역할을 하는 사람"
+  },
+  "example": {
+   "q": "How do you work with teams in other countries?",
+   "a": "I have a weekly call with my counterpart in the Tokyo office, so we can align on API changes early.",
+   "a_ko": "도쿄 오피스에서 같은 역할을 맡은 분과 매주 통화해서 API 변경 사항을 미리 맞춥니다."
+  },
+  "collocations": [
+   "my counterpart in",
+   "overseas counterpart",
+   "counterpart team"
+  ],
+  "related": [
+   "countermeasure",
+   "counterexample",
+   "encounter",
+   "contrast"
+  ],
+  "tip": "'상대방'이 아니라 '상대 조직에서 나와 같은 위치의 사람'"
+ },
+ {
+  "id": "d10-C19",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "countermeasure",
+  "pos": "noun",
+  "ipa": "/ˈkaʊntərmeʒər/",
+  "meaning_ko": "대응책, 대책",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "measure",
+     "type": "root",
+     "gloss": "재다, 조치 (mensura)"
+    }
+   ],
+   "story": "맞서는 조치 → 위협에 대응하는 대책"
+  },
+  "example": {
+   "q": "How did you respond to the credential stuffing attack?",
+   "a": "As a countermeasure, we added login throttling and required two-factor authentication for admin accounts.",
+   "a_ko": "대응책으로 로그인 시도 제한을 추가하고 관리자 계정에는 2단계 인증을 의무화했습니다."
+  },
+  "collocations": [
+   "take countermeasures",
+   "security countermeasure",
+   "effective countermeasure"
+  ],
+  "related": [
+   "counterpart",
+   "counteract",
+   "counterexample"
+  ],
+  "tip": "보안·장애 재발 방지책을 말할 때 'measures'와 함께 씀"
+ },
+ {
+  "id": "d10-C20",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "counterexample",
+  "pos": "noun",
+  "ipa": "/ˈkaʊntərɪɡzæmpəl/",
+  "meaning_ko": "반례",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "ample",
+     "type": "root",
+     "gloss": "꺼낸 것 (emere)"
+    }
+   ],
+   "story": "example(밖으로 꺼낸 것 → 본보기) + 맞서는 → 주장을 깨는 예 → 반례"
+  },
+  "example": {
+   "q": "How do you test your assumptions?",
+   "a": "I actively look for a counterexample, such as an edge case that breaks my logic, before I trust a design.",
+   "a_ko": "설계를 믿기 전에 제 로직을 깨는 엣지 케이스 같은 반례를 적극적으로 찾습니다."
+  },
+  "collocations": [
+   "find a counterexample",
+   "a simple counterexample"
+  ],
+  "related": [
+   "counterpart",
+   "countermeasure",
+   "counterintuitive"
+  ],
+  "tip": "알고리즘 면접에서 '이 방법이 틀린 경우'를 설명할 때 바로 씀"
+ },
+ {
+  "id": "d10-C21",
+  "day": 10,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "counteract",
+  "pos": "verb",
+  "ipa": "/ˌkaʊntərˈækt/",
+  "meaning_ko": "대응하다, 상쇄하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (agere)"
+    }
+   ],
+   "story": "맞서서 작용하다 → 나쁜 영향을 줄이다"
+  },
+  "example": {
+   "q": "How do you deal with stress?",
+   "a": "To counteract stress during busy releases, I take short walks and keep a strict sleep schedule.",
+   "a_ko": "바쁜 릴리스 기간의 스트레스를 줄이려고 짧게 산책하고 수면 시간을 철저히 지킵니다."
+  },
+  "collocations": [
+   "counteract the effect",
+   "counteract stress"
+  ],
+  "related": [
+   "countermeasure",
+   "counterpart",
+   "counterproductive"
+  ],
+  "tip": "counter(맞서) + act — '맞불 작용'으로 기억"
+ },
+ {
+  "id": "d10-C22",
+  "day": 10,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "counterintuitive",
+  "pos": "adjective",
+  "ipa": "/ˌkaʊntərɪnˈtuːɪtɪv/",
+  "meaning_ko": "직관에 어긋나는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "tuit",
+     "type": "root",
+     "gloss": "보다 (tueri)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "intuitive(안을 들여다보는 → 직관적인)에 맞서는 → 직관과 반대인"
+  },
+  "example": {
+   "q": "Tell me about a surprising performance finding.",
+   "a": "It sounds counterintuitive, but adding a small random delay to retries reduced our errors, because clients stopped overloading the server at the same moment.",
+   "a_ko": "직관과 반대 같지만, 재시도에 작은 무작위 지연을 넣었더니 클라이언트가 동시에 서버를 몰아치지 않게 되어 오류가 줄었습니다."
+  },
+  "collocations": [
+   "sounds counterintuitive",
+   "counterintuitive result",
+   "seemingly counterintuitive"
+  ],
+  "related": [
+   "counterexample",
+   "counterpart",
+   "countermeasure",
+   "counterproductive"
+  ],
+  "tip": "'It sounds counterintuitive, but ~'은 의외의 결과를 소개하는 좋은 첫마디"
+ },
+ {
+  "id": "d10-C23",
+  "day": 10,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "counterproductive",
+  "pos": "adjective",
+  "ipa": "/ˌkaʊntərprəˈdʌktɪv/",
+  "meaning_ko": "역효과를 내는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "counter",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "duct",
+     "type": "root",
+     "gloss": "이끌다 (duc)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "productive(앞으로 이끌어 내는 → 생산적인)에 맞서는 → 역효과를 내는"
+  },
+  "example": {
+   "q": "How do you approach code reviews?",
+   "a": "I've learned that harsh comments are counterproductive, so I explain the reason behind each suggestion and point out what's done well.",
+   "a_ko": "날 선 코멘트는 역효과라는 걸 배워서, 제안마다 이유를 설명하고 잘된 점도 짚어 줍니다."
+  },
+  "collocations": [
+   "counterproductive to",
+   "prove counterproductive"
+  ],
+  "related": [
+   "counteract",
+   "counterintuitive",
+   "counterpart"
+  ],
+  "tip": "duct 는 Day 2 produce·productivity 와 같은 어근(이끌다)"
+ },
+ {
+  "id": "d10-C24",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "work from home",
+  "pos": "phrase",
+  "ipa": "/ˌwɜːrk frəm ˈhoʊm/",
+  "meaning_ko": "재택근무하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "work",
+     "type": "part",
+     "gloss": "일하다"
+    },
+    {
+     "text": "from",
+     "type": "part",
+     "gloss": "~에서"
+    },
+    {
+     "text": "home",
+     "type": "part",
+     "gloss": "집"
+    }
+   ],
+   "story": "집에서 일하다 → 재택근무"
+  },
+  "example": {
+   "q": "What working style do you prefer?",
+   "a": "I'm comfortable either way, but I'd like to work from home twice a week.",
+   "a_ko": "어느 쪽이든 괜찮지만, 일주일에 두 번은 재택근무를 하고 싶습니다."
+  },
+  "collocations": [
+   "work from home",
+   "work-from-home policy",
+   "WFH"
+  ],
+  "related": [
+   "workload",
+   "day off",
+   "overtime"
+  ],
+  "tip": "명사로 쓸 때는 'work-from-home'처럼 하이픈. 줄여서 WFH"
+ },
+ {
+  "id": "d10-C25",
+  "day": 10,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "time off",
+  "pos": "noun",
+  "ipa": "/ˌtaɪm ˈɔːf/",
+  "meaning_ko": "휴가, 쉬는 시간",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간 (고대 영어 tīma)"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "일에서 떨어진 시간 → 휴가"
+  },
+  "example": {
+   "q": "Do you have any upcoming plans we should know about?",
+   "a": "I have some time off planned in March, but I can adjust it if needed.",
+   "a_ko": "3월에 휴가가 잡혀 있지만 필요하면 조정할 수 있습니다."
+  },
+  "collocations": [
+   "take time off",
+   "paid time off (PTO)"
+  ],
+  "related": [
+   "day off",
+   "vacation"
+  ],
+  "tip": "PTO(paid time off) 는 유급 휴가. 일정 확인 질문에 자주 나옴"
+ }
+]

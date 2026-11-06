@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "d07-D01",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "tend",
+    "pos": "verb",
+    "ipa": "/tend/",
+    "meaning_ko": "~하는 경향이 있다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다·향하다"
+        }
+      ],
+      "story": "라틴어 tendere(뻗다) → 어느 쪽으로 뻗다 → 그쪽으로 기울다 → ~하는 경향이 있다"
+    },
+    "example": {
+      "q": "What is your weakness?",
+      "a": "I tend to take on too much, so now I check my workload every week.",
+      "a_ko": "일을 너무 많이 떠안는 경향이 있어서, 지금은 매주 업무량을 점검합니다."
+    },
+    "collocations": [
+      "tend to do",
+      "tend toward"
+    ],
+    "related": [
+      "tendency",
+      "attend",
+      "intend",
+      "extent"
+    ],
+    "tip": "약점 질문은 I tend to ... 로 시작하면 부드럽게 들림"
+  },
+  {
+    "id": "d07-D02",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "tendency",
+    "pos": "noun",
+    "ipa": "/ˈtendənsi/",
+    "meaning_ko": "경향, 성향",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다·향하다"
+        },
+        {
+          "text": "ency",
+          "type": "suffix",
+          "gloss": "~하는 성질"
+        }
+      ],
+      "story": "어느 쪽으로 뻗어 가는 성질(tendentia) → 경향, 성향"
+    },
+    "example": {
+      "q": "How do you manage your perfectionism?",
+      "a": "I have a tendency to over-polish code, so I set a time limit for each task.",
+      "a_ko": "코드를 지나치게 다듬는 경향이 있어서, 작업마다 시간 제한을 둡니다."
+    },
+    "collocations": [
+      "have a tendency to",
+      "natural tendency",
+      "a growing tendency"
+    ],
+    "related": [
+      "tend",
+      "intend",
+      "attention",
+      "tension"
+    ],
+    "tip": "tend to 의 명사형. have a tendency to + 동사원형"
+  },
+  {
+    "id": "d07-D03",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "intend",
+    "pos": "verb",
+    "ipa": "/ɪnˈtend/",
+    "meaning_ko": "~할 작정이다, 의도하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "~를 향해"
+        },
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다"
+        }
+      ],
+      "story": "~를 향해 (마음을) 뻗다(intendere) → 마음을 두다 → 의도하다"
+    },
+    "example": {
+      "q": "Where do you see yourself in five years?",
+      "a": "I intend to grow into a tech lead who mentors other engineers.",
+      "a_ko": "다른 엔지니어를 멘토링하는 테크 리드로 성장할 생각입니다."
+    },
+    "collocations": [
+      "intend to do",
+      "be intended for",
+      "as intended"
+    ],
+    "related": [
+      "intention",
+      "intense",
+      "attend",
+      "tend"
+    ],
+    "tip": "plan 보다 의지가 담긴 느낌. works as intended(의도대로 동작하다)도 자주 씀"
+  },
+  {
+    "id": "d07-D04",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "intention",
+    "pos": "noun",
+    "ipa": "/ɪnˈtenʃn/",
+    "meaning_ko": "의도, 생각",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "~를 향해"
+        },
+        {
+          "text": "tent",
+          "type": "root",
+          "gloss": "뻗다 (tend)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "~를 향해 마음을 뻗음 → 의도"
+    },
+    "example": {
+      "q": "How long do you plan to stay with us?",
+      "a": "My intention is to stay for the long term and grow with the team.",
+      "a_ko": "오래 다니면서 팀과 함께 성장하는 것이 제 생각입니다."
+    },
+    "collocations": [
+      "my intention is to",
+      "have no intention of",
+      "good intentions"
+    ],
+    "related": [
+      "intend",
+      "attention",
+      "tension",
+      "intense"
+    ],
+    "tip": "설계 의도를 설명할 때도 The intention is to ... 로 시작"
+  },
+  {
+    "id": "d07-D05",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "intense",
+    "pos": "adjective",
+    "ipa": "/ɪnˈtens/",
+    "meaning_ko": "강도 높은, 치열한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "~쪽으로"
+        },
+        {
+          "text": "tense",
+          "type": "root",
+          "gloss": "팽팽히 뻗은 (tend)"
+        }
+      ],
+      "story": "팽팽하게 뻗은(intensus) → 힘이 가득 실린 → 강렬한, 치열한"
+    },
+    "example": {
+      "q": "How do you perform under pressure?",
+      "a": "Launch weeks are intense, but I stay calm by breaking work into small tasks.",
+      "a_ko": "출시 주간은 강도가 높지만, 일을 작게 나눠서 침착함을 유지합니다."
+    },
+    "collocations": [
+      "intense pressure",
+      "intense competition",
+      "an intense period"
+    ],
+    "related": [
+      "intensive",
+      "tense",
+      "tension",
+      "intend"
+    ],
+    "tip": "intense(강렬한) vs intensive(집중적인, 많이 쓰는) 구별"
+  },
+  {
+    "id": "d07-D06",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "intensive",
+    "pos": "adjective",
+    "ipa": "/ɪnˈtensɪv/",
+    "meaning_ko": "(자원을) 많이 쓰는, 집중적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "~쪽으로"
+        },
+        {
+          "text": "tens",
+          "type": "root",
+          "gloss": "팽팽히 뻗은 (tend)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "팽팽히 힘을 모은 → 집중적인 → (자원을) 많이 쓰는"
+    },
+    "example": {
+      "q": "How did you reduce your cloud costs?",
+      "a": "Image processing was very CPU-intensive, so we moved it to spot instances and ran it in batches at night.",
+      "a_ko": "이미지 처리는 CPU를 많이 써서, 스팟 인스턴스로 옮기고 밤에 일괄 처리하도록 했습니다."
+    },
+    "collocations": [
+      "CPU-intensive",
+      "memory-intensive",
+      "labor-intensive"
+    ],
+    "related": [
+      "intense",
+      "tension",
+      "extensive",
+      "tensor"
+    ],
+    "tip": "X-intensive = 'X를 많이 쓰는'. 성능 설명에 매우 자주 씀"
+  },
+  {
+    "id": "d07-D07",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "tense",
+    "pos": "adjective",
+    "ipa": "/tens/",
+    "meaning_ko": "긴장된, 팽팽한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tense",
+          "type": "root",
+          "gloss": "팽팽히 당긴 (tend)"
+        }
+      ],
+      "story": "당겨 뻗은(tensus) → 팽팽한 → 긴장된"
+    },
+    "example": {
+      "q": "Tell me about a difficult meeting.",
+      "a": "The meeting got tense, so I suggested a short break.",
+      "a_ko": "회의 분위기가 팽팽해져서 잠깐 쉬자고 제안했습니다."
+    },
+    "collocations": [
+      "a tense meeting",
+      "tense atmosphere",
+      "get tense"
+    ],
+    "related": [
+      "tension",
+      "intense",
+      "tend",
+      "extent"
+    ],
+    "tip": "문법 용어 '시제'의 tense 는 다른 어원(라틴어 tempus)이니 헷갈리지 않기"
+  },
+  {
+    "id": "d07-D08",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "tension",
+    "pos": "noun",
+    "ipa": "/ˈtenʃn/",
+    "meaning_ko": "긴장, 갈등",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tens",
+          "type": "root",
+          "gloss": "팽팽히 당긴 (tend)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "팽팽히 당김(tensio) → 긴장 → (사람 사이의) 갈등"
+    },
+    "example": {
+      "q": "How do you handle conflict between teams?",
+      "a": "When tension grew between QA and development, I set up a weekly sync to talk openly.",
+      "a_ko": "QA팀과 개발팀 사이에 긴장이 커졌을 때, 주간 회의를 만들어 터놓고 이야기하게 했습니다."
+    },
+    "collocations": [
+      "ease tension",
+      "tension between",
+      "creative tension"
+    ],
+    "related": [
+      "tense",
+      "intense",
+      "attention",
+      "extensive"
+    ],
+    "tip": "conflict 보다 부드러운 말이라 갈등 질문에 쓰기 좋음"
+  },
+  {
+    "id": "d07-D09",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "pretend",
+    "pos": "verb",
+    "ipa": "/prɪˈtend/",
+    "meaning_ko": "~인 척하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "tend",
+          "type": "root",
+          "gloss": "뻗다"
+        }
+      ],
+      "story": "앞으로 내밀다(praetendere) → 핑계로 내세우다 → ~인 척하다"
+    },
+    "example": {
+      "q": "What do you do when you don't know an answer?",
+      "a": "I never pretend to know; I say so and find out quickly.",
+      "a_ko": "아는 척하지 않습니다. 모른다고 말하고 빨리 알아봅니다."
+    },
+    "collocations": [
+      "pretend to know",
+      "pretend that"
+    ],
+    "related": [
+      "tend",
+      "intend",
+      "contend",
+      "extent"
+    ],
+    "tip": "모르는 질문을 받았을 때 I won't pretend to know ... 로 정직하게 답하기"
+  },
+  {
+    "id": "d07-D10",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "extent",
+    "pos": "noun",
+    "ipa": "/ɪkˈstent/",
+    "meaning_ko": "정도, 범위",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "tent",
+          "type": "root",
+          "gloss": "뻗다 (tend)"
+        }
+      ],
+      "story": "밖으로 뻗은 만큼(extenta) → 범위 → 정도"
+    },
+    "example": {
+      "q": "Do you have experience with machine learning?",
+      "a": "To some extent, yes; I've deployed models but haven't trained them.",
+      "a_ko": "어느 정도는 있습니다. 모델을 배포해 봤지만 학습시켜 본 적은 없습니다."
+    },
+    "collocations": [
+      "to some extent",
+      "to a large extent",
+      "the extent of"
+    ],
+    "related": [
+      "extensive",
+      "extend",
+      "intend",
+      "tension"
+    ],
+    "tip": "to some extent = '어느 정도는'. 경험이 부분적일 때 정직하게 쓰는 표현"
+  },
+  {
+    "id": "d07-D11",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "extensive",
+    "pos": "adjective",
+    "ipa": "/ɪkˈstensɪv/",
+    "meaning_ko": "폭넓은, 광범위한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "tens",
+          "type": "root",
+          "gloss": "뻗다 (tend)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "밖으로 넓게 뻗은(extensivus) → 폭넓은"
+    },
+    "example": {
+      "q": "What makes you a strong fit for this role?",
+      "a": "I have extensive experience with AWS, from networking to cost optimization.",
+      "a_ko": "네트워크부터 비용 최적화까지 AWS 경험이 폭넓습니다."
+    },
+    "collocations": [
+      "extensive experience",
+      "extensive research",
+      "extensive testing"
+    ],
+    "related": [
+      "extent",
+      "extend",
+      "intensive",
+      "tension"
+    ],
+    "tip": "extensive experience 는 경력 설명의 단골. 동사 extend 는 Day 17"
+  },
+  {
+    "id": "d07-D12",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "tensor",
+    "pos": "noun",
+    "ipa": "/ˈtensər/",
+    "meaning_ko": "텐서 (다차원 배열)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tens",
+          "type": "root",
+          "gloss": "당기다·뻗다 (tend)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "당겨 늘이는 것(처음엔 근육 이름) → 늘임·힘을 나타내는 수학 개념 → 딥러닝의 다차원 배열"
+    },
+    "example": {
+      "q": "What's your experience with deep learning frameworks?",
+      "a": "I've used PyTorch for two years, so I'm comfortable reshaping tensors and debugging shape mismatches.",
+      "a_ko": "PyTorch를 2년 동안 써서, 텐서 모양을 바꾸고 shape 불일치를 디버깅하는 데 익숙합니다."
+    },
+    "collocations": [
+      "tensor shape",
+      "tensor operations",
+      "TensorFlow"
+    ],
+    "related": [
+      "tension",
+      "intensive",
+      "extent",
+      "tense"
+    ],
+    "tip": "TensorFlow 의 그 tensor. 발음 '텐서'"
+  },
+  {
+    "id": "d07-D13",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "alter",
+    "pos": "verb",
+    "ipa": "/ˈɔːltər/",
+    "meaning_ko": "변경하다, 고치다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "alter",
+          "type": "root",
+          "gloss": "다른 (alter)"
+        }
+      ],
+      "story": "라틴어 alter(다른 하나) → 다르게 만들다 → 변경하다"
+    },
+    "example": {
+      "q": "How do you change a database schema safely?",
+      "a": "I alter tables in small steps, so each change is easy to roll back.",
+      "a_ko": "테이블을 조금씩 단계별로 변경해서, 각 변경을 쉽게 롤백할 수 있게 합니다."
+    },
+    "collocations": [
+      "alter a table",
+      "alter the plan",
+      "significantly alter"
+    ],
+    "related": [
+      "alternative",
+      "alternate",
+      "altruistic",
+      "mutate"
+    ],
+    "tip": "SQL 의 ALTER TABLE. change 보다 '일부를 고치다' 느낌"
+  },
+  {
+    "id": "d07-D14",
+    "day": 7,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "commute",
+    "pos": "noun",
+    "ipa": "/kəˈmjuːt/",
+    "meaning_ko": "통근(길)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "mute",
+          "type": "root",
+          "gloss": "바꾸다 (mut)"
+        }
+      ],
+      "story": "맞바꾸다(commutare) → 요금을 한 번에 바꿔 치른 정기권으로 오가다 → 통근"
+    },
+    "example": {
+      "q": "Would the commute be a problem for you?",
+      "a": "Not at all; my commute would be about forty minutes by subway.",
+      "a_ko": "전혀 문제없습니다. 지하철로 40분 정도 걸립니다."
+    },
+    "collocations": [
+      "daily commute",
+      "a long commute",
+      "commute to work"
+    ],
+    "related": [
+      "mutate",
+      "mutation",
+      "permutation",
+      "mutual"
+    ],
+    "tip": "명사·동사 모두 같은 형태. 강세는 뒤 '-뮤트'"
+  },
+  {
+    "id": "d07-D15",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "mutate",
+    "pos": "verb",
+    "ipa": "/ˈmjuːteɪt/",
+    "meaning_ko": "(상태를) 변경하다, 변이하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mut",
+          "type": "root",
+          "gloss": "바꾸다"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "라틴어 mutare(바꾸다) → 변하다 → (데이터·상태를) 직접 바꾸다"
+    },
+    "example": {
+      "q": "How do you avoid bugs in shared state?",
+      "a": "I avoid functions that mutate their inputs, because hidden changes make bugs very hard to trace.",
+      "a_ko": "입력값을 직접 바꾸는 함수는 피합니다. 숨은 변경이 있으면 버그를 추적하기가 아주 어려워서요."
+    },
+    "collocations": [
+      "mutate state",
+      "mutate an object"
+    ],
+    "related": [
+      "mutation",
+      "commute",
+      "permutation",
+      "immutable"
+    ],
+    "tip": "반대 개념 immutable(불변의)은 Day 27"
+  },
+  {
+    "id": "d07-D16",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "mutation",
+    "pos": "noun",
+    "ipa": "/mjuːˈteɪʃn/",
+    "meaning_ko": "변경 (작업), 변이",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "mut",
+          "type": "root",
+          "gloss": "바꾸다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "바꿈(mutatio) → 변화 → 데이터를 바꾸는 작업"
+    },
+    "example": {
+      "q": "How do you design a GraphQL API?",
+      "a": "I keep queries and mutations separate, and every mutation returns the updated object so the client stays in sync.",
+      "a_ko": "조회와 변경(mutation)을 분리하고, 모든 변경은 갱신된 객체를 돌려줘서 클라이언트가 최신 상태를 유지하게 합니다."
+    },
+    "collocations": [
+      "GraphQL mutation",
+      "mutation testing",
+      "state mutation"
+    ],
+    "related": [
+      "mutate",
+      "commute",
+      "permutation",
+      "alter"
+    ],
+    "tip": "mutation testing 은 코드를 일부러 바꿔 테스트가 잡아내는지 확인하는 기법"
+  },
+  {
+    "id": "d07-D17",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "permutation",
+    "pos": "noun",
+    "ipa": "/ˌpɜːrmjuˈteɪʃn/",
+    "meaning_ko": "(조합의) 경우의 수, 순열",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "mut",
+          "type": "root",
+          "gloss": "바꾸다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "완전히 바꿔 놓음(permutare) → 순서를 바꿔 늘어놓기 → 순열, 경우의 수"
+    },
+    "example": {
+      "q": "How did you test the new pricing logic?",
+      "a": "I wrote table-driven tests that covered every permutation of plan, region, and currency.",
+      "a_ko": "요금제, 지역, 통화의 모든 경우의 수를 다루는 테이블 기반 테스트를 작성했습니다."
+    },
+    "collocations": [
+      "every permutation",
+      "possible permutations"
+    ],
+    "related": [
+      "mutation",
+      "mutate",
+      "commute"
+    ],
+    "tip": "'모든 조합'을 말할 때 쓰면 꼼꼼한 인상. 수학에서 permutation 은 순열, combination 은 조합"
+  },
+  {
+    "id": "d07-D18",
+    "day": 7,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "altruistic",
+    "pos": "adjective",
+    "ipa": "/ˌæltruˈɪstɪk/",
+    "meaning_ko": "이타적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "altru",
+          "type": "root",
+          "gloss": "남·다른 사람 (alter)"
+        },
+        {
+          "text": "istic",
+          "type": "suffix",
+          "gloss": "~의 성질인"
+        }
+      ],
+      "story": "라틴어 alteri huic(이 다른 사람에게) → 프랑스어 autrui(남) → altruisme(이타주의) → 남을 위하는"
+    },
+    "example": {
+      "q": "Why do you contribute to open source?",
+      "a": "It isn't purely altruistic; maintaining a library sharpened my API design skills, and feedback from users made me a better engineer.",
+      "a_ko": "순수하게 이타적인 이유만은 아닙니다. 라이브러리를 관리하면서 API 설계 실력이 늘었고, 사용자 피드백 덕분에 더 나은 엔지니어가 되었습니다."
+    },
+    "collocations": [
+      "purely altruistic",
+      "altruistic motives"
+    ],
+    "related": [
+      "alter",
+      "alternative",
+      "alternate"
+    ],
+    "tip": "프랑스 철학자 콩트가 만든 말. not purely altruistic 으로 솔직하게 동기를 말할 때 좋음"
+  },
+  {
+    "id": "d07-D19",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "well-versed",
+    "pos": "adjective",
+    "ipa": "/ˌwel ˈvɜːrst/",
+    "meaning_ko": "~에 정통한, 능숙한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "well-",
+          "type": "part",
+          "gloss": "잘 (영어)"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "늘 다루다 (versari ← vert)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "라틴어 versari(그 안에서 돌다 → 늘 다루다) → versed(익숙한) → well-versed(아주 익숙한, 정통한)"
+    },
+    "example": {
+      "q": "How familiar are you with our tech stack?",
+      "a": "I'm well-versed in Kotlin and Spring Boot, which I've used every day for the past three years.",
+      "a_ko": "코틀린과 스프링 부트에 정통합니다. 지난 3년 동안 매일 썼습니다."
+    },
+    "collocations": [
+      "well-versed in",
+      "well-versed in the field"
+    ],
+    "related": [
+      "versatile",
+      "conversation",
+      "reverse",
+      "diverse"
+    ],
+    "tip": "be well-versed in + 분야. familiar with 보다 한 단계 깊은 숙련"
+  },
+  {
+    "id": "d07-D20",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "vice versa",
+    "pos": "adverb",
+    "ipa": "/ˌvaɪs ˈvɜːrsə/",
+    "meaning_ko": "반대로도 마찬가지로",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vice",
+          "type": "part",
+          "gloss": "자리·차례 (라틴어 vicis)"
+        },
+        {
+          "text": "versa",
+          "type": "root",
+          "gloss": "돌려진 (vert)"
+        }
+      ],
+      "story": "라틴어 '자리가 돌려진 채로' → 거꾸로 해도 마찬가지로"
+    },
+    "example": {
+      "q": "How do you work with designers?",
+      "a": "Our designers review my UI changes, and vice versa, so we catch problems from both sides early.",
+      "a_ko": "디자이너가 제 UI 변경을 검토하고 저도 디자이너의 작업을 검토해서, 양쪽에서 문제를 일찍 잡습니다."
+    },
+    "collocations": [
+      "and vice versa"
+    ],
+    "related": [
+      "reverse",
+      "conversely",
+      "versatile",
+      "diverse"
+    ],
+    "tip": "발음 '바이스 버-사'. 문장 끝에 and vice versa 로 붙임"
+  },
+  {
+    "id": "d07-D21",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "conversely",
+    "pos": "adverb",
+    "ipa": "/kənˈvɜːrsli/",
+    "meaning_ko": "반대로, 거꾸로 말하면",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "verse",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "완전히 돌려놓은(conversus) → 거꾸로 된 → 반대로 말하면"
+    },
+    "example": {
+      "q": "How do you choose between speed and quality?",
+      "a": "For prototypes I favor speed; conversely, for payment code I favor careful review even if it slows us down.",
+      "a_ko": "프로토타입에서는 속도를 우선하고, 반대로 결제 코드에서는 느려지더라도 꼼꼼한 리뷰를 우선합니다."
+    },
+    "collocations": [
+      "conversely, ...",
+      "and conversely"
+    ],
+    "related": [
+      "conversation",
+      "vice versa",
+      "reverse",
+      "convert"
+    ],
+    "tip": "on the other hand 보다 '정반대 경우'를 딱 짚을 때"
+  },
+  {
+    "id": "d07-D22",
+    "day": 7,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "influx",
+    "pos": "noun",
+    "ipa": "/ˈɪnflʌks/",
+    "meaning_ko": "(갑작스러운) 유입, 쇄도",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "flux",
+          "type": "root",
+          "gloss": "흐름 (flu)"
+        }
+      ],
+      "story": "안으로 흘러듦(influxus) → 유입 → 갑작스러운 쇄도"
+    },
+    "example": {
+      "q": "Tell me about a time your system was under heavy load.",
+      "a": "After a TV ad aired, we saw a sudden influx of sign-ups, so I raised the rate limits and queued welcome emails to keep the database stable.",
+      "a_ko": "TV 광고가 나간 뒤 가입자가 갑자기 몰려서, 요청 제한을 올리고 환영 메일을 큐에 넣어 데이터베이스를 안정적으로 유지했습니다."
+    },
+    "collocations": [
+      "sudden influx",
+      "influx of traffic",
+      "influx of users"
+    ],
+    "related": [
+      "flux",
+      "fluid",
+      "fluctuate",
+      "influence"
+    ],
+    "tip": "an influx of + 명사. spike 보다 '밀려 들어온다'는 느낌"
+  },
+  {
+    "id": "d07-D23",
+    "day": 7,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "superfluous",
+    "pos": "adjective",
+    "ipa": "/suːˈpɜːrfluəs/",
+    "meaning_ko": "불필요한, 쓸데없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "super",
+          "type": "prefix",
+          "gloss": "넘어"
+        },
+        {
+          "text": "flu",
+          "type": "root",
+          "gloss": "흐르다"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "넘쳐흐르는(superfluus) → 필요 이상인 → 불필요한"
+    },
+    "example": {
+      "q": "How do you approach code reviews?",
+      "a": "I look for superfluous abstractions, because an interface with only one implementation often adds complexity without adding value.",
+      "a_ko": "불필요한 추상화를 찾습니다. 구현이 하나뿐인 인터페이스는 가치는 없이 복잡도만 더하는 경우가 많아서요."
+    },
+    "collocations": [
+      "superfluous code",
+      "superfluous detail",
+      "entirely superfluous"
+    ],
+    "related": [
+      "fluid",
+      "flux",
+      "influx",
+      "fluctuate"
+    ],
+    "tip": "발음 '수-퍼-플루어스', 강세는 둘째 음절 '퍼'"
+  },
+  {
+    "id": "d07-D24",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "workaround",
+    "pos": "noun",
+    "ipa": "/ˈwɜːrkəraʊnd/",
+    "meaning_ko": "임시방편, 우회책",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "work",
+          "type": "part",
+          "gloss": "일하다"
+        },
+        {
+          "text": "around",
+          "type": "part",
+          "gloss": "돌아서"
+        }
+      ],
+      "story": "막힌 곳을 돌아서 일이 되게 함 → 우회책, 임시 해결책"
+    },
+    "example": {
+      "q": "What do you do when a library has a bug you can't fix?",
+      "a": "I apply a temporary workaround, document it clearly, and open an issue upstream so we can remove it later.",
+      "a_ko": "임시 우회책을 적용하고 명확하게 기록한 다음, 나중에 걷어낼 수 있도록 원 저장소에 이슈를 올립니다."
+    },
+    "collocations": [
+      "temporary workaround",
+      "find a workaround",
+      "workaround for"
+    ],
+    "related": [
+      "roll back",
+      "turnaround",
+      "shift"
+    ],
+    "tip": "명사는 붙여서 workaround, 동사는 띄어서 work around"
+  },
+  {
+    "id": "d07-D25",
+    "day": 7,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "turnaround",
+    "pos": "noun",
+    "ipa": "/ˈtɜːrnəraʊnd/",
+    "meaning_ko": "처리 시간, (상황의) 반전",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "turn",
+          "type": "part",
+          "gloss": "돌다"
+        },
+        {
+          "text": "around",
+          "type": "part",
+          "gloss": "빙 돌아"
+        }
+      ],
+      "story": "빙 돌아 제자리로 오기 → 일을 받아 돌려주기까지 걸리는 시간 / 상황이 돌아서는 것 → 반전"
+    },
+    "example": {
+      "q": "How did you improve your team's productivity?",
+      "a": "I cut the turnaround time for code reviews from two days to four hours by setting up a review rotation.",
+      "a_ko": "리뷰 담당 순번을 정해서 코드 리뷰 처리 시간을 이틀에서 4시간으로 줄였습니다."
+    },
+    "collocations": [
+      "turnaround time",
+      "quick turnaround",
+      "a remarkable turnaround"
+    ],
+    "related": [
+      "workaround",
+      "roll back",
+      "shift"
+    ],
+    "tip": "turnaround time(처리 시간)은 성과 수치를 말할 때 유용"
+  }
+]

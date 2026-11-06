@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "d08-C01",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "solve",
+    "pos": "verb",
+    "ipa": "/sɑːlv/",
+    "meaning_ko": "(문제를) 풀다, 해결하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "solve",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        }
+      ],
+      "story": "묶인 것을 풀다 → 문제를 풀다"
+    },
+    "example": {
+      "q": "What kind of problems do you enjoy?",
+      "a": "I like to solve performance problems because the results are easy to measure.",
+      "a_ko": "결과를 쉽게 측정할 수 있어서 성능 문제를 푸는 것을 좋아합니다."
+    },
+    "collocations": [
+      "solve a problem",
+      "problem-solving skills"
+    ],
+    "related": [
+      "solution",
+      "resolve",
+      "dissolve",
+      "analysis"
+    ],
+    "tip": "명사 '문제 해결력'은 problem-solving skills"
+  },
+  {
+    "id": "d08-C02",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "solution",
+    "pos": "noun",
+    "ipa": "/səˈluːʃən/",
+    "meaning_ko": "해결책, 솔루션",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "solu",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        },
+        {
+          "text": "tion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "푼 것 → 해답, 해결책"
+    },
+    "example": {
+      "q": "How did you fix the slow page?",
+      "a": "My solution was to cache the results and load images lazily.",
+      "a_ko": "결과를 캐싱하고 이미지를 지연 로딩하는 것이 제 해결책이었습니다."
+    },
+    "collocations": [
+      "come up with a solution",
+      "a quick solution",
+      "solution to a problem"
+    ],
+    "related": [
+      "solve",
+      "resolution",
+      "absolute",
+      "dissolve"
+    ],
+    "tip": "solution to a problem — 전치사는 to"
+  },
+  {
+    "id": "d08-C03",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "resolve",
+    "pos": "verb",
+    "ipa": "/rɪˈzɑːlv/",
+    "meaning_ko": "(문제·충돌을) 해결하다, (이름을) 해석하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시, 완전히"
+        },
+        {
+          "text": "solve",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        }
+      ],
+      "story": "완전히 풀다 → 엉킨 문제·충돌을 매듭짓다"
+    },
+    "example": {
+      "q": "How do you handle merge conflicts?",
+      "a": "I resolve merge conflicts by talking to the other author first, so we don't overwrite each other's work.",
+      "a_ko": "머지 충돌은 상대 작성자와 먼저 이야기한 뒤에 해결해서, 서로의 작업을 덮어쓰지 않게 합니다."
+    },
+    "collocations": [
+      "resolve a conflict",
+      "resolve an issue",
+      "resolve a dependency"
+    ],
+    "related": [
+      "resolution",
+      "solve",
+      "dissolve",
+      "absolve"
+    ],
+    "tip": "solve(정답을 찾다)보다 '이슈를 매듭짓다'에 가까움. DNS에서는 이름을 '해석하다'"
+  },
+  {
+    "id": "d08-C04",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "resolution",
+    "pos": "noun",
+    "ipa": "/ˌrezəˈluːʃən/",
+    "meaning_ko": "해결, 결심",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시, 완전히"
+        },
+        {
+          "text": "solu",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        },
+        {
+          "text": "tion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "완전히 풂 → 해결 → (마음을 풀어 정함) 결심"
+    },
+    "example": {
+      "q": "How do you handle conflict with a coworker?",
+      "a": "I talk to them privately and focus on a resolution, not on who was right.",
+      "a_ko": "따로 이야기하면서, 누가 옳았는지보다 해결에 집중합니다."
+    },
+    "collocations": [
+      "conflict resolution",
+      "reach a resolution",
+      "screen resolution"
+    ],
+    "related": [
+      "resolve",
+      "solution",
+      "solve"
+    ],
+    "tip": "'결심'(New Year's resolution), 화면 '해상도' 뜻도 있음"
+  },
+  {
+    "id": "d08-C05",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "dissolve",
+    "pos": "verb",
+    "ipa": "/dɪˈzɑːlv/",
+    "meaning_ko": "(조직을) 해체하다, 녹이다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "solve",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        }
+      ],
+      "story": "풀어서 흩어지게 하다 → 녹이다 → (조직을) 해체하다"
+    },
+    "example": {
+      "q": "Why did you change teams?",
+      "a": "Our team was dissolved after a reorganization, so I moved to the payments team.",
+      "a_ko": "조직 개편으로 팀이 해체되어 결제 팀으로 옮겼습니다."
+    },
+    "collocations": [
+      "dissolve a team",
+      "dissolve a partnership"
+    ],
+    "related": [
+      "solve",
+      "resolve",
+      "absolve"
+    ],
+    "tip": "팀 해체를 담담하게 설명할 때 좋은 단어"
+  },
+  {
+    "id": "d08-C06",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "absolute",
+    "pos": "adjective",
+    "ipa": "/ˈæbsəluːt/",
+    "meaning_ko": "절대적인, (경로가) 절대의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ab",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "solute",
+          "type": "root",
+          "gloss": "풀린 (solv)"
+        }
+      ],
+      "story": "묶임에서 풀려난 → 아무 조건에도 매이지 않은 → 절대적인"
+    },
+    "example": {
+      "q": "What caused the bug in the build script?",
+      "a": "The script used a relative path, so I switched it to an absolute path.",
+      "a_ko": "스크립트가 상대 경로를 쓰고 있어서 절대 경로로 바꿨습니다."
+    },
+    "collocations": [
+      "absolute path",
+      "absolute priority",
+      "absolute value"
+    ],
+    "related": [
+      "absolutely",
+      "absolve",
+      "solve",
+      "dissolve"
+    ],
+    "tip": "relative(상대적인)와 짝으로 외우기"
+  },
+  {
+    "id": "d08-C07",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "absolutely",
+    "pos": "adverb",
+    "ipa": "/ˌæbsəˈluːtli/",
+    "meaning_ko": "물론이죠, 전적으로",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ab",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "solute",
+          "type": "root",
+          "gloss": "풀린 (solv)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "조건에 매이지 않게 → 완전히 → (대답) 물론이죠"
+    },
+    "example": {
+      "q": "Would you be willing to mentor new hires?",
+      "a": "Absolutely. I mentored two interns last year, and I really enjoyed it.",
+      "a_ko": "물론입니다. 작년에 인턴 두 명을 멘토링했는데 정말 즐거웠습니다."
+    },
+    "collocations": [
+      "absolutely right",
+      "absolutely necessary"
+    ],
+    "related": [
+      "absolute",
+      "absolve",
+      "solve"
+    ],
+    "tip": "Yes 대신 Absolutely! 라고 답하면 적극적으로 들림. 강세는 [루ː]"
+  },
+  {
+    "id": "d08-C08",
+    "day": 8,
+    "level": 3,
+    "set": "C",
+    "family": "F8",
+    "word": "absolve",
+    "pos": "verb",
+    "ipa": "/əbˈzɑːlv/",
+    "meaning_ko": "(책임에서) 면제하다, 벗어나게 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ab",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "solve",
+          "type": "root",
+          "gloss": "풀다 (solv)"
+        }
+      ],
+      "story": "묶임에서 떼어 풀어 주다 → 책임·죄에서 벗어나게 하다"
+    },
+    "example": {
+      "q": "Tell me about a failure you were part of.",
+      "a": "Even though the bug came from another team's library, I didn't absolve myself; I added the tests that would have caught it.",
+      "a_ko": "버그가 다른 팀 라이브러리에서 왔지만 제 책임이 없다고 넘기지 않았고, 그 버그를 잡을 수 있었을 테스트를 추가했습니다."
+    },
+    "collocations": [
+      "absolve A of responsibility",
+      "absolve oneself"
+    ],
+    "related": [
+      "absolute",
+      "absolutely",
+      "resolve",
+      "dissolve"
+    ],
+    "tip": "absolve A of B = A를 B(책임)에서 면제하다. 책임감을 보여 줄 땐 부정문으로"
+  },
+  {
+    "id": "d08-C09",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "analyze",
+    "pos": "verb",
+    "ipa": "/ˈænəlaɪz/",
+    "meaning_ko": "분석하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ana",
+          "type": "prefix",
+          "gloss": "위로, 완전히 (그리스어 ana)"
+        },
+        {
+          "text": "lyze",
+          "type": "root",
+          "gloss": "풀다 (lys)"
+        }
+      ],
+      "story": "완전히 풀어 헤치다 → 분석하다"
+    },
+    "example": {
+      "q": "How do you make decisions?",
+      "a": "I analyze the data first, then discuss the options with the team.",
+      "a_ko": "먼저 데이터를 분석한 다음, 팀과 선택지를 논의합니다."
+    },
+    "collocations": [
+      "analyze data",
+      "analyze the problem"
+    ],
+    "related": [
+      "analysis",
+      "catalyst",
+      "paralysis",
+      "solve"
+    ],
+    "tip": "영국식 철자는 analyse. 강세는 맨 앞 [애]"
+  },
+  {
+    "id": "d08-C10",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "analysis",
+    "pos": "noun",
+    "ipa": "/əˈnæləsɪs/",
+    "meaning_ko": "분석",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ana",
+          "type": "prefix",
+          "gloss": "위로, 완전히 (그리스어 ana)"
+        },
+        {
+          "text": "lysis",
+          "type": "root",
+          "gloss": "풂 (lys)"
+        }
+      ],
+      "story": "완전히 풀어 헤침 → 분해 → 분석"
+    },
+    "example": {
+      "q": "How did you decide which feature to remove?",
+      "a": "I did a usage analysis of our logs and found that only 2% of users used that feature, so we removed it.",
+      "a_ko": "로그로 사용 현황을 분석해 보니 그 기능을 쓰는 사용자가 2%뿐이어서 제거했습니다."
+    },
+    "collocations": [
+      "data analysis",
+      "root cause analysis",
+      "in-depth analysis"
+    ],
+    "related": [
+      "analyze",
+      "catalyst",
+      "paralysis",
+      "resolve"
+    ],
+    "tip": "복수형 analyses [어낼러시ː즈]. 강세는 둘째 음절 [낼]"
+  },
+  {
+    "id": "d08-C11",
+    "day": 8,
+    "level": 3,
+    "set": "C",
+    "family": "F8",
+    "word": "catalyst",
+    "pos": "noun",
+    "ipa": "/ˈkætəlɪst/",
+    "meaning_ko": "촉매, (변화의) 계기가 되는 사람·일",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cata",
+          "type": "prefix",
+          "gloss": "아래로, 완전히 (그리스어 kata)"
+        },
+        {
+          "text": "lyst",
+          "type": "root",
+          "gloss": "푸는 것 (lys)"
+        }
+      ],
+      "story": "완전히 풀어 헤치는 것(화학의 촉매) → 변화를 일으키는 계기"
+    },
+    "example": {
+      "q": "What role do you usually play in a team?",
+      "a": "I often act as a catalyst for change; at my last job, my small CI experiment became the standard pipeline for five teams.",
+      "a_ko": "변화를 이끄는 촉매 역할을 자주 합니다. 이전 회사에서 제가 시작한 작은 CI 실험이 다섯 팀의 표준 파이프라인이 됐습니다."
+    },
+    "collocations": [
+      "a catalyst for change",
+      "act as a catalyst",
+      "serve as a catalyst"
+    ],
+    "related": [
+      "catalyze",
+      "analysis",
+      "paralysis",
+      "analyze"
+    ],
+    "tip": "변화의 계기가 된 사람·사건을 말할 때. 발음 [캐털리스트]"
+  },
+  {
+    "id": "d08-C12",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "catalyze",
+    "pos": "verb",
+    "ipa": "/ˈkætəlaɪz/",
+    "meaning_ko": "(변화를) 촉진하다, 불러일으키다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cata",
+          "type": "prefix",
+          "gloss": "아래로, 완전히 (그리스어 kata)"
+        },
+        {
+          "text": "lyze",
+          "type": "root",
+          "gloss": "풀다 (lys)"
+        }
+      ],
+      "story": "촉매 작용을 하다 → 변화를 촉진하다"
+    },
+    "example": {
+      "q": "What impact did your side project have?",
+      "a": "My internal demo catalyzed a wider discussion, and the team decided to adopt TypeScript.",
+      "a_ko": "제가 만든 사내 데모가 더 넓은 논의를 불러일으켰고, 팀이 TypeScript를 도입하기로 했습니다."
+    },
+    "collocations": [
+      "catalyze change",
+      "catalyze growth"
+    ],
+    "related": [
+      "catalyst",
+      "analyze",
+      "paralyze"
+    ],
+    "tip": "spark, trigger 와 비슷하지만 더 격식 있는 말"
+  },
+  {
+    "id": "d08-C13",
+    "day": 8,
+    "level": 3,
+    "set": "C",
+    "family": "F8",
+    "word": "paralysis",
+    "pos": "noun",
+    "ipa": "/pəˈræləsɪs/",
+    "meaning_ko": "마비, (결정을 못 하는) 정체 상태",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "para",
+          "type": "prefix",
+          "gloss": "옆으로 (그리스어 para)"
+        },
+        {
+          "text": "lysis",
+          "type": "root",
+          "gloss": "풂 (lys)"
+        }
+      ],
+      "story": "(몸의) 한쪽이 풀려 버림 → 마비 → 아무것도 결정하지 못하는 상태"
+    },
+    "example": {
+      "q": "How do you avoid overthinking decisions?",
+      "a": "To avoid analysis paralysis, I set a deadline for research, then pick the best option and plan a way to reverse it if needed.",
+      "a_ko": "분석만 하다가 결정을 못 하는 상황을 피하려고, 조사 기한을 정해 두고 가장 나은 선택지를 고른 뒤 필요하면 되돌릴 방법도 마련해 둡니다."
+    },
+    "collocations": [
+      "analysis paralysis",
+      "decision paralysis"
+    ],
+    "related": [
+      "paralyze",
+      "analysis",
+      "catalyst"
+    ],
+    "tip": "analysis paralysis 는 -lysis 가 두 번 들어간 운율 있는 표현"
+  },
+  {
+    "id": "d08-C14",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "paralyze",
+    "pos": "verb",
+    "ipa": "/ˈpærəlaɪz/",
+    "meaning_ko": "마비시키다, 멈추게 하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "para",
+          "type": "prefix",
+          "gloss": "옆으로 (그리스어 para)"
+        },
+        {
+          "text": "lyze",
+          "type": "root",
+          "gloss": "풀다 (lys)"
+        }
+      ],
+      "story": "(몸의) 한쪽을 풀어 버리다 → 마비시키다 → 시스템을 멈추게 하다"
+    },
+    "example": {
+      "q": "What was the impact of the outage?",
+      "a": "A single misconfigured DNS record paralyzed our checkout service for about an hour.",
+      "a_ko": "잘못 설정된 DNS 레코드 하나 때문에 결제 서비스가 한 시간 가까이 마비됐습니다."
+    },
+    "collocations": [
+      "paralyze the system",
+      "be paralyzed by"
+    ],
+    "related": [
+      "paralysis",
+      "analyze",
+      "catalyze"
+    ],
+    "tip": "영국식 철자 paralyse. be paralyzed by fear = 두려움에 얼어붙다"
+  },
+  {
+    "id": "d08-C15",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "decide",
+    "pos": "verb",
+    "ipa": "/dɪˈsaɪd/",
+    "meaning_ko": "결정하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "cide",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        }
+      ],
+      "story": "잘라 내다 → 다른 선택지를 잘라 내다 → 결정하다"
+    },
+    "example": {
+      "q": "Why did you decide to apply here?",
+      "a": "I decided to apply because your team builds the tools I use every day.",
+      "a_ko": "제가 매일 쓰는 도구를 만드는 팀이라서 지원하기로 했습니다."
+    },
+    "collocations": [
+      "decide to do",
+      "decide on",
+      "decide between"
+    ],
+    "related": [
+      "decisive",
+      "precise",
+      "concise",
+      "cement"
+    ],
+    "tip": "명사 decision, 형용사 decisive 와 함께 외우기"
+  },
+  {
+    "id": "d08-C16",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "decision",
+    "pos": "noun",
+    "ipa": "/dɪˈsɪʒən/",
+    "meaning_ko": "결정",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "cis",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "잘라 냄 → 다른 선택지를 잘라 냄 → 결정"
+    },
+    "example": {
+      "q": "What's a tough decision you made recently?",
+      "a": "I made the decision to delay our launch by a week to fix a security issue.",
+      "a_ko": "보안 문제를 고치려고 출시를 일주일 미루기로 결정했습니다."
+    },
+    "collocations": [
+      "make a decision",
+      "decision-making",
+      "data-driven decision"
+    ],
+    "related": [
+      "decide",
+      "decisive",
+      "precise",
+      "concise"
+    ],
+    "tip": "'결정을 내리다'는 make a decision (do 가 아님)"
+  },
+  {
+    "id": "d08-C17",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "decisive",
+    "pos": "adjective",
+    "ipa": "/dɪˈsaɪsɪv/",
+    "meaning_ko": "결단력 있는, 결정적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "cis",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "딱 잘라 정하는 → 결단력 있는; 승부를 가르는 → 결정적인"
+    },
+    "example": {
+      "q": "What's one of your strengths?",
+      "a": "I'm decisive under pressure; during incidents I make a call quickly and adjust as we learn more.",
+      "a_ko": "압박 속에서도 결단력이 있습니다. 장애 상황에서는 빨리 결정하고, 더 알게 되면 조정합니다."
+    },
+    "collocations": [
+      "decisive action",
+      "a decisive factor"
+    ],
+    "related": [
+      "decide",
+      "precise",
+      "precision",
+      "concise"
+    ],
+    "tip": "make a call = 결정을 내리다. 반대말 indecisive(우유부단한)"
+  },
+  {
+    "id": "d08-C18",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "precise",
+    "pos": "adjective",
+    "ipa": "/prɪˈsaɪs/",
+    "meaning_ko": "정확한, 정밀한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "cise",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        }
+      ],
+      "story": "앞을 잘라 낸 → 군더더기 없는 → 딱 떨어지게 정확한"
+    },
+    "example": {
+      "q": "What makes a good bug report?",
+      "a": "A good bug report has precise steps to reproduce the problem.",
+      "a_ko": "좋은 버그 리포트에는 문제를 재현하는 정확한 절차가 있습니다."
+    },
+    "collocations": [
+      "precise steps",
+      "to be precise",
+      "precise requirements"
+    ],
+    "related": [
+      "precision",
+      "concise",
+      "decide",
+      "decisive"
+    ],
+    "tip": "accurate(틀리지 않은)와 달리 precise 는 '세밀하고 딱 떨어지는'"
+  },
+  {
+    "id": "d08-C19",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "precisely",
+    "pos": "adverb",
+    "ipa": "/prɪˈsaɪsli/",
+    "meaning_ko": "바로, 정확히",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "cise",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "앞을 잘라 내어 딱 맞게 → 정확히 → 바로 그것"
+    },
+    "example": {
+      "q": "You'd have to wear many hats here. Is that okay?",
+      "a": "Yes, that's precisely why I applied; I want to own features from start to finish.",
+      "a_ko": "네, 바로 그 점 때문에 지원했습니다. 기능을 처음부터 끝까지 맡아 보고 싶습니다."
+    },
+    "collocations": [
+      "precisely because",
+      "precisely why"
+    ],
+    "related": [
+      "precise",
+      "precision",
+      "concise",
+      "decide"
+    ],
+    "tip": "That's precisely why ~ = 바로 그래서 ~ (이유를 강조할 때)"
+  },
+  {
+    "id": "d08-C20",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "precision",
+    "pos": "noun",
+    "ipa": "/prɪˈsɪʒən/",
+    "meaning_ko": "정밀함, 정밀도",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞을"
+        },
+        {
+          "text": "cis",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "앞을 잘라 냄 → 군더더기 없음 → 정밀함"
+    },
+    "example": {
+      "q": "What did you learn working on the billing system?",
+      "a": "Billing taught me to value precision; we stored money as integers to avoid floating-point rounding errors.",
+      "a_ko": "빌링 시스템을 하며 정밀함의 중요성을 배웠습니다. 부동소수점 반올림 오차를 피하려고 금액을 정수로 저장했습니다."
+    },
+    "collocations": [
+      "with precision",
+      "precision and recall",
+      "high precision"
+    ],
+    "related": [
+      "precise",
+      "concise",
+      "decisive"
+    ],
+    "tip": "ML 평가 지표 precision(정밀도)·recall(재현율)도 이 단어"
+  },
+  {
+    "id": "d08-C21",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "cement",
+    "pos": "verb",
+    "ipa": "/sɪˈment/",
+    "meaning_ko": "굳히다, 확고히 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ce",
+          "type": "root",
+          "gloss": "자르다 (caed- → cis/cid)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "잘라 낸 돌 조각(caementum) → 돌을 붙이는 시멘트 → 단단히 굳히다"
+    },
+    "example": {
+      "q": "Why did you move into backend development?",
+      "a": "Building the payment API during my internship cemented my interest in backend systems, so I focused on it after that.",
+      "a_ko": "인턴 때 결제 API를 만들면서 백엔드에 대한 관심이 확고해져서, 그 뒤로 백엔드에 집중했습니다."
+    },
+    "collocations": [
+      "cement a relationship",
+      "cement one's interest",
+      "cement a position"
+    ],
+    "related": [
+      "decide",
+      "concise",
+      "precise"
+    ],
+    "tip": "명사는 '시멘트', 동사는 '굳히다'. 강세는 뒤 [멘]"
+  },
+  {
+    "id": "d08-C22",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "excise",
+    "pos": "verb",
+    "ipa": "/ɪkˈsaɪz/",
+    "meaning_ko": "도려내다, 잘라 내다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "cise",
+          "type": "root",
+          "gloss": "자르다 (cis/cid)"
+        }
+      ],
+      "story": "밖으로 잘라 내다 → 도려내다"
+    },
+    "example": {
+      "q": "What did you do to clean up the legacy codebase?",
+      "a": "I excised about two thousand lines of dead code, which made the module much easier to test.",
+      "a_ko": "죽은 코드 약 2천 줄을 도려내서 모듈을 훨씬 쉽게 테스트할 수 있게 했습니다."
+    },
+    "collocations": [
+      "excise dead code",
+      "excise a dependency"
+    ],
+    "related": [
+      "concise",
+      "precise",
+      "decide"
+    ],
+    "tip": "remove 보다 '깔끔하게 도려내다'. 명사 excise(물품세)는 어원이 다른 말"
+  },
+  {
+    "id": "d08-C23",
+    "day": 8,
+    "level": 1,
+    "set": "C",
+    "family": "F8",
+    "word": "look into",
+    "pos": "phrasal verb",
+    "ipa": "/lʊk ˈɪntuː/",
+    "meaning_ko": "조사하다, 알아보다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "look",
+          "type": "part",
+          "gloss": "보다"
+        },
+        {
+          "text": "into",
+          "type": "part",
+          "gloss": "안으로"
+        }
+      ],
+      "story": "안을 들여다보다 → 조사하다, 알아보다"
+    },
+    "example": {
+      "q": "What would you do if a customer reported a slow page?",
+      "a": "I would look into the logs first to see when the slowdown started.",
+      "a_ko": "먼저 로그를 들여다보고 언제부터 느려졌는지 확인하겠습니다."
+    },
+    "collocations": [
+      "look into it",
+      "look into the issue"
+    ],
+    "related": [
+      "narrow down",
+      "troubleshoot",
+      "sort out"
+    ],
+    "tip": "I'll look into it. = 확인해 보겠습니다 (바로 답하기 어려운 질문에 안전한 답)"
+  },
+  {
+    "id": "d08-C24",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "stopgap",
+    "pos": "noun",
+    "ipa": "/ˈstɑːpɡæp/",
+    "meaning_ko": "임시방편, 땜질 처방",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stop",
+          "type": "part",
+          "gloss": "막다"
+        },
+        {
+          "text": "gap",
+          "type": "part",
+          "gloss": "틈"
+        }
+      ],
+      "story": "틈을 막는 것 → 제대로 고치기 전까지의 임시방편"
+    },
+    "example": {
+      "q": "What did you do when the vendor API had a bug?",
+      "a": "As a stopgap, I added retries for failed calls, and then reported the bug to the vendor.",
+      "a_ko": "임시방편으로 실패한 호출에 재시도를 넣고, 업체에 버그를 보고했습니다."
+    },
+    "collocations": [
+      "as a stopgap",
+      "a stopgap measure",
+      "stopgap solution"
+    ],
+    "related": [
+      "troubleshoot",
+      "root cause",
+      "bottleneck"
+    ],
+    "tip": "근본 해결이 아닌 '땜질 처방'. 형용사로도 씀(a stopgap fix)"
+  },
+  {
+    "id": "d08-C25",
+    "day": 8,
+    "level": 2,
+    "set": "C",
+    "family": "F8",
+    "word": "troubleshoot",
+    "pos": "verb",
+    "ipa": "/ˈtrʌblʃuːt/",
+    "meaning_ko": "(문제의 원인을 찾아) 해결하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trouble",
+          "type": "part",
+          "gloss": "고장, 문제"
+        },
+        {
+          "text": "shoot",
+          "type": "part",
+          "gloss": "쏘다"
+        }
+      ],
+      "story": "troubleshooter(전신·전화선 고장을 찾아 고치던 사람)에서 나온 말 → 문제 원인을 찾아 해결하다"
+    },
+    "example": {
+      "q": "What's your approach when a service suddenly fails?",
+      "a": "I troubleshoot from the outside in: I check the alerts and dashboards, then the logs, and finally the recent changes.",
+      "a_ko": "바깥에서 안쪽으로 원인을 좁혀 갑니다. 알림과 대시보드를 먼저 보고, 그다음 로그, 마지막으로 최근 변경 사항을 봅니다."
+    },
+    "collocations": [
+      "troubleshoot an issue",
+      "troubleshooting steps"
+    ],
+    "related": [
+      "stopgap",
+      "root cause",
+      "look into"
+    ],
+    "tip": "과거형 troubleshot. 명사는 troubleshooting"
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "d04-D01",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "subject",
+    "pos": "noun",
+    "ipa": "/ˈsʌbdʒɪkt/",
+    "meaning_ko": "과목, 주제",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        }
+      ],
+      "story": "아래에 던져 놓인 것 → (논의의) 밑바탕 → 주제·과목"
+    },
+    "example": {
+      "q": "What was your favorite subject in university?",
+      "a": "My favorite subject was algorithms, because I enjoyed solving puzzles.",
+      "a_ko": "가장 좋아한 과목은 알고리즘이었습니다. 퍼즐 푸는 걸 좋아했기 때문입니다."
+    },
+    "collocations": [
+      "subject matter expert",
+      "the subject of",
+      "subject to change"
+    ],
+    "related": [
+      "subjective",
+      "object",
+      "reject",
+      "trajectory"
+    ],
+    "tip": "subject to change(변경될 수 있음)는 일정·조건을 말할 때 유용"
+  },
+  {
+    "id": "d04-D02",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "subjective",
+    "pos": "adjective",
+    "ipa": "/səbˈdʒektɪv/",
+    "meaning_ko": "주관적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "주체(subject) 쪽의 → 개인 생각에 따른 → 주관적인"
+    },
+    "example": {
+      "q": "How do you settle design debates on your team?",
+      "a": "Design debates can get subjective, so I suggest we compare the options with real performance data.",
+      "a_ko": "설계 논쟁은 주관적으로 흐르기 쉬워서, 실제 성능 데이터로 선택지를 비교해 보자고 제안합니다."
+    },
+    "collocations": [
+      "highly subjective",
+      "subjective opinion",
+      "a bit subjective"
+    ],
+    "related": [
+      "subject",
+      "objective",
+      "object"
+    ],
+    "tip": "반대말 objective(객관적인)와 짝으로 외우기"
+  },
+  {
+    "id": "d04-D03",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "object",
+    "pos": "noun",
+    "ipa": "/ˈɑːbdʒekt/",
+    "meaning_ko": "객체, 오브젝트",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        }
+      ],
+      "story": "앞에 던져진 것 → 눈앞의 대상 → (프로그래밍) 객체"
+    },
+    "example": {
+      "q": "Where do you store user uploads?",
+      "a": "We store uploads in object storage like S3 and keep only the links in the database.",
+      "a_ko": "업로드 파일은 S3 같은 오브젝트 스토리지에 저장하고, 데이터베이스에는 링크만 둡니다."
+    },
+    "collocations": [
+      "object storage",
+      "object-oriented",
+      "JSON object"
+    ],
+    "related": [
+      "objective",
+      "subject",
+      "reject",
+      "trajectory"
+    ],
+    "tip": "동사 ob-JECT는 '반대하다'(I object to ~)로 뜻과 강세가 다름"
+  },
+  {
+    "id": "d04-D04",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "objective",
+    "pos": "noun",
+    "ipa": "/əbˈdʒektɪv/",
+    "meaning_ko": "목표; (형용사) 객관적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "앞에 던져 놓은 것 → 겨냥하는 대상 → 목표"
+    },
+    "example": {
+      "q": "What were the objectives of that project?",
+      "a": "Our main objective was to cut checkout time in half, and we reached it within one quarter.",
+      "a_ko": "주요 목표는 결제 시간을 절반으로 줄이는 것이었고, 한 분기 안에 달성했습니다."
+    },
+    "collocations": [
+      "main objective",
+      "set clear objectives",
+      "objectives and key results"
+    ],
+    "related": [
+      "object",
+      "subjective",
+      "subject",
+      "reject"
+    ],
+    "tip": "OKR의 O가 objective. 형용사로는 '객관적인'(an objective view)"
+  },
+  {
+    "id": "d04-D05",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "reject",
+    "pos": "verb",
+    "ipa": "/rɪˈdʒekt/",
+    "meaning_ko": "거절하다, 반려하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        }
+      ],
+      "story": "뒤로 던져 버리다 → 받지 않다 → 거절하다"
+    },
+    "example": {
+      "q": "Have you ever disagreed with a design?",
+      "a": "Yes, I once rejected a design because it added cost without a clear benefit.",
+      "a_ko": "네, 뚜렷한 이점 없이 비용만 늘리는 설계라서 반려한 적이 있습니다."
+    },
+    "collocations": [
+      "reject a proposal",
+      "reject a request",
+      "be rejected"
+    ],
+    "related": [
+      "rejection",
+      "subject",
+      "object",
+      "objective"
+    ],
+    "tip": "코드 리뷰에서는 reject보다 request changes(수정 요청)라는 말을 더 많이 씀"
+  },
+  {
+    "id": "d04-D06",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "rejection",
+    "pos": "noun",
+    "ipa": "/rɪˈdʒekʃn/",
+    "meaning_ko": "거절, 불합격",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "뒤로 던져 버림 → 거절"
+    },
+    "example": {
+      "q": "How do you deal with setbacks?",
+      "a": "I treat each rejection as feedback and ask what I can improve.",
+      "a_ko": "거절당할 때마다 피드백으로 받아들이고, 무엇을 개선할 수 있을지 묻습니다."
+    },
+    "collocations": [
+      "handle rejection",
+      "fear of rejection",
+      "rejection rate"
+    ],
+    "related": [
+      "reject",
+      "subject",
+      "objective"
+    ],
+    "tip": "실패 경험 질문에서 담담하게 쓸 수 있는 단어"
+  },
+  {
+    "id": "d04-D07",
+    "day": 4,
+    "level": 3,
+    "set": "D",
+    "family": "F4",
+    "word": "trajectory",
+    "pos": "noun",
+    "ipa": "/trəˈdʒektəri/",
+    "meaning_ko": "(경력의) 궤도, 발전 흐름",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tra",
+          "type": "prefix",
+          "gloss": "건너 (trans)"
+        },
+        {
+          "text": "ject",
+          "type": "root",
+          "gloss": "던지다"
+        },
+        {
+          "text": "ory",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 traicere '건너편으로 던지다' → 던진 물체가 그리는 길 → 궤도·발전 경로"
+    },
+    "example": {
+      "q": "Where do you see yourself in five years?",
+      "a": "I see my career trajectory moving from building features toward designing systems, and this role is the natural next step on that path.",
+      "a_ko": "제 경력은 기능 개발에서 시스템 설계 쪽으로 나아가고 있고, 이 자리가 그 길에서 자연스러운 다음 단계라고 생각합니다."
+    },
+    "collocations": [
+      "career trajectory",
+      "growth trajectory",
+      "on an upward trajectory"
+    ],
+    "related": [
+      "subject",
+      "object",
+      "reject",
+      "objective"
+    ],
+    "tip": "5년 후 질문에서 path보다 세련된 표현"
+  },
+  {
+    "id": "d04-D08",
+    "day": 4,
+    "level": 3,
+    "set": "D",
+    "family": "F4",
+    "word": "jettison",
+    "pos": "verb",
+    "ipa": "/ˈdʒetɪsn/",
+    "meaning_ko": "(필요 없는 것을) 과감히 버리다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "jett",
+          "type": "root",
+          "gloss": "던지다 (ject, 라틴어 iactare)"
+        },
+        {
+          "text": "ison",
+          "type": "suffix",
+          "gloss": "~하기 (-ation)"
+        }
+      ],
+      "story": "라틴어 iactatio '던지기' → 배가 위험할 때 짐을 바다에 던지기 → 과감히 버리다"
+    },
+    "example": {
+      "q": "How did you speed up the rewrite?",
+      "a": "We decided to jettison the legacy reporting module entirely, since only two customers used it, and that saved us about a month.",
+      "a_ko": "레거시 리포팅 모듈은 고객 두 곳만 쓰고 있어서 통째로 버리기로 했고, 덕분에 약 한 달을 아꼈습니다."
+    },
+    "collocations": [
+      "jettison a feature",
+      "jettison legacy code",
+      "jettison the plan"
+    ],
+    "related": [
+      "reject",
+      "object",
+      "trajectory",
+      "subject"
+    ],
+    "tip": "drop보다 강하고 단호한 '버리다'"
+  },
+  {
+    "id": "d04-D09",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "obvious",
+    "pos": "adjective",
+    "ipa": "/ˈɑːbviəs/",
+    "meaning_ko": "명백한, 뻔한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "마주하여"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "라틴어 obvius '길 위에서 마주치는' → 누구나 보게 되는 → 명백한"
+    },
+    "example": {
+      "q": "What is a mistake you made early in your career?",
+      "a": "I once missed an obvious bug because I skipped writing tests.",
+      "a_ko": "테스트 작성을 건너뛰는 바람에 뻔한 버그를 놓친 적이 있습니다."
+    },
+    "collocations": [
+      "obvious choice",
+      "it is obvious that",
+      "not obvious"
+    ],
+    "related": [
+      "obviously",
+      "previous",
+      "trivial",
+      "deviate"
+    ],
+    "tip": "'뻔한'이라는 낮잡는 느낌도 있으니 상대 의견에는 쓰지 않기"
+  },
+  {
+    "id": "d04-D10",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "obviously",
+    "pos": "adverb",
+    "ipa": "/ˈɑːbviəsli/",
+    "meaning_ko": "당연히, 분명히",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "마주하여"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "길 위에서 마주치듯 → 누가 봐도 분명히"
+    },
+    "example": {
+      "q": "How did you feel when the project was canceled?",
+      "a": "I was obviously disappointed, but I understood the business reasons behind it.",
+      "a_ko": "당연히 실망했지만, 그 뒤에 있는 사업상 이유는 이해했습니다."
+    },
+    "collocations": [
+      "obviously important",
+      "most obviously",
+      "obviously not"
+    ],
+    "related": [
+      "obvious",
+      "previously",
+      "deviate"
+    ],
+    "tip": "너무 자주 쓰면 '그것도 모르냐'로 들릴 수 있으니 한 답변에 한 번만"
+  },
+  {
+    "id": "d04-D11",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "previous",
+    "pos": "adjective",
+    "ipa": "/ˈpriːviəs/",
+    "meaning_ko": "이전의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "라틴어 praevius '앞서 길을 가는' → 먼저 온 → 이전의"
+    },
+    "example": {
+      "q": "What do you do when a release breaks something?",
+      "a": "I roll back to the previous version first, then investigate the cause.",
+      "a_ko": "먼저 이전 버전으로 롤백하고 나서 원인을 조사합니다."
+    },
+    "collocations": [
+      "previous version",
+      "previous role",
+      "previous release"
+    ],
+    "related": [
+      "previously",
+      "obvious",
+      "deviate",
+      "trivial"
+    ],
+    "tip": "면접에서 '전 직장'은 my previous company / my previous role"
+  },
+  {
+    "id": "d04-D12",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "previously",
+    "pos": "adverb",
+    "ipa": "/ˈpriːviəsli/",
+    "meaning_ko": "이전에",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "앞서 길을 간 때에 → 이전에"
+    },
+    "example": {
+      "q": "Tell me about yourself.",
+      "a": "Previously, I worked as a backend developer at a fintech startup in Seoul.",
+      "a_ko": "이전에는 서울의 핀테크 스타트업에서 백엔드 개발자로 일했습니다."
+    },
+    "collocations": [
+      "previously worked",
+      "as previously mentioned",
+      "previously unknown"
+    ],
+    "related": [
+      "previous",
+      "obvious",
+      "obviously"
+    ],
+    "tip": "자기소개에서 경력을 이어 말할 때 Before that 대신 쓸 수 있음"
+  },
+  {
+    "id": "d04-D13",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "trivial",
+    "pos": "adjective",
+    "ipa": "/ˈtrɪviəl/",
+    "meaning_ko": "사소한, 간단한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tri",
+          "type": "prefix",
+          "gloss": "셋"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "라틴어 trivialis '세 갈래 길(trivium)의' → 길거리 어디서나 흔한 → 하찮은·간단한"
+    },
+    "example": {
+      "q": "How long did the fix take?",
+      "a": "The fix itself was trivial, but finding the bug took two days.",
+      "a_ko": "수정 자체는 간단했지만, 버그를 찾는 데 이틀이 걸렸습니다."
+    },
+    "collocations": [
+      "a trivial fix",
+      "trivial change",
+      "not trivial"
+    ],
+    "related": [
+      "obvious",
+      "previous",
+      "deviate",
+      "deviation"
+    ],
+    "tip": "개발자들이 '간단한 일'을 trivial이라고 자주 씀. 사람에게 쓰면 실례"
+  },
+  {
+    "id": "d04-D14",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "deviate",
+    "pos": "verb",
+    "ipa": "/ˈdiːvieɪt/",
+    "meaning_ko": "(계획·기준에서) 벗어나다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "길에서 벗어나다 → 정해진 계획·기준에서 벗어나다"
+    },
+    "example": {
+      "q": "Do you always follow the process?",
+      "a": "I follow it by default, but I deviate from it when it clearly hurts the customer, and I explain why.",
+      "a_ko": "기본적으로는 따르지만, 고객에게 분명히 손해가 될 때는 벗어나고 그 이유를 설명합니다."
+    },
+    "collocations": [
+      "deviate from the plan",
+      "deviate slightly",
+      "deviate from the norm"
+    ],
+    "related": [
+      "deviation",
+      "obvious",
+      "previous",
+      "trivial"
+    ],
+    "tip": "항상 deviate from ~ 형태로 씀"
+  },
+  {
+    "id": "d04-D15",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "deviation",
+    "pos": "noun",
+    "ipa": "/ˌdiːviˈeɪʃn/",
+    "meaning_ko": "편차, 이탈",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "vi",
+          "type": "root",
+          "gloss": "길 (via)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "길에서 벗어남 → 기준에서 벗어난 정도 → 편차"
+    },
+    "example": {
+      "q": "How do you set alert thresholds?",
+      "a": "I trigger an alert when response time is three standard deviations above the weekly average, which cut false alarms a lot.",
+      "a_ko": "응답 시간이 주간 평균보다 표준편차의 3배 이상 높아지면 알림이 가도록 했더니, 오탐이 크게 줄었습니다."
+    },
+    "collocations": [
+      "standard deviation",
+      "deviation from",
+      "significant deviation"
+    ],
+    "related": [
+      "deviate",
+      "trivial",
+      "obvious"
+    ],
+    "tip": "통계의 standard deviation(표준편차)으로 가장 많이 나옴"
+  },
+  {
+    "id": "d04-D16",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "invoice",
+    "pos": "noun",
+    "ipa": "/ˈɪnvɔɪs/",
+    "meaning_ko": "청구서, 인보이스",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "~위에, ~로 (en)"
+        },
+        {
+          "text": "voice",
+          "type": "root",
+          "gloss": "길로 보내다 (via → envoyer)"
+        }
+      ],
+      "story": "프랑스어 envoyer '길에 올려 보내다'(en voie ← via 길) → 보낸 물품 목록 → 청구서"
+    },
+    "example": {
+      "q": "What kind of systems have you built?",
+      "a": "I built a billing service that creates monthly invoices for over ten thousand customers.",
+      "a_ko": "1만 곳이 넘는 고객사에 월별 청구서를 만들어 주는 결제 서비스를 개발했습니다."
+    },
+    "collocations": [
+      "send an invoice",
+      "invoice system",
+      "monthly invoice"
+    ],
+    "related": [
+      "previous",
+      "obvious",
+      "deviate",
+      "convey"
+    ],
+    "tip": "결제·회계 시스템 경험을 말할 때 billing과 함께 씀. voice(목소리)와는 관계없음"
+  },
+  {
+    "id": "d04-D17",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "vehicle",
+    "pos": "noun",
+    "ipa": "/ˈviːəkl/",
+    "meaning_ko": "수단, 매개체; 차량",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vehi",
+          "type": "root",
+          "gloss": "나르다 (vehere)"
+        },
+        {
+          "text": "cle",
+          "type": "suffix",
+          "gloss": "~하는 도구"
+        }
+      ],
+      "story": "나르는 것 → 탈것 → 무언가를 전달하는 수단"
+    },
+    "example": {
+      "q": "Why do you write a tech blog?",
+      "a": "My blog is a vehicle for sharing what I learn with other developers.",
+      "a_ko": "블로그는 제가 배운 것을 다른 개발자들과 나누는 수단입니다."
+    },
+    "collocations": [
+      "a vehicle for",
+      "vehicle for growth",
+      "electric vehicle"
+    ],
+    "related": [
+      "transport",
+      "support",
+      "convey"
+    ],
+    "tip": "면접에서는 '차량'보다 a vehicle for ~ (~의 수단)로 씀. 어근 veh도 '나르다'"
+  },
+  {
+    "id": "d04-D18",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "metaphor",
+    "pos": "noun",
+    "ipa": "/ˈmetəfɔːr/",
+    "meaning_ko": "비유",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "meta",
+          "type": "prefix",
+          "gloss": "넘어, 다른 곳으로"
+        },
+        {
+          "text": "phor",
+          "type": "root",
+          "gloss": "나르다 (그리스어 pherein)"
+        }
+      ],
+      "story": "그리스어 metaphora '다른 곳으로 옮겨 나르기' → 뜻을 다른 말에 옮겨 싣기 → 비유"
+    },
+    "example": {
+      "q": "How do you explain technical concepts to non-engineers?",
+      "a": "I use simple metaphors, like comparing a cache to keeping snacks on your desk instead of in the kitchen.",
+      "a_ko": "캐시를 간식을 부엌이 아니라 책상 위에 두는 것에 비유하는 식으로, 쉬운 비유를 씁니다."
+    },
+    "collocations": [
+      "use a metaphor",
+      "a good metaphor for",
+      "mixed metaphor"
+    ],
+    "related": [
+      "peripheral",
+      "semaphore",
+      "prefer",
+      "transfer"
+    ],
+    "tip": "그리스어 pher/phor는 라틴어 fer와 같은 '나르다' 짝 어근"
+  },
+  {
+    "id": "d04-D19",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "peripheral",
+    "pos": "adjective",
+    "ipa": "/pəˈrɪfərəl/",
+    "meaning_ko": "주변의, 부차적인; (명사) 주변 장치",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "peri",
+          "type": "prefix",
+          "gloss": "둘레"
+        },
+        {
+          "text": "pher",
+          "type": "root",
+          "gloss": "나르다 (그리스어 pherein)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "그리스어 periphereia '둘레를 돌아 나르는 선' → 둘레 → 중심이 아닌 주변의"
+    },
+    "example": {
+      "q": "What did you work on at the hardware company?",
+      "a": "I wrote drivers for peripheral devices such as printers and scanners, which taught me a lot about low-level debugging.",
+      "a_ko": "프린터나 스캐너 같은 주변 장치의 드라이버를 작성했고, 덕분에 저수준 디버깅을 많이 배웠습니다."
+    },
+    "collocations": [
+      "peripheral device",
+      "peripheral issue",
+      "peripheral vision"
+    ],
+    "related": [
+      "metaphor",
+      "semaphore",
+      "prefer"
+    ],
+    "tip": "a peripheral issue(부차적인 문제)처럼 비유적으로도 씀"
+  },
+  {
+    "id": "d04-D20",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "collation",
+    "pos": "noun",
+    "ipa": "/kəˈleɪʃn/",
+    "meaning_ko": "(DB) 콜레이션(문자 정렬·비교 규칙), 대조",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "col",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "나르다 (latus)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 collatio '함께 날라 와 맞대어 봄' → 대조 → 문자를 비교·정렬하는 규칙"
+    },
+    "example": {
+      "q": "Tell me about a tricky bug you fixed.",
+      "a": "Search results were sorted differently in two environments, and the cause turned out to be different database collations.",
+      "a_ko": "두 환경에서 검색 결과의 정렬 순서가 달랐는데, 원인은 데이터베이스 콜레이션 설정이 서로 다른 것이었습니다."
+    },
+    "collocations": [
+      "database collation",
+      "case-insensitive collation",
+      "collation setting"
+    ],
+    "related": [
+      "collate",
+      "correlation",
+      "ablation",
+      "elated"
+    ],
+    "tip": "대소문자 구분, 한글 정렬 순서 같은 문제가 이 설정에서 생김"
+  },
+  {
+    "id": "d04-D21",
+    "day": 4,
+    "level": 3,
+    "set": "D",
+    "family": "F4",
+    "word": "latency",
+    "pos": "noun",
+    "ipa": "/ˈleɪtnsi/",
+    "meaning_ko": "지연 시간, 레이턴시",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "lat",
+          "type": "root",
+          "gloss": "숨어 있다 (latēre)"
+        },
+        {
+          "text": "ency",
+          "type": "suffix",
+          "gloss": "~한 상태"
+        }
+      ],
+      "story": "라틴어 latēre '숨어 있다' → latent '잠복한' → 잠복 기간 → 반응이 드러나기까지 걸리는 시간"
+    },
+    "example": {
+      "q": "What was your biggest performance win?",
+      "a": "By adding a regional cache, I reduced p99 latency from 800 to 120 milliseconds, which directly improved our checkout conversion rate.",
+      "a_ko": "지역별 캐시를 추가해서 p99 지연 시간을 800밀리초에서 120밀리초로 줄였고, 결제 전환율이 바로 좋아졌습니다."
+    },
+    "collocations": [
+      "low latency",
+      "p99 latency",
+      "reduce latency"
+    ],
+    "related": [
+      "latent",
+      "collate",
+      "elated",
+      "correlation"
+    ],
+    "tip": "relate·collate의 lat(나르다, latus)와 철자만 같은 다른 어근(latēre 숨다). throughput(처리량)과 짝으로 외우기"
+  },
+  {
+    "id": "d04-D22",
+    "day": 4,
+    "level": 1,
+    "set": "D",
+    "family": "F4",
+    "word": "registration",
+    "pos": "noun",
+    "ipa": "/ˌredʒɪˈstreɪʃn/",
+    "meaning_ko": "등록, 가입",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로, 도로"
+        },
+        {
+          "text": "gistr",
+          "type": "root",
+          "gloss": "나르다 (gest)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "도로 날라 와 기록함 → 기록부에 올림 → 등록"
+    },
+    "example": {
+      "q": "What did you improve in the sign-up flow?",
+      "a": "I simplified registration from five steps to two, and sign-ups went up.",
+      "a_ko": "가입 절차를 5단계에서 2단계로 줄였더니 가입자 수가 늘었습니다."
+    },
+    "collocations": [
+      "user registration",
+      "registration form",
+      "service registration"
+    ],
+    "related": [
+      "register",
+      "exaggerate",
+      "suggest",
+      "digest"
+    ],
+    "tip": "마이크로서비스의 service registry(서비스 등록소)도 같은 어근"
+  },
+  {
+    "id": "d04-D23",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "exaggerate",
+    "pos": "verb",
+    "ipa": "/ɪɡˈzædʒəreɪt/",
+    "meaning_ko": "과장하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "완전히, 밖으로"
+        },
+        {
+          "text": "agger",
+          "type": "root",
+          "gloss": "쌓은 더미 (ad + gerere 나르다)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "라틴어 exaggerare '흙을 높이 쌓아 올리다' → 실제보다 부풀리다 → 과장하다"
+    },
+    "example": {
+      "q": "How do you talk about your achievements?",
+      "a": "I try not to exaggerate, so I share real numbers and make clear which parts were team efforts.",
+      "a_ko": "과장하지 않으려고 실제 수치를 말하고, 어떤 부분이 팀의 성과였는지 분명히 밝힙니다."
+    },
+    "collocations": [
+      "exaggerate the impact",
+      "hard to exaggerate",
+      "slightly exaggerate"
+    ],
+    "related": [
+      "suggest",
+      "register",
+      "digest",
+      "gesture"
+    ],
+    "tip": "철자 주의: g가 두 개(exa-gg-erate)"
+  },
+  {
+    "id": "d04-D24",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "push back",
+    "pos": "phrasal verb",
+    "ipa": "/ˌpʊʃ ˈbæk/",
+    "meaning_ko": "이의를 제기하다, 반대 의견을 내다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "push",
+          "type": "part",
+          "gloss": "밀다"
+        },
+        {
+          "text": "back",
+          "type": "part",
+          "gloss": "뒤로"
+        }
+      ],
+      "story": "뒤로 밀어내다 → 요청·결정에 맞서 이의를 제기하다"
+    },
+    "example": {
+      "q": "Have you ever disagreed with a product manager?",
+      "a": "Yes, I pushed back on a tight deadline and suggested cutting two features to protect quality.",
+      "a_ko": "네, 빠듯한 마감 일정에 이의를 제기하고, 품질을 지키기 위해 기능 두 개를 빼자고 제안했습니다."
+    },
+    "collocations": [
+      "push back on",
+      "push back against",
+      "get pushback"
+    ],
+    "related": [
+      "speak up",
+      "weigh in",
+      "bring up"
+    ],
+    "tip": "명사는 붙여서 pushback. '일정을 미루다'라는 뜻도 있음(push back the release)"
+  },
+  {
+    "id": "d04-D25",
+    "day": 4,
+    "level": 2,
+    "set": "D",
+    "family": "F4",
+    "word": "weigh in",
+    "pos": "phrasal verb",
+    "ipa": "/ˌweɪ ˈɪn/",
+    "meaning_ko": "(논의에) 의견을 보태다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "weigh",
+          "type": "part",
+          "gloss": "무게를 달다"
+        },
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "안으로"
+        }
+      ],
+      "story": "경기 전에 몸무게를 재다(계체) → 시합에 뛰어들다 → 논의에 뛰어들어 의견을 내다"
+    },
+    "example": {
+      "q": "How do you make decisions as a team?",
+      "a": "I ask everyone to weigh in before we decide, because quieter teammates often have the best ideas.",
+      "a_ko": "결정하기 전에 모두에게 의견을 내 달라고 합니다. 조용한 팀원이 가장 좋은 아이디어를 갖고 있는 경우가 많기 때문입니다."
+    },
+    "collocations": [
+      "weigh in on",
+      "weigh in with",
+      "let me weigh in"
+    ],
+    "related": [
+      "push back",
+      "speak up",
+      "bring up"
+    ],
+    "tip": "발음 /weɪ/ — gh는 소리 나지 않음"
+  }
+]

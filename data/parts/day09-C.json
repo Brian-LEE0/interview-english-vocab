@@ -1,0 +1,1173 @@
+[
+  {
+    "id": "d09-C01",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "respond",
+    "pos": "verb",
+    "ipa": "/rɪˈspɑnd/",
+    "meaning_ko": "대응하다, 답하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "spond",
+          "type": "root",
+          "gloss": "약속하다 (spondere)"
+        }
+      ],
+      "story": "되돌려 약속하다 → 답하다 → 상황에 대응하다"
+    },
+    "example": {
+      "q": "How do you handle feedback on your code?",
+      "a": "I respond to review comments quickly and ask questions when I'm unsure.",
+      "a_ko": "리뷰 코멘트에는 빠르게 답하고, 확실하지 않으면 질문합니다."
+    },
+    "collocations": [
+      "respond to",
+      "respond quickly",
+      "respond to incidents"
+    ],
+    "related": [
+      "responsive",
+      "responsible",
+      "sponsor",
+      "correspondence"
+    ],
+    "tip": "answer는 '질문에 답하다', respond는 '상황·요청에 반응·대응하다'까지 넓음"
+  },
+  {
+    "id": "d09-C02",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "responsive",
+    "pos": "adjective",
+    "ipa": "/rɪˈspɑnsɪv/",
+    "meaning_ko": "반응형의, 반응이 빠른",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "spons",
+          "type": "root",
+          "gloss": "약속하다 (spond)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "되돌려 응답하는 → 반응이 빠른 → 화면 크기에 반응하는"
+    },
+    "example": {
+      "q": "What frontend work have you done?",
+      "a": "I built a responsive web page that works well on phones and laptops.",
+      "a_ko": "휴대폰과 노트북 모두에서 잘 작동하는 반응형 웹 페이지를 만들었습니다."
+    },
+    "collocations": [
+      "responsive design",
+      "highly responsive",
+      "responsive to feedback"
+    ],
+    "related": [
+      "respond",
+      "responsible",
+      "responsibility",
+      "sponsor"
+    ],
+    "tip": "사람에게 쓰면 '피드백에 잘 반응하는'이라는 칭찬"
+  },
+  {
+    "id": "d09-C03",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "responsibility",
+    "pos": "noun",
+    "ipa": "/rɪˌspɑnsəˈbɪləti/",
+    "meaning_ko": "책임, 맡은 일",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "spons",
+          "type": "root",
+          "gloss": "약속하다 (spond)"
+        },
+        {
+          "text": "ibil",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성"
+        }
+      ],
+      "story": "약속에 응답할 수 있음 → 책임"
+    },
+    "example": {
+      "q": "What were your main duties in your last role?",
+      "a": "My main responsibility was building and running the payment API.",
+      "a_ko": "결제 API를 만들고 운영하는 것이 제 주된 책임이었습니다."
+    },
+    "collocations": [
+      "take responsibility",
+      "main responsibility",
+      "sense of responsibility"
+    ],
+    "related": [
+      "responsible",
+      "respond",
+      "sponsor",
+      "responsive"
+    ],
+    "tip": "'take responsibility for ~'는 실수를 인정하는 답변에 꼭 필요한 표현"
+  },
+  {
+    "id": "d09-C04",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "responsible",
+    "pos": "adjective",
+    "ipa": "/rɪˈspɑnsəbəl/",
+    "meaning_ko": "책임지는, 담당하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "되돌려"
+        },
+        {
+          "text": "spons",
+          "type": "root",
+          "gloss": "약속하다 (spond)"
+        },
+        {
+          "text": "ible",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "응답할 수 있는 → 책임질 수 있는 → 담당하는"
+    },
+    "example": {
+      "q": "Tell me about a project you led.",
+      "a": "I was responsible for migrating our database to the cloud, which cut our hosting costs by twenty percent.",
+      "a_ko": "데이터베이스를 클라우드로 이전하는 일을 담당했고, 그 결과 호스팅 비용이 20% 줄었습니다."
+    },
+    "collocations": [
+      "responsible for",
+      "directly responsible",
+      "feel responsible"
+    ],
+    "related": [
+      "responsibility",
+      "respond",
+      "responsive",
+      "sponsor"
+    ],
+    "tip": "be responsible for + 명사/동명사. in charge of보다 '결과에 대한 책임'의 느낌"
+  },
+  {
+    "id": "d09-C05",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "sponsor",
+    "pos": "noun",
+    "ipa": "/ˈspɑnsər/",
+    "meaning_ko": "후원자, (프로젝트) 스폰서",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spons",
+          "type": "root",
+          "gloss": "약속하다·보증하다 (spond)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "보증을 서는 사람 → 후원자 → 프로젝트를 지원하는 책임자"
+    },
+    "example": {
+      "q": "Who did you report to on that project?",
+      "a": "Our VP was the project sponsor, so I updated her on progress every week.",
+      "a_ko": "부사장님이 프로젝트 스폰서여서 매주 진행 상황을 보고했습니다."
+    },
+    "collocations": [
+      "executive sponsor",
+      "project sponsor",
+      "sponsor a project"
+    ],
+    "related": [
+      "sponsorship",
+      "respond",
+      "responsible"
+    ],
+    "tip": "사내 프로젝트에서 예산과 방향을 지원하는 임원을 sponsor라고 부름"
+  },
+  {
+    "id": "d09-C06",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "sponsorship",
+    "pos": "noun",
+    "ipa": "/ˈspɑnsərˌʃɪp/",
+    "meaning_ko": "후원, (비자) 스폰서십",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "spons",
+          "type": "root",
+          "gloss": "약속하다·보증하다 (spond)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        },
+        {
+          "text": "ship",
+          "type": "suffix",
+          "gloss": "~하는 일"
+        }
+      ],
+      "story": "보증인이 되어 줌 → 후원 → (회사가) 비자를 보증함"
+    },
+    "example": {
+      "q": "Do you require visa sponsorship to work here?",
+      "a": "Yes, I will need visa sponsorship, but I've been through the process before and can prepare the documents quickly.",
+      "a_ko": "네, 비자 스폰서십이 필요하지만 전에 진행해 본 적이 있어서 서류를 빠르게 준비할 수 있습니다."
+    },
+    "collocations": [
+      "visa sponsorship",
+      "require sponsorship",
+      "corporate sponsorship"
+    ],
+    "related": [
+      "sponsor",
+      "respond",
+      "responsibility"
+    ],
+    "tip": "해외 취업 면접 필수 질문. 필요 여부를 숨기지 말고 준비된 모습을 보여 주기"
+  },
+  {
+    "id": "d09-C07",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "direct",
+    "pos": "adjective",
+    "ipa": "/dəˈrekt/",
+    "meaning_ko": "직접적인, 솔직한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로 (dis)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 하다·이끌다 (regere)"
+        }
+      ],
+      "story": "따로따로 곧게 줄 세우다 → 똑바른 → 곧장 가는·직접적인"
+    },
+    "example": {
+      "q": "What kind of feedback do you prefer?",
+      "a": "I prefer direct feedback because it helps me improve faster.",
+      "a_ko": "더 빨리 성장할 수 있어서 솔직하고 직접적인 피드백을 선호합니다."
+    },
+    "collocations": [
+      "direct feedback",
+      "direct report",
+      "direct impact"
+    ],
+    "related": [
+      "direction",
+      "directory",
+      "correct",
+      "rectify",
+      "address"
+    ],
+    "tip": "direct report는 '나에게 직접 보고하는 팀원'. 리더 경험을 말할 때 씀"
+  },
+  {
+    "id": "d09-C08",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "direction",
+    "pos": "noun",
+    "ipa": "/dəˈrekʃən/",
+    "meaning_ko": "방향",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로 (dis)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 하다·이끌다 (regere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "곧게 이끄는 것 → 나아갈 방향"
+    },
+    "example": {
+      "q": "Where do you see your career in five years?",
+      "a": "I want to grow in the direction of cloud architecture.",
+      "a_ko": "클라우드 아키텍처 쪽으로 성장하고 싶습니다."
+    },
+    "collocations": [
+      "technical direction",
+      "set the direction",
+      "career direction"
+    ],
+    "related": [
+      "direct",
+      "directory",
+      "correct",
+      "region"
+    ],
+    "tip": "set the technical direction(기술 방향을 정하다)은 시니어 역할을 설명할 때 유용"
+  },
+  {
+    "id": "d09-C09",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "directory",
+    "pos": "noun",
+    "ipa": "/dəˈrektəri/",
+    "meaning_ko": "디렉터리, 폴더",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로 (dis)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 하다·이끌다 (regere)"
+        },
+        {
+          "text": "ory",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "길을 안내해 주는 것(안내서) → 목록 → 파일 목록(디렉터리)"
+    },
+    "example": {
+      "q": "How do you organize a large codebase?",
+      "a": "I keep one directory per service, so the structure is easy to follow.",
+      "a_ko": "서비스마다 디렉터리를 하나씩 두어서 구조를 쉽게 파악할 수 있게 합니다."
+    },
+    "collocations": [
+      "root directory",
+      "directory structure",
+      "Active Directory"
+    ],
+    "related": [
+      "direct",
+      "direction",
+      "address",
+      "correct"
+    ],
+    "tip": "Active Directory는 사용자·권한을 관리하는 MS 서비스 이름"
+  },
+  {
+    "id": "d09-C10",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "correct",
+    "pos": "adjective",
+    "ipa": "/kəˈrekt/",
+    "meaning_ko": "정확한, 올바른",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 하다 (regere)"
+        }
+      ],
+      "story": "완전히 곧게 하다 → 바로잡다 → 올바른"
+    },
+    "example": {
+      "q": "How do you make sure your code works?",
+      "a": "I write unit tests to make sure my code is correct before review.",
+      "a_ko": "리뷰 전에 단위 테스트를 작성해서 코드가 올바른지 확인합니다."
+    },
+    "collocations": [
+      "correct answer",
+      "correct me if I'm wrong",
+      "correct the issue"
+    ],
+    "related": [
+      "correctness",
+      "rectify",
+      "direct",
+      "address"
+    ],
+    "tip": "'Correct me if I'm wrong, but ~'은 면접관 말을 확인할 때 쓰는 공손한 표현"
+  },
+  {
+    "id": "d09-C11",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "correctness",
+    "pos": "noun",
+    "ipa": "/kəˈrektnəs/",
+    "meaning_ko": "정확성, 정합성",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 하다 (regere)"
+        },
+        {
+          "text": "ness",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "완전히 곧음 → 올바름 → 정확성"
+    },
+    "example": {
+      "q": "What do you prioritize in data pipelines?",
+      "a": "For financial data, correctness matters more than speed, so I add validation checks at every step.",
+      "a_ko": "금융 데이터에서는 속도보다 정확성이 중요해서 모든 단계에 검증 로직을 넣습니다."
+    },
+    "collocations": [
+      "data correctness",
+      "ensure correctness",
+      "correctness over speed"
+    ],
+    "related": [
+      "correct",
+      "rectify",
+      "direct"
+    ],
+    "tip": "accuracy는 '참값에 가까움', correctness는 '결과가 규칙상 옳음'. 알고리즘·데이터 정합성에 씀"
+  },
+  {
+    "id": "d09-C12",
+    "day": 9,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "rectify",
+    "pos": "verb",
+    "ipa": "/ˈrektəˌfaɪ/",
+    "meaning_ko": "바로잡다, 시정하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧은 (rectus←regere)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 만들다"
+        }
+      ],
+      "story": "곧게 만들다 → 잘못된 것을 바로잡다"
+    },
+    "example": {
+      "q": "Tell me about a time you made a mistake.",
+      "a": "When I found that our billing job had double-charged some users, I rectified the data within hours and added a check to prevent it.",
+      "a_ko": "결제 배치가 일부 사용자에게 이중 청구한 것을 발견하고, 몇 시간 만에 데이터를 바로잡은 뒤 재발 방지 검사를 추가했습니다."
+    },
+    "collocations": [
+      "rectify the situation",
+      "rectify a mistake",
+      "rectify the error"
+    ],
+    "related": [
+      "correct",
+      "direct",
+      "correctness",
+      "resurrect"
+    ],
+    "tip": "fix보다 격식 있고 '잘못된 상태를 바르게 되돌린다'는 뉘앙스. 실수 질문에 잘 맞음"
+  },
+  {
+    "id": "d09-C13",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "resurrect",
+    "pos": "verb",
+    "ipa": "/ˌrezəˈrekt/",
+    "meaning_ko": "되살리다, 부활시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "sur",
+          "type": "prefix",
+          "gloss": "아래에서 위로 (sub)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "곧게 세우다 (regere)"
+        }
+      ],
+      "story": "다시 아래에서 위로 일으켜 세우다(resurgere) → 부활시키다 → 버려진 것을 되살리다"
+    },
+    "example": {
+      "q": "Have you ever improved an old internal tool?",
+      "a": "I resurrected an abandoned deployment tool by updating its dependencies, and now three teams use it daily.",
+      "a_ko": "방치돼 있던 배포 도구의 의존성을 업데이트해서 되살렸고, 지금은 세 팀이 매일 씁니다."
+    },
+    "collocations": [
+      "resurrect a project",
+      "resurrect an old idea"
+    ],
+    "related": [
+      "surge",
+      "source",
+      "resource",
+      "rectify"
+    ],
+    "tip": "원래 종교 용어(부활). IT에서는 '죽은 프로젝트·코드를 살려 냈다'는 재치 있는 표현"
+  },
+  {
+    "id": "d09-C14",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "guardrail",
+    "pos": "noun",
+    "ipa": "/ˈɡɑrdˌreɪl/",
+    "meaning_ko": "안전장치, 가드레일",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "guard",
+          "type": "part",
+          "gloss": "지키다"
+        },
+        {
+          "text": "rail",
+          "type": "root",
+          "gloss": "곧은 막대 (regula←regere)"
+        }
+      ],
+      "story": "지켜 주는 막대(난간) → 길 밖으로 벗어나지 않게 하는 장치 → 실수를 막는 규칙"
+    },
+    "example": {
+      "q": "How do you prevent bad deployments?",
+      "a": "We added guardrails to our CI pipeline, so nobody can deploy without passing all the tests.",
+      "a_ko": "CI 파이프라인에 안전장치를 넣어서, 모든 테스트를 통과하지 않으면 아무도 배포할 수 없게 했습니다."
+    },
+    "collocations": [
+      "put guardrails in place",
+      "safety guardrails",
+      "AI guardrails"
+    ],
+    "related": [
+      "derail",
+      "rule out",
+      "rule of thumb",
+      "regular"
+    ],
+    "tip": "요즘은 LLM의 출력을 제한하는 장치도 guardrails라고 부름"
+  },
+  {
+    "id": "d09-C15",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "derail",
+    "pos": "verb",
+    "ipa": "/dɪˈreɪl/",
+    "meaning_ko": "(계획을) 틀어지게 하다, 탈선시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "벗어나"
+        },
+        {
+          "text": "rail",
+          "type": "root",
+          "gloss": "레일·곧은 막대 (regula)"
+        }
+      ],
+      "story": "레일에서 벗어나다 → 탈선하다 → 계획이 어긋나게 하다"
+    },
+    "example": {
+      "q": "How do you keep a sprint on track?",
+      "a": "Unclear requirements can easily derail a sprint, so I clarify the goals with the product manager first.",
+      "a_ko": "요구 사항이 불명확하면 스프린트가 쉽게 틀어지기 때문에, 먼저 PM과 목표를 명확히 합니다."
+    },
+    "collocations": [
+      "derail a project",
+      "get derailed",
+      "derail the conversation"
+    ],
+    "related": [
+      "guardrail",
+      "rule out",
+      "rule of thumb"
+    ],
+    "tip": "반대 표현은 keep ~ on track"
+  },
+  {
+    "id": "d09-C16",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "rule of thumb",
+    "pos": "phrase",
+    "ipa": "/ˌrul əv ˈθʌm/",
+    "meaning_ko": "경험 법칙, 대략적인 기준",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rule",
+          "type": "root",
+          "gloss": "자·규칙 (regula←regere)"
+        },
+        {
+          "text": "of thumb",
+          "type": "part",
+          "gloss": "엄지의"
+        }
+      ],
+      "story": "rule(자·규칙)에 thumb(엄지)을 붙인 관용구 → 정밀한 측정이 아니라 경험으로 정한 기준"
+    },
+    "example": {
+      "q": "How do you keep pull requests easy to review?",
+      "a": "As a rule of thumb, I keep each pull request under four hundred lines so reviewers can stay focused.",
+      "a_ko": "경험상 기준으로 PR 하나를 400줄 이하로 유지해서 리뷰어가 집중할 수 있게 합니다."
+    },
+    "collocations": [
+      "as a rule of thumb",
+      "a good rule of thumb",
+      "general rule of thumb"
+    ],
+    "related": [
+      "rule out",
+      "ground rules",
+      "guardrail",
+      "derail"
+    ],
+    "tip": "'As a rule of thumb, ~'으로 문장을 시작하면 자연스러움. 정확한 유래는 밝혀지지 않음"
+  },
+  {
+    "id": "d09-C17",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "colleague",
+    "pos": "noun",
+    "ipa": "/ˈkɑliɡ/",
+    "meaning_ko": "동료",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "col",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "leag",
+          "type": "root",
+          "gloss": "임명하다 (legare←lex)"
+        },
+        {
+          "text": "ue",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        }
+      ],
+      "story": "함께 (관직에) 임명된 사람 → 동료"
+    },
+    "example": {
+      "q": "How would your colleagues describe you?",
+      "a": "My colleagues would describe me as calm and reliable under pressure.",
+      "a_ko": "동료들은 저를 압박 속에서도 침착하고 믿을 만한 사람이라고 말할 겁니다."
+    },
+    "collocations": [
+      "close colleague",
+      "former colleague",
+      "my colleagues and I"
+    ],
+    "related": [
+      "college",
+      "collegial",
+      "delegate",
+      "legacy"
+    ],
+    "tip": "발음은 /ˈkɑliɡ/ '칼리그'. 끝을 짧게"
+  },
+  {
+    "id": "d09-C18",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "college",
+    "pos": "noun",
+    "ipa": "/ˈkɑlɪdʒ/",
+    "meaning_ko": "대학",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "col",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "임명하다 (legare←lex)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        }
+      ],
+      "story": "함께 임명된 사람들의 모임(조합) → 학자들의 단체 → 대학"
+    },
+    "example": {
+      "q": "How did you get into programming?",
+      "a": "In college, I joined a coding club and built my first web app.",
+      "a_ko": "대학 때 코딩 동아리에 들어가서 첫 웹 앱을 만들었습니다."
+    },
+    "collocations": [
+      "in college",
+      "college degree",
+      "college graduate"
+    ],
+    "related": [
+      "colleague",
+      "collegial",
+      "delegate"
+    ],
+    "tip": "미국에선 university도 일상적으로 college라고 부름"
+  },
+  {
+    "id": "d09-C19",
+    "day": 9,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "collegial",
+    "pos": "adjective",
+    "ipa": "/kəˈlidʒiəl/",
+    "meaning_ko": "동료애 있는, 서로 존중하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "col",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "임명하다 (legare←lex)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "함께 임명된 동료들의 → 동료끼리 서로 존중하는"
+    },
+    "example": {
+      "q": "What kind of culture are you looking for?",
+      "a": "I'm looking for a collegial culture where people challenge ideas openly but still support each other once a decision is made.",
+      "a_ko": "의견에는 솔직하게 이의를 제기하되, 결정이 나면 서로를 지지하는 동료애 있는 문화를 원합니다."
+    },
+    "collocations": [
+      "collegial atmosphere",
+      "collegial relationship",
+      "collegial culture"
+    ],
+    "related": [
+      "colleague",
+      "college",
+      "delegate"
+    ],
+    "tip": "friendly보다 '전문가로서 서로 존중하는' 뉘앙스. 문화 질문에 잘 맞음"
+  },
+  {
+    "id": "d09-C20",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "delegate",
+    "pos": "verb",
+    "ipa": "/ˈdelɪˌɡeɪt/",
+    "meaning_ko": "위임하다, 맡기다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "~에서 떼어"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "임무를 주어 보내다 (legare←lex)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "임무를 주어 내보내다 → 대리인으로 보내다 → 일을 맡기다"
+    },
+    "example": {
+      "q": "How do you manage your workload as a lead?",
+      "a": "I delegate tasks based on each person's strengths and growth goals, which keeps everyone engaged.",
+      "a_ko": "각자의 강점과 성장 목표에 맞춰 업무를 맡겨서 모두가 몰입할 수 있게 합니다."
+    },
+    "collocations": [
+      "delegate tasks",
+      "delegate authority",
+      "delegate to"
+    ],
+    "related": [
+      "delegation",
+      "relegate",
+      "legacy",
+      "colleague"
+    ],
+    "tip": "명사 '대표·대의원'일 때는 /ˈdelɪɡət/로 발음"
+  },
+  {
+    "id": "d09-C21",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "delegation",
+    "pos": "noun",
+    "ipa": "/ˌdelɪˈɡeɪʃən/",
+    "meaning_ko": "위임, 대표단",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "~에서 떼어"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "임무를 주어 보내다 (legare←lex)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "임무를 주어 보냄 → 권한 위임"
+    },
+    "example": {
+      "q": "What did you learn as a first-time team lead?",
+      "a": "I learned that good delegation frees up my time for architecture work and helps junior engineers grow.",
+      "a_ko": "잘 위임하면 제가 아키텍처 업무에 쓸 시간이 생기고 주니어 엔지니어도 성장한다는 걸 배웠습니다."
+    },
+    "collocations": [
+      "effective delegation",
+      "delegation of authority",
+      "a trade delegation"
+    ],
+    "related": [
+      "delegate",
+      "relegate",
+      "legacy",
+      "colleague"
+    ],
+    "tip": "리더십 질문의 핵심어. '내가 다 하지 않는다'를 보여 주는 단어"
+  },
+  {
+    "id": "d09-C22",
+    "day": 9,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "relegate",
+    "pos": "verb",
+    "ipa": "/ˈreləˌɡeɪt/",
+    "meaning_ko": "(뒷전으로) 밀어내다, 격하하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로·멀리"
+        },
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "보내다 (legare←lex)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "멀리 보내다 → 추방하다 → 뒷전으로 밀어내다"
+    },
+    "example": {
+      "q": "How do you approach testing in a project?",
+      "a": "I don't let testing get relegated to the end of a project, so I push for writing tests alongside each feature.",
+      "a_ko": "테스트가 프로젝트 막바지로 밀려나지 않도록, 기능마다 테스트를 함께 작성하자고 주장합니다."
+    },
+    "collocations": [
+      "be relegated to",
+      "relegate to the background",
+      "relegate to a minor role"
+    ],
+    "related": [
+      "delegate",
+      "delegation",
+      "legacy",
+      "colleague"
+    ],
+    "tip": "축구에서 '강등되다'도 be relegated. 수동태로 자주 씀"
+  },
+  {
+    "id": "d09-C23",
+    "day": 9,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "legacy",
+    "pos": "noun",
+    "ipa": "/ˈleɡəsi/",
+    "meaning_ko": "레거시(오래된 시스템), 유산",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "leg",
+          "type": "root",
+          "gloss": "(유언으로) 맡기다 (legare←lex)"
+        },
+        {
+          "text": "acy",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "유언으로 남겨 준 것 → 유산 → 물려받은 오래된 시스템"
+    },
+    "example": {
+      "q": "Have you worked with old codebases?",
+      "a": "I modernized a legacy Java system step by step, moving one module at a time into containers.",
+      "a_ko": "레거시 자바 시스템을 모듈 하나씩 컨테이너로 옮기며 단계적으로 현대화했습니다."
+    },
+    "collocations": [
+      "legacy system",
+      "legacy code",
+      "leave a legacy"
+    ],
+    "related": [
+      "delegate",
+      "relegate",
+      "colleague",
+      "legal"
+    ],
+    "tip": "면접에서 legacy는 나쁜 말이 아님. '레거시를 어떻게 다뤘나'는 단골 질문"
+  },
+  {
+    "id": "d09-C24",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "look forward to",
+    "pos": "phrasal verb",
+    "ipa": "/lʊk ˈfɔrwərd tu/",
+    "meaning_ko": "~을 기대하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "look",
+          "type": "part",
+          "gloss": "보다"
+        },
+        {
+          "text": "forward",
+          "type": "part",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "to",
+          "type": "part",
+          "gloss": "~을 향해"
+        }
+      ],
+      "story": "앞쪽을 바라보다 → 앞으로 올 일을 기다리다 → 기대하다"
+    },
+    "example": {
+      "q": "Is there anything else you'd like to add?",
+      "a": "Thank you for your time; I look forward to hearing from you.",
+      "a_ko": "시간 내 주셔서 감사합니다. 좋은 연락 기다리겠습니다."
+    },
+    "collocations": [
+      "look forward to hearing from you",
+      "look forward to working with",
+      "really look forward to"
+    ],
+    "related": [
+      "can't wait",
+      "be excited about",
+      "expect"
+    ],
+    "tip": "to 뒤에는 동사원형이 아니라 -ing (look forward to working)"
+  },
+  {
+    "id": "d09-C25",
+    "day": 9,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "on the other hand",
+    "pos": "phrase",
+    "ipa": "/ɑn ði ˈʌðər ˌhænd/",
+    "meaning_ko": "반면에, 다른 한편으로",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "on the other",
+          "type": "part",
+          "gloss": "다른 쪽의"
+        },
+        {
+          "text": "hand",
+          "type": "part",
+          "gloss": "손"
+        }
+      ],
+      "story": "다른 쪽 손에는 → 다른 쪽 측면에서 보면 → 반면에"
+    },
+    "example": {
+      "q": "What are the pros and cons of microservices?",
+      "a": "They scale well. On the other hand, they make debugging much harder.",
+      "a_ko": "확장성은 좋습니다. 반면에 디버깅이 훨씬 어려워집니다."
+    },
+    "collocations": [
+      "on the other hand",
+      "on the one hand"
+    ],
+    "related": [
+      "however",
+      "that said",
+      "in contrast"
+    ],
+    "tip": "장단점을 비교하는 답변에서 균형 잡힌 시각을 보여 주는 연결어"
+  }
+]

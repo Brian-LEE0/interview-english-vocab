@@ -1,0 +1,1140 @@
+[
+ {
+  "id": "d07-A01",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "change",
+  "pos": "verb",
+  "ipa": "/tʃeɪndʒ/",
+  "meaning_ko": "바꾸다, 변화",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "change",
+     "type": "root",
+     "gloss": "바꾸다 (라틴어 cambiare)"
+    }
+   ],
+   "story": "라틴어 cambiare(맞바꾸다) → 고대 프랑스어 changier → 바꾸다, 변화"
+  },
+  "example": {
+   "q": "Why do you want to change jobs?",
+   "a": "I want to change my focus from maintenance work to building new products.",
+   "a_ko": "유지보수 업무에서 신규 제품 개발로 초점을 바꾸고 싶습니다."
+  },
+  "collocations": [
+   "change jobs",
+   "career change",
+   "adapt to change"
+  ],
+  "related": [
+   "exchange",
+   "interchangeable",
+   "changeable"
+  ],
+  "tip": "vert·mut 와는 다른 라틴어 cambiare 출신이지만 '바꾸다' 가족으로 함께 외우기. '이직하다'는 change jobs (복수형)"
+ },
+ {
+  "id": "d07-A02",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "exchange",
+  "pos": "verb",
+  "ipa": "/ɪksˈtʃeɪndʒ/",
+  "meaning_ko": "주고받다, 교환하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "change",
+     "type": "root",
+     "gloss": "바꾸다 (cambiare)"
+    }
+   ],
+   "story": "밖으로 내주고 바꿔 받다 → 주고받다, 교환하다"
+  },
+  "example": {
+   "q": "How do you share knowledge with your team?",
+   "a": "We exchange feedback in code reviews and in short weekly tech talks.",
+   "a_ko": "코드 리뷰와 매주 짧은 기술 공유 시간에 서로 피드백을 주고받습니다."
+  },
+  "collocations": [
+   "exchange ideas",
+   "exchange feedback",
+   "in exchange for"
+  ],
+  "related": [
+   "change",
+   "interchangeable",
+   "changeable"
+  ],
+  "tip": "share 보다 '서로 주고받는' 느낌. 협업 질문에서 exchange ideas 를 자주 씀"
+ },
+ {
+  "id": "d07-A03",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "alternative",
+  "pos": "noun",
+  "ipa": "/ɔːlˈtɜːrnətɪv/",
+  "meaning_ko": "대안, 다른 방법",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "altern",
+     "type": "root",
+     "gloss": "번갈아 (alter: 다른 쪽)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "alter(둘 중 다른 쪽) → 번갈아 하는 → 다른 쪽을 고를 수 있는 것 → 대안"
+  },
+  "example": {
+   "q": "What would you do if your manager rejected your proposal?",
+   "a": "I would ask what concerns they have and come back with an alternative that addresses them.",
+   "a_ko": "어떤 점이 걱정되는지 여쭤보고, 그 걱정을 해소할 대안을 가지고 다시 오겠습니다."
+  },
+  "collocations": [
+   "a viable alternative",
+   "consider alternatives",
+   "an alternative to"
+  ],
+  "related": [
+   "alter",
+   "alternate",
+   "altruistic",
+   "alteration"
+  ],
+  "tip": "an alternative to X = X의 대안. 강세는 둘째 음절 '얼터-너티브'"
+ },
+ {
+  "id": "d07-A04",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "alternate",
+  "pos": "verb",
+  "ipa": "/ˈɔːltərneɪt/",
+  "meaning_ko": "번갈아 하다, 교대로 맡다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "altern",
+     "type": "root",
+     "gloss": "번갈아 (alter)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "alter(다른 쪽) → 이쪽저쪽을 오가다 → 번갈아 하다"
+  },
+  "example": {
+   "q": "How does your team handle on-call duty?",
+   "a": "Four of us alternate on-call weeks, so nobody gets burned out by constant alerts.",
+   "a_ko": "네 명이 한 주씩 번갈아 온콜을 맡아서, 계속되는 알림에 지치는 사람이 없도록 합니다."
+  },
+  "collocations": [
+   "alternate between",
+   "on alternate days",
+   "alternate weeks"
+  ],
+  "related": [
+   "alternative",
+   "alter",
+   "altruistic"
+  ],
+  "tip": "동사는 '얼터네이트', 형용사(alternate days)는 '얼터넛'처럼 끝이 약해짐"
+ },
+ {
+  "id": "d07-A05",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "apply",
+  "pos": "verb",
+  "ipa": "/əˈplaɪ/",
+  "meaning_ko": "지원하다, 적용하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다·붙이다 (plic)"
+    }
+   ],
+   "story": "~에 접어 붙이다 → 갖다 대다 → 적용하다, (자리에) 지원하다"
+  },
+  "example": {
+   "q": "Why did you apply for this position?",
+   "a": "I applied because this role matches my backend experience and my interest in payments.",
+   "a_ko": "제 백엔드 경험과 결제 분야에 대한 관심에 딱 맞는 자리라서 지원했습니다."
+  },
+  "collocations": [
+   "apply for a job",
+   "apply to a company",
+   "apply a fix"
+  ],
+  "related": [
+   "application",
+   "applicable",
+   "reply",
+   "deploy"
+  ],
+  "tip": "apply for + 직무, apply to + 회사. 둘을 헷갈리지 않기"
+ },
+ {
+  "id": "d07-A06",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "application",
+  "pos": "noun",
+  "ipa": "/ˌæplɪˈkeɪʃn/",
+  "meaning_ko": "애플리케이션, 적용",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다·붙이다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "~에 갖다 붙임 → (기술을) 적용함 → 특정 용도에 적용한 프로그램 → 애플리케이션"
+  },
+  "example": {
+   "q": "What kind of applications have you built?",
+   "a": "I've mainly built web applications using React on the front end and Spring Boot behind it.",
+   "a_ko": "주로 프론트엔드는 React, 백엔드는 Spring Boot로 웹 애플리케이션을 만들어 왔습니다."
+  },
+  "collocations": [
+   "web application",
+   "application layer",
+   "practical application"
+  ],
+  "related": [
+   "apply",
+   "applicable",
+   "explicit",
+   "replica"
+  ],
+  "tip": "app 은 이 단어의 줄임말. job application 이면 '입사 지원서'"
+ },
+ {
+  "id": "d07-A07",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "reply",
+  "pos": "verb",
+  "ipa": "/rɪˈplaɪ/",
+  "meaning_ko": "답하다, 답장하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·뒤로"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다 (plic)"
+    }
+   ],
+   "story": "다시 접어 되돌리다(replicare) → 말을 되돌려 주다 → 답하다"
+  },
+  "example": {
+   "q": "How do you handle a high volume of messages?",
+   "a": "I reply to urgent messages first and batch the rest twice a day.",
+   "a_ko": "급한 메시지에 먼저 답하고, 나머지는 하루 두 번 몰아서 처리합니다."
+  },
+  "collocations": [
+   "reply to",
+   "reply promptly",
+   "a quick reply"
+  ],
+  "related": [
+   "apply",
+   "imply",
+   "replica",
+   "replication"
+  ],
+  "tip": "reply 뒤에는 to 를 붙임 (reply to an email). answer 는 to 없이 바로 목적어"
+ },
+ {
+  "id": "d07-A08",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "imply",
+  "pos": "verb",
+  "ipa": "/ɪmˈplaɪ/",
+  "meaning_ko": "암시하다, 넌지시 뜻하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다 (plic)"
+    }
+   ],
+   "story": "안에 접어 넣다(implicare) → 말 속에 담다 → 암시하다"
+  },
+  "example": {
+   "q": "Why are you leaving after only a year?",
+   "a": "I don't mean to imply my team was bad; I simply want bigger challenges.",
+   "a_ko": "팀이 나빴다는 뜻은 아닙니다. 그저 더 큰 도전을 원할 뿐입니다."
+  },
+  "collocations": [
+   "imply that",
+   "as the name implies",
+   "don't mean to imply"
+  ],
+  "related": [
+   "implication",
+   "implicit",
+   "explicit",
+   "reply"
+  ],
+  "tip": "imply 는 말하는 사람이 '넌지시 뜻하다', infer 는 듣는 사람이 '추론하다'"
+ },
+ {
+  "id": "d07-A09",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "implication",
+  "pos": "noun",
+  "ipa": "/ˌɪmplɪˈkeɪʃn/",
+  "meaning_ko": "영향, 함축된 의미",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안에 접혀 들어 있는 것 → 숨은 뜻 → (결정이 가져올) 영향"
+  },
+  "example": {
+   "q": "How do you evaluate a technical decision?",
+   "a": "Before choosing a database, I review the cost and performance implications over the next two to three years.",
+   "a_ko": "데이터베이스를 고르기 전에 향후 2~3년 동안의 비용과 성능 측면의 영향을 검토합니다."
+  },
+  "collocations": [
+   "performance implications",
+   "security implications",
+   "have implications for"
+  ],
+  "related": [
+   "imply",
+   "implicit",
+   "explicit",
+   "complicated"
+  ],
+  "tip": "보통 복수형 implications 로 '파급 효과'라는 뜻으로 씀"
+ },
+ {
+  "id": "d07-A10",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "explicit",
+  "pos": "adjective",
+  "ipa": "/ɪkˈsplɪsɪt/",
+  "meaning_ko": "명시적인, 분명한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 (과거분사)"
+    }
+   ],
+   "story": "접힌 것을 밖으로 펼친(explicitus) → 다 드러난 → 명시적인"
+  },
+  "example": {
+   "q": "How do you make your code easier to maintain?",
+   "a": "I prefer explicit configuration over hidden defaults, because new team members can see exactly how the system behaves.",
+   "a_ko": "숨은 기본값보다 명시적인 설정을 선호합니다. 새로 온 팀원이 시스템이 어떻게 동작하는지 정확히 볼 수 있기 때문입니다."
+  },
+  "collocations": [
+   "explicit configuration",
+   "explicit type",
+   "be explicit about"
+  ],
+  "related": [
+   "explicitly",
+   "implicit",
+   "imply",
+   "complicated"
+  ],
+  "tip": "반대말 implicit(암묵적인)은 Day 17. 'Explicit is better than implicit'(Zen of Python)으로 함께 외우기"
+ },
+ {
+  "id": "d07-A11",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "explicitly",
+  "pos": "adverb",
+  "ipa": "/ɪkˈsplɪsɪtli/",
+  "meaning_ko": "명시적으로, 분명하게",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 (과거분사)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "접힌 것을 밖으로 펼친 → 다 드러나게 → 분명하게"
+  },
+  "example": {
+   "q": "How do you avoid misunderstandings with stakeholders?",
+   "a": "I explicitly write down what is in and out of scope, and I ask them to confirm it in writing.",
+   "a_ko": "범위에 들어가는 것과 빠지는 것을 분명하게 적어 두고, 서면으로 확인해 달라고 요청합니다."
+  },
+  "collocations": [
+   "explicitly state",
+   "explicitly ask",
+   "explicitly mentioned"
+  ],
+  "related": [
+   "explicit",
+   "implicitly",
+   "imply"
+  ],
+  "tip": "clearly 보다 '말로 딱 집어서'라는 느낌이 강함"
+ },
+ {
+  "id": "d07-A12",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "complicated",
+  "pos": "adjective",
+  "ipa": "/ˈkɑːmplɪkeɪtɪd/",
+  "meaning_ko": "복잡한, 까다로운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다"
+    },
+    {
+     "text": "ated",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "여러 겹으로 함께 접힌(complicare) → 얽힌 → 복잡한"
+  },
+  "example": {
+   "q": "Tell me about a difficult project.",
+   "a": "The migration was complicated because three teams shared the same database.",
+   "a_ko": "세 팀이 같은 데이터베이스를 공유하고 있어서 마이그레이션이 복잡했습니다."
+  },
+  "collocations": [
+   "complicated process",
+   "get complicated",
+   "overly complicated"
+  ],
+  "related": [
+   "complex",
+   "complication",
+   "explicit",
+   "simplify"
+  ],
+  "tip": "complicated 는 '꼬여서 다루기 까다로운', complex 는 '부분이 많아 복합적인'"
+ },
+ {
+  "id": "d07-A13",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "complex",
+  "pos": "adjective",
+  "ipa": "/ˈkɑːmpleks/",
+  "meaning_ko": "복잡한, 복합적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plex",
+     "type": "root",
+     "gloss": "엮다 (plectere, plic와 같은 뿌리)"
+    }
+   ],
+   "story": "함께 엮인(complexus) → 여러 부분이 얽힌 → 복잡한, 복합적인"
+  },
+  "example": {
+   "q": "What is the most complex system you've worked on?",
+   "a": "The most complex one was a real-time bidding platform with twenty microservices.",
+   "a_ko": "가장 복잡했던 시스템은 마이크로서비스 20개로 된 실시간 입찰 플랫폼이었습니다."
+  },
+  "collocations": [
+   "complex system",
+   "complex query",
+   "highly complex"
+  ],
+  "related": [
+   "complexity",
+   "complicated",
+   "multiple",
+   "simplicity"
+  ],
+  "tip": "complicated 보다 중립적이라 기술 설명에 더 자주 씀"
+ },
+ {
+  "id": "d07-A14",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "complexity",
+  "pos": "noun",
+  "ipa": "/kəmˈpleksəti/",
+  "meaning_ko": "복잡성, 복잡도",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plex",
+     "type": "root",
+     "gloss": "엮다 (plectere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "함께 엮여 있음 → 복잡함 → (알고리즘의) 복잡도"
+  },
+  "example": {
+   "q": "How do you decide whether to add a new feature?",
+   "a": "I weigh the user value against the complexity it adds, because every feature has to be maintained later.",
+   "a_ko": "그 기능이 주는 사용자 가치와 늘어나는 복잡성을 따져 봅니다. 모든 기능은 나중에 유지보수해야 하니까요."
+  },
+  "collocations": [
+   "reduce complexity",
+   "time complexity",
+   "add complexity"
+  ],
+  "related": [
+   "complex",
+   "complicated",
+   "simplicity",
+   "simplify"
+  ],
+  "tip": "알고리즘 면접의 '시간 복잡도'는 time complexity"
+ },
+ {
+  "id": "d07-A15",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "simplify",
+  "pos": "verb",
+  "ipa": "/ˈsɪmplɪfaɪ/",
+  "meaning_ko": "단순화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sim",
+     "type": "prefix",
+     "gloss": "하나 (sem)"
+    },
+    {
+     "text": "pl",
+     "type": "root",
+     "gloss": "겹 (-plex)"
+    },
+    {
+     "text": "ify",
+     "type": "suffix",
+     "gloss": "~하게 만들다"
+    }
+   ],
+   "story": "한 겹으로 된(simplex) → 단순한(simple) → 단순하게 만들다"
+  },
+  "example": {
+   "q": "What did you improve in your last project?",
+   "a": "I simplified our deployment script from two hundred lines to forty.",
+   "a_ko": "배포 스크립트를 200줄에서 40줄로 단순화했습니다."
+  },
+  "collocations": [
+   "simplify the process",
+   "simplify the code",
+   "greatly simplify"
+  ],
+  "related": [
+   "simplicity",
+   "complex",
+   "multiple",
+   "duplicate"
+  ],
+  "tip": "결과를 말할 때는 숫자(200 → 40)를 붙이면 설득력이 커짐"
+ },
+ {
+  "id": "d07-A16",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "simplicity",
+  "pos": "noun",
+  "ipa": "/sɪmˈplɪsəti/",
+  "meaning_ko": "단순함",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sim",
+     "type": "prefix",
+     "gloss": "하나 (sem)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "겹 (-plex)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "한 겹임(simplicitas) → 단순함"
+  },
+  "example": {
+   "q": "What do you value in software design?",
+   "a": "I value simplicity, so I avoid adding layers we don't need yet.",
+   "a_ko": "단순함을 중요하게 생각해서, 아직 필요 없는 계층은 추가하지 않습니다."
+  },
+  "collocations": [
+   "for simplicity",
+   "value simplicity",
+   "simplicity of design"
+  ],
+  "related": [
+   "simplify",
+   "complexity",
+   "complex"
+  ],
+  "tip": "for simplicity('단순하게 설명하자면')는 설계를 설명할 때 유용"
+ },
+ {
+  "id": "d07-A17",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "multiple",
+  "pos": "adjective",
+  "ipa": "/ˈmʌltɪpl/",
+  "meaning_ko": "여러, 다수의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "multi",
+     "type": "prefix",
+     "gloss": "많은"
+    },
+    {
+     "text": "ple",
+     "type": "root",
+     "gloss": "겹 (-plex)"
+    }
+   ],
+   "story": "여러 겹의(multiplex) → 여러 개의"
+  },
+  "example": {
+   "q": "Have you worked across different environments?",
+   "a": "I've deployed services to multiple cloud regions for high availability.",
+   "a_ko": "고가용성을 위해 여러 클라우드 리전에 서비스를 배포한 적이 있습니다."
+  },
+  "collocations": [
+   "multiple regions",
+   "multiple times",
+   "multiple teams"
+  ],
+  "related": [
+   "multiplier",
+   "multiply",
+   "simple",
+   "complex"
+  ],
+  "tip": "many 보다 문어적이라 업무 설명 문장에 잘 어울림"
+ },
+ {
+  "id": "d07-A18",
+  "day": 7,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "multiplier",
+  "pos": "noun",
+  "ipa": "/ˈmʌltɪplaɪər/",
+  "meaning_ko": "(효과를) 몇 배로 키우는 사람·요인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "multi",
+     "type": "prefix",
+     "gloss": "많은"
+    },
+    {
+     "text": "pli",
+     "type": "root",
+     "gloss": "접다·겹 (plic)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "여러 겹으로 늘리다(multiplicare) → 곱하는 것 → 팀의 성과를 몇 배로 키우는 사람"
+  },
+  "example": {
+   "q": "How do you see your role as a senior engineer?",
+   "a": "I try to be a force multiplier: by writing clear docs and mentoring juniors, I help the whole team ship faster.",
+   "a_ko": "저는 팀의 힘을 몇 배로 키우는 사람이 되려고 합니다. 명확한 문서를 쓰고 주니어를 멘토링해서 팀 전체가 더 빨리 출시하도록 돕습니다."
+  },
+  "collocations": [
+   "force multiplier",
+   "act as a multiplier"
+  ],
+  "related": [
+   "multiple",
+   "multiply",
+   "complex",
+   "simplify"
+  ],
+  "tip": "force multiplier 는 시니어 면접에서 '혼자 잘하기보다 팀을 키운다'를 한마디로 보여 주는 표현"
+ },
+ {
+  "id": "d07-A19",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "fluid",
+  "pos": "adjective",
+  "ipa": "/ˈfluːɪd/",
+  "meaning_ko": "유동적인, 자주 바뀌는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flu",
+     "type": "root",
+     "gloss": "흐르다"
+    },
+    {
+     "text": "id",
+     "type": "suffix",
+     "gloss": "~한 상태의"
+    }
+   ],
+   "story": "흐르는(fluidus) → 모양이 고정되지 않은 → 유동적인"
+  },
+  "example": {
+   "q": "How do you work when requirements keep changing?",
+   "a": "At an early-stage startup, requirements are fluid, so I build small prototypes and get feedback quickly.",
+   "a_ko": "초기 스타트업에서는 요구사항이 유동적이어서, 작은 프로토타입을 만들어 빠르게 피드백을 받습니다."
+  },
+  "collocations": [
+   "fluid situation",
+   "fluid requirements",
+   "remain fluid"
+  ],
+  "related": [
+   "fluctuate",
+   "flux",
+   "influx",
+   "fluent"
+  ],
+  "tip": "명사로는 '액체'. 계획·상황이 '아직 굳지 않은'을 말할 때 씀"
+ },
+ {
+  "id": "d07-A20",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "fluctuate",
+  "pos": "verb",
+  "ipa": "/ˈflʌktʃueɪt/",
+  "meaning_ko": "변동하다, 오르내리다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fluctu",
+     "type": "root",
+     "gloss": "물결 (fluctus ← flu)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "흐르는 물결(fluctus)처럼 움직이다 → 오르내리다 → 변동하다"
+  },
+  "example": {
+   "q": "How did you handle unpredictable traffic?",
+   "a": "Our traffic fluctuated a lot during sales events, so I set up autoscaling based on request rate.",
+   "a_ko": "세일 행사 때 트래픽이 크게 오르내려서, 요청 수에 따라 자동으로 확장되도록 설정했습니다."
+  },
+  "collocations": [
+   "fluctuate widely",
+   "fluctuating demand",
+   "prices fluctuate"
+  ],
+  "related": [
+   "fluctuation",
+   "fluid",
+   "flux",
+   "influx"
+  ],
+  "tip": "발음 '플럭-추-에이트', 강세는 첫 음절"
+ },
+ {
+  "id": "d07-A21",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "fluctuation",
+  "pos": "noun",
+  "ipa": "/ˌflʌktʃuˈeɪʃn/",
+  "meaning_ko": "변동, 오르내림",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fluctu",
+     "type": "root",
+     "gloss": "물결 (fluctus ← flu)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "물결처럼 오르내림 → 변동"
+  },
+  "example": {
+   "q": "How do you monitor system health?",
+   "a": "I set alerts on sudden fluctuations in error rate, not only on fixed thresholds.",
+   "a_ko": "고정된 임계값뿐 아니라 에러율의 급격한 변동에도 알림을 걸어 둡니다."
+  },
+  "collocations": [
+   "sudden fluctuation",
+   "seasonal fluctuations",
+   "fluctuation in demand"
+  ],
+  "related": [
+   "fluctuate",
+   "flux",
+   "fluid"
+  ],
+  "tip": "보통 복수형 fluctuations 로 '오르내림'을 표현"
+ },
+ {
+  "id": "d07-A22",
+  "day": 7,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "flux",
+  "pos": "noun",
+  "ipa": "/flʌks/",
+  "meaning_ko": "끊임없는 변화, 유동",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flux",
+     "type": "root",
+     "gloss": "흐름 (flu)"
+    }
+   ],
+   "story": "흐름(fluxus) → 계속 흘러 바뀌는 상태"
+  },
+  "example": {
+   "q": "Tell me about a time you worked through uncertainty.",
+   "a": "During a reorganization, priorities were in flux for months, so I kept a short weekly plan and re-aligned with my manager every Monday.",
+   "a_ko": "조직 개편 중에 몇 달 동안 우선순위가 계속 바뀌어서, 짧은 주간 계획을 세우고 매주 월요일 매니저와 방향을 다시 맞췄습니다."
+  },
+  "collocations": [
+   "in flux",
+   "in a state of flux",
+   "constant flux"
+  ],
+  "related": [
+   "influx",
+   "fluid",
+   "fluctuate",
+   "superfluous"
+  ],
+  "tip": "be in flux 를 덩어리로 외우기 — '변화가 많은 환경' 이야기에 딱 맞음"
+ },
+ {
+  "id": "d07-A23",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "shift",
+  "pos": "verb",
+  "ipa": "/ʃɪft/",
+  "meaning_ko": "옮기다, 바꾸다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "shift",
+     "type": "part",
+     "gloss": "옮기다 (고대 영어 sciftan)"
+    }
+   ],
+   "story": "고대 영어 sciftan(나누다·배치하다) → 자리를 옮기다 → 방향·초점을 바꾸다"
+  },
+  "example": {
+   "q": "How has your role changed over time?",
+   "a": "I shifted my focus from frontend to cloud infrastructure two years ago.",
+   "a_ko": "2년 전에 프론트엔드에서 클라우드 인프라로 초점을 옮겼습니다."
+  },
+  "collocations": [
+   "shift focus",
+   "shift priorities",
+   "a shift in mindset"
+  ],
+  "related": [
+   "change",
+   "alter",
+   "turnaround"
+  ],
+  "tip": "change 보다 '방향을 옮기다'에 가까움. 명사로 night shift(교대 근무)도"
+ },
+ {
+  "id": "d07-A24",
+  "day": 7,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "keep up with",
+  "pos": "phrasal verb",
+  "ipa": "/kiːp ʌp wɪð/",
+  "meaning_ko": "뒤처지지 않고 따라가다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "keep",
+     "type": "part",
+     "gloss": "계속 유지하다"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로·끝까지"
+    },
+    {
+     "text": "with",
+     "type": "part",
+     "gloss": "~와 함께"
+    }
+   ],
+   "story": "~와 함께 계속 나란히 유지하다 → 뒤처지지 않고 따라가다"
+  },
+  "example": {
+   "q": "How do you stay current with technology?",
+   "a": "I keep up with new tools by reading release notes and building side projects.",
+   "a_ko": "릴리스 노트를 읽고 사이드 프로젝트를 만들면서 새로운 도구를 따라갑니다."
+  },
+  "collocations": [
+   "keep up with trends",
+   "keep up with demand",
+   "hard to keep up"
+  ],
+  "related": [
+   "catch up",
+   "ramp up",
+   "pick up"
+  ],
+  "tip": "catch up 은 '뒤처진 걸 따라잡다', keep up with 는 '처지지 않게 계속 따라가다'"
+ },
+ {
+  "id": "d07-A25",
+  "day": 7,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "hit the ground running",
+  "pos": "phrase",
+  "ipa": "/ˌhɪt ðə ˌɡraʊnd ˈrʌnɪŋ/",
+  "meaning_ko": "시작하자마자 바로 성과를 내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hit",
+     "type": "part",
+     "gloss": "치다, 닿다"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "ground",
+     "type": "part",
+     "gloss": "땅"
+    },
+    {
+     "text": "running",
+     "type": "part",
+     "gloss": "달리면서"
+    }
+   ],
+   "story": "땅에 닿자마자 달리다 → 새 일에 적응 기간 없이 바로 일하다"
+  },
+  "example": {
+   "q": "How quickly can you contribute to our team?",
+   "a": "I already use your tech stack daily, so I can hit the ground running from my first week.",
+   "a_ko": "귀사의 기술 스택을 이미 매일 쓰고 있어서 첫 주부터 바로 성과를 낼 수 있습니다."
+  },
+  "collocations": [
+   "hit the ground running from day one",
+   "ready to hit the ground running"
+  ],
+  "related": [
+   "ramp up",
+   "get up to speed"
+  ],
+  "tip": "적응 속도를 물을 때 쓰는 자신감 있는 관용구 (모두 게르만계 단어)"
+ }
+]

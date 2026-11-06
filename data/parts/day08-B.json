@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "d08-B01",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "route",
+    "pos": "noun",
+    "ipa": "/ruːt, raʊt/",
+    "meaning_ko": "경로, (API) 라우트",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "route",
+          "type": "root",
+          "gloss": "깨뜨려 뚫은 (rupt)"
+        }
+      ],
+      "story": "깨뜨려 뚫은 길(rupta via) → 길, 경로 → (웹) 요청 경로"
+    },
+    "example": {
+      "q": "How is your backend organized?",
+      "a": "Each API route maps to a small handler function with its own tests.",
+      "a_ko": "API 라우트마다 자체 테스트가 있는 작은 핸들러 함수가 연결돼 있습니다."
+    },
+    "collocations": [
+      "API route",
+      "route traffic",
+      "en route"
+    ],
+    "related": [
+      "reroute",
+      "routine",
+      "corrupt",
+      "erupt"
+    ],
+    "tip": "미국에서는 [루트]·[라우트] 둘 다 씀. router 는 보통 [라우터]"
+  },
+  {
+    "id": "d08-B02",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "routine",
+    "pos": "noun",
+    "ipa": "/ruːˈtiːn/",
+    "meaning_ko": "일과, 늘 하는 순서",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rout",
+          "type": "root",
+          "gloss": "길 (route ← rupt)"
+        },
+        {
+          "text": "ine",
+          "type": "suffix",
+          "gloss": "~한 것"
+        }
+      ],
+      "story": "늘 다니는 길 → 매일 반복하는 일과"
+    },
+    "example": {
+      "q": "How do you start your workday?",
+      "a": "My morning routine is to check alerts and then plan my top three tasks.",
+      "a_ko": "아침마다 알림을 먼저 확인하고, 가장 중요한 일 세 가지를 정하는 것이 제 일과입니다."
+    },
+    "collocations": [
+      "daily routine",
+      "routine maintenance",
+      "routine task"
+    ],
+    "related": [
+      "routinely",
+      "route",
+      "reroute"
+    ],
+    "tip": "형용사로는 '일상적인, 판에 박힌'(routine work)"
+  },
+  {
+    "id": "d08-B03",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "routinely",
+    "pos": "adverb",
+    "ipa": "/ruːˈtiːnli/",
+    "meaning_ko": "늘, 일상적으로",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rout",
+          "type": "root",
+          "gloss": "길 (route ← rupt)"
+        },
+        {
+          "text": "ine",
+          "type": "suffix",
+          "gloss": "~한 것"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "늘 다니는 길처럼 → 습관처럼 늘"
+    },
+    "example": {
+      "q": "How do you maintain code quality?",
+      "a": "I routinely review my own pull requests before asking anyone else.",
+      "a_ko": "다른 사람에게 요청하기 전에 제 풀 리퀘스트를 늘 먼저 직접 검토합니다."
+    },
+    "collocations": [
+      "routinely check",
+      "routinely use"
+    ],
+    "related": [
+      "routine",
+      "route"
+    ],
+    "tip": "regularly 와 비슷하지만 '습관처럼 늘' 하는 느낌"
+  },
+  {
+    "id": "d08-B04",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "reroute",
+    "pos": "verb",
+    "ipa": "/ˌriːˈruːt/",
+    "meaning_ko": "(트래픽을) 우회시키다, 경로를 바꾸다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "route",
+          "type": "root",
+          "gloss": "길 (rupt)"
+        }
+      ],
+      "story": "길을 다시 정하다 → 다른 길로 돌리다"
+    },
+    "example": {
+      "q": "What did you do when one region went down?",
+      "a": "We rerouted traffic to the backup region within minutes, so most users never noticed the outage.",
+      "a_ko": "몇 분 안에 트래픽을 백업 리전으로 우회시켜서, 대부분의 사용자는 장애를 눈치채지 못했습니다."
+    },
+    "collocations": [
+      "reroute traffic",
+      "reroute requests"
+    ],
+    "related": [
+      "route",
+      "routine",
+      "corrupt"
+    ],
+    "tip": "장애 대응(failover) 경험을 말할 때 유용"
+  },
+  {
+    "id": "d08-B05",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "corrupt",
+    "pos": "verb",
+    "ipa": "/kəˈrʌpt/",
+    "meaning_ko": "(데이터를) 손상시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "rupt",
+          "type": "root",
+          "gloss": "깨다"
+        }
+      ],
+      "story": "완전히 깨뜨리다 → 망가뜨리다 → 손상시키다"
+    },
+    "example": {
+      "q": "Have you ever lost data?",
+      "a": "A failed disk once corrupted our backup, so now we test restores every month.",
+      "a_ko": "디스크 고장으로 백업이 손상된 적이 있어서, 지금은 매달 복구 테스트를 합니다."
+    },
+    "collocations": [
+      "corrupted file",
+      "corrupt data"
+    ],
+    "related": [
+      "corruption",
+      "erupt",
+      "rupture",
+      "route"
+    ],
+    "tip": "사람에게 쓰면 '부패한' — IT에서는 '손상된'(corrupted)"
+  },
+  {
+    "id": "d08-B06",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "corruption",
+    "pos": "noun",
+    "ipa": "/kəˈrʌpʃən/",
+    "meaning_ko": "(데이터) 손상",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "rupt",
+          "type": "root",
+          "gloss": "깨다"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "완전히 깨짐 → 망가짐 → 손상"
+    },
+    "example": {
+      "q": "What's the hardest bug you've fixed?",
+      "a": "I tracked down a data corruption issue caused by two services writing to the same file without a lock.",
+      "a_ko": "두 서비스가 잠금 없이 같은 파일에 쓰면서 생긴 데이터 손상 문제를 추적해 해결했습니다."
+    },
+    "collocations": [
+      "data corruption",
+      "memory corruption"
+    ],
+    "related": [
+      "corrupt",
+      "rupture",
+      "erupt"
+    ],
+    "tip": "일반적인 뜻은 '부패' — 기술 맥락에선 data/memory 를 앞에 붙여 분명하게"
+  },
+  {
+    "id": "d08-B07",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "erupt",
+    "pos": "verb",
+    "ipa": "/ɪˈrʌpt/",
+    "meaning_ko": "(갈등이) 터지다, 분출하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "rupt",
+          "type": "root",
+          "gloss": "깨다"
+        }
+      ],
+      "story": "깨고 밖으로 터져 나오다 → (화산이) 분출하다 → (갈등이) 터지다"
+    },
+    "example": {
+      "q": "How do you handle disagreements in your team?",
+      "a": "I try to address tension early, before it erupts into an argument in front of the whole team.",
+      "a_ko": "팀 전체 앞에서 언쟁으로 터지기 전에, 긴장이 보이면 일찍 이야기하려고 합니다."
+    },
+    "collocations": [
+      "conflict erupts",
+      "erupt into"
+    ],
+    "related": [
+      "corrupt",
+      "rupture",
+      "route"
+    ],
+    "tip": "화산 폭발이 원래 이미지. 갈등·논쟁이 갑자기 터질 때 씀"
+  },
+  {
+    "id": "d08-B08",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "rupture",
+    "pos": "noun",
+    "ipa": "/ˈrʌptʃər/",
+    "meaning_ko": "(관계의) 단절, 파열",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rupt",
+          "type": "root",
+          "gloss": "깨다"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "깨짐 → 파열 → (관계가) 깨짐, 단절"
+    },
+    "example": {
+      "q": "Tell me about a difficult situation with a client.",
+      "a": "After a missed deadline, I met the client in person to explain our plan, which prevented a rupture in the relationship.",
+      "a_ko": "마감을 놓친 뒤 고객을 직접 만나 계획을 설명했고, 그 덕분에 관계가 틀어지는 것을 막았습니다."
+    },
+    "collocations": [
+      "a rupture in the relationship",
+      "a rupture of trust"
+    ],
+    "related": [
+      "erupt",
+      "corrupt",
+      "route"
+    ],
+    "tip": "관계·신뢰가 깨지는 큰 단절. 가벼운 의견 차이는 disagreement"
+  },
+  {
+    "id": "d08-B09",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "party",
+    "pos": "noun",
+    "ipa": "/ˈpɑːrti/",
+    "meaning_ko": "(관련) 당사자, 측",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "나누다 (part)"
+        },
+        {
+          "text": "y",
+          "type": "suffix",
+          "gloss": "~것 (-ie)"
+        }
+      ],
+      "story": "나뉜 한쪽 → 편, 측 → (일에 관련된) 당사자"
+    },
+    "example": {
+      "q": "How do you handle requirements that keep changing?",
+      "a": "I bring every party into one meeting so everyone agrees on the priorities.",
+      "a_ko": "관련된 모든 당사자를 한 회의에 모아서, 모두가 우선순위에 합의하게 합니다."
+    },
+    "collocations": [
+      "all parties",
+      "the parties involved",
+      "third party"
+    ],
+    "related": [
+      "third-party",
+      "partly",
+      "partial",
+      "counterpart"
+    ],
+    "tip": "'관련 당사자들' = the parties involved. 파티(잔치) 뜻과 구별"
+  },
+  {
+    "id": "d08-B10",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "third-party",
+    "pos": "adjective",
+    "ipa": "/ˌθɜːrd ˈpɑːrti/",
+    "meaning_ko": "외부(제3자)의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "third",
+          "type": "part",
+          "gloss": "세 번째"
+        },
+        {
+          "text": "party",
+          "type": "root",
+          "gloss": "편, 당사자 (part)"
+        }
+      ],
+      "story": "제3의 편 → 우리도 고객도 아닌 바깥의 것"
+    },
+    "example": {
+      "q": "How do you evaluate a new library?",
+      "a": "Before adding a third-party library, I check its license, maintenance activity, and known vulnerabilities.",
+      "a_ko": "외부 라이브러리를 추가하기 전에 라이선스, 유지보수 상황, 알려진 취약점을 확인합니다."
+    },
+    "collocations": [
+      "third-party library",
+      "third-party API",
+      "third-party vendor"
+    ],
+    "related": [
+      "party",
+      "partner",
+      "counterpart"
+    ],
+    "tip": "명사 앞에 쓸 때는 하이픈: third-party library"
+  },
+  {
+    "id": "d08-B11",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "partly",
+    "pos": "adverb",
+    "ipa": "/ˈpɑːrtli/",
+    "meaning_ko": "부분적으로, 일부는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "part",
+          "type": "root",
+          "gloss": "부분 (part)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "부분만큼 → 일부는"
+    },
+    "example": {
+      "q": "Why are you looking for a new job?",
+      "a": "Partly for growth, and partly because I want to work on larger systems.",
+      "a_ko": "성장을 위해서이기도 하고, 더 큰 시스템을 다뤄 보고 싶어서이기도 합니다."
+    },
+    "collocations": [
+      "partly because",
+      "partly due to"
+    ],
+    "related": [
+      "partial",
+      "party",
+      "portion",
+      "apart"
+    ],
+    "tip": "partly A, partly B 로 이유 두 개를 말하기 좋음"
+  },
+  {
+    "id": "d08-B12",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "partial",
+    "pos": "adjective",
+    "ipa": "/ˈpɑːrʃəl/",
+    "meaning_ko": "부분적인, 일부의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "parti",
+          "type": "root",
+          "gloss": "부분 (part)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "부분의 → 일부만의"
+    },
+    "example": {
+      "q": "How did the outage affect users?",
+      "a": "It was a partial outage, so only users in Europe saw errors.",
+      "a_ko": "부분 장애여서 유럽 사용자만 오류를 겪었습니다."
+    },
+    "collocations": [
+      "partial outage",
+      "partial failure",
+      "partial refund"
+    ],
+    "related": [
+      "partially",
+      "partly",
+      "party",
+      "proportion"
+    ],
+    "tip": "be partial to ~ = ~을 특히 좋아하다 라는 뜻도 있음"
+  },
+  {
+    "id": "d08-B13",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "partially",
+    "pos": "adverb",
+    "ipa": "/ˈpɑːrʃəli/",
+    "meaning_ko": "부분적으로",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "parti",
+          "type": "root",
+          "gloss": "부분 (part)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "부분의 → 부분적으로"
+    },
+    "example": {
+      "q": "Did the migration go as planned?",
+      "a": "It was only partially successful, so we rolled back two services.",
+      "a_ko": "일부만 성공해서 서비스 두 개는 롤백했습니다."
+    },
+    "collocations": [
+      "partially complete",
+      "partially successful"
+    ],
+    "related": [
+      "partial",
+      "partly",
+      "portion"
+    ],
+    "tip": "partly 와 거의 같지만 상태·정도(partially done)에 더 자주 씀"
+  },
+  {
+    "id": "d08-B14",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "portion",
+    "pos": "noun",
+    "ipa": "/ˈpɔːrʃən/",
+    "meaning_ko": "부분, 몫",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "몫, 부분 (part와 같은 뿌리)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "나눠 받은 몫 → 일부분"
+    },
+    "example": {
+      "q": "How much of your time goes to coding?",
+      "a": "A large portion of my week goes to coding, and the rest to reviews.",
+      "a_ko": "한 주의 상당 부분은 코딩에, 나머지는 리뷰에 씁니다."
+    },
+    "collocations": [
+      "a large portion of",
+      "a significant portion"
+    ],
+    "related": [
+      "proportion",
+      "apportion",
+      "partly",
+      "partial"
+    ],
+    "tip": "port 가 '나르다(port)'와 철자만 같고 다른 뿌리 — 여기는 '몫'"
+  },
+  {
+    "id": "d08-B15",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "proportion",
+    "pos": "noun",
+    "ipa": "/prəˈpɔːrʃən/",
+    "meaning_ko": "비율, 균형",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "~에 따라"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "몫 (part와 같은 뿌리)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "몫에 따라(pro portione) → 비율, 균형"
+    },
+    "example": {
+      "q": "How do you balance new features and tech debt?",
+      "a": "I keep a fixed proportion of each sprint, about 20%, for tech debt.",
+      "a_ko": "매 스프린트의 일정 비율, 약 20%는 기술 부채 해결에 씁니다."
+    },
+    "collocations": [
+      "a large proportion of",
+      "in proportion to",
+      "out of proportion"
+    ],
+    "related": [
+      "proportional",
+      "portion",
+      "apportion"
+    ],
+    "tip": "out of proportion = 지나치게 커진 (문제를 과장할 때)"
+  },
+  {
+    "id": "d08-B16",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "proportional",
+    "pos": "adjective",
+    "ipa": "/prəˈpɔːrʃənl/",
+    "meaning_ko": "비례하는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "~에 따라"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "몫 (part와 같은 뿌리)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "몫에 따른 → 비율에 맞는 → 비례하는"
+    },
+    "example": {
+      "q": "How does your system handle traffic spikes?",
+      "a": "We scale pods automatically, so the cost stays roughly proportional to the actual traffic.",
+      "a_ko": "파드를 자동으로 늘리고 줄여서, 비용이 실제 트래픽에 대략 비례하게 유지됩니다."
+    },
+    "collocations": [
+      "proportional to",
+      "directly proportional"
+    ],
+    "related": [
+      "proportion",
+      "portion",
+      "apportion"
+    ],
+    "tip": "A is proportional to B = A는 B에 비례한다"
+  },
+  {
+    "id": "d08-B17",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "proportionate",
+    "pos": "adjective",
+    "ipa": "/prəˈpɔːrʃənət/",
+    "meaning_ko": "(정도에) 걸맞은, 균형이 맞는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "~에 따라"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "몫 (part와 같은 뿌리)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "몫에 따라 맞춘 → 정도에 걸맞은"
+    },
+    "example": {
+      "q": "How do you decide how much process a project needs?",
+      "a": "I keep the process proportionate to the risk, so a small internal tool doesn't need the same reviews as a payment system.",
+      "a_ko": "위험도에 맞춰 절차의 양을 정합니다. 작은 사내 도구에 결제 시스템과 같은 수준의 리뷰가 필요하지는 않으니까요."
+    },
+    "collocations": [
+      "proportionate to",
+      "a proportionate response"
+    ],
+    "related": [
+      "proportion",
+      "proportional",
+      "portion",
+      "apportion"
+    ],
+    "tip": "proportional(수치상 비례하는)보다 '정도에 걸맞은'이라는 판단의 뉘앙스"
+  },
+  {
+    "id": "d08-B18",
+    "day": 8,
+    "level": 3,
+    "set": "B",
+    "family": "F8",
+    "word": "apportion",
+    "pos": "verb",
+    "ipa": "/əˈpɔːrʃən/",
+    "meaning_ko": "배분하다, 나눠 주다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ap",
+          "type": "prefix",
+          "gloss": "~에게 (ad)"
+        },
+        {
+          "text": "port",
+          "type": "root",
+          "gloss": "몫 (part와 같은 뿌리)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "각자에게 몫을 나눠 주다 → 배분하다"
+    },
+    "example": {
+      "q": "How did you distribute work as a team lead?",
+      "a": "I apportioned the work by each engineer's growth goals, not just their current skills, so everyone got a stretch task.",
+      "a_ko": "현재 실력만이 아니라 각자의 성장 목표에 맞춰 일을 배분해서, 모두가 도전적인 과제를 하나씩 맡게 했습니다."
+    },
+    "collocations": [
+      "apportion blame",
+      "apportion resources",
+      "apportion time"
+    ],
+    "related": [
+      "portion",
+      "proportion",
+      "partial"
+    ],
+    "tip": "격식 있는 말. apportion blame(책임을 나누다)도 자주 쓰임"
+  },
+  {
+    "id": "d08-B19",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "parse",
+    "pos": "verb",
+    "ipa": "/pɑːrs/",
+    "meaning_ko": "파싱하다, 구문을 분석하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "parse",
+          "type": "root",
+          "gloss": "부분 (pars)"
+        }
+      ],
+      "story": "(문장을) 품사(parts of speech)별로 나누다 → 구문을 분석하다 → 데이터를 파싱하다"
+    },
+    "example": {
+      "q": "What did you build in your last project?",
+      "a": "I built a service that parses CSV uploads and validates each row before saving it.",
+      "a_ko": "CSV 업로드를 파싱하고 저장하기 전에 각 행을 검증하는 서비스를 만들었습니다."
+    },
+    "collocations": [
+      "parse JSON",
+      "parse a file",
+      "parse error"
+    ],
+    "related": [
+      "parser",
+      "partial",
+      "party"
+    ],
+    "tip": "발음 [파ː스] — 끝소리가 [s]"
+  },
+  {
+    "id": "d08-B20",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "parser",
+    "pos": "noun",
+    "ipa": "/ˈpɑːrsər/",
+    "meaning_ko": "파서, 구문 분석기",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pars",
+          "type": "root",
+          "gloss": "부분 (pars)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "부분으로 나눠 분석하는 것 → 구문 분석기"
+    },
+    "example": {
+      "q": "How did you handle malformed input?",
+      "a": "I made the parser skip invalid lines and log them, instead of failing the whole file.",
+      "a_ko": "파일 전체를 실패시키는 대신, 파서가 잘못된 줄은 건너뛰고 로그로 남기게 했습니다."
+    },
+    "collocations": [
+      "JSON parser",
+      "write a parser"
+    ],
+    "related": [
+      "parse",
+      "partial",
+      "party"
+    ],
+    "tip": "컴파일러를 설명할 때 lexer → parser 순서로 말함"
+  },
+  {
+    "id": "d08-B21",
+    "day": 8,
+    "level": 2,
+    "set": "B",
+    "family": "F8",
+    "word": "jeopardy",
+    "pos": "noun",
+    "ipa": "/ˈdʒepərdi/",
+    "meaning_ko": "위험, 위태로움",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "jeo",
+          "type": "part",
+          "gloss": "놀이 (jeu)"
+        },
+        {
+          "text": "pardy",
+          "type": "root",
+          "gloss": "나뉜 (parti ← part)"
+        }
+      ],
+      "story": "승부가 반반으로 나뉜 놀이(jeu parti) → 결과를 알 수 없음 → 위험"
+    },
+    "example": {
+      "q": "Tell me about a time a project was at risk.",
+      "a": "When our main engineer left mid-project, the launch was in jeopardy, so I reorganized the plan around the remaining team.",
+      "a_ko": "프로젝트 도중 핵심 엔지니어가 떠나 출시가 위태로워져서, 남은 팀원에 맞춰 계획을 다시 짰습니다."
+    },
+    "collocations": [
+      "in jeopardy",
+      "put A in jeopardy"
+    ],
+    "related": [
+      "jeopardize",
+      "party",
+      "apart"
+    ],
+    "tip": "be in jeopardy = 위태롭다. at risk 보다 무게감 있음"
+  },
+  {
+    "id": "d08-B22",
+    "day": 8,
+    "level": 3,
+    "set": "B",
+    "family": "F8",
+    "word": "jeopardize",
+    "pos": "verb",
+    "ipa": "/ˈdʒepərdaɪz/",
+    "meaning_ko": "위태롭게 하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "jeo",
+          "type": "part",
+          "gloss": "놀이 (jeu)"
+        },
+        {
+          "text": "pard",
+          "type": "root",
+          "gloss": "나뉜 (parti ← part)"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "결과가 반반으로 나뉜 상태에 두다 → 위태롭게 하다"
+    },
+    "example": {
+      "q": "Have you ever pushed back on a deadline?",
+      "a": "I pushed back because rushing the payment feature would have jeopardized data integrity, and I proposed shipping a smaller scope first.",
+      "a_ko": "결제 기능을 서두르면 데이터 무결성이 위태로워질 수 있어서 이의를 제기했고, 범위를 줄여 먼저 출시하자고 제안했습니다."
+    },
+    "collocations": [
+      "jeopardize the project",
+      "jeopardize data integrity"
+    ],
+    "related": [
+      "jeopardy",
+      "party",
+      "apart"
+    ],
+    "tip": "jeopardy(명사)의 동사형. put at risk 의 격식 있는 말"
+  },
+  {
+    "id": "d08-B23",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "narrow down",
+    "pos": "phrasal verb",
+    "ipa": "/ˈnæroʊ daʊn/",
+    "meaning_ko": "(범위·원인을) 좁히다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "narrow",
+          "type": "part",
+          "gloss": "좁은, 좁히다"
+        },
+        {
+          "text": "down",
+          "type": "part",
+          "gloss": "아래로, 줄여서"
+        }
+      ],
+      "story": "범위를 좁혀 줄이다 → 원인·선택지를 좁혀 가다"
+    },
+    "example": {
+      "q": "What do you do when you're stuck?",
+      "a": "I narrow down the problem step by step until I find where it fails.",
+      "a_ko": "어디서 실패하는지 찾을 때까지 문제 범위를 단계적으로 좁혀 갑니다."
+    },
+    "collocations": [
+      "narrow down the cause",
+      "narrow down the options",
+      "narrow it down to"
+    ],
+    "related": [
+      "sort out",
+      "look into",
+      "troubleshoot"
+    ],
+    "tip": "narrow it down to two options = 선택지를 둘로 좁히다"
+  },
+  {
+    "id": "d08-B24",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "sort out",
+    "pos": "phrasal verb",
+    "ipa": "/ˈsɔːrt aʊt/",
+    "meaning_ko": "(문제를) 정리하다, 해결하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sort",
+          "type": "part",
+          "gloss": "분류하다"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "끝까지, 깔끔히"
+        }
+      ],
+      "story": "종류별로 골라 정리해 내다 → 엉킨 문제를 정리·해결하다"
+    },
+    "example": {
+      "q": "How do you handle conflicting priorities?",
+      "a": "I sit down with my manager to sort out which tasks matter most this week.",
+      "a_ko": "매니저와 앉아서 이번 주에 가장 중요한 일이 무엇인지 정리합니다."
+    },
+    "collocations": [
+      "sort out a problem",
+      "sort things out",
+      "get it sorted"
+    ],
+    "related": [
+      "narrow down",
+      "deal with",
+      "look into"
+    ],
+    "tip": "영국식 느낌이 강하지만 미국에서도 잘 통함"
+  },
+  {
+    "id": "d08-B25",
+    "day": 8,
+    "level": 1,
+    "set": "B",
+    "family": "F8",
+    "word": "deal with",
+    "pos": "phrasal verb",
+    "ipa": "/ˈdiːl wɪð/",
+    "meaning_ko": "다루다, 처리하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "deal",
+          "type": "part",
+          "gloss": "나누어 주다 (고대 영어 dælan)"
+        },
+        {
+          "text": "with",
+          "type": "part",
+          "gloss": "~와"
+        }
+      ],
+      "story": "(몫을) 나누어 주다 → 맡아서 처리하다 → 다루다"
+    },
+    "example": {
+      "q": "How do you deal with stress?",
+      "a": "I deal with stress by planning my week and taking short walks.",
+      "a_ko": "한 주 계획을 세우고 짧게 산책하면서 스트레스를 다스립니다."
+    },
+    "collocations": [
+      "deal with stress",
+      "deal with a problem",
+      "deal with customers"
+    ],
+    "related": [
+      "sort out",
+      "narrow down",
+      "look into"
+    ],
+    "tip": "handle 과 거의 같은 뜻. 과거형 dealt [델트]"
+  }
+]

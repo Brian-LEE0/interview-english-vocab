@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "d09-B01",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "incredible",
+    "pos": "adjective",
+    "ipa": "/ɪnˈkredəbəl/",
+    "meaning_ko": "놀라운, 믿기 힘든",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "cred",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ible",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "믿을 수 없는 → 믿기 힘들 정도로 놀라운"
+    },
+    "example": {
+      "q": "What was the highlight of your last job?",
+      "a": "Launching an app used by a million people was an incredible experience.",
+      "a_ko": "백만 명이 쓰는 앱을 출시한 것은 정말 놀라운 경험이었습니다."
+    },
+    "collocations": [
+      "incredible experience",
+      "incredible team",
+      "incredibly fast"
+    ],
+    "related": [
+      "credibility",
+      "credence",
+      "credit",
+      "credential"
+    ],
+    "tip": "면접에서 남발하면 과장처럼 들리니 한두 번만"
+  },
+  {
+    "id": "d09-B02",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "credibility",
+    "pos": "noun",
+    "ipa": "/ˌkredəˈbɪləti/",
+    "meaning_ko": "신뢰성, 신망",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cred",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ibil",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성"
+        }
+      ],
+      "story": "믿을 수 있음 → 신뢰성"
+    },
+    "example": {
+      "q": "How do you build trust with a new team?",
+      "a": "I build credibility by delivering small wins first and always keeping my promises.",
+      "a_ko": "먼저 작은 성과를 내고 약속을 반드시 지키면서 신뢰를 쌓습니다."
+    },
+    "collocations": [
+      "build credibility",
+      "gain credibility",
+      "lose credibility"
+    ],
+    "related": [
+      "incredible",
+      "credence",
+      "credit",
+      "credential"
+    ],
+    "tip": "trust는 관계, credibility는 '말과 실력이 믿을 만함'에 초점"
+  },
+  {
+    "id": "d09-B03",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "accredited",
+    "pos": "adjective",
+    "ipa": "/əˈkredɪtɪd/",
+    "meaning_ko": "공인된, 인가받은",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ac",
+          "type": "prefix",
+          "gloss": "~에게 (ad)"
+        },
+        {
+          "text": "cred",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "it",
+          "type": "suffix",
+          "gloss": "~된 것 (credit의 -it)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "신용(믿음)을 주다 → 공식적으로 인정하다 → 공인된"
+    },
+    "example": {
+      "q": "Tell me about your education.",
+      "a": "I graduated from an accredited computer science program, so my degree is recognized internationally.",
+      "a_ko": "인증받은 컴퓨터공학 과정을 졸업해서 학위가 해외에서도 인정됩니다."
+    },
+    "collocations": [
+      "accredited program",
+      "fully accredited",
+      "accredited by"
+    ],
+    "related": [
+      "credibility",
+      "credence",
+      "credit",
+      "incredible"
+    ],
+    "tip": "certified는 '개인이 자격을 땀', accredited는 '기관·과정이 공식 인가를 받음'"
+  },
+  {
+    "id": "d09-B04",
+    "day": 9,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "credence",
+    "pos": "noun",
+    "ipa": "/ˈkridəns/",
+    "meaning_ko": "신빙성, 믿음",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cred",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "믿음 → 믿을 만한 근거 → 신빙성"
+    },
+    "example": {
+      "q": "How did you convince leadership to approve the redesign?",
+      "a": "Our A/B test results lent credence to my idea, so leadership approved rolling out the new design to all users.",
+      "a_ko": "A/B 테스트 결과가 제 아이디어에 힘을 실어 줘서, 경영진이 새 디자인을 전체 사용자에게 적용하는 것을 승인했습니다."
+    },
+    "collocations": [
+      "lend credence to",
+      "give credence to",
+      "gain credence"
+    ],
+    "related": [
+      "credibility",
+      "incredible",
+      "credit",
+      "credential"
+    ],
+    "tip": "거의 lend/give credence to 형태로 씀. credibility보다 격식 있는 말"
+  },
+  {
+    "id": "d09-B05",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "grant",
+    "pos": "verb",
+    "ipa": "/ɡrænt/",
+    "meaning_ko": "(권한을) 부여하다, 허락하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grant",
+          "type": "root",
+          "gloss": "믿고 맡기다 (credere)"
+        }
+      ],
+      "story": "라틴어 credere(믿다) → 고대 프랑스어 graanter(보증하다) → 허락하다 → 권한을 부여하다"
+    },
+    "example": {
+      "q": "How do you manage access to production?",
+      "a": "I only grant admin access to people who really need it.",
+      "a_ko": "관리자 권한은 정말 필요한 사람에게만 부여합니다."
+    },
+    "collocations": [
+      "grant access",
+      "grant permission",
+      "grant a request"
+    ],
+    "related": [
+      "take for granted",
+      "credit",
+      "credence",
+      "credible"
+    ],
+    "tip": "권한을 빼앗는 건 revoke. grant ↔ revoke를 짝으로 기억"
+  },
+  {
+    "id": "d09-B06",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "take for granted",
+    "pos": "phrase",
+    "ipa": "/ˌteɪk fər ˈɡræntɪd/",
+    "meaning_ko": "당연하게 여기다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "take",
+          "type": "part",
+          "gloss": "받아들이다"
+        },
+        {
+          "text": "for",
+          "type": "part",
+          "gloss": "~로"
+        },
+        {
+          "text": "grant",
+          "type": "root",
+          "gloss": "허락하다 (credere)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "이미 허락된 것으로 받아들이다 → 당연하게 여기다"
+    },
+    "example": {
+      "q": "What have you learned about working on a team?",
+      "a": "Good documentation is something I never take for granted.",
+      "a_ko": "잘 정리된 문서는 결코 당연하게 여기지 않습니다."
+    },
+    "collocations": [
+      "take it for granted",
+      "take someone for granted",
+      "never take for granted"
+    ],
+    "related": [
+      "grant",
+      "credence",
+      "credible"
+    ],
+    "tip": "목적어가 있으면 take ~ for granted 사이에 넣음 (take it for granted)"
+  },
+  {
+    "id": "d09-B07",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "confident",
+    "pos": "adjective",
+    "ipa": "/ˈkɑnfɪdənt/",
+    "meaning_ko": "자신 있는, 확신하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "완전히 믿는 → 확신하는 → 자신 있는"
+    },
+    "example": {
+      "q": "Why should we hire you?",
+      "a": "I'm confident that I can contribute to your team from day one.",
+      "a_ko": "첫날부터 팀에 기여할 수 있다고 자신합니다."
+    },
+    "collocations": [
+      "confident that",
+      "confident in",
+      "feel confident"
+    ],
+    "related": [
+      "confidence",
+      "diffident",
+      "fidelity",
+      "confidential"
+    ],
+    "tip": "confidential(기밀의)과 철자가 비슷하니 주의"
+  },
+  {
+    "id": "d09-B08",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "confidence",
+    "pos": "noun",
+    "ipa": "/ˈkɑnfɪdəns/",
+    "meaning_ko": "자신감, 신뢰",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "완전히 믿음 → 확신 → 자신감"
+    },
+    "example": {
+      "q": "What did you gain from leading that migration?",
+      "a": "Leading the migration gave me confidence in my technical decisions.",
+      "a_ko": "그 마이그레이션을 이끌면서 제 기술적 판단에 자신감이 생겼습니다."
+    },
+    "collocations": [
+      "gain confidence",
+      "with confidence",
+      "build confidence"
+    ],
+    "related": [
+      "confident",
+      "diffident",
+      "fidelity",
+      "bona fide"
+    ],
+    "tip": "'신뢰'의 뜻도 있어 have confidence in the team(팀을 신뢰하다)처럼도 씀"
+  },
+  {
+    "id": "d09-B09",
+    "day": 9,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "diffident",
+    "pos": "adjective",
+    "ipa": "/ˈdɪfɪdənt/",
+    "meaning_ko": "자신감 없는, 소심한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dif",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "믿음에서 멀어진 → 자기를 믿지 못하는 → 머뭇거리는"
+    },
+    "example": {
+      "q": "What is one weakness you've worked on?",
+      "a": "I used to be diffident about speaking up in meetings, but giving internal tech talks helped me become much more confident.",
+      "a_ko": "예전에는 회의에서 의견을 말하는 데 자신이 없었지만, 사내 기술 발표를 하면서 훨씬 자신감이 생겼습니다."
+    },
+    "collocations": [
+      "diffident about",
+      "shy and diffident"
+    ],
+    "related": [
+      "confident",
+      "confidence",
+      "fidelity",
+      "defy"
+    ],
+    "tip": "confident의 반대말. 약점 질문에서 '극복한 과거 모습'으로 쓰면 좋음"
+  },
+  {
+    "id": "d09-B10",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "fidelity",
+    "pos": "noun",
+    "ipa": "/fɪˈdeləti/",
+    "meaning_ko": "충실도, 정확도",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿음·충실 (fides)"
+        },
+        {
+          "text": "el",
+          "type": "suffix",
+          "gloss": "~한 (-elis)"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~성"
+        }
+      ],
+      "story": "믿음을 지킴 → 충실함 → 원본에 충실한 정도 → 재현 정확도"
+    },
+    "example": {
+      "q": "How do you get early feedback on a new feature?",
+      "a": "I start with a low-fidelity wireframe to get quick feedback before building a detailed prototype.",
+      "a_ko": "상세한 프로토타입을 만들기 전에, 빠르게 피드백을 받으려고 간단한(로우 피델리티) 와이어프레임부터 만듭니다."
+    },
+    "collocations": [
+      "low-fidelity",
+      "high-fidelity",
+      "fidelity to"
+    ],
+    "related": [
+      "confident",
+      "diffident",
+      "bona fide",
+      "fiduciary"
+    ],
+    "tip": "hi-fi(하이파이)가 high fidelity의 줄임말"
+  },
+  {
+    "id": "d09-B11",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "bona fide",
+    "pos": "adjective",
+    "ipa": "/ˈboʊnə ˌfaɪd/",
+    "meaning_ko": "진짜의, 진정한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bona",
+          "type": "root",
+          "gloss": "좋은 (bonus)"
+        },
+        {
+          "text": "fide",
+          "type": "root",
+          "gloss": "믿음 (fides)"
+        }
+      ],
+      "story": "라틴어 '좋은 믿음으로' → 속임 없는 → 진짜의"
+    },
+    "example": {
+      "q": "Why are you interested in fintech?",
+      "a": "I have a bona fide interest in fintech; I've been building personal finance tools as side projects for years.",
+      "a_ko": "핀테크에 진심으로 관심이 있습니다. 몇 년째 개인 금융 도구를 사이드 프로젝트로 만들어 왔습니다."
+    },
+    "collocations": [
+      "bona fide interest",
+      "bona fide offer",
+      "bona fide expert"
+    ],
+    "related": [
+      "fidelity",
+      "confident",
+      "diffident",
+      "in good faith"
+    ],
+    "tip": "발음은 '보나 파이드'. 명사 앞에서 형용사로 씀"
+  },
+  {
+    "id": "d09-B12",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "defy",
+    "pos": "verb",
+    "ipa": "/dɪˈfaɪ/",
+    "meaning_ko": "(예상을) 뒤엎다, 맞서다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져 (dis)"
+        },
+        {
+          "text": "fy",
+          "type": "root",
+          "gloss": "믿다·충성하다 (fid)"
+        }
+      ],
+      "story": "믿음(충성)을 끊다 → 맞서다 → 예상을 뒤엎다"
+    },
+    "example": {
+      "q": "What achievement are you most proud of?",
+      "a": "Our small team defied expectations by shipping the new app two weeks ahead of schedule.",
+      "a_ko": "저희 작은 팀이 예상을 뒤엎고 새 앱을 일정보다 2주 먼저 출시했습니다."
+    },
+    "collocations": [
+      "defy expectations",
+      "defy the odds",
+      "defy logic"
+    ],
+    "related": [
+      "confident",
+      "diffident",
+      "fidelity",
+      "in good faith"
+    ],
+    "tip": "면접에선 defy expectations(예상을 뛰어넘다)로 긍정적인 성과를 말할 때 씀"
+  },
+  {
+    "id": "d09-B13",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "in good faith",
+    "pos": "phrase",
+    "ipa": "/ɪn ˌɡʊd ˈfeɪθ/",
+    "meaning_ko": "선의로, 성실하게",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in good",
+          "type": "part",
+          "gloss": "좋은 ~으로"
+        },
+        {
+          "text": "faith",
+          "type": "root",
+          "gloss": "믿음 (fides)"
+        }
+      ],
+      "story": "좋은 믿음으로 → 속임 없이 → 선의로"
+    },
+    "example": {
+      "q": "How do you handle disagreements with teammates?",
+      "a": "I assume my teammates are acting in good faith, so I focus on the facts instead of blaming anyone.",
+      "a_ko": "동료들이 선의로 행동한다고 전제하기 때문에, 누구를 탓하기보다 사실에 집중합니다."
+    },
+    "collocations": [
+      "act in good faith",
+      "assume good faith",
+      "negotiate in good faith"
+    ],
+    "related": [
+      "bona fide",
+      "leap of faith",
+      "fidelity",
+      "confident"
+    ],
+    "tip": "라틴어 bona fide를 영어로 옮긴 표현이 바로 in good faith"
+  },
+  {
+    "id": "d09-B14",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "leap of faith",
+    "pos": "phrase",
+    "ipa": "/ˌlip əv ˈfeɪθ/",
+    "meaning_ko": "믿고 내린 모험적 결단",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "leap of",
+          "type": "part",
+          "gloss": "~의 도약"
+        },
+        {
+          "text": "faith",
+          "type": "root",
+          "gloss": "믿음 (fides)"
+        }
+      ],
+      "story": "믿음을 갖고 뛰어오름 → 확실한 근거 없이 믿고 결단함"
+    },
+    "example": {
+      "q": "Why did you decide to move abroad for work?",
+      "a": "Moving to a new country was a leap of faith, but it taught me to adapt quickly.",
+      "a_ko": "새로운 나라로 옮긴 것은 모험적인 결단이었지만, 덕분에 빠르게 적응하는 법을 배웠습니다."
+    },
+    "collocations": [
+      "take a leap of faith",
+      "a big leap of faith"
+    ],
+    "related": [
+      "in good faith",
+      "bona fide",
+      "confident",
+      "fidelity"
+    ],
+    "tip": "위험을 감수한 결정을 긍정적으로 말할 때 씀"
+  },
+  {
+    "id": "d09-B15",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "region",
+    "pos": "noun",
+    "ipa": "/ˈridʒən/",
+    "meaning_ko": "지역, (클라우드) 리전",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reg",
+          "type": "root",
+          "gloss": "다스리다·방향을 정하다 (regere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "다스리는 경계로 정한 곳 → 구역 → 지역 → 클라우드 리전"
+    },
+    "example": {
+      "q": "How did you make the service highly available?",
+      "a": "We deployed the service to two AWS regions to avoid a single point of failure.",
+      "a_ko": "단일 장애 지점을 피하려고 서비스를 AWS 리전 두 곳에 배포했습니다."
+    },
+    "collocations": [
+      "multi-region",
+      "AWS region",
+      "region failover"
+    ],
+    "related": [
+      "regional",
+      "direct",
+      "correct",
+      "regulation"
+    ],
+    "tip": "리전 안에 여러 availability zone이 있다는 구조까지 설명하면 좋음"
+  },
+  {
+    "id": "d09-B16",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "regional",
+    "pos": "adjective",
+    "ipa": "/ˈridʒənəl/",
+    "meaning_ko": "지역의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reg",
+          "type": "root",
+          "gloss": "다스리다·방향을 정하다 (regere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "다스리는 구역의 → 지역의"
+    },
+    "example": {
+      "q": "Who did you work with outside engineering?",
+      "a": "I worked closely with our regional sales teams across Asia.",
+      "a_ko": "아시아 각지의 지역 영업팀과 긴밀히 협업했습니다."
+    },
+    "collocations": [
+      "regional team",
+      "regional office",
+      "regional manager"
+    ],
+    "related": [
+      "region",
+      "direct",
+      "realm",
+      "regulation"
+    ],
+    "tip": "global ↔ regional ↔ local 순으로 범위가 좁아짐"
+  },
+  {
+    "id": "d09-B17",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "alert",
+    "pos": "noun",
+    "ipa": "/əˈlɜrt/",
+    "meaning_ko": "경보, 알림",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "al",
+          "type": "prefix",
+          "gloss": "~으로 (이탈리아어 alla)"
+        },
+        {
+          "text": "ert",
+          "type": "root",
+          "gloss": "높이 세운 망루 (erigere←e+regere)"
+        }
+      ],
+      "story": "이탈리아어 all'erta '망루로!' → 경계 태세 → 경보·알림"
+    },
+    "example": {
+      "q": "How do you monitor your services?",
+      "a": "I set up alerts so we hear about errors before our users do.",
+      "a_ko": "사용자보다 먼저 에러를 알 수 있도록 알림을 설정해 둡니다."
+    },
+    "collocations": [
+      "set up alerts",
+      "alert fatigue",
+      "on high alert"
+    ],
+    "related": [
+      "direct",
+      "correct",
+      "surge",
+      "region"
+    ],
+    "tip": "알림이 너무 많아 무시하게 되는 현상을 alert fatigue라고 함"
+  },
+  {
+    "id": "d09-B18",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "surge",
+    "pos": "noun",
+    "ipa": "/sɜrdʒ/",
+    "meaning_ko": "급증, 서지",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "surge",
+          "type": "root",
+          "gloss": "솟아오르다 (surgere←sub+regere)"
+        }
+      ],
+      "story": "아래에서 위로 곧게 솟다 → 솟구침 → 급증"
+    },
+    "example": {
+      "q": "Tell me about a time your system was under pressure.",
+      "a": "During a flash sale, we saw a tenfold traffic surge, so I added autoscaling rules to handle it.",
+      "a_ko": "반짝 세일 때 트래픽이 10배로 급증해서, 이를 처리하도록 오토스케일링 규칙을 추가했습니다."
+    },
+    "collocations": [
+      "traffic surge",
+      "surge in demand",
+      "sudden surge"
+    ],
+    "related": [
+      "source",
+      "resource",
+      "resurrect",
+      "direct"
+    ],
+    "tip": "동사로도 씀: Traffic surged after the launch."
+  },
+  {
+    "id": "d09-B19",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "source",
+    "pos": "noun",
+    "ipa": "/sɔrs/",
+    "meaning_ko": "원인, 출처",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "source",
+          "type": "root",
+          "gloss": "솟아나다 (surgere)"
+        }
+      ],
+      "story": "물이 솟아나는 곳(샘) → 근원 → 원인·출처"
+    },
+    "example": {
+      "q": "How do you debug a production issue?",
+      "a": "I check the logs first to find the source of the error.",
+      "a_ko": "먼저 로그를 확인해서 에러의 원인을 찾습니다."
+    },
+    "collocations": [
+      "source code",
+      "source of truth",
+      "data source"
+    ],
+    "related": [
+      "resource",
+      "open-source",
+      "outsource",
+      "surge"
+    ],
+    "tip": "'single source of truth(단일 진실 공급원)'는 데이터 설계 면접 단골 표현"
+  },
+  {
+    "id": "d09-B20",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "resource",
+    "pos": "noun",
+    "ipa": "/ˈrisɔrs/",
+    "meaning_ko": "자원, 리소스",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "source",
+          "type": "root",
+          "gloss": "솟아나다 (surgere)"
+        }
+      ],
+      "story": "다시 솟아나다(회복하다) → 기댈 수 있는 수단 → 자원"
+    },
+    "example": {
+      "q": "How do you control cloud costs?",
+      "a": "I monitor CPU and memory resources and remove servers we don't need.",
+      "a_ko": "CPU와 메모리 리소스를 모니터링하고 필요 없는 서버는 정리합니다."
+    },
+    "collocations": [
+      "cloud resources",
+      "resource usage",
+      "human resources"
+    ],
+    "related": [
+      "resourceful",
+      "source",
+      "outsource",
+      "surge"
+    ],
+    "tip": "미국식은 /ˈrisɔrs/와 /rɪˈsɔrs/ 둘 다 들림"
+  },
+  {
+    "id": "d09-B21",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "open-source",
+    "pos": "adjective",
+    "ipa": "/ˌoʊpən ˈsɔrs/",
+    "meaning_ko": "오픈 소스의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "open",
+          "type": "part",
+          "gloss": "열린"
+        },
+        {
+          "text": "-",
+          "type": "part",
+          "gloss": "(연결)"
+        },
+        {
+          "text": "source",
+          "type": "root",
+          "gloss": "근원 (surgere)"
+        }
+      ],
+      "story": "근원(소스 코드)을 열어 둔 → 누구나 보고 고칠 수 있는"
+    },
+    "example": {
+      "q": "What do you do outside of work?",
+      "a": "I contribute to an open-source logging library in my free time.",
+      "a_ko": "여가 시간에 오픈 소스 로깅 라이브러리에 기여하고 있습니다."
+    },
+    "collocations": [
+      "open-source project",
+      "open-source contributor",
+      "open-source license"
+    ],
+    "related": [
+      "source",
+      "resource",
+      "outsource"
+    ],
+    "tip": "명사 앞에선 하이픈(open-source library), 단독 명사는 open source"
+  },
+  {
+    "id": "d09-B22",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "resourceful",
+    "pos": "adjective",
+    "ipa": "/rɪˈsɔrsfəl/",
+    "meaning_ko": "수완이 좋은, 지략 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "source",
+          "type": "root",
+          "gloss": "솟아나다 (surgere)"
+        },
+        {
+          "text": "ful",
+          "type": "suffix",
+          "gloss": "~가 가득한"
+        }
+      ],
+      "story": "기댈 수단이 가득한 → 방법을 잘 찾아내는"
+    },
+    "example": {
+      "q": "How would your teammates describe you?",
+      "a": "They'd say I'm resourceful; when there's no documentation, I read the source code and figure it out.",
+      "a_ko": "수완이 좋다고 할 겁니다. 문서가 없으면 소스 코드를 읽어서라도 해결하니까요."
+    },
+    "collocations": [
+      "highly resourceful",
+      "resourceful problem solver"
+    ],
+    "related": [
+      "resource",
+      "source",
+      "open-source",
+      "surge"
+    ],
+    "tip": "강점 질문에서 '스스로 해결책을 찾는 사람'을 한 단어로 표현"
+  },
+  {
+    "id": "d09-B23",
+    "day": 9,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "outsource",
+    "pos": "verb",
+    "ipa": "/ˈaʊtsɔrs/",
+    "meaning_ko": "외주를 주다, 외부에 맡기다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖"
+        },
+        {
+          "text": "source",
+          "type": "root",
+          "gloss": "공급원 (surgere)"
+        }
+      ],
+      "story": "바깥의 공급원에서 얻다 → 외부 업체에 맡기다"
+    },
+    "example": {
+      "q": "How do you decide what to build in-house?",
+      "a": "We chose to outsource payment processing to a trusted provider, so our team could focus on core features.",
+      "a_ko": "팀이 핵심 기능에 집중할 수 있도록 결제 처리는 믿을 만한 업체에 맡기기로 했습니다."
+    },
+    "collocations": [
+      "outsource to",
+      "outsource development",
+      "outsourced team"
+    ],
+    "related": [
+      "source",
+      "resource",
+      "open-source"
+    ],
+    "tip": "직접 만들지 사서 쓸지(build vs buy) 결정을 설명할 때 자주 씀"
+  },
+  {
+    "id": "d09-B24",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "deep dive",
+    "pos": "noun",
+    "ipa": "/ˈdip ˌdaɪv/",
+    "meaning_ko": "심층 분석, 깊이 파고들기",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "deep",
+          "type": "part",
+          "gloss": "깊은"
+        },
+        {
+          "text": "dive",
+          "type": "part",
+          "gloss": "잠수"
+        }
+      ],
+      "story": "깊이 잠수하기 → 한 주제를 끝까지 파고드는 분석"
+    },
+    "example": {
+      "q": "How did you find the cause of the high cloud bill?",
+      "a": "I did a deep dive into our billing data and found two idle clusters.",
+      "a_ko": "청구 데이터를 깊이 분석해서 놀고 있던 클러스터 두 개를 찾아냈습니다."
+    },
+    "collocations": [
+      "do a deep dive",
+      "deep dive into",
+      "technical deep dive"
+    ],
+    "related": [
+      "dig into",
+      "drill down",
+      "look into"
+    ],
+    "tip": "동사로는 dive deep into ~. 면접에서 'Can we deep dive into that?'처럼 후속 질문으로도 자주 나옴"
+  },
+  {
+    "id": "d09-B25",
+    "day": 9,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "come up with",
+    "pos": "phrasal verb",
+    "ipa": "/kʌm ˈʌp wɪð/",
+    "meaning_ko": "(아이디어를) 생각해 내다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "come",
+          "type": "part",
+          "gloss": "오다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "위로"
+        },
+        {
+          "text": "with",
+          "type": "part",
+          "gloss": "~을 가지고"
+        }
+      ],
+      "story": "~을 가지고 위로 올라오다 → 머릿속에서 떠올려 내놓다"
+    },
+    "example": {
+      "q": "Tell me about an idea you contributed.",
+      "a": "I came up with a simple script that saved my team hours every week.",
+      "a_ko": "팀의 시간을 매주 몇 시간씩 줄여 준 간단한 스크립트를 생각해 냈습니다."
+    },
+    "collocations": [
+      "come up with an idea",
+      "come up with a solution",
+      "come up with a plan"
+    ],
+    "related": [
+      "think of",
+      "figure out",
+      "propose"
+    ],
+    "tip": "think of보다 '고민해서 만들어 냈다'는 느낌"
+  }
+]

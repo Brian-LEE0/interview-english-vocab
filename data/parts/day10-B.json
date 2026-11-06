@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "d10-B01",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "equivalent",
+    "pos": "noun",
+    "ipa": "/ɪˈkwɪvələnt/",
+    "meaning_ko": "동등한 것, 상응하는 것",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "equi",
+          "type": "prefix",
+          "gloss": "같은"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "가치가 있다"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한 (것)"
+        }
+      ],
+      "story": "같은 가치를 가진 (것) → 동등한 것"
+    },
+    "example": {
+      "q": "Have you used AWS before?",
+      "a": "I've mostly used GCP, but I've worked with the equivalent services on AWS too.",
+      "a_ko": "주로 GCP를 썼지만 AWS의 대응 서비스도 다뤄 봤습니다."
+    },
+    "collocations": [
+      "the equivalent of",
+      "equivalent to",
+      "roughly equivalent"
+    ],
+    "related": [
+      "value",
+      "valid",
+      "available",
+      "ambivalent"
+    ],
+    "tip": "다른 기술 경험을 연결할 때 유용: 'the AWS equivalent of Cloud Run'"
+  },
+  {
+    "id": "d10-B02",
+    "day": 10,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "ambivalent",
+    "pos": "adjective",
+    "ipa": "/æmˈbɪvələnt/",
+    "meaning_ko": "(감정이) 엇갈리는, 양가적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ambi",
+          "type": "prefix",
+          "gloss": "양쪽"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘, 가치 (valere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "양쪽 + 힘이 있는 (20세기 독일어 Ambivalenz 에서) → 두 감정이 함께 끌어당기는 → 마음이 엇갈리는"
+    },
+    "example": {
+      "q": "How did you feel about moving into a management role?",
+      "a": "Honestly, I was ambivalent at first because I loved coding, but mentoring two junior engineers showed me that I enjoy growing people too.",
+      "a_ko": "솔직히 처음엔 코딩을 좋아해서 마음이 엇갈렸지만, 주니어 엔지니어 두 명을 멘토링하면서 사람을 키우는 일도 즐겁다는 걸 알게 됐습니다."
+    },
+    "collocations": [
+      "ambivalent about",
+      "feel ambivalent",
+      "ambivalent feelings"
+    ],
+    "related": [
+      "equivalent",
+      "value",
+      "valid"
+    ],
+    "tip": "indifferent(무관심한)와 다름 — 관심이 없는 게 아니라 두 마음이 동시에 있음"
+  },
+  {
+    "id": "d10-B03",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "quantity",
+    "pos": "noun",
+    "ipa": "/ˈkwɑːntəti/",
+    "meaning_ko": "양, 수량",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~의 정도"
+        }
+      ],
+      "story": "얼마나 많은가 → 양"
+    },
+    "example": {
+      "q": "How did you improve your monitoring?",
+      "a": "We focused on the quality of alerts, not the quantity.",
+      "a_ko": "알림의 양이 아니라 질에 집중했습니다."
+    },
+    "collocations": [
+      "a large quantity of",
+      "quality over quantity",
+      "in quantity"
+    ],
+    "related": [
+      "quantify",
+      "quantitative",
+      "quantum",
+      "quantile"
+    ],
+    "tip": "quality(질)와 짝으로 자주 씀: 'quality over quantity'"
+  },
+  {
+    "id": "d10-B04",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantitative",
+    "pos": "adjective",
+    "ipa": "/ˈkwɑːntəteɪtɪv/",
+    "meaning_ko": "정량적인, 수치로 된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "itative",
+          "type": "suffix",
+          "gloss": "~의 양에 관한"
+        }
+      ],
+      "story": "양(quantity)에 관한 → 숫자로 나타내는 → 정량적인"
+    },
+    "example": {
+      "q": "How do you make technical decisions?",
+      "a": "I prefer quantitative data, such as load test results, over opinions when we compare two designs.",
+      "a_ko": "두 설계를 비교할 때는 의견보다 부하 테스트 결과 같은 정량 데이터를 선호합니다."
+    },
+    "collocations": [
+      "quantitative data",
+      "quantitative analysis",
+      "quantitative goal"
+    ],
+    "related": [
+      "quantity",
+      "quantify",
+      "quantile",
+      "qualitative"
+    ],
+    "tip": "반대말 qualitative(정성적인)와 한 글자 차이 — 발음 구분 주의"
+  },
+  {
+    "id": "d10-B05",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantify",
+    "pos": "verb",
+    "ipa": "/ˈkwɑːntɪfaɪ/",
+    "meaning_ko": "수치화하다, 정량화하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 만들다"
+        }
+      ],
+      "story": "얼마나인지 정하다 → 숫자로 나타내다"
+    },
+    "example": {
+      "q": "What impact did your project have?",
+      "a": "I can quantify it: our page load time dropped from three seconds to under one, and sign-ups rose by 15 percent.",
+      "a_ko": "수치로 말씀드리면, 페이지 로딩 시간이 3초에서 1초 미만으로 줄었고 가입자는 15퍼센트 늘었습니다."
+    },
+    "collocations": [
+      "quantify the impact",
+      "quantify results",
+      "hard to quantify"
+    ],
+    "related": [
+      "quantity",
+      "quantitative",
+      "quantum",
+      "quantile"
+    ],
+    "tip": "성과 질문에는 숫자가 정답 — 'Let me quantify that.'으로 시작해 보기"
+  },
+  {
+    "id": "d10-B06",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantum",
+    "pos": "noun",
+    "ipa": "/ˈkwɑːntəm/",
+    "meaning_ko": "양자",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "um",
+          "type": "suffix",
+          "gloss": "(라틴어 명사 어미)"
+        }
+      ],
+      "story": "라틴어 quantum(얼마만큼) → 일정한 양 → (물리) 더 쪼갤 수 없는 최소량, 양자"
+    },
+    "example": {
+      "q": "What technologies are you curious about?",
+      "a": "I'm curious about quantum computing, so I've been taking an online course on the basics in my free time.",
+      "a_ko": "양자 컴퓨팅에 관심이 있어서 여가 시간에 기초 온라인 강의를 듣고 있습니다."
+    },
+    "collocations": [
+      "quantum computing",
+      "quantum leap",
+      "quantum physics"
+    ],
+    "related": [
+      "quantity",
+      "quantify",
+      "quantitative"
+    ],
+    "tip": "'quantum leap'은 비유적으로 '비약적인 발전'"
+  },
+  {
+    "id": "d10-B07",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantile",
+    "pos": "noun",
+    "ipa": "/ˈkwɑːntaɪl/",
+    "meaning_ko": "분위수 (p99 등)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "ile",
+          "type": "suffix",
+          "gloss": "~ 몫, 구간"
+        }
+      ],
+      "story": "얼마만큼의 몫 → 데이터를 크기 순으로 나눈 경계값 → 분위수"
+    },
+    "example": {
+      "q": "How do you measure latency?",
+      "a": "I look at high quantiles like p99, because averages hide the slow requests that users actually notice.",
+      "a_ko": "평균은 사용자가 실제로 느끼는 느린 요청을 가려서, p99 같은 높은 분위수를 봅니다."
+    },
+    "collocations": [
+      "high quantile",
+      "p99 quantile",
+      "quantile metric"
+    ],
+    "related": [
+      "quantity",
+      "quantify",
+      "quantitative"
+    ],
+    "tip": "percentile 과 거의 같은 뜻 — 'p99 latency'라고 말하면 바로 통함"
+  },
+  {
+    "id": "d10-B08",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "ratio",
+    "pos": "noun",
+    "ipa": "/ˈreɪʃioʊ/",
+    "meaning_ko": "비율",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "계산하다 (reri)"
+        },
+        {
+          "text": "io",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "라틴어 ratio(계산) → 두 수를 계산해 비교한 것 → 비율"
+    },
+    "example": {
+      "q": "How do you balance new features and bug fixes?",
+      "a": "We keep a ratio of about 80 percent features to 20 percent maintenance.",
+      "a_ko": "기능 개발 80퍼센트, 유지보수 20퍼센트 정도의 비율을 지킵니다."
+    },
+    "collocations": [
+      "a ratio of A to B",
+      "cache hit ratio",
+      "signal-to-noise ratio"
+    ],
+    "related": [
+      "rationale",
+      "reason",
+      "reasonable"
+    ],
+    "tip": "발음 '레이쇼우' — '라티오'라고 읽지 않기"
+  },
+  {
+    "id": "d10-B09",
+    "day": 10,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "rationale",
+    "pos": "noun",
+    "ipa": "/ˌræʃəˈnæl/",
+    "meaning_ko": "근거, 논리적 이유",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "계산하다, 이성 (reri)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "ale",
+          "type": "suffix",
+          "gloss": "(라틴어 중성 어미 → 명사)"
+        }
+      ],
+      "story": "라틴어 rationalis(이성에 따른) → 이성에 따른 설명 → 근거"
+    },
+    "example": {
+      "q": "Tell me about a time you disagreed with your manager.",
+      "a": "I wrote a one-page document explaining the rationale for my approach, with benchmarks, and in the end we combined both ideas.",
+      "a_ko": "벤치마크를 곁들여 제 방식의 근거를 설명하는 한 장짜리 문서를 썼고, 결국 두 아이디어를 합쳤습니다."
+    },
+    "collocations": [
+      "the rationale behind",
+      "explain the rationale",
+      "design rationale"
+    ],
+    "related": [
+      "ratio",
+      "reason",
+      "reasonable"
+    ],
+    "tip": "reason 보다 '체계적인 근거'라는 느낌. 발음 '래셔낼' — 끝에 강세"
+  },
+  {
+    "id": "d10-B10",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "reason",
+    "pos": "noun",
+    "ipa": "/ˈriːzən/",
+    "meaning_ko": "이유, 이성",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reason",
+          "type": "root",
+          "gloss": "계산, 이성 (ratio 에서)"
+        }
+      ],
+      "story": "라틴어 ratio(계산) → 고대 프랑스어 raison → 이유, 이성"
+    },
+    "example": {
+      "q": "Why are you leaving your current job?",
+      "a": "The main reason is that I want to work on larger-scale systems.",
+      "a_ko": "가장 큰 이유는 더 큰 규모의 시스템을 다뤄 보고 싶어서입니다."
+    },
+    "collocations": [
+      "the main reason",
+      "for this reason",
+      "reason about"
+    ],
+    "related": [
+      "reasonable",
+      "ratio",
+      "rationale"
+    ],
+    "tip": "이직 사유는 'The main reason is that ~'으로 시작하면 깔끔함"
+  },
+  {
+    "id": "d10-B11",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "reasonable",
+    "pos": "adjective",
+    "ipa": "/ˈriːzənəbəl/",
+    "meaning_ko": "합리적인, 적당한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reason",
+          "type": "root",
+          "gloss": "이성 (ratio 에서)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 만한"
+        }
+      ],
+      "story": "이성에 맞는 → 합리적인 → (가격·조건이) 적당한"
+    },
+    "example": {
+      "q": "Is this salary range acceptable to you?",
+      "a": "Yes, that range sounds reasonable for this role.",
+      "a_ko": "네, 그 범위는 이 직무에 적당하다고 생각합니다."
+    },
+    "collocations": [
+      "sounds reasonable",
+      "reasonable request",
+      "at a reasonable cost"
+    ],
+    "related": [
+      "reason",
+      "ratio",
+      "rationale"
+    ],
+    "tip": "희망 연봉 질문에 동의할 때 'That sounds reasonable.'이 무난함"
+  },
+  {
+    "id": "d10-B12",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "agree",
+    "pos": "verb",
+    "ipa": "/əˈɡriː/",
+    "meaning_ko": "동의하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "gree",
+          "type": "root",
+          "gloss": "마음에 듦, 호의 (gratum ← grat)"
+        }
+      ],
+      "story": "고대 프랑스어 a gré(마음에 들게) → 기꺼이 받아들이다 → 동의하다"
+    },
+    "example": {
+      "q": "Our team does a lot of pair programming. How do you feel about that?",
+      "a": "I agree with that approach, because it helps share knowledge quickly.",
+      "a_ko": "지식을 빠르게 나눌 수 있어서 그 방식에 동의합니다."
+    },
+    "collocations": [
+      "agree with",
+      "agree on",
+      "agree to"
+    ],
+    "related": [
+      "disagree",
+      "grateful",
+      "gratitude",
+      "congratulate"
+    ],
+    "tip": "agree with(사람·의견), agree on(합의 사항), agree to(제안 수락) 구분"
+  },
+  {
+    "id": "d10-B13",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "disagree",
+    "pos": "verb",
+    "ipa": "/ˌdɪsəˈɡriː/",
+    "meaning_ko": "의견이 다르다, 반대하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "반대로"
+        },
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "gree",
+          "type": "root",
+          "gloss": "마음에 듦 (grat)"
+        }
+      ],
+      "story": "동의하다(agree)의 반대 → 의견이 다르다"
+    },
+    "example": {
+      "q": "What do you do when you disagree with a teammate?",
+      "a": "When I disagree, I listen first and then explain my view with data.",
+      "a_ko": "의견이 다를 때는 먼저 듣고 나서 데이터로 제 생각을 설명합니다."
+    },
+    "collocations": [
+      "disagree with",
+      "respectfully disagree",
+      "agree to disagree"
+    ],
+    "related": [
+      "agree",
+      "grateful",
+      "gratitude"
+    ],
+    "tip": "'I respectfully disagree.'는 정중하게 반대 의견을 내는 표현"
+  },
+  {
+    "id": "d10-B14",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "grateful",
+    "pos": "adjective",
+    "ipa": "/ˈɡreɪtfəl/",
+    "meaning_ko": "감사하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grate",
+          "type": "root",
+          "gloss": "기쁜, 고마운 (gratus)"
+        },
+        {
+          "text": "ful",
+          "type": "suffix",
+          "gloss": "~로 가득한"
+        }
+      ],
+      "story": "옛 영어 grate(고마운, 라틴어 gratus) + 가득한 → 고마움이 가득한"
+    },
+    "example": {
+      "q": "Is there anything else you'd like to say?",
+      "a": "I'm grateful for the chance to talk with you today.",
+      "a_ko": "오늘 이야기 나눌 기회를 주셔서 감사합니다."
+    },
+    "collocations": [
+      "grateful for",
+      "deeply grateful",
+      "grateful to someone"
+    ],
+    "related": [
+      "gratitude",
+      "congratulate",
+      "gratifying",
+      "agree"
+    ],
+    "tip": "면접 마무리 인사로 'Thank you'보다 한 단계 정중함"
+  },
+  {
+    "id": "d10-B15",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "gratitude",
+    "pos": "noun",
+    "ipa": "/ˈɡrætɪtuːd/",
+    "meaning_ko": "감사, 고마움",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grat",
+          "type": "root",
+          "gloss": "고마운 (gratus)"
+        },
+        {
+          "text": "itude",
+          "type": "suffix",
+          "gloss": "~한 상태"
+        }
+      ],
+      "story": "고마워하는 상태 → 감사의 마음"
+    },
+    "example": {
+      "q": "Who has influenced you most in your career?",
+      "a": "My first mentor, and I still feel deep gratitude for her patience.",
+      "a_ko": "첫 멘토이고, 그분의 인내심에 지금도 깊이 감사하고 있습니다."
+    },
+    "collocations": [
+      "express gratitude",
+      "deep gratitude",
+      "gratitude for"
+    ],
+    "related": [
+      "grateful",
+      "congratulate",
+      "gratifying",
+      "gracious"
+    ],
+    "tip": "grateful(형용사)과 품사 구분: I'm grateful / I feel gratitude"
+  },
+  {
+    "id": "d10-B16",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "congratulate",
+    "pos": "verb",
+    "ipa": "/kənˈɡrætʃəleɪt/",
+    "meaning_ko": "축하하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "gratul",
+          "type": "root",
+          "gloss": "기쁨을 나타내다 (gratus)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "라틴어 congratulari(함께 기뻐하다) → 축하하다"
+    },
+    "example": {
+      "q": "How do you build team morale?",
+      "a": "I always congratulate teammates publicly when they ship something big.",
+      "a_ko": "동료가 큰 성과를 내면 늘 공개적으로 축하합니다."
+    },
+    "collocations": [
+      "congratulate someone on",
+      "warmly congratulate",
+      "congratulate the team"
+    ],
+    "related": [
+      "grateful",
+      "gratitude",
+      "gratifying"
+    ],
+    "tip": "'congratulate A on B' — 전치사는 on"
+  },
+  {
+    "id": "d10-B17",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "gratifying",
+    "pos": "adjective",
+    "ipa": "/ˈɡrætɪfaɪɪŋ/",
+    "meaning_ko": "보람 있는, 흐뭇한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grat",
+          "type": "root",
+          "gloss": "기쁜 (gratus)"
+        },
+        {
+          "text": "ify",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "라틴어 gratificari(기쁘게 해 주다) → 기쁘게 하는 → 보람 있는"
+    },
+    "example": {
+      "q": "What do you enjoy most about your work?",
+      "a": "It's very gratifying to see real users rely on a feature I built from the first line of code.",
+      "a_ko": "첫 줄부터 직접 만든 기능을 실제 사용자가 믿고 쓰는 걸 보면 큰 보람을 느낍니다."
+    },
+    "collocations": [
+      "it is gratifying to",
+      "deeply gratifying",
+      "gratifying experience"
+    ],
+    "related": [
+      "grateful",
+      "gratitude",
+      "congratulate",
+      "gracious"
+    ],
+    "tip": "일의 보람을 말할 때 'rewarding'과 함께 쓸 수 있는 단어"
+  },
+  {
+    "id": "d10-B18",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "gracious",
+    "pos": "adjective",
+    "ipa": "/ˈɡreɪʃəs/",
+    "meaning_ko": "너그러운, 품위 있게 친절한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grac",
+          "type": "root",
+          "gloss": "호의, 은혜 (gratia ← grat)"
+        },
+        {
+          "text": "ious",
+          "type": "suffix",
+          "gloss": "~이 많은"
+        }
+      ],
+      "story": "라틴어 gratia(호의) → 호의가 많은 → 너그럽고 친절한"
+    },
+    "example": {
+      "q": "How did your team react when you made that mistake?",
+      "a": "My manager was very gracious about it, which taught me to treat others the same way when they make mistakes.",
+      "a_ko": "매니저가 아주 너그럽게 넘어가 줘서, 저도 다른 사람이 실수할 때 똑같이 대해야겠다고 배웠습니다."
+    },
+    "collocations": [
+      "gracious about",
+      "gracious host",
+      "gracious response"
+    ],
+    "related": [
+      "graceful",
+      "grace period",
+      "gratitude",
+      "grateful"
+    ],
+    "tip": "graceful(우아한, 매끄러운)과 헷갈리기 쉬움 — gracious 는 사람의 태도"
+  },
+  {
+    "id": "d10-B19",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "graceful",
+    "pos": "adjective",
+    "ipa": "/ˈɡreɪsfəl/",
+    "meaning_ko": "매끄러운, 우아한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grace",
+          "type": "root",
+          "gloss": "호의, 우아함 (gratia ← grat)"
+        },
+        {
+          "text": "ful",
+          "type": "suffix",
+          "gloss": "~로 가득한"
+        }
+      ],
+      "story": "우아함이 가득한 → 부드럽고 매끄러운 → (IT) 문제 없이 정리하며 끝내는"
+    },
+    "example": {
+      "q": "How do you deploy without downtime?",
+      "a": "Our servers support graceful shutdown, so they finish in-flight requests before stopping.",
+      "a_ko": "서버가 그레이스풀 셧다운을 지원해서 처리 중인 요청을 마치고 나서 멈춥니다."
+    },
+    "collocations": [
+      "graceful shutdown",
+      "graceful degradation",
+      "graceful restart"
+    ],
+    "related": [
+      "gracious",
+      "grace period",
+      "grateful"
+    ],
+    "tip": "'graceful degradation'은 일부가 고장 나도 핵심 기능은 유지하는 설계"
+  },
+  {
+    "id": "d10-B20",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "grace period",
+    "pos": "noun",
+    "ipa": "/ˈɡreɪs ˌpɪriəd/",
+    "meaning_ko": "유예 기간",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "grace",
+          "type": "root",
+          "gloss": "호의, 너그러움 (gratia ← grat)"
+        },
+        {
+          "text": "period",
+          "type": "part",
+          "gloss": "기간"
+        }
+      ],
+      "story": "너그러움으로 주는 기간 → 유예 기간"
+    },
+    "example": {
+      "q": "How did you retire the old API?",
+      "a": "We gave clients a six-month grace period and sent reminders before we turned the old version off.",
+      "a_ko": "고객사에 6개월의 유예 기간을 주고, 구버전을 끄기 전에 안내를 여러 번 보냈습니다."
+    },
+    "collocations": [
+      "a grace period of",
+      "during the grace period",
+      "extend the grace period"
+    ],
+    "related": [
+      "graceful",
+      "gracious",
+      "gratitude"
+    ],
+    "tip": "API 폐기(deprecation)·결제 연체 등 '바로 막지 않고 시간을 주는' 상황에 씀"
+  },
+  {
+    "id": "d10-B21",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "bonus",
+    "pos": "noun",
+    "ipa": "/ˈboʊnəs/",
+    "meaning_ko": "보너스, 덤",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bon",
+          "type": "root",
+          "gloss": "좋은 (bonus, bene 의 형용사형)"
+        },
+        {
+          "text": "us",
+          "type": "suffix",
+          "gloss": "(라틴어 어미)"
+        }
+      ],
+      "story": "라틴어 bonus(좋은) → 덤으로 받는 좋은 것 → 보너스"
+    },
+    "example": {
+      "q": "Is a performance bonus important to you?",
+      "a": "A bonus is nice, but growth opportunities matter more to me.",
+      "a_ko": "보너스도 좋지만 저에게는 성장 기회가 더 중요합니다."
+    },
+    "collocations": [
+      "performance bonus",
+      "signing bonus",
+      "a nice bonus"
+    ],
+    "related": [
+      "bounty",
+      "benign",
+      "salary"
+    ],
+    "tip": "'a bonus'는 비유로 '덤, 플러스 요소'로도 씀: 'Knowing Go is a bonus.'"
+  },
+  {
+    "id": "d10-B22",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "bounty",
+    "pos": "noun",
+    "ipa": "/ˈbaʊnti/",
+    "meaning_ko": "포상금, 현상금",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "boun",
+          "type": "root",
+          "gloss": "좋은 (bonus)"
+        },
+        {
+          "text": "ty",
+          "type": "suffix",
+          "gloss": "~함 (명사)"
+        }
+      ],
+      "story": "라틴어 bonitas(좋음) → 너그럽게 주는 것 → 포상금"
+    },
+    "example": {
+      "q": "Have you done any security work?",
+      "a": "I reported an authentication bug through a company's bug bounty program and received an award.",
+      "a_ko": "한 회사의 버그 바운티 프로그램에 인증 버그를 제보해서 포상을 받았습니다."
+    },
+    "collocations": [
+      "bug bounty",
+      "bounty program",
+      "offer a bounty"
+    ],
+    "related": [
+      "bonus",
+      "benign",
+      "benefit"
+    ],
+    "tip": "'bug bounty'(버그 포상금)는 보안 경험을 말할 때 그대로 쓰는 표현"
+  },
+  {
+    "id": "d10-B23",
+    "day": 10,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "benign",
+    "pos": "adjective",
+    "ipa": "/bɪˈnaɪn/",
+    "meaning_ko": "무해한, 양성의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ben",
+          "type": "root",
+          "gloss": "좋게 (bene)"
+        },
+        {
+          "text": "ign",
+          "type": "root",
+          "gloss": "태어난 (gen)"
+        }
+      ],
+      "story": "라틴어 benignus(좋은 성질로 태어난) → 친절한 → 해롭지 않은"
+    },
+    "example": {
+      "q": "How do you deal with noisy warnings in your logs?",
+      "a": "I classify them first; if a warning is benign, I document why and silence it so real problems stand out.",
+      "a_ko": "먼저 분류하고, 무해한 경고라면 이유를 기록한 뒤 꺼서 진짜 문제가 눈에 띄게 합니다."
+    },
+    "collocations": [
+      "benign warning",
+      "benign error",
+      "relatively benign"
+    ],
+    "related": [
+      "bonus",
+      "bounty",
+      "benefit"
+    ],
+    "tip": "발음 '비나인' — g 는 소리 나지 않음"
+  },
+  {
+    "id": "d10-B24",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "overtime",
+    "pos": "noun",
+    "ipa": "/ˈoʊvərtaɪm/",
+    "meaning_ko": "초과 근무, 야근",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "over",
+          "type": "part",
+          "gloss": "넘어서"
+        },
+        {
+          "text": "time",
+          "type": "part",
+          "gloss": "시간"
+        }
+      ],
+      "story": "정해진 시간을 넘어서 → 초과 근무"
+    },
+    "example": {
+      "q": "How do you feel about working overtime?",
+      "a": "I'm fine with overtime during a release, but I try to plan ahead to avoid it.",
+      "a_ko": "릴리스 기간에는 야근도 괜찮지만, 미리 계획해서 피하려고 합니다."
+    },
+    "collocations": [
+      "work overtime",
+      "overtime pay",
+      "unpaid overtime"
+    ],
+    "related": [
+      "day off",
+      "workload",
+      "on-call"
+    ],
+    "tip": "'work overtime'은 동사구, 'overtime'만 쓰면 명사"
+  },
+  {
+    "id": "d10-B25",
+    "day": 10,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "day off",
+    "pos": "noun",
+    "ipa": "/ˌdeɪ ˈɔːf/",
+    "meaning_ko": "쉬는 날, 휴무일",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "day",
+          "type": "part",
+          "gloss": "날"
+        },
+        {
+          "text": "off",
+          "type": "part",
+          "gloss": "떨어져서, 쉬는"
+        }
+      ],
+      "story": "일에서 떨어진 날 → 쉬는 날"
+    },
+    "example": {
+      "q": "What do you do to recharge?",
+      "a": "On my day off, I go hiking and stay away from my laptop.",
+      "a_ko": "쉬는 날에는 등산을 하고 노트북을 멀리합니다."
+    },
+    "collocations": [
+      "take a day off",
+      "on my day off",
+      "days off"
+    ],
+    "related": [
+      "overtime",
+      "workload",
+      "work from home"
+    ],
+    "tip": "복수형은 'days off'. 'take a day off'는 하루 휴가를 내다"
+  }
+]
