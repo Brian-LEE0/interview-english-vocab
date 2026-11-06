@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "d14-A01",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "offer",
+  "pos": "noun",
+  "ipa": "/ˈɔːfər/",
+  "meaning_ko": "(입사) 제안, 오퍼",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "of",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ob)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "상대 쪽으로 날라다 내밀다 → 제안하다 → (입사) 제안"
+  },
+  "example": {
+   "q": "We'd like to extend you an offer for the backend role.",
+   "a": "Thank you so much, I'm really excited about the offer.",
+   "a_ko": "정말 감사합니다. 제안을 받게 되어 무척 기쁩니다."
+  },
+  "collocations": [
+   "job offer",
+   "accept an offer",
+   "extend an offer"
+  ],
+  "related": [
+   "offer letter",
+   "transfer",
+   "refer",
+   "confer"
+  ],
+  "tip": "동사로도 씀: offer a solution. 협상 자리에서는 먼저 감사 표현부터"
+ },
+ {
+  "id": "d14-A02",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "offer letter",
+  "pos": "noun",
+  "ipa": "/ˈɔːfər ˌletər/",
+  "meaning_ko": "오퍼 레터, 채용 제안서",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "of",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ob)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "letter",
+     "type": "part",
+     "gloss": "편지·문서"
+    }
+   ],
+   "story": "제안(offer)을 적은 편지 → 연봉·입사일 등 조건을 적은 채용 제안서"
+  },
+  "example": {
+   "q": "We'll send the offer letter by Friday.",
+   "a": "Great, I'll review the offer letter and reply within two days.",
+   "a_ko": "좋습니다. 오퍼 레터를 검토하고 이틀 안에 회신드리겠습니다."
+  },
+  "collocations": [
+   "receive an offer letter",
+   "sign the offer letter"
+  ],
+  "related": [
+   "offer",
+   "transfer",
+   "refer"
+  ],
+  "tip": "구두 제안(verbal offer) 다음에 받는 서면 제안서. 서명 전에 조건을 꼭 확인"
+ },
+ {
+  "id": "d14-A03",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "transfer",
+  "pos": "verb",
+  "ipa": "/trænsˈfɜːr/",
+  "meaning_ko": "옮기다, 전송하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너, 가로질러"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "건너편으로 나르다 → 옮기다 → (데이터를) 전송하다"
+  },
+  "example": {
+   "q": "How did you speed up the nightly batch job?",
+   "a": "I compressed the files before we transferred them to S3.",
+   "a_ko": "S3로 전송하기 전에 파일을 압축했습니다."
+  },
+  "collocations": [
+   "data transfer",
+   "transfer files",
+   "transfer to another team"
+  ],
+  "related": [
+   "transferable",
+   "offer",
+   "refer",
+   "translate"
+  ],
+  "tip": "명사도 같은 철자(a data transfer). 동사는 뒤 강세 trans-FER"
+ },
+ {
+  "id": "d14-A04",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "transferable",
+  "pos": "adjective",
+  "ipa": "/trænsˈfɜːrəbəl/",
+  "meaning_ko": "다른 곳에도 옮겨 쓸 수 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "건너편으로 옮겨 나를 수 있는 → 다른 일에도 옮겨 쓸 수 있는 (능력)"
+  },
+  "example": {
+   "q": "You're moving from finance to e-commerce. Why should we hire you?",
+   "a": "Many of my skills are transferable, such as designing reliable payment APIs and working closely with compliance teams.",
+   "a_ko": "안정적인 결제 API 설계나 컴플라이언스 팀과의 긴밀한 협업처럼, 제 역량의 상당 부분은 그대로 옮겨 쓸 수 있습니다."
+  },
+  "collocations": [
+   "transferable skills",
+   "transferable experience"
+  ],
+  "related": [
+   "transfer",
+   "offer",
+   "refer",
+   "confer"
+  ],
+  "tip": "업계·직무를 바꿀 때 핵심 표현 transferable skills"
+ },
+ {
+  "id": "d14-A05",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "referral",
+  "pos": "noun",
+  "ipa": "/rɪˈfɜːrəl/",
+  "meaning_ko": "(사내) 추천, 소개",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로, 다시"
+    },
+    {
+     "text": "ferr",
+     "type": "root",
+     "gloss": "나르다 (fer)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "도로 날라 가다(referre) → 다른 사람에게 넘겨 보내다 → 소개·추천"
+  },
+  "example": {
+   "q": "How did you hear about this position?",
+   "a": "I came through a referral from Minji, a former colleague who joined your data team last year and spoke highly of the culture.",
+   "a_ko": "작년에 데이터 팀에 입사한 전 동료 민지 씨의 추천으로 지원했습니다. 문화가 아주 좋다고 하더군요."
+  },
+  "collocations": [
+   "employee referral",
+   "get a referral",
+   "referral program"
+  ],
+  "related": [
+   "refer",
+   "reference",
+   "offer",
+   "transfer"
+  ],
+  "tip": "동사는 refer someone to a company. 강세 re-FER-ral"
+ },
+ {
+  "id": "d14-A06",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "reference architecture",
+  "pos": "noun",
+  "ipa": "/ˈrefərəns ˈɑːrkɪtektʃər/",
+  "meaning_ko": "참조 아키텍처 (표준 설계안)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로, 다시"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "architecture",
+     "type": "part",
+     "gloss": "건축·설계 (그리스어 '우두머리 목수')"
+    }
+   ],
+   "story": "도로 날라 와 기대는 것(reference) → 기준으로 삼는 것 → 기준이 되는 설계안"
+  },
+  "example": {
+   "q": "How did you design the new streaming platform?",
+   "a": "I started from the AWS reference architecture for streaming and adapted it to our latency and budget constraints.",
+   "a_ko": "스트리밍용 AWS 참조 아키텍처에서 출발해, 저희의 지연 시간과 예산 제약에 맞게 고쳐 썼습니다."
+  },
+  "collocations": [
+   "follow a reference architecture",
+   "AWS reference architecture"
+  ],
+  "related": [
+   "refer",
+   "referral",
+   "transfer",
+   "offer"
+  ],
+  "tip": "처음부터 다 만든 게 아니라 '검증된 표준안을 바탕으로' 설계했다고 말할 때"
+ },
+ {
+  "id": "d14-A07",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "type inference",
+  "pos": "noun",
+  "ipa": "/ˈtaɪp ˈɪnfərəns/",
+  "meaning_ko": "타입 추론",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "type",
+     "type": "part",
+     "gloss": "형태·종류 (그리스어 typos 찍힌 자국)"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안으로 날라 들이다(inferre) → 결론을 끌어내다 → 컴파일러가 타입을 추론함"
+  },
+  "example": {
+   "q": "What do you like about TypeScript?",
+   "a": "I like its type inference, because we get strong type safety without writing annotations on every single variable.",
+   "a_ko": "타입 추론이 좋습니다. 변수마다 타입을 일일이 적지 않아도 강한 타입 안정성을 얻을 수 있기 때문입니다."
+  },
+  "collocations": [
+   "type inference",
+   "rely on type inference"
+  ],
+  "related": [
+   "infer",
+   "inference",
+   "refer",
+   "transfer"
+  ],
+  "tip": "infer(추론하다)와 imply(암시하다)는 헷갈리기 쉬움"
+ },
+ {
+  "id": "d14-A08",
+  "day": 14,
+  "level": 3,
+  "set": "A",
+  "family": "F4",
+  "word": "proliferate",
+  "pos": "verb",
+  "ipa": "/prəˈlɪfəreɪt/",
+  "meaning_ko": "급증하다, 우후죽순 늘어나다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "proli",
+     "type": "root",
+     "gloss": "자손 (proles)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "낳다·나르다"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "자손을 낳다(proles + ferre) → 새끼 치듯 불어나다 → 급증하다"
+  },
+  "example": {
+   "q": "What problem did you tackle in your last platform role?",
+   "a": "Microservices had proliferated to over 200, so I led a consolidation effort that merged rarely used services and cut our cloud bill by 18 percent.",
+   "a_ko": "마이크로서비스가 200개 넘게 불어나 있어서, 거의 안 쓰는 서비스를 합치는 통합 작업을 이끌어 클라우드 비용을 18% 줄였습니다."
+  },
+  "collocations": [
+   "begin to proliferate",
+   "rapidly proliferate"
+  ],
+  "related": [
+   "proliferation",
+   "fertile",
+   "transfer",
+   "offer"
+  ],
+  "tip": "명사 proliferation(4일차)과 짝. '너무 많아졌다'는 부정적 뉘앙스"
+ },
+ {
+  "id": "d14-A09",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "transportation",
+  "pos": "noun",
+  "ipa": "/ˌtrænspərˈteɪʃən/",
+  "meaning_ko": "교통 (수단)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "건너편으로 나르는 일 → 운송 → 교통 수단"
+  },
+  "example": {
+   "q": "How would you commute to our office?",
+   "a": "The office is easy to reach by public transportation, so commuting is no problem.",
+   "a_ko": "사무실이 대중교통으로 가기 쉬워서 출퇴근은 문제없습니다."
+  },
+  "collocations": [
+   "public transportation",
+   "transportation allowance"
+  ],
+  "related": [
+   "transport",
+   "transport layer",
+   "report",
+   "support"
+  ],
+  "tip": "출퇴근·이전 질문에. 영국식은 public transport"
+ },
+ {
+  "id": "d14-A10",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "support ticket",
+  "pos": "noun",
+  "ipa": "/səˈpɔːrt ˌtɪkɪt/",
+  "meaning_ko": "지원 요청 티켓, 문의 건",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ticket",
+     "type": "part",
+     "gloss": "쪽지·표 (고대 프랑스어 estiquet)"
+    }
+   ],
+   "story": "아래에서 떠받쳐 주는 일(support) + 쪽지 → 도움을 요청하는 접수 건"
+  },
+  "example": {
+   "q": "How did you measure the impact of your fix?",
+   "a": "Support tickets about login errors dropped by half within a week.",
+   "a_ko": "로그인 오류 관련 문의 티켓이 일주일 만에 절반으로 줄었습니다."
+  },
+  "collocations": [
+   "open a support ticket",
+   "close a ticket"
+  ],
+  "related": [
+   "support",
+   "unsupported",
+   "report",
+   "transport"
+  ],
+  "tip": "Jira ticket 처럼 ticket 하나만으로도 '작업 건'을 뜻함"
+ },
+ {
+  "id": "d14-A11",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "bug report",
+  "pos": "noun",
+  "ipa": "/ˈbʌɡ rɪˌpɔːrt/",
+  "meaning_ko": "버그 리포트",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bug",
+     "type": "part",
+     "gloss": "벌레 → 결함"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "도로 날라 와 알리는 것(report) + 결함 → 결함을 알리는 보고"
+  },
+  "example": {
+   "q": "How do you prioritize your work?",
+   "a": "I review new bug reports every morning and fix the critical ones first.",
+   "a_ko": "매일 아침 새 버그 리포트를 확인하고 치명적인 것부터 고칩니다."
+  },
+  "collocations": [
+   "file a bug report",
+   "triage bug reports"
+  ],
+  "related": [
+   "report",
+   "direct report",
+   "support",
+   "transport"
+  ],
+  "tip": "file a bug report = 버그를 등록하다 (file 이 동사)"
+ },
+ {
+  "id": "d14-A12",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "importantly",
+  "pos": "adverb",
+  "ipa": "/ɪmˈpɔːrtəntli/",
+  "meaning_ko": "중요하게는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "안으로 날라 들이다(importare) → 의미·결과를 가져오는 → 중요한 → 중요하게는"
+  },
+  "example": {
+   "q": "What did you learn from that project?",
+   "a": "I learned Kafka, and more importantly, how to work across time zones.",
+   "a_ko": "Kafka를 배웠고, 더 중요하게는 시차를 넘어 협업하는 법을 배웠습니다."
+  },
+  "collocations": [
+   "more importantly",
+   "most importantly"
+  ],
+  "related": [
+   "important",
+   "import",
+   "support",
+   "report"
+  ],
+  "tip": "답변에서 핵심으로 넘어갈 때 'More importantly, ...'"
+ },
+ {
+  "id": "d14-A13",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "portfolio",
+  "pos": "noun",
+  "ipa": "/pɔːrtˈfoʊlioʊ/",
+  "meaning_ko": "포트폴리오 (작업물 모음)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "folio",
+     "type": "root",
+     "gloss": "종이 한 장 (folium)"
+    }
+   ],
+   "story": "종이를 나르는 것(이탈리아어 portafoglio, 서류 가방) → 작품을 모은 것 → 포트폴리오"
+  },
+  "example": {
+   "q": "Do you have examples of your work?",
+   "a": "Yes, my portfolio on GitHub includes a payment service I built and a monitoring dashboard with real traffic data.",
+   "a_ko": "네, 제 GitHub 포트폴리오에 제가 만든 결제 서비스와 실제 트래픽 데이터를 쓴 모니터링 대시보드가 있습니다."
+  },
+  "collocations": [
+   "build a portfolio",
+   "portfolio project",
+   "online portfolio"
+  ],
+  "related": [
+   "support",
+   "report",
+   "transport",
+   "portable"
+  ],
+  "tip": "강세는 두 번째 음절 port-FO-li-o"
+ },
+ {
+  "id": "d14-A14",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "transport layer",
+  "pos": "noun",
+  "ipa": "/ˈtrænspɔːrt ˌleɪər/",
+  "meaning_ko": "전송 계층",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "layer",
+     "type": "part",
+     "gloss": "층 (lay 놓다)"
+    }
+   ],
+   "story": "건너편으로 나르다(transport) + 층 → 데이터를 목적지까지 나르는 네트워크 계층"
+  },
+  "example": {
+   "q": "Can you explain the difference between TCP and UDP?",
+   "a": "Both work at the transport layer, but TCP guarantees ordered delivery while UDP trades reliability for lower latency.",
+   "a_ko": "둘 다 전송 계층에서 동작하지만, TCP는 순서대로 전달을 보장하고 UDP는 신뢰성을 내주는 대신 지연이 적습니다."
+  },
+  "collocations": [
+   "at the transport layer",
+   "Transport Layer Security (TLS)"
+  ],
+  "related": [
+   "transport",
+   "transportation",
+   "support",
+   "report"
+  ],
+  "tip": "TLS = Transport Layer Security. 네트워크 기초 질문 단골"
+ },
+ {
+  "id": "d14-A15",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "unsupported",
+  "pos": "adjective",
+  "ipa": "/ˌʌnsəˈpɔːrtɪd/",
+  "meaning_ko": "지원이 끝난, 지원되지 않는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "아래에서 떠받쳐 주지 않는 → (업데이트·보안 패치가) 지원되지 않는"
+  },
+  "example": {
+   "q": "Tell me about a migration you led.",
+   "a": "Our servers were running an unsupported version of CentOS, so I planned and led the move to Ubuntu without any downtime.",
+   "a_ko": "서버가 지원이 끝난 CentOS 버전에서 돌고 있어서, 무중단으로 Ubuntu로 옮기는 작업을 계획하고 이끌었습니다."
+  },
+  "collocations": [
+   "unsupported version",
+   "unsupported browser"
+  ],
+  "related": [
+   "support",
+   "support ticket",
+   "report",
+   "transport"
+  ],
+  "tip": "EOL(End of Life) 버전을 말할 때. no longer supported 도 같은 뜻"
+ },
+ {
+  "id": "d14-A16",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "direct report",
+  "pos": "noun",
+  "ipa": "/dəˌrekt rɪˈpɔːrt/",
+  "meaning_ko": "직속 부하 직원",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "direct",
+     "type": "part",
+     "gloss": "곧바로 (reg 다스리다)"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "나에게 곧바로 보고(report)를 가져오는 사람 → 직속 부하 직원"
+  },
+  "example": {
+   "q": "Have you managed people before?",
+   "a": "Yes, I had three direct reports, and I held weekly one-on-ones to help each of them set growth goals.",
+   "a_ko": "네, 직속 팀원이 세 명 있었고, 매주 1:1 면담으로 각자 성장 목표를 세우도록 도왔습니다."
+  },
+  "collocations": [
+   "have direct reports",
+   "manage direct reports"
+  ],
+  "related": [
+   "report",
+   "bug report",
+   "support",
+   "import"
+  ],
+  "tip": "'부하' 대신 영어 면접에서 쓰는 말. 반대는 I report to my manager"
+ },
+ {
+  "id": "d14-A17",
+  "day": 14,
+  "level": 3,
+  "set": "A",
+  "family": "F4",
+  "word": "purported",
+  "pos": "adjective",
+  "ipa": "/pərˈpɔːrtɪd/",
+  "meaning_ko": "~라고 알려진, 소위 (확인 안 된)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pur",
+     "type": "prefix",
+     "gloss": "앞으로 (pro)"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "앞으로 날라 내놓다(고대 프랑스어 porporter) → 그렇다고 내세우다 → (사실인지 모르지만) ~라고 하는"
+  },
+  "example": {
+   "q": "How do you evaluate new tools before adopting them?",
+   "a": "I benchmark them on our own data; with one database, the purported tenfold speedup turned out to be only 20 percent on our real workload.",
+   "a_ko": "저희 데이터로 직접 벤치마크합니다. 한 데이터베이스는 10배 빠르다고 알려졌지만 실제 워크로드에서는 20%에 그쳤습니다."
+  },
+  "collocations": [
+   "purported benefits",
+   "be purported to be"
+  ],
+  "related": [
+   "support",
+   "report",
+   "transport",
+   "import"
+  ],
+  "tip": "'주장되는(검증 안 된)' 뉘앙스. alleged 보다 덜 부정적"
+ },
+ {
+  "id": "d14-A18",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "symbolic",
+  "pos": "adjective",
+  "ipa": "/sɪmˈbɑːlɪk/",
+  "meaning_ko": "기호의, 상징적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sym",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "bol",
+     "type": "root",
+     "gloss": "던지다 (ballein)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "함께 던져 맞춘 것(쪼갠 증표, symbolon) → 표시·기호 → 상징적인 / 심볼릭 링크"
+  },
+  "example": {
+   "q": "How did you manage multiple versions of the config?",
+   "a": "I kept versioned folders and pointed a symbolic link at the active one, so a rollback was just switching the link.",
+   "a_ko": "버전별 폴더를 두고 심볼릭 링크로 현재 버전을 가리키게 해서, 롤백은 링크만 바꾸면 됐습니다."
+  },
+  "collocations": [
+   "symbolic link (symlink)",
+   "symbolic gesture"
+  ],
+  "related": [
+   "symbol",
+   "problem",
+   "emblem",
+   "hyperbole"
+  ],
+  "tip": "줄여서 symlink. 일반적으로는 '상징적인' (a symbolic win)"
+ },
+ {
+  "id": "d14-A19",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "problem statement",
+  "pos": "noun",
+  "ipa": "/ˈprɑːbləm ˌsteɪtmənt/",
+  "meaning_ko": "문제 정의(서)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "blem",
+     "type": "root",
+     "gloss": "던지다 (ballein)"
+    },
+    {
+     "text": "statement",
+     "type": "part",
+     "gloss": "진술 (sta 서다)"
+    }
+   ],
+   "story": "앞에 던져진 것(problema) → 풀어야 할 문제 + 진술 → 문제를 정의한 글"
+  },
+  "example": {
+   "q": "How do you start a new project?",
+   "a": "I start by writing a one-page problem statement, so everyone agrees on what we're solving before we discuss solutions.",
+   "a_ko": "먼저 한 장짜리 문제 정의서를 씁니다. 해결책을 논의하기 전에 무엇을 풀지부터 모두가 합의하게 하려는 것입니다."
+  },
+  "collocations": [
+   "write a problem statement",
+   "a clear problem statement"
+  ],
+  "related": [
+   "problem",
+   "problem-solving",
+   "symbol",
+   "emblem"
+  ],
+  "tip": "해결책보다 문제 정의를 먼저 — 시니어다운 접근을 보여 줌"
+ },
+ {
+  "id": "d14-A20",
+  "day": 14,
+  "level": 3,
+  "set": "A",
+  "family": "F4",
+  "word": "emblematic",
+  "pos": "adjective",
+  "ipa": "/ˌembləˈmætɪk/",
+  "meaning_ko": "상징적인, 단적으로 보여 주는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안에 (en)"
+    },
+    {
+     "text": "blem",
+     "type": "root",
+     "gloss": "던지다 (ballein)"
+    },
+    {
+     "text": "atic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "안에 던져 넣은 장식(emblema, 상감) → 상징 문양(emblem) → ~을 상징하는, 단적으로 보여 주는"
+  },
+  "example": {
+   "q": "Why did you decide to leave your previous company?",
+   "a": "The cancelled testing budget was emblematic of a broader shift away from quality, and I want to work where engineering standards are valued.",
+   "a_ko": "테스트 예산 삭감은 품질을 경시하는 큰 흐름을 단적으로 보여 줬습니다. 저는 엔지니어링 기준이 존중받는 곳에서 일하고 싶습니다."
+  },
+  "collocations": [
+   "be emblematic of",
+   "emblematic example"
+  ],
+  "related": [
+   "emblem",
+   "problem",
+   "symbol",
+   "symbolic"
+  ],
+  "tip": "be emblematic of ~ = ~을 단적으로 보여 주다. 전 직장 험담처럼 들리지 않게 사실만"
+ },
+ {
+  "id": "d14-A21",
+  "day": 14,
+  "level": 3,
+  "set": "A",
+  "family": "F4",
+  "word": "hyperbolic",
+  "pos": "adjective",
+  "ipa": "/ˌhaɪpərˈbɑːlɪk/",
+  "meaning_ko": "과장된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hyper",
+     "type": "prefix",
+     "gloss": "넘어서"
+    },
+    {
+     "text": "bol",
+     "type": "root",
+     "gloss": "던지다 (ballein)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "목표를 넘어 던지다(hyperbole) → 지나치게 부풀린 → 과장된"
+  },
+  "example": {
+   "q": "How much did your work actually improve the system?",
+   "a": "It isn't hyperbolic to say the new caching layer saved the launch; without it, our database would have failed at a third of the expected traffic.",
+   "a_ko": "새 캐시 계층이 출시를 살렸다고 해도 과장이 아닙니다. 그게 없었다면 예상 트래픽의 3분의 1에서 DB가 버티지 못했을 겁니다."
+  },
+  "collocations": [
+   "hyperbolic claims",
+   "not hyperbolic to say"
+  ],
+  "related": [
+   "hyperbole",
+   "symbol",
+   "problem",
+   "emblem"
+  ],
+  "tip": "수학에서는 '쌍곡선의'. 과장이 아님을 강조할 때 It isn't hyperbolic to say ~"
+ },
+ {
+  "id": "d14-A22",
+  "day": 14,
+  "level": 3,
+  "set": "A",
+  "family": "F4",
+  "word": "parlance",
+  "pos": "noun",
+  "ipa": "/ˈpɑːrləns/",
+  "meaning_ko": "(특정 분야의) 말투, 용어",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "parl",
+     "type": "root",
+     "gloss": "말하다 (parler ← parabola 옆에 던짐)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "옆에 나란히 던진 것(비유, parabolē) → 말하다(parler) → 말투·용어"
+  },
+  "example": {
+   "q": "How do you talk about technical work with business teams?",
+   "a": "In engineering parlance we'd call it tech debt, but with the business team I describe it as the cost of delaying new features.",
+   "a_ko": "엔지니어 용어로는 기술 부채라고 하겠지만, 비즈니스 팀에게는 신기능을 늦추는 비용이라고 설명합니다."
+  },
+  "collocations": [
+   "in common parlance",
+   "in engineering parlance"
+  ],
+  "related": [
+   "parable",
+   "problem",
+   "symbol",
+   "hyperbole"
+  ],
+  "tip": "in X parlance = X 쪽 용어로 말하면"
+ },
+ {
+  "id": "d14-A23",
+  "day": 14,
+  "level": 1,
+  "set": "A",
+  "family": "F4",
+  "word": "circle back",
+  "pos": "phrasal verb",
+  "ipa": "/ˌsɜːrkəl ˈbæk/",
+  "meaning_ko": "(나중에) 다시 이야기하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "circle",
+     "type": "part",
+     "gloss": "원, 돌다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "다시, 뒤로"
+    }
+   ],
+   "story": "한 바퀴 돌아 다시 오다 → 앞서 나온 주제로 다시 돌아가다"
+  },
+  "example": {
+   "q": "Do you have any questions for us?",
+   "a": "Yes, can I circle back to the on-call question you mentioned earlier?",
+   "a_ko": "네, 아까 말씀하신 온콜 이야기로 다시 돌아가도 될까요?"
+  },
+  "collocations": [
+   "circle back to",
+   "circle back later"
+  ],
+  "related": [
+   "follow up",
+   "get back to",
+   "touch base"
+  ],
+  "tip": "회의·면접에서 '그 얘기 다시 해도 될까요 / 나중에 다시 얘기하죠'"
+ },
+ {
+  "id": "d14-A24",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "keep someone posted",
+  "pos": "phrase",
+  "ipa": "/ˌkiːp ˌsʌmwʌn ˈpoʊstɪd/",
+  "meaning_ko": "(진행 상황을) 계속 알려 주다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "keep",
+     "type": "part",
+     "gloss": "계속 ~하게 두다"
+    },
+    {
+     "text": "someone",
+     "type": "part",
+     "gloss": "누군가"
+    },
+    {
+     "text": "posted",
+     "type": "part",
+     "gloss": "소식을 받은 (post 우편)"
+    }
+   ],
+   "story": "누군가를 소식이 닿은 상태로 계속 두다 → 진행 상황을 계속 알려 주다"
+  },
+  "example": {
+   "q": "We'll make a final decision in about two weeks.",
+   "a": "Thank you. Please keep me posted, and I'll keep you posted too, since I'm also in final rounds with another company.",
+   "a_ko": "감사합니다. 진행 상황 알려 주시고, 저도 다른 회사 최종 면접이 있어서 변동이 있으면 바로 알려 드리겠습니다."
+  },
+  "collocations": [
+   "keep me posted",
+   "keep you posted on"
+  ],
+  "related": [
+   "follow up",
+   "check in",
+   "circle back"
+  ],
+  "tip": "I'll keep you posted = 진행되는 대로 알려 드릴게요. 다른 오퍼 상황을 정중히 알릴 때"
+ },
+ {
+  "id": "d14-A25",
+  "day": 14,
+  "level": 2,
+  "set": "A",
+  "family": "F4",
+  "word": "sounding board",
+  "pos": "noun",
+  "ipa": "/ˈsaʊndɪŋ ˌbɔːrd/",
+  "meaning_ko": "의견을 들어 주는 상대",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sounding",
+     "type": "part",
+     "gloss": "소리 나는"
+    },
+    {
+     "text": "board",
+     "type": "part",
+     "gloss": "판"
+    }
+   ],
+   "story": "설교단 위의 반향판(소리를 되돌려 주는 판) → 내 생각을 비춰 보는 상대"
+  },
+  "example": {
+   "q": "How do you support the people on your team?",
+   "a": "I often act as a sounding board for junior engineers, so they can test their ideas with me before presenting them to the wider team.",
+   "a_ko": "주니어 엔지니어들이 팀 전체에 발표하기 전에 저에게 아이디어를 먼저 말해 볼 수 있도록 자주 의견 상대가 되어 줍니다."
+  },
+  "collocations": [
+   "act as a sounding board",
+   "use someone as a sounding board"
+  ],
+  "related": [
+   "walk through",
+   "weigh in",
+   "run by"
+  ],
+  "tip": "멘토링·협업 질문에. 조언자라기보다 '들어 주고 반응해 주는 사람'"
+ }
+]

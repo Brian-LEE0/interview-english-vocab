@@ -1,0 +1,1218 @@
+[
+ {
+  "id": "d11-B01",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "visit",
+  "pos": "verb",
+  "ipa": "/ˈvɪzɪt/",
+  "meaning_ko": "방문하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다 (videre)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "자꾸 ~하다 (visitare)"
+    }
+   ],
+   "story": "가서 보다(visere) → 자주 가서 보다(visitare) → 방문하다"
+  },
+  "example": {
+   "q": "How do you understand your users' needs?",
+   "a": "I visit our customers' offices to watch them use the product.",
+   "a_ko": "고객사 사무실을 방문해서 제품을 쓰는 모습을 직접 봅니다."
+  },
+  "collocations": [
+   "visit a customer",
+   "site visit",
+   "pay a visit"
+  ],
+  "related": [
+   "visitor",
+   "revisit",
+   "vision",
+   "advisor"
+  ],
+  "tip": "‘고객 현장 방문’은 site visit / customer visit"
+ },
+ {
+  "id": "d11-B02",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "point of view",
+  "pos": "phrase",
+  "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+  "meaning_ko": "관점, 입장",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "point",
+     "type": "part",
+     "gloss": "지점"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (videre → 프랑스어 voir)"
+    }
+   ],
+   "story": "바라보는 지점 → 보는 입장 → 관점"
+  },
+  "example": {
+   "q": "How do you work with designers?",
+   "a": "I try to understand their point of view before I suggest changes.",
+   "a_ko": "변경을 제안하기 전에 디자이너의 관점을 먼저 이해하려고 합니다."
+  },
+  "collocations": [
+   "from my point of view",
+   "a user's point of view",
+   "see someone's point of view"
+  ],
+  "related": [
+   "view",
+   "viewpoint",
+   "review",
+   "code review"
+  ],
+  "tip": "From my point of view, … 는 의견을 부드럽게 꺼내는 표현"
+ },
+ {
+  "id": "d11-B03",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "code review",
+  "pos": "noun",
+  "ipa": "/ˈkoʊd rɪˌvjuː/",
+  "meaning_ko": "코드 리뷰",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "code",
+     "type": "part",
+     "gloss": "코드"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (videre → 프랑스어 voir)"
+    }
+   ],
+   "story": "코드를 다시 보다 → 동료가 코드를 검토함"
+  },
+  "example": {
+   "q": "How does your team keep code quality high?",
+   "a": "Every change goes through code review by at least one teammate.",
+   "a_ko": "모든 변경은 최소 한 명의 팀원에게 코드 리뷰를 받습니다."
+  },
+  "collocations": [
+   "do a code review",
+   "pass code review",
+   "code review comments"
+  ],
+  "related": [
+   "review",
+   "preview",
+   "overview",
+   "point of view"
+  ],
+  "tip": "‘리뷰를 받다’는 get a code review, ‘리뷰해 주다’는 review someone's code"
+ },
+ {
+  "id": "d11-B04",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "supervision",
+  "pos": "noun",
+  "ipa": "/ˌsuːpərˈvɪʒən/",
+  "meaning_ko": "감독, 지도",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "super",
+     "type": "prefix",
+     "gloss": "위에서"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "위에서 내려다봄(supervisus) → 감독"
+  },
+  "example": {
+   "q": "How independent are you as an engineer?",
+   "a": "I can work with minimal supervision, but I keep my manager updated with short weekly notes.",
+   "a_ko": "최소한의 감독만으로도 일할 수 있지만, 매주 짧은 메모로 매니저에게 진행 상황을 공유합니다."
+  },
+  "collocations": [
+   "minimal supervision",
+   "under supervision",
+   "close supervision"
+  ],
+  "related": [
+   "supervise",
+   "supervisor",
+   "unsupervised",
+   "vision"
+  ],
+  "tip": "with minimal supervision(알아서 일하는)은 자기주도성을 보여 주는 단골 표현"
+ },
+ {
+  "id": "d11-B05",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "unsupervised",
+  "pos": "adjective",
+  "ipa": "/ʌnˈsuːpərvaɪzd/",
+  "meaning_ko": "비지도의, 감독 없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "super",
+     "type": "prefix",
+     "gloss": "위에서"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "위에서 내려다보는 사람이 없는 → 감독 없는 → (ML) 정답 레이블 없이 배우는"
+  },
+  "example": {
+   "q": "Have you worked with machine learning?",
+   "a": "Yes, I used unsupervised clustering to group users by behavior, since we had no labeled data.",
+   "a_ko": "네, 레이블된 데이터가 없어서 비지도 클러스터링으로 사용자를 행동별로 묶었습니다."
+  },
+  "collocations": [
+   "unsupervised learning",
+   "unsupervised clustering",
+   "left unsupervised"
+  ],
+  "related": [
+   "supervision",
+   "supervise",
+   "supervisor",
+   "vision"
+  ],
+  "tip": "supervised learning(지도 학습) ↔ unsupervised learning(비지도 학습)"
+ },
+ {
+  "id": "d11-B06",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "advisor",
+  "pos": "noun",
+  "ipa": "/ədˈvaɪzər/",
+  "meaning_ko": "지도 교수, 조언자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다 (videre)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "~를 보고(advisum) 의견을 주다 → 조언하는 사람"
+  },
+  "example": {
+   "q": "Who has influenced your career the most?",
+   "a": "My graduate school advisor taught me to question every assumption.",
+   "a_ko": "대학원 지도 교수님께서 모든 가정을 의심하라고 가르쳐 주셨습니다."
+  },
+  "collocations": [
+   "academic advisor",
+   "technical advisor",
+   "thesis advisor"
+  ],
+  "related": [
+   "advise",
+   "advice",
+   "advisory",
+   "vision"
+  ],
+  "tip": "adviser 로도 씀. 미국에서는 advisor 가 더 흔함"
+ },
+ {
+  "id": "d11-B07",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "advisory",
+  "pos": "noun",
+  "ipa": "/ədˈvaɪzəri/",
+  "meaning_ko": "(보안) 권고문, 공지",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다 (videre)"
+    },
+    {
+     "text": "ory",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "보고 의견을 주는 것 → 공식 권고·주의 공지"
+  },
+  "example": {
+   "q": "How do you keep your dependencies secure?",
+   "a": "I subscribe to security advisories for our main libraries, and I patch critical issues within a day.",
+   "a_ko": "주요 라이브러리의 보안 권고문을 구독하고, 심각한 문제는 하루 안에 패치합니다."
+  },
+  "collocations": [
+   "security advisory",
+   "issue an advisory",
+   "advisory board"
+  ],
+  "related": [
+   "advisor",
+   "advise",
+   "supervision",
+   "vision"
+  ],
+  "tip": "형용사로는 ‘자문의’ — advisory role(자문 역할), advisory board(자문 위원회)"
+ },
+ {
+  "id": "d11-B08",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "visualization",
+  "pos": "noun",
+  "ipa": "/ˌvɪʒuələˈzeɪʃən/",
+  "meaning_ko": "시각화",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "visu",
+     "type": "root",
+     "gloss": "보다 (visus)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ization",
+     "type": "suffix",
+     "gloss": "~화 (명사)"
+    }
+   ],
+   "story": "보이는(visualis) 것으로 만듦 → 시각화"
+  },
+  "example": {
+   "q": "How did you communicate the results to non-technical stakeholders?",
+   "a": "I built a simple visualization of churn by region, because a chart made the problem obvious in seconds.",
+   "a_ko": "지역별 이탈률을 간단히 시각화했는데, 차트로 보니 문제가 몇 초 만에 분명해졌기 때문입니다."
+  },
+  "collocations": [
+   "data visualization",
+   "visualization tool",
+   "build a visualization"
+  ],
+  "related": [
+   "visual",
+   "visualize",
+   "vision",
+   "video"
+  ],
+  "tip": "동사 visualize(시각화하다)의 명사형. 데이터 직무 면접 필수 단어"
+ },
+ {
+  "id": "d11-B09",
+  "day": 11,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "materialized view",
+  "pos": "noun",
+  "ipa": "/məˈtɪriəlaɪzd ˈvjuː/",
+  "meaning_ko": "구체화된 뷰 (결과를 저장해 둔 DB 뷰)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "materialized",
+     "type": "part",
+     "gloss": "실체화된 (라틴어 materia 물질)"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (videre → 프랑스어 voir)"
+    }
+   ],
+   "story": "데이터를 보는 창(view) → 그 결과를 실제 데이터로 만들어 둔 것 → 미리 계산해 저장한 뷰"
+  },
+  "example": {
+   "q": "How did you speed up the dashboard queries?",
+   "a": "I replaced the heavy join with a materialized view refreshed every ten minutes, which cut the query time from eight seconds to under one.",
+   "a_ko": "무거운 조인을 10분마다 갱신되는 구체화된 뷰로 바꿔서, 쿼리 시간을 8초에서 1초 미만으로 줄였습니다."
+  },
+  "collocations": [
+   "create a materialized view",
+   "refresh a materialized view"
+  ],
+  "related": [
+   "view",
+   "review",
+   "preview",
+   "overview"
+  ],
+  "tip": "일반 view 는 조회할 때마다 계산, materialized view 는 결과를 저장 — 성능 튜닝 단골 주제"
+ },
+ {
+  "id": "d11-B10",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "improvisation",
+  "pos": "noun",
+  "ipa": "/ɪmˌprɑːvəˈzeɪʃən/",
+  "meaning_ko": "즉흥 대응, 임기응변",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "아닌 (in)"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞을"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "미리 내다보지 못한(improvisus) → 준비 없이 그 자리에서 함 → 즉흥"
+  },
+  "example": {
+   "q": "How do you react when plans change suddenly?",
+   "a": "Some improvisation is fine during an incident, but I always write a proper runbook afterward so we don't rely on luck next time.",
+   "a_ko": "장애 중에는 어느 정도 즉흥 대응도 괜찮지만, 다음에 운에 기대지 않도록 나중에 꼭 제대로 된 런북을 작성합니다."
+  },
+  "collocations": [
+   "a bit of improvisation",
+   "room for improvisation"
+  ],
+  "related": [
+   "improvise",
+   "provide",
+   "revise",
+   "vision"
+  ],
+  "tip": "동사 improvise(즉흥으로 하다)의 명사형"
+ },
+ {
+  "id": "d11-B11",
+  "day": 11,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "envision",
+  "pos": "verb",
+  "ipa": "/ɪnˈvɪʒən/",
+  "meaning_ko": "구상하다, 그려 보다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~ 속에"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "눈앞에 보이는 모습(vision) 속에 넣다 → 머릿속에 그려 보다 → 구상하다"
+  },
+  "example": {
+   "q": "Where do you see yourself in five years?",
+   "a": "I envision myself leading a small platform team, because I enjoy building tools that make other engineers faster.",
+   "a_ko": "작은 플랫폼 팀을 이끄는 모습을 그리고 있습니다. 다른 엔지니어의 속도를 높이는 도구를 만드는 게 즐겁기 때문입니다."
+  },
+  "collocations": [
+   "envision a future",
+   "envision myself",
+   "envision how"
+  ],
+  "related": [
+   "vision",
+   "visionary",
+   "visualize",
+   "revise"
+  ],
+  "tip": "imagine 보다 계획·비전을 담은 느낌. 5년 후 질문에 잘 맞음"
+ },
+ {
+  "id": "d11-B12",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "evidence-based",
+  "pos": "adjective",
+  "ipa": "/ˈevɪdəns ˌbeɪst/",
+  "meaning_ko": "근거에 기반한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    },
+    {
+     "text": "based",
+     "type": "part",
+     "gloss": "~에 기반한"
+    }
+   ],
+   "story": "밖으로 드러나 보이는 것(evidentia) → 증거 → 증거에 기반한"
+  },
+  "example": {
+   "q": "How do you make technical decisions?",
+   "a": "I prefer evidence-based decisions, so I usually run a small benchmark before choosing a library.",
+   "a_ko": "근거에 기반한 결정을 선호해서, 라이브러리를 고르기 전에 보통 작은 벤치마크를 돌립니다."
+  },
+  "collocations": [
+   "evidence-based decision",
+   "evidence-based approach"
+  ],
+  "related": [
+   "evidence",
+   "evident",
+   "self-evident",
+   "video"
+  ],
+  "tip": "data-driven 과 비슷. 감이 아니라 근거로 판단한다는 인상을 줌"
+ },
+ {
+  "id": "d11-B13",
+  "day": 11,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "self-evident",
+  "pos": "adjective",
+  "ipa": "/ˌself ˈevɪdənt/",
+  "meaning_ko": "자명한, 설명 안 해도 뻔한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "self",
+     "type": "part",
+     "gloss": "스스로"
+    },
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "스스로 밖으로 드러나 보이는 → 증명 없이도 분명한 → 자명한"
+  },
+  "example": {
+   "q": "How do you onboard new team members?",
+   "a": "Things that felt self-evident to me were confusing to new hires, so I wrote an onboarding guide and cut ramp-up time by about two weeks.",
+   "a_ko": "제게는 뻔했던 것들이 신입에게는 헷갈렸기에, 온보딩 가이드를 써서 적응 기간을 2주 정도 줄였습니다."
+  },
+  "collocations": [
+   "self-evident truth",
+   "it seems self-evident"
+  ],
+  "related": [
+   "evident",
+   "evidence",
+   "evidence-based",
+   "provide"
+  ],
+  "tip": "obvious 보다 격식 있음. 남의 말에 쓰면 무례할 수 있어 주로 자신의 착각을 말할 때"
+ },
+ {
+  "id": "d11-B14",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "ideal",
+  "pos": "adjective",
+  "ipa": "/aɪˈdiːəl/",
+  "meaning_ko": "이상적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ide",
+     "type": "root",
+     "gloss": "보다·모습 (그리스어 idein, idea)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "눈으로 본 모습(idea) → 머릿속의 완벽한 모습 → 이상적인"
+  },
+  "example": {
+   "q": "What does your ideal team look like?",
+   "a": "My ideal team shares knowledge openly and gives honest feedback.",
+   "a_ko": "제가 생각하는 이상적인 팀은 지식을 열린 마음으로 나누고 솔직한 피드백을 줍니다."
+  },
+  "collocations": [
+   "ideal team",
+   "ideal candidate",
+   "an ideal fit"
+  ],
+  "related": [
+   "idea",
+   "ideally",
+   "vision",
+   "video"
+  ],
+  "tip": "idea 는 그리스어 idein(보다)에서 — 라틴어 videre 와 같은 뿌리"
+ },
+ {
+  "id": "d11-B15",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "ideally",
+  "pos": "adverb",
+  "ipa": "/aɪˈdiːəli/",
+  "meaning_ko": "이상적으로는, 가능하다면",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ide",
+     "type": "root",
+     "gloss": "보다·모습 (그리스어 idein, idea)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "이상적인 경우라면 → 가능하다면"
+  },
+  "example": {
+   "q": "When would you be able to start?",
+   "a": "Ideally, I'd like to start on April 1, because that gives me time to hand over my current projects properly.",
+   "a_ko": "가능하다면 4월 1일에 시작하고 싶습니다. 그래야 지금 프로젝트를 제대로 인수인계할 시간이 있기 때문입니다."
+  },
+  "collocations": [
+   "ideally, I'd like to",
+   "ideally suited for"
+  ],
+  "related": [
+   "ideal",
+   "idea",
+   "vision"
+  ],
+  "tip": "희망 조건을 Ideally 로 시작하면 요구가 아니라 희망으로 부드럽게 들림"
+ },
+ {
+  "id": "d11-B16",
+  "day": 11,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "speculative",
+  "pos": "adjective",
+  "ipa": "/ˈspekjələtɪv/",
+  "meaning_ko": "추측에 근거한, (IT) 미리 예측해 실행하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "spec",
+     "type": "root",
+     "gloss": "보다 (specere)"
+    },
+    {
+     "text": "ul",
+     "type": "suffix",
+     "gloss": "~하는 곳 (specula 망루)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "망루(specula)에서 내다보다(speculari) → 짐작하다 → 확실하지 않은 앞일을 내다보는"
+  },
+  "example": {
+   "q": "How did you reduce perceived latency in the app?",
+   "a": "We added speculative prefetching of the next page, so most users saw content instantly, and I kept it behind a flag to limit wasted bandwidth.",
+   "a_ko": "다음 페이지를 예측해 미리 불러오도록 해서 대부분의 사용자가 즉시 화면을 보게 했고, 대역폭 낭비를 막으려고 플래그로 제어했습니다."
+  },
+  "collocations": [
+   "speculative execution",
+   "speculative prefetching",
+   "purely speculative"
+  ],
+  "related": [
+   "speculate",
+   "speculation",
+   "spectrum",
+   "inspect"
+  ],
+  "tip": "회의에서 That's purely speculative 는 ‘근거 없는 추측’ — 데이터를 요구할 때 씀"
+ },
+ {
+  "id": "d11-B17",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "history",
+  "pos": "noun",
+  "ipa": "/ˈhɪstəri/",
+  "meaning_ko": "이력, 역사",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "histor",
+     "type": "root",
+     "gloss": "아는 사람·증인 (그리스어 histōr, vid 와 같은 뿌리)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "보고 아는 사람(histōr) → 조사해서 알아낸 것(historia) → 지나온 기록 → 역사, 이력"
+  },
+  "example": {
+   "q": "Do you have leadership experience?",
+   "a": "Yes, I have a history of mentoring new hires on every team I've joined.",
+   "a_ko": "네, 제가 합류한 모든 팀에서 신입을 멘토링해 온 이력이 있습니다."
+  },
+  "collocations": [
+   "a history of",
+   "work history",
+   "commit history"
+  ],
+  "related": [
+   "story",
+   "storytelling",
+   "vision",
+   "video"
+  ],
+  "tip": "a history of ~ing(~해 온 이력)로 경험을 강조. Git 의 commit history 도 같은 단어"
+ },
+ {
+  "id": "d11-B18",
+  "day": 11,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "conscientiousness",
+  "pos": "noun",
+  "ipa": "/ˌkɑːnʃiˈenʃəsnəs/",
+  "meaning_ko": "성실성, 꼼꼼함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "enti",
+     "type": "suffix",
+     "gloss": "~하는 (conscientia)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ness",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "함께 안다(conscientia, 양심) → 양심적인 → 맡은 일을 꼼꼼히 하는 성질"
+  },
+  "example": {
+   "q": "What is your greatest strength?",
+   "a": "Conscientiousness, I think: on my last team I documented edge cases nobody else had noticed, which prevented several production bugs.",
+   "a_ko": "성실함이라고 생각합니다. 지난 팀에서 아무도 눈치채지 못한 예외 상황을 제가 문서로 남겼고, 덕분에 운영 버그를 여러 번 막았습니다."
+  },
+  "collocations": [
+   "high conscientiousness",
+   "conscientiousness and attention to detail"
+  ],
+  "related": [
+   "conscientious",
+   "conscience",
+   "science",
+   "scientific"
+  ],
+  "tip": "성격 5요인(Big Five) 중 하나. 형용사 conscientious 보다 길어서 발음 연습 필요"
+ },
+ {
+  "id": "d11-B19",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "tutorial",
+  "pos": "noun",
+  "ipa": "/tuːˈtɔːriəl/",
+  "meaning_ko": "튜토리얼, 따라 하기 안내서",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tut",
+     "type": "root",
+     "gloss": "지켜보다 (tueri)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람 (tutor 보호자)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "지켜 주는 사람(tutor, 보호자) → 가르치는 사람 → 가르치는 자료"
+  },
+  "example": {
+   "q": "How do you learn a new technology?",
+   "a": "I follow the official tutorial first, then build a small side project.",
+   "a_ko": "먼저 공식 튜토리얼을 따라 해 보고, 작은 사이드 프로젝트를 만듭니다."
+  },
+  "collocations": [
+   "follow a tutorial",
+   "write a tutorial",
+   "step-by-step tutorial"
+  ],
+  "related": [
+   "tutor",
+   "tuition",
+   "intuition",
+   "intuitive"
+  ],
+  "tip": "강세는 둘째 음절 /tuːˈtɔːriəl/ (투토리얼)"
+ },
+ {
+  "id": "d11-B20",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "tuition",
+  "pos": "noun",
+  "ipa": "/tuˈɪʃən/",
+  "meaning_ko": "학비, 수업료",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tu",
+     "type": "root",
+     "gloss": "지켜보다·돌보다 (tueri)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "돌봄(tuitio) → 가르침 → 가르침의 대가 → 수업료"
+  },
+  "example": {
+   "q": "Is there anything else in the benefits package that matters to you?",
+   "a": "Yes, tuition reimbursement is important to me, because I'm planning to take a part-time master's program in data engineering.",
+   "a_ko": "네, 학비 지원이 중요합니다. 데이터 엔지니어링 파트타임 석사 과정을 들을 계획이기 때문입니다."
+  },
+  "collocations": [
+   "tuition reimbursement",
+   "tuition assistance",
+   "cover tuition"
+  ],
+  "related": [
+   "tutorial",
+   "tutor",
+   "intuition"
+  ],
+  "tip": "복리후생 협상 키워드. tuition reimbursement(학비 환급)는 미국 회사에서 흔한 제도"
+ },
+ {
+  "id": "d11-B21",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "intuition",
+  "pos": "noun",
+  "ipa": "/ˌɪntuˈɪʃən/",
+  "meaning_ko": "직관",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~을 향해 (안으로)"
+    },
+    {
+     "text": "tu",
+     "type": "root",
+     "gloss": "보다·살피다 (tueri)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "안을 들여다봄(intueri) → 따지기 전에 바로 꿰뚫어 봄 → 직관"
+  },
+  "example": {
+   "q": "How do you decide when data is incomplete?",
+   "a": "I start from intuition, but I treat it as a hypothesis and look for at least one metric that confirms or rejects it.",
+   "a_ko": "직관에서 출발하되 그것을 가설로 보고, 맞는지 틀린지 확인할 지표를 적어도 하나는 찾습니다."
+  },
+  "collocations": [
+   "trust my intuition",
+   "gut intuition",
+   "engineering intuition"
+  ],
+  "related": [
+   "intuitive",
+   "tutorial",
+   "tuition"
+  ],
+  "tip": "gut feeling 의 격식체. 직관만으로 결정했다고 하면 위험하니 검증과 함께 말하기"
+ },
+ {
+  "id": "d11-B22",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "intuitive",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtuːɪtɪv/",
+  "meaning_ko": "직관적인, 쓰기 쉬운",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~을 향해 (안으로)"
+    },
+    {
+     "text": "tu",
+     "type": "root",
+     "gloss": "보다·살피다 (tueri)"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는 성질의"
+    }
+   ],
+   "story": "보자마자 바로 꿰뚫어 아는 → (UI·API) 설명 없이도 쓸 수 있는"
+  },
+  "example": {
+   "q": "What makes a good API in your opinion?",
+   "a": "A good API is intuitive, so developers can guess the right method name without reading the docs.",
+   "a_ko": "좋은 API 는 직관적이어서, 개발자가 문서를 읽지 않고도 맞는 메서드 이름을 짐작할 수 있습니다."
+  },
+  "collocations": [
+   "intuitive UI",
+   "intuitive API",
+   "fairly intuitive"
+  ],
+  "related": [
+   "intuition",
+   "counterintuitive",
+   "tutorial"
+  ],
+  "tip": "반대말 counterintuitive(직관에 어긋나는)도 함께"
+ },
+ {
+  "id": "d11-B23",
+  "day": 11,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "in a nutshell",
+  "pos": "phrase",
+  "ipa": "/ɪn ə ˈnʌtʃel/",
+  "meaning_ko": "한마디로, 간단히 말해",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~ 안에"
+    },
+    {
+     "text": "a",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "nut",
+     "type": "part",
+     "gloss": "견과"
+    },
+    {
+     "text": "shell",
+     "type": "part",
+     "gloss": "껍데기"
+    }
+   ],
+   "story": "호두 껍데기 안에 담을 만큼 → 아주 짧게 요약해서"
+  },
+  "example": {
+   "q": "What does your current team do?",
+   "a": "In a nutshell, we make sure payments never fail silently.",
+   "a_ko": "한마디로, 결제가 조용히 실패하는 일이 없도록 하는 팀입니다."
+  },
+  "collocations": [
+   "in a nutshell",
+   "to put it in a nutshell"
+  ],
+  "related": [
+   "at a high level",
+   "in short",
+   "zoom out"
+  ],
+  "tip": "긴 설명 앞이나 끝에 한 줄 요약을 붙일 때"
+ },
+ {
+  "id": "d11-B24",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "end-to-end",
+  "pos": "adjective",
+  "ipa": "/ˌend tə ˈend/",
+  "meaning_ko": "처음부터 끝까지의, 전 구간의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "end",
+     "type": "part",
+     "gloss": "끝"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~까지"
+    },
+    {
+     "text": "end",
+     "type": "part",
+     "gloss": "끝"
+    }
+   ],
+   "story": "한쪽 끝에서 다른 끝까지 → 전체 흐름을 다 아우르는"
+  },
+  "example": {
+   "q": "How do you test critical user flows?",
+   "a": "I wrote end-to-end tests that simulate a real checkout, which caught bugs our unit tests had missed.",
+   "a_ko": "실제 결제 과정을 흉내 내는 E2E 테스트를 작성해서, 단위 테스트가 놓친 버그를 잡았습니다."
+  },
+  "collocations": [
+   "end-to-end tests",
+   "end-to-end encryption",
+   "own something end-to-end"
+  ],
+  "related": [
+   "under the hood",
+   "at a high level",
+   "full-stack"
+  ],
+  "tip": "E2E 로 줄여 씀. I owned it end-to-end 는 ‘처음부터 끝까지 맡았다’ — 주도성 어필"
+ },
+ {
+  "id": "d11-B25",
+  "day": 11,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "drill down",
+  "pos": "phrasal verb",
+  "ipa": "/ˌdrɪl ˈdaʊn/",
+  "meaning_ko": "더 깊이 파고들다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "drill",
+     "type": "part",
+     "gloss": "구멍을 뚫다 (네덜란드어 drillen)"
+    },
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    }
+   ],
+   "story": "드릴로 아래로 뚫다 → 요약에서 세부로 파고들다"
+  },
+  "example": {
+   "q": "How do you investigate a spike in errors?",
+   "a": "I start with the dashboard, then drill down by region and app version until the pattern is clear.",
+   "a_ko": "대시보드에서 시작해서 패턴이 보일 때까지 지역별, 앱 버전별로 파고듭니다."
+  },
+  "collocations": [
+   "drill down into",
+   "drill down by",
+   "drill-down report"
+  ],
+  "related": [
+   "deep dive",
+   "zoom out",
+   "under the hood"
+  ],
+  "tip": "dig into 와 비슷. 대시보드·데이터 분석을 설명할 때 자주 씀"
+ }
+]

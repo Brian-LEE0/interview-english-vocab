@@ -23,6 +23,7 @@
   .bar{display:flex;align-items:center;gap:24px;padding:14px 32px;border-bottom:1px solid var(--line);background:var(--paper)}
   .brand{font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:-.02em}
   .brand span{color:var(--root)}
+.brand small{font-family:var(--body);font-weight:600;font-size:12px;letter-spacing:0;color:var(--ink-2);margin-left:8px;padding-left:8px;border-left:1px solid var(--line);vertical-align:2px}
   .bar nav{display:flex;gap:4px;margin-left:auto}
   .bar nav a{color:var(--ink-2);text-decoration:none;padding:6px 12px;border-radius:6px;font-size:14px}
   .bar nav a[aria-current]{background:var(--ink);color:#fff}
@@ -116,6 +117,7 @@
     body{padding-bottom:calc(var(--tab) + env(safe-area-inset-bottom))}
     .bar{padding:12px 16px;position:sticky;top:0;z-index:5}
     .bar .daychip{display:inline-flex}
+    .brand small{display:none}
     .bar nav{position:fixed;left:0;right:0;bottom:0;margin:0;z-index:10;display:grid;grid-template-columns:repeat(4,1fr);gap:0;
       background:var(--card);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom));height:calc(var(--tab) + env(safe-area-inset-bottom));align-items:center}
     .bar nav a{text-align:center;padding:10px 4px;font-size:13px;border-radius:8px}
@@ -146,7 +148,7 @@
 <body>
 
 <header class="bar">
-  <div class="brand">mensetsu<span>.</span>tango</div>
+  <div class="brand" aria-label="Interview English 어원 단어장">Inter<span>view</span> English<small>어원 단어장</small></div>
   <span class="daychip">Day 11 · 2구간</span>
   <nav aria-label="메뉴">
     <a href="#" aria-current="page">오늘의 학습</a>

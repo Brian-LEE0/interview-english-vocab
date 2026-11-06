@@ -1,0 +1,1189 @@
+[
+ {
+  "id": "d19-A01",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "unpredictable",
+  "pos": "adjective",
+  "ipa": "/ˌʌnprɪˈdɪktəbəl/",
+  "meaning_ko": "예측할 수 없는, 들쭉날쭉한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "dict",
+     "type": "root",
+     "gloss": "말하다"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "미리 말할 수 없는 → 앞일을 알 수 없는 → 예측할 수 없는"
+  },
+  "example": {
+   "q": "What made that service hard to operate?",
+   "a": "Traffic was unpredictable, so we added autoscaling and better alerts.",
+   "a_ko": "트래픽을 예측할 수 없어서 오토스케일링과 더 나은 알림을 추가했습니다."
+  },
+  "collocations": [
+   "unpredictable traffic",
+   "highly unpredictable",
+   "unpredictable behavior"
+  ],
+  "related": [
+   "predict",
+   "predictive",
+   "predictable",
+   "dictate"
+  ],
+  "tip": "un- 을 붙여 반대말을 만드는 대표 패턴. 강세는 -dict- 에"
+ },
+ {
+  "id": "d19-A02",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "predictive",
+  "pos": "adjective",
+  "ipa": "/prɪˈdɪktɪv/",
+  "meaning_ko": "예측의, 예측하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "dict",
+     "type": "root",
+     "gloss": "말하다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "미리 말하는 → 앞일을 내다보는 → 예측하는"
+  },
+  "example": {
+   "q": "Have you worked with machine learning?",
+   "a": "I built a predictive model for customer churn, which helped the sales team focus on at-risk accounts first.",
+   "a_ko": "고객 이탈 예측 모델을 만들어서 영업팀이 이탈 위험 고객부터 챙길 수 있게 했습니다."
+  },
+  "collocations": [
+   "predictive model",
+   "predictive analytics",
+   "predictive maintenance"
+  ],
+  "related": [
+   "predict",
+   "unpredictable",
+   "prediction",
+   "verdict"
+  ],
+  "tip": "predictable(예측 가능한)과 헷갈리지 않기 — predictive 는 '예측해 주는'"
+ },
+ {
+  "id": "d19-A03",
+  "day": 19,
+  "level": 3,
+  "set": "A",
+  "family": "F9",
+  "word": "indicative",
+  "pos": "adjective",
+  "ipa": "/ɪnˈdɪkətɪv/",
+  "meaning_ko": "~을 나타내는, ~의 징후인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~에 대해"
+    },
+    {
+     "text": "dic",
+     "type": "root",
+     "gloss": "가리키다·알리다 (dicare)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "~을 가리켜 알리는 → 어떤 상태를 드러내는 → ~의 징후인"
+  },
+  "example": {
+   "q": "How did you find the root cause of the outage?",
+   "a": "The latency spikes were indicative of connection pool exhaustion, so I checked the pool metrics first and confirmed it within an hour.",
+   "a_ko": "지연 시간 급증이 커넥션 풀 고갈의 징후여서 풀 지표부터 확인했고, 한 시간 안에 원인을 확정했습니다."
+  },
+  "collocations": [
+   "be indicative of",
+   "indicative of a deeper problem",
+   "highly indicative"
+  ],
+  "related": [
+   "indicate",
+   "indicator",
+   "index",
+   "dedicate"
+  ],
+  "tip": "be indicative of ~ 형태로 씀. indicate 보다 격식 있고 '증상·신호' 뉘앙스"
+ },
+ {
+  "id": "d19-A04",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "precondition",
+  "pos": "noun",
+  "ipa": "/ˌpriːkənˈdɪʃən/",
+  "meaning_ko": "전제 조건, 선결 조건",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "dit",
+     "type": "root",
+     "gloss": "말하다 (dicere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "함께 말해 정한 것(condicio, 합의) → 조건 → 미리 갖춰야 할 조건"
+  },
+  "example": {
+   "q": "The offer is subject to a background check.",
+   "a": "Understood. Is the background check the only precondition, or do you also need references before the offer is final?",
+   "a_ko": "알겠습니다. 신원 조회가 유일한 전제 조건인가요, 아니면 오퍼 확정 전에 평판 조회도 필요한가요?"
+  },
+  "collocations": [
+   "a precondition for",
+   "set preconditions",
+   "meet the preconditions"
+  ],
+  "related": [
+   "condition",
+   "conditional",
+   "unconditional",
+   "diction"
+  ],
+  "tip": "condition 은 원래 '함께 말해 정한 합의'(con + dicere) — 계약 조건 이야기에 자연스러움"
+ },
+ {
+  "id": "d19-A05",
+  "day": 19,
+  "level": 3,
+  "set": "A",
+  "family": "F9",
+  "word": "unconditional",
+  "pos": "adjective",
+  "ipa": "/ˌʌnkənˈdɪʃənəl/",
+  "meaning_ko": "무조건의, 조건 없는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "dit",
+     "type": "root",
+     "gloss": "말하다 (dicere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "합의된 조건(condicio)이 붙지 않은 → 무조건의"
+  },
+  "example": {
+   "q": "We'd like to make you a conditional offer pending a reference check.",
+   "a": "Thank you. Once the reference check is complete, could you confirm in writing that the offer is unconditional, so I can give notice to my current employer?",
+   "a_ko": "감사합니다. 평판 조회가 끝나면 오퍼가 조건 없이 확정됐다는 것을 서면으로 확인해 주실 수 있을까요? 그래야 현 직장에 퇴사 통보를 할 수 있습니다."
+  },
+  "collocations": [
+   "unconditional offer",
+   "unconditional support",
+   "become unconditional"
+  ],
+  "related": [
+   "condition",
+   "precondition",
+   "conditional",
+   "dictate"
+  ],
+  "tip": "영국·유럽 채용에서 conditional offer(조건부) ↔ unconditional offer(확정) 로 자주 씀"
+ },
+ {
+  "id": "d19-A06",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "contradiction",
+  "pos": "noun",
+  "ipa": "/ˌkɑːntrəˈdɪkʃən/",
+  "meaning_ko": "모순, 상충",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "contra",
+     "type": "prefix",
+     "gloss": "반대로"
+    },
+    {
+     "text": "dict",
+     "type": "root",
+     "gloss": "말하다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "반대로 말하는 것 → 앞뒤가 맞지 않음 → 모순"
+  },
+  "example": {
+   "q": "How do you handle unclear requirements?",
+   "a": "When I spot a contradiction between the spec and the design, I raise it early so we don't build the wrong thing.",
+   "a_ko": "스펙과 디자인 사이에 모순이 보이면 엉뚱한 것을 만들지 않도록 일찍 문제를 제기합니다."
+  },
+  "collocations": [
+   "a contradiction between",
+   "in contradiction to",
+   "spot a contradiction"
+  ],
+  "related": [
+   "contradict",
+   "predict",
+   "verdict",
+   "dictate"
+  ],
+  "tip": "요구사항 충돌을 말할 때 conflict 보다 '논리적으로 앞뒤가 안 맞음'을 강조"
+ },
+ {
+  "id": "d19-A07",
+  "day": 19,
+  "level": 3,
+  "set": "A",
+  "family": "F9",
+  "word": "contradict",
+  "pos": "verb",
+  "ipa": "/ˌkɑːntrəˈdɪkt/",
+  "meaning_ko": "반박하다, (사실이) 모순되다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "contra",
+     "type": "prefix",
+     "gloss": "반대로"
+    },
+    {
+     "text": "dict",
+     "type": "root",
+     "gloss": "말하다"
+    }
+   ],
+   "story": "반대로 말하다 → 상대 말을 반박하다 / 서로 맞지 않다"
+  },
+  "example": {
+   "q": "Tell me about a time you disagreed with a senior engineer.",
+   "a": "In a design review, the load test results contradicted my lead's assumption, so I shared the data with him privately first and we adjusted the plan together.",
+   "a_ko": "설계 리뷰에서 부하 테스트 결과가 리드의 가정과 맞지 않아서, 먼저 따로 데이터를 공유했고 함께 계획을 조정했습니다."
+  },
+  "collocations": [
+   "contradict someone",
+   "contradict the data",
+   "contradict each other"
+  ],
+  "related": [
+   "contradiction",
+   "predict",
+   "dictate",
+   "indicate"
+  ],
+  "tip": "사람을 contradict 하면 정면 반박 뉘앙스 — 면접에서는 the data contradicted ~ 처럼 사실을 주어로 쓰면 부드러움"
+ },
+ {
+  "id": "d19-A08",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "judge",
+  "pos": "verb",
+  "ipa": "/dʒʌdʒ/",
+  "meaning_ko": "판단하다, 평가하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "judge",
+     "type": "root",
+     "gloss": "재판하다 (judex = jus 법 + dicere 말하다)"
+    }
+   ],
+   "story": "법을 말하는 사람(judex) → 재판하다 → 판단하다"
+  },
+  "example": {
+   "q": "How do you evaluate a design?",
+   "a": "I judge a design by how easily we can change it later.",
+   "a_ko": "설계는 나중에 얼마나 쉽게 바꿀 수 있는지로 판단합니다."
+  },
+  "collocations": [
+   "judge by",
+   "hard to judge",
+   "judge for yourself"
+  ],
+  "related": [
+   "judgment",
+   "judicious",
+   "prejudice",
+   "jury"
+  ],
+  "tip": "judge A by B = B를 기준으로 A를 판단하다. 발음 /dʒʌdʒ/ 한 음절"
+ },
+ {
+  "id": "d19-A09",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "judgment call",
+  "pos": "phrase",
+  "ipa": "/ˈdʒʌdʒmənt ˌkɔːl/",
+  "meaning_ko": "(정답이 없는 상황의) 판단, 재량에 따른 결정",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "judg",
+     "type": "root",
+     "gloss": "재판하다 (jus + dicere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "call",
+     "type": "part",
+     "gloss": "판정"
+    }
+   ],
+   "story": "판단(judgment)으로 내리는 판정(call) → 정해진 규칙이 없을 때 스스로 내리는 결정"
+  },
+  "example": {
+   "q": "Tell me about a decision you made without full information.",
+   "a": "Releasing before the holiday freeze was a judgment call; I weighed the risk, added a feature flag, and it paid off.",
+   "a_ko": "연휴 배포 동결 전에 릴리스할지는 제 판단에 달린 결정이었는데, 위험을 따져 보고 피처 플래그를 붙였고 결과적으로 잘 됐습니다."
+  },
+  "collocations": [
+   "make a judgment call",
+   "a tough judgment call",
+   "it's a judgment call"
+  ],
+  "related": [
+   "judge",
+   "judgment",
+   "misjudge",
+   "prejudice"
+  ],
+  "tip": "call 은 심판의 '판정'. 정답이 없는 결정을 담담하게 표현할 때 좋음"
+ },
+ {
+  "id": "d19-A10",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "nonjudgmental",
+  "pos": "adjective",
+  "ipa": "/ˌnɑːndʒʌdʒˈmentəl/",
+  "meaning_ko": "비난하지 않는, 섣불리 평가하지 않는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "judg",
+     "type": "root",
+     "gloss": "재판하다 (jus + dicere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "재판하듯 따지지 않는 → 사람을 탓하지 않는"
+  },
+  "example": {
+   "q": "How do you give feedback to junior developers?",
+   "a": "I keep my code review comments nonjudgmental and focus on the code, not the person, so juniors feel safe asking questions.",
+   "a_ko": "코드 리뷰 코멘트는 비난조가 되지 않게 하고 사람이 아니라 코드에 집중해서, 주니어가 편하게 질문할 수 있게 합니다."
+  },
+  "collocations": [
+   "nonjudgmental tone",
+   "nonjudgmental feedback",
+   "stay nonjudgmental"
+  ],
+  "related": [
+   "judge",
+   "judgment call",
+   "judgmental",
+   "judicious"
+  ],
+  "tip": "blameless postmortem 문화와 함께 쓰면 좋음. 영국식 철자는 judgement"
+ },
+ {
+  "id": "d19-A11",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "logic",
+  "pos": "noun",
+  "ipa": "/ˈlɑːdʒɪk/",
+  "meaning_ko": "논리, (프로그램의) 로직",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "log",
+     "type": "root",
+     "gloss": "말·이치 (그리스어 logos)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~에 관한 것"
+    }
+   ],
+   "story": "말·이치(logos)에 관한 것 → 논리 → 처리 규칙"
+  },
+  "example": {
+   "q": "What did you change in the payment service?",
+   "a": "I moved the retry logic into one shared module.",
+   "a_ko": "재시도 로직을 하나의 공통 모듈로 옮겼습니다."
+  },
+  "collocations": [
+   "business logic",
+   "retry logic",
+   "the logic behind"
+  ],
+  "related": [
+   "logical",
+   "dialogue",
+   "analogy",
+   "catalog"
+  ],
+  "tip": "logos 는 '말'이자 '이치' — 그래서 '말하다' 가족과 이어짐 (보조 어근)"
+ },
+ {
+  "id": "d19-A12",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "voice",
+  "pos": "verb",
+  "ipa": "/vɔɪs/",
+  "meaning_ko": "(의견을) 말하다, 표명하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "voice",
+     "type": "root",
+     "gloss": "목소리 (vox, voc)"
+    }
+   ],
+   "story": "목소리(vox) → 목소리를 내다 → 의견을 말하다"
+  },
+  "example": {
+   "q": "What do you do when you disagree with a decision?",
+   "a": "I voice my concerns in the meeting, then support the final decision.",
+   "a_ko": "회의에서 우려를 말하고, 그다음에는 최종 결정을 지지합니다."
+  },
+  "collocations": [
+   "voice concerns",
+   "voice an opinion",
+   "have a voice"
+  ],
+  "related": [
+   "vocal",
+   "invoke",
+   "advocate",
+   "vocabulary"
+  ],
+  "tip": "명사 '목소리'뿐 아니라 동사 '의견을 내다'로 면접에서 자주 씀"
+ },
+ {
+  "id": "d19-A13",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "invoke",
+  "pos": "verb",
+  "ipa": "/ɪnˈvoʊk/",
+  "meaning_ko": "(함수·API를) 호출하다, (규정을) 발동하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~에게·안으로"
+    },
+    {
+     "text": "voke",
+     "type": "root",
+     "gloss": "부르다 (vocare)"
+    }
+   ],
+   "story": "불러들이다 → 신·힘을 불러내다 → 함수를 호출하다"
+  },
+  "example": {
+   "q": "How does your event-driven pipeline work?",
+   "a": "Each upload event invokes a Lambda function, which resizes the image and stores the result in S3.",
+   "a_ko": "업로드 이벤트마다 Lambda 함수를 호출해서 이미지 크기를 바꾸고 결과를 S3에 저장합니다."
+  },
+  "collocations": [
+   "invoke a function",
+   "invoke an API",
+   "invoke a clause"
+  ],
+  "related": [
+   "invocation",
+   "revoke",
+   "provoke",
+   "advocate"
+  ],
+  "tip": "call 보다 격식 있는 '호출하다'. 서버리스 문서에서 거의 표준 용어"
+ },
+ {
+  "id": "d19-A14",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "invocation",
+  "pos": "noun",
+  "ipa": "/ˌɪnvəˈkeɪʃən/",
+  "meaning_ko": "호출, 발동",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~에게·안으로"
+    },
+    {
+     "text": "voc",
+     "type": "root",
+     "gloss": "부르다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "불러들이는 것 → 함수 호출"
+  },
+  "example": {
+   "q": "How did you reduce your serverless bill?",
+   "a": "I batched the messages, which cut the number of invocations by about 80 percent and lowered our monthly cost.",
+   "a_ko": "메시지를 묶어서 처리해 호출 횟수를 약 80% 줄였고 월 비용도 낮췄습니다."
+  },
+  "collocations": [
+   "function invocation",
+   "per invocation",
+   "remote method invocation"
+  ],
+  "related": [
+   "invoke",
+   "vocal",
+   "revocation",
+   "provocative"
+  ],
+  "tip": "서버리스 과금 단위가 invocation 수 — 비용 최적화 이야기에 바로 씀"
+ },
+ {
+  "id": "d19-A15",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "revocation",
+  "pos": "noun",
+  "ipa": "/ˌrevəˈkeɪʃən/",
+  "meaning_ko": "폐기, (권한·인증서의) 취소",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로"
+    },
+    {
+     "text": "voc",
+     "type": "root",
+     "gloss": "부르다"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "도로 불러들이는 것 → 내준 것을 거둬들임 → 취소·폐기"
+  },
+  "example": {
+   "q": "How do you handle a leaked API token?",
+   "a": "We support immediate token revocation, so a leaked key can be disabled within minutes without redeploying.",
+   "a_ko": "토큰을 즉시 폐기할 수 있어서 유출된 키를 재배포 없이 몇 분 안에 무효화할 수 있습니다."
+  },
+  "collocations": [
+   "token revocation",
+   "certificate revocation",
+   "revocation list"
+  ],
+  "related": [
+   "revoke",
+   "irrevocable",
+   "invoke",
+   "vocation"
+  ],
+  "tip": "동사는 revoke, 명사는 revocation (철자 k → c, 강세 위치도 바뀜)"
+ },
+ {
+  "id": "d19-A16",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "provoke",
+  "pos": "verb",
+  "ipa": "/prəˈvoʊk/",
+  "meaning_ko": "불러일으키다, 자극하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "voke",
+     "type": "root",
+     "gloss": "부르다 (vocare)"
+    }
+   ],
+   "story": "앞으로 불러내다 → 반응을 끌어내다 → 자극하다"
+  },
+  "example": {
+   "q": "How do you bring up a sensitive issue with your team?",
+   "a": "I frame it as a question about the system, not a person, so it doesn't provoke defensiveness.",
+   "a_ko": "사람이 아니라 시스템에 대한 질문으로 꺼내서 방어적인 반응을 불러일으키지 않게 합니다."
+  },
+  "collocations": [
+   "provoke a reaction",
+   "provoke discussion",
+   "provoke defensiveness"
+  ],
+  "related": [
+   "provocative",
+   "invoke",
+   "advocate",
+   "voice"
+  ],
+  "tip": "부정적 반응(분노·반발)에 자주 쓰지만 provoke discussion 처럼 중립적으로도 씀"
+ },
+ {
+  "id": "d19-A17",
+  "day": 19,
+  "level": 3,
+  "set": "A",
+  "family": "F9",
+  "word": "provocative",
+  "pos": "adjective",
+  "ipa": "/prəˈvɑːkətɪv/",
+  "meaning_ko": "도발적인, 생각을 자극하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "voc",
+     "type": "root",
+     "gloss": "부르다"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "앞으로 불러내는 → 반응을 끌어내는 → 도발적인"
+  },
+  "example": {
+   "q": "How do you run a design review?",
+   "a": "I sometimes ask a deliberately provocative question, like what would happen if we deleted this service, to make the team challenge its assumptions.",
+   "a_ko": "이 서비스를 지우면 어떻게 될지 같은 일부러 도발적인 질문을 던져서, 팀이 가정을 다시 따져 보게 합니다."
+  },
+  "collocations": [
+   "a provocative question",
+   "deliberately provocative",
+   "provocative idea"
+  ],
+  "related": [
+   "provoke",
+   "thought-provoking",
+   "invocation",
+   "vocal"
+  ],
+  "tip": "좋은 뜻으로 쓰려면 deliberately 등과 함께 — 단독으로는 '자극적'으로 들릴 수 있음"
+ },
+ {
+  "id": "d19-A18",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "credit",
+  "pos": "noun",
+  "ipa": "/ˈkredɪt/",
+  "meaning_ko": "공로, 인정",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cred",
+     "type": "root",
+     "gloss": "믿다"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 것 (creditum)"
+    }
+   ],
+   "story": "믿고 맡긴 것(creditum, 빌려준 돈) → 신용 → 공을 인정함"
+  },
+  "example": {
+   "q": "What was your role in the project's success?",
+   "a": "I led the migration, but much of the credit goes to my team.",
+   "a_ko": "마이그레이션은 제가 이끌었지만 공의 상당 부분은 팀에게 있습니다."
+  },
+  "collocations": [
+   "give credit",
+   "take credit for",
+   "credit goes to"
+  ],
+  "related": [
+   "credible",
+   "credential",
+   "incredible",
+   "discredit"
+  ],
+  "tip": "the credit goes to ~ 는 성과를 겸손하게 말할 때 좋음"
+ },
+ {
+  "id": "d19-A19",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "credible",
+  "pos": "adjective",
+  "ipa": "/ˈkredəbəl/",
+  "meaning_ko": "믿을 만한, 신뢰할 수 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cred",
+     "type": "root",
+     "gloss": "믿다"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "믿을 수 있는 → 신뢰할 만한"
+  },
+  "example": {
+   "q": "How did you convince the stakeholders?",
+   "a": "I brought benchmark data, which made my proposal credible.",
+   "a_ko": "벤치마크 데이터를 가져가서 제 제안에 신뢰가 생겼습니다."
+  },
+  "collocations": [
+   "credible evidence",
+   "a credible plan",
+   "credible source"
+  ],
+  "related": [
+   "credit",
+   "incredibly",
+   "credibility",
+   "credential"
+  ],
+  "tip": "credible(믿을 만한) ↔ credulous(남의 말을 잘 믿는) 구별"
+ },
+ {
+  "id": "d19-A20",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "incredibly",
+  "pos": "adverb",
+  "ipa": "/ɪnˈkredəbli/",
+  "meaning_ko": "엄청나게, 믿기 어려울 만큼",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "cred",
+     "type": "root",
+     "gloss": "믿다"
+    },
+    {
+     "text": "ibly",
+     "type": "suffix",
+     "gloss": "~할 수 있게"
+    }
+   ],
+   "story": "믿을 수 없을 만큼 → 엄청나게"
+  },
+  "example": {
+   "q": "Who influenced you most in your last job?",
+   "a": "My mentor was incredibly patient, and I learned a lot from her.",
+   "a_ko": "멘토가 정말 인내심이 많아서 그분께 많이 배웠습니다."
+  },
+  "collocations": [
+   "incredibly helpful",
+   "incredibly fast",
+   "incredibly grateful"
+  ],
+  "related": [
+   "incredible",
+   "credible",
+   "credit",
+   "credence"
+  ],
+  "tip": "형용사 앞에 붙여 강조 (incredibly helpful). 명사 앞에는 incredible"
+ },
+ {
+  "id": "d19-A21",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "credential",
+  "pos": "noun",
+  "ipa": "/krəˈdenʃəl/",
+  "meaning_ko": "인증 정보, 자격 증명",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cred",
+     "type": "root",
+     "gloss": "믿다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~에 관한 것"
+    }
+   ],
+   "story": "믿게 해 주는 것(credentia) → 신임장 → 자격·인증 정보"
+  },
+  "example": {
+   "q": "How do you manage secrets in your pipelines?",
+   "a": "We never hard-code credentials; they're stored in a secrets manager and rotated every 90 days.",
+   "a_ko": "인증 정보는 절대 코드에 직접 넣지 않고, 시크릿 매니저에 저장해서 90일마다 교체합니다."
+  },
+  "collocations": [
+   "database credentials",
+   "rotate credentials",
+   "credential leak"
+  ],
+  "related": [
+   "credit",
+   "credible",
+   "accredited",
+   "credence"
+  ],
+  "tip": "IT에서는 주로 복수형 credentials(아이디·비밀번호·키). 이력 맥락에서는 '자격'"
+ },
+ {
+  "id": "d19-A22",
+  "day": 19,
+  "level": 3,
+  "set": "A",
+  "family": "F9",
+  "word": "discredit",
+  "pos": "verb",
+  "ipa": "/dɪsˈkredɪt/",
+  "meaning_ko": "신뢰를 떨어뜨리다, 깎아내리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "반대로·없애다"
+    },
+    {
+     "text": "cred",
+     "type": "root",
+     "gloss": "믿다"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 것"
+    }
+   ],
+   "story": "신용을 없애다 → 믿지 못하게 만들다"
+  },
+  "example": {
+   "q": "How do you respond when someone criticizes your work in public?",
+   "a": "I don't try to discredit the person; I thank them, check whether the point is valid, and follow up with data after the meeting.",
+   "a_ko": "그 사람을 깎아내리려 하지 않고, 고맙다고 한 뒤 지적이 맞는지 확인하고 회의 후에 데이터로 후속 답변을 합니다."
+  },
+  "collocations": [
+   "discredit an idea",
+   "discredit someone",
+   "be discredited"
+  ],
+  "related": [
+   "credit",
+   "credible",
+   "incredibly",
+   "credential"
+  ],
+  "tip": "criticize 보다 강함 — '신뢰성 자체를 무너뜨리다'. '나는 그러지 않는다'는 맥락으로 쓰면 안전"
+ },
+ {
+  "id": "d19-A23",
+  "day": 19,
+  "level": 1,
+  "set": "A",
+  "family": "F9",
+  "word": "hear out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌhɪr ˈaʊt/",
+  "meaning_ko": "(끝까지) 말을 들어 주다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hear",
+     "type": "part",
+     "gloss": "듣다"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "끝까지"
+    }
+   ],
+   "story": "끝까지 듣다 → 상대 말을 다 들어 주다"
+  },
+  "example": {
+   "q": "How do you handle a teammate who is upset?",
+   "a": "I hear them out first before I suggest any solution.",
+   "a_ko": "해결책을 말하기 전에 먼저 상대 말을 끝까지 들어 줍니다."
+  },
+  "collocations": [
+   "hear someone out",
+   "hear me out",
+   "fully hear out"
+  ],
+  "related": [
+   "listen",
+   "common ground",
+   "talk through"
+  ],
+  "tip": "목적어는 hear him out 처럼 가운데에. Hear me out = '제 말 끝까지 들어 보세요'"
+ },
+ {
+  "id": "d19-A24",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "common ground",
+  "pos": "noun",
+  "ipa": "/ˌkɑːmən ˈɡraʊnd/",
+  "meaning_ko": "공통점, 합의할 수 있는 지점",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "common",
+     "type": "part",
+     "gloss": "공통의"
+    },
+    {
+     "text": "ground",
+     "type": "part",
+     "gloss": "땅·기반"
+    }
+   ],
+   "story": "함께 설 수 있는 땅 → 서로 동의하는 부분"
+  },
+  "example": {
+   "q": "Tell me about a conflict between two teams.",
+   "a": "Product wanted speed and QA wanted safety, so I found common ground: a staged rollout with automated checks at each step.",
+   "a_ko": "기획은 속도를, QA는 안전을 원해서 단계마다 자동 검사를 두는 단계적 배포라는 공통 지점을 찾았습니다."
+  },
+  "collocations": [
+   "find common ground",
+   "seek common ground",
+   "on common ground"
+  ],
+  "related": [
+   "agree to disagree",
+   "meet halfway",
+   "give and take"
+  ],
+  "tip": "갈등 해결 STAR 답변의 핵심 표현 — find common ground 통째로 외우기"
+ },
+ {
+  "id": "d19-A25",
+  "day": 19,
+  "level": 2,
+  "set": "A",
+  "family": "F9",
+  "word": "agree to disagree",
+  "pos": "phrase",
+  "ipa": "/əˌɡriː tə ˌdɪsəˈɡriː/",
+  "meaning_ko": "서로 다름을 인정하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "agree",
+     "type": "part",
+     "gloss": "동의하다"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~하기로"
+    },
+    {
+     "text": "disagree",
+     "type": "part",
+     "gloss": "의견이 다르다"
+    }
+   ],
+   "story": "의견이 다르다는 데 동의하다 → 다름을 인정하고 넘어가다"
+  },
+  "example": {
+   "q": "What if you and your manager still disagree after a discussion?",
+   "a": "Sometimes we agree to disagree, document both options, and let the metrics decide after the experiment.",
+   "a_ko": "때로는 서로 다름을 인정하고 두 안을 문서로 남긴 뒤, 실험이 끝나면 지표로 결정합니다."
+  },
+  "collocations": [
+   "agree to disagree on",
+   "we agreed to disagree",
+   "have to agree to disagree"
+  ],
+  "related": [
+   "common ground",
+   "see eye to eye",
+   "speak my mind"
+  ],
+  "tip": "포기가 아니라 '관계를 지키며 결론을 미룸' — 다음 행동(데이터 확인 등)을 붙여 말하면 좋음"
+ }
+]

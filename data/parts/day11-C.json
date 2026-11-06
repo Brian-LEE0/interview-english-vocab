@@ -1,0 +1,1151 @@
+[
+ {
+  "id": "d11-C01",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "provided that",
+  "pos": "phrase",
+  "ipa": "/prəˈvaɪdɪd ðæt/",
+  "meaning_ko": "~라는 조건으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞을"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    },
+    {
+     "text": "that",
+     "type": "part",
+     "gloss": "~라는 것"
+    }
+   ],
+   "story": "앞을 내다보고 준비하다(providere) → 미리 정해 둔 조건이면 → ~라는 조건으로"
+  },
+  "example": {
+   "q": "Can you start within three weeks?",
+   "a": "Yes, I can start in three weeks, provided that the relocation package covers my first month of housing.",
+   "a_ko": "네, 이주 지원에 첫 달 숙소비가 포함된다는 조건이라면 3주 뒤에 시작할 수 있습니다."
+  },
+  "collocations": [
+   "provided that",
+   "providing that"
+  ],
+  "related": [
+   "provide",
+   "provision",
+   "proviso",
+   "provisional"
+  ],
+  "tip": "if 보다 조건을 분명히 거는 느낌. 협상에서 조건부 수락을 할 때 좋음"
+ },
+ {
+  "id": "d11-C02",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "provisioning",
+  "pos": "noun",
+  "ipa": "/prəˈvɪʒənɪŋ/",
+  "meaning_ko": "(서버·계정) 프로비저닝, 자원 준비",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞을"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "앞을 내다보고 준비함(provisio) → 필요한 자원을 미리 마련해 둠"
+  },
+  "example": {
+   "q": "How do you manage cloud infrastructure?",
+   "a": "We automated provisioning with Terraform, so a new environment takes ten minutes instead of two days.",
+   "a_ko": "Terraform 으로 프로비저닝을 자동화해서, 새 환경을 만드는 데 이틀이 아니라 10분이면 됩니다."
+  },
+  "collocations": [
+   "automated provisioning",
+   "infrastructure provisioning",
+   "user provisioning"
+  ],
+  "related": [
+   "provision",
+   "provide",
+   "provisional",
+   "vision"
+  ],
+  "tip": "provision 은 동사로 ‘(서버를) 준비하다’ — provision a cluster"
+ },
+ {
+  "id": "d11-C03",
+  "day": 11,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "provisional",
+  "pos": "adjective",
+  "ipa": "/prəˈvɪʒənəl/",
+  "meaning_ko": "임시의, 잠정적인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞을"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "앞을 내다보고 마련해 둔(provisio) → 일단 정해 둔 → 확정 전 임시의"
+  },
+  "example": {
+   "q": "We can send you a provisional offer today, pending reference checks.",
+   "a": "That's great, thank you. While the offer is provisional, could you share which conditions remain, so I can time my resignation correctly?",
+   "a_ko": "감사합니다. 오퍼가 잠정적인 상태인 동안 남은 조건이 무엇인지 알려 주시겠어요? 그래야 퇴사 시점을 제대로 맞출 수 있습니다."
+  },
+  "collocations": [
+   "provisional offer",
+   "provisional approval",
+   "on a provisional basis"
+  ],
+  "related": [
+   "provision",
+   "provide",
+   "proviso",
+   "provisioning"
+  ],
+  "tip": "확정 전 오퍼 단계에서 바로 사표를 내지 않도록 남은 조건을 확인하는 표현과 함께 외우기"
+ },
+ {
+  "id": "d11-C04",
+  "day": 11,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "proviso",
+  "pos": "noun",
+  "ipa": "/prəˈvaɪzoʊ/",
+  "meaning_ko": "단서 (조건)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞을"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다 (videre)"
+    },
+    {
+     "text": "o",
+     "type": "suffix",
+     "gloss": "(라틴어 proviso: ~라는 조건으로)"
+    }
+   ],
+   "story": "라틴어 proviso quod ‘~라고 미리 정해 둔 채로’ → 계약서의 단서 조항"
+  },
+  "example": {
+   "q": "We're open to a fully remote arrangement.",
+   "a": "I'm happy to accept with one proviso: that the company covers travel costs when I need to visit the Seoul office each quarter.",
+   "a_ko": "한 가지 단서를 달고 기꺼이 수락하겠습니다. 분기마다 서울 사무실에 가야 할 때 출장비를 회사가 부담해 주시는 것입니다."
+  },
+  "collocations": [
+   "with one proviso",
+   "with the proviso that",
+   "on the proviso that"
+  ],
+  "related": [
+   "provided that",
+   "provisional",
+   "provide"
+  ],
+  "tip": "발음 /prəˈvaɪzoʊ/ (프러바이조). provided that 의 명사 버전이라고 보면 쉬움"
+ },
+ {
+  "id": "d11-C05",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "theoretical",
+  "pos": "adjective",
+  "ipa": "/ˌθiːəˈretɪkəl/",
+  "meaning_ko": "이론적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "theor",
+     "type": "root",
+     "gloss": "바라보다 (그리스어 theōrein)"
+    },
+    {
+     "text": "etical",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "바라보며 깊이 생각하는(theōrētikos) → 이론의 → 실제가 아닌 이론상의"
+  },
+  "example": {
+   "q": "How strong is your computer science background?",
+   "a": "My degree was quite theoretical, so I balanced it by contributing to open-source projects and shipping real features.",
+   "a_ko": "학위 과정이 꽤 이론 중심이어서, 오픈소스에 기여하고 실제 기능을 출시하면서 균형을 맞췄습니다."
+  },
+  "collocations": [
+   "theoretical background",
+   "purely theoretical",
+   "theoretical knowledge"
+  ],
+  "related": [
+   "theory",
+   "theoretically",
+   "theorem"
+  ],
+  "tip": "theoretical ↔ practical(실무적인)로 대비해서 말하면 좋음"
+ },
+ {
+  "id": "d11-C06",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "synopsis",
+  "pos": "noun",
+  "ipa": "/sɪˈnɑːpsɪs/",
+  "meaning_ko": "개요, 요약",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "syn",
+     "type": "prefix",
+     "gloss": "함께 (그리스어)"
+    },
+    {
+     "text": "ops",
+     "type": "root",
+     "gloss": "봄 (그리스어 opsis)"
+    },
+    {
+     "text": "is",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "한꺼번에 함께 봄 → 전체를 한눈에 보는 것 → 요약"
+  },
+  "example": {
+   "q": "How do you report progress to leadership?",
+   "a": "I send a one-paragraph synopsis every Friday, because executives rarely have time to read full status reports.",
+   "a_ko": "매주 금요일 한 단락짜리 요약을 보내는데, 임원들은 전체 보고서를 읽을 시간이 거의 없기 때문입니다."
+  },
+  "collocations": [
+   "a brief synopsis",
+   "give a synopsis of"
+  ],
+  "related": [
+   "optics",
+   "myopic",
+   "optical"
+  ],
+  "tip": "summary 보다 격식 있음. 복수형은 synopses"
+ },
+ {
+  "id": "d11-C07",
+  "day": 11,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "optics",
+  "pos": "noun",
+  "ipa": "/ˈɑːptɪks/",
+  "meaning_ko": "(남에게) 비치는 모습, 인상",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "opt",
+     "type": "root",
+     "gloss": "보다 (그리스어 optikos)"
+    },
+    {
+     "text": "ics",
+     "type": "suffix",
+     "gloss": "~학"
+    }
+   ],
+   "story": "보는 것에 관한 학문(광학) → 남의 눈에 어떻게 보이는가 → 인상, 모양새"
+  },
+  "example": {
+   "q": "Tell me about a time you considered how a decision would be perceived.",
+   "a": "Rolling back right before the investor demo was technically safe, but the optics were bad, so I explained the reason to stakeholders an hour in advance.",
+   "a_ko": "투자자 데모 직전에 롤백하는 것은 기술적으로는 안전했지만 모양새가 좋지 않아서, 한 시간 전에 이해관계자들에게 이유를 설명했습니다."
+  },
+  "collocations": [
+   "the optics of",
+   "bad optics",
+   "for the optics"
+  ],
+  "related": [
+   "optical",
+   "synopsis",
+   "myopic"
+  ],
+  "tip": "원래 뜻은 ‘광학’. 비즈니스 회화에서는 ‘외부에 비치는 모양새’로 자주 씀"
+ },
+ {
+  "id": "d11-C08",
+  "day": 11,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "myopic",
+  "pos": "adjective",
+  "ipa": "/maɪˈɑːpɪk/",
+  "meaning_ko": "근시안적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "my",
+     "type": "root",
+     "gloss": "감다 (그리스어 myein)"
+    },
+    {
+     "text": "op",
+     "type": "root",
+     "gloss": "눈·보다 (그리스어 ōps)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "눈을 찌푸리고 보는(myōps) → 근시의 → 눈앞의 것만 보는"
+  },
+  "example": {
+   "q": "Tell me about a decision you'd make differently.",
+   "a": "Skipping tests to hit a deadline was a myopic choice; we saved three days but spent two weeks fixing bugs afterward.",
+   "a_ko": "마감을 맞추려고 테스트를 건너뛴 건 근시안적인 선택이었습니다. 사흘을 아꼈지만 그 뒤에 버그를 고치느라 2주를 썼습니다."
+  },
+  "collocations": [
+   "a myopic decision",
+   "a myopic focus on"
+  ],
+  "related": [
+   "optics",
+   "synopsis",
+   "optical"
+  ],
+  "tip": "short-sighted 와 같은 뜻의 격식체. 자기 과거 판단을 돌아볼 때 쓰면 성숙해 보임"
+ },
+ {
+  "id": "d11-C09",
+  "day": 11,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "savvy",
+  "pos": "adjective",
+  "ipa": "/ˈsævi/",
+  "meaning_ko": "(실무에) 밝은, 요령 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "savvy",
+     "type": "root",
+     "gloss": "알다 (라틴어 sapere → 스페인어·포르투갈어 sabe)"
+    }
+   ],
+   "story": "라틴어 sapere(알다) → ‘너 알아?’(sabe) → 잘 아는, 요령 있는"
+  },
+  "example": {
+   "q": "Why should we hire you over other candidates?",
+   "a": "I'm technically strong and business-savvy; in my last role I stopped a feature early by showing it would cost more than it earned.",
+   "a_ko": "기술적으로 강할 뿐 아니라 비즈니스 감각도 있습니다. 지난 직장에서 어떤 기능이 버는 돈보다 비용이 더 든다는 걸 보여 주고 일찍 멈췄습니다."
+  },
+  "collocations": [
+   "tech-savvy",
+   "business-savvy",
+   "savvy users"
+  ],
+  "related": [
+   "sapient",
+   "savor",
+   "Homo sapiens"
+  ],
+  "tip": "tech-savvy(기술에 밝은)처럼 앞에 분야를 붙인 형용사로 많이 씀"
+ },
+ {
+  "id": "d11-C10",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "monitor",
+  "pos": "verb",
+  "ipa": "/ˈmɑːnɪtər/",
+  "meaning_ko": "모니터링하다, 감시하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mon",
+     "type": "root",
+     "gloss": "일깨우다 (monere)"
+    },
+    {
+     "text": "itor",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "일깨워 주는 사람(monitor, 경고자) → 지켜보며 알려 주다 → 감시하다"
+  },
+  "example": {
+   "q": "How do you know your service is healthy?",
+   "a": "I monitor error rates and latency on a shared dashboard.",
+   "a_ko": "공용 대시보드에서 오류율과 지연 시간을 모니터링합니다."
+  },
+  "collocations": [
+   "monitor performance",
+   "monitor closely",
+   "monitor usage"
+  ],
+  "related": [
+   "monitoring",
+   "demonstrate",
+   "demo",
+   "premonition"
+  ],
+  "tip": "명사 모니터(화면)와 같은 단어. 원래 뜻은 ‘경고해 주는 사람’"
+ },
+ {
+  "id": "d11-C11",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "monitoring",
+  "pos": "noun",
+  "ipa": "/ˈmɑːnɪtərɪŋ/",
+  "meaning_ko": "모니터링, 감시 체계",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mon",
+     "type": "root",
+     "gloss": "일깨우다 (monere)"
+    },
+    {
+     "text": "itor",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "지켜보며 일깨워 줌 → 시스템 상태를 계속 지켜보는 체계"
+  },
+  "example": {
+   "q": "What did you improve in your last role?",
+   "a": "We had almost no monitoring, so I set up alerts that warned us before customers noticed any problem.",
+   "a_ko": "모니터링이 거의 없어서, 고객이 문제를 알아채기 전에 저희에게 먼저 경고하는 알림을 구축했습니다."
+  },
+  "collocations": [
+   "monitoring tool",
+   "set up monitoring",
+   "real-time monitoring"
+  ],
+  "related": [
+   "monitor",
+   "demonstrate",
+   "premonition"
+  ],
+  "tip": "observability 와 함께 SRE·DevOps 면접 필수 단어"
+ },
+ {
+  "id": "d11-C12",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "demo",
+  "pos": "noun",
+  "ipa": "/ˈdemoʊ/",
+  "meaning_ko": "시연, 데모",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "demo",
+     "type": "root",
+     "gloss": "시연 (demonstration 을 줄인 말)"
+    }
+   ],
+   "story": "demonstration(완전히 보여 줌)을 줄인 말 → 시연"
+  },
+  "example": {
+   "q": "How do you share progress with stakeholders?",
+   "a": "I give a short demo at the end of every sprint.",
+   "a_ko": "매 스프린트가 끝날 때 짧게 시연을 합니다."
+  },
+  "collocations": [
+   "give a demo",
+   "live demo",
+   "demo day"
+  ],
+  "related": [
+   "demonstrate",
+   "demonstration",
+   "monitor"
+  ],
+  "tip": "동사로도 써서 I'll demo the feature(그 기능을 시연하겠습니다)처럼 말함"
+ },
+ {
+  "id": "d11-C13",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "demonstrate",
+  "pos": "verb",
+  "ipa": "/ˈdemənstreɪt/",
+  "meaning_ko": "보여 주다, 입증하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "monstr",
+     "type": "root",
+     "gloss": "보여 주다 (monstrare ← monere 일깨우다)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "완전히 보여 주다(demonstrare) → 증거로 보여 주다 → 입증하다"
+  },
+  "example": {
+   "q": "How do you show impact in your work?",
+   "a": "I demonstrate impact with numbers, for example by showing that my change cut cloud costs by twenty percent.",
+   "a_ko": "숫자로 성과를 보여 드립니다. 예를 들어 제 변경으로 클라우드 비용이 20% 줄었다는 것을 보여 주는 식입니다."
+  },
+  "collocations": [
+   "demonstrate impact",
+   "demonstrate the value of",
+   "clearly demonstrate"
+  ],
+  "related": [
+   "demo",
+   "monitor",
+   "monitoring"
+  ],
+  "tip": "show 의 격식체. 면접에서 ‘입증했다’를 말할 때"
+ },
+ {
+  "id": "d11-C14",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "remember",
+  "pos": "verb",
+  "ipa": "/rɪˈmembər/",
+  "meaning_ko": "기억하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "member",
+     "type": "root",
+     "gloss": "기억하는 (memor)"
+    }
+   ],
+   "story": "다시 떠올리다(rememorari) → 기억하다"
+  },
+  "example": {
+   "q": "Why did you apply for this role?",
+   "a": "I still remember the first time I used your app in college.",
+   "a_ko": "대학 때 처음 이 앱을 써 본 순간을 아직도 기억합니다."
+  },
+  "collocations": [
+   "I remember when",
+   "remember to",
+   "as far as I remember"
+  ],
+  "related": [
+   "memory",
+   "memorable",
+   "memo",
+   "commemorate"
+  ],
+  "tip": "member(회원, 라틴어 membrum 신체 부위)와는 전혀 다른 어원 — 철자만 같음"
+ },
+ {
+  "id": "d11-C15",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "memory",
+  "pos": "noun",
+  "ipa": "/ˈmeməri/",
+  "meaning_ko": "메모리, 기억",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하는 (memor)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "기억하는 힘(memoria) → 기억 → 컴퓨터의 기억 장치"
+  },
+  "example": {
+   "q": "How did you make the service cheaper to run?",
+   "a": "I reduced memory usage by half by streaming large files.",
+   "a_ko": "큰 파일을 스트리밍으로 처리해서 메모리 사용량을 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "memory usage",
+   "out of memory",
+   "in-memory cache"
+  ],
+  "related": [
+   "remember",
+   "memorable",
+   "memory leak",
+   "memo"
+  ],
+  "tip": "in-memory(메모리 안에서 처리하는)는 캐시·DB 설명에 자주 나옴"
+ },
+ {
+  "id": "d11-C16",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "memory leak",
+  "pos": "noun",
+  "ipa": "/ˈmeməri ˌliːk/",
+  "meaning_ko": "메모리 누수",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하는 (memor)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    },
+    {
+     "text": "leak",
+     "type": "part",
+     "gloss": "새다 (중세 네덜란드어)"
+    }
+   ],
+   "story": "기억 장치가 새는 것 → 다 쓴 메모리를 돌려주지 않아 계속 쌓임"
+  },
+  "example": {
+   "q": "Tell me about a tough production issue.",
+   "a": "Our pods kept restarting every few hours, and I traced it to a memory leak in an unclosed database connection pool.",
+   "a_ko": "파드가 몇 시간마다 재시작됐는데, 닫히지 않은 DB 커넥션 풀의 메모리 누수가 원인이라는 걸 추적해 냈습니다."
+  },
+  "collocations": [
+   "find a memory leak",
+   "fix a memory leak",
+   "cause a memory leak"
+  ],
+  "related": [
+   "memory",
+   "remember",
+   "memorable"
+  ],
+  "tip": "leak 은 동사로도 — The service leaks memory(서비스에서 메모리가 샌다)"
+ },
+ {
+  "id": "d11-C17",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "memorable",
+  "pos": "adjective",
+  "ipa": "/ˈmemərəbəl/",
+  "meaning_ko": "기억에 남는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하는 (memor)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 만한"
+    }
+   ],
+   "story": "기억할 만한(memorabilis) → 기억에 남는"
+  },
+  "example": {
+   "q": "What is your most memorable project?",
+   "a": "My most memorable project was rebuilding our checkout in three weeks.",
+   "a_ko": "가장 기억에 남는 프로젝트는 3주 만에 결제 화면을 다시 만든 일입니다."
+  },
+  "collocations": [
+   "most memorable",
+   "a memorable experience"
+  ],
+  "related": [
+   "memory",
+   "remember",
+   "memo"
+  ],
+  "tip": "‘가장 기억에 남는 ~’ 질문을 그대로 받아서 답하기"
+ },
+ {
+  "id": "d11-C18",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "mention",
+  "pos": "verb",
+  "ipa": "/ˈmenʃən/",
+  "meaning_ko": "언급하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "마음·생각 (mens)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "마음에 떠올리게 함(mentio) → 말로 꺼냄 → 언급하다"
+  },
+  "example": {
+   "q": "Is there anything else you'd like to add?",
+   "a": "Yes, I forgot to mention that I also mentor two junior developers.",
+   "a_ko": "네, 주니어 개발자 두 명을 멘토링하고 있다는 걸 말씀드리는 걸 잊었습니다."
+  },
+  "collocations": [
+   "forget to mention",
+   "as I mentioned",
+   "worth mentioning"
+  ],
+  "related": [
+   "mental",
+   "mentality",
+   "comment",
+   "mental model"
+  ],
+  "tip": "As I mentioned earlier, … 로 앞의 답과 연결하면 답변이 하나로 이어짐"
+ },
+ {
+  "id": "d11-C19",
+  "day": 11,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "comment",
+  "pos": "noun",
+  "ipa": "/ˈkɑːment/",
+  "meaning_ko": "주석, 의견",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히 (con)"
+    },
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "생각하다 (mens 와 같은 뿌리)"
+    }
+   ],
+   "story": "곰곰이 생각해 낸 것(commentum) → 설명·의견 → 코드 주석"
+  },
+  "example": {
+   "q": "How do you make your code easy to maintain?",
+   "a": "I write comments that explain why, not what the code does.",
+   "a_ko": "코드가 무엇을 하는지가 아니라 왜 그렇게 하는지를 주석으로 씁니다."
+  },
+  "collocations": [
+   "leave a comment",
+   "code comments",
+   "review comments"
+  ],
+  "related": [
+   "mention",
+   "mental",
+   "mentality"
+  ],
+  "tip": "리뷰에서 ‘코멘트를 반영했다’는 I addressed the review comments"
+ },
+ {
+  "id": "d11-C20",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "mental model",
+  "pos": "noun",
+  "ipa": "/ˈmentəl ˈmɑːdəl/",
+  "meaning_ko": "머릿속 모형, 이해의 틀",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "마음 (mens)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "model",
+     "type": "part",
+     "gloss": "모형"
+    }
+   ],
+   "story": "마음속(mens)의 모형 → 어떤 일이 어떻게 돌아가는지 머릿속에 그린 그림"
+  },
+  "example": {
+   "q": "How do you get up to speed on a new codebase?",
+   "a": "I draw a quick diagram of the main services to build a mental model before I touch any code.",
+   "a_ko": "코드를 건드리기 전에 주요 서비스를 간단히 그림으로 그려서 머릿속에 구조를 잡습니다."
+  },
+  "collocations": [
+   "build a mental model",
+   "a clear mental model",
+   "update my mental model"
+  ],
+  "related": [
+   "mental",
+   "mention",
+   "mentality",
+   "comment"
+  ],
+  "tip": "기술 설명이나 온보딩 이야기에서 ‘전체 구조를 이해했다’를 세련되게 표현"
+ },
+ {
+  "id": "d11-C21",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "mentality",
+  "pos": "noun",
+  "ipa": "/menˈtæləti/",
+  "meaning_ko": "사고방식, 마인드",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "마음 (mens)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성 (명사)"
+    }
+   ],
+   "story": "마음의(mentalis) 성질 → 사고방식"
+  },
+  "example": {
+   "q": "How would you describe your work style?",
+   "a": "I have an ownership mentality, so if I see a broken process, I fix it instead of waiting for someone else.",
+   "a_ko": "주인 의식을 갖고 일해서, 잘못된 프로세스가 보이면 남을 기다리지 않고 제가 고칩니다."
+  },
+  "collocations": [
+   "ownership mentality",
+   "a team-first mentality",
+   "a 'not my job' mentality"
+  ],
+  "related": [
+   "mental",
+   "mental model",
+   "mention",
+   "comment"
+  ],
+  "tip": "‘마인드’는 콩글리시 — mentality 나 mindset 으로 말하기"
+ },
+ {
+  "id": "d11-C22",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "out of the box",
+  "pos": "phrase",
+  "ipa": "/ˌaʊt əv ðə ˈbɑːks/",
+  "meaning_ko": "별도 설정 없이 바로",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~에서"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "box",
+     "type": "part",
+     "gloss": "상자"
+    }
+   ],
+   "story": "상자에서 꺼내자마자 → 설치·설정 없이 바로 쓸 수 있는"
+  },
+  "example": {
+   "q": "Why did you choose that framework?",
+   "a": "It supports authentication out of the box, so we didn't have to build login from scratch.",
+   "a_ko": "인증 기능을 별도 설정 없이 바로 지원해서, 로그인을 처음부터 만들 필요가 없었습니다."
+  },
+  "collocations": [
+   "works out of the box",
+   "out-of-the-box support"
+  ],
+  "related": [
+   "under the hood",
+   "off-the-shelf",
+   "end-to-end"
+  ],
+  "tip": "think outside the box(틀을 깨고 생각하다)와 헷갈리지 않기"
+ },
+ {
+  "id": "d11-C23",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "throughput",
+  "pos": "noun",
+  "ipa": "/ˈθruːpʊt/",
+  "meaning_ko": "처리량",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "through",
+     "type": "part",
+     "gloss": "통과하여"
+    },
+    {
+     "text": "put",
+     "type": "part",
+     "gloss": "놓다·내보내다"
+    }
+   ],
+   "story": "통과시켜 내보내는 양 → 일정 시간에 처리하는 양"
+  },
+  "example": {
+   "q": "How did you measure the improvement?",
+   "a": "Throughput went from two hundred to nine hundred requests per second after we added batching.",
+   "a_ko": "배치 처리를 넣은 뒤 처리량이 초당 200건에서 900건으로 늘었습니다."
+  },
+  "collocations": [
+   "high throughput",
+   "increase throughput",
+   "throughput and latency"
+  ],
+  "related": [
+   "latency",
+   "bottleneck",
+   "lightweight"
+  ],
+  "tip": "latency(지연 시간)와 짝 — ‘빠르게’와 ‘많이’는 다른 지표"
+ },
+ {
+  "id": "d11-C24",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "spell out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌspel ˈaʊt/",
+  "meaning_ko": "하나하나 분명히 말하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "spell",
+     "type": "part",
+     "gloss": "철자를 말하다 (게르만어에서 온 고대 프랑스어 espeller)"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "철자를 하나하나 말하다 → 빠짐없이 분명하게 설명하다"
+  },
+  "example": {
+   "q": "How do you prevent misunderstandings with other teams?",
+   "a": "I spell out the assumptions and the deadline in writing, so nobody has to guess what was agreed.",
+   "a_ko": "가정과 마감일을 글로 분명히 적어서, 무엇을 합의했는지 아무도 짐작할 필요가 없게 합니다."
+  },
+  "collocations": [
+   "spell out the details",
+   "spell it out",
+   "clearly spelled out"
+  ],
+  "related": [
+   "point out",
+   "walk through",
+   "at a high level"
+  ],
+  "tip": "Let me spell it out 은 ‘아주 쉽게 풀어 말하겠다’ — 윗사람에게는 조금 강하게 들릴 수 있음"
+ },
+ {
+  "id": "d11-C25",
+  "day": 11,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "mirror",
+  "pos": "verb",
+  "ipa": "/ˈmɪrər/",
+  "meaning_ko": "미러링하다, 그대로 복제하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mirr",
+     "type": "root",
+     "gloss": "보다 (mirare ← mirari 놀라서 보다)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 도구"
+    }
+   ],
+   "story": "들여다보는 도구(mireor) → 거울 → 거울처럼 똑같이 복제하다"
+  },
+  "example": {
+   "q": "How did you test the new system safely?",
+   "a": "We mirrored ten percent of production traffic to the new cluster, so we could compare results without affecting users.",
+   "a_ko": "운영 트래픽의 10%를 새 클러스터로 그대로 복제해 보내서, 사용자에게 영향 없이 결과를 비교했습니다."
+  },
+  "collocations": [
+   "mirror traffic",
+   "mirror a repository",
+   "mirror image"
+  ],
+  "related": [
+   "admire",
+   "miracle",
+   "mirage"
+  ],
+  "tip": "명사로는 ‘미러(복제본)’ — a mirror of the repository"
+ }
+]

@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "d16-C01",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "profit sharing",
+    "pos": "noun",
+    "ipa": "/ˈprɑːfɪt ˌʃerɪŋ/",
+    "meaning_ko": "이익 배분 (회사 이익을 직원에게 나누는 제도)",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "fit",
+          "type": "root",
+          "gloss": "만들다 (fic)"
+        },
+        {
+          "text": "sharing",
+          "type": "part",
+          "gloss": "나누기"
+        }
+      ],
+      "story": "profit(proficere 앞으로 나아가다 → 이득) + sharing(나눔) → 회사 이익을 직원과 나누는 제도"
+    },
+    "example": {
+      "q": "Our package includes a base salary and an annual bonus.",
+      "a": "Thanks. Is there also profit sharing, and if so, how has it paid out in recent years?",
+      "a_ko": "감사합니다. 이익 배분 제도도 있나요? 있다면 최근 몇 년간 얼마나 지급됐는지 궁금합니다."
+    },
+    "collocations": [
+      "profit sharing plan",
+      "eligible for profit sharing",
+      "profit sharing payout"
+    ],
+    "related": [
+      "profit",
+      "profitable",
+      "proficient"
+    ],
+    "tip": "보너스와 달리 회사 실적에 연동 — '최근 지급 실적'을 물으면 실제 가치를 알 수 있음"
+  },
+  {
+    "id": "d16-C02",
+    "day": 16,
+    "level": 3,
+    "set": "C",
+    "family": "F6",
+    "word": "forfeit",
+    "pos": "verb",
+    "ipa": "/ˈfɔːrfɪt/",
+    "meaning_ko": "(권리·금액을) 잃다, 몰수당하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "for",
+          "type": "prefix",
+          "gloss": "밖으로 (foris)"
+        },
+        {
+          "text": "feit",
+          "type": "root",
+          "gloss": "하다 (fac)"
+        }
+      ],
+      "story": "중세 라틴어 forisfacere '선 밖으로 나가 행하다(범법)' → 고대 프랑스어 forfait 범법 → 그 대가로 잃는 것 → 몰수당하다"
+    },
+    "example": {
+      "q": "When would you be able to start?",
+      "a": "If I leave before March, I'd forfeit my annual bonus, so I'm hoping we can either push the start date or add a sign-on bonus to offset it.",
+      "a_ko": "3월 전에 퇴사하면 연간 보너스를 못 받게 되어, 입사일을 미루거나 그만큼을 사이닝 보너스로 보전해 주실 수 있으면 합니다."
+    },
+    "collocations": [
+      "forfeit a bonus",
+      "forfeit unvested shares",
+      "forfeit the right to"
+    ],
+    "related": [
+      "feat",
+      "profit sharing",
+      "official"
+    ],
+    "tip": "발음은 '포-핏' /ˈfɔːrfɪt/ (feit를 '페이트'로 읽지 않음). 놓치는 돈을 근거로 보전을 요청할 때"
+  },
+  {
+    "id": "d16-C03",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "format",
+    "pos": "noun",
+    "ipa": "/ˈfɔːrmæt/",
+    "meaning_ko": "형식, 포맷",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "at",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "라틴어 (liber) formatus '(어떤) 형태로 만들어진 (책)' → 정해진 형태 → 형식"
+    },
+    "example": {
+      "q": "How do your services exchange data?",
+      "a": "We use JSON as the default format for all internal APIs.",
+      "a_ko": "모든 사내 API에서 기본 형식으로 JSON을 씁니다."
+    },
+    "collocations": [
+      "data format",
+      "file format",
+      "in a consistent format"
+    ],
+    "related": [
+      "formatter",
+      "transform",
+      "formula"
+    ],
+    "tip": "동사로도 씀: format the output / 면접 형식은 'interview format'"
+  },
+  {
+    "id": "d16-C04",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "formatter",
+    "pos": "noun",
+    "ipa": "/ˈfɔːrmætər/",
+    "meaning_ko": "코드 포매터 (코드 형식을 자동으로 맞추는 도구)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "at",
+          "type": "suffix",
+          "gloss": "~된"
+        },
+        {
+          "text": "ter",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "format(정해진 형태) + -er(~하는 것) → 형태를 맞춰 주는 도구"
+    },
+    "example": {
+      "q": "How do you keep code reviews focused?",
+      "a": "We run a formatter in a pre-commit hook, so reviews focus on logic instead of spacing.",
+      "a_ko": "프리커밋 훅에서 포매터를 돌려서, 리뷰가 띄어쓰기 대신 로직에 집중하게 합니다."
+    },
+    "collocations": [
+      "code formatter",
+      "run the formatter",
+      "auto-formatter"
+    ],
+    "related": [
+      "format",
+      "formula",
+      "transform"
+    ],
+    "tip": "linter(잠재 버그 지적)와 구분: formatter는 모양만 맞춤"
+  },
+  {
+    "id": "d16-C05",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "formula",
+    "pos": "noun",
+    "ipa": "/ˈfɔːrmjələ/",
+    "meaning_ko": "공식, 정해진 방법",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "ula",
+          "type": "suffix",
+          "gloss": "작은 (지소사)"
+        }
+      ],
+      "story": "forma(형태) + -ula(작은) → 작은 틀 → 정해진 규칙·공식"
+    },
+    "example": {
+      "q": "What's the secret to a good team?",
+      "a": "There's no magic formula, but trust and clear goals help a lot.",
+      "a_ko": "마법 같은 공식은 없지만, 신뢰와 명확한 목표가 큰 도움이 됩니다."
+    },
+    "collocations": [
+      "no magic formula",
+      "a formula for success",
+      "simple formula"
+    ],
+    "related": [
+      "format",
+      "formalize",
+      "informed"
+    ],
+    "tip": "'정답은 없다'를 말할 때 'There's no magic formula'가 자연스러운 관용 표현"
+  },
+  {
+    "id": "d16-C06",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "informed",
+    "pos": "adjective",
+    "ipa": "/ɪnˈfɔːrmd/",
+    "meaning_ko": "정보에 근거한, 잘 아는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안에"
+        },
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "informare '형태를 주다, 머릿속에 그려 주다' → inform 알리다 → 알고 있는 → 정보에 근거한"
+    },
+    "example": {
+      "q": "How do you choose a new technology?",
+      "a": "I build a small prototype first, so the team can make an informed decision instead of relying on blog posts.",
+      "a_ko": "먼저 작은 프로토타입을 만들어서, 팀이 블로그 글이 아니라 근거를 갖고 결정하게 합니다."
+    },
+    "collocations": [
+      "informed decision",
+      "keep someone informed",
+      "well-informed"
+    ],
+    "related": [
+      "inform",
+      "formula",
+      "transform"
+    ],
+    "tip": "'keep you informed'(계속 상황 공유하겠다)는 면접 마무리·협업 답변에 유용"
+  },
+  {
+    "id": "d16-C07",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "formality",
+    "pos": "noun",
+    "ipa": "/fɔːrˈmæləti/",
+    "meaning_ko": "형식적인 절차",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "forma(형태) → formal(형식을 갖춘) → 형식을 갖추기 위한 일 → 형식적 절차"
+    },
+    "example": {
+      "q": "The last step is a background check. It's usually just a formality.",
+      "a": "Sure. If it's just a formality, could we tentatively set my start date for early April?",
+      "a_ko": "네. 형식적인 절차라면 입사일을 4월 초로 잠정적으로 정해 둘 수 있을까요?"
+    },
+    "collocations": [
+      "just a formality",
+      "a mere formality",
+      "legal formalities"
+    ],
+    "related": [
+      "formalize",
+      "formal",
+      "format"
+    ],
+    "tip": "리크루터가 'just a formality'라고 해도 소요 기간을 확인해 입사일 계획에 반영하기"
+  },
+  {
+    "id": "d16-C08",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "formalize",
+    "pos": "verb",
+    "ipa": "/ˈfɔːrməlaɪz/",
+    "meaning_ko": "공식화하다, 정식 절차로 만들다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~로 만들다"
+        }
+      ],
+      "story": "formal(형식을 갖춘) + -ize(만들다) → 형식을 갖추게 하다 → 공식화하다"
+    },
+    "example": {
+      "q": "How did you improve onboarding?",
+      "a": "Onboarding depended on whoever was free, so I formalized it into a two-week checklist with a named buddy.",
+      "a_ko": "온보딩이 그때 한가한 사람에게 달려 있어서, 담당 버디가 정해진 2주짜리 체크리스트로 공식화했습니다."
+    },
+    "collocations": [
+      "formalize a process",
+      "formalize an agreement",
+      "formalized review"
+    ],
+    "related": [
+      "formality",
+      "formula",
+      "structured"
+    ],
+    "tip": "'원래 암묵적이던 걸 제도로 만들었다'는 개선 성과를 말할 때"
+  },
+  {
+    "id": "d16-C09",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "transform",
+    "pos": "verb",
+    "ipa": "/trænsˈfɔːrm/",
+    "meaning_ko": "변환하다, 완전히 바꾸다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너서"
+        },
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        }
+      ],
+      "story": "transformare(trans + forma) '형태를 건너가게 하다' → 다른 형태로 바꾸다 → 변환하다"
+    },
+    "example": {
+      "q": "What does your data pipeline do?",
+      "a": "It pulls raw events from Kafka and transforms them into daily tables, so analysts don't have to clean the data themselves.",
+      "a_ko": "Kafka에서 원본 이벤트를 받아 일별 테이블로 변환해서, 분석가가 직접 데이터를 정리할 필요가 없게 합니다."
+    },
+    "collocations": [
+      "transform data",
+      "transform into",
+      "completely transform"
+    ],
+    "related": [
+      "transformation",
+      "format",
+      "informed"
+    ],
+    "tip": "change보다 '형태가 통째로 바뀐다' — ETL의 T가 transform"
+  },
+  {
+    "id": "d16-C10",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "transformation",
+    "pos": "noun",
+    "ipa": "/ˌtrænsfərˈmeɪʃən/",
+    "meaning_ko": "변화, 전환",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "trans",
+          "type": "prefix",
+          "gloss": "건너서"
+        },
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "transform(형태를 바꾸다) + -ation → 형태가 바뀌는 일 → 큰 변화, 전환"
+    },
+    "example": {
+      "q": "Why are you interested in our company?",
+      "a": "You're in the middle of a digital transformation, and I've led a similar cloud migration, so I know where it usually gets stuck.",
+      "a_ko": "귀사가 디지털 전환을 진행 중인데, 저도 비슷한 클라우드 이전을 이끌어 봐서 보통 어디서 막히는지 알고 있습니다."
+    },
+    "collocations": [
+      "digital transformation",
+      "go through a transformation",
+      "cultural transformation"
+    ],
+    "related": [
+      "transform",
+      "formalize",
+      "format"
+    ],
+    "tip": "회사 소개 자료에 자주 나오는 말 — 지원 동기에 회사 상황과 내 경험을 연결할 때"
+  },
+  {
+    "id": "d16-C11",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "cross-platform",
+    "pos": "adjective",
+    "ipa": "/ˌkrɔːs ˈplætfɔːrm/",
+    "meaning_ko": "크로스 플랫폼의 (여러 OS·기기에서 동작하는)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cross",
+          "type": "part",
+          "gloss": "가로질러"
+        },
+        {
+          "text": "plat",
+          "type": "part",
+          "gloss": "평평한 (프랑스어 plat)"
+        },
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        }
+      ],
+      "story": "platform(plat 평평한 + forme 형태 → 평평한 단) + cross(가로질러) → 여러 플랫폼을 넘나드는"
+    },
+    "example": {
+      "q": "Why did your team choose Flutter?",
+      "a": "We needed a cross-platform app for iOS and Android with a team of three, so one codebase made sense.",
+      "a_ko": "세 명이서 iOS와 안드로이드 앱을 모두 만들어야 해서, 코드베이스 하나로 가는 게 합리적이었습니다."
+    },
+    "collocations": [
+      "cross-platform app",
+      "cross-platform support",
+      "cross-platform development"
+    ],
+    "related": [
+      "platform",
+      "format",
+      "transform"
+    ],
+    "tip": "native(플랫폼별 개발)와 대비해서 선택 이유를 말하면 좋음"
+  },
+  {
+    "id": "d16-C12",
+    "day": 16,
+    "level": 3,
+    "set": "C",
+    "family": "F6",
+    "word": "conformance",
+    "pos": "noun",
+    "ipa": "/kənˈfɔːrməns/",
+    "meaning_ko": "(표준·명세) 적합성, 준수",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "form",
+          "type": "root",
+          "gloss": "형태 (forma)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "conformare(con + forma) '같은 형태로 만들다' → conform 따르다 → 명세와 같은 형태임 → 적합성"
+    },
+    "example": {
+      "q": "How did you make sure your OAuth server followed the spec?",
+      "a": "We ran the official conformance test suite in CI, and it caught two edge cases in token refresh that our own tests had missed.",
+      "a_ko": "CI에서 공식 적합성 테스트 묶음을 돌렸는데, 자체 테스트가 놓친 토큰 갱신 엣지 케이스 두 개를 잡아냈습니다."
+    },
+    "collocations": [
+      "conformance test",
+      "conformance with",
+      "spec conformance"
+    ],
+    "related": [
+      "conform",
+      "format",
+      "transform",
+      "cross-platform"
+    ],
+    "tip": "conformity(사람이 남을 따름)와 달리 conformance는 시스템이 표준을 따르는 것"
+  },
+  {
+    "id": "d16-C13",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "generate",
+    "pos": "verb",
+    "ipa": "/ˈdʒenəreɪt/",
+    "meaning_ko": "생성하다, 만들어 내다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gener",
+          "type": "root",
+          "gloss": "낳다 (genus ← gen)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "generare '낳다'(genus 태생·종류에서) → 낳아서 만들어 내다 → 생성하다"
+    },
+    "example": {
+      "q": "How do you keep API clients in sync with the server?",
+      "a": "We generate client code from the OpenAPI spec, so the server and clients never drift apart.",
+      "a_ko": "OpenAPI 명세에서 클라이언트 코드를 생성해서, 서버와 클라이언트가 어긋나지 않게 합니다."
+    },
+    "collocations": [
+      "generate code",
+      "generate reports",
+      "generate revenue"
+    ],
+    "related": [
+      "generative",
+      "generalist",
+      "engineering",
+      "genesis"
+    ],
+    "tip": "비즈니스에서는 generate revenue/leads(매출·리드를 만들어 내다)로도 자주 씀"
+  },
+  {
+    "id": "d16-C14",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "generative",
+    "pos": "adjective",
+    "ipa": "/ˈdʒenərətɪv/",
+    "meaning_ko": "생성형의, 생성하는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gener",
+          "type": "root",
+          "gloss": "낳다 (genus ← gen)"
+        },
+        {
+          "text": "ative",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "generate(낳다, 만들어 내다) + -ive → 새로 만들어 내는 → 생성형의"
+    },
+    "example": {
+      "q": "Have you used AI in your products?",
+      "a": "Yes, I built a support assistant with a generative model, but I kept a human review step for refund requests.",
+      "a_ko": "네, 생성형 모델로 상담 도우미를 만들었는데, 환불 요청에는 사람이 검토하는 단계를 남겨 두었습니다."
+    },
+    "collocations": [
+      "generative AI",
+      "generative model",
+      "generative design"
+    ],
+    "related": [
+      "generate",
+      "genesis",
+      "ingenuity"
+    ],
+    "tip": "generative AI를 썼다면 '어디까지 맡기고 어디서 사람이 검토했는지'까지 말하면 신뢰감"
+  },
+  {
+    "id": "d16-C15",
+    "day": 16,
+    "level": 3,
+    "set": "C",
+    "family": "F6",
+    "word": "genesis",
+    "pos": "noun",
+    "ipa": "/ˈdʒenəsɪs/",
+    "meaning_ko": "기원, 시작",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gen",
+          "type": "root",
+          "gloss": "태어나다 (그리스어 gignesthai)"
+        },
+        {
+          "text": "esis",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "그리스어 genesis '태어남, 생성'(gignesthai 태어나다) → 무언가가 생겨난 시작 → 기원"
+    },
+    "example": {
+      "q": "How did that internal tool come about?",
+      "a": "The genesis of the tool was a spreadsheet I kept for on-call handovers; once three other teams started copying it, I turned it into a proper service.",
+      "a_ko": "그 도구의 시작은 온콜 인수인계용으로 제가 쓰던 스프레드시트였습니다. 다른 세 팀이 그걸 따라 쓰기 시작해서 제대로 된 서비스로 만들었습니다."
+    },
+    "collocations": [
+      "the genesis of",
+      "the project's genesis",
+      "have its genesis in"
+    ],
+    "related": [
+      "generate",
+      "generative",
+      "engineering"
+    ],
+    "tip": "'어떻게 시작됐냐'는 질문에 'The genesis of ~ was …'로 이야기를 열면 인상적"
+  },
+  {
+    "id": "d16-C16",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "generalist",
+    "pos": "noun",
+    "ipa": "/ˈdʒenərəlɪst/",
+    "meaning_ko": "제너럴리스트 (여러 분야를 두루 하는 사람)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gener",
+          "type": "root",
+          "gloss": "종류 (genus ← gen)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "genus(종류) → general(모든 종류에 걸친) → -ist → 한 분야에 국한되지 않는 사람"
+    },
+    "example": {
+      "q": "Would you describe yourself as a specialist or a generalist?",
+      "a": "I'm more of a generalist, since I've worked across backend, infrastructure and some frontend at a small startup.",
+      "a_ko": "작은 스타트업에서 백엔드, 인프라, 일부 프런트엔드까지 해 와서 제너럴리스트에 가깝습니다."
+    },
+    "collocations": [
+      "more of a generalist",
+      "a generalist engineer",
+      "generalist role"
+    ],
+    "related": [
+      "generalize",
+      "generate",
+      "genesis"
+    ],
+    "tip": "specialist와 짝. 'T자형(넓게 + 한 분야 깊게)'이라고 덧붙이면 약점처럼 안 들림"
+  },
+  {
+    "id": "d16-C17",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "generalize",
+    "pos": "verb",
+    "ipa": "/ˈdʒenərəlaɪz/",
+    "meaning_ko": "일반화하다, 범용으로 만들다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "gener",
+          "type": "root",
+          "gloss": "종류 (genus ← gen)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~로 만들다"
+        }
+      ],
+      "story": "general(모든 종류에 걸친) + -ize(만들다) → 특정 경우를 넘어 두루 쓰이게 만들다 → 일반화하다"
+    },
+    "example": {
+      "q": "How did a one-off script become a shared library?",
+      "a": "After the third team asked for it, I generalized the script into a library with clear config options.",
+      "a_ko": "세 번째 팀이 요청한 뒤로 그 스크립트를 설정 옵션이 분명한 라이브러리로 일반화했습니다."
+    },
+    "collocations": [
+      "generalize a solution",
+      "generalize from",
+      "hard to generalize"
+    ],
+    "related": [
+      "generalist",
+      "generate",
+      "formalize"
+    ],
+    "tip": "'성급한 일반화'는 overgeneralize — 데이터 해석 이야기에서 쓰임"
+  },
+  {
+    "id": "d16-C18",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "engineering",
+    "pos": "noun",
+    "ipa": "/ˌendʒɪˈnɪrɪŋ/",
+    "meaning_ko": "엔지니어링, 공학",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "en",
+          "type": "prefix",
+          "gloss": "안에 (in)"
+        },
+        {
+          "text": "gine",
+          "type": "root",
+          "gloss": "타고난 재능 (ingenium ← gen)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하는 일"
+        }
+      ],
+      "story": "ingenium(in + gen '안에 타고난 재주') → engine(재주로 만든 장치) → engineer → 그 일 → 엔지니어링"
+    },
+    "example": {
+      "q": "What do you value in a workplace?",
+      "a": "I value strong engineering practices like code review and testing.",
+      "a_ko": "코드 리뷰와 테스트 같은 탄탄한 엔지니어링 관행을 중요하게 생각합니다."
+    },
+    "collocations": [
+      "engineering culture",
+      "software engineering",
+      "engineering team"
+    ],
+    "related": [
+      "engineer",
+      "ingenuity",
+      "ingenious",
+      "generate"
+    ],
+    "tip": "'개발 문화'는 engineering culture가 가장 자연스러운 영어"
+  },
+  {
+    "id": "d16-C19",
+    "day": 16,
+    "level": 3,
+    "set": "C",
+    "family": "F6",
+    "word": "ingenuity",
+    "pos": "noun",
+    "ipa": "/ˌɪndʒəˈnuːəti/",
+    "meaning_ko": "창의력, 기발한 재주",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안에"
+        },
+        {
+          "text": "genu",
+          "type": "root",
+          "gloss": "태어나다 (gen)"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "라틴어 ingenuitas '타고난 신분, 솔직함'(ingenuus ← in + gen) → 영어에서 ingenious(재주 있는)와 혼동되며 → 기발한 재주"
+    },
+    "example": {
+      "q": "How do you work with limited resources?",
+      "a": "At a startup, ingenuity mattered more than budget: we couldn't afford a search service, so I built one on Postgres full-text search that handled our first million users.",
+      "a_ko": "스타트업에서는 예산보다 창의력이 중요했습니다. 검색 서비스를 살 여유가 없어서 Postgres 전문 검색으로 직접 만들었고 첫 백만 사용자까지 버텼습니다."
+    },
+    "collocations": [
+      "human ingenuity",
+      "a bit of ingenuity",
+      "technical ingenuity"
+    ],
+    "related": [
+      "ingenious",
+      "engineering",
+      "genesis"
+    ],
+    "tip": "형용사는 ingenious(기발한) — ingenuous(순진한)와 철자 혼동 주의"
+  },
+  {
+    "id": "d16-C20",
+    "day": 16,
+    "level": 3,
+    "set": "C",
+    "family": "F6",
+    "word": "congenial",
+    "pos": "adjective",
+    "ipa": "/kənˈdʒiːniəl/",
+    "meaning_ko": "(사람·분위기가) 마음이 맞는, 쾌적한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "geni",
+          "type": "root",
+          "gloss": "타고난 기질 (genius ← gen)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "con(함께) + genius(타고난 기질, gignere 낳다에서) → 기질이 같은 → 마음이 맞는, 쾌적한"
+    },
+    "example": {
+      "q": "What kind of team environment do you work best in?",
+      "a": "I do my best work in a congenial but candid environment, where people are friendly yet still comfortable pointing out problems in a design review.",
+      "a_ko": "친근하면서도 솔직한 환경에서 가장 잘 일합니다. 서로 친절하지만 설계 리뷰에서 문제를 편하게 지적할 수 있는 곳이요."
+    },
+    "collocations": [
+      "congenial atmosphere",
+      "congenial colleagues",
+      "congenial environment"
+    ],
+    "related": [
+      "genesis",
+      "generous",
+      "gentle"
+    ],
+    "tip": "friendly보다 격식 있는 말. candid(솔직한)와 함께 써서 '좋기만 한 팀'이 아님을 보여 주기"
+  },
+  {
+    "id": "d16-C21",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "create",
+    "pos": "verb",
+    "ipa": "/kriˈeɪt/",
+    "meaning_ko": "만들다, 창출하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "creat",
+          "type": "root",
+          "gloss": "만들다 (creare)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "라틴어 creare '만들어 내다, 낳다' → 없던 것을 만들다"
+    },
+    "example": {
+      "q": "What motivates you as an engineer?",
+      "a": "I love to create tools that save my teammates time every day.",
+      "a_ko": "동료들의 시간을 매일 아껴 주는 도구를 만드는 게 정말 좋습니다."
+    },
+    "collocations": [
+      "create value",
+      "create a plan",
+      "create an opportunity"
+    ],
+    "related": [
+      "creativity",
+      "generate",
+      "engineering"
+    ],
+    "tip": "make보다 '새로 만들어 낸다'는 의미가 강함 — create value(가치를 만들다)"
+  },
+  {
+    "id": "d16-C22",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "creativity",
+    "pos": "noun",
+    "ipa": "/ˌkriːeɪˈtɪvəti/",
+    "meaning_ko": "창의성",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "creat",
+          "type": "root",
+          "gloss": "만들다 (creare)"
+        },
+        {
+          "text": "iv",
+          "type": "suffix",
+          "gloss": "~하는"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "creare(만들어 내다) → creative(만들어 내는) → 새것을 만들어 내는 능력 → 창의성"
+    },
+    "example": {
+      "q": "What do you enjoy about problem solving?",
+      "a": "I enjoy that it takes both logic and creativity to find a good solution.",
+      "a_ko": "좋은 해법을 찾으려면 논리와 창의성이 둘 다 필요하다는 점이 좋습니다."
+    },
+    "collocations": [
+      "show creativity",
+      "creativity and logic",
+      "encourage creativity"
+    ],
+    "related": [
+      "create",
+      "ingenuity",
+      "generative"
+    ],
+    "tip": "강점으로 말할 땐 creativity만 말하지 말고 구체적 사례를 바로 붙이기"
+  },
+  {
+    "id": "d16-C23",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "cooperate",
+    "pos": "verb",
+    "ipa": "/koʊˈɑːpəreɪt/",
+    "meaning_ko": "협력하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "prefix",
+          "gloss": "함께 (com)"
+        },
+        {
+          "text": "oper",
+          "type": "root",
+          "gloss": "일하다 (opus 일)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "co(함께) + operari(일하다, opus 일·작품에서) → 함께 일하다 → 협력하다"
+    },
+    "example": {
+      "q": "How do you work with other teams?",
+      "a": "I cooperate closely with QA and agree on test plans early.",
+      "a_ko": "QA와 긴밀히 협력하고 테스트 계획을 일찍 합의합니다."
+    },
+    "collocations": [
+      "cooperate with",
+      "cooperate closely",
+      "fail to cooperate"
+    ],
+    "related": [
+      "operational",
+      "create",
+      "facilitator"
+    ],
+    "tip": "collaborate는 '함께 만든다', cooperate는 '서로 맞춰 돕는다'에 가까움"
+  },
+  {
+    "id": "d16-C24",
+    "day": 16,
+    "level": 1,
+    "set": "C",
+    "family": "F6",
+    "word": "hardcode",
+    "pos": "verb",
+    "ipa": "/ˌhɑːrdˈkoʊd/",
+    "meaning_ko": "하드코딩하다 (값을 코드에 직접 박아 넣다)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hard",
+          "type": "part",
+          "gloss": "단단히, 고정된"
+        },
+        {
+          "text": "code",
+          "type": "part",
+          "gloss": "코드"
+        }
+      ],
+      "story": "hard(단단히 고정된) + code → 바꿀 수 없게 코드 안에 직접 써 넣다"
+    },
+    "example": {
+      "q": "What do you look for in code reviews?",
+      "a": "I flag any secrets or URLs that are hardcoded instead of read from config.",
+      "a_ko": "설정에서 읽지 않고 하드코딩된 비밀 값이나 URL은 꼭 지적합니다."
+    },
+    "collocations": [
+      "hardcoded value",
+      "avoid hardcoding",
+      "hardcode a password"
+    ],
+    "related": [
+      "tech debt",
+      "boilerplate",
+      "format"
+    ],
+    "tip": "hard-code, hard code로도 씀. 반대는 make it configurable"
+  },
+  {
+    "id": "d16-C25",
+    "day": 16,
+    "level": 2,
+    "set": "C",
+    "family": "F6",
+    "word": "tech debt",
+    "pos": "noun",
+    "ipa": "/ˈtek det/",
+    "meaning_ko": "기술 부채",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tech",
+          "type": "part",
+          "gloss": "기술"
+        },
+        {
+          "text": "debt",
+          "type": "part",
+          "gloss": "빚"
+        }
+      ],
+      "story": "technical debt(기술 + 빚) → 빨리 하려고 미뤄 둔 설계 문제가 이자처럼 쌓이는 비용"
+    },
+    "example": {
+      "q": "How do you balance new features and code quality?",
+      "a": "We reserve about twenty percent of each sprint for tech debt, so it never piles up enough to block a release.",
+      "a_ko": "스프린트마다 약 20%를 기술 부채 해소에 배정해서, 릴리스를 막을 만큼 쌓이지 않게 합니다."
+    },
+    "collocations": [
+      "pay down tech debt",
+      "accumulate tech debt",
+      "tech debt backlog"
+    ],
+    "related": [
+      "refactor",
+      "hardcode",
+      "boilerplate"
+    ],
+    "tip": "debt의 b는 묵음 /det/. 1992년 Ward Cunningham의 비유에서 퍼진 말"
+  }
+]

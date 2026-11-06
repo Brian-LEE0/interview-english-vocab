@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "d13-A01",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "status",
+    "pos": "noun",
+    "ipa": "/ˈsteɪtəs/",
+    "meaning_ko": "진행 상황, 지위",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stat",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "us",
+          "type": "suffix",
+          "gloss": "~한 상태 (라틴어 명사 어미)"
+        }
+      ],
+      "story": "서 있는 모양(status) → 처해 있는 상태 → 진행 상황·지위"
+    },
+    "example": {
+      "q": "How do you keep your manager informed?",
+      "a": "I send a short status update every Friday with my progress and blockers.",
+      "a_ko": "매주 금요일에 진행 상황과 막힌 점을 정리한 짧은 현황 보고를 보냅니다."
+    },
+    "collocations": [
+      "status update",
+      "project status",
+      "visa status"
+    ],
+    "related": [
+      "state",
+      "statue",
+      "static",
+      "status quo"
+    ],
+    "tip": "'status update(현황 공유)'는 협업 경험을 말할 때 거의 매번 나오는 표현"
+  },
+  {
+    "id": "d13-A02",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "state",
+    "pos": "noun",
+    "ipa": "/steɪt/",
+    "meaning_ko": "상태, (앱의) 상태 데이터",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "state",
+          "type": "root",
+          "gloss": "서 있는 모양 (status)"
+        }
+      ],
+      "story": "status(서 있는 상태)가 줄어든 말 → 상태 → (IT) 앱이 지금 들고 있는 데이터"
+    },
+    "example": {
+      "q": "How do you handle state in your frontend apps?",
+      "a": "I keep shared state in a single store so every component sees the same data.",
+      "a_ko": "공유 상태는 하나의 스토어에 두어서 모든 컴포넌트가 같은 데이터를 보게 합니다."
+    },
+    "collocations": [
+      "shared state",
+      "state management",
+      "current state"
+    ],
+    "related": [
+      "status",
+      "stateful",
+      "statement",
+      "stateless"
+    ],
+    "tip": "동사로는 '분명히 말하다'(state clearly). 명사 state 는 IT에서 '상태'"
+  },
+  {
+    "id": "d13-A03",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "stable",
+    "pos": "adjective",
+    "ipa": "/ˈsteɪbəl/",
+    "meaning_ko": "안정된, 안정적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sta",
+          "type": "root",
+          "gloss": "서다"
+        },
+        {
+          "text": "ble",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "(흔들림 없이) 서 있을 수 있는(stabilis) → 흔들리지 않는 → 안정된"
+    },
+    "example": {
+      "q": "How would you describe the system you maintain now?",
+      "a": "It's quite stable now; we haven't had a major outage in six months.",
+      "a_ko": "지금은 꽤 안정적입니다. 6개월 동안 큰 장애가 한 번도 없었습니다."
+    },
+    "collocations": [
+      "stable release",
+      "stable version",
+      "remain stable"
+    ],
+    "related": [
+      "stabilize",
+      "establish",
+      "status",
+      "obstacle"
+    ],
+    "tip": "stable release(안정 버전) ↔ beta. 사람에게 쓰면 '침착한·안정된'"
+  },
+  {
+    "id": "d13-A04",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "constantly",
+    "pos": "adverb",
+    "ipa": "/ˈkɑːnstəntli/",
+    "meaning_ko": "끊임없이, 늘",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "stant",
+          "type": "root",
+          "gloss": "서 있는 (sta)"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "꿋꿋이 서 있는(constare) → 변함없는(constant) → 끊임없이"
+    },
+    "example": {
+      "q": "How do you keep your skills up to date?",
+      "a": "I'm constantly learning, mostly through side projects and official documentation.",
+      "a_ko": "주로 사이드 프로젝트와 공식 문서를 통해 늘 배우고 있습니다."
+    },
+    "collocations": [
+      "constantly learning",
+      "constantly changing",
+      "constantly improve"
+    ],
+    "related": [
+      "constant",
+      "instant",
+      "distance",
+      "stable"
+    ],
+    "tip": "always 보다 '쉬지 않고 계속'이라는 느낌이 강함"
+  },
+  {
+    "id": "d13-A05",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "stateful",
+    "pos": "adjective",
+    "ipa": "/ˈsteɪtfəl/",
+    "meaning_ko": "상태를 저장하는 (스테이트풀)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "state",
+          "type": "root",
+          "gloss": "상태 (status)"
+        },
+        {
+          "text": "ful",
+          "type": "suffix",
+          "gloss": "~이 가득한"
+        }
+      ],
+      "story": "상태(state)를 가득 지닌 → 요청 사이에 상태를 기억하는 (↔ stateless)"
+    },
+    "example": {
+      "q": "Which parts of your system were hardest to scale?",
+      "a": "The stateful services were the hardest, so we moved session data to Redis and made the app servers stateless.",
+      "a_ko": "상태를 가진 서비스가 가장 어려워서, 세션 데이터를 Redis로 옮기고 앱 서버를 무상태로 만들었습니다."
+    },
+    "collocations": [
+      "stateful service",
+      "stateful application",
+      "stateful vs stateless"
+    ],
+    "related": [
+      "state",
+      "stateless",
+      "status",
+      "static"
+    ],
+    "tip": "stateless 와 짝으로 쓰면 확장성 설명이 깔끔해짐"
+  },
+  {
+    "id": "d13-A06",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "stabilize",
+    "pos": "verb",
+    "ipa": "/ˈsteɪbəlaɪz/",
+    "meaning_ko": "안정시키다, 안정화하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stabil",
+          "type": "root",
+          "gloss": "굳게 선 (stabilis ← sta)"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "굳게 서 있는(stabilis) → 흔들리지 않게 하다 → 안정화하다"
+    },
+    "example": {
+      "q": "What did you do in your first month on the new team?",
+      "a": "I focused on stabilizing the release pipeline, because flaky tests were blocking deployments almost every day.",
+      "a_ko": "릴리스 파이프라인 안정화에 집중했습니다. 불안정한 테스트 때문에 거의 매일 배포가 막혔기 때문입니다."
+    },
+    "collocations": [
+      "stabilize the system",
+      "stabilize a release",
+      "once things stabilized"
+    ],
+    "related": [
+      "stable",
+      "establish",
+      "status",
+      "constant"
+    ],
+    "tip": "장애 후 'We stabilized the service first, then found the root cause.' 순서로 말하면 좋음"
+  },
+  {
+    "id": "d13-A07",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "substance",
+    "pos": "noun",
+    "ipa": "/ˈsʌbstəns/",
+    "meaning_ko": "실속, 본질",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래에"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ance",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "아래에 서서 받치는 것(substantia) → 본질 → 알맹이·실속"
+    },
+    "example": {
+      "q": "What do you think makes a good presentation?",
+      "a": "I care more about substance than slides, so I start with the data and the decision we need to make.",
+      "a_ko": "슬라이드보다 내용을 더 중시해서, 데이터와 내려야 할 결정부터 정리합니다."
+    },
+    "collocations": [
+      "substance over style",
+      "lack substance",
+      "in substance"
+    ],
+    "related": [
+      "substantial",
+      "substantiate",
+      "circumstance",
+      "instance"
+    ],
+    "tip": "substance over style(겉모습보다 내용) — 자신의 업무 방식을 말할 때 쓰기 좋은 표현"
+  },
+  {
+    "id": "d13-A08",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "statistical",
+    "pos": "adjective",
+    "ipa": "/stəˈtɪstɪkəl/",
+    "meaning_ko": "통계의, 통계적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stat",
+          "type": "root",
+          "gloss": "상태·나라 (status)"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "나라의 상태(status)를 숫자로 정리하는 학문(statistics) → 통계의"
+    },
+    "example": {
+      "q": "How did you decide which version of the feature to keep?",
+      "a": "We ran an A/B test for two weeks and shipped the new flow only after we reached statistical significance.",
+      "a_ko": "2주 동안 A/B 테스트를 돌려 통계적 유의성이 확인된 뒤에야 새 흐름을 배포했습니다."
+    },
+    "collocations": [
+      "statistical significance",
+      "statistical analysis",
+      "statistical model"
+    ],
+    "related": [
+      "statistics",
+      "status",
+      "state",
+      "static"
+    ],
+    "tip": "statistical significance(통계적 유의성)는 A/B 테스트 설명의 필수 표현"
+  },
+  {
+    "id": "d13-A09",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "statically",
+    "pos": "adverb",
+    "ipa": "/ˈstætɪkli/",
+    "meaning_ko": "정적으로 (실행 전에)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stat",
+          "type": "root",
+          "gloss": "서게 하다 (그리스어 sta)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "서게 하는·멈춰 있는(statikos) → 움직이지 않는(static) → (IT) 실행 전에 정해지는"
+    },
+    "example": {
+      "q": "Which languages do you prefer for large projects?",
+      "a": "I prefer statically typed languages like TypeScript, because the compiler catches many bugs before they reach production.",
+      "a_ko": "TypeScript 같은 정적 타입 언어를 선호합니다. 컴파일러가 많은 버그를 운영 전에 잡아 주기 때문입니다."
+    },
+    "collocations": [
+      "statically typed",
+      "statically linked",
+      "statically analyze"
+    ],
+    "related": [
+      "static",
+      "status",
+      "state",
+      "system"
+    ],
+    "tip": "statically typed(정적 타입) ↔ dynamically typed(동적 타입)"
+  },
+  {
+    "id": "d13-A10",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "well-established",
+    "pos": "adjective",
+    "ipa": "/ˌwel ɪˈstæblɪʃt/",
+    "meaning_ko": "자리를 잘 잡은, 확고한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "well",
+          "type": "part",
+          "gloss": "잘"
+        },
+        {
+          "text": "establ",
+          "type": "root",
+          "gloss": "단단히 세우다 (stabilis ← sta)"
+        },
+        {
+          "text": "ish",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "단단히 서게 하다(establish) → 잘 세워진 → 오래 자리 잡은·확고한"
+    },
+    "example": {
+      "q": "Why are you interested in our company?",
+      "a": "You're a well-established company, but you still move fast, and I want to learn from that balance.",
+      "a_ko": "자리를 잘 잡은 회사인데도 여전히 빠르게 움직이는데, 그 균형을 배우고 싶습니다."
+    },
+    "collocations": [
+      "well-established company",
+      "well-established practice",
+      "well-established process"
+    ],
+    "related": [
+      "establish",
+      "stable",
+      "stabilize",
+      "status"
+    ],
+    "tip": "회사를 칭찬하며 지원 동기를 말할 때 자연스럽게 쓸 수 있음"
+  },
+  {
+    "id": "d13-A11",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "subsystem",
+    "pos": "noun",
+    "ipa": "/ˈsʌbsɪstəm/",
+    "meaning_ko": "하위 시스템",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래"
+        },
+        {
+          "text": "sy",
+          "type": "prefix",
+          "gloss": "함께 (syn)"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "세우다 (그리스어 sta)"
+        },
+        {
+          "text": "em",
+          "type": "suffix",
+          "gloss": "~것 (-ma)"
+        }
+      ],
+      "story": "함께 세워 놓은 것(systema) → 체계 → 그 아래의 작은 체계"
+    },
+    "example": {
+      "q": "Which part of the platform did you own?",
+      "a": "I owned the payment subsystem, which handled refunds and settlement for about two million orders a month.",
+      "a_ko": "결제 하위 시스템을 담당했는데, 한 달에 약 200만 건 주문의 환불과 정산을 처리했습니다."
+    },
+    "collocations": [
+      "payment subsystem",
+      "storage subsystem",
+      "each subsystem"
+    ],
+    "related": [
+      "system",
+      "systemic",
+      "ecosystem",
+      "status"
+    ],
+    "tip": "큰 시스템에서 내 담당 범위를 정확히 말할 때 유용"
+  },
+  {
+    "id": "d13-A12",
+    "day": 13,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "status quo",
+    "pos": "phrase",
+    "ipa": "/ˌsteɪtəs ˈkwoʊ/",
+    "meaning_ko": "현재 상태, 기존 방식",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "status",
+          "type": "root",
+          "gloss": "상태 (sta)"
+        },
+        {
+          "text": "quo",
+          "type": "part",
+          "gloss": "그 안에 있던 (라틴어 'in which')"
+        }
+      ],
+      "story": "in statu quo(그 전에 있던 상태로) → 지금 그대로의 상태 → 기존 관행"
+    },
+    "example": {
+      "q": "Tell me about a time you challenged the way things were done.",
+      "a": "Our team accepted two-hour builds as the status quo, so I profiled the pipeline and cut build time to twenty minutes.",
+      "a_ko": "팀은 2시간짜리 빌드를 당연하게 여겼는데, 제가 파이프라인을 분석해서 빌드 시간을 20분으로 줄였습니다."
+    },
+    "collocations": [
+      "challenge the status quo",
+      "maintain the status quo",
+      "accept the status quo"
+    ],
+    "related": [
+      "status",
+      "state",
+      "stable",
+      "constant"
+    ],
+    "tip": "challenge the status quo(기존 방식에 도전하다)는 주도성을 보여 주는 단골 표현"
+  },
+  {
+    "id": "d13-A13",
+    "day": 13,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "substantiate",
+    "pos": "verb",
+    "ipa": "/səbˈstænʃieɪt/",
+    "meaning_ko": "(근거로) 입증하다, 뒷받침하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래에"
+        },
+        {
+          "text": "stanti",
+          "type": "root",
+          "gloss": "서 있는 것 (substantia ← sta)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "아래에서 받치는 실체(substantia) → 실체를 주다 → 근거로 입증하다"
+    },
+    "example": {
+      "q": "You said you improved performance. Can you be more specific?",
+      "a": "Sure, let me substantiate that with numbers: p95 latency dropped from 800 to 300 milliseconds, and checkout errors fell by half.",
+      "a_ko": "네, 숫자로 뒷받침하겠습니다. p95 지연 시간이 800밀리초에서 300밀리초로 줄었고, 결제 오류는 절반으로 줄었습니다."
+    },
+    "collocations": [
+      "substantiate a claim",
+      "substantiate with data",
+      "fully substantiated"
+    ],
+    "related": [
+      "substance",
+      "substantial",
+      "instance",
+      "circumstance"
+    ],
+    "tip": "back up 보다 격식 있는 말. 성과를 숫자로 증명할 때 씀"
+  },
+  {
+    "id": "d13-A14",
+    "day": 13,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "obstacle",
+    "pos": "noun",
+    "ipa": "/ˈɑːbstəkəl/",
+    "meaning_ko": "장애물, 걸림돌",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ob",
+          "type": "prefix",
+          "gloss": "앞을 막아"
+        },
+        {
+          "text": "sta",
+          "type": "root",
+          "gloss": "서다"
+        },
+        {
+          "text": "cle",
+          "type": "suffix",
+          "gloss": "~것 (-culum)"
+        }
+      ],
+      "story": "앞을 가로막고 서 있는 것(obstaculum) → 장애물·걸림돌"
+    },
+    "example": {
+      "q": "What was the biggest obstacle in your last project?",
+      "a": "The biggest obstacle was a legacy database with no documentation, so I spent the first week mapping its schema with the original author.",
+      "a_ko": "가장 큰 걸림돌은 문서가 없는 레거시 데이터베이스여서, 첫 주에 원래 작성자와 함께 스키마를 정리했습니다."
+    },
+    "collocations": [
+      "overcome an obstacle",
+      "the biggest obstacle",
+      "remove obstacles"
+    ],
+    "related": [
+      "stable",
+      "status",
+      "constant",
+      "obstinate"
+    ],
+    "tip": "장애물 + 내가 한 행동 + 결과까지 이어서 말하면 STAR 답변이 됨"
+  },
+  {
+    "id": "d13-A15",
+    "day": 13,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "systemic",
+    "pos": "adjective",
+    "ipa": "/sɪˈstemɪk/",
+    "meaning_ko": "구조적인, 시스템 전반의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sy",
+          "type": "prefix",
+          "gloss": "함께 (syn)"
+        },
+        {
+          "text": "st",
+          "type": "root",
+          "gloss": "세우다 (그리스어 sta)"
+        },
+        {
+          "text": "em",
+          "type": "suffix",
+          "gloss": "~것 (-ma)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "함께 세워 놓은 것(system) 전체의 → 일부가 아니라 구조 전체에 걸친"
+    },
+    "example": {
+      "q": "How do you approach recurring incidents?",
+      "a": "If the same incident happens twice, I treat it as a systemic issue and fix the process, not just the symptom.",
+      "a_ko": "같은 장애가 두 번 일어나면 구조적인 문제로 보고, 증상만이 아니라 프로세스를 고칩니다."
+    },
+    "collocations": [
+      "systemic issue",
+      "systemic risk",
+      "systemic problem"
+    ],
+    "related": [
+      "system",
+      "subsystem",
+      "systematic",
+      "ecosystem"
+    ],
+    "tip": "systematic(체계적인)과 다름: systemic 은 '시스템 전체에 퍼진'"
+  },
+  {
+    "id": "d13-A16",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "persistent",
+    "pos": "adjective",
+    "ipa": "/pərˈsɪstənt/",
+    "meaning_ko": "끈기 있는, 지속되는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "끝까지"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "끝까지 버티고 서 있는(persistere) → 끈질긴 → (IT) 계속 남아 있는"
+    },
+    "example": {
+      "q": "What's one of your strengths?",
+      "a": "I'm persistent. When a bug is hard to reproduce, I keep narrowing it down until I find the real cause.",
+      "a_ko": "끈기가 있습니다. 재현하기 어려운 버그도 진짜 원인을 찾을 때까지 계속 범위를 좁혀 갑니다."
+    },
+    "collocations": [
+      "persistent effort",
+      "persistent storage",
+      "persistent issue"
+    ],
+    "related": [
+      "persistence",
+      "consistent",
+      "assist",
+      "resist"
+    ],
+    "tip": "강점으로 말할 때는 stubborn(고집 센)이 아니라 persistent(끈기 있는)"
+  },
+  {
+    "id": "d13-A17",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "permanently",
+    "pos": "adverb",
+    "ipa": "/ˈpɜːrmənəntli/",
+    "meaning_ko": "영구적으로, 완전히",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "끝까지"
+        },
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "머물다 (manere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "끝까지 머무는(permanent) → 영구적인 → 영구적으로"
+    },
+    "example": {
+      "q": "How do you handle user data deletion requests?",
+      "a": "We permanently delete the data within thirty days, including backups.",
+      "a_ko": "백업을 포함해 30일 안에 데이터를 영구 삭제합니다."
+    },
+    "collocations": [
+      "permanently delete",
+      "permanently fix",
+      "permanently remove"
+    ],
+    "related": [
+      "permanent",
+      "remain",
+      "remainder",
+      "remnant"
+    ],
+    "tip": "IT에서는 '되돌릴 수 없게' 지울 때 자주 씀"
+  },
+  {
+    "id": "d13-A18",
+    "day": 13,
+    "level": 3,
+    "set": "A",
+    "family": "F3",
+    "word": "remnant",
+    "pos": "noun",
+    "ipa": "/ˈremnənt/",
+    "meaning_ko": "남은 부분, 잔재",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "mn",
+          "type": "root",
+          "gloss": "머물다 (manere, 철자 줄어듦)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "뒤에 남아 머무는 것(remanoir, remenant) → 남은 조각·잔재"
+    },
+    "example": {
+      "q": "What did you find when you joined the team?",
+      "a": "There were remnants of three abandoned frameworks in the codebase, so I proposed a cleanup plan and removed them over two sprints.",
+      "a_ko": "코드베이스에 버려진 프레임워크 세 개의 잔재가 남아 있어서, 정리 계획을 제안하고 두 스프린트에 걸쳐 걷어 냈습니다."
+    },
+    "collocations": [
+      "remnants of",
+      "legacy remnants",
+      "the last remnant"
+    ],
+    "related": [
+      "remain",
+      "remainder",
+      "permanent",
+      "permanently"
+    ],
+    "tip": "remain 과 같은 뿌리. 레거시 코드 정리 경험을 말할 때 좋음"
+  },
+  {
+    "id": "d13-A19",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "relocation",
+    "pos": "noun",
+    "ipa": "/ˌriːloʊˈkeɪʃən/",
+    "meaning_ko": "이주, 근무지 이동",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "다시 자리를 정함(relocate) → 사는 곳·근무지를 옮김 → 이주"
+    },
+    "example": {
+      "q": "This role is based in Tokyo. Would you need support moving?",
+      "a": "Yes, I'd appreciate relocation support, especially for the first month of housing.",
+      "a_ko": "네, 이주 지원을 받을 수 있다면 감사하겠습니다. 특히 첫 달 주거 비용이요."
+    },
+    "collocations": [
+      "relocation package",
+      "relocation support",
+      "relocation allowance"
+    ],
+    "related": [
+      "relocate",
+      "location",
+      "local",
+      "allocate"
+    ],
+    "tip": "relocation package(이주 지원 패키지)는 해외 취업 오퍼에서 꼭 확인할 항목"
+  },
+  {
+    "id": "d13-A20",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "allocate",
+    "pos": "verb",
+    "ipa": "/ˈæləkeɪt/",
+    "meaning_ko": "배분하다, 할당하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "al",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소에 두다 (locus)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "어떤 곳에 놓아 두다(allocare) → 몫을 정해 나누어 주다 → 배분하다"
+    },
+    "example": {
+      "q": "How do you manage your time when you have several projects?",
+      "a": "I allocate my mornings to deep work on the main project, and I batch meetings and reviews in the afternoon.",
+      "a_ko": "오전은 메인 프로젝트에 집중하는 시간으로 배분하고, 회의와 리뷰는 오후에 몰아서 합니다."
+    },
+    "collocations": [
+      "allocate time",
+      "allocate resources",
+      "allocate memory"
+    ],
+    "related": [
+      "allocation",
+      "location",
+      "local",
+      "relocate"
+    ],
+    "tip": "assign 은 '사람에게 일을 맡기다', allocate 는 '자원·시간을 나누어 배정하다'"
+  },
+  {
+    "id": "d13-A21",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "allocation",
+    "pos": "noun",
+    "ipa": "/ˌæləˈkeɪʃən/",
+    "meaning_ko": "배정(량), 할당",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "al",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소에 두다 (locus)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "어떤 곳에 놓아 둠 → 몫을 나누어 줌 → 배정량·할당"
+    },
+    "example": {
+      "q": "The offer includes an equity grant as part of the package.",
+      "a": "Thank you. Could you explain the equity allocation and how it vests over the four years?",
+      "a_ko": "감사합니다. 주식 배정 규모와 4년 동안 어떻게 베스팅되는지 설명해 주실 수 있을까요?"
+    },
+    "collocations": [
+      "equity allocation",
+      "budget allocation",
+      "resource allocation"
+    ],
+    "related": [
+      "allocate",
+      "location",
+      "relocation",
+      "local"
+    ],
+    "tip": "오퍼에서 스톡옵션·RSU를 물을 때 'equity allocation' 이라고 하면 정확함"
+  },
+  {
+    "id": "d13-A22",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "co-located",
+    "pos": "adjective",
+    "ipa": "/koʊˈloʊkeɪtɪd/",
+    "meaning_ko": "한곳에 모여 있는, 같은 장소에 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "ated",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "함께 같은 장소에 놓인 → 같은 사무실(장소)에 모여 있는"
+    },
+    "example": {
+      "q": "Have you worked with distributed teams?",
+      "a": "Yes. My last team wasn't co-located, so we relied on clear written specs and three hours of overlap each day.",
+      "a_ko": "네. 지난 팀은 한곳에 모여 있지 않아서, 명확한 문서와 하루 세 시간의 겹치는 근무 시간에 의지했습니다."
+    },
+    "collocations": [
+      "co-located team",
+      "fully co-located",
+      "co-located with"
+    ],
+    "related": [
+      "location",
+      "local",
+      "allocate",
+      "relocate"
+    ],
+    "tip": "remote ↔ co-located. 원격·분산 팀 경험을 비교할 때 씀"
+  },
+  {
+    "id": "d13-A23",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "get along",
+    "pos": "phrasal verb",
+    "ipa": "/ɡet əˈlɔːŋ/",
+    "meaning_ko": "잘 지내다, 사이좋게 일하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "get",
+          "type": "part",
+          "gloss": "~이 되다"
+        },
+        {
+          "text": "along",
+          "type": "part",
+          "gloss": "나란히·함께"
+        }
+      ],
+      "story": "함께 나란히(along) 가게 되다 → 사이좋게 지내다"
+    },
+    "example": {
+      "q": "How do you work with people who have different styles?",
+      "a": "I get along well with most people because I listen first and ask questions.",
+      "a_ko": "먼저 듣고 질문하는 편이라 대부분의 사람과 잘 지냅니다."
+    },
+    "collocations": [
+      "get along with",
+      "get along well",
+      "get along with everyone"
+    ],
+    "related": [
+      "team player",
+      "teamwork",
+      "work with"
+    ],
+    "tip": "get along with + 사람. 협업 질문의 가장 기본 답변 표현"
+  },
+  {
+    "id": "d13-A24",
+    "day": 13,
+    "level": 1,
+    "set": "A",
+    "family": "F3",
+    "word": "team lead",
+    "pos": "noun",
+    "ipa": "/ˈtiːm liːd/",
+    "meaning_ko": "팀 리드, 팀장",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "team",
+          "type": "part",
+          "gloss": "팀"
+        },
+        {
+          "text": "lead",
+          "type": "part",
+          "gloss": "이끄는 사람"
+        }
+      ],
+      "story": "팀(team)을 이끄는 사람(lead) → 팀 리드"
+    },
+    "example": {
+      "q": "What's your current role?",
+      "a": "I'm a team lead for four engineers, and I still write code every day.",
+      "a_ko": "엔지니어 네 명을 맡은 팀 리드이고, 지금도 매일 코드를 씁니다."
+    },
+    "collocations": [
+      "team lead role",
+      "act as team lead",
+      "tech lead"
+    ],
+    "related": [
+      "teammate",
+      "teamwork",
+      "lead"
+    ],
+    "tip": "manager 와 달리 실무도 하면서 팀을 이끄는 역할을 말할 때"
+  },
+  {
+    "id": "d13-A25",
+    "day": 13,
+    "level": 2,
+    "set": "A",
+    "family": "F3",
+    "word": "buy-in",
+    "pos": "noun",
+    "ipa": "/ˈbaɪ ɪn/",
+    "meaning_ko": "(다른 사람들의) 동의·지지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "buy",
+          "type": "part",
+          "gloss": "사다"
+        },
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "안으로·참여"
+        }
+      ],
+      "story": "생각을 사서 안으로 들어오다 → 계획에 동의하고 함께하기로 함"
+    },
+    "example": {
+      "q": "How did you get other teams to adopt your tool?",
+      "a": "I got buy-in by running a two-week pilot with one team and sharing the time savings with everyone.",
+      "a_ko": "한 팀과 2주간 시범 운영을 하고 절약된 시간을 모두에게 공유해서 동의를 얻었습니다."
+    },
+    "collocations": [
+      "get buy-in",
+      "stakeholder buy-in",
+      "buy-in from"
+    ],
+    "related": [
+      "sign off",
+      "alignment",
+      "agree"
+    ],
+    "tip": "get buy-in from leadership(경영진의 지지를 얻다) — 설득 경험 답변의 핵심 표현"
+  }
+]

@@ -1,0 +1,1167 @@
+[
+ {
+  "id": "d11-D01",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "sense",
+  "pos": "noun",
+  "ipa": "/sens/",
+  "meaning_ko": "감각, 느낌",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다 (sentire)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 sensus)"
+    }
+   ],
+   "story": "느끼는 것(sensus) → 감각 → 판단력, ~감"
+  },
+  "example": {
+   "q": "What do you bring to a team?",
+   "a": "I bring a strong sense of ownership to every project.",
+   "a_ko": "모든 프로젝트에 강한 주인 의식을 가지고 임합니다."
+  },
+  "collocations": [
+   "a sense of ownership",
+   "a sense of humor",
+   "in a sense"
+  ],
+  "related": [
+   "make sense",
+   "sensor",
+   "sensitive",
+   "resentment"
+  ],
+  "tip": "a sense of ~ 는 ‘~감·~의식’ — sense of responsibility(책임감)"
+ },
+ {
+  "id": "d11-D02",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "make sense",
+  "pos": "phrase",
+  "ipa": "/ˌmeɪk ˈsens/",
+  "meaning_ko": "이해가 되다, 말이 되다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "make",
+     "type": "part",
+     "gloss": "만들다"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다 (sentire)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 sensus)"
+    }
+   ],
+   "story": "뜻(sense)을 만들어 내다 → 이해가 되다, 말이 되다"
+  },
+  "example": {
+   "q": "Do you have any questions about the role?",
+   "a": "That makes sense, but could you tell me more about the on-call rotation?",
+   "a_ko": "이해됩니다. 그런데 온콜 순번에 대해 조금 더 말씀해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "make sense",
+   "Does that make sense?",
+   "it makes sense to"
+  ],
+  "related": [
+   "sense",
+   "sensible",
+   "sensor"
+  ],
+  "tip": "설명 끝에 Does that make sense? 로 상대 이해를 확인하면 소통 능력이 드러남"
+ },
+ {
+  "id": "d11-D03",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "sense of urgency",
+  "pos": "noun",
+  "ipa": "/ˌsens əv ˈɜːrdʒənsi/",
+  "meaning_ko": "긴박감, 서두르는 자세",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다 (sentire)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 sensus)"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "urgency",
+     "type": "part",
+     "gloss": "긴급함 (라틴어 urgere 밀어붙이다)"
+    }
+   ],
+   "story": "급하다는 느낌 → 일을 미루지 않고 바로 움직이는 자세"
+  },
+  "example": {
+   "q": "How do you behave during a production incident?",
+   "a": "I act with a sense of urgency, but I still post every change in the incident channel so nothing gets lost.",
+   "a_ko": "긴박감을 갖고 움직이되, 놓치는 것이 없도록 모든 변경을 장애 채널에 공유합니다."
+  },
+  "collocations": [
+   "a sense of urgency",
+   "create a sense of urgency"
+  ],
+  "related": [
+   "sense",
+   "make sense",
+   "sensitive"
+  ],
+  "tip": "‘빠르지만 침착하게’를 말할 때 with a sense of urgency, but … 구조가 좋음"
+ },
+ {
+  "id": "d11-D04",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "case-sensitive",
+  "pos": "adjective",
+  "ipa": "/ˌkeɪs ˈsensətɪv/",
+  "meaning_ko": "대소문자를 구분하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "case",
+     "type": "part",
+     "gloss": "활자 상자 (upper/lower case 대·소문자)"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는 성질의"
+    }
+   ],
+   "story": "인쇄소 활자 상자(위 칸 대문자, 아래 칸 소문자) → 대·소문자에 민감한 → 구분하는"
+  },
+  "example": {
+   "q": "What caused the login bug you mentioned?",
+   "a": "Email lookups were case-sensitive, so users who typed a capital letter couldn't log in; I normalized everything to lowercase.",
+   "a_ko": "이메일 조회가 대소문자를 구분해서 대문자를 섞어 입력한 사용자가 로그인을 못 했습니다. 그래서 전부 소문자로 정규화했습니다."
+  },
+  "collocations": [
+   "case-sensitive search",
+   "case-sensitive comparison"
+  ],
+  "related": [
+   "sensitive",
+   "sense",
+   "sensor",
+   "time-sensitive"
+  ],
+  "tip": "반대말은 case-insensitive. 파일 시스템·DB 비교 설명에 자주 나옴"
+ },
+ {
+  "id": "d11-D05",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "time-sensitive",
+  "pos": "adjective",
+  "ipa": "/ˌtaɪm ˈsensətɪv/",
+  "meaning_ko": "기한이 정해진, 시간이 촉박한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는 성질의"
+    }
+   ],
+   "story": "시간에 민감한 → 기한이 정해져 빨리 처리해야 하는"
+  },
+  "example": {
+   "q": "Just so you know, this offer is time-sensitive and expires on Friday.",
+   "a": "Thanks for letting me know. I understand it's time-sensitive, so could we extend the deadline to next Wednesday while I finish another process?",
+   "a_ko": "알려 주셔서 감사합니다. 기한이 있다는 점은 이해합니다. 다른 채용 절차를 마무리하는 동안 기한을 다음 주 수요일까지 연장해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "time-sensitive offer",
+   "time-sensitive matter",
+   "time-sensitive request"
+  ],
+  "related": [
+   "sensitive",
+   "case-sensitive",
+   "sense"
+  ],
+  "tip": "기한 있는 오퍼에는 감사 → 이해 → 구체적인 날짜 순으로 연장을 요청"
+ },
+ {
+  "id": "d11-D06",
+  "day": 11,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "resentment",
+  "pos": "noun",
+  "ipa": "/rɪˈzentmənt/",
+  "meaning_ko": "서운함, 억울함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·강하게"
+    },
+    {
+     "text": "sent",
+     "type": "root",
+     "gloss": "느끼다 (sentire)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "강하게 다시 느끼다(ressentir) → 서운함이 쌓임 → 억울함, 분개"
+  },
+  "example": {
+   "q": "Tell me about a conflict with a colleague.",
+   "a": "A teammate felt resentment because I had rewritten his module without asking, so I apologized and we agreed to discuss big changes first.",
+   "a_ko": "제가 묻지 않고 동료의 모듈을 다시 짜서 동료가 서운해했습니다. 그래서 사과하고, 큰 변경은 먼저 논의하기로 합의했습니다."
+  },
+  "collocations": [
+   "build up resentment",
+   "without resentment",
+   "cause resentment"
+  ],
+  "related": [
+   "resent",
+   "sense",
+   "sentence",
+   "consent"
+  ],
+  "tip": "동사 resent(분개하다)의 명사형. 갈등 질문에서는 감정을 인정하고 해결로 이어 가기"
+ },
+ {
+  "id": "d11-D07",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "acquainted",
+  "pos": "adjective",
+  "ipa": "/əˈkweɪntɪd/",
+  "meaning_ko": "잘 아는, 익숙한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "quaint",
+     "type": "root",
+     "gloss": "알다 (cognit)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "~을 알게 된(accognitare) → 잘 알게 된 → 익숙한"
+  },
+  "example": {
+   "q": "How familiar are you with our tech stack?",
+   "a": "I'm well acquainted with Go and Kafka, since I used both every day in my last role.",
+   "a_ko": "지난 직장에서 매일 썼기 때문에 Go 와 Kafka 에 아주 익숙합니다."
+  },
+  "collocations": [
+   "well acquainted with",
+   "get acquainted with",
+   "become acquainted with"
+  ],
+  "related": [
+   "acquaint",
+   "recognize",
+   "cognitive",
+   "notice"
+  ],
+  "tip": "familiar with 와 같은 뜻. well acquainted with ~ 로 쓰면 자신감 있게 들림"
+ },
+ {
+  "id": "d11-D08",
+  "day": 11,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "cognitive bias",
+  "pos": "noun",
+  "ipa": "/ˈkɑːɡnətɪv ˈbaɪəs/",
+  "meaning_ko": "인지 편향",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "완전히 (con)"
+    },
+    {
+     "text": "gn",
+     "type": "root",
+     "gloss": "알다 (gnoscere)"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는 성질의"
+    },
+    {
+     "text": "bias",
+     "type": "part",
+     "gloss": "비스듬함 (프랑스어 biais)"
+    }
+   ],
+   "story": "알아 가는 과정(cognitio)이 한쪽으로 기울어짐 → 판단을 비뚤게 만드는 생각의 버릇"
+  },
+  "example": {
+   "q": "How do you avoid bad decisions in design reviews?",
+   "a": "I watch for cognitive biases like sunk-cost thinking, so I ask the team whether we'd still choose this design if we were starting today.",
+   "a_ko": "매몰 비용 같은 인지 편향을 경계해서, 오늘 처음 시작한다면 그래도 이 설계를 고를지 팀에 묻습니다."
+  },
+  "collocations": [
+   "a cognitive bias",
+   "avoid cognitive biases",
+   "cognitive biases like"
+  ],
+  "related": [
+   "cognitive",
+   "recognize",
+   "cognizant",
+   "diagnosis"
+  ],
+  "tip": "대표 예: confirmation bias(확증 편향), sunk cost fallacy(매몰 비용 오류)"
+ },
+ {
+  "id": "d11-D09",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "diagnosis",
+  "pos": "noun",
+  "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+  "meaning_ko": "진단, 원인 분석",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dia",
+     "type": "prefix",
+     "gloss": "구별하여·꿰뚫어 (그리스어)"
+    },
+    {
+     "text": "gno",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "sis",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "꿰뚫어 알아냄(diagnōsis) → 병의 진단 → 문제 원인 분석"
+  },
+  "example": {
+   "q": "How did you handle the slow database last year?",
+   "a": "My diagnosis started with the slow query log, which showed that one missing index was causing most of the load.",
+   "a_ko": "느린 쿼리 로그부터 분석을 시작했는데, 인덱스 하나가 빠져서 부하 대부분이 생기고 있었습니다."
+  },
+  "collocations": [
+   "initial diagnosis",
+   "make a diagnosis",
+   "quick diagnosis"
+  ],
+  "related": [
+   "diagnose",
+   "diagnostic",
+   "agnostic",
+   "cognitive bias"
+  ],
+  "tip": "복수형은 diagnoses /-siːz/. 동사 diagnose 와 짝"
+ },
+ {
+  "id": "d11-D10",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "unnoticed",
+  "pos": "adjective",
+  "ipa": "/ʌnˈnoʊtɪst/",
+  "meaning_ko": "모르고 지나간, 눈에 띄지 않은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (gno → no)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~함 (notitia)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "알아차려지지 않은 → 모르고 지나간"
+  },
+  "example": {
+   "q": "Why did you add more alerting?",
+   "a": "A disk-space problem once went unnoticed for a week, so I added alerts for every critical resource.",
+   "a_ko": "디스크 용량 문제가 일주일 동안 아무도 모르게 지나간 적이 있어서, 중요한 자원마다 알림을 추가했습니다."
+  },
+  "collocations": [
+   "go unnoticed",
+   "pass unnoticed",
+   "remain unnoticed"
+  ],
+  "related": [
+   "notice",
+   "notify",
+   "notion",
+   "notoriously"
+  ],
+  "tip": "go unnoticed(모르고 지나가다)를 한 덩어리로 외우기"
+ },
+ {
+  "id": "d11-D11",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "short notice",
+  "pos": "noun",
+  "ipa": "/ˌʃɔːrt ˈnoʊtɪs/",
+  "meaning_ko": "촉박한 통보",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "short",
+     "type": "part",
+     "gloss": "짧은"
+    },
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (gno → no)"
+    },
+    {
+     "text": "ice",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "짧은 알림 기간 → 갑작스럽게 알려 줌"
+  },
+  "example": {
+   "q": "The team was hoping you could join next week. Is that possible?",
+   "a": "Next week is very short notice for my current employer, but I could start in two weeks if that works for you.",
+   "a_ko": "다음 주는 지금 회사에 너무 촉박한 통보가 되지만, 괜찮으시다면 2주 뒤에는 시작할 수 있습니다."
+  },
+  "collocations": [
+   "on short notice",
+   "at short notice",
+   "very short notice"
+  ],
+  "related": [
+   "notice",
+   "notify",
+   "unnoticed",
+   "notion"
+  ],
+  "tip": "미국식은 on short notice, 영국식은 at short notice"
+ },
+ {
+  "id": "d11-D12",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "story",
+  "pos": "noun",
+  "ipa": "/ˈstɔːri/",
+  "meaning_ko": "이야기, 경험담",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "story",
+     "type": "root",
+     "gloss": "알아낸 이야기 (historia → 고대 프랑스어 estoire)"
+    }
+   ],
+   "story": "그리스어 historia(보고 알아낸 것) → 앞소리가 떨어져 estoire → 이야기"
+  },
+  "example": {
+   "q": "Can you tell me about yourself?",
+   "a": "Sure, my story starts with fixing computers for my neighbors in high school.",
+   "a_ko": "네, 제 이야기는 고등학교 때 이웃들의 컴퓨터를 고쳐 주던 데서 시작합니다."
+  },
+  "collocations": [
+   "tell a story",
+   "user story",
+   "a short story"
+  ],
+  "related": [
+   "history",
+   "storytelling",
+   "video",
+   "vision"
+  ],
+  "tip": "IT 에서는 user story(사용자 관점의 요구사항)로도 자주 씀. history 와 뿌리가 같은 쌍둥이 단어"
+ },
+ {
+  "id": "d11-D13",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "storytelling",
+  "pos": "noun",
+  "ipa": "/ˈstɔːriˌtelɪŋ/",
+  "meaning_ko": "이야기로 풀어 설명하기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "story",
+     "type": "root",
+     "gloss": "알아낸 이야기 (historia)"
+    },
+    {
+     "text": "tell",
+     "type": "part",
+     "gloss": "말하다 (고대 영어)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "이야기(story)를 말하기 → 사실을 흐름 있는 이야기로 전달하기"
+  },
+  "example": {
+   "q": "How do you get buy-in for technical projects?",
+   "a": "I rely on storytelling: I start with one real customer complaint, then show how the refactor would prevent it.",
+   "a_ko": "이야기로 풀어 설명합니다. 실제 고객 불만 하나로 시작해서, 리팩터링이 그것을 어떻게 막는지 보여 줍니다."
+  },
+  "collocations": [
+   "data storytelling",
+   "good storytelling",
+   "storytelling skills"
+  ],
+  "related": [
+   "story",
+   "history",
+   "video"
+  ],
+  "tip": "data storytelling(데이터로 이야기하기)은 분석·PM 직무 면접 단골 표현"
+ },
+ {
+  "id": "d11-D14",
+  "day": 11,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "introspective",
+  "pos": "adjective",
+  "ipa": "/ˌɪntrəˈspektɪv/",
+  "meaning_ko": "자기 성찰적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "intro",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "안을 들여다보는(introspicere) → 자기 마음을 돌아보는 → 성찰적인"
+  },
+  "example": {
+   "q": "How do you grow as an engineer?",
+   "a": "I'm fairly introspective, so after every project I write down three things I'd change, and I review that list before starting the next one.",
+   "a_ko": "저는 스스로를 꽤 돌아보는 편이라, 프로젝트가 끝날 때마다 바꾸고 싶은 점 세 가지를 적고 다음 프로젝트 전에 그 목록을 다시 봅니다."
+  },
+  "collocations": [
+   "fairly introspective",
+   "an introspective person"
+  ],
+  "related": [
+   "introspection",
+   "retrospective",
+   "inspect",
+   "respect"
+  ],
+  "tip": "명사 introspection 과 짝. 내성적인(introverted)과는 다른 말 — 스스로를 돌아본다는 뜻"
+ },
+ {
+  "id": "d11-D15",
+  "day": 11,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "tamper-evident",
+  "pos": "adjective",
+  "ipa": "/ˌtæmpər ˈevɪdənt/",
+  "meaning_ko": "변조 여부가 드러나는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tamper",
+     "type": "part",
+     "gloss": "함부로 손대다"
+    },
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "손댄 흔적이 밖으로 보이는(evident) → 변조되면 바로 드러나는"
+  },
+  "example": {
+   "q": "How did you secure the audit trail?",
+   "a": "We made the logs tamper-evident by chaining each entry's hash to the previous one, so any edit would break verification immediately.",
+   "a_ko": "각 기록의 해시를 이전 기록과 연결해서 로그를 변조 여부가 드러나게 만들었고, 어떤 수정이든 즉시 검증에 실패하도록 했습니다."
+  },
+  "collocations": [
+   "tamper-evident logs",
+   "tamper-evident seal"
+  ],
+  "related": [
+   "evident",
+   "self-evident",
+   "evidence-based",
+   "video"
+  ],
+  "tip": "tamper-proof(변조 불가)보다 현실적인 약속 — ‘못 바꾸게’가 아니라 ‘바꾸면 티 나게’"
+ },
+ {
+  "id": "d11-D16",
+  "day": 11,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "envisage",
+  "pos": "verb",
+  "ipa": "/ɪnˈvɪzɪdʒ/",
+  "meaning_ko": "(앞일을) 예상하다, 구상하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~ 속에"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다 (visus)"
+    },
+    {
+     "text": "age",
+     "type": "suffix",
+     "gloss": "~것 (visage 얼굴)"
+    }
+   ],
+   "story": "얼굴(visage)을 마주 보다(envisager) → 앞일을 똑바로 내다보다 → 예상하다"
+  },
+  "example": {
+   "q": "We'd like to bring you in as a senior engineer.",
+   "a": "That sounds great. How do you envisage the path to staff level, and would the next salary review reflect that timeline?",
+   "a_ko": "좋습니다. 스태프 레벨로 가는 경로를 어떻게 예상하고 계신지, 그리고 다음 연봉 조정에 그 일정이 반영되는지 궁금합니다."
+  },
+  "collocations": [
+   "how do you envisage",
+   "envisage a timeline"
+  ],
+  "related": [
+   "envision",
+   "vision",
+   "visit",
+   "advisor"
+  ],
+  "tip": "envision 과 거의 같은 뜻이지만 영국식에서 더 흔함. 상대의 계획을 물을 때 How do you envisage ~?"
+ },
+ {
+  "id": "d11-D17",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "optical",
+  "pos": "adjective",
+  "ipa": "/ˈɑːptɪkəl/",
+  "meaning_ko": "광학의, 빛·이미지로 읽는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "opt",
+     "type": "root",
+     "gloss": "보다 (그리스어 optikos)"
+    },
+    {
+     "text": "ical",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "보는 것에 관한(optikos) → 눈·빛의 → 광학의"
+  },
+  "example": {
+   "q": "Have you worked with document processing?",
+   "a": "Yes, I used optical character recognition to extract totals from scanned invoices, which saved the finance team hours every week.",
+   "a_ko": "네, 광학 문자 인식(OCR)으로 스캔한 청구서에서 합계를 뽑아내서, 재무팀이 매주 몇 시간씩 아낄 수 있었습니다."
+  },
+  "collocations": [
+   "optical character recognition",
+   "optical fiber",
+   "optical sensor"
+  ],
+  "related": [
+   "optics",
+   "synopsis",
+   "myopic"
+  ],
+  "tip": "OCR 의 O 가 optical. optical illusion(착시)도 함께"
+ },
+ {
+  "id": "d11-D18",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "memo",
+  "pos": "noun",
+  "ipa": "/ˈmemoʊ/",
+  "meaning_ko": "(설계) 메모, 짧은 문서",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memo",
+     "type": "root",
+     "gloss": "기억할 것 (memorandum 을 줄인 말, memor)"
+    }
+   ],
+   "story": "라틴어 memorandum(기억해야 할 것) → 줄여서 memo → 짧은 업무 문서"
+  },
+  "example": {
+   "q": "How do you propose big technical changes?",
+   "a": "I write a short design memo and share it before the meeting.",
+   "a_ko": "짧은 설계 문서를 써서 회의 전에 공유합니다."
+  },
+  "collocations": [
+   "design memo",
+   "write a memo",
+   "internal memo"
+  ],
+  "related": [
+   "memory",
+   "remember",
+   "memorable"
+  ],
+  "tip": "Amazon 의 six-page memo 처럼 회사 문서 문화를 이야기할 때도 나옴"
+ },
+ {
+  "id": "d11-D19",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "theory",
+  "pos": "noun",
+  "ipa": "/ˈθɪri/",
+  "meaning_ko": "가설, 이론",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "theor",
+     "type": "root",
+     "gloss": "바라보다 (그리스어 theōrein)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "바라봄·숙고(theōria) → 생각으로 세운 설명 → 이론, 가설"
+  },
+  "example": {
+   "q": "How did you find the cause of the slowdown?",
+   "a": "My theory was a missing index, and the query plan proved it.",
+   "a_ko": "인덱스가 빠졌다는 게 제 가설이었는데, 쿼리 실행 계획으로 증명됐습니다."
+  },
+  "collocations": [
+   "in theory",
+   "my theory is",
+   "test a theory"
+  ],
+  "related": [
+   "theoretical",
+   "theorem",
+   "theorize"
+  ],
+  "tip": "In theory … but in practice …(이론상은 ~지만 실제로는 ~) 구조로 자주 씀"
+ },
+ {
+  "id": "d11-D20",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "theorem",
+  "pos": "noun",
+  "ipa": "/ˈθɪrəm/",
+  "meaning_ko": "정리 (증명된 원리)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "theor",
+     "type": "root",
+     "gloss": "바라보다 (그리스어 theōrein)"
+    },
+    {
+     "text": "em",
+     "type": "suffix",
+     "gloss": "~한 것 (theōrēma)"
+    }
+   ],
+   "story": "바라보며 숙고한 것(theōrēma) → 증명할 명제 → 정리"
+  },
+  "example": {
+   "q": "How do you think about consistency in distributed systems?",
+   "a": "Because of the CAP theorem, we had to pick availability over strict consistency for the shopping cart during network partitions.",
+   "a_ko": "CAP 정리 때문에, 네트워크 분할 상황에서 장바구니는 엄격한 일관성보다 가용성을 택해야 했습니다."
+  },
+  "collocations": [
+   "CAP theorem",
+   "prove a theorem"
+  ],
+  "related": [
+   "theory",
+   "theoretical",
+   "theorize"
+  ],
+  "tip": "CAP theorem 은 분산 시스템 면접 필수. 발음 /ˈθɪrəm/ (씨어럼)"
+ },
+ {
+  "id": "d11-D21",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "admire",
+  "pos": "verb",
+  "ipa": "/ədˈmaɪər/",
+  "meaning_ko": "존경하다, 감탄하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~을 (ad)"
+    },
+    {
+     "text": "mir",
+     "type": "root",
+     "gloss": "놀라서 보다 (mirari)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(동사 어미)"
+    }
+   ],
+   "story": "~을 놀라서 바라보다(admirari) → 감탄하다 → 존경하다"
+  },
+  "example": {
+   "q": "Why do you want to work here?",
+   "a": "I admire how your team writes clear, honest engineering blog posts.",
+   "a_ko": "귀사 팀이 명확하고 솔직한 기술 블로그 글을 쓰는 점을 존경합니다."
+  },
+  "collocations": [
+   "I admire how",
+   "admire someone for",
+   "really admire"
+  ],
+  "related": [
+   "mirror",
+   "miracle",
+   "admirable"
+  ],
+  "tip": "지원 동기에서 회사의 구체적인 점을 I admire how ~ 로 말하면 진정성 있게 들림"
+ },
+ {
+  "id": "d11-D22",
+  "day": 11,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "audience",
+  "pos": "noun",
+  "ipa": "/ˈɔːdiəns/",
+  "meaning_ko": "청중, 대상 독자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "aud",
+     "type": "root",
+     "gloss": "듣다 (audire)"
+    },
+    {
+     "text": "ience",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "듣는 것(audientia) → 듣는 사람들 → 청중"
+  },
+  "example": {
+   "q": "How do you explain technical topics?",
+   "a": "I adjust the level of detail to my audience.",
+   "a_ko": "듣는 사람에 맞춰 설명의 깊이를 조절합니다."
+  },
+  "collocations": [
+   "target audience",
+   "a non-technical audience",
+   "know your audience"
+  ],
+  "related": [
+   "audit",
+   "audio",
+   "auditor"
+  ],
+  "tip": "a non-technical audience(비개발자 청중)는 소통 능력 질문의 단골 표현"
+ },
+ {
+  "id": "d11-D23",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "audit",
+  "pos": "noun",
+  "ipa": "/ˈɔːdɪt/",
+  "meaning_ko": "감사, 점검 (기록)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "aud",
+     "type": "root",
+     "gloss": "듣다 (audire)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~함 (auditus)"
+    }
+   ],
+   "story": "듣기(auditus) → 회계 보고를 들어서 확인하던 일 → 감사, 점검"
+  },
+  "example": {
+   "q": "How do you handle security compliance?",
+   "a": "I added audit logs for every admin action, which made our SOC 2 audit much faster to pass.",
+   "a_ko": "모든 관리자 작업에 감사 로그를 남기도록 했고, 덕분에 SOC 2 감사를 훨씬 빠르게 통과했습니다."
+  },
+  "collocations": [
+   "audit log",
+   "security audit",
+   "pass an audit"
+  ],
+  "related": [
+   "audience",
+   "audio",
+   "auditor"
+  ],
+  "tip": "audit log(감사 로그)는 ‘누가 언제 무엇을 했는지’ 기록 — 보안·규정 준수 질문에 필수"
+ },
+ {
+  "id": "d11-D24",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "zoom out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌzuːm ˈaʊt/",
+  "meaning_ko": "한 발 물러나 크게 보다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "zoom",
+     "type": "part",
+     "gloss": "윙 하는 소리 (의성어) → 확대·축소"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "카메라를 줌아웃하다 → 세부에서 물러나 전체를 보다"
+  },
+  "example": {
+   "q": "How do you explain a complex incident to executives?",
+   "a": "I zoom out first and explain the business impact, then go into technical details only if they ask.",
+   "a_ko": "먼저 한 발 물러나 비즈니스 영향을 설명하고, 질문이 있을 때만 기술적인 세부로 들어갑니다."
+  },
+  "collocations": [
+   "zoom out for a second",
+   "zoom out and look at"
+  ],
+  "related": [
+   "drill down",
+   "at a high level",
+   "in a nutshell"
+  ],
+  "tip": "반대는 zoom in on ~(~을 집중해서 들여다보다)"
+ },
+ {
+  "id": "d11-D25",
+  "day": 11,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "lightweight",
+  "pos": "adjective",
+  "ipa": "/ˈlaɪtweɪt/",
+  "meaning_ko": "가벼운, 부담이 적은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "light",
+     "type": "part",
+     "gloss": "가벼운"
+    },
+    {
+     "text": "weight",
+     "type": "part",
+     "gloss": "무게"
+    }
+   ],
+   "story": "무게가 가벼운 → (IT) 자원을 적게 쓰는, 절차가 간단한"
+  },
+  "example": {
+   "q": "Why did you pick that library?",
+   "a": "We needed something lightweight for the mobile app, so I chose a small library with no extra dependencies.",
+   "a_ko": "모바일 앱에 쓸 가벼운 것이 필요해서, 추가 의존성이 없는 작은 라이브러리를 골랐습니다."
+  },
+  "collocations": [
+   "lightweight library",
+   "lightweight process",
+   "lightweight container"
+  ],
+  "related": [
+   "heavyweight",
+   "throughput",
+   "out of the box"
+  ],
+  "tip": "lightweight process(가벼운 절차)처럼 팀 프로세스를 설명할 때도 씀"
+ }
+]

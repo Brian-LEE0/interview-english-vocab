@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "d20-B01",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "rate",
+    "pos": "noun",
+    "ipa": "/reɪt/",
+    "meaning_ko": "비율, 속도, 요금",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "셈하다, 정하다 (reri, ratus)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "셈해서 정한 몫 (pro rata) → 일정한 비율 → 속도·요금"
+    },
+    "example": {
+      "q": "What was the impact of your change?",
+      "a": "We cut the error rate from two percent to under half a percent.",
+      "a_ko": "에러율을 2%에서 0.5% 미만으로 낮췄습니다."
+    },
+    "collocations": [
+      "error rate",
+      "success rate",
+      "hourly rate"
+    ],
+    "related": [
+      "ratio",
+      "rational",
+      "prorate",
+      "rate limit"
+    ],
+    "tip": "비율(rate)과 비(ratio)를 구별. 요금·시급(hourly rate)에도 씀"
+  },
+  {
+    "id": "d20-B02",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "rate limit",
+    "pos": "noun",
+    "ipa": "/ˈreɪt ˌlɪmɪt/",
+    "meaning_ko": "요청 수 제한, 속도 제한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "셈하다 (reri, ratus)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        },
+        {
+          "text": " limit",
+          "type": "part",
+          "gloss": "경계 (limes)"
+        }
+      ],
+      "story": "정해진 비율에 경계를 둠 → 일정 시간 동안 허용하는 요청 수의 상한"
+    },
+    "example": {
+      "q": "How did you protect your public API from abuse?",
+      "a": "I added a rate limit per API key, so one noisy client could no longer slow down everyone else.",
+      "a_ko": "API 키마다 요청 수 제한을 걸어서, 요청이 많은 클라이언트 하나가 다른 모든 사용자를 느리게 만들지 못하게 했습니다."
+    },
+    "collocations": [
+      "hit the rate limit",
+      "apply a rate limit"
+    ],
+    "related": [
+      "rate",
+      "ratio",
+      "rational"
+    ],
+    "tip": "동사처럼 rate-limit (요청을 제한하다), 명사 rate limiting 도 씀"
+  },
+  {
+    "id": "d20-B03",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "rational",
+    "pos": "adjective",
+    "ipa": "/ˈræʃənəl/",
+    "meaning_ko": "이성적인, 합리적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "셈하다 (ratio ← reri)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "셈(ratio)에 맞는 → 이치에 맞는 → 이성적인"
+    },
+    "example": {
+      "q": "How do you stay calm during a heated technical debate?",
+      "a": "I try to keep the discussion rational by writing down each option's costs, so we compare facts instead of opinions.",
+      "a_ko": "선택지마다 비용을 적어 두고 의견이 아니라 사실을 비교하도록 해서, 논의를 이성적으로 유지하려고 합니다."
+    },
+    "collocations": [
+      "rational decision",
+      "stay rational"
+    ],
+    "related": [
+      "ratio",
+      "rationale",
+      "rate",
+      "reason"
+    ],
+    "tip": "발음은 '래셔널'. rationale(근거, Day 10)과 철자·강세가 다름"
+  },
+  {
+    "id": "d20-B04",
+    "day": 20,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "prorate",
+    "pos": "verb",
+    "ipa": "/proʊˈreɪt/",
+    "meaning_ko": "(기간에 비례해) 나누어 계산하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "~에 따라"
+        },
+        {
+          "text": "rat",
+          "type": "root",
+          "gloss": "셈한 몫 (rata ← reri)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "pro rata(셈한 몫에 따라) → 기간·비율에 맞춰 나누어 계산하다"
+    },
+    "example": {
+      "q": "Your first-year bonus would be prorated based on your start date.",
+      "a": "That makes sense. Since I'd join in October, could you confirm the prorated amount, so I can compare it with my current bonus?",
+      "a_ko": "이해합니다. 10월에 입사하게 되니, 지금 받는 보너스와 비교할 수 있도록 비례 계산된 금액을 확인해 주실 수 있을까요?"
+    },
+    "collocations": [
+      "prorated bonus",
+      "prorated salary",
+      "on a prorated basis"
+    ],
+    "related": [
+      "rate",
+      "ratio",
+      "pro rata"
+    ],
+    "tip": "입사 첫해 보너스·휴가가 '일한 기간만큼'만 나올 때 듣는 말. 주로 수동태 be prorated"
+  },
+  {
+    "id": "d20-B05",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantifiable",
+    "pos": "adjective",
+    "ipa": "/ˈkwɑːntəfaɪəbəl/",
+    "meaning_ko": "수치로 나타낼 수 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "ifi",
+          "type": "suffix",
+          "gloss": "~로 만들다 (facere)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "얼마인지로 만들 수 있는 → 수치로 잴 수 있는"
+    },
+    "example": {
+      "q": "What are you most proud of in your current role?",
+      "a": "I'm proudest of results that are quantifiable, like cutting our page load time by 40 percent last quarter.",
+      "a_ko": "지난 분기에 페이지 로딩 시간을 40% 줄인 것처럼, 수치로 보여 줄 수 있는 성과가 가장 자랑스럽습니다."
+    },
+    "collocations": [
+      "quantifiable results",
+      "quantifiable impact"
+    ],
+    "related": [
+      "quantify",
+      "quantity",
+      "quantitative",
+      "quantifier"
+    ],
+    "tip": "성과를 말할 때 'quantifiable impact' + 숫자를 바로 붙이면 설득력이 큼"
+  },
+  {
+    "id": "d20-B06",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "quantifier",
+    "pos": "noun",
+    "ipa": "/ˈkwɑːntəfaɪər/",
+    "meaning_ko": "(정규식) 수량자, 한정사",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantus)"
+        },
+        {
+          "text": "ifi",
+          "type": "suffix",
+          "gloss": "~로 만들다 (facere)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "얼마만큼인지 정하는 것 → 반복 횟수를 정하는 기호"
+    },
+    "example": {
+      "q": "Have you ever found a performance bug in a regular expression?",
+      "a": "Yes, a greedy quantifier was backtracking on long inputs, so I made it lazy and the CPU spikes disappeared.",
+      "a_ko": "네, 탐욕적 수량자가 긴 입력에서 역추적을 하고 있어서, 게으른 수량자로 바꿨더니 CPU 급증이 사라졌습니다."
+    },
+    "collocations": [
+      "greedy quantifier",
+      "lazy quantifier"
+    ],
+    "related": [
+      "quantify",
+      "quantifiable",
+      "quantity"
+    ],
+    "tip": "정규식의 *, +, ?, {n} 이 quantifier. 논리학에서는 '모든/어떤'(양화사)"
+  },
+  {
+    "id": "d20-B07",
+    "day": 20,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "quantization",
+    "pos": "noun",
+    "ipa": "/ˌkwɑːntəˈzeɪʃən/",
+    "meaning_ko": "양자화 (모델·데이터 정밀도를 줄이기)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "quant",
+          "type": "root",
+          "gloss": "얼마나 (quantum ← quantus)"
+        },
+        {
+          "text": "iz",
+          "type": "suffix",
+          "gloss": "~로 만들다"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "정해진 양(quantum) 단위로 나누다 → 값을 더 적은 단계로 줄여 표현하기"
+    },
+    "example": {
+      "q": "How did you deploy the model on edge devices?",
+      "a": "We applied 8-bit quantization, which shrank the model by about 75 percent while keeping accuracy within one point of the original.",
+      "a_ko": "8비트 양자화를 적용해서, 정확도를 원래 모델과 1포인트 이내로 유지하면서 모델 크기를 약 75% 줄였습니다."
+    },
+    "collocations": [
+      "model quantization",
+      "8-bit quantization"
+    ],
+    "related": [
+      "quantum",
+      "quantity",
+      "quantify",
+      "quantifier"
+    ],
+    "tip": "AI 경량화 이야기에 필수. quantize(동사)도 같이 기억"
+  },
+  {
+    "id": "d20-B08",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "benefit",
+    "pos": "noun",
+    "ipa": "/ˈbenəfɪt/",
+    "meaning_ko": "이점, 복리후생",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bene",
+          "type": "root",
+          "gloss": "좋게 (bene)"
+        },
+        {
+          "text": "fit",
+          "type": "root",
+          "gloss": "하다 (facere)"
+        }
+      ],
+      "story": "좋은 일을 해 줌 (benefactum) → 도움 → 이점, 회사가 주는 혜택"
+    },
+    "example": {
+      "q": "What would you bring to our team?",
+      "a": "The main benefit is that I've run this exact stack in production.",
+      "a_ko": "가장 큰 장점은 제가 이 기술 스택을 실제 운영 환경에서 써 봤다는 점입니다."
+    },
+    "collocations": [
+      "the main benefit",
+      "benefit from",
+      "benefits package"
+    ],
+    "related": [
+      "beneficial",
+      "benign",
+      "bonus",
+      "benevolent"
+    ],
+    "tip": "복수 benefits 는 '복리후생'. 단수는 '이점'. 동사로 benefit from ~(덕을 보다)"
+  },
+  {
+    "id": "d20-B09",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "beneficial",
+    "pos": "adjective",
+    "ipa": "/ˌbenəˈfɪʃəl/",
+    "meaning_ko": "유익한, 도움이 되는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bene",
+          "type": "root",
+          "gloss": "좋게 (bene)"
+        },
+        {
+          "text": "fic",
+          "type": "root",
+          "gloss": "하다 (facere)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "좋은 일을 하는 → 이로운 → 유익한"
+    },
+    "example": {
+      "q": "Why do you think pair programming is useful?",
+      "a": "Pair programming was beneficial for our new hires, because they learned our codebase twice as fast as when they worked alone.",
+      "a_ko": "페어 프로그래밍은 신입에게 특히 유익했습니다. 혼자 일할 때보다 코드베이스를 두 배 빨리 익혔기 때문입니다."
+    },
+    "collocations": [
+      "mutually beneficial",
+      "beneficial for",
+      "beneficial to"
+    ],
+    "related": [
+      "benefit",
+      "benign",
+      "benevolent",
+      "bonus"
+    ],
+    "tip": "'mutually beneficial' (서로에게 이로운)은 협상에서도 자주 쓰는 표현"
+  },
+  {
+    "id": "d20-B10",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "disagreement",
+    "pos": "noun",
+    "ipa": "/ˌdɪsəˈɡriːmənt/",
+    "meaning_ko": "의견 차이, 의견 충돌",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "반대"
+        },
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "gree",
+          "type": "root",
+          "gloss": "기쁨, 마음에 듦 (gré ← gratum)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "마음에 맞지 않음 → 뜻이 다름 → 의견 차이"
+    },
+    "example": {
+      "q": "How do you handle conflict in a team?",
+      "a": "When we have a disagreement, I ask for data before deciding.",
+      "a_ko": "의견 차이가 있으면, 결정하기 전에 데이터를 먼저 요청합니다."
+    },
+    "collocations": [
+      "have a disagreement",
+      "resolve a disagreement"
+    ],
+    "related": [
+      "agree",
+      "disagree",
+      "agreement",
+      "grateful"
+    ],
+    "tip": "conflict 보다 부드러운 말. 면접에서 갈등 경험을 말할 때 무난함"
+  },
+  {
+    "id": "d20-B11",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "service-level agreement",
+    "pos": "noun",
+    "ipa": "/ˈsɜːrvɪs ˌlevəl əˈɡriːmənt/",
+    "meaning_ko": "서비스 수준 협약 (SLA)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "service-level ",
+          "type": "part",
+          "gloss": "서비스 수준"
+        },
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "gree",
+          "type": "root",
+          "gloss": "마음에 듦 (gré ← gratum)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "서비스 수준에 서로 뜻을 맞춘 것 → 가용성·응답 시간을 약속한 협약"
+    },
+    "example": {
+      "q": "How did you decide on your availability targets?",
+      "a": "Our service-level agreement promised 99.9 percent uptime, so we set internal alerts well before we got close to that limit.",
+      "a_ko": "서비스 수준 협약에서 가동률 99.9%를 약속했기 때문에, 그 한계에 가까워지기 훨씬 전에 내부 알림이 울리도록 설정했습니다."
+    },
+    "collocations": [
+      "meet the service-level agreement",
+      "breach the SLA"
+    ],
+    "related": [
+      "agreement",
+      "agree",
+      "disagreement"
+    ],
+    "tip": "보통 SLA 로 줄여 말함. SLO(목표)·SLI(지표)와 함께 나옴"
+  },
+  {
+    "id": "d20-B12",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "measure",
+    "pos": "verb",
+    "ipa": "/ˈmeʒər/",
+    "meaning_ko": "측정하다, 재다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "meas",
+          "type": "root",
+          "gloss": "재다 (mensura ← metiri)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "잰 것 (mensura) → 재다 → 측정하다, 대책"
+    },
+    "example": {
+      "q": "How do you know a project was successful?",
+      "a": "I measure success by user adoption, not just by shipping on time.",
+      "a_ko": "제때 출시했는지만이 아니라 사용자 도입률로 성공을 측정합니다."
+    },
+    "collocations": [
+      "measure success",
+      "measure impact"
+    ],
+    "related": [
+      "measurable",
+      "dimension",
+      "immense",
+      "commensurate"
+    ],
+    "tip": "발음은 '메저'. 명사로는 '대책'(take measures)이라는 뜻도 있음"
+  },
+  {
+    "id": "d20-B13",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "measurable",
+    "pos": "adjective",
+    "ipa": "/ˈmeʒərəbəl/",
+    "meaning_ko": "측정 가능한, 눈에 띄는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "measur",
+          "type": "root",
+          "gloss": "재다 (mensura)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "잴 수 있는 → 수치로 확인할 수 있는"
+    },
+    "example": {
+      "q": "How do you set goals for yourself?",
+      "a": "I set measurable goals, like reviewing ten pull requests a week, because vague goals are easy to forget.",
+      "a_ko": "일주일에 풀 리퀘스트 10개 리뷰하기처럼 측정 가능한 목표를 세웁니다. 막연한 목표는 쉽게 잊기 때문입니다."
+    },
+    "collocations": [
+      "measurable goals",
+      "measurable improvement"
+    ],
+    "related": [
+      "measure",
+      "dimension",
+      "immense",
+      "commensurate"
+    ],
+    "tip": "SMART 목표의 M 이 measurable. 'a measurable impact'도 자주 씀"
+  },
+  {
+    "id": "d20-B14",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "dimension",
+    "pos": "noun",
+    "ipa": "/daɪˈmenʃən/",
+    "meaning_ko": "측면, 차원",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로, 끝까지 (dis)"
+        },
+        {
+          "text": "mens",
+          "type": "root",
+          "gloss": "재다 (metiri, mensus)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "끝까지 재어 놓은 것 → 크기·치수 → 측면, 차원"
+    },
+    "example": {
+      "q": "What's hard about leading a project?",
+      "a": "Leading added a new dimension to my work: people, not only code.",
+      "a_ko": "리딩을 하면서 코드뿐 아니라 사람이라는 새로운 측면이 생겼습니다."
+    },
+    "collocations": [
+      "a new dimension",
+      "another dimension"
+    ],
+    "related": [
+      "measure",
+      "immense",
+      "commensurate"
+    ],
+    "tip": "발음은 '다이멘션' 또는 '디멘션'. 데이터 분석에서는 차원(dimension table)"
+  },
+  {
+    "id": "d20-B15",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "immense",
+    "pos": "adjective",
+    "ipa": "/ɪˈmens/",
+    "meaning_ko": "엄청난, 막대한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "im",
+          "type": "prefix",
+          "gloss": "아닌 (in)"
+        },
+        {
+          "text": "mens",
+          "type": "root",
+          "gloss": "재다 (metiri, mensus)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "잴 수 없는 → 헤아릴 수 없이 큰 → 엄청난"
+    },
+    "example": {
+      "q": "What did you get out of your last project?",
+      "a": "I learned an immense amount about distributed systems, because I was on call for a service handling millions of requests a day.",
+      "a_ko": "하루 수백만 요청을 처리하는 서비스의 온콜을 맡으면서, 분산 시스템에 대해 엄청나게 많이 배웠습니다."
+    },
+    "collocations": [
+      "an immense amount",
+      "immense pressure"
+    ],
+    "related": [
+      "measure",
+      "dimension",
+      "commensurate"
+    ],
+    "tip": "huge 보다 격식 있고 감정이 실린 말. 'learned an immense amount' 통째로 외우기"
+  },
+  {
+    "id": "d20-B16",
+    "day": 20,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "commensurate",
+    "pos": "adjective",
+    "ipa": "/kəˈmenʃərət/",
+    "meaning_ko": "~에 상응하는, 걸맞은",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "mensur",
+          "type": "root",
+          "gloss": "재다 (mensura)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "함께 같은 자로 잴 수 있는 → 크기가 맞는 → 걸맞은"
+    },
+    "example": {
+      "q": "What salary range are you looking for?",
+      "a": "I'm flexible, but I'd expect an offer commensurate with my eight years of backend experience and the scope of this senior role.",
+      "a_ko": "유연하게 생각하고 있지만, 8년의 백엔드 경력과 이 시니어 역할의 범위에 걸맞은 제안을 기대합니다."
+    },
+    "collocations": [
+      "commensurate with experience",
+      "commensurate salary"
+    ],
+    "related": [
+      "measure",
+      "dimension",
+      "immense"
+    ],
+    "tip": "구인 공고의 'salary commensurate with experience' (경력에 따라 협의)로 자주 보임"
+  },
+  {
+    "id": "d20-B17",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "metric",
+    "pos": "noun",
+    "ipa": "/ˈmetrɪk/",
+    "meaning_ko": "지표, 측정 기준",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "metr",
+          "type": "root",
+          "gloss": "재다, 자 (metron)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의 것"
+        }
+      ],
+      "story": "재는 것 (그리스어 metron) → 측정 기준 → 지표"
+    },
+    "example": {
+      "q": "Which metric do you watch first during an incident?",
+      "a": "I check the error rate metric first, then latency.",
+      "a_ko": "먼저 에러율 지표를 보고, 그다음 지연 시간을 봅니다."
+    },
+    "collocations": [
+      "key metric",
+      "track metrics",
+      "business metrics"
+    ],
+    "related": [
+      "parameter",
+      "perimeter",
+      "biometric",
+      "telemetry"
+    ],
+    "tip": "주로 복수 metrics. 미터법(metric system)과 같은 어근"
+  },
+  {
+    "id": "d20-B18",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "parameter",
+    "pos": "noun",
+    "ipa": "/pəˈræmɪtər/",
+    "meaning_ko": "매개변수, 조건",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "para",
+          "type": "prefix",
+          "gloss": "옆에"
+        },
+        {
+          "text": "meter",
+          "type": "root",
+          "gloss": "재다 (metron)"
+        }
+      ],
+      "story": "옆에 두고 재는 기준 → 결과를 정하는 값 → 매개변수"
+    },
+    "example": {
+      "q": "How did you make the function reusable?",
+      "a": "I moved the hard-coded values into a parameter with a default.",
+      "a_ko": "하드코딩된 값을 기본값이 있는 매개변수로 옮겼습니다."
+    },
+    "collocations": [
+      "pass a parameter",
+      "query parameter",
+      "within these parameters"
+    ],
+    "related": [
+      "metric",
+      "perimeter",
+      "biometric",
+      "telemetry"
+    ],
+    "tip": "강세는 '퍼래미터'. 'within the parameters' = 정해진 조건 안에서"
+  },
+  {
+    "id": "d20-B19",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "perimeter",
+    "pos": "noun",
+    "ipa": "/pəˈrɪmɪtər/",
+    "meaning_ko": "경계, 외곽",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "peri",
+          "type": "prefix",
+          "gloss": "둘레"
+        },
+        {
+          "text": "meter",
+          "type": "root",
+          "gloss": "재다 (metron)"
+        }
+      ],
+      "story": "둘레를 잰 것 → 바깥 경계선"
+    },
+    "example": {
+      "q": "How did you improve your company's network security?",
+      "a": "We stopped relying only on perimeter security and moved to zero trust, so every service checks identity on each request.",
+      "a_ko": "경계 보안에만 의존하지 않고 제로 트러스트로 옮겨서, 모든 서비스가 요청마다 신원을 확인하게 했습니다."
+    },
+    "collocations": [
+      "network perimeter",
+      "perimeter security"
+    ],
+    "related": [
+      "parameter",
+      "metric",
+      "telemetry"
+    ],
+    "tip": "parameter 와 철자가 비슷하니 주의 (peri = 둘레, para = 옆)"
+  },
+  {
+    "id": "d20-B20",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "biometric",
+    "pos": "adjective",
+    "ipa": "/ˌbaɪoʊˈmetrɪk/",
+    "meaning_ko": "생체 인식의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "bio",
+          "type": "prefix",
+          "gloss": "생명 (bios)"
+        },
+        {
+          "text": "metr",
+          "type": "root",
+          "gloss": "재다 (metron)"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "생명체(몸)를 재는 → 지문·얼굴로 사람을 확인하는"
+    },
+    "example": {
+      "q": "What features did you build in the mobile app?",
+      "a": "I built biometric login with Face ID and fingerprint, which cut password reset requests by about a third.",
+      "a_ko": "Face ID 와 지문으로 하는 생체 인식 로그인을 만들었고, 비밀번호 재설정 요청이 약 3분의 1 줄었습니다."
+    },
+    "collocations": [
+      "biometric login",
+      "biometric authentication",
+      "biometric data"
+    ],
+    "related": [
+      "metric",
+      "parameter",
+      "telemetry"
+    ],
+    "tip": "개인정보 이야기에서 biometric data(생체 정보)도 자주 나옴"
+  },
+  {
+    "id": "d20-B21",
+    "day": 20,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "telemetry",
+    "pos": "noun",
+    "ipa": "/təˈlemətri/",
+    "meaning_ko": "원격 측정 데이터",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tele",
+          "type": "prefix",
+          "gloss": "멀리"
+        },
+        {
+          "text": "metr",
+          "type": "root",
+          "gloss": "재다 (metron)"
+        },
+        {
+          "text": "y",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "멀리서 재는 것 → 원격 측정 → 운영 중 시스템이 보내는 데이터"
+    },
+    "example": {
+      "q": "How do you find problems before users report them?",
+      "a": "We collect telemetry from every client, so when crash rates rose after one release, we spotted it within an hour and rolled back before support tickets came in.",
+      "a_ko": "모든 클라이언트에서 원격 측정 데이터를 모으기 때문에, 한 릴리스 후 크래시율이 오르자 1시간 안에 발견하고 문의가 오기 전에 롤백했습니다."
+    },
+    "collocations": [
+      "collect telemetry",
+      "telemetry data",
+      "OpenTelemetry"
+    ],
+    "related": [
+      "metric",
+      "parameter",
+      "perimeter",
+      "biometric"
+    ],
+    "tip": "강세는 '텔레'가 아니라 '레' (tə-LEM-ə-tree). OpenTelemetry 로 익숙한 단어"
+  },
+  {
+    "id": "d20-B22",
+    "day": 20,
+    "level": 3,
+    "set": "B",
+    "family": "F10",
+    "word": "esteem",
+    "pos": "noun",
+    "ipa": "/ɪˈstiːm/",
+    "meaning_ko": "존경, 높은 평가",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "esteem",
+          "type": "root",
+          "gloss": "값을 매기다 (aestimare)"
+        }
+      ],
+      "story": "값을 매기다 (estimate 와 같은 말) → 높이 평가함 → 존경"
+    },
+    "example": {
+      "q": "Why do you want to work here?",
+      "a": "I hold your engineering team in high esteem; your blog posts on database sharding shaped how I designed our partitioning last year.",
+      "a_ko": "귀사 엔지니어링 팀을 매우 존경합니다. 데이터베이스 샤딩에 관한 블로그 글이 작년에 제가 파티셔닝을 설계할 때 큰 영향을 주었습니다."
+    },
+    "collocations": [
+      "hold someone in high esteem",
+      "self-esteem"
+    ],
+    "related": [
+      "estimate",
+      "underestimate",
+      "evaluation"
+    ],
+    "tip": "estimate 와 뿌리가 같음. 'hold ~ in high esteem' 은 지원 동기에서 품위 있게 들림"
+  },
+  {
+    "id": "d20-B23",
+    "day": 20,
+    "level": 1,
+    "set": "B",
+    "family": "F10",
+    "word": "perk",
+    "pos": "noun",
+    "ipa": "/pɜːrk/",
+    "meaning_ko": "(급여 외) 혜택, 특전",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "perk",
+          "type": "part",
+          "gloss": "perquisite(부수입)의 줄임말"
+        }
+      ],
+      "story": "perquisite(급여 외에 따로 얻는 것)를 줄인 말 → 회사가 주는 소소한 혜택"
+    },
+    "example": {
+      "q": "Which of our perks matters most to you?",
+      "a": "The learning budget is the perk I'd use the most.",
+      "a_ko": "학습 예산이 제가 가장 많이 쓸 혜택입니다."
+    },
+    "collocations": [
+      "job perks",
+      "a nice perk"
+    ],
+    "related": [
+      "benefit",
+      "stipend",
+      "bonus"
+    ],
+    "tip": "보통 복수 perks. benefits(보험·연금 등 기본)보다 가벼운 혜택(간식, 헬스장 등)"
+  },
+  {
+    "id": "d20-B24",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "stock option",
+    "pos": "noun",
+    "ipa": "/ˈstɑːk ˌɑːpʃən/",
+    "meaning_ko": "스톡옵션, 주식 매수 선택권",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "stock ",
+          "type": "part",
+          "gloss": "주식"
+        },
+        {
+          "text": "option",
+          "type": "part",
+          "gloss": "선택권"
+        }
+      ],
+      "story": "주식을 정해진 값에 살 수 있는 선택권"
+    },
+    "example": {
+      "q": "How do you feel about joining an early-stage startup?",
+      "a": "I'm comfortable with a lower base salary if the stock options are meaningful, because I want to share in the company's growth.",
+      "a_ko": "스톡옵션이 의미 있는 수준이라면 기본급이 조금 낮아도 괜찮습니다. 회사의 성장을 함께 나누고 싶기 때문입니다."
+    },
+    "collocations": [
+      "grant stock options",
+      "exercise stock options"
+    ],
+    "related": [
+      "compensation",
+      "sign-on bonus",
+      "benefit"
+    ],
+    "tip": "주식을 직접 주는 RSU 와 구별. exercise(행사하다)와 짝으로 씀"
+  },
+  {
+    "id": "d20-B25",
+    "day": 20,
+    "level": 2,
+    "set": "B",
+    "family": "F10",
+    "word": "sign-on bonus",
+    "pos": "noun",
+    "ipa": "/ˈsaɪn ɑːn ˌboʊnəs/",
+    "meaning_ko": "입사 보너스",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sign-",
+          "type": "part",
+          "gloss": "서명하다"
+        },
+        {
+          "text": "on ",
+          "type": "part",
+          "gloss": "합류하여"
+        },
+        {
+          "text": "bonus",
+          "type": "part",
+          "gloss": "보너스 (라틴어 bonus 좋은)"
+        }
+      ],
+      "story": "계약서에 서명하고 합류할 때 주는 보너스 → 입사 축하금"
+    },
+    "example": {
+      "q": "Is there anything that would make it easier for you to join?",
+      "a": "A sign-on bonus would help, because I'd lose my annual bonus at my current company if I leave before March.",
+      "a_ko": "입사 보너스가 있으면 도움이 될 것 같습니다. 3월 전에 퇴사하면 현 회사의 연간 보너스를 받지 못하기 때문입니다."
+    },
+    "collocations": [
+      "offer a sign-on bonus",
+      "one-time sign-on bonus"
+    ],
+    "related": [
+      "bonus",
+      "compensation",
+      "stock option"
+    ],
+    "tip": "signing bonus 라고도 함. 포기하는 보너스·주식을 메워 달라고 할 때 근거를 함께 말하기"
+  }
+]

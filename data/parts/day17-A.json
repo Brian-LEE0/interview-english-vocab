@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "d17-A01",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "convert",
+    "pos": "verb",
+    "ipa": "/kənˈvɝːt/",
+    "meaning_ko": "바꾸다, 변환하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "vert",
+          "type": "root",
+          "gloss": "돌리다"
+        }
+      ],
+      "story": "라틴어 convertere(완전히 돌리다) → 방향·형태를 바꾸다 → 변환하다"
+    },
+    "example": {
+      "q": "What did you do in your last project?",
+      "a": "I converted our old shell scripts into Python to make them easier to test.",
+      "a_ko": "테스트하기 쉽도록 기존 셸 스크립트를 파이썬으로 변환했습니다."
+    },
+    "collocations": [
+      "convert A into B",
+      "convert data",
+      "convert users"
+    ],
+    "related": [
+      "conversion",
+      "reverse",
+      "diverse",
+      "version"
+    ],
+    "tip": "convert A into/to B 형태로 많이 씀. 명사는 conversion, '전환율'은 conversion rate"
+  },
+  {
+    "id": "d17-A02",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "version",
+    "pos": "noun",
+    "ipa": "/ˈvɝːʒən/",
+    "meaning_ko": "버전, 판",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "라틴어 versio(돌림, 옮김) → 다른 말로 옮긴 것(번역) → 형태를 바꾼 판 → 버전"
+    },
+    "example": {
+      "q": "Which tools do you use every day?",
+      "a": "I use the latest version of IntelliJ and keep my local Java version the same as production.",
+      "a_ko": "IntelliJ 최신 버전을 쓰고, 로컬 자바 버전을 운영 환경과 똑같이 맞춰 둡니다."
+    },
+    "collocations": [
+      "latest version",
+      "version control",
+      "older version"
+    ],
+    "related": [
+      "versioning",
+      "convert",
+      "conversion",
+      "versatile"
+    ],
+    "tip": "'버전 관리'는 version control. 영어 발음은 '버전'보다 '버-젼'에 가까움"
+  },
+  {
+    "id": "d17-A03",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "various",
+    "pos": "adjective",
+    "ipa": "/ˈveriəs/",
+    "meaning_ko": "여러 가지의, 다양한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vari",
+          "type": "root",
+          "gloss": "여러 가지의, 얼룩덜룩한 (varius)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "라틴어 varius(여러 빛깔의, 갖가지의) → 여러 가지의, 다양한"
+    },
+    "example": {
+      "q": "Can you tell me about your background?",
+      "a": "I've worked on various projects, from mobile apps to internal data tools.",
+      "a_ko": "모바일 앱부터 사내 데이터 도구까지 여러 프로젝트를 해 왔습니다."
+    },
+    "collocations": [
+      "various projects",
+      "for various reasons",
+      "in various ways"
+    ],
+    "related": [
+      "vary",
+      "variety",
+      "variable",
+      "invariant"
+    ],
+    "tip": "various + 복수명사. 'many different' 보다 짧고 자연스러운 자기소개 단어"
+  },
+  {
+    "id": "d17-A04",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "anniversary",
+    "pos": "noun",
+    "ipa": "/ˌænɪˈvɝːsəri/",
+    "meaning_ko": "기념일, 주년",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "anni",
+          "type": "root",
+          "gloss": "해 (annus)"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌아오다 (vert)"
+        },
+        {
+          "text": "ary",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "라틴어 anniversarius(해마다 돌아오는) → 매년 돌아오는 날 → 기념일"
+    },
+    "example": {
+      "q": "How long have you been at your current company?",
+      "a": "I just celebrated my three-year work anniversary there last month.",
+      "a_ko": "지난달에 입사 3주년을 맞았습니다."
+    },
+    "collocations": [
+      "work anniversary",
+      "first anniversary",
+      "celebrate an anniversary"
+    ],
+    "related": [
+      "annual",
+      "version",
+      "universal"
+    ],
+    "tip": "'입사 n주년'은 my n-year work anniversary. 재직 기간을 자연스럽게 말할 때 씀"
+  },
+  {
+    "id": "d17-A05",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "invert",
+    "pos": "verb",
+    "ipa": "/ɪnˈvɝːt/",
+    "meaning_ko": "뒤집다, 반전시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로, 거꾸로"
+        },
+        {
+          "text": "vert",
+          "type": "root",
+          "gloss": "돌리다"
+        }
+      ],
+      "story": "라틴어 invertere(안쪽으로 돌리다) → 위아래·순서를 뒤집다"
+    },
+    "example": {
+      "q": "Can you walk me through how you'd solve this tree problem?",
+      "a": "First, I would invert the binary tree recursively by swapping each node's children.",
+      "a_ko": "먼저 각 노드의 자식을 맞바꾸는 방식으로 이진 트리를 재귀적으로 뒤집겠습니다."
+    },
+    "collocations": [
+      "invert a tree",
+      "invert the order",
+      "invert a condition"
+    ],
+    "related": [
+      "inversion",
+      "convert",
+      "reverse"
+    ],
+    "tip": "명사 inversion 은 의존성 역전(dependency inversion)처럼 설계 용어로 자주 나옴"
+  },
+  {
+    "id": "d17-A06",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "conversion",
+    "pos": "noun",
+    "ipa": "/kənˈvɝːʒən/",
+    "meaning_ko": "전환, 변환",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "라틴어 conversio(완전히 돌림) → 다른 상태로 바꿈 → 전환"
+    },
+    "example": {
+      "q": "This position starts as a six-month contract. Do you have any concerns?",
+      "a": "I'm open to it, but I'd like to see the criteria for conversion to a full-time role in writing.",
+      "a_ko": "괜찮습니다만, 정규직 전환 기준을 서면으로 받아 보고 싶습니다."
+    },
+    "collocations": [
+      "conversion to full-time",
+      "conversion rate",
+      "data conversion"
+    ],
+    "related": [
+      "convert",
+      "version",
+      "reverse"
+    ],
+    "tip": "계약직→정규직 전환은 conversion (contract-to-hire). 마케팅에선 '전환율'(conversion rate)"
+  },
+  {
+    "id": "d17-A07",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "versioning",
+    "pos": "noun",
+    "ipa": "/ˈvɝːʒənɪŋ/",
+    "meaning_ko": "버전 관리, 버전 부여",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "version(바꾼 판) + ing → 판마다 번호를 붙여 관리하기"
+    },
+    "example": {
+      "q": "How do you handle breaking changes in your APIs?",
+      "a": "We use semantic versioning, so clients know that a new major version means a breaking change.",
+      "a_ko": "시맨틱 버저닝을 써서, 메이저 버전이 바뀌면 호환이 깨지는 변경이라는 걸 클라이언트가 알 수 있게 했습니다."
+    },
+    "collocations": [
+      "semantic versioning",
+      "API versioning",
+      "versioning strategy"
+    ],
+    "related": [
+      "version",
+      "conversion",
+      "convert"
+    ],
+    "tip": "semantic versioning(SemVer) = MAJOR.MINOR.PATCH. API 설계 질문에 자주 등장"
+  },
+  {
+    "id": "d17-A08",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "conversational",
+    "pos": "adjective",
+    "ipa": "/ˌkɑːnvərˈseɪʃənəl/",
+    "meaning_ko": "대화의, 일상 대화 수준의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌다 (vert)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "명사"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "라틴어 conversari(함께 이리저리 돌며 지내다) → 어울려 지냄 → 대화 → 대화의"
+    },
+    "example": {
+      "q": "How would you describe your English level?",
+      "a": "My English is conversational, and I use it every week in calls with our team in Singapore.",
+      "a_ko": "일상 대화 수준이고, 싱가포르 팀과의 통화에서 매주 영어를 씁니다."
+    },
+    "collocations": [
+      "conversational English",
+      "conversational AI",
+      "conversational tone"
+    ],
+    "related": [
+      "conversation",
+      "conversant",
+      "conversely"
+    ],
+    "tip": "어학 수준은 basic < conversational < fluent 순. 챗봇은 conversational AI"
+  },
+  {
+    "id": "d17-A09",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "converge",
+    "pos": "verb",
+    "ipa": "/kənˈvɝːdʒ/",
+    "meaning_ko": "한곳으로 모이다, (의견이) 모아지다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "verge",
+          "type": "root",
+          "gloss": "기울다, 향하다 (vergere)"
+        }
+      ],
+      "story": "라틴어 convergere(함께 한쪽으로 기울다) → 한 점으로 모이다 → 의견이 모아지다"
+    },
+    "example": {
+      "q": "How do you reach a decision when the team disagrees?",
+      "a": "I list the options and trade-offs on one page, which usually helps the team converge on a decision quickly.",
+      "a_ko": "선택지와 트레이드오프를 한 페이지에 정리하면 보통 팀 의견이 빨리 하나로 모아집니다."
+    },
+    "collocations": [
+      "converge on a decision",
+      "converge on a solution",
+      "views converge"
+    ],
+    "related": [
+      "diverge",
+      "convergence",
+      "divergent"
+    ],
+    "tip": "vergere(기울다)는 vertere(돌리다)와 다른 말이지만 뜻이 가까운 보조 어근. 반대말 diverge"
+  },
+  {
+    "id": "d17-A10",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "diverge",
+    "pos": "verb",
+    "ipa": "/daɪˈvɝːdʒ/",
+    "meaning_ko": "갈라지다, (의견이) 엇갈리다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로 (dis)"
+        },
+        {
+          "text": "verge",
+          "type": "root",
+          "gloss": "기울다, 향하다 (vergere)"
+        }
+      ],
+      "story": "라틴어 divergere(따로 기울다) → 서로 다른 방향으로 갈라지다"
+    },
+    "example": {
+      "q": "Tell me about a time you disagreed with your manager.",
+      "a": "Our opinions diverged on the release date, so I showed him the test results and we agreed on a one-week delay.",
+      "a_ko": "출시일에 대해 의견이 엇갈려서 테스트 결과를 보여 드렸고, 일주일 연기하기로 합의했습니다."
+    },
+    "collocations": [
+      "opinions diverge",
+      "diverge from the plan",
+      "branches diverge"
+    ],
+    "related": [
+      "converge",
+      "divergence",
+      "divergent"
+    ],
+    "tip": "Git 에서 브랜치가 갈라질 때도 씀 (diverged branches). converge 와 짝으로 외우기"
+  },
+  {
+    "id": "d17-A11",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "reversible",
+    "pos": "adjective",
+    "ipa": "/rɪˈvɝːsəbəl/",
+    "meaning_ko": "되돌릴 수 있는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ible",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "라틴어 reversus(뒤로 돌린) → 뒤로 돌릴 수 있는 → 되돌릴 수 있는"
+    },
+    "example": {
+      "q": "How do you make database changes safely?",
+      "a": "I make every migration reversible, so we can roll back within minutes if something breaks.",
+      "a_ko": "모든 마이그레이션을 되돌릴 수 있게 만들어서, 문제가 생기면 몇 분 안에 롤백할 수 있게 합니다."
+    },
+    "collocations": [
+      "reversible change",
+      "reversible migration",
+      "reversible decision"
+    ],
+    "related": [
+      "reverse",
+      "irreversible",
+      "revert"
+    ],
+    "tip": "되돌릴 수 있는 결정인지 따지는 이야기(two-way door)에서도 reversible decision 이라고 함"
+  },
+  {
+    "id": "d17-A12",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "reverse-engineer",
+    "pos": "verb",
+    "ipa": "/rɪˌvɝːs ˌendʒɪˈnɪr/",
+    "meaning_ko": "역설계하다, 거꾸로 분석하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "e",
+          "type": "part",
+          "gloss": "(reverse 의 끝)"
+        },
+        {
+          "text": "engineer",
+          "type": "part",
+          "gloss": "설계하다"
+        }
+      ],
+      "story": "reverse(거꾸로 돌린) + engineer(설계하다) → 완성품에서 거꾸로 설계를 알아내다"
+    },
+    "example": {
+      "q": "How did you deal with the legacy system that had no documentation?",
+      "a": "I reverse-engineered the billing logic from the production logs and then wrote the missing documentation.",
+      "a_ko": "운영 로그를 보고 결제 로직을 거꾸로 분석한 뒤, 빠져 있던 문서를 작성했습니다."
+    },
+    "collocations": [
+      "reverse-engineer a system",
+      "reverse-engineer a protocol",
+      "reverse-engineer the logic"
+    ],
+    "related": [
+      "reverse",
+      "reversible",
+      "convert"
+    ],
+    "tip": "문서 없는 레거시를 파악한 경험을 말할 때 효과적. 하이픈을 넣어 한 단어처럼 씀"
+  },
+  {
+    "id": "d17-A13",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "controversy",
+    "pos": "noun",
+    "ipa": "/ˈkɑːntrəvɝːsi/",
+    "meaning_ko": "논란, 논쟁",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "contro",
+          "type": "prefix",
+          "gloss": "맞서 (contra)"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "y",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "라틴어 controversia(맞서 돌아선 것) → 서로 반대편을 향함 → 논쟁, 논란"
+    },
+    "example": {
+      "q": "Have you ever made a decision that was unpopular with your team?",
+      "a": "Moving to a monorepo caused some controversy, so I ran a two-week trial before we committed to it.",
+      "a_ko": "모노레포 전환에 논란이 좀 있어서, 확정하기 전에 2주 동안 시험 운영을 했습니다."
+    },
+    "collocations": [
+      "cause controversy",
+      "without controversy",
+      "technical controversy"
+    ],
+    "related": [
+      "controversial",
+      "convert",
+      "adversity"
+    ],
+    "tip": "강세는 첫음절 CON-tro-ver-sy. 형용사 controversial 은 강세가 VER 로 옮겨 감"
+  },
+  {
+    "id": "d17-A14",
+    "day": 17,
+    "level": 3,
+    "set": "A",
+    "family": "F7",
+    "word": "conversant",
+    "pos": "adjective",
+    "ipa": "/kənˈvɝːsənt/",
+    "meaning_ko": "~에 정통한, 잘 알고 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌다 (vert)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "라틴어 conversari(함께 지내다) → 늘 함께 지내서 익숙한 → ~에 정통한"
+    },
+    "example": {
+      "q": "How familiar are you with cloud infrastructure?",
+      "a": "I'm conversant with AWS networking because I designed our VPC layout, though I'm still learning about multi-region failover.",
+      "a_ko": "VPC 구성을 직접 설계해서 AWS 네트워킹은 잘 알고 있지만, 멀티 리전 장애 조치는 아직 배우는 중입니다."
+    },
+    "collocations": [
+      "conversant with",
+      "conversant in",
+      "fully conversant"
+    ],
+    "related": [
+      "conversational",
+      "conversation",
+      "well-versed"
+    ],
+    "tip": "be conversant with = be familiar with 의 격식체. 'expert' 보다 겸손하게 자신감을 보일 때"
+  },
+  {
+    "id": "d17-A15",
+    "day": 17,
+    "level": 3,
+    "set": "A",
+    "family": "F7",
+    "word": "aversion",
+    "pos": "noun",
+    "ipa": "/əˈvɝːʒən/",
+    "meaning_ko": "혐오, 꺼림",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "떨어져 (ab)"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "라틴어 aversio(고개를 돌려 외면함) → 싫어서 돌아섬 → 혐오, 꺼림"
+    },
+    "example": {
+      "q": "How would you describe your approach to risk?",
+      "a": "I don't have an aversion to risk, but I prefer small experiments so that a failure costs us days, not months.",
+      "a_ko": "위험을 꺼리지는 않지만, 실패해도 몇 달이 아니라 며칠만 잃도록 작은 실험을 선호합니다."
+    },
+    "collocations": [
+      "risk aversion",
+      "an aversion to",
+      "loss aversion"
+    ],
+    "related": [
+      "averse",
+      "avert",
+      "adverse"
+    ],
+    "tip": "risk aversion(위험 회피). 형용사 averse 는 Day 7. 사람에게 쓰면 '질색'처럼 강하니 주의"
+  },
+  {
+    "id": "d17-A16",
+    "day": 17,
+    "level": 3,
+    "set": "A",
+    "family": "F7",
+    "word": "perverse",
+    "pos": "adjective",
+    "ipa": "/pərˈvɝːs/",
+    "meaning_ko": "비뚤어진, 역효과를 낳는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "완전히, 엇나가게"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "라틴어 perversus(완전히 돌려 뒤집힌) → 잘못된 방향으로 틀어진 → 비뚤어진"
+    },
+    "example": {
+      "q": "What do you think about measuring engineers by the number of tickets closed?",
+      "a": "It can create perverse incentives; on my last team, people split tasks into tiny tickets, so we switched to outcome-based goals.",
+      "a_ko": "역효과를 부르는 동기가 생길 수 있습니다. 전 팀에서는 일을 잘게 쪼개는 일이 생겨서 결과 중심 목표로 바꿨습니다."
+    },
+    "collocations": [
+      "perverse incentive",
+      "perverse effect",
+      "perverse outcome"
+    ],
+    "related": [
+      "reverse",
+      "diverse",
+      "controversy"
+    ],
+    "tip": "perverse incentive(의도와 반대로 작동하는 보상)는 지표 설계 이야기를 할 때 쓰는 고급 표현"
+  },
+  {
+    "id": "d17-A17",
+    "day": 17,
+    "level": 3,
+    "set": "A",
+    "family": "F7",
+    "word": "adversarial",
+    "pos": "adjective",
+    "ipa": "/ˌædvərˈseriəl/",
+    "meaning_ko": "적대적인, 대립하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~쪽으로"
+        },
+        {
+          "text": "vers",
+          "type": "root",
+          "gloss": "돌리다 (vert)"
+        },
+        {
+          "text": "arial",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "라틴어 adversarius(~쪽으로 몸을 돌려 맞선 사람, 적) → 적대적인, 대립하는"
+    },
+    "example": {
+      "q": "How do you work with the QA team?",
+      "a": "I try to keep the relationship collaborative rather than adversarial, so I invite QA to our design reviews from the start.",
+      "a_ko": "대립하지 않고 협력하는 관계가 되도록, 설계 리뷰에 처음부터 QA 를 초대합니다."
+    },
+    "collocations": [
+      "adversarial relationship",
+      "adversarial testing",
+      "non-adversarial"
+    ],
+    "related": [
+      "adversary",
+      "adverse",
+      "adversity"
+    ],
+    "tip": "collaborative ↔ adversarial 대비로 협업 태도를 말할 때. AI 분야에선 adversarial attack(적대적 공격)"
+  },
+  {
+    "id": "d17-A18",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "distort",
+    "pos": "verb",
+    "ipa": "/dɪˈstɔːrt/",
+    "meaning_ko": "왜곡하다, 비틀다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "따로, 이리저리"
+        },
+        {
+          "text": "tort",
+          "type": "root",
+          "gloss": "비틀다 (torquere)"
+        }
+      ],
+      "story": "라틴어 distorquere(이리저리 비틀다) → 모양을 비틀다 → 사실을 왜곡하다"
+    },
+    "example": {
+      "q": "How do you report a project that is behind schedule?",
+      "a": "I share the real numbers early, because hiding delays only distorts the picture for the teams who plan around us.",
+      "a_ko": "실제 수치를 일찍 공유합니다. 지연을 숨기면 저희 일정에 맞춰 계획하는 팀들에게 상황이 왜곡되기 때문입니다."
+    },
+    "collocations": [
+      "distort the data",
+      "distort the picture",
+      "distorted view"
+    ],
+    "related": [
+      "distortion",
+      "retort",
+      "torque"
+    ],
+    "tip": "torquere(비틀다)는 '돌리다' 가족의 보조 어근. 데이터·지표가 실제를 잘못 보여 줄 때 씀"
+  },
+  {
+    "id": "d17-A19",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "vary",
+    "pos": "verb",
+    "ipa": "/ˈveri/",
+    "meaning_ko": "달라지다, 변동하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "var",
+          "type": "root",
+          "gloss": "바뀌는, 여러 가지의 (varius)"
+        },
+        {
+          "text": "y",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "라틴어 variare(바꾸다, 여러 가지로 하다) → 달라지다, 변동하다"
+    },
+    "example": {
+      "q": "The annual bonus depends on company performance.",
+      "a": "I understand. How much has the bonus varied over the last three years?",
+      "a_ko": "알겠습니다. 지난 3년 동안 보너스가 얼마나 변동했나요?"
+    },
+    "collocations": [
+      "vary from A to B",
+      "vary by",
+      "it varies"
+    ],
+    "related": [
+      "variable",
+      "variety",
+      "various",
+      "invariant"
+    ],
+    "tip": "It varies(그때그때 달라요)도 자주 씀. very 와 발음 구분 (vary = '베-리', 모음이 길게)"
+  },
+  {
+    "id": "d17-A20",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "variable",
+    "pos": "noun",
+    "ipa": "/ˈveriəbəl/",
+    "meaning_ko": "변수, 변하는 요소",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "vari",
+          "type": "root",
+          "gloss": "바뀌다 (variare)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "라틴어 variabilis(바뀔 수 있는) → 바뀌는 값 → 변수"
+    },
+    "example": {
+      "q": "How do you keep secrets out of your code?",
+      "a": "I store passwords in environment variables instead of writing them in the code.",
+      "a_ko": "비밀번호를 코드에 쓰지 않고 환경 변수에 저장합니다."
+    },
+    "collocations": [
+      "environment variable",
+      "global variable",
+      "key variable"
+    ],
+    "related": [
+      "vary",
+      "variety",
+      "invariant"
+    ],
+    "tip": "형용사로는 '가변적인'(variable pay = 성과급). 환경 변수 = environment variable"
+  },
+  {
+    "id": "d17-A21",
+    "day": 17,
+    "level": 3,
+    "set": "A",
+    "family": "F7",
+    "word": "invariant",
+    "pos": "noun",
+    "ipa": "/ɪnˈveriənt/",
+    "meaning_ko": "불변 조건, 불변식",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "vari",
+          "type": "root",
+          "gloss": "바뀌다 (variare)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "in(아닌) + variare(바뀌다) → 바뀌지 않는 것 → 늘 참이어야 하는 조건"
+    },
+    "example": {
+      "q": "How do you make sure your data stays consistent?",
+      "a": "I define clear invariants, like 'an order total is never negative,' and enforce them in both the code and the database.",
+      "a_ko": "'주문 총액은 절대 음수가 아니다' 같은 불변 조건을 정하고, 코드와 데이터베이스 양쪽에서 강제합니다."
+    },
+    "collocations": [
+      "maintain an invariant",
+      "loop invariant",
+      "break an invariant"
+    ],
+    "related": [
+      "variable",
+      "vary",
+      "various"
+    ],
+    "tip": "도메인 설계·알고리즘 설명에서 쓰는 시니어 어휘. 형용사로 '변하지 않는'도 됨"
+  },
+  {
+    "id": "d17-A22",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "interchangeable",
+    "pos": "adjective",
+    "ipa": "/ˌɪntərˈtʃeɪndʒəbəl/",
+    "meaning_ko": "서로 바꿔 쓸 수 있는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "inter",
+          "type": "prefix",
+          "gloss": "서로"
+        },
+        {
+          "text": "change",
+          "type": "root",
+          "gloss": "바꾸다 (cambiare)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "후기 라틴어 cambiare(맞바꾸다) → change, inter(서로) + able → 서로 바꿔 쓸 수 있는"
+    },
+    "example": {
+      "q": "Why did you introduce an interface for the payment providers?",
+      "a": "I wanted the providers to be interchangeable, so we could switch vendors without touching the checkout code.",
+      "a_ko": "결제 업체를 서로 바꿔 끼울 수 있게 해서, 결제 화면 코드를 건드리지 않고 업체를 바꿀 수 있도록 했습니다."
+    },
+    "collocations": [
+      "interchangeable parts",
+      "used interchangeably",
+      "interchangeable components"
+    ],
+    "related": [
+      "change",
+      "exchange",
+      "changeable"
+    ],
+    "tip": "change 는 Day 7 대표 단어(cambiare). 느슨한 결합(loose coupling)을 설명할 때 유용"
+  },
+  {
+    "id": "d17-A23",
+    "day": 17,
+    "level": 1,
+    "set": "A",
+    "family": "F7",
+    "word": "switch over",
+    "pos": "phrasal verb",
+    "ipa": "/swɪtʃ ˈoʊvər/",
+    "meaning_ko": "(시스템을) 전환하다, 갈아타다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "switch",
+          "type": "part",
+          "gloss": "바꾸다, 전환하다"
+        },
+        {
+          "text": "over",
+          "type": "part",
+          "gloss": "건너편으로"
+        }
+      ],
+      "story": "switch(바꾸다, 스위치를 돌리다) + over(건너편으로) → 다른 쪽으로 갈아타다"
+    },
+    "example": {
+      "q": "Have you ever migrated to a new tool?",
+      "a": "Yes, we switched over from Jenkins to GitHub Actions last year.",
+      "a_ko": "네, 작년에 젠킨스에서 깃허브 액션즈로 갈아탔습니다."
+    },
+    "collocations": [
+      "switch over to",
+      "switch over from A to B",
+      "switchover"
+    ],
+    "related": [
+      "switch",
+      "changeover",
+      "cutover"
+    ],
+    "tip": "핵심어. 명사는 switchover(전환). switch to 보다 '통째로 옮겼다'는 느낌"
+  },
+  {
+    "id": "d17-A24",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "overhaul",
+    "pos": "verb",
+    "ipa": "/ˌoʊvərˈhɑːl/",
+    "meaning_ko": "전면 개편하다, 정비하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "over",
+          "type": "part",
+          "gloss": "위로, 전체에 걸쳐"
+        },
+        {
+          "text": "haul",
+          "type": "part",
+          "gloss": "끌어당기다"
+        }
+      ],
+      "story": "over + haul(끌어당기다) → (배의 장비를) 끌어올려 전부 점검하다 → 전면 정비, 개편"
+    },
+    "example": {
+      "q": "What is one process you improved at your company?",
+      "a": "I overhauled our onboarding guide, and new hires could ship their first change in three days instead of two weeks.",
+      "a_ko": "온보딩 가이드를 전면 개편했고, 신입이 2주가 아니라 3일 만에 첫 변경을 배포할 수 있게 됐습니다."
+    },
+    "collocations": [
+      "overhaul a process",
+      "complete overhaul",
+      "major overhaul"
+    ],
+    "related": [
+      "revamp",
+      "rework",
+      "rebuild"
+    ],
+    "tip": "핵심어. 명사로도 씀(a complete overhaul). 부분 수정이 아니라 '싹 뜯어고치기'"
+  },
+  {
+    "id": "d17-A25",
+    "day": 17,
+    "level": 2,
+    "set": "A",
+    "family": "F7",
+    "word": "phase out",
+    "pos": "phrasal verb",
+    "ipa": "/feɪz ˈaʊt/",
+    "meaning_ko": "단계적으로 없애다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "phase",
+          "type": "part",
+          "gloss": "단계"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖으로"
+        }
+      ],
+      "story": "phase(단계, 그리스어 phasis) + out(밖으로) → 단계를 밟아 서서히 내보내다 → 단계적으로 폐지하다"
+    },
+    "example": {
+      "q": "How did you get rid of the old manual approval step?",
+      "a": "We phased it out over two months by automating one check at a time, so nobody lost visibility suddenly.",
+      "a_ko": "검사를 하나씩 자동화하며 두 달에 걸쳐 단계적으로 없애서, 누구도 갑자기 상황을 못 보게 되지는 않았습니다."
+    },
+    "collocations": [
+      "phase out a system",
+      "be phased out",
+      "phase out gradually"
+    ],
+    "related": [
+      "phase in",
+      "sunset",
+      "wind down"
+    ],
+    "tip": "핵심어. 반대는 phase in(단계적으로 도입). 목적어가 대명사면 phase it out 순서"
+  }
+]

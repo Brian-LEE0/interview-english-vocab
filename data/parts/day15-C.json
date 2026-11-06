@@ -1,0 +1,1141 @@
+[
+ {
+  "id": "d15-C01",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "contract",
+  "pos": "noun",
+  "ipa": "/ˈkɑnˌtrækt/",
+  "meaning_ko": "계약, 계약서",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "함께 끌어당겨 묶다 → 서로 합의해 맺은 약속 → 계약"
+  },
+  "example": {
+   "q": "Do you have any questions about the contract?",
+   "a": "Yes, could you confirm whether the contract includes a probation period?",
+   "a_ko": "네, 계약서에 수습 기간이 들어 있는지 확인해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "employment contract",
+   "sign a contract",
+   "contract terms"
+  ],
+  "related": [
+   "contractual",
+   "abstract",
+   "attract",
+   "extract",
+   "traction"
+  ],
+  "tip": "명사는 /ˈkɑn-/ 앞 강세, 동사(계약하다·줄어들다)는 /kənˈtrækt/ 뒤 강세"
+ },
+ {
+  "id": "d15-C02",
+  "day": 15,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "contractual",
+  "pos": "adjective",
+  "ipa": "/kənˈtræktʃuəl/",
+  "meaning_ko": "계약상의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "함께 끌어 묶은 약속(계약)의 → 계약상의"
+  },
+  "example": {
+   "q": "We'd like you to start in two weeks. Is that possible?",
+   "a": "I'd love to, but I have a contractual obligation to give my employer four weeks' notice, so the earliest I can start is the 20th.",
+   "a_ko": "그러고 싶지만 현 직장에 4주 전에 통보해야 하는 계약상 의무가 있어서, 가장 빠른 입사일은 20일입니다."
+  },
+  "collocations": [
+   "contractual obligation",
+   "contractual terms",
+   "contractual agreement"
+  ],
+  "related": [
+   "contract",
+   "abstract",
+   "tractable",
+   "detractor"
+  ],
+  "tip": "입사일·경업 금지 조항 이야기에서 '내 의지가 아니라 계약 때문'이라고 설명할 때"
+ },
+ {
+  "id": "d15-C03",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "abstract",
+  "pos": "adjective",
+  "ipa": "/æbˈstrækt/",
+  "meaning_ko": "추상적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "abs",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    }
+   ],
+   "story": "구체적인 것에서 끌어내 떼어 놓은 → 추상적인"
+  },
+  "example": {
+   "q": "How do you explain technical work to non-engineers?",
+   "a": "I turn abstract ideas into concrete examples; for caching, I compare it to keeping your keys by the door.",
+   "a_ko": "추상적인 개념을 구체적인 예로 바꿉니다. 캐싱이라면 열쇠를 현관 옆에 두는 것에 비유합니다."
+  },
+  "collocations": [
+   "abstract concept",
+   "too abstract",
+   "in the abstract"
+  ],
+  "related": [
+   "abstraction",
+   "contract",
+   "extract",
+   "attract",
+   "distract"
+  ],
+  "tip": "abstract ↔ concrete 짝. 명사로는 '논문 초록'이라는 뜻도 있음"
+ },
+ {
+  "id": "d15-C04",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "abstraction",
+  "pos": "noun",
+  "ipa": "/æbˈstrækʃən/",
+  "meaning_ko": "추상화",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "abs",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "세부에서 끌어내 떼어 놓음 → 공통점만 남김 → 추상화"
+  },
+  "example": {
+   "q": "How do you decide when to introduce an abstraction?",
+   "a": "I wait until I see the same pattern three times, because an abstraction built too early usually fits nothing well.",
+   "a_ko": "같은 패턴을 세 번 볼 때까지 기다립니다. 너무 일찍 만든 추상화는 보통 어디에도 잘 맞지 않기 때문입니다."
+  },
+  "collocations": [
+   "layer of abstraction",
+   "leaky abstraction",
+   "the right abstraction"
+  ],
+  "related": [
+   "abstract",
+   "contract",
+   "extraction",
+   "traction"
+  ],
+  "tip": "'rule of three'와 같이 말하면 좋음. leaky abstraction = 내부 사정이 새어 나오는 추상화"
+ },
+ {
+  "id": "d15-C05",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "tracing",
+  "pos": "noun",
+  "ipa": "/ˈtreɪsɪŋ/",
+  "meaning_ko": "(분산) 추적, 트레이싱",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trac",
+     "type": "root",
+     "gloss": "끌다·자국 내다 (trahere → tractus)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "끌고 간 자국 (trace) → 그 자국을 따라가기 → 요청 경로를 따라가며 기록 → 트레이싱"
+  },
+  "example": {
+   "q": "How do you debug latency across microservices?",
+   "a": "We added distributed tracing with OpenTelemetry, so I can see exactly which service adds the delay in each request.",
+   "a_ko": "OpenTelemetry로 분산 트레이싱을 넣어서, 요청마다 어느 서비스가 지연을 만드는지 정확히 볼 수 있습니다."
+  },
+  "collocations": [
+   "distributed tracing",
+   "request tracing",
+   "tracing and metrics"
+  ],
+  "related": [
+   "trace",
+   "traceability",
+   "contract",
+   "abstract"
+  ],
+  "tip": "관측성 3요소: logs · metrics · traces. span, trace ID와 같이 쓰임"
+ },
+ {
+  "id": "d15-C06",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "retrain",
+  "pos": "verb",
+  "ipa": "/ˌriˈtreɪn/",
+  "meaning_ko": "재학습시키다, 재교육하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "train",
+     "type": "root",
+     "gloss": "끌다 (trahere → 고대 프랑스어 trainer)"
+    }
+   ],
+   "story": "끌고 다니며 길들이다 (train) → 가르치다 → 다시 학습시키다"
+  },
+  "example": {
+   "q": "How do you keep a model accurate in production?",
+   "a": "We monitor data drift, and when accuracy drops below a threshold, a pipeline automatically retrains the model on recent data.",
+   "a_ko": "데이터 드리프트를 모니터링하다가 정확도가 기준 아래로 떨어지면 파이프라인이 최근 데이터로 모델을 자동 재학습합니다."
+  },
+  "collocations": [
+   "retrain the model",
+   "retrain on new data",
+   "retrain periodically"
+  ],
+  "related": [
+   "train",
+   "training",
+   "pretrained",
+   "trace"
+  ],
+  "tip": "ML 직무에서 자주 씀: retraining pipeline, retrain schedule"
+ },
+ {
+  "id": "d15-C07",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "pretrained",
+  "pos": "adjective",
+  "ipa": "/ˌpriˈtreɪnd/",
+  "meaning_ko": "사전 학습된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "train",
+     "type": "root",
+     "gloss": "끌다 (trahere → trainer)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "미리 길들여 놓은 → 미리 학습된"
+  },
+  "example": {
+   "q": "How did you build the classifier with so little data?",
+   "a": "I fine-tuned a pretrained language model, because training from scratch on five thousand examples would have overfit.",
+   "a_ko": "사전 학습된 언어 모델을 파인튜닝했습니다. 예시 5천 개로 처음부터 학습하면 과적합됐을 겁니다."
+  },
+  "collocations": [
+   "pretrained model",
+   "pretrained weights",
+   "pretrained on"
+  ],
+  "related": [
+   "train",
+   "retrain",
+   "training",
+   "trace"
+  ],
+  "tip": "pre-trained로 하이픈을 넣어 쓰기도 함. fine-tune과 짝으로 기억"
+ },
+ {
+  "id": "d15-C08",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "treatment",
+  "pos": "noun",
+  "ipa": "/ˈtritmənt/",
+  "meaning_ko": "(A/B 테스트의) 실험군, 처리",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "treat",
+     "type": "root",
+     "gloss": "다루다 (tractare ← trahere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "끌어 다루다 (tractare) → 처리 → 실험에서 새 처리를 받은 집단"
+  },
+  "example": {
+   "q": "How did you prove the new checkout worked?",
+   "a": "We ran an A/B test, and the treatment group converted eight percent better than control over two weeks.",
+   "a_ko": "A/B 테스트를 돌렸고, 2주 동안 실험군의 전환율이 대조군보다 8% 높았습니다."
+  },
+  "collocations": [
+   "treatment group",
+   "treatment and control",
+   "special treatment"
+  ],
+  "related": [
+   "treat",
+   "trait",
+   "contract",
+   "tractable"
+  ],
+  "tip": "A/B 테스트: control(대조군) vs treatment(실험군). 성과를 데이터로 증명할 때"
+ },
+ {
+  "id": "d15-C09",
+  "day": 15,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "tractable",
+  "pos": "adjective",
+  "ipa": "/ˈtræktəbəl/",
+  "meaning_ko": "다루기 쉬운, 풀 수 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다·다루다 (trahere → tractare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "끌고 다룰 수 있는 → 다루기 쉬운 → 풀 수 있는 크기의"
+  },
+  "example": {
+   "q": "How do you approach a problem that seems too big?",
+   "a": "I break it down until each piece is tractable; for our search rewrite, that meant shipping ranking, indexing, and the UI as separate milestones.",
+   "a_ko": "각 조각이 다룰 만한 크기가 될 때까지 쪼갭니다. 검색 재작성 때는 랭킹, 인덱싱, UI를 별도 마일스톤으로 나눠 출시했습니다."
+  },
+  "collocations": [
+   "make it tractable",
+   "a tractable problem",
+   "computationally tractable"
+  ],
+  "related": [
+   "intractable",
+   "traction",
+   "contract",
+   "abstract"
+  ],
+  "tip": "intractable(풀기 어려운)의 반대. 'make the problem tractable'은 시니어다운 표현"
+ },
+ {
+  "id": "d15-C10",
+  "day": 15,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "detractor",
+  "pos": "noun",
+  "ipa": "/dɪˈtræktər/",
+  "meaning_ko": "비판자, 반대하는 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로·떨어져"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "끌어내리는 사람 → 가치를 깎아내리는 사람 → 비판자"
+  },
+  "example": {
+   "q": "Tell me about a time you won people over.",
+   "a": "The biggest detractor of our new code review policy was a senior engineer, so I asked him to co-write it, and he ended up championing it.",
+   "a_ko": "새 코드 리뷰 정책에 가장 반대한 사람이 시니어 엔지니어였는데, 같이 작성하자고 부탁했더니 결국 그분이 가장 앞장서서 밀어 줬습니다."
+  },
+  "collocations": [
+   "critics and detractors",
+   "win over detractors",
+   "the biggest detractor"
+  ],
+  "related": [
+   "detract",
+   "distract",
+   "contract",
+   "attract"
+  ],
+  "tip": "NPS에서 promoter(추천) ↔ detractor(비추천). 반대자를 설득한 STAR 사례에 딱"
+ },
+ {
+  "id": "d15-C11",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "surprisingly",
+  "pos": "adverb",
+  "ipa": "/sərˈpraɪzɪŋli/",
+  "meaning_ko": "놀랍게도, 의외로",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sur",
+     "type": "prefix",
+     "gloss": "위에서 (super)"
+    },
+    {
+     "text": "pris",
+     "type": "root",
+     "gloss": "잡다 (prehendere → prendre)"
+    },
+    {
+     "text": "ingly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "위에서 덮쳐 잡다 (surprendre) → 갑자기 들이닥치다 → 놀랍게도"
+  },
+  "example": {
+   "q": "What did you learn from that outage?",
+   "a": "Surprisingly, the root cause was an expired certificate, not our code.",
+   "a_ko": "의외로 근본 원인은 저희 코드가 아니라 만료된 인증서였습니다."
+  },
+  "collocations": [
+   "surprisingly simple",
+   "not surprisingly",
+   "surprisingly effective"
+  ],
+  "related": [
+   "surprise",
+   "comprise",
+   "enterprise",
+   "comprehensive"
+  ],
+  "tip": "문장 맨 앞에 두면 이야기에 반전을 주며 듣는 사람의 주의를 끌 수 있음"
+ },
+ {
+  "id": "d15-C12",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "comprehensive",
+  "pos": "adjective",
+  "ipa": "/ˌkɑmprəˈhɛnsɪv/",
+  "meaning_ko": "포괄적인, 종합적인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히·함께"
+    },
+    {
+     "text": "prehens",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "전부 함께 움켜잡는 → 빠짐없이 다 담은 → 포괄적인"
+  },
+  "example": {
+   "q": "Here's the offer summary. Anything else you'd like to see?",
+   "a": "Thank you. Could you also send a comprehensive breakdown of the benefits, including health coverage and the equity vesting schedule?",
+   "a_ko": "감사합니다. 건강보험과 주식 베스팅 일정까지 포함해서 복리후생 전체 내역도 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "comprehensive benefits",
+   "comprehensive test coverage",
+   "comprehensive review"
+  ],
+  "related": [
+   "comprehension",
+   "apprehensive",
+   "comprise",
+   "enterprise"
+  ],
+  "tip": "IT에서도 'comprehensive test coverage'로 자주 씀. 강세 com-pre-HEN-sive"
+ },
+ {
+  "id": "d15-C13",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "comprehension",
+  "pos": "noun",
+  "ipa": "/ˌkɑmprəˈhɛnʃən/",
+  "meaning_ko": "(Python) 컴프리헨션, 이해",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히·함께"
+    },
+    {
+     "text": "prehens",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "전부 움켜잡음 → 머리로 다 잡음(이해) / 조건에 맞는 원소를 한꺼번에 잡아 만든 목록"
+  },
+  "example": {
+   "q": "How do you keep your Python code readable?",
+   "a": "I use a list comprehension for simple transforms, but switch to a normal loop when the logic needs more than one condition.",
+   "a_ko": "간단한 변환에는 리스트 컴프리헨션을 쓰지만, 조건이 두 개 이상 필요하면 일반 반복문으로 바꿉니다."
+  },
+  "collocations": [
+   "list comprehension",
+   "reading comprehension",
+   "beyond comprehension"
+  ],
+  "related": [
+   "comprehensive",
+   "comprehend",
+   "apprehensive",
+   "comprise"
+  ],
+  "tip": "일반 영어에서는 '이해(력)'. 파이썬 면접에서는 list/dict comprehension"
+ },
+ {
+  "id": "d15-C14",
+  "day": 15,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "apprehensive",
+  "pos": "adjective",
+  "ipa": "/ˌæprəˈhɛnsɪv/",
+  "meaning_ko": "걱정하는, 불안해하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "prehens",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "붙잡다 → 머리로 붙잡아 알아채다 → 앞일을 미리 알아채고 걱정하는"
+  },
+  "example": {
+   "q": "How did the team react to moving to Kubernetes?",
+   "a": "Some engineers were apprehensive about on-call, so I ran hands-on workshops and paired with each of them on their first incident.",
+   "a_ko": "일부 엔지니어가 온콜을 걱정해서, 실습 워크숍을 열고 각자의 첫 장애 대응 때 옆에서 함께했습니다."
+  },
+  "collocations": [
+   "apprehensive about",
+   "a little apprehensive",
+   "understandably apprehensive"
+  ],
+  "related": [
+   "apprehension",
+   "comprehensive",
+   "comprehend",
+   "enterprise"
+  ],
+  "tip": "worried보다 격식 있는 말. 'apprehensive about + 명사/-ing'"
+ },
+ {
+  "id": "d15-C15",
+  "day": 15,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "apprehension",
+  "pos": "noun",
+  "ipa": "/ˌæprəˈhɛnʃən/",
+  "meaning_ko": "우려, 불안",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "prehens",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "붙잡음 → 머리로 미리 붙잡은 생각 → 앞일에 대한 우려"
+  },
+  "example": {
+   "q": "How did you feel about leading your first project?",
+   "a": "I had some apprehension at first, but breaking the work into weekly goals and asking my manager for early feedback built my confidence.",
+   "a_ko": "처음엔 좀 불안했지만, 일을 주 단위 목표로 나누고 매니저에게 일찍 피드백을 받으면서 자신감이 생겼습니다."
+  },
+  "collocations": [
+   "some apprehension",
+   "apprehension about",
+   "ease apprehension"
+  ],
+  "related": [
+   "apprehensive",
+   "comprehension",
+   "comprise",
+   "surprise"
+  ],
+  "tip": "약점·도전 경험을 솔직하면서도 성숙하게 말할 때: 'I had some apprehension'"
+ },
+ {
+  "id": "d15-C16",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "rapid",
+  "pos": "adjective",
+  "ipa": "/ˈræpɪd/",
+  "meaning_ko": "빠른, 급속한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rap",
+     "type": "root",
+     "gloss": "잡아채다 (rapere)"
+    },
+    {
+     "text": "id",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    }
+   ],
+   "story": "잡아채 가는 (rapidus) → 휩쓸듯 빠른 → 급속한"
+  },
+  "example": {
+   "q": "Why do you want to join a startup?",
+   "a": "I enjoy rapid feedback, where I ship something and learn from users that week.",
+   "a_ko": "뭔가를 출시하고 그 주에 바로 사용자에게서 배우는 빠른 피드백을 좋아합니다."
+  },
+  "collocations": [
+   "rapid growth",
+   "rapid prototyping",
+   "rapid feedback"
+  ],
+  "related": [
+   "rapidly",
+   "rapt",
+   "rapture"
+  ],
+  "tip": "fast보다 격식 있고 변화·성장 속도에 잘 어울림 (rapid growth)"
+ },
+ {
+  "id": "d15-C17",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "rapidly",
+  "pos": "adverb",
+  "ipa": "/ˈræpɪdli/",
+  "meaning_ko": "빠르게",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rap",
+     "type": "root",
+     "gloss": "잡아채다 (rapere)"
+    },
+    {
+     "text": "id",
+     "type": "suffix",
+     "gloss": "~한 (형용사)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "잡아채 가듯 → 빠르게"
+  },
+  "example": {
+   "q": "How quickly can you learn a new stack?",
+   "a": "I ramp up rapidly; I shipped my first Go service within three weeks.",
+   "a_ko": "빨리 적응하는 편입니다. 3주 만에 첫 Go 서비스를 출시했습니다."
+  },
+  "collocations": [
+   "grow rapidly",
+   "rapidly changing",
+   "learn rapidly"
+  ],
+  "related": [
+   "rapid",
+   "rapt",
+   "rapture"
+  ],
+  "tip": "rapidly changing requirements처럼 변화 속도를 말할 때도 씀"
+ },
+ {
+  "id": "d15-C18",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "hectic",
+  "pos": "adjective",
+  "ipa": "/ˈhɛktɪk/",
+  "meaning_ko": "정신없이 바쁜",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hect",
+     "type": "root",
+     "gloss": "지닌 상태 (hexis ← 그리스어 ekhein 쥐다)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "몸이 지닌 상태 (hexis) → 몸에 붙은 만성 열 → 열에 들뜬 듯 → 정신없이 바쁜"
+  },
+  "example": {
+   "q": "How do you stay organized during busy periods?",
+   "a": "When things get hectic, I list my top three priorities each morning.",
+   "a_ko": "정신없이 바빠지면 매일 아침 가장 중요한 세 가지를 적습니다."
+  },
+  "collocations": [
+   "a hectic week",
+   "a hectic schedule",
+   "things get hectic"
+  ],
+  "related": [
+   "epoch",
+   "schema",
+   "scheme"
+  ],
+  "tip": "busy보다 '어수선하게 바쁜'. 발음 /ˈhɛktɪk/"
+ },
+ {
+  "id": "d15-C19",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "stress",
+  "pos": "noun",
+  "ipa": "/strɛs/",
+  "meaning_ko": "스트레스, 압박",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stress",
+     "type": "root",
+     "gloss": "조이다 (stringere → strictus)"
+    }
+   ],
+   "story": "꽉 조인 상태 (strictus → 고대 프랑스어 estrece) → 압박 → 스트레스"
+  },
+  "example": {
+   "q": "How do you handle stress?",
+   "a": "I handle stress by breaking big problems into small, clear next steps.",
+   "a_ko": "큰 문제를 작고 분명한 다음 단계로 나눠서 스트레스를 관리합니다."
+  },
+  "collocations": [
+   "handle stress",
+   "under stress",
+   "stress management"
+  ],
+  "related": [
+   "strict",
+   "restrict",
+   "constraint",
+   "strain",
+   "stress test"
+  ],
+  "tip": "면접 단골 질문 'How do you handle stress?'에는 구체적인 방법으로 답하기"
+ },
+ {
+  "id": "d15-C20",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "exhaust",
+  "pos": "verb",
+  "ipa": "/ɪɡˈzɔst/",
+  "meaning_ko": "다 써 버리다, 소진하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "haust",
+     "type": "root",
+     "gloss": "길어 내다 (haurire)"
+    }
+   ],
+   "story": "밖으로 다 길어 내다 → 바닥까지 써 버리다 → 소진하다"
+  },
+  "example": {
+   "q": "When do you escalate a problem?",
+   "a": "Once I've exhausted the obvious options, usually after an hour, I ask for help instead of losing a whole day.",
+   "a_ko": "뻔한 방법을 다 써 봤는데도 안 되면, 보통 한 시간쯤 지나면 하루를 날리지 않도록 도움을 요청합니다."
+  },
+  "collocations": [
+   "exhaust all options",
+   "exhaust the connection pool",
+   "feel exhausted"
+  ],
+  "related": [
+   "exhaustive",
+   "exhaustion",
+   "inexhaustible"
+  ],
+  "tip": "h는 소리 나지 않음: /ɪɡˈzɔst/. IT에서는 'exhaust the connection pool(커넥션 풀 고갈)'"
+ },
+ {
+  "id": "d15-C21",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "exhaustive",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzɔstɪv/",
+  "meaning_ko": "철저한, 빠짐없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "haust",
+     "type": "root",
+     "gloss": "길어 내다 (haurire)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "바닥까지 다 길어 낸 → 빠짐없이 다 따진 → 철저한"
+  },
+  "example": {
+   "q": "How did you test the date-parsing logic?",
+   "a": "Exhaustive testing wasn't possible, so I combined property-based tests with a list of known tricky time zones.",
+   "a_ko": "모든 경우를 다 테스트할 수는 없어서, 속성 기반 테스트와 까다롭기로 알려진 시간대 목록을 함께 썼습니다."
+  },
+  "collocations": [
+   "exhaustive testing",
+   "an exhaustive list",
+   "exhaustive search"
+  ],
+  "related": [
+   "exhaust",
+   "exhaustion",
+   "inexhaustible"
+  ],
+  "tip": "comprehensive(포괄적)보다 더 '하나도 빠짐없이'. 'not an exhaustive list'로 겸손하게 쓰기도"
+ },
+ {
+  "id": "d15-C22",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "schema",
+  "pos": "noun",
+  "ipa": "/ˈskimə/",
+  "meaning_ko": "스키마 (데이터 구조 정의)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sche",
+     "type": "root",
+     "gloss": "모양·틀 (skhema ← 그리스어 ekhein 쥐다)"
+    },
+    {
+     "text": "ma",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "붙들고 있는 모양 (skhema) → 형태·틀 → 데이터 구조의 정의"
+  },
+  "example": {
+   "q": "How do you change a database schema safely?",
+   "a": "I change the schema in backward-compatible steps: add the new column, backfill it, and only then drop the old one.",
+   "a_ko": "스키마는 하위 호환되는 단계로 바꿉니다. 새 컬럼을 추가하고 데이터를 채운 다음에야 옛 컬럼을 지웁니다."
+  },
+  "collocations": [
+   "database schema",
+   "schema migration",
+   "schema validation"
+  ],
+  "related": [
+   "scheme",
+   "epoch",
+   "hectic"
+  ],
+  "tip": "복수형은 schemas(또는 schemata). 발음 /ˈskimə/"
+ },
+ {
+  "id": "d15-C23",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "scheme",
+  "pos": "noun",
+  "ipa": "/skim/",
+  "meaning_ko": "체계, 방식",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "scheme",
+     "type": "root",
+     "gloss": "모양·틀 (skhema ← 그리스어 ekhein 쥐다)"
+    }
+   ],
+   "story": "붙들고 있는 모양 (skhema) → 틀·계획 → 정해진 체계·방식"
+  },
+  "example": {
+   "q": "How did you make your logs easier to search?",
+   "a": "I introduced a consistent naming scheme for log fields, so the same field means the same thing in every service.",
+   "a_ko": "로그 필드에 일관된 이름 규칙을 도입해서, 같은 필드가 모든 서비스에서 같은 의미를 갖게 했습니다."
+  },
+  "collocations": [
+   "naming scheme",
+   "versioning scheme",
+   "color scheme"
+  ],
+  "related": [
+   "schema",
+   "epoch",
+   "hectic"
+  ],
+  "tip": "naming scheme(명명 규칙), versioning scheme(버전 체계). '꿍꿍이'라는 부정적 뜻도 있으니 문맥 주의"
+ },
+ {
+  "id": "d15-C24",
+  "day": 15,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "end result",
+  "pos": "noun",
+  "ipa": "/ˌɛnd rɪˈzʌlt/",
+  "meaning_ko": "최종 결과",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "end",
+     "type": "part",
+     "gloss": "끝"
+    },
+    {
+     "text": "result",
+     "type": "part",
+     "gloss": "결과"
+    }
+   ],
+   "story": "끝에 나온 결과 → 최종 결과"
+  },
+  "example": {
+   "q": "What did the project achieve?",
+   "a": "The end result was a checkout flow that was twice as fast.",
+   "a_ko": "최종 결과로 결제 흐름이 두 배 빨라졌습니다."
+  },
+  "collocations": [
+   "the end result",
+   "the end result was",
+   "focus on the end result"
+  ],
+  "related": [
+   "quick win",
+   "track record",
+   "bottom line"
+  ],
+  "tip": "STAR의 R(Result)을 'The end result was ~'로 시작하면 깔끔함"
+ },
+ {
+  "id": "d15-C25",
+  "day": 15,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "speedup",
+  "pos": "noun",
+  "ipa": "/ˈspidˌʌp/",
+  "meaning_ko": "속도 향상 (배율)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speed",
+     "type": "part",
+     "gloss": "속도"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "올림"
+    }
+   ],
+   "story": "속도를 올림 → 몇 배 빨라졌는지 나타내는 말"
+  },
+  "example": {
+   "q": "Can you quantify the impact of your caching work?",
+   "a": "We got a fivefold speedup on the dashboard, from ten seconds to two, by caching the heaviest aggregate queries.",
+   "a_ko": "가장 무거운 집계 쿼리를 캐싱해서 대시보드가 10초에서 2초로, 5배 빨라졌습니다."
+  },
+  "collocations": [
+   "a 5x speedup",
+   "a significant speedup",
+   "speedup over"
+  ],
+  "related": [
+   "load time",
+   "lead time",
+   "quick win"
+  ],
+  "tip": "'a 3x speedup' = 3배 속도 향상. 명사는 붙여 쓰고, 동사는 speed up 두 단어"
+ }
+]

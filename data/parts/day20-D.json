@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "d20-D01",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "term",
+    "pos": "noun",
+    "ipa": "/tɜːrm/",
+    "meaning_ko": "용어, 기간, (복수) 조건",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "term",
+          "type": "root",
+          "gloss": "경계, 끝 (terminus)"
+        }
+      ],
+      "story": "경계 (terminus) → 정해진 기간 → 뜻의 경계를 정한 말(용어) → 정해 둔 조건(terms)"
+    },
+    "example": {
+      "q": "What's your strongest technical skill?",
+      "a": "In terms of skills, my strongest area is backend design.",
+      "a_ko": "역량 면에서는 백엔드 설계가 가장 강합니다."
+    },
+    "collocations": [
+      "in terms of",
+      "terms and conditions",
+      "in the long term"
+    ],
+    "related": [
+      "terminal",
+      "determine",
+      "fixed-term",
+      "definitive"
+    ],
+    "tip": "'in terms of ~' (~ 면에서) 는 답변 첫머리에 쓰기 좋음. 복수 terms 는 계약 조건"
+  },
+  {
+    "id": "d20-D02",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "fixed-term",
+    "pos": "adjective",
+    "ipa": "/ˌfɪkst ˈtɜːrm/",
+    "meaning_ko": "기간이 정해진, 계약직의",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fixed-",
+          "type": "part",
+          "gloss": "고정된 (fixus)"
+        },
+        {
+          "text": "term",
+          "type": "root",
+          "gloss": "경계, 기한 (terminus)"
+        }
+      ],
+      "story": "끝(기한)이 고정된 → 계약 기간이 정해진"
+    },
+    "example": {
+      "q": "This position starts as a twelve-month fixed-term contract.",
+      "a": "That works for me, but I'd like to know how often fixed-term roles here become permanent, and what that review looks like.",
+      "a_ko": "괜찮습니다. 다만 이곳에서 계약직이 정규직으로 전환되는 경우가 얼마나 되는지, 그 평가는 어떻게 이루어지는지 알고 싶습니다."
+    },
+    "collocations": [
+      "fixed-term contract",
+      "fixed-term employee"
+    ],
+    "related": [
+      "term",
+      "long-term",
+      "determine"
+    ],
+    "tip": "permanent(정규직)과 대비. 전환 가능성을 묻는 것은 자연스러운 질문"
+  },
+  {
+    "id": "d20-D03",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "deterministic",
+    "pos": "adjective",
+    "ipa": "/dɪˌtɜːrmɪˈnɪstɪk/",
+    "meaning_ko": "결정적인, 항상 같은 결과를 내는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "termin",
+          "type": "root",
+          "gloss": "경계, 끝 (terminus)"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~주의"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "경계를 확실히 정하다 (determinare) → 결과가 미리 정해진 → 입력이 같으면 결과도 같은"
+    },
+    "example": {
+      "q": "Why did you choose that build tool?",
+      "a": "It gives us deterministic builds, so the same commit always produces the same binary, which made our rollbacks much safer.",
+      "a_ko": "결정적 빌드를 해 줘서 같은 커밋이면 항상 같은 바이너리가 나오고, 그 덕분에 롤백이 훨씬 안전해졌습니다."
+    },
+    "collocations": [
+      "deterministic build",
+      "deterministic output"
+    ],
+    "related": [
+      "nondeterministic",
+      "determine",
+      "terminal",
+      "term"
+    ],
+    "tip": "'결정적인'은 '중요한'이 아니라 '결과가 정해진'이라는 뜻. 반대말 nondeterministic"
+  },
+  {
+    "id": "d20-D04",
+    "day": 20,
+    "level": 3,
+    "set": "D",
+    "family": "F10",
+    "word": "definitive",
+    "pos": "adjective",
+    "ipa": "/dɪˈfɪnətɪv/",
+    "meaning_ko": "확정적인, 결정적인, 가장 권위 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 경계 (finis)"
+        },
+        {
+          "text": "it",
+          "type": "suffix",
+          "gloss": "(과거분사형)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "끝(경계)을 완전히 정한 → 더 이상 바뀌지 않는 → 확정적인"
+    },
+    "example": {
+      "q": "How did you settle the debate about which database to use?",
+      "a": "Instead of arguing, I ran a two-week benchmark with production traffic, which gave us a definitive answer: Postgres handled our load at half the cost.",
+      "a_ko": "논쟁하는 대신 운영 트래픽으로 2주간 벤치마크를 돌렸고, 확실한 답을 얻었습니다. Postgres 가 절반 비용으로 부하를 감당했습니다."
+    },
+    "collocations": [
+      "a definitive answer",
+      "definitive guide",
+      "nothing definitive yet"
+    ],
+    "related": [
+      "define",
+      "definition",
+      "finite",
+      "final"
+    ],
+    "tip": "definite(분명한)보다 강함: '최종 확정·권위 있는'. 'nothing definitive yet' = 아직 확정된 건 없음"
+  },
+  {
+    "id": "d20-D05",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "redefine",
+    "pos": "verb",
+    "ipa": "/ˌriːdɪˈfaɪn/",
+    "meaning_ko": "재정의하다, 새로 정하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fine",
+          "type": "root",
+          "gloss": "끝, 경계 (finis)"
+        }
+      ],
+      "story": "경계를 다시 정하다 → 새로 정의하다"
+    },
+    "example": {
+      "q": "How has your role changed over the last year?",
+      "a": "When we moved to microservices, I helped redefine team ownership, so each service has exactly one team on call.",
+      "a_ko": "마이크로서비스로 옮기면서 팀별 담당 범위를 새로 정하는 일을 도와서, 이제 서비스마다 온콜 팀이 딱 하나씩 있습니다."
+    },
+    "collocations": [
+      "redefine roles",
+      "redefine success"
+    ],
+    "related": [
+      "define",
+      "definitive",
+      "undefined",
+      "refine"
+    ],
+    "tip": "역할·책임·기준을 '새로 짰다'고 말할 때. 리더십 경험 설명에 유용"
+  },
+  {
+    "id": "d20-D06",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "undefined",
+    "pos": "adjective",
+    "ipa": "/ˌʌndɪˈfaɪnd/",
+    "meaning_ko": "정의되지 않은, 불분명한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "un",
+          "type": "prefix",
+          "gloss": "아닌 (고대 영어)"
+        },
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 경계 (finis)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "경계가 정해지지 않은 → 정의되지 않은"
+    },
+    "example": {
+      "q": "What JavaScript bug do you see most often?",
+      "a": "I often see code reading a property of undefined, so I use optional chaining.",
+      "a_ko": "undefined 의 속성을 읽는 코드를 자주 봐서, 옵셔널 체이닝을 씁니다."
+    },
+    "collocations": [
+      "undefined behavior",
+      "undefined variable"
+    ],
+    "related": [
+      "define",
+      "redefine",
+      "definitive",
+      "finite"
+    ],
+    "tip": "C 의 undefined behavior(미정의 동작)도 면접 단골. 일반 대화에서는 '불분명한 역할'처럼 씀"
+  },
+  {
+    "id": "d20-D07",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "finalist",
+    "pos": "noun",
+    "ipa": "/ˈfaɪnəlɪst/",
+    "meaning_ko": "결선 진출자",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝 (finis)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "마지막(final)까지 남은 사람 → 결선 진출자"
+    },
+    "example": {
+      "q": "Have you done any projects outside work?",
+      "a": "Our team was a finalist at a national hackathon last year.",
+      "a_ko": "작년에 저희 팀이 전국 해커톤 결선에 올랐습니다."
+    },
+    "collocations": [
+      "hackathon finalist",
+      "be named a finalist"
+    ],
+    "related": [
+      "final",
+      "finish",
+      "finite",
+      "prize"
+    ],
+    "tip": "우승(winner) 못 했어도 finalist 는 충분히 자랑할 만한 성과"
+  },
+  {
+    "id": "d20-D08",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "finite",
+    "pos": "adjective",
+    "ipa": "/ˈfaɪnaɪt/",
+    "meaning_ko": "유한한, 한정된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 경계 (finis)"
+        },
+        {
+          "text": "ite",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "끝(경계)이 정해진 → 유한한"
+    },
+    "example": {
+      "q": "How do you model a complex workflow?",
+      "a": "I model order status as a finite state machine, so invalid transitions like shipped to unpaid are simply impossible.",
+      "a_ko": "주문 상태를 유한 상태 기계로 모델링해서, '배송됨 → 미결제' 같은 잘못된 전이는 아예 일어날 수 없게 합니다."
+    },
+    "collocations": [
+      "finite state machine",
+      "finite resources"
+    ],
+    "related": [
+      "infinite",
+      "final",
+      "definitive",
+      "undefined"
+    ],
+    "tip": "발음은 '파이나이트' (infinite 는 '인피닛'으로 바뀜). finite resources = 한정된 자원"
+  },
+  {
+    "id": "d20-D09",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "fine print",
+    "pos": "noun",
+    "ipa": "/ˈfaɪn ˌprɪnt/",
+    "meaning_ko": "(계약서의) 작은 글씨, 세부 조항",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 최고 (finis)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        },
+        {
+          "text": " print",
+          "type": "part",
+          "gloss": "인쇄 (premere 누르다)"
+        }
+      ],
+      "story": "fine(끝까지 다듬은 → 가는·작은) 인쇄 → 계약서의 작은 글씨 → 놓치기 쉬운 세부 조항"
+    },
+    "example": {
+      "q": "Here's the offer letter. Take your time to review it.",
+      "a": "Thank you. I'll read the fine print carefully, especially the clauses on overtime and intellectual property, and get back to you by Friday.",
+      "a_ko": "감사합니다. 특히 초과 근무와 지식재산권 조항을 중심으로 세부 조항을 꼼꼼히 읽고 금요일까지 답변드리겠습니다."
+    },
+    "collocations": [
+      "read the fine print",
+      "in the fine print"
+    ],
+    "related": [
+      "fine-grained",
+      "final",
+      "finish"
+    ],
+    "tip": "fine 의 '좋은'과 '벌금'도 모두 finis(끝)에서 온 말. 답변 기한을 같이 말하면 프로답게 들림"
+  },
+  {
+    "id": "d20-D10",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "fine-grained",
+    "pos": "adjective",
+    "ipa": "/ˌfaɪn ˈɡreɪnd/",
+    "meaning_ko": "세분화된, 세밀한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 최고 (finis)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        },
+        {
+          "text": "-grained",
+          "type": "part",
+          "gloss": "알갱이가 ~한 (granum)"
+        }
+      ],
+      "story": "알갱이가 고운 → 잘게 나뉜 → 세분화된"
+    },
+    "example": {
+      "q": "How did you design access control for the admin tool?",
+      "a": "We moved from a single admin role to fine-grained permissions, so support staff could view orders without being able to issue refunds.",
+      "a_ko": "단일 관리자 권한에서 세분화된 권한으로 바꿔서, 고객 지원 담당자가 환불은 못 하고 주문 조회만 할 수 있게 했습니다."
+    },
+    "collocations": [
+      "fine-grained access control",
+      "fine-grained permissions"
+    ],
+    "related": [
+      "fine print",
+      "refinement",
+      "coarse-grained"
+    ],
+    "tip": "반대말 coarse-grained (큰 단위의). 권한·락·마이크로서비스 크기를 말할 때 씀"
+  },
+  {
+    "id": "d20-D11",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "refinement",
+    "pos": "noun",
+    "ipa": "/rɪˈfaɪnmənt/",
+    "meaning_ko": "다듬기, 개선",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝, 최고 (finis)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "다시 고와지게(fine) 하다 → 다듬는 것 → 개선"
+    },
+    "example": {
+      "q": "How does your team handle vague requirements?",
+      "a": "We hold a backlog refinement session every week, so stories are clear and estimated before the sprint starts.",
+      "a_ko": "매주 백로그 정제 회의를 열어서, 스프린트 시작 전에 스토리가 명확하고 추정까지 되어 있게 합니다."
+    },
+    "collocations": [
+      "backlog refinement",
+      "further refinement"
+    ],
+    "related": [
+      "refine",
+      "fine-grained",
+      "definitive"
+    ],
+    "tip": "스크럼의 backlog refinement(예전 이름 grooming). 동사 refine 은 Day 10"
+  },
+  {
+    "id": "d20-D12",
+    "day": 20,
+    "level": 3,
+    "set": "D",
+    "family": "F10",
+    "word": "finality",
+    "pos": "noun",
+    "ipa": "/faɪˈnæləti/",
+    "meaning_ko": "최종성, 확정 (되돌릴 수 없음)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fin",
+          "type": "root",
+          "gloss": "끝 (finis)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "끝(final)인 상태 → 되돌릴 수 없이 확정됨"
+    },
+    "example": {
+      "q": "How did you keep the ledger consistent in your payments project?",
+      "a": "Because card payments don't reach finality until settlement, I kept transactions in a pending state for up to three days and reconciled them automatically.",
+      "a_ko": "카드 결제는 정산 전까지 확정되지 않기 때문에, 거래를 최대 3일간 대기 상태로 두고 자동으로 대사하도록 설계했습니다."
+    },
+    "collocations": [
+      "settlement finality",
+      "reach finality"
+    ],
+    "related": [
+      "final",
+      "finalize",
+      "finite",
+      "definitive"
+    ],
+    "tip": "결제·블록체인·분산 시스템에서 '더 이상 뒤집히지 않는 확정'을 말할 때"
+  },
+  {
+    "id": "d20-D13",
+    "day": 20,
+    "level": 3,
+    "set": "D",
+    "family": "F10",
+    "word": "non-compete",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn kəmˈpiːt/",
+    "meaning_ko": "경업 금지의 (경쟁사 취업 제한)",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pete",
+          "type": "root",
+          "gloss": "추구하다 (petere)"
+        }
+      ],
+      "story": "함께 같은 것을 쫓지(competere) 않는 → 경쟁하지 않기로 하는 → 경업 금지"
+    },
+    "example": {
+      "q": "The contract includes a one-year non-compete clause.",
+      "a": "I'd like to understand its scope first, because a non-compete covering the whole software industry would be hard to accept; could we limit it to direct competitors?",
+      "a_ko": "먼저 범위를 알고 싶습니다. 소프트웨어 업계 전체를 막는 경업 금지라면 받아들이기 어려워서, 직접 경쟁사로 한정할 수 있을까요?"
+    },
+    "collocations": [
+      "non-compete clause",
+      "non-compete agreement"
+    ],
+    "related": [
+      "non-disclosure",
+      "non-negotiable",
+      "nonprofit"
+    ],
+    "tip": "기간·지역·범위 세 가지를 확인. NDA(비밀 유지)와는 다른 조항"
+  },
+  {
+    "id": "d20-D14",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "price",
+    "pos": "noun",
+    "ipa": "/praɪs/",
+    "meaning_ko": "가격, 대가",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pric",
+          "type": "root",
+          "gloss": "값 (pretium)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "라틴어 pretium(값) → 고대 프랑스어 pris → 가격"
+    },
+    "example": {
+      "q": "How did you choose between cloud options?",
+      "a": "I compared the price of reserved and on-demand instances before choosing.",
+      "a_ko": "고르기 전에 예약 인스턴스와 온디맨드 인스턴스의 가격을 비교했습니다."
+    },
+    "collocations": [
+      "price difference",
+      "at a lower price"
+    ],
+    "related": [
+      "pricing",
+      "precious",
+      "appreciate",
+      "praise"
+    ],
+    "tip": "prize(상), praise(칭찬)와 같은 뿌리. 'pay the price' = 대가를 치르다"
+  },
+  {
+    "id": "d20-D15",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "pricing",
+    "pos": "noun",
+    "ipa": "/ˈpraɪsɪŋ/",
+    "meaning_ko": "가격 책정, 요금 체계",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pric",
+          "type": "root",
+          "gloss": "값 (pretium)"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "값을 매기기 → 가격 책정 → 요금 체계"
+    },
+    "example": {
+      "q": "Did you work on anything customer-facing?",
+      "a": "I built the pricing engine for our subscription plans, which let marketing launch discounts without asking engineers to change code.",
+      "a_ko": "구독 요금제의 가격 책정 엔진을 만들어서, 마케팅팀이 개발자에게 코드 수정을 요청하지 않고도 할인을 시작할 수 있게 했습니다."
+    },
+    "collocations": [
+      "pricing model",
+      "pricing engine",
+      "usage-based pricing"
+    ],
+    "related": [
+      "price",
+      "appraisal",
+      "precious"
+    ],
+    "tip": "클라우드 비용 이야기에서 pricing tier(요금 등급), pay-as-you-go pricing 도 자주 나옴"
+  },
+  {
+    "id": "d20-D16",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "precious",
+    "pos": "adjective",
+    "ipa": "/ˈpreʃəs/",
+    "meaning_ko": "귀중한, 소중한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "preci",
+          "type": "root",
+          "gloss": "값 (pretium)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~이 많은"
+        }
+      ],
+      "story": "값이 많이 나가는 → 귀중한"
+    },
+    "example": {
+      "q": "Why do you prefer asynchronous communication?",
+      "a": "Focus time is precious, so I keep meetings short and share notes.",
+      "a_ko": "집중할 시간이 소중해서, 회의는 짧게 하고 메모를 공유합니다."
+    },
+    "collocations": [
+      "precious time",
+      "precious resource"
+    ],
+    "related": [
+      "price",
+      "appreciate",
+      "appreciation",
+      "praise"
+    ],
+    "tip": "발음 '프레셔스'. 시간·자원이 귀하다고 말할 때 valuable 대신 써 보기"
+  },
+  {
+    "id": "d20-D17",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "prize",
+    "pos": "noun",
+    "ipa": "/praɪz/",
+    "meaning_ko": "상, 상품",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "priz",
+          "type": "root",
+          "gloss": "값, 보상 (pretium)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "값 (pretium) → 얻어 낸 값진 것 → 상"
+    },
+    "example": {
+      "q": "Tell me about a side project you're proud of.",
+      "a": "My chatbot side project won second prize at a company hackathon.",
+      "a_ko": "제 챗봇 사이드 프로젝트가 사내 해커톤에서 2등상을 받았습니다."
+    },
+    "collocations": [
+      "win a prize",
+      "first prize"
+    ],
+    "related": [
+      "price",
+      "praise",
+      "appraisal",
+      "finalist"
+    ],
+    "tip": "price 와 원래 같은 단어였다가 철자가 갈라짐. 'win (first) prize' 로 씀"
+  },
+  {
+    "id": "d20-D18",
+    "day": 20,
+    "level": 1,
+    "set": "D",
+    "family": "F10",
+    "word": "praise",
+    "pos": "verb",
+    "ipa": "/preɪz/",
+    "meaning_ko": "칭찬하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "prais",
+          "type": "root",
+          "gloss": "값을 매기다 (pretiare ← pretium)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "값을 높이 매기다 → 높이 평가하다 → 칭찬하다"
+    },
+    "example": {
+      "q": "How do you give feedback to teammates?",
+      "a": "I praise good work in public and give criticism in private.",
+      "a_ko": "잘한 일은 공개적으로 칭찬하고, 비판은 따로 전합니다."
+    },
+    "collocations": [
+      "praise in public",
+      "high praise"
+    ],
+    "related": [
+      "appraisal",
+      "price",
+      "prize",
+      "appreciate"
+    ],
+    "tip": "'Praise in public, criticize in private' 는 피드백 질문의 모범 답"
+  },
+  {
+    "id": "d20-D19",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "appraisal",
+    "pos": "noun",
+    "ipa": "/əˈpreɪzəl/",
+    "meaning_ko": "(인사) 평가, 감정",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ap",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "prais",
+          "type": "root",
+          "gloss": "값을 매기다 (pretiare)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "~에 값을 매김 (appretiare) → 가치를 따짐 → 인사 평가"
+    },
+    "example": {
+      "q": "How do you prepare for performance reviews?",
+      "a": "Before my annual appraisal, I write a short list of results with numbers, so my manager doesn't have to rely on memory.",
+      "a_ko": "연간 평가 전에 숫자가 들어간 성과 목록을 짧게 정리해서, 매니저가 기억에만 의존하지 않게 합니다."
+    },
+    "collocations": [
+      "performance appraisal",
+      "annual appraisal"
+    ],
+    "related": [
+      "praise",
+      "price",
+      "appreciation",
+      "evaluation"
+    ],
+    "tip": "영국식 회사에서 자주 쓰는 말. 미국은 performance review 가 더 흔함"
+  },
+  {
+    "id": "d20-D20",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "appreciation",
+    "pos": "noun",
+    "ipa": "/əˌpriːʃiˈeɪʃən/",
+    "meaning_ko": "감사, 인정, 가치 상승",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ap",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "preci",
+          "type": "root",
+          "gloss": "값 (pretium)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "~에 값을 매김 → 가치를 알아봄 → 감사·인정"
+    },
+    "example": {
+      "q": "How do you keep your team motivated?",
+      "a": "I show appreciation in specific terms, like naming the exact bug someone fixed, because general thanks is easy to ignore.",
+      "a_ko": "누가 어떤 버그를 고쳤는지 구체적으로 짚어 가며 감사를 표현합니다. 막연한 감사는 그냥 흘려듣기 쉽기 때문입니다."
+    },
+    "collocations": [
+      "show appreciation",
+      "in appreciation of"
+    ],
+    "related": [
+      "appreciate",
+      "precious",
+      "price",
+      "depreciate"
+    ],
+    "tip": "동사 appreciate 는 Day 10. 자산의 '가치 상승'이라는 뜻도 있음 (↔ depreciation)"
+  },
+  {
+    "id": "d20-D21",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "interpreter",
+    "pos": "noun",
+    "ipa": "/ɪnˈtɜːrprɪtər/",
+    "meaning_ko": "인터프리터 (해석 실행기), 통역사",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "inter",
+          "type": "prefix",
+          "gloss": "사이에"
+        },
+        {
+          "text": "pret",
+          "type": "root",
+          "gloss": "중개, 값 (interpres; pretium 과 같은 뿌리로 봄)"
+        },
+        {
+          "text": "er",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "둘 사이에서 거래를 중개하는 사람 (interpres) → 뜻을 옮겨 주는 사람 → 코드를 한 줄씩 해석·실행하는 프로그램"
+    },
+    "example": {
+      "q": "Which language do you use most, and what are its limits?",
+      "a": "Mostly Python, so I know the interpreter's limits well; for CPU-heavy work, I moved the hot loops into a compiled extension.",
+      "a_ko": "주로 파이썬이라 인터프리터의 한계를 잘 알고 있습니다. CPU 를 많이 쓰는 작업은 핫 루프를 컴파일된 확장 모듈로 옮겼습니다."
+    },
+    "collocations": [
+      "Python interpreter",
+      "interpreted language"
+    ],
+    "related": [
+      "interpret",
+      "price",
+      "appreciate"
+    ],
+    "tip": "compiler 와 대비해서 설명할 수 있으면 좋음. 사람에게 쓰면 '통역사'"
+  },
+  {
+    "id": "d20-D22",
+    "day": 20,
+    "level": 3,
+    "set": "D",
+    "family": "F10",
+    "word": "depreciate",
+    "pos": "verb",
+    "ipa": "/dɪˈpriːʃieɪt/",
+    "meaning_ko": "가치가 떨어지다, 감가상각하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "preci",
+          "type": "root",
+          "gloss": "값 (pretium)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "값을 아래로 내리다 (depretiare) → 가치가 떨어지다 → 감가상각하다"
+    },
+    "example": {
+      "q": "How did moving to the cloud change your costs?",
+      "a": "Our on-premise servers depreciated over five years, so moving to the cloud turned a big upfront cost into a monthly one, which our finance team preferred.",
+      "a_ko": "온프레미스 서버는 5년에 걸쳐 감가상각됐는데, 클라우드로 옮기면서 큰 초기 비용이 월 비용으로 바뀌었고 재무팀도 그쪽을 선호했습니다."
+    },
+    "collocations": [
+      "depreciate over five years",
+      "depreciate in value"
+    ],
+    "related": [
+      "appreciation",
+      "price",
+      "precious"
+    ],
+    "tip": "주의: deprecate(사용 중단 예정으로 표시하다, precari '빌다'에서)와 철자·뜻이 다름"
+  },
+  {
+    "id": "d20-D23",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "headcount",
+    "pos": "noun",
+    "ipa": "/ˈhedkaʊnt/",
+    "meaning_ko": "인원 (정원), 채용 TO",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "head",
+          "type": "part",
+          "gloss": "머리"
+        },
+        {
+          "text": "count",
+          "type": "part",
+          "gloss": "세기"
+        }
+      ],
+      "story": "머리 수를 세기 → 인원수 → 회사가 승인한 채용 자리"
+    },
+    "example": {
+      "q": "Do you have any questions for us?",
+      "a": "Is this a new headcount or a backfill? I'd like to understand whether the team is growing or replacing someone.",
+      "a_ko": "이 자리는 새로 생긴 TO 인가요, 아니면 결원 충원인가요? 팀이 커지는 중인지, 누군가를 대신하는지 알고 싶습니다."
+    },
+    "collocations": [
+      "new headcount",
+      "headcount freeze"
+    ],
+    "related": [
+      "compensation",
+      "pay band",
+      "backfill"
+    ],
+    "tip": "역질문으로 좋음. backfill = 퇴사자 자리 충원, headcount freeze = 채용 동결"
+  },
+  {
+    "id": "d20-D24",
+    "day": 20,
+    "level": 2,
+    "set": "D",
+    "family": "F10",
+    "word": "walk away",
+    "pos": "phrasal verb",
+    "ipa": "/ˌwɔːk əˈweɪ/",
+    "meaning_ko": "(협상·제안을) 거절하고 물러나다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "walk ",
+          "type": "part",
+          "gloss": "걷다"
+        },
+        {
+          "text": "away",
+          "type": "part",
+          "gloss": "떠나서"
+        }
+      ],
+      "story": "걸어서 떠나다 → 협상 테이블을 떠나다 → 제안을 포기하다"
+    },
+    "example": {
+      "q": "What will you do if we can't meet your salary expectations?",
+      "a": "I'd still try to find a middle ground, because I'm excited about the team; I'd only walk away if the gap were really large.",
+      "a_ko": "팀이 정말 마음에 들어서 그래도 중간 지점을 찾으려 할 겁니다. 차이가 정말 클 때만 포기할 것 같습니다."
+    },
+    "collocations": [
+      "walk away from an offer",
+      "be willing to walk away"
+    ],
+    "related": [
+      "non-negotiable",
+      "lowball",
+      "negotiate"
+    ],
+    "tip": "'walk away from + 제안/협상'. 위협처럼 들리지 않게 긍정적인 말을 먼저 붙이기"
+  },
+  {
+    "id": "d20-D25",
+    "day": 20,
+    "level": 3,
+    "set": "D",
+    "family": "F10",
+    "word": "lowball",
+    "pos": "verb",
+    "ipa": "/ˈloʊbɔːl/",
+    "meaning_ko": "(일부러) 낮은 금액을 제시하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "low",
+          "type": "part",
+          "gloss": "낮은"
+        },
+        {
+          "text": "ball",
+          "type": "part",
+          "gloss": "공 (야구에서 낮게 던진 공)"
+        }
+      ],
+      "story": "낮게 던진 공 → 일부러 낮게 부른 값 → 터무니없이 낮은 제안을 하다"
+    },
+    "example": {
+      "q": "What would you do if an offer came in lower than you expected?",
+      "a": "If I felt I was being lowballed, I'd stay polite, share the market data I had collected, and ask whether there's flexibility in the base or the sign-on bonus.",
+      "a_ko": "너무 낮게 제시받았다고 느끼면, 정중함을 유지하면서 제가 모은 시장 자료를 공유하고 기본급이나 입사 보너스에 여지가 있는지 묻겠습니다."
+    },
+    "collocations": [
+      "lowball offer",
+      "get lowballed"
+    ],
+    "related": [
+      "walk away",
+      "ballpark figure",
+      "negotiate"
+    ],
+    "tip": "형용사로 'a lowball offer'. 상대에게 직접 'This is a lowball' 이라 하면 무례하게 들릴 수 있음"
+  }
+]

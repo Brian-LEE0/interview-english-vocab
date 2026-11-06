@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "d11-A01",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "respect",
+  "pos": "verb",
+  "ipa": "/rɪˈspekt/",
+  "meaning_ko": "존중하다, 존중",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·뒤로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    }
+   ],
+   "story": "뒤돌아 다시 보다 → 주의 깊게 봄 → 존중하다"
+  },
+  "example": {
+   "q": "How do you handle disagreements with senior engineers?",
+   "a": "I respect their experience, but I still share my concerns with data.",
+   "a_ko": "그분들의 경험을 존중하지만, 제 우려는 데이터와 함께 말씀드립니다."
+  },
+  "collocations": [
+   "respect someone's opinion",
+   "earn respect",
+   "with respect to"
+  ],
+  "related": [
+   "respectfully",
+   "inspect",
+   "prospect",
+   "retrospective"
+  ],
+  "tip": "with respect to(~에 관해)는 respect 의 다른 쓰임이니 함께 알아 두기"
+ },
+ {
+  "id": "d11-A02",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "respectfully",
+  "pos": "adverb",
+  "ipa": "/rɪˈspektfəli/",
+  "meaning_ko": "정중하게, 공손히",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·뒤로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ful",
+     "type": "suffix",
+     "gloss": "가득한"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "다시 돌아보며 존중함 → 존중이 가득하게 → 정중하게"
+  },
+  "example": {
+   "q": "What do you do if you disagree with your manager's decision?",
+   "a": "I respectfully disagree in private first, explaining my reasons, and then I commit to whatever we decide.",
+   "a_ko": "먼저 따로 이유를 설명하며 정중하게 반대 의견을 말하고, 결정이 나면 그대로 따릅니다."
+  },
+  "collocations": [
+   "respectfully disagree",
+   "respectfully decline",
+   "respectfully suggest"
+  ],
+  "related": [
+   "respect",
+   "inspect",
+   "perspective",
+   "prospect"
+  ],
+  "tip": "I respectfully disagree 는 반대하면서도 무례하지 않게 들리는 정석 표현"
+ },
+ {
+  "id": "d11-A03",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "despite",
+  "pos": "phrase",
+  "ipa": "/dɪˈspaɪt/",
+  "meaning_ko": "~에도 불구하고",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "spite",
+     "type": "root",
+     "gloss": "보다 (spect)"
+    }
+   ],
+   "story": "내려다보다(despectus) → 업신여김 → 무시하고 → ~에도 불구하고"
+  },
+  "example": {
+   "q": "Tell me about a challenging project.",
+   "a": "Despite losing two engineers, we launched the app on schedule.",
+   "a_ko": "엔지니어 두 명이 빠졌는데도 앱을 일정대로 출시했습니다."
+  },
+  "collocations": [
+   "despite the delay",
+   "despite the fact that"
+  ],
+  "related": [
+   "in spite of",
+   "respect",
+   "suspect",
+   "expect"
+  ],
+  "tip": "전치사라서 뒤에 of 없이 바로 명사나 -ing (despite of ✗)"
+ },
+ {
+  "id": "d11-A04",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "unexpected",
+  "pos": "adjective",
+  "ipa": "/ˌʌnɪkˈspektɪd/",
+  "meaning_ko": "예상치 못한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "pect",
+     "type": "root",
+     "gloss": "보다 (spect)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "밖을 내다보다(expect) → 내다보지 못한 → 예상치 못한"
+  },
+  "example": {
+   "q": "How do you handle pressure?",
+   "a": "When something unexpected happens, I stay calm and list the facts first.",
+   "a_ko": "예상치 못한 일이 생기면 침착하게 사실부터 정리합니다."
+  },
+  "collocations": [
+   "an unexpected issue",
+   "unexpected behavior",
+   "something unexpected"
+  ],
+  "related": [
+   "expect",
+   "expectation",
+   "aspect",
+   "suspect"
+  ],
+  "tip": "버그를 설명할 때 unexpected behavior(예상과 다른 동작)는 단골 표현"
+ },
+ {
+  "id": "d11-A05",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "inspect",
+  "pos": "verb",
+  "ipa": "/ɪnˈspekt/",
+  "meaning_ko": "점검하다, 자세히 살펴보다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안을"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    }
+   ],
+   "story": "안을 들여다보다(inspicere) → 꼼꼼히 살펴보다 → 점검하다"
+  },
+  "example": {
+   "q": "How do you debug a slow API?",
+   "a": "I inspect the logs and traces to see where the time goes.",
+   "a_ko": "로그와 트레이스를 살펴서 시간이 어디서 걸리는지 확인합니다."
+  },
+  "collocations": [
+   "inspect the logs",
+   "inspect the traffic",
+   "inspect closely"
+  ],
+  "related": [
+   "inspection",
+   "inspector",
+   "respect",
+   "introspection"
+  ],
+  "tip": "look at 보다 꼼꼼하게, 문제를 찾으려고 들여다본다는 느낌"
+ },
+ {
+  "id": "d11-A06",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "inspection",
+  "pos": "noun",
+  "ipa": "/ɪnˈspekʃən/",
+  "meaning_ko": "점검, 검사",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안을"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "안을 들여다봄 → 점검·검사"
+  },
+  "example": {
+   "q": "How do you protect your services from malicious traffic?",
+   "a": "We added deep packet inspection at the gateway, so suspicious traffic is blocked before it reaches our services.",
+   "a_ko": "게이트웨이에 심층 패킷 검사를 넣어서, 수상한 트래픽이 서비스에 닿기 전에 차단되도록 했습니다."
+  },
+  "collocations": [
+   "code inspection",
+   "deep packet inspection",
+   "on closer inspection"
+  ],
+  "related": [
+   "inspect",
+   "inspector",
+   "spectator",
+   "perspective"
+  ],
+  "tip": "on closer inspection(자세히 들여다보니)은 원인을 찾은 순간을 말할 때 좋음"
+ },
+ {
+  "id": "d11-A07",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "prospect",
+  "pos": "noun",
+  "ipa": "/ˈprɑːspekt/",
+  "meaning_ko": "전망, 가능성",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    }
+   ],
+   "story": "앞을 내다봄(prospectus) → 앞날의 전망 → 가능성"
+  },
+  "example": {
+   "q": "Why are you interested in this position?",
+   "a": "The prospect of working on a product used by millions of people really excites me, because I want my work to matter.",
+   "a_ko": "수백만 명이 쓰는 제품을 만들 수 있다는 전망이 정말 설레는데, 제 일이 의미 있기를 바라기 때문입니다."
+  },
+  "collocations": [
+   "the prospect of",
+   "career prospects",
+   "growth prospects"
+  ],
+  "related": [
+   "prospective",
+   "perspective",
+   "retrospective",
+   "expect"
+  ],
+  "tip": "복수 prospects 는 ‘장래성’ — career prospects, growth prospects 로 자주 씀"
+ },
+ {
+  "id": "d11-A08",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "prospective",
+  "pos": "adjective",
+  "ipa": "/prəˈspektɪv/",
+  "meaning_ko": "장래의, 예정된",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "앞을 내다보는 → 앞으로 그렇게 될 → 예정된"
+  },
+  "example": {
+   "q": "Before we send the offer, is there anything you'd like to clarify?",
+   "a": "Yes, as a prospective employee, I'd like to understand how the annual performance review affects salary increases.",
+   "a_ko": "네, 입사 예정자로서 연간 성과 평가가 연봉 인상에 어떻게 반영되는지 알고 싶습니다."
+  },
+  "collocations": [
+   "prospective employer",
+   "prospective employee",
+   "prospective start date"
+  ],
+  "related": [
+   "prospect",
+   "perspective",
+   "retrospective",
+   "respect"
+  ],
+  "tip": "perspective(관점)와 철자 혼동 주의. prospective employer 는 ‘앞으로 다닐 회사’"
+ },
+ {
+  "id": "d11-A09",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "retrospective",
+  "pos": "noun",
+  "ipa": "/ˌretrəˈspektɪv/",
+  "meaning_ko": "회고 (지난 작업을 돌아보는 회의)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "retro",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "뒤를 돌아보는 것 → 스프린트를 돌아보는 회의"
+  },
+  "example": {
+   "q": "How does your team learn from failures?",
+   "a": "We hold a retrospective after every sprint to discuss what went well and what to improve.",
+   "a_ko": "매 스프린트 후 회고를 열어 잘된 점과 개선할 점을 이야기합니다."
+  },
+  "collocations": [
+   "hold a retrospective",
+   "sprint retrospective",
+   "run a retrospective"
+  ],
+  "related": [
+   "in retrospect",
+   "prospect",
+   "introspection",
+   "inspect"
+  ],
+  "tip": "줄여서 retro 라고도 함. 애자일 경험을 물을 때 바로 쓸 수 있는 단어"
+ },
+ {
+  "id": "d11-A10",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "in retrospect",
+  "pos": "phrase",
+  "ipa": "/ɪn ˈretrəspekt/",
+  "meaning_ko": "돌이켜 보면",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~에서"
+    },
+    {
+     "text": "retro",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    }
+   ],
+   "story": "뒤를 돌아보는 입장에서 → 돌이켜 보면"
+  },
+  "example": {
+   "q": "Is there anything you would do differently on that project?",
+   "a": "In retrospect, I should have involved the QA team earlier, because most of our late bugs came from unclear requirements.",
+   "a_ko": "돌이켜 보면 QA 팀을 더 일찍 참여시켰어야 했습니다. 막판 버그 대부분이 불명확한 요구사항에서 나왔기 때문입니다."
+  },
+  "collocations": [
+   "in retrospect, I should have",
+   "obvious in retrospect"
+  ],
+  "related": [
+   "retrospective",
+   "prospect",
+   "perspective",
+   "introspection"
+  ],
+  "tip": "looking back 과 같은 뜻이지만 조금 더 격식 있음. 실패 경험 질문의 첫마디로 좋음"
+ },
+ {
+  "id": "d11-A11",
+  "day": 11,
+  "level": 3,
+  "set": "A",
+  "family": "F1",
+  "word": "introspection",
+  "pos": "noun",
+  "ipa": "/ˌɪntrəˈspekʃən/",
+  "meaning_ko": "자기 성찰",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "intro",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "spect",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "안을 들여다봄(introspicere) → 자기 마음을 들여다봄 → 자기 성찰"
+  },
+  "example": {
+   "q": "How do you handle negative feedback?",
+   "a": "After a tough review last year, some honest introspection showed me I was avoiding hard conversations, so I started scheduling regular one-on-ones.",
+   "a_ko": "작년에 혹독한 평가를 받은 뒤 솔직하게 돌아보니 제가 어려운 대화를 피하고 있었다는 걸 알게 되어, 정기적인 1:1 면담을 잡기 시작했습니다."
+  },
+  "collocations": [
+   "honest introspection",
+   "a moment of introspection"
+  ],
+  "related": [
+   "retrospective",
+   "inspect",
+   "respect",
+   "perspective"
+  ],
+  "tip": "프로그래밍에서는 실행 중에 객체의 타입·구조를 살피는 기능(type introspection)이라는 뜻도 있음"
+ },
+ {
+  "id": "d11-A12",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "spec",
+  "pos": "noun",
+  "ipa": "/spek/",
+  "meaning_ko": "명세, 사양",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "spec",
+     "type": "root",
+     "gloss": "명세 (specification 을 줄인 말)"
+    }
+   ],
+   "story": "specification 의 앞부분만 남긴 말 → 명세서, 사양"
+  },
+  "example": {
+   "q": "How do you start a new feature?",
+   "a": "I write a short spec first and get feedback from the team.",
+   "a_ko": "먼저 짧은 명세를 쓰고 팀의 피드백을 받습니다."
+  },
+  "collocations": [
+   "write a spec",
+   "tech spec",
+   "meet the spec"
+  ],
+  "related": [
+   "specification",
+   "specific",
+   "specify",
+   "special"
+  ],
+  "tip": "실무에서는 specification 보다 spec 이 훨씬 자주 들림. 복수 specs 는 ‘사양’(hardware specs)"
+ },
+ {
+  "id": "d11-A13",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "specifically",
+  "pos": "adverb",
+  "ipa": "/spəˈsɪfɪkli/",
+  "meaning_ko": "구체적으로, 특히",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "종류 (species)"
+    },
+    {
+     "text": "fic",
+     "type": "suffix",
+     "gloss": "~로 만드는 (fic)"
+    },
+    {
+     "text": "ally",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "종류(species)를 정해 주는 → 콕 집어서 → 구체적으로"
+  },
+  "example": {
+   "q": "What do you like about our product?",
+   "a": "Specifically, I like how fast your search feature responds.",
+   "a_ko": "구체적으로는 검색 기능의 응답이 빠른 점이 좋습니다."
+  },
+  "collocations": [
+   "more specifically",
+   "specifically designed for",
+   "specifically because"
+  ],
+  "related": [
+   "specifics",
+   "specification",
+   "special",
+   "specialist"
+  ],
+  "tip": "답을 넓게 시작했다가 More specifically, … 로 좁히면 논리적으로 들림"
+ },
+ {
+  "id": "d11-A14",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "specialist",
+  "pos": "noun",
+  "ipa": "/ˈspeʃəlɪst/",
+  "meaning_ko": "전문가",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "종류 (species)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ist",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "특정 종류의(specialis) → 한 분야에 특별한 사람 → 전문가"
+  },
+  "example": {
+   "q": "Are you a generalist or a specialist?",
+   "a": "I'm a backend specialist, but I'm comfortable working on the frontend too.",
+   "a_ko": "백엔드 전문가이지만 프런트엔드 작업도 편하게 합니다."
+  },
+  "collocations": [
+   "a backend specialist",
+   "a security specialist",
+   "generalist or specialist"
+  ],
+  "related": [
+   "special",
+   "specialty",
+   "specifically",
+   "species"
+  ],
+  "tip": "반대말 generalist(여러 분야를 두루 아는 사람)와 짝으로 자주 질문함"
+ },
+ {
+  "id": "d11-A15",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "specification",
+  "pos": "noun",
+  "ipa": "/ˌspesɪfɪˈkeɪʃən/",
+  "meaning_ko": "명세(서), 사양",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "종류·모양 (species ← specere 보다)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (facere)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "종류(species)를 정해 만듦 → 하나하나 구체적으로 정함 → 명세"
+  },
+  "example": {
+   "q": "How do you make sure frontend and backend teams agree on an API?",
+   "a": "We write an OpenAPI specification before coding, so both teams can build against the same contract in parallel.",
+   "a_ko": "코딩 전에 OpenAPI 명세를 먼저 작성해서, 두 팀이 같은 약속을 기준으로 동시에 개발할 수 있게 합니다."
+  },
+  "collocations": [
+   "API specification",
+   "requirements specification",
+   "meet the specification"
+  ],
+  "related": [
+   "spec",
+   "specify",
+   "specific",
+   "specifically"
+  ],
+  "tip": "줄여서 spec. 동사 specify(명시하다)에서 나온 명사"
+ },
+ {
+  "id": "d11-A16",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "specifics",
+  "pos": "noun",
+  "ipa": "/spəˈsɪfɪks/",
+  "meaning_ko": "세부 사항, 구체적인 내용",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "종류 (species)"
+    },
+    {
+     "text": "fic",
+     "type": "suffix",
+     "gloss": "~로 만드는 (fic)"
+    },
+    {
+     "text": "s",
+     "type": "suffix",
+     "gloss": "~들 (복수)"
+    }
+   ],
+   "story": "종류를 정해 주는 것들 → 구체적인 것들 → 세부 사항"
+  },
+  "example": {
+   "q": "We're happy to move forward with an offer. Do you have any questions?",
+   "a": "Thank you. Before I accept, could we go over the specifics of the bonus structure and the equity vesting schedule?",
+   "a_ko": "감사합니다. 수락하기 전에 보너스 구조와 주식 베스팅 일정의 세부 사항을 함께 확인할 수 있을까요?"
+  },
+  "collocations": [
+   "go over the specifics",
+   "the specifics of the offer",
+   "get into specifics"
+  ],
+  "related": [
+   "specifically",
+   "specification",
+   "specify",
+   "special"
+  ],
+  "tip": "항상 복수형 specifics 로 씀. the details 보다 조금 더 업무적인 느낌"
+ },
+ {
+  "id": "d11-A17",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "specialty",
+  "pos": "noun",
+  "ipa": "/ˈspeʃəlti/",
+  "meaning_ko": "전문 분야, 특기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "종류 (species)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ty",
+     "type": "suffix",
+     "gloss": "~것 (명사)"
+    }
+   ],
+   "story": "특별한 종류 → 특히 잘하는 것 → 전문 분야"
+  },
+  "example": {
+   "q": "What would you say is your area of expertise?",
+   "a": "My specialty is performance tuning, and I've cut page load times by half on two different products.",
+   "a_ko": "제 전문 분야는 성능 튜닝으로, 두 개의 다른 제품에서 페이지 로딩 시간을 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "my specialty is",
+   "a specialty in",
+   "area of specialty"
+  ],
+  "related": [
+   "specialist",
+   "special",
+   "specialize",
+   "especially"
+  ],
+  "tip": "영국식은 speciality. 미국 면접에서는 specialty /ˈspeʃəlti/"
+ },
+ {
+  "id": "d11-A18",
+  "day": 11,
+  "level": 3,
+  "set": "A",
+  "family": "F1",
+  "word": "specious",
+  "pos": "adjective",
+  "ipa": "/ˈspiːʃəs/",
+  "meaning_ko": "그럴듯하지만 틀린",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "speci",
+     "type": "root",
+     "gloss": "겉모습 (species ← specere 보다)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "겉보기에 좋은(speciosus) → 보기에만 그럴듯한 → 그럴듯하지만 틀린"
+  },
+  "example": {
+   "q": "Tell me about a time you challenged a popular opinion.",
+   "a": "The claim that microservices would fix our velocity sounded convincing but was specious, so I showed data proving our real bottleneck was the release process.",
+   "a_ko": "마이크로서비스로 바꾸면 개발 속도가 빨라진다는 주장은 그럴듯했지만 틀렸기에, 진짜 병목이 배포 절차라는 데이터를 보여 드렸습니다."
+  },
+  "collocations": [
+   "a specious argument",
+   "specious reasoning"
+  ],
+  "related": [
+   "species",
+   "special",
+   "specific",
+   "specifically"
+  ],
+  "tip": "spacious(넓은)와 철자·발음 혼동 주의. 발음 /ˈspiːʃəs/ (스피셔스)"
+ },
+ {
+  "id": "d11-A19",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "suspicion",
+  "pos": "noun",
+  "ipa": "/səˈspɪʃən/",
+  "meaning_ko": "의심, (원인이라는) 짐작",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "su",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "spic",
+     "type": "root",
+     "gloss": "보다 (spect)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "아래에서 올려다봄(suspicere) → 미심쩍게 봄 → 의심"
+  },
+  "example": {
+   "q": "Walk me through how you found the root cause.",
+   "a": "My first suspicion was the new cache layer, so I disabled it in staging and the errors disappeared immediately.",
+   "a_ko": "처음에는 새로 넣은 캐시 계층을 의심해서, 스테이징에서 꺼 보니 오류가 바로 사라졌습니다."
+  },
+  "collocations": [
+   "my first suspicion",
+   "confirm a suspicion",
+   "under suspicion"
+  ],
+  "related": [
+   "suspect",
+   "suspicious",
+   "inspect",
+   "perspective"
+  ],
+  "tip": "디버깅 이야기에서 My first suspicion was ~ 로 가설을 말하면 사고 과정이 잘 드러남"
+ },
+ {
+  "id": "d11-A20",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "scoped",
+  "pos": "adjective",
+  "ipa": "/skoʊpt/",
+  "meaning_ko": "범위가 정해진, 권한이 제한된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "scop",
+     "type": "root",
+     "gloss": "범위 (그리스어 skopos 과녁)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "과녁·목표(skopos) → 다루는 범위 → 범위가 정해진"
+  },
+  "example": {
+   "q": "How do you limit the damage if an API key leaks?",
+   "a": "We issue narrowly scoped tokens, so a leaked key can only read one storage bucket for one hour.",
+   "a_ko": "범위를 좁게 제한한 토큰을 발급해서, 키가 유출돼도 한 시간 동안 버킷 하나만 읽을 수 있습니다."
+  },
+  "collocations": [
+   "narrowly scoped",
+   "well-scoped task",
+   "scoped access"
+  ],
+  "related": [
+   "scope",
+   "descope",
+   "microscope",
+   "skeptical"
+  ],
+  "tip": "well-scoped(범위가 잘 정해진) 작업이라는 표현은 계획·추정 이야기에도 좋음"
+ },
+ {
+  "id": "d11-A21",
+  "day": 11,
+  "level": 3,
+  "set": "A",
+  "family": "F1",
+  "word": "descope",
+  "pos": "verb",
+  "ipa": "/diːˈskoʊp/",
+  "meaning_ko": "범위에서 빼다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떼어 내다"
+    },
+    {
+     "text": "scope",
+     "type": "root",
+     "gloss": "범위 (그리스어 skopos 과녁)"
+    }
+   ],
+   "story": "정해 둔 범위에서 떼어 내다 → 이번 일정에서 기능을 빼다"
+  },
+  "example": {
+   "q": "What did you do when the deadline couldn't move?",
+   "a": "I proposed that we descope the reporting dashboard to the next release, which let us ship the core payment flow on time without overtime.",
+   "a_ko": "리포트 대시보드를 다음 릴리스로 빼자고 제안해서, 야근 없이 핵심 결제 흐름을 제때 출시할 수 있었습니다."
+  },
+  "collocations": [
+   "descope a feature",
+   "descope to the next release"
+  ],
+  "related": [
+   "scope",
+   "scope creep",
+   "microscope"
+  ],
+  "tip": "cut 보다 계획적인 느낌. 일정 협상 이야기를 할 때 시니어답게 들림"
+ },
+ {
+  "id": "d11-A22",
+  "day": 11,
+  "level": 3,
+  "set": "A",
+  "family": "F1",
+  "word": "under the microscope",
+  "pos": "phrase",
+  "ipa": "/ˈʌndər ðə ˈmaɪkrəskoʊp/",
+  "meaning_ko": "철저히 검토(감시)받는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "under",
+     "type": "part",
+     "gloss": "~ 아래"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "micro",
+     "type": "prefix",
+     "gloss": "작은 (그리스어 mikros)"
+    },
+    {
+     "text": "scope",
+     "type": "root",
+     "gloss": "보다 (그리스어 skopein)"
+    }
+   ],
+   "story": "현미경 아래에 놓인 → 아주 자세히 들여다보이는 → 철저히 검토받는"
+  },
+  "example": {
+   "q": "Tell me about a high-pressure situation.",
+   "a": "After the outage, our team was under the microscope, so I published a weekly reliability report to rebuild trust with leadership.",
+   "a_ko": "장애 이후 저희 팀은 철저한 감시를 받았기에, 매주 안정성 보고서를 공개해서 경영진의 신뢰를 다시 쌓았습니다."
+  },
+  "collocations": [
+   "be under the microscope",
+   "put something under the microscope"
+  ],
+  "related": [
+   "microscope",
+   "scope",
+   "telescope"
+  ],
+  "tip": "under scrutiny 와 비슷한 뜻. 무언가를 철저히 분석했다고 할 때는 put ~ under the microscope"
+ },
+ {
+  "id": "d11-A23",
+  "day": 11,
+  "level": 3,
+  "set": "A",
+  "family": "F1",
+  "word": "notoriously",
+  "pos": "adverb",
+  "ipa": "/noʊˈtɔːriəsli/",
+  "meaning_ko": "악명 높을 만큼, 다들 알다시피",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (noscere)"
+    },
+    {
+     "text": "orious",
+     "type": "suffix",
+     "gloss": "~로 알려진 (-orius)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "널리 알려진(notorius) → 나쁘게 유명한 → 악명 높을 만큼"
+  },
+  "example": {
+   "q": "What was the hardest bug you've fixed?",
+   "a": "Race conditions are notoriously hard to reproduce, so I added detailed timestamps to every lock and finally caught it after two days.",
+   "a_ko": "경쟁 상태는 재현하기 어렵기로 악명 높아서, 모든 락에 상세 타임스탬프를 달아 이틀 만에 잡아냈습니다."
+  },
+  "collocations": [
+   "notoriously difficult",
+   "notoriously hard to debug",
+   "notoriously unreliable"
+  ],
+  "related": [
+   "notorious",
+   "notice",
+   "notion",
+   "recognize"
+  ],
+  "tip": "notoriously hard to ~ 는 ‘어렵기로 유명한’ — 문제의 난도를 강조할 때"
+ },
+ {
+  "id": "d11-A24",
+  "day": 11,
+  "level": 1,
+  "set": "A",
+  "family": "F1",
+  "word": "at a high level",
+  "pos": "phrase",
+  "ipa": "/æt ə ˌhaɪ ˈlevəl/",
+  "meaning_ko": "큰 그림으로 보면, 개략적으로",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "part",
+     "gloss": "~에서"
+    },
+    {
+     "text": "a",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "high",
+     "type": "part",
+     "gloss": "높은"
+    },
+    {
+     "text": "level",
+     "type": "part",
+     "gloss": "수준"
+    }
+   ],
+   "story": "높은 위치에서 내려다보면 → 세부 없이 큰 그림으로"
+  },
+  "example": {
+   "q": "Can you walk me through your last project?",
+   "a": "At a high level, it was a payment service that handled refunds.",
+   "a_ko": "큰 그림으로 말씀드리면, 환불을 처리하는 결제 서비스였습니다."
+  },
+  "collocations": [
+   "at a high level",
+   "a high-level overview",
+   "high-level design"
+  ],
+  "related": [
+   "under the hood",
+   "in a nutshell",
+   "zoom out"
+  ],
+  "tip": "먼저 at a high level 로 전체를 말하고, 질문을 받으면 세부로 내려가는 게 기술 설명의 기본 순서"
+ },
+ {
+  "id": "d11-A25",
+  "day": 11,
+  "level": 2,
+  "set": "A",
+  "family": "F1",
+  "word": "under the hood",
+  "pos": "phrase",
+  "ipa": "/ˌʌndər ðə ˈhʊd/",
+  "meaning_ko": "내부적으로, 속을 들여다보면",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "under",
+     "type": "part",
+     "gloss": "~ 아래"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "hood",
+     "type": "part",
+     "gloss": "(자동차) 보닛"
+    }
+   ],
+   "story": "자동차 보닛 아래 → 엔진이 있는 곳 → 겉으로 안 보이는 내부 동작"
+  },
+  "example": {
+   "q": "Can you explain how your search feature works?",
+   "a": "Under the hood, it's an Elasticsearch cluster, and we rebuild the index every night from the main database.",
+   "a_ko": "내부적으로는 Elasticsearch 클러스터이고, 매일 밤 메인 DB 로부터 인덱스를 다시 만듭니다."
+  },
+  "collocations": [
+   "under the hood",
+   "what happens under the hood",
+   "look under the hood"
+  ],
+  "related": [
+   "at a high level",
+   "drill down",
+   "end-to-end"
+  ],
+  "tip": "hood 는 미국식으로 ‘자동차 보닛’. 겉 → 속 순서로 설명할 때 at a high level 과 짝"
+ }
+]

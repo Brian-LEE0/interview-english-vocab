@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "d20-C01",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "negotiate",
+    "pos": "verb",
+    "ipa": "/nɪˈɡoʊʃieɪt/",
+    "meaning_ko": "협상하다, 조율하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "neg",
+          "type": "prefix",
+          "gloss": "아닌 (nec)"
+        },
+        {
+          "text": "oti",
+          "type": "root",
+          "gloss": "여가, 한가함 (otium)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "한가하지 않음 (negotium) → 바쁜 일, 거래 → 거래를 하다 → 협상하다"
+    },
+    "example": {
+      "q": "Are you comfortable with the offer as it is?",
+      "a": "I'm excited about the role, but I'd like to negotiate the base salary a little, since it's below the market data I've seen for this level.",
+      "a_ko": "역할은 정말 기대되지만, 제가 본 이 직급의 시장 자료보다 낮아서 기본급을 조금 조율하고 싶습니다."
+    },
+    "collocations": [
+      "negotiate the salary",
+      "negotiate an offer",
+      "room to negotiate"
+    ],
+    "related": [
+      "non-negotiable",
+      "negation",
+      "renege",
+      "deny"
+    ],
+    "tip": "'일이 많아 한가하지 않다'에서 나온 말. 발음 '니고우시에이트'"
+  },
+  {
+    "id": "d20-C02",
+    "day": 20,
+    "level": 3,
+    "set": "C",
+    "family": "F10",
+    "word": "non-negotiable",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn nɪˈɡoʊʃəbəl/",
+    "meaning_ko": "협상할 수 없는, 양보할 수 없는",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "neg",
+          "type": "prefix",
+          "gloss": "아닌 (nec)"
+        },
+        {
+          "text": "oti",
+          "type": "root",
+          "gloss": "여가 (otium)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "협상(negotium)할 수 없는 → 절대 양보할 수 없는"
+    },
+    "example": {
+      "q": "Is there anything in the offer that's a must-have for you?",
+      "a": "Working remotely two days a week is non-negotiable for me because of family commitments, but I'm flexible on the start date and the title.",
+      "a_ko": "가족 사정 때문에 주 2일 재택근무는 양보할 수 없지만, 입사일과 직함은 유연하게 생각하고 있습니다."
+    },
+    "collocations": [
+      "non-negotiable for me",
+      "a non-negotiable requirement"
+    ],
+    "related": [
+      "negotiate",
+      "renege",
+      "negation"
+    ],
+    "tip": "양보 못 하는 조건 하나를 말할 때는 유연한 조건도 바로 함께 말해야 부드러움"
+  },
+  {
+    "id": "d20-C03",
+    "day": 20,
+    "level": 3,
+    "set": "C",
+    "family": "F10",
+    "word": "renege",
+    "pos": "verb",
+    "ipa": "/rɪˈneɡ/",
+    "meaning_ko": "(약속을) 어기다, 번복하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "거꾸로, 다시"
+        },
+        {
+          "text": "neg",
+          "type": "root",
+          "gloss": "부정하다 (negare)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(어미)"
+        }
+      ],
+      "story": "다시 부정하다 (renegare) → 했던 말을 뒤집다 → 약속을 어기다"
+    },
+    "example": {
+      "q": "How firm is your decision if we make you an offer?",
+      "a": "Once I sign, I won't renege on it; I've already told my manager I'm exploring options, so there will be no surprises on either side.",
+      "a_ko": "서명하면 번복하지 않겠습니다. 이미 매니저에게 이직을 알아보고 있다고 말해 두어서, 어느 쪽에도 갑작스러운 일은 없을 겁니다."
+    },
+    "collocations": [
+      "renege on an offer",
+      "renege on a promise"
+    ],
+    "related": [
+      "negotiate",
+      "deny",
+      "negation",
+      "neglect"
+    ],
+    "tip": "항상 renege on ~ 형태. 발음 '리네그' (끝이 '그')"
+  },
+  {
+    "id": "d20-C04",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "negation",
+    "pos": "noun",
+    "ipa": "/nɪˈɡeɪʃən/",
+    "meaning_ko": "부정, 부정 연산",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "neg",
+          "type": "root",
+          "gloss": "부정하다 (negare)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "아니라고 말함 → 부정 → (논리) 참·거짓을 뒤집는 연산"
+    },
+    "example": {
+      "q": "How did you simplify that complex condition?",
+      "a": "I removed a double negation and renamed the flag to isEnabled, so the condition now reads like plain English.",
+      "a_ko": "이중 부정을 없애고 플래그 이름을 isEnabled 로 바꿔서, 조건문이 평범한 영어처럼 읽히게 했습니다."
+    },
+    "collocations": [
+      "double negation",
+      "logical negation"
+    ],
+    "related": [
+      "negate",
+      "deny",
+      "renege",
+      "negotiate"
+    ],
+    "tip": "코드 리뷰에서 'avoid double negation' (if !isNotReady 같은 것) 이라고 자주 씀"
+  },
+  {
+    "id": "d20-C05",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "counter",
+    "pos": "verb",
+    "ipa": "/ˈkaʊntər/",
+    "meaning_ko": "반박하다, 맞서다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "counter",
+          "type": "root",
+          "gloss": "맞서, 반대로 (contra)"
+        }
+      ],
+      "story": "맞서서 (contra) → 반대 의견으로 받아치다"
+    },
+    "example": {
+      "q": "What do you do when someone disagrees with your design?",
+      "a": "If someone counters my design, I ask them to write down their concern, and then we test both ideas with a quick prototype.",
+      "a_ko": "누가 제 설계에 반대 의견을 내면, 우려 사항을 적어 달라고 한 다음 빠른 프로토타입으로 두 아이디어를 모두 시험해 봅니다."
+    },
+    "collocations": [
+      "counter an argument",
+      "counter with data"
+    ],
+    "related": [
+      "counterpoint",
+      "counterbalance",
+      "encounter",
+      "contrary"
+    ],
+    "tip": "숫자를 세는 counter(계수기, computare 에서)와는 다른 말"
+  },
+  {
+    "id": "d20-C06",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "counterpoint",
+    "pos": "noun",
+    "ipa": "/ˈkaʊntərpɔɪnt/",
+    "meaning_ko": "반대 관점, 대조되는 의견",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "counter",
+          "type": "prefix",
+          "gloss": "맞서 (contra)"
+        },
+        {
+          "text": "point",
+          "type": "root",
+          "gloss": "점, 음표 (punctum)"
+        }
+      ],
+      "story": "음표에 맞서는 음표 (contrapunctum) → 대위법 → 다른 쪽 관점"
+    },
+    "example": {
+      "q": "How do you make sure your team considers other options?",
+      "a": "In design reviews I often offer a counterpoint on purpose, so we don't pick the first idea just because it came first.",
+      "a_ko": "설계 리뷰에서 일부러 반대 관점을 자주 내놓습니다. 처음 나온 아이디어라는 이유만으로 고르지 않게 하려고요."
+    },
+    "collocations": [
+      "offer a counterpoint",
+      "as a counterpoint"
+    ],
+    "related": [
+      "counter",
+      "counterbalance",
+      "counterpart"
+    ],
+    "tip": "음악의 대위법에서 온 말. 비판이 아니라 '다른 시각'을 낼 때 부드럽게 들림"
+  },
+  {
+    "id": "d20-C07",
+    "day": 20,
+    "level": 3,
+    "set": "C",
+    "family": "F10",
+    "word": "counterbalance",
+    "pos": "verb",
+    "ipa": "/ˌkaʊntərˈbæləns/",
+    "meaning_ko": "균형을 맞추다, 상쇄하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "counter",
+          "type": "prefix",
+          "gloss": "맞서 (contra)"
+        },
+        {
+          "text": "balance",
+          "type": "part",
+          "gloss": "저울 (bilanx, 두 접시)"
+        }
+      ],
+      "story": "반대쪽에 무게를 올려 저울을 맞추다 → 상쇄하다"
+    },
+    "example": {
+      "q": "How do you balance speed and quality?",
+      "a": "I push for fast releases, so I counterbalance that with feature flags and automatic rollbacks; last year we shipped weekly with no major incidents.",
+      "a_ko": "빠른 출시를 밀어붙이는 편이라, 피처 플래그와 자동 롤백으로 균형을 맞춥니다. 작년에는 큰 장애 없이 매주 배포했습니다."
+    },
+    "collocations": [
+      "counterbalance the risk",
+      "act as a counterbalance"
+    ],
+    "related": [
+      "counter",
+      "counterpoint",
+      "counteract"
+    ],
+    "tip": "자신의 성향(장점의 부작용)을 어떻게 보완하는지 말할 때 좋음"
+  },
+  {
+    "id": "d20-C08",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "nil",
+    "pos": "noun",
+    "ipa": "/nɪl/",
+    "meaning_ko": "nil (값이 없음), 영(0)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "n",
+          "type": "prefix",
+          "gloss": "아닌 (ne)"
+        },
+        {
+          "text": "il",
+          "type": "root",
+          "gloss": "작은 것 (hilum)"
+        }
+      ],
+      "story": "작은 것 하나도 없음 (nihil) → 무(無) → 값이 없음"
+    },
+    "example": {
+      "q": "How do you avoid crashes in your Go services?",
+      "a": "I always check whether the error is nil before using the result.",
+      "a_ko": "결과를 쓰기 전에 항상 에러가 nil 인지 확인합니다."
+    },
+    "collocations": [
+      "nil check",
+      "return nil"
+    ],
+    "related": [
+      "null",
+      "nullable",
+      "annul"
+    ],
+    "tip": "Go·Ruby 의 nil = 다른 언어의 null. 일상에서는 '0, 전무'라는 뜻"
+  },
+  {
+    "id": "d20-C09",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "non-native",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˈneɪtɪv/",
+    "meaning_ko": "모국어가 아닌, 비원어민의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "nat",
+          "type": "root",
+          "gloss": "태어나다 (nasci)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "그 땅에서 태어나지 않은 → 모국어로 쓰지 않는"
+    },
+    "example": {
+      "q": "How do you handle communication in English?",
+      "a": "As a non-native speaker, I always confirm requirements in writing.",
+      "a_ko": "영어가 모국어가 아니어서, 요구 사항은 항상 글로 확인합니다."
+    },
+    "collocations": [
+      "non-native speaker",
+      "non-native English"
+    ],
+    "related": [
+      "native",
+      "non-technical",
+      "nonverbal"
+    ],
+    "tip": "약점처럼 숨기기보다 대처 방법과 함께 말하면 오히려 신뢰를 줌"
+  },
+  {
+    "id": "d20-C10",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "non-technical",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˈteknɪkəl/",
+    "meaning_ko": "비기술직의, 기술 지식이 없는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "techn",
+          "type": "root",
+          "gloss": "기술 (tekhnē)"
+        },
+        {
+          "text": "ical",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "기술(그리스어 tekhnē)이 아닌 → 엔지니어가 아닌"
+    },
+    "example": {
+      "q": "How do you explain problems to business teams?",
+      "a": "I explain incidents to non-technical managers without any jargon.",
+      "a_ko": "비개발 직군 매니저에게는 전문 용어 없이 장애를 설명합니다."
+    },
+    "collocations": [
+      "non-technical stakeholders",
+      "non-technical audience"
+    ],
+    "related": [
+      "non-native",
+      "nonverbal",
+      "non-urgent"
+    ],
+    "tip": "'non-technical stakeholders' 는 협업 질문에서 거의 매번 나옴"
+  },
+  {
+    "id": "d20-C11",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "non-urgent",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˈɜːrdʒənt/",
+    "meaning_ko": "급하지 않은",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "urg",
+          "type": "root",
+          "gloss": "누르다, 재촉하다 (urgere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "재촉하지 않는 → 급하지 않은"
+    },
+    "example": {
+      "q": "How do you protect your focus time?",
+      "a": "I answer non-urgent messages in batches after lunch.",
+      "a_ko": "급하지 않은 메시지는 점심 이후에 모아서 답합니다."
+    },
+    "collocations": [
+      "non-urgent requests",
+      "non-urgent issues"
+    ],
+    "related": [
+      "non-technical",
+      "non-native",
+      "nonexistent"
+    ],
+    "tip": "우선순위·시간 관리 질문에서 urgent / non-urgent 를 대비해서 쓰기"
+  },
+  {
+    "id": "d20-C12",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "nonexistent",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːnɪɡˈzɪstənt/",
+    "meaning_ko": "존재하지 않는, 거의 없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "ist",
+          "type": "root",
+          "gloss": "서다 (sistere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "밖으로 나와 서 있지 않은 → 존재하지 않는"
+    },
+    "example": {
+      "q": "What was the state of testing when you joined?",
+      "a": "Test coverage was almost nonexistent, so I started with the payment flow.",
+      "a_ko": "테스트 커버리지가 거의 없어서, 결제 흐름부터 시작했습니다."
+    },
+    "collocations": [
+      "almost nonexistent",
+      "virtually nonexistent"
+    ],
+    "related": [
+      "nonzero",
+      "nil",
+      "non-production"
+    ],
+    "tip": "'거의 없다'를 강조할 때 almost / virtually nonexistent"
+  },
+  {
+    "id": "d20-C13",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "nonzero",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːnˈzɪroʊ/",
+    "meaning_ko": "0이 아닌",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "zero",
+          "type": "part",
+          "gloss": "영 (아랍어 sifr 에서)"
+        }
+      ],
+      "story": "영(0)이 아닌"
+    },
+    "example": {
+      "q": "How does your deploy script report failures?",
+      "a": "It exits with a nonzero code whenever any check fails.",
+      "a_ko": "어떤 검사라도 실패하면 0이 아닌 종료 코드로 끝납니다."
+    },
+    "collocations": [
+      "nonzero exit code",
+      "nonzero value"
+    ],
+    "related": [
+      "nil",
+      "nonexistent",
+      "non-production"
+    ],
+    "tip": "셸 스크립트에서 exit code 0 = 성공, nonzero = 실패"
+  },
+  {
+    "id": "d20-C14",
+    "day": 20,
+    "level": 1,
+    "set": "C",
+    "family": "F10",
+    "word": "non-production",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn prəˈdʌkʃən/",
+    "meaning_ko": "운영(프로덕션)이 아닌",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "duct",
+          "type": "root",
+          "gloss": "이끌다 (ducere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "실제 운영(production)이 아닌 → 개발·검증용의"
+    },
+    "example": {
+      "q": "How do you test risky database changes?",
+      "a": "I run risky migrations in a non-production environment first.",
+      "a_ko": "위험한 마이그레이션은 먼저 운영이 아닌 환경에서 돌려 봅니다."
+    },
+    "collocations": [
+      "non-production environment",
+      "non-production data"
+    ],
+    "related": [
+      "nonzero",
+      "nonexistent",
+      "non-breaking"
+    ],
+    "tip": "줄여서 non-prod. staging·dev 환경을 한꺼번에 부를 때 편함"
+  },
+  {
+    "id": "d20-C15",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "non-confrontational",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˌkɑːnfrənˈteɪʃənəl/",
+    "meaning_ko": "대립하지 않는, 부드럽게 맞서는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께, 마주"
+        },
+        {
+          "text": "front",
+          "type": "root",
+          "gloss": "이마, 앞면 (frons)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "이마를 마주 대다 (confrontare) → 정면으로 맞서다 → 그렇게 하지 않는 → 부드럽게 다루는"
+    },
+    "example": {
+      "q": "How do you raise a problem with a senior colleague?",
+      "a": "I take a non-confrontational approach: I share the data privately first and ask what I might be missing, so it never feels like an attack.",
+      "a_ko": "대립하지 않는 방식을 씁니다. 먼저 따로 데이터를 공유하고 제가 놓친 게 있는지 물어서, 공격처럼 느껴지지 않게 합니다."
+    },
+    "collocations": [
+      "non-confrontational approach",
+      "non-confrontational tone"
+    ],
+    "related": [
+      "non-technical",
+      "nonverbal",
+      "non-native"
+    ],
+    "tip": "문제를 '피한다'는 뜻이 아니라 '부드럽게 꺼낸다'는 뜻. 갈등 질문에 잘 맞음"
+  },
+  {
+    "id": "d20-C16",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "nonverbal",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːnˈvɜːrbəl/",
+    "meaning_ko": "말로 하지 않는, 비언어적인",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "verb",
+          "type": "root",
+          "gloss": "말 (verbum)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "말(verbum)이 아닌 → 표정·몸짓으로 하는"
+    },
+    "example": {
+      "q": "How do you run meetings with a remote team?",
+      "a": "Since nonverbal cues are easy to miss on video calls, I ask quieter teammates directly for their opinion before we decide.",
+      "a_ko": "화상 회의에서는 표정 같은 비언어적 신호를 놓치기 쉬워서, 결정 전에 말수가 적은 팀원에게 직접 의견을 묻습니다."
+    },
+    "collocations": [
+      "nonverbal cues",
+      "nonverbal communication"
+    ],
+    "related": [
+      "non-native",
+      "non-technical",
+      "verbal"
+    ],
+    "tip": "원격 협업 질문에서 'nonverbal cues' 를 쓰면 배려 깊게 들림"
+  },
+  {
+    "id": "d20-C17",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "non-disclosure",
+    "pos": "noun",
+    "ipa": "/ˌnɑːn dɪsˈkloʊʒər/",
+    "meaning_ko": "비공개, 기밀 유지",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "dis",
+          "type": "prefix",
+          "gloss": "반대로"
+        },
+        {
+          "text": "clos",
+          "type": "root",
+          "gloss": "닫다 (claudere)"
+        },
+        {
+          "text": "ure",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "닫은 것을 여는 것(disclosure)이 아닌 → 공개하지 않음 → 기밀 유지"
+    },
+    "example": {
+      "q": "Can you tell us more about that project?",
+      "a": "I'm under a non-disclosure agreement, so I can't name the client, but I can walk you through the architecture at a high level.",
+      "a_ko": "기밀 유지 계약 때문에 고객사 이름은 말씀드릴 수 없지만, 아키텍처는 큰 틀에서 설명드릴 수 있습니다."
+    },
+    "collocations": [
+      "non-disclosure agreement",
+      "under a non-disclosure agreement"
+    ],
+    "related": [
+      "non-compete",
+      "nonprofit",
+      "nonexistent"
+    ],
+    "tip": "보통 NDA 로 줄여 말함. 말 못 하는 부분과 말할 수 있는 부분을 같이 제시하기"
+  },
+  {
+    "id": "d20-C18",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "non-blocking",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˈblɑːkɪŋ/",
+    "meaning_ko": "논블로킹의, 기다리지 않는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "blocking",
+          "type": "part",
+          "gloss": "막는 (block, 중세 네덜란드어)"
+        }
+      ],
+      "story": "막지 않는 → 결과를 기다리며 멈추지 않는"
+    },
+    "example": {
+      "q": "How did you improve the throughput of that service?",
+      "a": "I switched file uploads to non-blocking I/O, so one slow client no longer held a thread and throughput doubled.",
+      "a_ko": "파일 업로드를 논블로킹 I/O 로 바꿔서, 느린 클라이언트 하나가 스레드를 붙잡지 않게 되었고 처리량이 두 배가 됐습니다."
+    },
+    "collocations": [
+      "non-blocking I/O",
+      "non-blocking call"
+    ],
+    "related": [
+      "non-breaking",
+      "nonlinear",
+      "non-intrusive"
+    ],
+    "tip": "비동기(asynchronous)와 비슷하지만 같은 말은 아님. 리뷰 코멘트 'non-blocking' = 머지를 막지 않는 의견"
+  },
+  {
+    "id": "d20-C19",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "non-breaking",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ˈbreɪkɪŋ/",
+    "meaning_ko": "하위 호환되는, 기존 것을 깨지 않는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "breaking",
+          "type": "part",
+          "gloss": "깨는 (break, 고대 영어)"
+        }
+      ],
+      "story": "깨지 않는 → 기존 사용자를 망가뜨리지 않는"
+    },
+    "example": {
+      "q": "How do you change a public API safely?",
+      "a": "I make non-breaking changes first, like adding optional fields, and remove old fields only after every client has migrated.",
+      "a_ko": "선택 필드 추가처럼 하위 호환되는 변경을 먼저 하고, 모든 클라이언트가 옮긴 뒤에야 예전 필드를 지웁니다."
+    },
+    "collocations": [
+      "non-breaking change",
+      "backward-compatible"
+    ],
+    "related": [
+      "non-blocking",
+      "nonlinear",
+      "non-intrusive"
+    ],
+    "tip": "반대말 breaking change. 시맨틱 버저닝 설명과 함께 쓰기 좋음"
+  },
+  {
+    "id": "d20-C20",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "nonlinear",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːnˈlɪniər/",
+    "meaning_ko": "비선형의, 정비례하지 않는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "line",
+          "type": "root",
+          "gloss": "줄, 선 (linea)"
+        },
+        {
+          "text": "ar",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "직선(linea)이 아닌 → 비례해서 늘지 않는"
+    },
+    "example": {
+      "q": "How did performance change as traffic grew?",
+      "a": "Latency grew in a nonlinear way once CPU passed 70 percent, so we set autoscaling to trigger at 60 percent.",
+      "a_ko": "CPU 가 70%를 넘자 지연 시간이 비선형으로 늘어서, 오토스케일링이 60%에서 작동하도록 설정했습니다."
+    },
+    "collocations": [
+      "nonlinear growth",
+      "nonlinear relationship"
+    ],
+    "related": [
+      "non-blocking",
+      "non-breaking",
+      "nonzero"
+    ],
+    "tip": "성능 그래프가 '갑자기 꺾여 오른다'를 설명할 때 쓰는 말"
+  },
+  {
+    "id": "d20-C21",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "non-intrusive",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːn ɪnˈtruːsɪv/",
+    "meaning_ko": "방해가 적은, 기존 것을 건드리지 않는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non-",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "trus",
+          "type": "root",
+          "gloss": "밀다 (trudere)"
+        },
+        {
+          "text": "ive",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "안으로 밀고 들어가지 않는 → 기존 것을 건드리지 않는"
+    },
+    "example": {
+      "q": "How did you add monitoring to the legacy app?",
+      "a": "I chose a non-intrusive approach with a sidecar agent, so we got metrics without touching the old code.",
+      "a_ko": "사이드카 에이전트를 쓰는 방해가 적은 방식을 골라서, 예전 코드를 건드리지 않고 지표를 얻었습니다."
+    },
+    "collocations": [
+      "non-intrusive approach",
+      "non-intrusive monitoring"
+    ],
+    "related": [
+      "non-blocking",
+      "non-breaking",
+      "nonlinear"
+    ],
+    "tip": "intrusive(침범하는)의 반대. 레거시 시스템 개선 이야기에 잘 맞음"
+  },
+  {
+    "id": "d20-C22",
+    "day": 20,
+    "level": 3,
+    "set": "C",
+    "family": "F10",
+    "word": "nondeterministic",
+    "pos": "adjective",
+    "ipa": "/ˌnɑːndɪˌtɜːrmɪˈnɪstɪk/",
+    "meaning_ko": "비결정적인, 결과가 매번 다른",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "non",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "termin",
+          "type": "root",
+          "gloss": "경계, 끝 (terminus)"
+        },
+        {
+          "text": "ist",
+          "type": "suffix",
+          "gloss": "~주의"
+        },
+        {
+          "text": "ic",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "경계를 정하지(determinare) 않는 → 결과가 미리 정해지지 않는 → 실행할 때마다 다른"
+    },
+    "example": {
+      "q": "How do you deal with flaky tests?",
+      "a": "Most of our flaky tests were nondeterministic because they depended on timing, so I replaced sleeps with explicit waits and failures dropped by 90 percent.",
+      "a_ko": "불안정한 테스트 대부분이 타이밍에 의존해서 결과가 매번 달랐기 때문에, sleep 을 명시적 대기로 바꿨고 실패가 90% 줄었습니다."
+    },
+    "collocations": [
+      "nondeterministic behavior",
+      "nondeterministic test"
+    ],
+    "related": [
+      "deterministic",
+      "determine",
+      "term",
+      "terminal"
+    ],
+    "tip": "flaky test 원인을 설명할 때 핵심 단어. 반대말 deterministic"
+  },
+  {
+    "id": "d20-C23",
+    "day": 20,
+    "level": 3,
+    "set": "C",
+    "family": "F10",
+    "word": "necessitate",
+    "pos": "verb",
+    "ipa": "/nəˈsesɪteɪt/",
+    "meaning_ko": "필요하게 만들다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ne",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "cess",
+          "type": "root",
+          "gloss": "물러서다 (cedere)"
+        },
+        {
+          "text": "it",
+          "type": "suffix",
+          "gloss": "(명사형 -itas)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "물러설 수 없는 것 (necesse) → 꼭 필요한 것 → 필요하게 만들다"
+    },
+    "example": {
+      "q": "Tell me about a time requirements changed late.",
+      "a": "A new privacy law necessitated rewriting our consent flow, so I split the work into three releases and we met the deadline without pausing other features.",
+      "a_ko": "새 개인정보 법 때문에 동의 화면을 다시 만들어야 했는데, 작업을 세 번의 릴리스로 나눠서 다른 기능을 멈추지 않고 기한을 맞췄습니다."
+    },
+    "collocations": [
+      "necessitate a change",
+      "necessitate rewriting"
+    ],
+    "related": [
+      "necessary",
+      "unnecessary",
+      "necessity"
+    ],
+    "tip": "'A necessitated B' = A 때문에 B 가 필요해졌다. 원인을 주어로 세우면 문장이 깔끔함"
+  },
+  {
+    "id": "d20-C24",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "ballpark figure",
+    "pos": "noun",
+    "ipa": "/ˈbɔːlpɑːrk ˌfɪɡjər/",
+    "meaning_ko": "대략적인 숫자, 어림값",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ballpark ",
+          "type": "part",
+          "gloss": "야구장"
+        },
+        {
+          "text": "figure",
+          "type": "part",
+          "gloss": "숫자"
+        }
+      ],
+      "story": "야구장 안에 들어오는 정도의 숫자 → 정확하진 않지만 범위 안의 대략적인 숫자"
+    },
+    "example": {
+      "q": "Could you give me a rough idea of your salary expectations?",
+      "a": "A ballpark figure would be around 90,000 dollars, but I'd like to hear about the whole package before settling on a number.",
+      "a_ko": "대략 9만 달러 정도지만, 숫자를 정하기 전에 전체 처우 구성을 먼저 듣고 싶습니다."
+    },
+    "collocations": [
+      "a ballpark figure",
+      "in the ballpark"
+    ],
+    "related": [
+      "estimate",
+      "pay band",
+      "rate"
+    ],
+    "tip": "'in the same ballpark' = 비슷한 수준. 희망 연봉을 범위로 말할 때 편리함"
+  },
+  {
+    "id": "d20-C25",
+    "day": 20,
+    "level": 2,
+    "set": "C",
+    "family": "F10",
+    "word": "pay band",
+    "pos": "noun",
+    "ipa": "/ˈpeɪ ˌbænd/",
+    "meaning_ko": "급여 등급 범위, 연봉 밴드",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pay ",
+          "type": "part",
+          "gloss": "급여"
+        },
+        {
+          "text": "band",
+          "type": "part",
+          "gloss": "띠, 범위"
+        }
+      ],
+      "story": "급여의 띠 → 직급마다 정해 둔 최소~최대 급여 범위"
+    },
+    "example": {
+      "q": "Do you have any questions about how we set salaries?",
+      "a": "I'd like to know the pay band for this level, so I can see where my experience would place me and how much room there is to grow.",
+      "a_ko": "이 직급의 연봉 밴드를 알고 싶습니다. 제 경력이 어디쯤 해당하는지, 앞으로 오를 여지가 얼마나 되는지 보려고요."
+    },
+    "collocations": [
+      "pay band for this level",
+      "top of the pay band"
+    ],
+    "related": [
+      "base pay",
+      "ballpark figure",
+      "compensation"
+    ],
+    "tip": "salary band / salary range 와 같은 뜻. 밴드 상단(top of the band)이면 인상 여지가 적음"
+  }
+]

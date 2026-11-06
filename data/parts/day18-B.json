@@ -1,0 +1,1213 @@
+[
+ {
+  "id": "d18-B01",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "part",
+  "pos": "noun",
+  "ipa": "/pɑːrt/",
+  "meaning_ko": "부분, 역할",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 몫 (pars)"
+    }
+   ],
+   "story": "나눈 한 몫 → 부분 → 맡은 역할"
+  },
+  "example": {
+   "q": "What part of the job do you enjoy most?",
+   "a": "The part I enjoy most is turning vague requirements into a clear design.",
+   "a_ko": "가장 즐거운 부분은 모호한 요구사항을 명확한 설계로 바꾸는 일입니다."
+  },
+  "collocations": [
+   "play a part in",
+   "the best part",
+   "part of the team"
+  ],
+  "related": [
+   "partition",
+   "partial",
+   "particular",
+   "portion"
+  ],
+  "tip": "I played a big part in ... — 내 기여를 겸손하게 말할 때"
+ },
+ {
+  "id": "d18-B02",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "take part in",
+  "pos": "phrasal verb",
+  "ipa": "/ˌteɪk ˈpɑːrt ɪn/",
+  "meaning_ko": "~에 참여하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "take",
+     "type": "part",
+     "gloss": "갖다, 맡다"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "몫 (pars)"
+    },
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~에"
+    }
+   ],
+   "story": "한 몫(part)을 맡다 → 함께하다 → 참여하다"
+  },
+  "example": {
+   "q": "How do you keep learning outside work?",
+   "a": "I take part in a local Go meetup and give a talk twice a year.",
+   "a_ko": "지역 Go 밋업에 참여하고 1년에 두 번 발표도 합니다."
+  },
+  "collocations": [
+   "take part in a project",
+   "take an active part in",
+   "take part in discussions"
+  ],
+  "related": [
+   "part",
+   "partner",
+   "party",
+   "apart"
+  ],
+  "tip": "participate in 과 뜻이 같고 더 구어적"
+ },
+ {
+  "id": "d18-B03",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "apart from",
+  "pos": "phrase",
+  "ipa": "/əˈpɑːrt frəm/",
+  "meaning_ko": "~외에도, ~을 빼면",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "한쪽, 부분 (pars)"
+    },
+    {
+     "text": "from",
+     "type": "part",
+     "gloss": "~에서"
+    }
+   ],
+   "story": "한쪽(part)으로 떨어져 → 따로 두고 → ~외에도 / ~을 빼면"
+  },
+  "example": {
+   "q": "What else would you bring to the team?",
+   "a": "Apart from backend work, I also mentor junior engineers and run our study group.",
+   "a_ko": "백엔드 업무 외에도 주니어 엔지니어 멘토링을 하고 사내 스터디도 운영합니다."
+  },
+  "collocations": [
+   "apart from that",
+   "apart from A, B",
+   "quite apart from"
+  ],
+  "related": [
+   "apart",
+   "part",
+   "depart",
+   "partition"
+  ],
+  "tip": "'~외에도(besides)'와 '~을 빼면(except)' 두 뜻 — 문맥으로 구분"
+ },
+ {
+  "id": "d18-B04",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "in particular",
+  "pos": "phrase",
+  "ipa": "/ɪn pərˈtɪkjələr/",
+  "meaning_ko": "특히",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~에서"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분 (pars)"
+    },
+    {
+     "text": "icul",
+     "type": "suffix",
+     "gloss": "작은 (지소사 -cula)"
+    },
+    {
+     "text": "ar",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "작은 부분 하나에 관한 → 하나를 콕 집어서 → 특히"
+  },
+  "example": {
+   "q": "What did you learn from your last role?",
+   "a": "I learned a lot about observability, in particular how to design useful alerts.",
+   "a_ko": "관측 가능성에 대해 많이 배웠는데, 특히 쓸모 있는 알림을 설계하는 법을 배웠습니다."
+  },
+  "collocations": [
+   "in particular",
+   "one area in particular",
+   "nothing in particular"
+  ],
+  "related": [
+   "particular",
+   "particularly",
+   "particle",
+   "part"
+  ],
+  "tip": "문장 끝에 붙여도 됨: I enjoyed the data work in particular."
+ },
+ {
+  "id": "d18-B05",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "depart",
+  "pos": "verb",
+  "ipa": "/dɪˈpɑːrt/",
+  "meaning_ko": "(기준에서) 벗어나다, 떠나다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partire)"
+    }
+   ],
+   "story": "나뉘어 떨어지다 → 떠나다 → (계획·관행에서) 벗어나다"
+  },
+  "example": {
+   "q": "Do you always follow the standard process?",
+   "a": "I follow it, but I depart from it when the data clearly supports a better way.",
+   "a_ko": "따르긴 하지만, 데이터가 더 나은 방법을 분명히 보여 줄 때는 벗어나기도 합니다."
+  },
+  "collocations": [
+   "depart from the plan",
+   "depart from tradition",
+   "depart for"
+  ],
+  "related": [
+   "departure",
+   "department",
+   "part",
+   "apart"
+  ],
+  "tip": "depart from + 기준 = '~에서 벗어나다'. 비행기에만 쓰는 말이 아님"
+ },
+ {
+  "id": "d18-B06",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "part-time",
+  "pos": "adjective",
+  "ipa": "/ˌpɑːrt ˈtaɪm/",
+  "meaning_ko": "시간제의, 파트타임의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분 (pars)"
+    },
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간"
+    }
+   ],
+   "story": "하루의 일부(part) 시간만 일하는 → 시간제"
+  },
+  "example": {
+   "q": "Would you consider starting part-time while you finish your current project?",
+   "a": "Yes, I could work part-time for the first month, then move to full-time.",
+   "a_ko": "네, 첫 한 달은 파트타임으로 일하고 그 뒤에 풀타임으로 전환할 수 있습니다."
+  },
+  "collocations": [
+   "part-time role",
+   "work part-time",
+   "part-time contract"
+  ],
+  "related": [
+   "part",
+   "partly",
+   "partial",
+   "portion"
+  ],
+  "tip": "명사 앞에선 하이픈(a part-time role), 부사로는 work part-time"
+ },
+ {
+  "id": "d18-B07",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "partition",
+  "pos": "noun",
+  "ipa": "/pɑːrˈtɪʃən/",
+  "meaning_ko": "파티션, 분할",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partiri)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "나누는 것 → 칸막이 → 데이터·디스크의 분할 영역"
+  },
+  "example": {
+   "q": "How did you scale the message pipeline?",
+   "a": "We increased the number of Kafka partitions and keyed messages by user ID, so ordering held within each partition.",
+   "a_ko": "카프카 파티션 수를 늘리고 메시지 키를 사용자 ID로 잡아서, 파티션 안에서는 순서가 유지되게 했습니다."
+  },
+  "collocations": [
+   "partition key",
+   "table partition",
+   "network partition"
+  ],
+  "related": [
+   "part",
+   "partial",
+   "particle",
+   "portion"
+  ],
+  "tip": "분산 시스템의 network partition(네트워크 단절)은 CAP 이론 설명에 필수"
+ },
+ {
+  "id": "d18-B08",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "multipart",
+  "pos": "adjective",
+  "ipa": "/ˈmʌltipɑːrt/",
+  "meaning_ko": "여러 부분으로 된, 멀티파트",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "multi",
+     "type": "prefix",
+     "gloss": "많은"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분 (pars)"
+    }
+   ],
+   "story": "여러 부분으로 이루어진 → 조각으로 나눠 보내는"
+  },
+  "example": {
+   "q": "How did you handle large file uploads?",
+   "a": "We switched to multipart uploads, so a 5 GB file is sent in chunks and a failed chunk can be retried alone.",
+   "a_ko": "멀티파트 업로드로 바꿔서, 5GB 파일도 조각으로 나눠 보내고 실패한 조각만 다시 보낼 수 있게 했습니다."
+  },
+  "collocations": [
+   "multipart upload",
+   "multipart/form-data",
+   "multipart message"
+  ],
+  "related": [
+   "part",
+   "partition",
+   "particle",
+   "partial"
+  ],
+  "tip": "S3 multipart upload, HTTP multipart/form-data 처럼 기술 용어로 굳어진 말"
+ },
+ {
+  "id": "d18-B09",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "parsing",
+  "pos": "noun",
+  "ipa": "/ˈpɑːrsɪŋ/",
+  "meaning_ko": "파싱, 구문 분석",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pars",
+     "type": "root",
+     "gloss": "부분 (pars orationis '품사')"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "문장을 품사(parts of speech)로 나누기 → 구문 분석 → 데이터 파싱"
+  },
+  "example": {
+   "q": "Where was the performance bottleneck?",
+   "a": "Most of the latency came from JSON parsing on every request, so we cached the parsed config in memory.",
+   "a_ko": "지연의 대부분이 요청마다 하는 JSON 파싱에서 나와서, 파싱한 설정을 메모리에 캐시했습니다."
+  },
+  "collocations": [
+   "JSON parsing",
+   "parsing error",
+   "log parsing"
+  ],
+  "related": [
+   "parse",
+   "parser",
+   "part",
+   "particle"
+  ],
+  "tip": "parsing error = 형식이 맞지 않아 읽지 못하는 오류"
+ },
+ {
+  "id": "d18-B10",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "compartment",
+  "pos": "noun",
+  "ipa": "/kəmˈpɑːrtmənt/",
+  "meaning_ko": "칸, 격리된 구획",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partiri)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "완전히 나눈 칸 → 구획 → 서로 격리된 영역"
+  },
+  "example": {
+   "q": "How do you limit the damage when one tenant misbehaves?",
+   "a": "We isolate each tenant in its own compartment with separate quotas, so one noisy customer can't starve the others.",
+   "a_ko": "테넌트마다 별도 할당량이 있는 독립된 구획에 격리해서, 한 고객이 과하게 써도 다른 고객의 자원이 바닥나지 않게 합니다."
+  },
+  "collocations": [
+   "separate compartment",
+   "isolated compartment",
+   "watertight compartment"
+  ],
+  "related": [
+   "compartmentalize",
+   "department",
+   "part",
+   "partition"
+  ],
+  "tip": "배의 watertight compartment(방수 격실)에서 온 bulkhead 패턴 설명에 딱"
+ },
+ {
+  "id": "d18-B11",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "part ways",
+  "pos": "phrase",
+  "ipa": "/ˌpɑːrt ˈweɪz/",
+  "meaning_ko": "헤어지다, 각자의 길을 가다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partire)"
+    },
+    {
+     "text": "ways",
+     "type": "part",
+     "gloss": "길들"
+    }
+   ],
+   "story": "길을 나누다 → 서로 다른 길을 가다 → 헤어지다"
+  },
+  "example": {
+   "q": "Why did you leave your previous company?",
+   "a": "After the acquisition, our roadmaps no longer matched, so we parted ways on good terms and I still keep in touch with my old manager.",
+   "a_ko": "인수 이후 로드맵이 더 이상 맞지 않아 좋게 헤어졌고, 지금도 예전 매니저와 연락하며 지냅니다."
+  },
+  "collocations": [
+   "part ways with",
+   "part ways amicably",
+   "decide to part ways"
+  ],
+  "related": [
+   "part",
+   "depart",
+   "partition",
+   "apart"
+  ],
+  "tip": "퇴사 이유를 긍정적으로 말하는 표현 — on good terms 와 같이"
+ },
+ {
+  "id": "d18-B12",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "part and parcel",
+  "pos": "phrase",
+  "ipa": "/ˌpɑːrt ən ˈpɑːrsəl/",
+  "meaning_ko": "빼놓을 수 없는 일부",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분 (pars)"
+    },
+    {
+     "text": "and",
+     "type": "part",
+     "gloss": "그리고"
+    },
+    {
+     "text": "parcel",
+     "type": "root",
+     "gloss": "작은 부분 (particella)"
+    }
+   ],
+   "story": "부분과 작은 조각 → 떼어 낼 수 없는 일부"
+  },
+  "example": {
+   "q": "How do you feel about being on call?",
+   "a": "On-call is part and parcel of owning a service, and it pushes me to build things that fail less.",
+   "a_ko": "온콜은 서비스를 맡는 일의 빼놓을 수 없는 일부이고, 덕분에 덜 고장 나는 걸 만들게 됩니다."
+  },
+  "collocations": [
+   "part and parcel of the job",
+   "be part and parcel of"
+  ],
+  "related": [
+   "part",
+   "parcel",
+   "particle",
+   "particular"
+  ],
+  "tip": "달갑지 않은 업무(온콜·야근)를 '당연한 일부'로 받아들이는 태도를 보여 줌"
+ },
+ {
+  "id": "d18-B13",
+  "day": 18,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "partisan",
+  "pos": "adjective",
+  "ipa": "/ˈpɑːrtəzən/",
+  "meaning_ko": "한쪽에 치우친, 편파적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "편, 부분 (pars)"
+    },
+    {
+     "text": "isan",
+     "type": "suffix",
+     "gloss": "~편 사람 (이탈리아어 -igiano)"
+    }
+   ],
+   "story": "한쪽 편(parte)에 선 사람 → 한쪽에 치우친"
+  },
+  "example": {
+   "q": "How do you choose between competing technologies?",
+   "a": "I try not to be partisan about tools; when we compared Postgres and DynamoDB, I benchmarked both against our access patterns before recommending one.",
+   "a_ko": "도구에 대해 한쪽 편을 들지 않으려 합니다. Postgres와 DynamoDB를 비교할 때도 우리 접근 패턴으로 둘 다 벤치마크한 뒤 하나를 추천했습니다."
+  },
+  "collocations": [
+   "partisan debate",
+   "not partisan about",
+   "partisan divide"
+  ],
+  "related": [
+   "part",
+   "partition",
+   "particular",
+   "party"
+  ],
+  "tip": "정치 뉴스의 '당파적'으로 자주 보지만, 기술 선택에서 '특정 진영에 치우친'으로도 씀"
+ },
+ {
+  "id": "d18-B14",
+  "day": 18,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "particulars",
+  "pos": "noun",
+  "ipa": "/pərˈtɪkjələrz/",
+  "meaning_ko": "세부 사항, 상세 조건",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분 (pars)"
+    },
+    {
+     "text": "icul",
+     "type": "suffix",
+     "gloss": "작은 (지소사 -cula)"
+    },
+    {
+     "text": "ar",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "s",
+     "type": "suffix",
+     "gloss": "복수"
+    }
+   ],
+   "story": "작은 부분들 → 하나하나의 세부 → (계약·제안의) 상세 조건"
+  },
+  "example": {
+   "q": "We're happy with the overall numbers. Shall I send the offer letter?",
+   "a": "That would be great. Before I sign, I'd like to review the particulars, especially the vesting schedule and the notice period, in writing.",
+   "a_ko": "좋습니다. 서명하기 전에 세부 조건, 특히 베스팅 일정과 퇴사 통보 기간을 서면으로 확인하고 싶습니다."
+  },
+  "collocations": [
+   "the particulars of the offer",
+   "go over the particulars",
+   "in all particulars"
+  ],
+  "related": [
+   "particular",
+   "particle",
+   "part",
+   "partial"
+  ],
+  "tip": "복수형 particulars 는 '세부 사항' — details 보다 격식 있는 말"
+ },
+ {
+  "id": "d18-B15",
+  "day": 18,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "disproportionate",
+  "pos": "adjective",
+  "ipa": "/ˌdɪsprəˈpɔːrʃənət/",
+  "meaning_ko": "지나치게 큰, 불균형한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "~에 따라"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "몫 (portio, pars 와 같은 계열)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~한 것"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "몫(portio)에 맞지 않는 → 균형이 깨진 → 지나치게 큰"
+  },
+  "example": {
+   "q": "How do you decide what to automate?",
+   "a": "I look for tasks that take a disproportionate amount of time; last quarter, release notes ate four hours a week, so I scripted them from our commit history.",
+   "a_ko": "시간을 지나치게 많이 잡아먹는 일을 찾습니다. 지난 분기에 릴리스 노트 작성에 주당 네 시간이 들어서, 커밋 기록으로 자동 생성하는 스크립트를 만들었습니다."
+  },
+  "collocations": [
+   "a disproportionate amount of",
+   "disproportionate impact",
+   "disproportionate share"
+  ],
+  "related": [
+   "proportion",
+   "portion",
+   "part",
+   "particular"
+  ],
+  "tip": "a disproportionate amount of time = 숫자 없이도 '너무 많은 시간'을 강조"
+ },
+ {
+  "id": "d18-B16",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "subdivide",
+  "pos": "verb",
+  "ipa": "/ˌsʌbdɪˈvaɪd/",
+  "meaning_ko": "세분하다, 다시 나누다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래로, 더"
+    },
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vide",
+     "type": "root",
+     "gloss": "나누다 (vid)"
+    }
+   ],
+   "story": "나눈 것을 다시 그 아래로 나누다 → 세분하다"
+  },
+  "example": {
+   "q": "How did you plan such a large migration?",
+   "a": "I subdivided it into twelve small steps, each one reversible, so we could pause safely at any point.",
+   "a_ko": "되돌릴 수 있는 작은 단계 12개로 세분해서, 어느 시점에서든 안전하게 멈출 수 있게 했습니다."
+  },
+  "collocations": [
+   "subdivide into",
+   "further subdivide",
+   "subdivide the work"
+  ],
+  "related": [
+   "divide",
+   "division",
+   "individual",
+   "divisive"
+  ],
+  "tip": "큰 작업을 쪼갠 방식을 설명할 때 split up 보다 정돈된 느낌"
+ },
+ {
+  "id": "d18-B17",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "individualized",
+  "pos": "adjective",
+  "ipa": "/ˌɪndɪˈvɪdʒuəlaɪzd/",
+  "meaning_ko": "개인에 맞춘, 개별화된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "나누다"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "iz",
+     "type": "suffix",
+     "gloss": "~화하다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "더 나눌 수 없는 하나(개인) → 개인 하나하나에 맞춘"
+  },
+  "example": {
+   "q": "How do you mentor junior developers?",
+   "a": "I set individualized goals, because one person may need help with testing while another needs confidence presenting in meetings.",
+   "a_ko": "사람마다 맞춤 목표를 정합니다. 어떤 사람은 테스트 작성에, 어떤 사람은 회의에서 발표하는 자신감에 도움이 필요하니까요."
+  },
+  "collocations": [
+   "individualized feedback",
+   "individualized plan",
+   "individualized approach"
+  ],
+  "related": [
+   "individual",
+   "divide",
+   "division",
+   "subdivide"
+  ],
+  "tip": "personalized 와 비슷하지만 교육·코칭 맥락에서 더 자주 씀"
+ },
+ {
+  "id": "d18-B18",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "divide and conquer",
+  "pos": "phrase",
+  "ipa": "/dɪˌvaɪd ən ˈkɑːŋkər/",
+  "meaning_ko": "분할 정복",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vide",
+     "type": "root",
+     "gloss": "나누다 (vid)"
+    },
+    {
+     "text": "and",
+     "type": "part",
+     "gloss": "그리고"
+    },
+    {
+     "text": "conquer",
+     "type": "part",
+     "gloss": "정복하다"
+    }
+   ],
+   "story": "나눠서 이긴다 → 큰 문제를 쪼개서 하나씩 푼다"
+  },
+  "example": {
+   "q": "How did you find which change broke the build?",
+   "a": "I used a divide-and-conquer approach with git bisect, halving the range of commits until I found the one that broke it.",
+   "a_ko": "git bisect로 분할 정복을 해서, 커밋 범위를 반씩 줄여 가며 빌드를 깬 커밋을 찾았습니다."
+  },
+  "collocations": [
+   "divide-and-conquer approach",
+   "divide-and-conquer algorithm",
+   "use divide and conquer"
+  ],
+  "related": [
+   "divide",
+   "subdivide",
+   "division",
+   "individual"
+  ],
+  "tip": "명사 앞에선 하이픈: a divide-and-conquer approach"
+ },
+ {
+  "id": "d18-B19",
+  "day": 18,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "divisive",
+  "pos": "adjective",
+  "ipa": "/dɪˈvaɪsɪv/",
+  "meaning_ko": "의견이 갈리는, 분열을 일으키는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "나누다 (vid)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "갈라놓는 → 사람들 의견을 둘로 나누는 → 분열을 일으키는"
+  },
+  "example": {
+   "q": "How do you handle a decision that splits the team?",
+   "a": "Monorepo versus polyrepo was a divisive topic, so I ran a two-week trial with clear metrics and let the data settle it instead of opinions.",
+   "a_ko": "모노레포냐 폴리레포냐는 의견이 크게 갈리는 주제여서, 명확한 지표로 2주간 시범 운영을 하고 의견이 아니라 데이터로 결론을 냈습니다."
+  },
+  "collocations": [
+   "divisive issue",
+   "divisive topic",
+   "prove divisive"
+  ],
+  "related": [
+   "divide",
+   "division",
+   "subdivide",
+   "individual"
+  ],
+  "tip": "사람 성격이 아니라 주제·결정에 붙이는 것이 안전"
+ },
+ {
+  "id": "d18-B20",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "atomic",
+  "pos": "adjective",
+  "ipa": "/əˈtɑːmɪk/",
+  "meaning_ko": "원자적인 (쪼갤 수 없는)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "아닌 (그리스어)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (그리스어 temnein)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "자를 수 없는 것(atom) → 중간에 쪼개지지 않는 → 원자적인 연산"
+  },
+  "example": {
+   "q": "How did you prevent double charges?",
+   "a": "I wrapped the balance update and the ledger insert in one atomic transaction, so either both succeed or neither does.",
+   "a_ko": "잔액 갱신과 원장 기록을 하나의 원자적 트랜잭션으로 묶어서, 둘 다 성공하거나 둘 다 실패하게 했습니다."
+  },
+  "collocations": [
+   "atomic operation",
+   "atomic transaction",
+   "atomic commit"
+  ],
+  "related": [
+   "atomicity",
+   "atom",
+   "anatomy",
+   "dichotomy"
+  ],
+  "tip": "atomic commit 은 '목적 하나만 담은 작은 커밋'이라는 뜻으로도 씀"
+ },
+ {
+  "id": "d18-B21",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "atomicity",
+  "pos": "noun",
+  "ipa": "/ˌætəˈmɪsəti/",
+  "meaning_ko": "원자성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "아닌 (그리스어)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "쪼갤 수 없는 성질 → 전부 되거나 전혀 안 되는 성질 → 원자성"
+  },
+  "example": {
+   "q": "Which ACID property mattered most in that system?",
+   "a": "Atomicity mattered most, because a half-finished order would leave stock reserved without any payment.",
+   "a_ko": "원자성이 가장 중요했습니다. 주문이 반만 처리되면 결제 없이 재고만 잡혀 있게 되니까요."
+  },
+  "collocations": [
+   "guarantee atomicity",
+   "atomicity and consistency",
+   "break atomicity"
+  ],
+  "related": [
+   "atomic",
+   "atom",
+   "anatomy",
+   "epitome"
+  ],
+  "tip": "ACID 의 A. 발음 [애터미서티], 강세는 mi"
+ },
+ {
+  "id": "d18-B22",
+  "day": 18,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "anatomy",
+  "pos": "noun",
+  "ipa": "/əˈnætəmi/",
+  "meaning_ko": "구조 분석, 해부",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ana",
+     "type": "prefix",
+     "gloss": "위로, 완전히 (그리스어)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "갈라서 열어 봄(해부) → 무엇이 어떻게 이루어졌는지 낱낱이 분석"
+  },
+  "example": {
+   "q": "Tell me about a failure you learned from.",
+   "a": "Let me walk you through the anatomy of that outage: one expired certificate, no alert, and a manual renewal process nobody owned.",
+   "a_ko": "그 장애가 어떻게 일어났는지 하나씩 말씀드리겠습니다. 만료된 인증서 하나, 울리지 않은 알림, 그리고 아무도 맡지 않은 수동 갱신 절차였습니다."
+  },
+  "collocations": [
+   "the anatomy of",
+   "anatomy of an incident",
+   "anatomy of a request"
+  ],
+  "related": [
+   "atomic",
+   "dichotomy",
+   "epitome",
+   "atom"
+  ],
+  "tip": "the anatomy of X = 'X를 해부하듯 뜯어보기' — 발표·블로그 제목에도 자주 씀"
+ },
+ {
+  "id": "d18-B23",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "downtime",
+  "pos": "noun",
+  "ipa": "/ˈdaʊntaɪm/",
+  "meaning_ko": "다운타임, 중단 시간",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "내려간"
+    },
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간"
+    }
+   ],
+   "story": "시스템이 내려가(down) 있는 시간 → 서비스 중단 시간"
+  },
+  "example": {
+   "q": "What did the migration achieve?",
+   "a": "We moved the whole database with less than one minute of downtime.",
+   "a_ko": "전체 데이터베이스를 1분도 안 되는 다운타임으로 옮겼습니다."
+  },
+  "collocations": [
+   "zero downtime",
+   "planned downtime",
+   "minimize downtime"
+  ],
+  "related": [
+   "uptime",
+   "outage",
+   "failover"
+  ],
+  "tip": "사람에게 쓰면 '쉬는 시간' — I use my downtime to read papers."
+ },
+ {
+  "id": "d18-B24",
+  "day": 18,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "uptime",
+  "pos": "noun",
+  "ipa": "/ˈʌptaɪm/",
+  "meaning_ko": "가동 시간, 가동률",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "올라온, 켜진"
+    },
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간"
+    }
+   ],
+   "story": "시스템이 올라와(up) 돌아가는 시간 → 가동률"
+  },
+  "example": {
+   "q": "How do you measure the reliability of your service?",
+   "a": "We track uptime monthly, and we kept it above 99.95 percent last year.",
+   "a_ko": "가동률을 매달 추적하고, 작년에는 99.95% 이상을 유지했습니다."
+  },
+  "collocations": [
+   "99.9% uptime",
+   "uptime SLA",
+   "improve uptime"
+  ],
+  "related": [
+   "downtime",
+   "outage",
+   "failover"
+  ],
+  "tip": "숫자와 함께: three nines(99.9%), four nines(99.99%)"
+ },
+ {
+  "id": "d18-B25",
+  "day": 18,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "knock-on effect",
+  "pos": "noun",
+  "ipa": "/ˌnɑːk ˈɑːn ɪˌfekt/",
+  "meaning_ko": "연쇄 효과, 파급 효과",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "knock",
+     "type": "part",
+     "gloss": "치다"
+    },
+    {
+     "text": "on",
+     "type": "part",
+     "gloss": "계속 이어서"
+    },
+    {
+     "text": "effect",
+     "type": "part",
+     "gloss": "효과"
+    }
+   ],
+   "story": "하나를 치면 다음 것이 잇따라 넘어감 → 연쇄 효과"
+  },
+  "example": {
+   "q": "What was the real impact of that delay?",
+   "a": "The two-day delay had a knock-on effect on three downstream teams, so I published a revised timeline that afternoon and set up daily check-ins.",
+   "a_ko": "이틀 지연이 하위 세 팀에 연쇄적으로 영향을 줘서, 그날 오후 바로 수정 일정을 공유하고 매일 체크인을 잡았습니다."
+  },
+  "collocations": [
+   "have a knock-on effect on",
+   "knock-on effects",
+   "a knock-on effect"
+  ],
+  "related": [
+   "blast radius",
+   "outage",
+   "postmortem"
+  ],
+  "tip": "영국식 표현이지만 미국 회사에서도 통함. 미국식은 ripple effect"
+ }
+]

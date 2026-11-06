@@ -1,0 +1,4590 @@
+[
+ {
+  "id": "d17-A01",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "convert",
+  "pos": "verb",
+  "ipa": "/kənˈvɝːt/",
+  "meaning_ko": "바꾸다, 변환하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "라틴어 convertere(완전히 돌리다) → 방향·형태를 바꾸다 → 변환하다"
+  },
+  "example": {
+   "q": "What did you do in your last project?",
+   "a": "I converted our old shell scripts into Python to make them easier to test.",
+   "a_ko": "테스트하기 쉽도록 기존 셸 스크립트를 파이썬으로 변환했습니다."
+  },
+  "collocations": [
+   "convert A into B",
+   "convert data",
+   "convert users"
+  ],
+  "related": [
+   "conversion",
+   "reverse",
+   "diverse",
+   "version"
+  ],
+  "tip": "convert A into/to B 형태로 많이 씀. 명사는 conversion, '전환율'은 conversion rate"
+ },
+ {
+  "id": "d17-A02",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "version",
+  "pos": "noun",
+  "ipa": "/ˈvɝːʒən/",
+  "meaning_ko": "버전, 판",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 versio(돌림, 옮김) → 다른 말로 옮긴 것(번역) → 형태를 바꾼 판 → 버전"
+  },
+  "example": {
+   "q": "Which tools do you use every day?",
+   "a": "I use the latest version of IntelliJ and keep my local Java version the same as production.",
+   "a_ko": "IntelliJ 최신 버전을 쓰고, 로컬 자바 버전을 운영 환경과 똑같이 맞춰 둡니다."
+  },
+  "collocations": [
+   "latest version",
+   "version control",
+   "older version"
+  ],
+  "related": [
+   "versioning",
+   "convert",
+   "conversion",
+   "versatile"
+  ],
+  "tip": "'버전 관리'는 version control. 영어 발음은 '버전'보다 '버-젼'에 가까움"
+ },
+ {
+  "id": "d17-A03",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "various",
+  "pos": "adjective",
+  "ipa": "/ˈveriəs/",
+  "meaning_ko": "여러 가지의, 다양한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vari",
+     "type": "root",
+     "gloss": "여러 가지의, 얼룩덜룩한 (varius)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 varius(여러 빛깔의, 갖가지의) → 여러 가지의, 다양한"
+  },
+  "example": {
+   "q": "Can you tell me about your background?",
+   "a": "I've worked on various projects, from mobile apps to internal data tools.",
+   "a_ko": "모바일 앱부터 사내 데이터 도구까지 여러 프로젝트를 해 왔습니다."
+  },
+  "collocations": [
+   "various projects",
+   "for various reasons",
+   "in various ways"
+  ],
+  "related": [
+   "vary",
+   "variety",
+   "variable",
+   "invariant"
+  ],
+  "tip": "various + 복수명사. 'many different' 보다 짧고 자연스러운 자기소개 단어"
+ },
+ {
+  "id": "d17-A04",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "anniversary",
+  "pos": "noun",
+  "ipa": "/ˌænɪˈvɝːsəri/",
+  "meaning_ko": "기념일, 주년",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anni",
+     "type": "root",
+     "gloss": "해 (annus)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌아오다 (vert)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 anniversarius(해마다 돌아오는) → 매년 돌아오는 날 → 기념일"
+  },
+  "example": {
+   "q": "How long have you been at your current company?",
+   "a": "I just celebrated my three-year work anniversary there last month.",
+   "a_ko": "지난달에 입사 3주년을 맞았습니다."
+  },
+  "collocations": [
+   "work anniversary",
+   "first anniversary",
+   "celebrate an anniversary"
+  ],
+  "related": [
+   "annual",
+   "version",
+   "universal"
+  ],
+  "tip": "'입사 n주년'은 my n-year work anniversary. 재직 기간을 자연스럽게 말할 때 씀"
+ },
+ {
+  "id": "d17-A05",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "invert",
+  "pos": "verb",
+  "ipa": "/ɪnˈvɝːt/",
+  "meaning_ko": "뒤집다, 반전시키다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로, 거꾸로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "라틴어 invertere(안쪽으로 돌리다) → 위아래·순서를 뒤집다"
+  },
+  "example": {
+   "q": "Can you walk me through how you'd solve this tree problem?",
+   "a": "First, I would invert the binary tree recursively by swapping each node's children.",
+   "a_ko": "먼저 각 노드의 자식을 맞바꾸는 방식으로 이진 트리를 재귀적으로 뒤집겠습니다."
+  },
+  "collocations": [
+   "invert a tree",
+   "invert the order",
+   "invert a condition"
+  ],
+  "related": [
+   "inversion",
+   "convert",
+   "reverse"
+  ],
+  "tip": "명사 inversion 은 의존성 역전(dependency inversion)처럼 설계 용어로 자주 나옴"
+ },
+ {
+  "id": "d17-A06",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "conversion",
+  "pos": "noun",
+  "ipa": "/kənˈvɝːʒən/",
+  "meaning_ko": "전환, 변환",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 conversio(완전히 돌림) → 다른 상태로 바꿈 → 전환"
+  },
+  "example": {
+   "q": "This position starts as a six-month contract. Do you have any concerns?",
+   "a": "I'm open to it, but I'd like to see the criteria for conversion to a full-time role in writing.",
+   "a_ko": "괜찮습니다만, 정규직 전환 기준을 서면으로 받아 보고 싶습니다."
+  },
+  "collocations": [
+   "conversion to full-time",
+   "conversion rate",
+   "data conversion"
+  ],
+  "related": [
+   "convert",
+   "version",
+   "reverse"
+  ],
+  "tip": "계약직→정규직 전환은 conversion (contract-to-hire). 마케팅에선 '전환율'(conversion rate)"
+ },
+ {
+  "id": "d17-A07",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "versioning",
+  "pos": "noun",
+  "ipa": "/ˈvɝːʒənɪŋ/",
+  "meaning_ko": "버전 관리, 버전 부여",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "version(바꾼 판) + ing → 판마다 번호를 붙여 관리하기"
+  },
+  "example": {
+   "q": "How do you handle breaking changes in your APIs?",
+   "a": "We use semantic versioning, so clients know that a new major version means a breaking change.",
+   "a_ko": "시맨틱 버저닝을 써서, 메이저 버전이 바뀌면 호환이 깨지는 변경이라는 걸 클라이언트가 알 수 있게 했습니다."
+  },
+  "collocations": [
+   "semantic versioning",
+   "API versioning",
+   "versioning strategy"
+  ],
+  "related": [
+   "version",
+   "conversion",
+   "convert"
+  ],
+  "tip": "semantic versioning(SemVer) = MAJOR.MINOR.PATCH. API 설계 질문에 자주 등장"
+ },
+ {
+  "id": "d17-A08",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "conversational",
+  "pos": "adjective",
+  "ipa": "/ˌkɑːnvərˈseɪʃənəl/",
+  "meaning_ko": "대화의, 일상 대화 수준의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌다 (vert)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 conversari(함께 이리저리 돌며 지내다) → 어울려 지냄 → 대화 → 대화의"
+  },
+  "example": {
+   "q": "How would you describe your English level?",
+   "a": "My English is conversational, and I use it every week in calls with our team in Singapore.",
+   "a_ko": "일상 대화 수준이고, 싱가포르 팀과의 통화에서 매주 영어를 씁니다."
+  },
+  "collocations": [
+   "conversational English",
+   "conversational AI",
+   "conversational tone"
+  ],
+  "related": [
+   "conversation",
+   "conversant",
+   "conversely"
+  ],
+  "tip": "어학 수준은 basic < conversational < fluent 순. 챗봇은 conversational AI"
+ },
+ {
+  "id": "d17-A09",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "converge",
+  "pos": "verb",
+  "ipa": "/kənˈvɝːdʒ/",
+  "meaning_ko": "한곳으로 모이다, (의견이) 모아지다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "verge",
+     "type": "root",
+     "gloss": "기울다, 향하다 (vergere)"
+    }
+   ],
+   "story": "라틴어 convergere(함께 한쪽으로 기울다) → 한 점으로 모이다 → 의견이 모아지다"
+  },
+  "example": {
+   "q": "How do you reach a decision when the team disagrees?",
+   "a": "I list the options and trade-offs on one page, which usually helps the team converge on a decision quickly.",
+   "a_ko": "선택지와 트레이드오프를 한 페이지에 정리하면 보통 팀 의견이 빨리 하나로 모아집니다."
+  },
+  "collocations": [
+   "converge on a decision",
+   "converge on a solution",
+   "views converge"
+  ],
+  "related": [
+   "diverge",
+   "convergence",
+   "divergent"
+  ],
+  "tip": "vergere(기울다)는 vertere(돌리다)와 다른 말이지만 뜻이 가까운 보조 어근. 반대말 diverge"
+ },
+ {
+  "id": "d17-A10",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "diverge",
+  "pos": "verb",
+  "ipa": "/daɪˈvɝːdʒ/",
+  "meaning_ko": "갈라지다, (의견이) 엇갈리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "따로 (dis)"
+    },
+    {
+     "text": "verge",
+     "type": "root",
+     "gloss": "기울다, 향하다 (vergere)"
+    }
+   ],
+   "story": "라틴어 divergere(따로 기울다) → 서로 다른 방향으로 갈라지다"
+  },
+  "example": {
+   "q": "Tell me about a time you disagreed with your manager.",
+   "a": "Our opinions diverged on the release date, so I showed him the test results and we agreed on a one-week delay.",
+   "a_ko": "출시일에 대해 의견이 엇갈려서 테스트 결과를 보여 드렸고, 일주일 연기하기로 합의했습니다."
+  },
+  "collocations": [
+   "opinions diverge",
+   "diverge from the plan",
+   "branches diverge"
+  ],
+  "related": [
+   "converge",
+   "divergence",
+   "divergent"
+  ],
+  "tip": "Git 에서 브랜치가 갈라질 때도 씀 (diverged branches). converge 와 짝으로 외우기"
+ },
+ {
+  "id": "d17-A11",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "reversible",
+  "pos": "adjective",
+  "ipa": "/rɪˈvɝːsəbəl/",
+  "meaning_ko": "되돌릴 수 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 reversus(뒤로 돌린) → 뒤로 돌릴 수 있는 → 되돌릴 수 있는"
+  },
+  "example": {
+   "q": "How do you make database changes safely?",
+   "a": "I make every migration reversible, so we can roll back within minutes if something breaks.",
+   "a_ko": "모든 마이그레이션을 되돌릴 수 있게 만들어서, 문제가 생기면 몇 분 안에 롤백할 수 있게 합니다."
+  },
+  "collocations": [
+   "reversible change",
+   "reversible migration",
+   "reversible decision"
+  ],
+  "related": [
+   "reverse",
+   "irreversible",
+   "revert"
+  ],
+  "tip": "되돌릴 수 있는 결정인지 따지는 이야기(two-way door)에서도 reversible decision 이라고 함"
+ },
+ {
+  "id": "d17-A12",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "reverse-engineer",
+  "pos": "verb",
+  "ipa": "/rɪˌvɝːs ˌendʒɪˈnɪr/",
+  "meaning_ko": "역설계하다, 거꾸로 분석하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "e",
+     "type": "part",
+     "gloss": "(reverse 의 끝)"
+    },
+    {
+     "text": "engineer",
+     "type": "part",
+     "gloss": "설계하다"
+    }
+   ],
+   "story": "reverse(거꾸로 돌린) + engineer(설계하다) → 완성품에서 거꾸로 설계를 알아내다"
+  },
+  "example": {
+   "q": "How did you deal with the legacy system that had no documentation?",
+   "a": "I reverse-engineered the billing logic from the production logs and then wrote the missing documentation.",
+   "a_ko": "운영 로그를 보고 결제 로직을 거꾸로 분석한 뒤, 빠져 있던 문서를 작성했습니다."
+  },
+  "collocations": [
+   "reverse-engineer a system",
+   "reverse-engineer a protocol",
+   "reverse-engineer the logic"
+  ],
+  "related": [
+   "reverse",
+   "reversible",
+   "convert"
+  ],
+  "tip": "문서 없는 레거시를 파악한 경험을 말할 때 효과적. 하이픈을 넣어 한 단어처럼 씀"
+ },
+ {
+  "id": "d17-A13",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "controversy",
+  "pos": "noun",
+  "ipa": "/ˈkɑːntrəvɝːsi/",
+  "meaning_ko": "논란, 논쟁",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "contro",
+     "type": "prefix",
+     "gloss": "맞서 (contra)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 controversia(맞서 돌아선 것) → 서로 반대편을 향함 → 논쟁, 논란"
+  },
+  "example": {
+   "q": "Have you ever made a decision that was unpopular with your team?",
+   "a": "Moving to a monorepo caused some controversy, so I ran a two-week trial before we committed to it.",
+   "a_ko": "모노레포 전환에 논란이 좀 있어서, 확정하기 전에 2주 동안 시험 운영을 했습니다."
+  },
+  "collocations": [
+   "cause controversy",
+   "without controversy",
+   "technical controversy"
+  ],
+  "related": [
+   "controversial",
+   "convert",
+   "adversity"
+  ],
+  "tip": "강세는 첫음절 CON-tro-ver-sy. 형용사 controversial 은 강세가 VER 로 옮겨 감"
+ },
+ {
+  "id": "d17-A14",
+  "day": 17,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "conversant",
+  "pos": "adjective",
+  "ipa": "/kənˈvɝːsənt/",
+  "meaning_ko": "~에 정통한, 잘 알고 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌다 (vert)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 conversari(함께 지내다) → 늘 함께 지내서 익숙한 → ~에 정통한"
+  },
+  "example": {
+   "q": "How familiar are you with cloud infrastructure?",
+   "a": "I'm conversant with AWS networking because I designed our VPC layout, though I'm still learning about multi-region failover.",
+   "a_ko": "VPC 구성을 직접 설계해서 AWS 네트워킹은 잘 알고 있지만, 멀티 리전 장애 조치는 아직 배우는 중입니다."
+  },
+  "collocations": [
+   "conversant with",
+   "conversant in",
+   "fully conversant"
+  ],
+  "related": [
+   "conversational",
+   "conversation",
+   "well-versed"
+  ],
+  "tip": "be conversant with = be familiar with 의 격식체. 'expert' 보다 겸손하게 자신감을 보일 때"
+ },
+ {
+  "id": "d17-A15",
+  "day": 17,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "aversion",
+  "pos": "noun",
+  "ipa": "/əˈvɝːʒən/",
+  "meaning_ko": "혐오, 꺼림",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "떨어져 (ab)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 aversio(고개를 돌려 외면함) → 싫어서 돌아섬 → 혐오, 꺼림"
+  },
+  "example": {
+   "q": "How would you describe your approach to risk?",
+   "a": "I don't have an aversion to risk, but I prefer small experiments so that a failure costs us days, not months.",
+   "a_ko": "위험을 꺼리지는 않지만, 실패해도 몇 달이 아니라 며칠만 잃도록 작은 실험을 선호합니다."
+  },
+  "collocations": [
+   "risk aversion",
+   "an aversion to",
+   "loss aversion"
+  ],
+  "related": [
+   "averse",
+   "avert",
+   "adverse"
+  ],
+  "tip": "risk aversion(위험 회피). 형용사 averse 는 Day 7. 사람에게 쓰면 '질색'처럼 강하니 주의"
+ },
+ {
+  "id": "d17-A16",
+  "day": 17,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "perverse",
+  "pos": "adjective",
+  "ipa": "/pərˈvɝːs/",
+  "meaning_ko": "비뚤어진, 역효과를 낳는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히, 엇나가게"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(어미)"
+    }
+   ],
+   "story": "라틴어 perversus(완전히 돌려 뒤집힌) → 잘못된 방향으로 틀어진 → 비뚤어진"
+  },
+  "example": {
+   "q": "What do you think about measuring engineers by the number of tickets closed?",
+   "a": "It can create perverse incentives; on my last team, people split tasks into tiny tickets, so we switched to outcome-based goals.",
+   "a_ko": "역효과를 부르는 동기가 생길 수 있습니다. 전 팀에서는 일을 잘게 쪼개는 일이 생겨서 결과 중심 목표로 바꿨습니다."
+  },
+  "collocations": [
+   "perverse incentive",
+   "perverse effect",
+   "perverse outcome"
+  ],
+  "related": [
+   "reverse",
+   "diverse",
+   "controversy"
+  ],
+  "tip": "perverse incentive(의도와 반대로 작동하는 보상)는 지표 설계 이야기를 할 때 쓰는 고급 표현"
+ },
+ {
+  "id": "d17-A17",
+  "day": 17,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "adversarial",
+  "pos": "adjective",
+  "ipa": "/ˌædvərˈseriəl/",
+  "meaning_ko": "적대적인, 대립하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "arial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 adversarius(~쪽으로 몸을 돌려 맞선 사람, 적) → 적대적인, 대립하는"
+  },
+  "example": {
+   "q": "How do you work with the QA team?",
+   "a": "I try to keep the relationship collaborative rather than adversarial, so I invite QA to our design reviews from the start.",
+   "a_ko": "대립하지 않고 협력하는 관계가 되도록, 설계 리뷰에 처음부터 QA 를 초대합니다."
+  },
+  "collocations": [
+   "adversarial relationship",
+   "adversarial testing",
+   "non-adversarial"
+  ],
+  "related": [
+   "adversary",
+   "adverse",
+   "adversity"
+  ],
+  "tip": "collaborative ↔ adversarial 대비로 협업 태도를 말할 때. AI 분야에선 adversarial attack(적대적 공격)"
+ },
+ {
+  "id": "d17-A18",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "distort",
+  "pos": "verb",
+  "ipa": "/dɪˈstɔːrt/",
+  "meaning_ko": "왜곡하다, 비틀다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "따로, 이리저리"
+    },
+    {
+     "text": "tort",
+     "type": "root",
+     "gloss": "비틀다 (torquere)"
+    }
+   ],
+   "story": "라틴어 distorquere(이리저리 비틀다) → 모양을 비틀다 → 사실을 왜곡하다"
+  },
+  "example": {
+   "q": "How do you report a project that is behind schedule?",
+   "a": "I share the real numbers early, because hiding delays only distorts the picture for the teams who plan around us.",
+   "a_ko": "실제 수치를 일찍 공유합니다. 지연을 숨기면 저희 일정에 맞춰 계획하는 팀들에게 상황이 왜곡되기 때문입니다."
+  },
+  "collocations": [
+   "distort the data",
+   "distort the picture",
+   "distorted view"
+  ],
+  "related": [
+   "distortion",
+   "retort",
+   "torque"
+  ],
+  "tip": "torquere(비틀다)는 '돌리다' 가족의 보조 어근. 데이터·지표가 실제를 잘못 보여 줄 때 씀"
+ },
+ {
+  "id": "d17-A19",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "vary",
+  "pos": "verb",
+  "ipa": "/ˈveri/",
+  "meaning_ko": "달라지다, 변동하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "var",
+     "type": "root",
+     "gloss": "바뀌는, 여러 가지의 (varius)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "라틴어 variare(바꾸다, 여러 가지로 하다) → 달라지다, 변동하다"
+  },
+  "example": {
+   "q": "The annual bonus depends on company performance.",
+   "a": "I understand. How much has the bonus varied over the last three years?",
+   "a_ko": "알겠습니다. 지난 3년 동안 보너스가 얼마나 변동했나요?"
+  },
+  "collocations": [
+   "vary from A to B",
+   "vary by",
+   "it varies"
+  ],
+  "related": [
+   "variable",
+   "variety",
+   "various",
+   "invariant"
+  ],
+  "tip": "It varies(그때그때 달라요)도 자주 씀. very 와 발음 구분 (vary = '베-리', 모음이 길게)"
+ },
+ {
+  "id": "d17-A20",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "variable",
+  "pos": "noun",
+  "ipa": "/ˈveriəbəl/",
+  "meaning_ko": "변수, 변하는 요소",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vari",
+     "type": "root",
+     "gloss": "바뀌다 (variare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 variabilis(바뀔 수 있는) → 바뀌는 값 → 변수"
+  },
+  "example": {
+   "q": "How do you keep secrets out of your code?",
+   "a": "I store passwords in environment variables instead of writing them in the code.",
+   "a_ko": "비밀번호를 코드에 쓰지 않고 환경 변수에 저장합니다."
+  },
+  "collocations": [
+   "environment variable",
+   "global variable",
+   "key variable"
+  ],
+  "related": [
+   "vary",
+   "variety",
+   "invariant"
+  ],
+  "tip": "형용사로는 '가변적인'(variable pay = 성과급). 환경 변수 = environment variable"
+ },
+ {
+  "id": "d17-A21",
+  "day": 17,
+  "level": 3,
+  "set": "A",
+  "family": "F7",
+  "word": "invariant",
+  "pos": "noun",
+  "ipa": "/ɪnˈveriənt/",
+  "meaning_ko": "불변 조건, 불변식",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "vari",
+     "type": "root",
+     "gloss": "바뀌다 (variare)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "in(아닌) + variare(바뀌다) → 바뀌지 않는 것 → 늘 참이어야 하는 조건"
+  },
+  "example": {
+   "q": "How do you make sure your data stays consistent?",
+   "a": "I define clear invariants, like 'an order total is never negative,' and enforce them in both the code and the database.",
+   "a_ko": "'주문 총액은 절대 음수가 아니다' 같은 불변 조건을 정하고, 코드와 데이터베이스 양쪽에서 강제합니다."
+  },
+  "collocations": [
+   "maintain an invariant",
+   "loop invariant",
+   "break an invariant"
+  ],
+  "related": [
+   "variable",
+   "vary",
+   "various"
+  ],
+  "tip": "도메인 설계·알고리즘 설명에서 쓰는 시니어 어휘. 형용사로 '변하지 않는'도 됨"
+ },
+ {
+  "id": "d17-A22",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "interchangeable",
+  "pos": "adjective",
+  "ipa": "/ˌɪntərˈtʃeɪndʒəbəl/",
+  "meaning_ko": "서로 바꿔 쓸 수 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "서로"
+    },
+    {
+     "text": "change",
+     "type": "root",
+     "gloss": "바꾸다 (cambiare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "후기 라틴어 cambiare(맞바꾸다) → change, inter(서로) + able → 서로 바꿔 쓸 수 있는"
+  },
+  "example": {
+   "q": "Why did you introduce an interface for the payment providers?",
+   "a": "I wanted the providers to be interchangeable, so we could switch vendors without touching the checkout code.",
+   "a_ko": "결제 업체를 서로 바꿔 끼울 수 있게 해서, 결제 화면 코드를 건드리지 않고 업체를 바꿀 수 있도록 했습니다."
+  },
+  "collocations": [
+   "interchangeable parts",
+   "used interchangeably",
+   "interchangeable components"
+  ],
+  "related": [
+   "change",
+   "exchange",
+   "changeable"
+  ],
+  "tip": "change 는 Day 7 대표 단어(cambiare). 느슨한 결합(loose coupling)을 설명할 때 유용"
+ },
+ {
+  "id": "d17-A23",
+  "day": 17,
+  "level": 1,
+  "set": "A",
+  "family": "F7",
+  "word": "switch over",
+  "pos": "phrasal verb",
+  "ipa": "/swɪtʃ ˈoʊvər/",
+  "meaning_ko": "(시스템을) 전환하다, 갈아타다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "switch",
+     "type": "part",
+     "gloss": "바꾸다, 전환하다"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "건너편으로"
+    }
+   ],
+   "story": "switch(바꾸다, 스위치를 돌리다) + over(건너편으로) → 다른 쪽으로 갈아타다"
+  },
+  "example": {
+   "q": "Have you ever migrated to a new tool?",
+   "a": "Yes, we switched over from Jenkins to GitHub Actions last year.",
+   "a_ko": "네, 작년에 젠킨스에서 깃허브 액션즈로 갈아탔습니다."
+  },
+  "collocations": [
+   "switch over to",
+   "switch over from A to B",
+   "switchover"
+  ],
+  "related": [
+   "switch",
+   "changeover",
+   "cutover"
+  ],
+  "tip": "핵심어. 명사는 switchover(전환). switch to 보다 '통째로 옮겼다'는 느낌"
+ },
+ {
+  "id": "d17-A24",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "overhaul",
+  "pos": "verb",
+  "ipa": "/ˌoʊvərˈhɑːl/",
+  "meaning_ko": "전면 개편하다, 정비하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "위로, 전체에 걸쳐"
+    },
+    {
+     "text": "haul",
+     "type": "part",
+     "gloss": "끌어당기다"
+    }
+   ],
+   "story": "over + haul(끌어당기다) → (배의 장비를) 끌어올려 전부 점검하다 → 전면 정비, 개편"
+  },
+  "example": {
+   "q": "What is one process you improved at your company?",
+   "a": "I overhauled our onboarding guide, and new hires could ship their first change in three days instead of two weeks.",
+   "a_ko": "온보딩 가이드를 전면 개편했고, 신입이 2주가 아니라 3일 만에 첫 변경을 배포할 수 있게 됐습니다."
+  },
+  "collocations": [
+   "overhaul a process",
+   "complete overhaul",
+   "major overhaul"
+  ],
+  "related": [
+   "revamp",
+   "rework",
+   "rebuild"
+  ],
+  "tip": "핵심어. 명사로도 씀(a complete overhaul). 부분 수정이 아니라 '싹 뜯어고치기'"
+ },
+ {
+  "id": "d17-A25",
+  "day": 17,
+  "level": 2,
+  "set": "A",
+  "family": "F7",
+  "word": "phase out",
+  "pos": "phrasal verb",
+  "ipa": "/feɪz ˈaʊt/",
+  "meaning_ko": "단계적으로 없애다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "phase",
+     "type": "part",
+     "gloss": "단계"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "phase(단계, 그리스어 phasis) + out(밖으로) → 단계를 밟아 서서히 내보내다 → 단계적으로 폐지하다"
+  },
+  "example": {
+   "q": "How did you get rid of the old manual approval step?",
+   "a": "We phased it out over two months by automating one check at a time, so nobody lost visibility suddenly.",
+   "a_ko": "검사를 하나씩 자동화하며 두 달에 걸쳐 단계적으로 없애서, 누구도 갑자기 상황을 못 보게 되지는 않았습니다."
+  },
+  "collocations": [
+   "phase out a system",
+   "be phased out",
+   "phase out gradually"
+  ],
+  "related": [
+   "phase in",
+   "sunset",
+   "wind down"
+  ],
+  "tip": "핵심어. 반대는 phase in(단계적으로 도입). 목적어가 대명사면 phase it out 순서"
+ },
+ {
+  "id": "d17-B01",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "applicant",
+  "pos": "noun",
+  "ipa": "/ˈæplɪkənt/",
+  "meaning_ko": "지원자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다, 대다 (plicare)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "라틴어 applicare(~에 갖다 대다) → apply(지원하다) → 지원하는 사람"
+  },
+  "example": {
+   "q": "Why should we choose you over other applicants?",
+   "a": "Unlike many applicants, I have run payment systems in production for five years.",
+   "a_ko": "다른 지원자들과 달리, 저는 5년 동안 결제 시스템을 운영해 왔습니다."
+  },
+  "collocations": [
+   "job applicant",
+   "successful applicant",
+   "strong applicant"
+  ],
+  "related": [
+   "apply",
+   "application",
+   "applicable"
+  ],
+  "tip": "candidate 와 거의 같은 뜻. applicant 는 '서류를 낸 사람'에 초점"
+ },
+ {
+  "id": "d17-B02",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "employ",
+  "pos": "verb",
+  "ipa": "/ɪmˈplɔɪ/",
+  "meaning_ko": "고용하다, (방법을) 쓰다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    }
+   ],
+   "story": "라틴어 implicare(안으로 접어 넣다, 관여시키다) → 고대 프랑스어 emploier → 일에 쓰다, 고용하다"
+  },
+  "example": {
+   "q": "How did you speed up the search page?",
+   "a": "I employed caching for popular queries, and the page loaded twice as fast.",
+   "a_ko": "인기 검색어에 캐싱을 적용했고, 페이지 로딩이 두 배 빨라졌습니다."
+  },
+  "collocations": [
+   "employ a strategy",
+   "employ a technique",
+   "be employed at"
+  ],
+  "related": [
+   "employment",
+   "employer",
+   "deploy",
+   "imply"
+  ],
+  "tip": "use 의 격식체로 '방법·기술을 쓰다'. be employed at/by(~에 고용되다)도 함께"
+ },
+ {
+  "id": "d17-B03",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "employment",
+  "pos": "noun",
+  "ipa": "/ɪmˈplɔɪmənt/",
+  "meaning_ko": "고용, 근무",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "employ(일에 쓰다) + ment → 고용, 근무"
+  },
+  "example": {
+   "q": "We'll send you the employment contract by Friday.",
+   "a": "Thank you. I'll review the employment contract and get back to you early next week.",
+   "a_ko": "감사합니다. 고용 계약서를 검토하고 다음 주 초에 연락드리겠습니다."
+  },
+  "collocations": [
+   "employment contract",
+   "start of employment",
+   "full-time employment"
+  ],
+  "related": [
+   "employ",
+   "employer",
+   "employee"
+  ],
+  "tip": "고용 계약서 = employment contract. 입사일은 start date of employment"
+ },
+ {
+  "id": "d17-B04",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "multiply",
+  "pos": "verb",
+  "ipa": "/ˈmʌltɪplaɪ/",
+  "meaning_ko": "곱하다, 크게 늘리다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "multi",
+     "type": "prefix",
+     "gloss": "많은"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다, 겹 (plicare)"
+    }
+   ],
+   "story": "라틴어 multiplicare(여러 겹으로 접다) → 여러 배로 만들다 → 곱하다, 크게 늘리다"
+  },
+  "example": {
+   "q": "Why did you push back on the new microservice?",
+   "a": "Each new service multiplies our on-call load, so I suggested a module first.",
+   "a_ko": "서비스가 하나 늘 때마다 온콜 부담이 배로 늘어서, 먼저 모듈로 만들자고 제안했습니다."
+  },
+  "collocations": [
+   "multiply by",
+   "multiply the impact",
+   "costs multiply"
+  ],
+  "related": [
+   "multiple",
+   "multiplier",
+   "apply"
+  ],
+  "tip": "multiple·multiplier 는 Day 7. '효과를 몇 배로 키우다'는 multiply the impact"
+ },
+ {
+  "id": "d17-B05",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "applicable",
+  "pos": "adjective",
+  "ipa": "/ˈæplɪkəbəl/",
+  "meaning_ko": "적용할 수 있는, 해당되는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다, 대다 (plicare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 applicare(~에 갖다 대다) → 갖다 댈 수 있는 → 적용할 수 있는"
+  },
+  "example": {
+   "q": "How would your experience help in our industry?",
+   "a": "Most of my payment experience is directly applicable here, because both domains need strict audit logs.",
+   "a_ko": "두 분야 모두 엄격한 감사 로그가 필요해서, 제 결제 경험 대부분을 여기에 그대로 적용할 수 있습니다."
+  },
+  "collocations": [
+   "directly applicable",
+   "applicable to",
+   "where applicable"
+  ],
+  "related": [
+   "apply",
+   "applicant",
+   "application"
+  ],
+  "tip": "강세는 첫음절 AP-pli-ca-ble (미국식에선 a-PPLI-ca-ble 도 들림). where applicable = 해당되는 경우"
+ },
+ {
+  "id": "d17-B06",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "redeploy",
+  "pos": "verb",
+  "ipa": "/ˌriːdɪˈplɔɪ/",
+  "meaning_ko": "다시 배포하다, 재배치하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    }
+   ],
+   "story": "라틴어 displicare(접힌 것을 펼치다) → deploy(펼쳐 배치하다) → re(다시) → 다시 배포하다"
+  },
+  "example": {
+   "q": "What did you do when the config change broke the service?",
+   "a": "I reverted the config and redeployed the previous build, which brought the service back in five minutes.",
+   "a_ko": "설정을 되돌리고 이전 빌드를 다시 배포해서 5분 만에 서비스를 복구했습니다."
+  },
+  "collocations": [
+   "redeploy a service",
+   "redeploy the build",
+   "redeploy staff"
+  ],
+  "related": [
+   "deploy",
+   "deployment",
+   "deployable"
+  ],
+  "tip": "deploy 는 Day 7 대표 단어. 사람에게 쓰면 '다른 부서로 재배치하다'"
+ },
+ {
+  "id": "d17-B07",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "deployable",
+  "pos": "adjective",
+  "ipa": "/dɪˈplɔɪəbəl/",
+  "meaning_ko": "배포할 수 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "deploy(펼쳐 배치하다) + able → 언제든 배포할 수 있는"
+  },
+  "example": {
+   "q": "What does a good main branch look like to you?",
+   "a": "To me, the main branch should always be deployable, so we block merges when any test fails.",
+   "a_ko": "메인 브랜치는 항상 배포 가능한 상태여야 한다고 생각해서, 테스트가 하나라도 실패하면 머지를 막습니다."
+  },
+  "collocations": [
+   "always deployable",
+   "deployable artifact",
+   "independently deployable"
+  ],
+  "related": [
+   "deploy",
+   "redeploy",
+   "employ"
+  ],
+  "tip": "마이크로서비스 장점을 말할 때 independently deployable(따로 배포할 수 있는)"
+ },
+ {
+  "id": "d17-B08",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "replicate",
+  "pos": "verb",
+  "ipa": "/ˈreplɪkeɪt/",
+  "meaning_ko": "재현하다, 복제하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 뒤로"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "라틴어 replicare(다시 접다, 되풀이하다) → 똑같이 되풀이하다 → 재현하다, 복제하다"
+  },
+  "example": {
+   "q": "How do you start debugging a bug reported by a customer?",
+   "a": "I first try to replicate the bug locally, because I can't be sure a fix works until I see the bug myself.",
+   "a_ko": "먼저 로컬에서 버그를 재현해 봅니다. 직접 보기 전에는 수정이 맞는지 확신할 수 없기 때문입니다."
+  },
+  "collocations": [
+   "replicate a bug",
+   "replicate data",
+   "replicate the results"
+  ],
+  "related": [
+   "replica",
+   "replication",
+   "reply"
+  ],
+  "tip": "버그 재현은 reproduce 와 replicate 둘 다 씀. DB 복제(replication)는 Day 7"
+ },
+ {
+  "id": "d17-B09",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "complication",
+  "pos": "noun",
+  "ipa": "/ˌkɑːmplɪˈkeɪʃən/",
+  "meaning_ko": "문제, 복잡한 사정",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 complicare(함께 접어 넣다) → 얽히게 하다 → 일을 꼬이게 하는 사정"
+  },
+  "example": {
+   "q": "Did anything go wrong during the migration?",
+   "a": "There was one complication: the old system stored dates in local time, so we had to convert everything to UTC first.",
+   "a_ko": "한 가지 문제가 있었는데, 옛 시스템이 날짜를 현지 시간으로 저장해서 먼저 전부 UTC 로 변환해야 했습니다."
+  },
+  "collocations": [
+   "one complication",
+   "unexpected complication",
+   "without complications"
+  ],
+  "related": [
+   "complicated",
+   "complex",
+   "explicit"
+  ],
+  "tip": "STAR 의 Situation 에서 '걸림돌'을 꺼낼 때 There was one complication 으로 시작하면 자연스러움"
+ },
+ {
+  "id": "d17-B10",
+  "day": 17,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "perplexed",
+  "pos": "adjective",
+  "ipa": "/pərˈplekst/",
+  "meaning_ko": "당황한, 어리둥절한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "plex",
+     "type": "root",
+     "gloss": "엮다, 꼬다 (plectere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "라틴어 perplexus(완전히 얽힌) → 생각이 얽혀 갈피를 못 잡는 → 당황한"
+  },
+  "example": {
+   "q": "Tell me about a bug that was hard to find.",
+   "a": "I was perplexed when the test passed locally but failed in CI, until I noticed the CI machines used a different time zone.",
+   "a_ko": "로컬에서는 통과하던 테스트가 CI 에서만 실패해서 당황했는데, CI 서버의 시간대가 다르다는 걸 알아냈습니다."
+  },
+  "collocations": [
+   "be perplexed by",
+   "perplexed look",
+   "leave someone perplexed"
+  ],
+  "related": [
+   "complex",
+   "perplexing",
+   "complicated"
+  ],
+  "tip": "plectere(엮다)는 plicare(접다)와 같은 계열. confused 보다 격식 있고 '수수께끼 같아서 당황한'"
+ },
+ {
+  "id": "d17-B11",
+  "day": 17,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "simplistic",
+  "pos": "adjective",
+  "ipa": "/sɪmˈplɪstɪk/",
+  "meaning_ko": "지나치게 단순한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "simpl",
+     "type": "root",
+     "gloss": "단순한 (simplex: 한 겹)"
+    },
+    {
+     "text": "istic",
+     "type": "suffix",
+     "gloss": "~한 성향의"
+    }
+   ],
+   "story": "라틴어 simplex(한 겹의, 단순한) → simple → istic → 지나치게 단순화한"
+  },
+  "example": {
+   "q": "What do you think of the rule 'never write comments'?",
+   "a": "I think it's a bit simplistic; comments shouldn't repeat the code, but they're useful for explaining why a decision was made.",
+   "a_ko": "조금 지나치게 단순하다고 생각합니다. 코드를 되풀이하는 주석은 필요 없지만, 왜 그렇게 결정했는지 설명하는 데는 유용합니다."
+  },
+  "collocations": [
+   "overly simplistic",
+   "simplistic view",
+   "simplistic approach"
+  ],
+  "related": [
+   "simple",
+   "simplify",
+   "simplicity",
+   "complex"
+  ],
+  "tip": "simple(간단한, 긍정)과 달리 simplistic 은 '너무 단순해서 문제'라는 부정적 뉘앙스"
+ },
+ {
+  "id": "d17-B12",
+  "day": 17,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "implicit",
+  "pos": "adjective",
+  "ipa": "/ɪmˈplɪsɪt/",
+  "meaning_ko": "암묵적인, 드러나지 않은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 (과거분사)"
+    }
+   ],
+   "story": "라틴어 implicitus(안으로 접혀 들어간) → 겉으로 드러나지 않은 → 암묵적인"
+  },
+  "example": {
+   "q": "What was the hardest part of breaking up the monolith?",
+   "a": "The hardest part was the implicit dependencies between modules, so I mapped every shared table before we split anything.",
+   "a_ko": "모듈 사이의 드러나지 않은 의존성이 가장 어려워서, 무엇이든 나누기 전에 공유 테이블을 모두 정리했습니다."
+  },
+  "collocations": [
+   "implicit dependency",
+   "implicit assumption",
+   "implicit conversion"
+  ],
+  "related": [
+   "explicit",
+   "imply",
+   "implication",
+   "complicated"
+  ],
+  "tip": "반대말 explicit(Day 7). 팀의 '암묵적 기대'는 implicit expectations"
+ },
+ {
+  "id": "d17-B13",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "extend",
+  "pos": "verb",
+  "ipa": "/ɪkˈstend/",
+  "meaning_ko": "연장하다, 늘리다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    }
+   ],
+   "story": "라틴어 extendere(밖으로 뻗다) → 길게 늘이다 → 연장하다"
+  },
+  "example": {
+   "q": "We'd like to hear your answer to the offer by Wednesday.",
+   "a": "Could you extend the deadline to Friday so I can discuss the offer with my family?",
+   "a_ko": "가족과 오퍼를 상의할 수 있도록 마감을 금요일까지 연장해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "extend a deadline",
+   "extend an offer",
+   "extend a contract"
+  ],
+  "related": [
+   "extensible",
+   "extensive",
+   "extent",
+   "tend"
+  ],
+  "tip": "회사가 오퍼를 내는 것도 extend an offer. 마감 연장 부탁은 Could you extend ~? 로 정중하게"
+ },
+ {
+  "id": "d17-B14",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "attendee",
+  "pos": "noun",
+  "ipa": "/əˌtenˈdiː/",
+  "meaning_ko": "참석자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ee",
+     "type": "suffix",
+     "gloss": "~되는 사람"
+    }
+   ],
+   "story": "라틴어 attendere(~쪽으로 마음을 뻗다) → attend(참석하다) → 참석자"
+  },
+  "example": {
+   "q": "How do you keep meetings short?",
+   "a": "I send the agenda to every attendee a day before the meeting.",
+   "a_ko": "회의 하루 전에 모든 참석자에게 안건을 보냅니다."
+  },
+  "collocations": [
+   "meeting attendee",
+   "conference attendee",
+   "list of attendees"
+  ],
+  "related": [
+   "attend",
+   "attention",
+   "attentive"
+  ],
+  "tip": "강세는 끝의 -DEE. 회의 운영 경험을 말할 때 participant 대신 쓸 수 있음"
+ },
+ {
+  "id": "d17-B15",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "intensity",
+  "pos": "noun",
+  "ipa": "/ɪnˈtensəti/",
+  "meaning_ko": "강도, 세기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "tens",
+     "type": "root",
+     "gloss": "뻗다, 팽팽하게 하다 (tendere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 intensus(팽팽하게 당긴, intendere 의 과거분사) → 팽팽함 → 강도, 세기"
+  },
+  "example": {
+   "q": "How do you deal with stress before a big release?",
+   "a": "I keep a steady pace, because high intensity for a few weeks leads to more bugs later.",
+   "a_ko": "꾸준한 속도를 유지합니다. 몇 주씩 강도 높게 일하면 나중에 버그가 더 생기기 때문입니다."
+  },
+  "collocations": [
+   "high intensity",
+   "work intensity",
+   "the intensity of"
+  ],
+  "related": [
+   "intense",
+   "intensive",
+   "intensify",
+   "tension"
+  ],
+  "tip": "intense(강렬한)·intensive(집중적인)는 Day 7. 업무 강도 = work intensity"
+ },
+ {
+  "id": "d17-B16",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "extensible",
+  "pos": "adjective",
+  "ipa": "/ɪkˈstensəbəl/",
+  "meaning_ko": "확장 가능한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tens",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 extensus(밖으로 뻗은) → 넓혀 갈 수 있는 → (기능을) 확장할 수 있는"
+  },
+  "example": {
+   "q": "How did you design the notification system?",
+   "a": "I made it extensible with a plugin interface, so adding a new channel like Slack took only one class.",
+   "a_ko": "플러그인 인터페이스로 확장할 수 있게 만들어서, 슬랙 같은 새 채널을 추가하는 데 클래스 하나면 충분했습니다."
+  },
+  "collocations": [
+   "extensible design",
+   "highly extensible",
+   "extensible framework"
+  ],
+  "related": [
+   "extend",
+   "extension",
+   "extensive"
+  ],
+  "tip": "extensible = 기능을 덧붙이기 쉬운, scalable = 부하가 늘어도 버티는. 둘을 구분해서 쓰기"
+ },
+ {
+  "id": "d17-B17",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "attentive",
+  "pos": "adjective",
+  "ipa": "/əˈtentɪv/",
+  "meaning_ko": "세심한, 주의 깊은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 attentus(~쪽으로 마음을 뻗은) → 주의를 기울이는 → 세심한"
+  },
+  "example": {
+   "q": "What do your colleagues say about you?",
+   "a": "They say I'm attentive in code reviews, because I often catch edge cases that tests have missed.",
+   "a_ko": "테스트가 놓친 예외 상황을 자주 찾아내서, 동료들은 제가 코드 리뷰에서 세심하다고 합니다."
+  },
+  "collocations": [
+   "attentive to detail",
+   "attentive listener",
+   "be attentive to"
+  ],
+  "related": [
+   "attend",
+   "attention",
+   "attendee"
+  ],
+  "tip": "detail-oriented 와 비슷. be attentive to the needs of users 처럼 to 와 함께"
+ },
+ {
+  "id": "d17-B18",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "intent",
+  "pos": "noun",
+  "ipa": "/ɪnˈtent/",
+  "meaning_ko": "의도, 목적",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    }
+   ],
+   "story": "라틴어 intentus(~쪽으로 뻗은, intendere 의 과거분사) → 마음을 향함 → 의도"
+  },
+  "example": {
+   "q": "What makes a good pull request description?",
+   "a": "It should explain the intent of the change, not just the code, so reviewers can judge if the approach fits.",
+   "a_ko": "코드만이 아니라 변경의 의도를 설명해서, 리뷰어가 접근 방식이 맞는지 판단할 수 있게 해야 합니다."
+  },
+  "collocations": [
+   "the intent of",
+   "user intent",
+   "declare intent"
+  ],
+  "related": [
+   "intend",
+   "intention",
+   "unintended"
+  ],
+  "tip": "intention 보다 짧고 기술 문서에 자주 씀. 검색·챗봇에선 user intent(사용자 의도)"
+ },
+ {
+  "id": "d17-B19",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "unintended",
+  "pos": "adjective",
+  "ipa": "/ˌʌnɪnˈtendɪd/",
+  "meaning_ko": "의도하지 않은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "intend(마음을 ~쪽으로 뻗다, 의도하다) + un(아닌) → 의도하지 않은"
+  },
+  "example": {
+   "q": "Why do you write tests before refactoring?",
+   "a": "Tests catch unintended side effects, so I can refactor with confidence instead of guessing.",
+   "a_ko": "테스트가 의도치 않은 부작용을 잡아 주기 때문에, 짐작하지 않고 자신 있게 리팩터링할 수 있습니다."
+  },
+  "collocations": [
+   "unintended consequences",
+   "unintended side effect",
+   "unintended behavior"
+  ],
+  "related": [
+   "intend",
+   "intent",
+   "intention"
+  ],
+  "tip": "unintended consequences(의도치 않은 결과)는 기술·비즈니스 양쪽에서 자주 쓰는 덩어리 표현"
+ },
+ {
+  "id": "d17-B20",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "contender",
+  "pos": "noun",
+  "ipa": "/kənˈtendər/",
+  "meaning_ko": "유력 후보, 경쟁자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "라틴어 contendere(함께 힘껏 뻗다, 다투다) → 겨루는 사람 → 유력 후보"
+  },
+  "example": {
+   "q": "Which databases did you consider for the project?",
+   "a": "PostgreSQL and DynamoDB were the two main contenders, and we chose PostgreSQL because we needed complex joins.",
+   "a_ko": "PostgreSQL 과 DynamoDB 가 두 유력 후보였는데, 복잡한 조인이 필요해서 PostgreSQL 을 골랐습니다."
+  },
+  "collocations": [
+   "main contender",
+   "strong contender",
+   "top contender"
+  ],
+  "related": [
+   "contend",
+   "extend",
+   "attend"
+  ],
+  "tip": "기술 선정 과정을 말할 때 the main contenders were A and B 로 깔끔하게 정리할 수 있음"
+ },
+ {
+  "id": "d17-B21",
+  "day": 17,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "intensify",
+  "pos": "verb",
+  "ipa": "/ɪnˈtensɪfaɪ/",
+  "meaning_ko": "강화하다, 심해지다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "tens",
+     "type": "root",
+     "gloss": "팽팽하게 하다 (tendere)"
+    },
+    {
+     "text": "ify",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "intense(팽팽한, 강렬한) + ify → 더 강하게 하다, 심해지다"
+  },
+  "example": {
+   "q": "How did you handle the conflict between the two teams?",
+   "a": "When the argument started to intensify, I suggested we pause, write down each team's constraints, and meet again the next morning.",
+   "a_ko": "논쟁이 심해지기 시작하자, 잠시 멈추고 팀마다 제약 조건을 적은 뒤 다음 날 아침에 다시 만나자고 제안했습니다."
+  },
+  "collocations": [
+   "intensify efforts",
+   "competition intensifies",
+   "pressure intensifies"
+  ],
+  "related": [
+   "intense",
+   "intensity",
+   "intensive"
+  ],
+  "tip": "갈등이나 경쟁이 '격해지다'는 intensify. 노력을 '강화하다'는 intensify our efforts"
+ },
+ {
+  "id": "d17-B22",
+  "day": 17,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "ostensibly",
+  "pos": "adverb",
+  "ipa": "/ɑːˈstensəbli/",
+  "meaning_ko": "표면상으로는, 겉보기에는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "os",
+     "type": "prefix",
+     "gloss": "앞에 (ob)"
+    },
+    {
+     "text": "tens",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ibly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "라틴어 ostendere(앞으로 뻗어 내보이다) → 보여 주는 대로의 → 겉으로는"
+  },
+  "example": {
+   "q": "Tell me about a time you found the real cause of a problem.",
+   "a": "The outage was ostensibly caused by a network issue, but I traced it to a retry loop that flooded our own API.",
+   "a_ko": "장애는 겉보기에는 네트워크 문제였지만, 우리 API 를 폭주시킨 재시도 루프가 원인이라는 걸 추적해 냈습니다."
+  },
+  "collocations": [
+   "ostensibly because",
+   "ostensibly simple",
+   "ostensibly for"
+  ],
+  "related": [
+   "ostensible",
+   "extend",
+   "tension"
+  ],
+  "tip": "'겉으로는 A, 실제로는 B' 구조에서 씀. 발음은 '아-STEN-서-블리'"
+ },
+ {
+  "id": "d17-B23",
+  "day": 17,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "tear down",
+  "pos": "phrasal verb",
+  "ipa": "/ter ˈdaʊn/",
+  "meaning_ko": "(환경을) 해체하다, 허물다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tear",
+     "type": "part",
+     "gloss": "찢다"
+    },
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    }
+   ],
+   "story": "tear(찢다) + down(아래로) → 찢어 무너뜨리다 → 허물다, (테스트 환경을) 정리하다"
+  },
+  "example": {
+   "q": "How do you keep your cloud costs low?",
+   "a": "We tear down test environments every night and rebuild them in the morning.",
+   "a_ko": "테스트 환경을 매일 밤 해체하고 아침에 다시 만듭니다."
+  },
+  "collocations": [
+   "tear down an environment",
+   "tear down a wall",
+   "teardown"
+  ],
+  "related": [
+   "set up",
+   "spin up",
+   "wind down"
+  ],
+  "tip": "핵심어. 테스트 코드의 setUp ↔ tearDown 과 같은 말. tear 는 '테어'(찢다)로 발음"
+ },
+ {
+  "id": "d17-B24",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "spin off",
+  "pos": "phrasal verb",
+  "ipa": "/spɪn ˈɔːf/",
+  "meaning_ko": "분리해 내다, 떼어 내 독립시키다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "spin",
+     "type": "part",
+     "gloss": "돌다, 돌리다"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "spin(빙 돌다) + off(떨어져) → 돌면서 튕겨 나가다 → 일부를 떼어 따로 세우다"
+  },
+  "example": {
+   "q": "How did you deal with the growing monolith?",
+   "a": "We decided to spin off the search feature into its own service because it needed to scale separately.",
+   "a_ko": "검색 기능은 따로 확장해야 해서 독립 서비스로 떼어 내기로 했습니다."
+  },
+  "collocations": [
+   "spin off a service",
+   "spin off a team",
+   "spin-off"
+  ],
+  "related": [
+   "split out",
+   "break out",
+   "carve out"
+  ],
+  "tip": "핵심어. 과거형은 spun off. 명사 spin-off(파생 회사·파생 프로젝트)"
+ },
+ {
+  "id": "d17-B25",
+  "day": 17,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "wind down",
+  "pos": "phrasal verb",
+  "ipa": "/waɪnd ˈdaʊn/",
+  "meaning_ko": "단계적으로 줄이다, 마무리하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "wind",
+     "type": "part",
+     "gloss": "감다, 돌리다"
+    },
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    }
+   ],
+   "story": "wind(태엽을 감다) + down(아래로) → 감긴 태엽이 풀리며 느려지다 → 서서히 줄여 끝내다"
+  },
+  "example": {
+   "q": "Why are you leaving your current job?",
+   "a": "My company is winding down its Korean office, so I'm looking for a team where I can grow long term.",
+   "a_ko": "회사가 한국 지사를 단계적으로 정리하고 있어서, 오래 성장할 수 있는 팀을 찾고 있습니다."
+  },
+  "collocations": [
+   "wind down a project",
+   "wind down operations",
+   "wind down after work"
+  ],
+  "related": [
+   "phase out",
+   "scale back",
+   "shut down"
+  ],
+  "tip": "핵심어. wind 는 '와인드'(감다)로 발음, 바람(wind)과 다름. '긴장을 풀다'는 뜻도 있음"
+ },
+ {
+  "id": "d17-C01",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "rely",
+  "pos": "verb",
+  "ipa": "/rɪˈlaɪ/",
+  "meaning_ko": "의지하다, 믿다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 단단히"
+    },
+    {
+     "text": "ly",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    }
+   ],
+   "story": "라틴어 religare(단단히 묶다) → 고대 프랑스어 relier → 묶여 기대다 → 의지하다"
+  },
+  "example": {
+   "q": "What do you do when you're stuck on a problem?",
+   "a": "I rely on good logs first, and then I ask a teammate for a second pair of eyes.",
+   "a_ko": "먼저 로그를 꼼꼼히 보고, 그다음 동료에게 한번 봐 달라고 부탁합니다."
+  },
+  "collocations": [
+   "rely on",
+   "rely heavily on",
+   "can be relied on"
+  ],
+  "related": [
+   "reliable",
+   "reliance",
+   "ally",
+   "liaison"
+  ],
+  "tip": "항상 rely on + 대상. 형용사 reliable(믿을 만한)은 Day 7"
+ },
+ {
+  "id": "d17-C02",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "disconnect",
+  "pos": "noun",
+  "ipa": "/ˌdɪskəˈnekt/",
+  "meaning_ko": "단절, 괴리",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어뜨려"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "nect",
+     "type": "root",
+     "gloss": "묶다 (nectere)"
+    }
+   ],
+   "story": "라틴어 connectere(함께 묶다) → connect → dis(떨어뜨려) → 연결이 끊김 → 생각·정보의 괴리"
+  },
+  "example": {
+   "q": "What problem did you notice when you joined your team?",
+   "a": "There was a disconnect between what sales promised and what we could build.",
+   "a_ko": "영업이 약속한 것과 저희가 만들 수 있는 것 사이에 괴리가 있었습니다."
+  },
+  "collocations": [
+   "a disconnect between",
+   "disconnect from",
+   "feel disconnected"
+  ],
+  "related": [
+   "connect",
+   "connection",
+   "connectivity"
+  ],
+  "tip": "동사(연결을 끊다)로도 쓰지만, 면접에선 명사 a disconnect between A and B(인식 차이)가 유용"
+ },
+ {
+  "id": "d17-C03",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "reliance",
+  "pos": "noun",
+  "ipa": "/rɪˈlaɪəns/",
+  "meaning_ko": "의존, 의지",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 단단히"
+    },
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "rely(묶여 기대다) + ance → 의존"
+  },
+  "example": {
+   "q": "Why did you add a second cloud region?",
+   "a": "Our reliance on a single region was a big risk, so I set up a standby region for critical services.",
+   "a_ko": "한 리전에만 의존하는 것이 큰 위험이어서, 핵심 서비스용 대기 리전을 구축했습니다."
+  },
+  "collocations": [
+   "reliance on",
+   "heavy reliance",
+   "reduce reliance"
+  ],
+  "related": [
+   "rely",
+   "reliable",
+   "reliability"
+  ],
+  "tip": "dependence 와 비슷. reduce our reliance on manual testing 처럼 '의존을 줄이다'로 자주 씀"
+ },
+ {
+  "id": "d17-C04",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "obligation",
+  "pos": "noun",
+  "ipa": "/ˌɑːblɪˈɡeɪʃən/",
+  "meaning_ko": "의무, 책임",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~에, ~쪽으로"
+    },
+    {
+     "text": "lig",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 obligare(~에 묶다) → 약속으로 묶인 상태 → 의무"
+  },
+  "example": {
+   "q": "Is there anything that would stop you from accepting the offer?",
+   "a": "I have an obligation to give my current employer one month's notice, so the earliest start date would be March 3.",
+   "a_ko": "현 직장에 한 달 전에 퇴사를 알려야 할 의무가 있어서, 가장 빠른 입사일은 3월 3일입니다."
+  },
+  "collocations": [
+   "contractual obligation",
+   "an obligation to",
+   "no obligation"
+  ],
+  "related": [
+   "oblige",
+   "obliged",
+   "liability",
+   "ally"
+  ],
+  "tip": "입사일 협상에서 notice obligation(퇴사 통보 의무)을 근거로 들면 설득력 있음"
+ },
+ {
+  "id": "d17-C05",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "liable",
+  "pos": "adjective",
+  "ipa": "/ˈlaɪəbəl/",
+  "meaning_ko": "~하기 쉬운, 책임이 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (ligare, 프랑스어 lier)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 ligare(묶다) → 프랑스어 lier → 법에 묶인 → 책임이 있는 → ~하기 쉬운"
+  },
+  "example": {
+   "q": "Why did you automate the release process?",
+   "a": "Manual releases were liable to human error, so I automated the steps and cut failed releases by half.",
+   "a_ko": "수동 배포는 사람 실수가 나기 쉬워서, 단계를 자동화해 배포 실패를 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "liable to error",
+   "liable for",
+   "held liable"
+  ],
+  "related": [
+   "liability",
+   "rely",
+   "obligation"
+  ],
+  "tip": "be liable to + 명사/동사 = ~하기 쉽다, be liable for = ~에 법적 책임이 있다. liability 는 Day 7"
+ },
+ {
+  "id": "d17-C06",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "connectivity",
+  "pos": "noun",
+  "ipa": "/ˌkɑːnekˈtɪvəti/",
+  "meaning_ko": "연결성, 접속",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "nect",
+     "type": "root",
+     "gloss": "묶다 (nectere)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "connect(함께 묶다) + ive + ity → 연결되는 성질 → 연결성, 접속"
+  },
+  "example": {
+   "q": "How did you make the mobile app work offline?",
+   "a": "I cached data on the device and synced it when connectivity came back, since our users often worked underground.",
+   "a_ko": "사용자가 지하에서 일하는 경우가 많아서, 데이터를 기기에 캐시해 두고 연결이 돌아오면 동기화했습니다."
+  },
+  "collocations": [
+   "network connectivity",
+   "poor connectivity",
+   "connectivity issues"
+  ],
+  "related": [
+   "connect",
+   "connection",
+   "disconnect"
+  ],
+  "tip": "장애 설명에서 connectivity issues(접속 문제)로 많이 씀. 강세는 -TIV-"
+ },
+ {
+  "id": "d17-C07",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "liaise",
+  "pos": "verb",
+  "ipa": "/liˈeɪz/",
+  "meaning_ko": "연락을 맡다, 조율하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (ligare, 프랑스어 lier)"
+    },
+    {
+     "text": "aise",
+     "type": "suffix",
+     "gloss": "(liaison 에서 역성)"
+    }
+   ],
+   "story": "라틴어 ligare(묶다) → 프랑스어 liaison(연결) → 그 말에서 거꾸로 만든 동사 → 연락·조율을 맡다"
+  },
+  "example": {
+   "q": "What was your role in the project besides coding?",
+   "a": "I liaised with the legal team on data privacy, because nobody else on our team had worked with them before.",
+   "a_ko": "팀에서 법무팀과 일해 본 사람이 없어서, 제가 개인정보 문제로 법무팀과 조율을 맡았습니다."
+  },
+  "collocations": [
+   "liaise with",
+   "liaise between",
+   "liaise closely"
+  ],
+  "related": [
+   "liaison",
+   "rely",
+   "ally"
+  ],
+  "tip": "영국에서 많이 쓰고 미국에선 coordinate with 가 더 흔함. 발음 '리-에이즈'"
+ },
+ {
+  "id": "d17-C08",
+  "day": 17,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "obliged",
+  "pos": "adjective",
+  "ipa": "/əˈblaɪdʒd/",
+  "meaning_ko": "(~할) 의무가 있는, 고마운",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~에, ~쪽으로"
+    },
+    {
+     "text": "lig",
+     "type": "root",
+     "gloss": "묶다 (ligare, 철자 lige)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "라틴어 obligare(~에 묶다) → 고대 프랑스어 obliger → 묶인 → ~해야 하는, (은혜에 묶여) 고마운"
+  },
+  "example": {
+   "q": "Can you start in two weeks?",
+   "a": "I'd love to, but I'm obliged to finish the handover of my current project, so four weeks would be more realistic.",
+   "a_ko": "그러고 싶지만 지금 프로젝트 인수인계를 마쳐야 할 의무가 있어서, 4주가 더 현실적입니다."
+  },
+  "collocations": [
+   "be obliged to",
+   "feel obliged",
+   "much obliged"
+  ],
+  "related": [
+   "oblige",
+   "obligation",
+   "liable"
+  ],
+  "tip": "be obliged to = have to 의 격식체. 'I'd be much obliged'는 '정말 감사하겠습니다'"
+ },
+ {
+  "id": "d17-C09",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "alternatively",
+  "pos": "adverb",
+  "ipa": "/ɔːlˈtɝːnətɪvli/",
+  "meaning_ko": "그 대신에, 아니면",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "alter",
+     "type": "root",
+     "gloss": "다른 하나 (alter)"
+    },
+    {
+     "text": "n",
+     "type": "part",
+     "gloss": "(alternus)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "라틴어 alternus(번갈아 하는, alter 다른 하나에서) → alternative(둘 중 다른 쪽) → 그 대신에"
+  },
+  "example": {
+   "q": "When can you come in for the final interview?",
+   "a": "Tuesday morning works for me. Alternatively, I'm free on Thursday afternoon.",
+   "a_ko": "화요일 오전이 괜찮습니다. 아니면 목요일 오후도 됩니다."
+  },
+  "collocations": [
+   "or alternatively",
+   "alternatively, we could",
+   "alternatively, you can"
+  ],
+  "related": [
+   "alternative",
+   "alternate",
+   "alter"
+  ],
+  "tip": "대안을 하나 더 제시할 때 문장 맨 앞에. alternative(대안)는 Day 7 대표 단어"
+ },
+ {
+  "id": "d17-C10",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "mutable",
+  "pos": "adjective",
+  "ipa": "/ˈmjuːtəbəl/",
+  "meaning_ko": "변경할 수 있는, 가변의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mut",
+     "type": "root",
+     "gloss": "바꾸다 (mutare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 mutabilis(바뀔 수 있는) → 변경할 수 있는"
+  },
+  "example": {
+   "q": "What causes most of the bugs in concurrent code?",
+   "a": "In my experience, shared mutable state causes most of them, so I keep objects read-only wherever I can.",
+   "a_ko": "제 경험상 대부분 여러 곳에서 공유하는 가변 상태 때문이라서, 가능한 곳은 객체를 읽기 전용으로 둡니다."
+  },
+  "collocations": [
+   "shared mutable state",
+   "mutable object",
+   "mutable data"
+  ],
+  "related": [
+   "mutate",
+   "mutation",
+   "commute",
+   "mutual"
+  ],
+  "tip": "반대말 immutable 은 Day 27 대표 단어. 함수형 프로그래밍 질문에 바로 나옴"
+ },
+ {
+  "id": "d17-C11",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "mutex",
+  "pos": "noun",
+  "ipa": "/ˈmjuːteks/",
+  "meaning_ko": "뮤텍스, 상호 배제 잠금",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mut",
+     "type": "root",
+     "gloss": "서로 (mutual, mutare)"
+    },
+    {
+     "text": "ex",
+     "type": "part",
+     "gloss": "배제 (exclusion)"
+    }
+   ],
+   "story": "mutual exclusion(상호 배제)의 줄임말 → 한 번에 한 스레드만 들어가게 하는 잠금"
+  },
+  "example": {
+   "q": "How did you fix the race condition?",
+   "a": "I protected the counter with a mutex, so only one thread could update it at a time.",
+   "a_ko": "카운터를 뮤텍스로 보호해서 한 번에 한 스레드만 값을 바꿀 수 있게 했습니다."
+  },
+  "collocations": [
+   "acquire a mutex",
+   "release a mutex",
+   "mutex lock"
+  ],
+  "related": [
+   "mutual",
+   "mutually exclusive",
+   "semaphore"
+  ],
+  "tip": "mutual + exclusion 을 줄인 말. lock 과 거의 같은 뜻으로 씀. 발음 '뮤-텍스'"
+ },
+ {
+  "id": "d17-C12",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "alteration",
+  "pos": "noun",
+  "ipa": "/ˌɔːltəˈreɪʃən/",
+  "meaning_ko": "변경, 수정",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "alter",
+     "type": "root",
+     "gloss": "다른 (alter)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 alterare(다르게 만들다, alter 다른) → 다르게 바꿈 → 변경, 수정"
+  },
+  "example": {
+   "q": "Here is the draft contract. Let us know if you have any questions.",
+   "a": "Thank you. I'd like to request one alteration: the non-compete period should be six months instead of two years.",
+   "a_ko": "감사합니다. 한 가지 수정을 요청드리고 싶습니다. 경업 금지 기간을 2년이 아니라 6개월로 해 주셨으면 합니다."
+  },
+  "collocations": [
+   "request an alteration",
+   "minor alteration",
+   "alteration to the contract"
+  ],
+  "related": [
+   "alter",
+   "alternative",
+   "unaltered"
+  ],
+  "tip": "계약서 조항 수정 요청에 change 보다 격식 있게. 동사 alter 는 Day 7"
+ },
+ {
+  "id": "d17-C13",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "unaltered",
+  "pos": "adjective",
+  "ipa": "/ʌnˈɔːltərd/",
+  "meaning_ko": "바뀌지 않은, 원래 그대로의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "alter",
+     "type": "root",
+     "gloss": "다르게 하다 (alterare)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "alter(다르게 바꾸다) + ed + un(아닌) → 바뀌지 않은 그대로의"
+  },
+  "example": {
+   "q": "How do you protect audit logs?",
+   "a": "We store audit logs in write-once storage, so they stay unaltered even if an account is compromised.",
+   "a_ko": "감사 로그를 한 번만 쓸 수 있는 저장소에 보관해서, 계정이 털려도 로그가 원래대로 남습니다."
+  },
+  "collocations": [
+   "remain unaltered",
+   "unaltered data",
+   "left unaltered"
+  ],
+  "related": [
+   "alter",
+   "alteration",
+   "alternative"
+  ],
+  "tip": "unchanged 의 격식체. 데이터 무결성(integrity)을 설명할 때 자주 씀"
+ },
+ {
+  "id": "d17-C14",
+  "day": 17,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "mutual",
+  "pos": "adjective",
+  "ipa": "/ˈmjuːtʃuəl/",
+  "meaning_ko": "서로의, 상호 간의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mutu",
+     "type": "root",
+     "gloss": "서로 바꾸는 (mutuus, mutare)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 mutuus(주고받는, mutare 바꾸다에서) → 서로 주고받는 → 상호의"
+  },
+  "example": {
+   "q": "How do you build trust with a new team?",
+   "a": "I think mutual trust comes from keeping small promises, so in my first month I always delivered what I said I would.",
+   "a_ko": "상호 신뢰는 작은 약속을 지키는 데서 온다고 생각해서, 첫 달에는 말한 것을 반드시 해냈습니다."
+  },
+  "collocations": [
+   "mutual trust",
+   "mutual respect",
+   "mutually beneficial"
+  ],
+  "related": [
+   "mutable",
+   "mutex",
+   "commute",
+   "mutation"
+  ],
+  "tip": "mutual trust/respect 는 면접 필수 짝. 협상에선 a mutually agreeable date(서로 좋은 날짜)"
+ },
+ {
+  "id": "d17-C15",
+  "day": 17,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "mutually exclusive",
+  "pos": "phrase",
+  "ipa": "/ˈmjuːtʃuəli ɪkˈskluːsɪv/",
+  "meaning_ko": "상호 배타적인, 양립할 수 없는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mutu",
+     "type": "root",
+     "gloss": "서로 (mutuus)"
+    },
+    {
+     "text": "ally",
+     "type": "suffix",
+     "gloss": "~하게"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "clus",
+     "type": "root",
+     "gloss": "닫다 (claudere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "mutually(서로) + exclusive(밖으로 닫아 내보내는) → 서로를 밀어내서 함께 있을 수 없는"
+  },
+  "example": {
+   "q": "Do you think speed and quality are in conflict?",
+   "a": "I don't see speed and quality as mutually exclusive; on my last team, better tests actually let us release more often.",
+   "a_ko": "속도와 품질이 양립할 수 없다고 보지 않습니다. 전 팀에서는 테스트를 개선하자 오히려 더 자주 배포할 수 있었습니다."
+  },
+  "collocations": [
+   "not mutually exclusive",
+   "mutually exclusive options",
+   "mutually exclusive goals"
+  ],
+  "related": [
+   "mutual",
+   "mutex",
+   "exclude"
+  ],
+  "tip": "'A 와 B 는 둘 중 하나가 아니다'를 not mutually exclusive 로 말하면 균형 잡힌 인상을 줌"
+ },
+ {
+  "id": "d17-C16",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "fluency",
+  "pos": "noun",
+  "ipa": "/ˈfluːənsi/",
+  "meaning_ko": "유창함, 능숙함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flu",
+     "type": "root",
+     "gloss": "흐르다 (fluere)"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 fluere(흐르다) → fluent(막힘없이 흐르는) → 유창함"
+  },
+  "example": {
+   "q": "How are you improving your English?",
+   "a": "I practice speaking every day to build my fluency for meetings.",
+   "a_ko": "회의에서 유창하게 말하려고 매일 말하기 연습을 합니다."
+  },
+  "collocations": [
+   "language fluency",
+   "build fluency",
+   "fluency in"
+  ],
+  "related": [
+   "fluent",
+   "fluid",
+   "influence",
+   "flux"
+  ],
+  "tip": "fluency in English / fluency in Python 처럼 언어·기술 둘 다에 씀"
+ },
+ {
+  "id": "d17-C17",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "fluent",
+  "pos": "adjective",
+  "ipa": "/ˈfluːənt/",
+  "meaning_ko": "유창한, 능숙한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flu",
+     "type": "root",
+     "gloss": "흐르다 (fluere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 fluens(흐르는) → 말이 막힘없이 흐르는 → 유창한"
+  },
+  "example": {
+   "q": "Which programming languages are you strongest in?",
+   "a": "I'm fluent in Go and Python, and I've been using Rust for side projects for about a year.",
+   "a_ko": "Go 와 파이썬에 능숙하고, 1년쯤 전부터 개인 프로젝트에 Rust 를 쓰고 있습니다."
+  },
+  "collocations": [
+   "fluent in",
+   "fluent English",
+   "fully fluent"
+  ],
+  "related": [
+   "fluency",
+   "fluid",
+   "fluctuate",
+   "influx"
+  ],
+  "tip": "프로그래밍 언어에도 fluent in 을 씀. 영어는 '유창'까지가 아니면 conversational 이 안전"
+ },
+ {
+  "id": "d17-C18",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "fluidity",
+  "pos": "noun",
+  "ipa": "/fluˈɪdəti/",
+  "meaning_ko": "유동성, 유연함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flu",
+     "type": "root",
+     "gloss": "흐르다 (fluere)"
+    },
+    {
+     "text": "id",
+     "type": "suffix",
+     "gloss": "~한 (fluidus)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 fluidus(흐르는) → fluid(유동적인) → 흐르듯 잘 바뀌는 성질 → 유동성"
+  },
+  "example": {
+   "q": "How do you handle changing priorities at a startup?",
+   "a": "I'm comfortable with the fluidity of a startup, because I plan in one-week cycles and re-prioritize every Monday.",
+   "a_ko": "1주 단위로 계획하고 매주 월요일에 우선순위를 다시 정해서, 스타트업의 유동적인 상황이 편합니다."
+  },
+  "collocations": [
+   "fluidity of roles",
+   "fluidity of priorities",
+   "with fluidity"
+  ],
+  "related": [
+   "fluid",
+   "fluent",
+   "fluctuate"
+  ],
+  "tip": "역할·우선순위가 자주 바뀌는 환경을 긍정적으로 표현할 때. fluid(Day 7)의 명사"
+ },
+ {
+  "id": "d17-C19",
+  "day": 17,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "confluence",
+  "pos": "noun",
+  "ipa": "/ˈkɑːnfluəns/",
+  "meaning_ko": "합류, (여러 요인이) 겹침",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "flu",
+     "type": "root",
+     "gloss": "흐르다 (fluere)"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 confluere(함께 흐르다) → 강이 만나는 곳 → 여러 일이 한데 겹침"
+  },
+  "example": {
+   "q": "What caused your biggest outage?",
+   "a": "It was a confluence of factors: a traffic spike, an expired certificate, and an alert that went to the wrong channel.",
+   "a_ko": "여러 요인이 겹친 결과였습니다. 트래픽 급증, 만료된 인증서, 그리고 엉뚱한 채널로 간 알림이었습니다."
+  },
+  "collocations": [
+   "a confluence of factors",
+   "confluence of events",
+   "at the confluence of"
+  ],
+  "related": [
+   "fluent",
+   "influence",
+   "influx"
+  ],
+  "tip": "장애 회고에서 '한 가지 원인이 아니었다'를 a confluence of factors 로. 협업 도구 Confluence 와 같은 단어"
+ },
+ {
+  "id": "d17-C20",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "strict",
+  "pos": "adjective",
+  "ipa": "/strɪkt/",
+  "meaning_ko": "엄격한, 철저한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶은 (strictus, stringere)"
+    }
+   ],
+   "story": "라틴어 strictus(꽉 묶은, stringere 의 과거분사) → 빈틈없이 조인 → 엄격한"
+  },
+  "example": {
+   "q": "How do you work with tight deadlines?",
+   "a": "I set a strict scope for each sprint and push extra requests to the next one.",
+   "a_ko": "스프린트마다 범위를 엄격하게 정하고, 추가 요청은 다음 스프린트로 넘깁니다."
+  },
+  "collocations": [
+   "strict deadline",
+   "strict rules",
+   "strictly speaking"
+  ],
+  "related": [
+   "restrict",
+   "restriction",
+   "stringent",
+   "constraint"
+  ],
+  "tip": "stringere(꽉 묶다)는 '묶다' 가족의 보조 어근. tight 보다 '규칙이 엄격한'"
+ },
+ {
+  "id": "d17-C21",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "restrict",
+  "pos": "verb",
+  "ipa": "/rɪˈstrɪkt/",
+  "meaning_ko": "제한하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶다 (stringere)"
+    }
+   ],
+   "story": "라틴어 restringere(뒤로 꽉 묶다) → 묶어서 못 움직이게 하다 → 제한하다"
+  },
+  "example": {
+   "q": "How do you protect your production database?",
+   "a": "I restrict write access to a small group and log every query they run.",
+   "a_ko": "쓰기 권한을 소수에게만 제한하고, 그들이 실행하는 모든 쿼리를 기록합니다."
+  },
+  "collocations": [
+   "restrict access",
+   "restrict to",
+   "restricted area"
+  ],
+  "related": [
+   "restriction",
+   "strict",
+   "constraint"
+  ],
+  "tip": "보안 질문에서 restrict access to ~ 는 거의 정해진 표현"
+ },
+ {
+  "id": "d17-C22",
+  "day": 17,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "restriction",
+  "pos": "noun",
+  "ipa": "/rɪˈstrɪkʃən/",
+  "meaning_ko": "제한, 제약",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶다 (stringere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "restrict(뒤로 꽉 묶다) + ion → 제한"
+  },
+  "example": {
+   "q": "Were there any limits on the tools you could use?",
+   "a": "Yes, the bank had a restriction on open-source libraries, so every new one needed a security review.",
+   "a_ko": "네, 은행은 오픈소스 라이브러리에 제한이 있어서 새로 쓰는 것마다 보안 검토가 필요했습니다."
+  },
+  "collocations": [
+   "a restriction on",
+   "access restriction",
+   "lift a restriction"
+  ],
+  "related": [
+   "restrict",
+   "strict",
+   "stringent"
+  ],
+  "tip": "a restriction on + 대상. 규칙을 풀다 = lift a restriction"
+ },
+ {
+  "id": "d17-C23",
+  "day": 17,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "stringent",
+  "pos": "adjective",
+  "ipa": "/ˈstrɪndʒənt/",
+  "meaning_ko": "엄중한, (기준이) 까다로운",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "string",
+     "type": "root",
+     "gloss": "꽉 묶다 (stringere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 stringens(꽉 조이는) → 빈틈없이 조이는 → 엄중한, 까다로운"
+  },
+  "example": {
+   "q": "What was it like working on healthcare software?",
+   "a": "The data rules were stringent, so I designed the system to encrypt every field and keep a full audit trail from day one.",
+   "a_ko": "데이터 규정이 매우 까다로워서, 처음부터 모든 필드를 암호화하고 전체 감사 기록을 남기도록 시스템을 설계했습니다."
+  },
+  "collocations": [
+   "stringent requirements",
+   "stringent security",
+   "stringent standards"
+  ],
+  "related": [
+   "strict",
+   "restrict",
+   "constraint"
+  ],
+  "tip": "strict 보다 격식 있고 규정·기준에 씀. 영어 string(끈)은 게르만어로 다른 말"
+ },
+ {
+  "id": "d17-C24",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "wear many hats",
+  "pos": "phrase",
+  "ipa": "/wer ˈmeni hæts/",
+  "meaning_ko": "여러 역할을 맡다, 1인 다역을 하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "wear",
+     "type": "part",
+     "gloss": "쓰다, 입다"
+    },
+    {
+     "text": "many",
+     "type": "part",
+     "gloss": "많은"
+    },
+    {
+     "text": "hats",
+     "type": "part",
+     "gloss": "모자들"
+    }
+   ],
+   "story": "모자(직책을 나타내는 것)를 여러 개 바꿔 쓰다 → 한 사람이 여러 역할을 맡다"
+  },
+  "example": {
+   "q": "Have you worked at a small company before?",
+   "a": "Yes, at my first startup I had to wear many hats, from backend developer to part-time DevOps engineer.",
+   "a_ko": "네, 첫 스타트업에서는 백엔드 개발자부터 시간제 데브옵스 엔지니어까지 여러 역할을 맡았습니다."
+  },
+  "collocations": [
+   "wear many hats",
+   "wear two hats",
+   "wear multiple hats"
+  ],
+  "related": [
+   "multitask",
+   "versatile",
+   "take on"
+  ],
+  "tip": "핵심어. 스타트업 경험을 말할 때 단골. versatile(Day 7)과 함께 쓰면 좋음"
+ },
+ {
+  "id": "d17-C25",
+  "day": 17,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "hand over",
+  "pos": "phrasal verb",
+  "ipa": "/hænd ˈoʊvər/",
+  "meaning_ko": "인계하다, 넘겨주다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hand",
+     "type": "part",
+     "gloss": "손, 건네다"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘겨서"
+    }
+   ],
+   "story": "hand(손으로 건네다) + over(건너편으로) → 책임·업무를 넘겨주다"
+  },
+  "example": {
+   "q": "How do you prepare when you go on vacation?",
+   "a": "I hand over my open tickets with short notes, so the on-call engineer doesn't have to guess anything.",
+   "a_ko": "진행 중인 티켓을 짧은 메모와 함께 인계해서, 온콜 엔지니어가 아무것도 짐작할 필요가 없게 합니다."
+  },
+  "collocations": [
+   "hand over to",
+   "hand over a project",
+   "handover"
+  ],
+  "related": [
+   "take over",
+   "pass on",
+   "switch over"
+  ],
+  "tip": "핵심어. 명사는 handover(인수인계). 받는 쪽은 take over"
+ },
+ {
+  "id": "d17-D01",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "flexible",
+  "pos": "adjective",
+  "ipa": "/ˈfleksəbəl/",
+  "meaning_ko": "유연한, 융통성 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flex",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 flexibilis(구부릴 수 있는) → 잘 휘는 → 융통성 있는"
+  },
+  "example": {
+   "q": "When would you be able to start?",
+   "a": "I'm flexible on the start date, but the first week of April would be ideal.",
+   "a_ko": "입사일은 조정할 수 있지만, 4월 첫째 주가 가장 좋겠습니다."
+  },
+  "collocations": [
+   "flexible on",
+   "flexible hours",
+   "flexible schedule"
+  ],
+  "related": [
+   "flexibility",
+   "reflect",
+   "deflect",
+   "inflection"
+  ],
+  "tip": "flectere(구부리다)는 '돌리다·뻗다' 가족의 보조 어근. be flexible on + 조건 으로 협상 여지를 보여 줌"
+ },
+ {
+  "id": "d17-D02",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "reflect",
+  "pos": "verb",
+  "ipa": "/rɪˈflekt/",
+  "meaning_ko": "반영하다, 되돌아보다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "flect",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    }
+   ],
+   "story": "라틴어 reflectere(뒤로 구부리다) → 빛을 되돌려 비추다 → 반영하다, 돌이켜 생각하다"
+  },
+  "example": {
+   "q": "What are your salary expectations?",
+   "a": "I'd like the offer to reflect my eight years of backend experience and the on-call duties.",
+   "a_ko": "제 8년간의 백엔드 경력과 온콜 업무가 오퍼에 반영되었으면 합니다."
+  },
+  "collocations": [
+   "reflect experience",
+   "reflect on",
+   "reflect the market"
+  ],
+  "related": [
+   "reflection",
+   "flexible",
+   "deflect"
+  ],
+  "tip": "'경력이 연봉에 반영되다'는 the offer reflects my experience. reflect on 은 '되돌아보다'"
+ },
+ {
+  "id": "d17-D03",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "flexibility",
+  "pos": "noun",
+  "ipa": "/ˌfleksəˈbɪləti/",
+  "meaning_ko": "유연성, 융통성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flex",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    },
+    {
+     "text": "ib",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (ible)"
+    },
+    {
+     "text": "ility",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "flexible(구부릴 수 있는) + ity → 유연성"
+  },
+  "example": {
+   "q": "Our budget for the base salary is a bit lower than your expectation.",
+   "a": "I have some flexibility on the base salary if the stock grant or remote work options can make up the difference.",
+   "a_ko": "주식이나 원격 근무 조건으로 차이를 메울 수 있다면 기본급은 조금 양보할 수 있습니다."
+  },
+  "collocations": [
+   "some flexibility",
+   "flexibility on",
+   "work flexibility"
+  ],
+  "related": [
+   "flexible",
+   "reflect",
+   "reflection"
+  ],
+  "tip": "협상에서 '양보할 여지'를 보여 주되 조건(if ~)을 함께 붙이는 것이 요령"
+ },
+ {
+  "id": "d17-D04",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "reflection",
+  "pos": "noun",
+  "ipa": "/rɪˈflekʃən/",
+  "meaning_ko": "반영, 돌이켜 봄",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "flect",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "reflect(뒤로 구부리다, 되비추다) + ion → 되비친 모습 → 반영, 돌이켜 봄"
+  },
+  "example": {
+   "q": "What did you learn from that failed project?",
+   "a": "On reflection, I should have shown users a prototype much earlier, so now I share a demo within the first two weeks.",
+   "a_ko": "돌이켜 보니 사용자에게 프로토타입을 훨씬 일찍 보여 줬어야 했습니다. 그래서 지금은 첫 2주 안에 데모를 공유합니다."
+  },
+  "collocations": [
+   "on reflection",
+   "a reflection of",
+   "self-reflection"
+  ],
+  "related": [
+   "reflect",
+   "flexibility",
+   "retrospective"
+  ],
+  "tip": "On reflection, ~(돌이켜 보면)으로 실패 경험 답변을 시작하면 성숙한 인상. 자바의 리플렉션도 같은 단어"
+ },
+ {
+  "id": "d17-D05",
+  "day": 17,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "deflect",
+  "pos": "verb",
+  "ipa": "/dɪˈflekt/",
+  "meaning_ko": "(비판·질문을) 피하다, 돌리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져, 비껴"
+    },
+    {
+     "text": "flect",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    }
+   ],
+   "story": "라틴어 deflectere(비껴 구부리다) → 방향을 딴 데로 돌리다 → 비판·책임을 피하다"
+  },
+  "example": {
+   "q": "How do you react when someone criticizes your design?",
+   "a": "I try not to deflect criticism; I ask what problem they see, and last year that feedback saved us from a costly schema change.",
+   "a_ko": "비판을 피하지 않으려 합니다. 어떤 문제가 보이는지 물어보는데, 작년에는 그 피드백 덕분에 비싼 스키마 변경을 피했습니다."
+  },
+  "collocations": [
+   "deflect criticism",
+   "deflect blame",
+   "deflect a question"
+  ],
+  "related": [
+   "reflect",
+   "flexible",
+   "inflection"
+  ],
+  "tip": "deflect blame(책임을 남에게 돌리다)은 면접관이 싫어하는 태도. '나는 그러지 않는다'는 맥락으로 쓰기"
+ },
+ {
+  "id": "d17-D06",
+  "day": 17,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "inflection point",
+  "pos": "phrase",
+  "ipa": "/ɪnˈflekʃən pɔɪnt/",
+  "meaning_ko": "변곡점, 전환점",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "flect",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "point",
+     "type": "part",
+     "gloss": "점 (punctum)"
+    }
+   ],
+   "story": "라틴어 inflectere(안으로 구부리다) → 곡선이 휘는 방향이 바뀌는 점 → 상황이 크게 바뀌는 전환점"
+  },
+  "example": {
+   "q": "Why do you want to join us now?",
+   "a": "I think your company is at an inflection point, moving from one product to a platform, and that is exactly the kind of growth I want to be part of.",
+   "a_ko": "회사가 단일 제품에서 플랫폼으로 넘어가는 전환점에 있다고 생각하고, 그런 성장에 함께하고 싶습니다."
+  },
+  "collocations": [
+   "at an inflection point",
+   "reach an inflection point",
+   "career inflection point"
+  ],
+  "related": [
+   "reflect",
+   "deflect",
+   "flexible"
+  ],
+  "tip": "수학의 '변곡점'에서 온 비즈니스 표현. 지원 동기에서 회사의 성장 단계를 짚을 때 강력함"
+ },
+ {
+  "id": "d17-D07",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "involve",
+  "pos": "verb",
+  "ipa": "/ɪnˈvɑːlv/",
+  "meaning_ko": "포함하다, 참여시키다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "volve",
+     "type": "root",
+     "gloss": "말다, 굴리다 (volvere)"
+    }
+   ],
+   "story": "라틴어 involvere(안으로 말아 넣다) → 감싸 넣다 → 포함하다, 끌어들이다"
+  },
+  "example": {
+   "q": "What does your current job involve?",
+   "a": "My job involves building APIs and reviewing code for three junior developers.",
+   "a_ko": "API 를 만들고 주니어 개발자 세 명의 코드를 리뷰하는 일을 합니다."
+  },
+  "collocations": [
+   "involve doing",
+   "be involved in",
+   "get involved"
+  ],
+  "related": [
+   "involvement",
+   "evolve",
+   "revolve",
+   "volume"
+  ],
+  "tip": "involve + 동명사(-ing). '참여하다'는 be/get involved in"
+ },
+ {
+  "id": "d17-D08",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "involvement",
+  "pos": "noun",
+  "ipa": "/ɪnˈvɑːlvmənt/",
+  "meaning_ko": "참여, 관여",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "volve",
+     "type": "root",
+     "gloss": "말다 (volvere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "involve(안으로 말아 넣다) + ment → 안에 들어가 있음 → 참여, 관여"
+  },
+  "example": {
+   "q": "How did you get product managers to care about tech debt?",
+   "a": "I asked for their involvement in sprint planning, so they could see how tech debt slowed down their own features.",
+   "a_ko": "스프린트 계획에 참여해 달라고 요청해서, 기술 부채가 자기 기능 개발을 얼마나 늦추는지 직접 보게 했습니다."
+  },
+  "collocations": [
+   "direct involvement",
+   "involvement in",
+   "early involvement"
+  ],
+  "related": [
+   "involve",
+   "evolution",
+   "revolve"
+  ],
+  "tip": "my involvement in the project(그 프로젝트에서 제가 맡은 부분)로 역할을 설명할 때도 씀"
+ },
+ {
+  "id": "d17-D09",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "evolve",
+  "pos": "verb",
+  "ipa": "/ɪˈvɑːlv/",
+  "meaning_ko": "발전하다, 진화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "volve",
+     "type": "root",
+     "gloss": "말다, 굴리다 (volvere)"
+    }
+   ],
+   "story": "라틴어 evolvere(말린 것을 밖으로 펼치다) → 펼쳐지며 자라다 → 발전하다"
+  },
+  "example": {
+   "q": "How has your system changed since you joined?",
+   "a": "It evolved from a single server into twelve services, so I also moved our deployments to Kubernetes.",
+   "a_ko": "서버 한 대에서 서비스 12개로 발전해서, 배포도 쿠버네티스로 옮겼습니다."
+  },
+  "collocations": [
+   "evolve into",
+   "evolve over time",
+   "constantly evolving"
+  ],
+  "related": [
+   "evolution",
+   "involve",
+   "revolve"
+  ],
+  "tip": "evolve from A into B 로 변화 과정을 설명. 역할이 커진 것도 my role evolved"
+ },
+ {
+  "id": "d17-D10",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "evolution",
+  "pos": "noun",
+  "ipa": "/ˌevəˈluːʃən/",
+  "meaning_ko": "발전, 진화",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "말다 (volvere 의 과거분사)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 evolutio(두루마리를 펼침) → 펼쳐 나감 → 발전, 진화"
+  },
+  "example": {
+   "q": "How do you change a database schema without downtime?",
+   "a": "I plan schema evolution in small steps, adding new columns first and removing old ones only after every service has switched.",
+   "a_ko": "스키마 변경을 작은 단계로 계획해서, 새 컬럼을 먼저 추가하고 모든 서비스가 바꾼 뒤에야 옛 컬럼을 지웁니다."
+  },
+  "collocations": [
+   "schema evolution",
+   "natural evolution",
+   "the evolution of"
+  ],
+  "related": [
+   "evolve",
+   "revolution",
+   "involve"
+  ],
+  "tip": "schema evolution(스키마 진화)은 데이터 엔지니어링 단골 용어"
+ },
+ {
+  "id": "d17-D11",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "revolve",
+  "pos": "verb",
+  "ipa": "/rɪˈvɑːlv/",
+  "meaning_ko": "(~을) 중심으로 돌아가다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 뒤로"
+    },
+    {
+     "text": "volve",
+     "type": "root",
+     "gloss": "굴리다 (volvere)"
+    }
+   ],
+   "story": "라틴어 revolvere(다시 굴리다) → 빙빙 돌다 → ~을 중심으로 돌아가다"
+  },
+  "example": {
+   "q": "What was your main responsibility on that team?",
+   "a": "My work revolved around data quality, because every report the company used depended on our pipeline.",
+   "a_ko": "회사의 모든 보고서가 저희 파이프라인에 달려 있어서, 제 일은 데이터 품질을 중심으로 돌아갔습니다."
+  },
+  "collocations": [
+   "revolve around",
+   "everything revolves around"
+  ],
+  "related": [
+   "revolution",
+   "evolve",
+   "involve"
+  ],
+  "tip": "거의 항상 revolve around 로 씀. 업무의 중심을 한마디로 말할 때"
+ },
+ {
+  "id": "d17-D12",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "revolutionize",
+  "pos": "verb",
+  "ipa": "/ˌrevəˈluːʃənaɪz/",
+  "meaning_ko": "혁신하다, 완전히 바꾸다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "굴리다 (volvere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "라틴어 revolutio(다시 굴러 돎) → revolution(뒤집힘, 혁명) → ize → 완전히 바꾸다"
+  },
+  "example": {
+   "q": "How did containers change your work?",
+   "a": "Containers revolutionized how we test, because every developer could finally run the full stack on a laptop.",
+   "a_ko": "모든 개발자가 노트북에서 전체 스택을 돌릴 수 있게 되면서, 컨테이너가 테스트 방식을 완전히 바꿨습니다."
+  },
+  "collocations": [
+   "revolutionize the industry",
+   "revolutionize how",
+   "revolutionized the way"
+  ],
+  "related": [
+   "revolution",
+   "revolve",
+   "evolve"
+  ],
+  "tip": "자기 성과에 쓰면 과장으로 들릴 수 있음. 기술·도구가 바꾼 변화를 말할 때 쓰기"
+ },
+ {
+  "id": "d17-D13",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "volume",
+  "pos": "noun",
+  "ipa": "/ˈvɑːljuːm/",
+  "meaning_ko": "양, 처리량",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "volume",
+     "type": "root",
+     "gloss": "두루마리 (volumen, volvere 말다)"
+    }
+   ],
+   "story": "라틴어 volumen(말아 놓은 두루마리 책) → 책 한 권 → 부피 → 양"
+  },
+  "example": {
+   "q": "What was the scale of the system you built?",
+   "a": "It handled a volume of about two million orders a day, so we had to partition the order table by date.",
+   "a_ko": "하루 약 200만 건의 주문량을 처리해서, 주문 테이블을 날짜별로 파티션해야 했습니다."
+  },
+  "collocations": [
+   "high volume",
+   "traffic volume",
+   "data volume"
+  ],
+  "related": [
+   "evolve",
+   "involve",
+   "revolve"
+  ],
+  "tip": "'책 1권'(Vol. 1)과 같은 단어. 규모를 숫자로 말할 때 volume of + 숫자"
+ },
+ {
+  "id": "d17-D14",
+  "day": 17,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "convoluted",
+  "pos": "adjective",
+  "ipa": "/ˈkɑːnvəluːtɪd/",
+  "meaning_ko": "복잡하게 얽힌, 난해한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "말다 (volvere 의 과거분사)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "라틴어 convolutus(함께 둘둘 말린) → 꼬이고 얽힌 → 지나치게 복잡한"
+  },
+  "example": {
+   "q": "Tell me about a piece of code you're proud of improving.",
+   "a": "Our permission logic was so convoluted that nobody wanted to touch it, so I rewrote it as a simple rule table with tests.",
+   "a_ko": "권한 로직이 너무 복잡하게 얽혀서 아무도 손대려 하지 않았는데, 테스트가 있는 단순한 규칙 테이블로 다시 썼습니다."
+  },
+  "collocations": [
+   "convoluted logic",
+   "convoluted process",
+   "overly convoluted"
+  ],
+  "related": [
+   "evolution",
+   "involve",
+   "complicated"
+  ],
+  "tip": "complicated 보다 '쓸데없이 꼬였다'는 비판이 강함. 강세는 CON-vo-lu-ted"
+ },
+ {
+  "id": "d17-D15",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "control",
+  "pos": "noun",
+  "ipa": "/kənˈtroʊl/",
+  "meaning_ko": "통제, 관리",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "control",
+     "type": "root",
+     "gloss": "대조 장부로 확인하다 (contra 맞대어 + rotulus 두루마리)"
+    }
+   ],
+   "story": "중세 라틴어 contrarotulus(대조용 두루마리 장부) → 장부를 맞대어 확인하다 → 관리, 통제"
+  },
+  "example": {
+   "q": "How does your team manage code changes?",
+   "a": "We use Git for version control and review every change before merging.",
+   "a_ko": "버전 관리는 깃으로 하고, 머지하기 전에 모든 변경을 리뷰합니다."
+  },
+  "collocations": [
+   "version control",
+   "access control",
+   "quality control"
+  ],
+  "related": [
+   "roll",
+   "enroll",
+   "role",
+   "rotate"
+  ],
+  "tip": "rotulus(작은 바퀴, 두루마리)에서 온 말이라 roll·role 과 친척. version control 은 필수 표현"
+ },
+ {
+  "id": "d17-D16",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "enroll",
+  "pos": "verb",
+  "ipa": "/ɪnˈroʊl/",
+  "meaning_ko": "등록하다, 수강하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안에 (in)"
+    },
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "두루마리, 명부 (rotulus)"
+    }
+   ],
+   "story": "고대 프랑스어 enroller(명부 안에 적어 넣다, rolle < rotulus) → 등록하다"
+  },
+  "example": {
+   "q": "What are you doing to grow your skills?",
+   "a": "I enrolled in an online course on distributed systems last spring.",
+   "a_ko": "지난봄에 분산 시스템 온라인 강좌에 등록했습니다."
+  },
+  "collocations": [
+   "enroll in",
+   "be enrolled",
+   "enroll users"
+  ],
+  "related": [
+   "roll",
+   "control",
+   "role"
+  ],
+  "tip": "영국식 철자는 enrol. enroll in a course(강좌에 등록하다)"
+ },
+ {
+  "id": "d17-D17",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "role",
+  "pos": "noun",
+  "ipa": "/roʊl/",
+  "meaning_ko": "역할, 직무",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "role",
+     "type": "root",
+     "gloss": "두루마리 (rotulus, 프랑스어 rôle)"
+    }
+   ],
+   "story": "라틴어 rotulus(두루마리) → 프랑스어 rôle(배우의 대사를 적은 두루마리) → 맡은 배역 → 역할"
+  },
+  "example": {
+   "q": "What was your role in the project?",
+   "a": "My role was to design the API and lead two backend developers.",
+   "a_ko": "제 역할은 API 를 설계하고 백엔드 개발자 두 명을 이끄는 것이었습니다."
+  },
+  "collocations": [
+   "my role",
+   "key role",
+   "role model"
+  ],
+  "related": [
+   "roll",
+   "enroll",
+   "control"
+  ],
+  "tip": "roll(두루마리)과 같은 뿌리. 면접에서 position·job 대신 가장 많이 쓰는 말"
+ },
+ {
+  "id": "d17-D18",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "rotate",
+  "pos": "verb",
+  "ipa": "/ˈroʊteɪt/",
+  "meaning_ko": "교체하다, 돌리다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rot",
+     "type": "root",
+     "gloss": "바퀴 (rota)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "라틴어 rotare(바퀴처럼 돌리다, rota 바퀴) → 돌리다 → 차례로 바꾸다"
+  },
+  "example": {
+   "q": "How do you manage secrets and API keys?",
+   "a": "We rotate API keys every ninety days automatically, so a leaked key has a short life.",
+   "a_ko": "API 키를 90일마다 자동으로 교체해서, 유출되더라도 키의 수명이 짧습니다."
+  },
+  "collocations": [
+   "rotate keys",
+   "rotate logs",
+   "rotate credentials"
+  ],
+  "related": [
+   "rotation",
+   "role",
+   "control"
+  ],
+  "tip": "rota(바퀴)는 '돌리다' 가족의 보조 어근. 보안에서 '키 교체'는 key rotation"
+ },
+ {
+  "id": "d17-D19",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "rotation",
+  "pos": "noun",
+  "ipa": "/roʊˈteɪʃən/",
+  "meaning_ko": "교대, 순환",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rot",
+     "type": "root",
+     "gloss": "바퀴 (rota)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "rotate(바퀴처럼 돌리다) + ion → 돌아가며 맡음 → 교대, 순환"
+  },
+  "example": {
+   "q": "Do you have experience being on call?",
+   "a": "Yes, I was in a weekly on-call rotation, and I wrote runbooks so the next person could fix common alerts quickly.",
+   "a_ko": "네, 주 단위 온콜 교대에 들어가 있었고, 다음 사람이 흔한 알림을 빨리 처리하도록 런북을 썼습니다."
+  },
+  "collocations": [
+   "on-call rotation",
+   "key rotation",
+   "in rotation"
+  ],
+  "related": [
+   "rotate",
+   "role",
+   "control"
+  ],
+  "tip": "on-call rotation 은 SRE·백엔드 면접 필수 표현. job rotation 은 '직무 순환'"
+ },
+ {
+  "id": "d17-D20",
+  "day": 17,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "return",
+  "pos": "verb",
+  "ipa": "/rɪˈtɝːn/",
+  "meaning_ko": "돌아오다, 돌려주다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    }
+   ],
+   "story": "라틴어 tornare(선반으로 돌리다) → 고대 프랑스어 retorner(뒤로 돌다) → 돌아오다"
+  },
+  "example": {
+   "q": "Why do you want to move back to Korea?",
+   "a": "I want to return to Korea to be closer to my family.",
+   "a_ko": "가족과 가까이 지내려고 한국에 돌아가고 싶습니다."
+  },
+  "collocations": [
+   "return to",
+   "return a call",
+   "return on investment"
+  ],
+  "related": [
+   "turn",
+   "detour",
+   "turnover"
+  ],
+  "tip": "tornare(돌리다, 그리스어 tornos 선반에서)는 보조 어근. 함수가 값을 돌려주는 것도 return"
+ },
+ {
+  "id": "d17-D21",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "detour",
+  "pos": "noun",
+  "ipa": "/ˈdiːtʊr/",
+  "meaning_ko": "우회, 돌아가는 길",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져, 비껴"
+    },
+    {
+     "text": "tour",
+     "type": "root",
+     "gloss": "돌다 (tornare)"
+    }
+   ],
+   "story": "프랑스어 détourner(비껴 돌리다, tornare 에서) → détour → 돌아가는 길, 우회"
+  },
+  "example": {
+   "q": "Your résumé shows a year in sales. Can you explain that?",
+   "a": "It was a useful detour; working in sales taught me how customers think, and that makes me a better product engineer.",
+   "a_ko": "도움이 된 우회로였습니다. 영업에서 고객의 생각을 배워서, 더 나은 제품 엔지니어가 됐습니다."
+  },
+  "collocations": [
+   "take a detour",
+   "a short detour",
+   "career detour"
+  ],
+  "related": [
+   "return",
+   "turnover",
+   "tour"
+  ],
+  "tip": "경력 공백·전환을 긍정적으로 설명할 때 a useful detour 라고 하면 자연스러움"
+ },
+ {
+  "id": "d17-D22",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "turnover",
+  "pos": "noun",
+  "ipa": "/ˈtɝːnoʊvər/",
+  "meaning_ko": "이직률, (인력) 교체",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어가서"
+    }
+   ],
+   "story": "turn(돌리다) + over(넘어가서) → 뒤집혀 바뀜 → 사람이 들고 나는 비율, 이직"
+  },
+  "example": {
+   "q": "How did you deal with losing knowledge when people left?",
+   "a": "Our team had high turnover, so I started recording short design videos that new members could watch in their first week.",
+   "a_ko": "팀 이직률이 높아서, 새 팀원이 첫 주에 볼 수 있는 짧은 설계 영상을 녹화하기 시작했습니다."
+  },
+  "collocations": [
+   "high turnover",
+   "staff turnover",
+   "low turnover"
+  ],
+  "related": [
+   "return",
+   "detour",
+   "turn"
+  ],
+  "tip": "면접에서 '이직률'은 turnover (rate). 회사에 질문할 때 What is the team's turnover like? 도 가능"
+ },
+ {
+  "id": "d17-D23",
+  "day": 17,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "constraint",
+  "pos": "noun",
+  "ipa": "/kənˈstreɪnt/",
+  "meaning_ko": "제약, 제약 조건",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께, 꽉"
+    },
+    {
+     "text": "straint",
+     "type": "root",
+     "gloss": "조이다 (stringere)"
+    }
+   ],
+   "story": "라틴어 constringere(꽉 묶다) → 고대 프랑스어 constreindre → 묶어서 제한하는 것 → 제약"
+  },
+  "example": {
+   "q": "How do you approach a system design question?",
+   "a": "I start by clarifying the constraints, like traffic, budget, and latency, because they decide most of the design.",
+   "a_ko": "트래픽·예산·지연 시간 같은 제약 조건부터 확인합니다. 그것이 설계의 대부분을 결정하기 때문입니다."
+  },
+  "collocations": [
+   "time constraint",
+   "budget constraint",
+   "under constraints"
+  ],
+  "related": [
+   "strict",
+   "restrict",
+   "stringent"
+  ],
+  "tip": "stringere(꽉 묶다)에서 철자가 straint 로 바뀜. DB 의 제약 조건(foreign key constraint)도 같은 단어"
+ },
+ {
+  "id": "d17-D24",
+  "day": 17,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "shake up",
+  "pos": "phrasal verb",
+  "ipa": "/ʃeɪk ˈʌp/",
+  "meaning_ko": "(조직을) 대대적으로 개편하다, 뒤흔들다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "shake",
+     "type": "part",
+     "gloss": "흔들다"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "완전히"
+    }
+   ],
+   "story": "shake(흔들다) + up(위로, 완전히) → 확 흔들어 섞다 → 조직·방식을 대대적으로 바꾸다"
+  },
+  "example": {
+   "q": "How do you handle big organizational changes?",
+   "a": "When management decided to shake up the team structure, I set up one-on-ones with my reports so their concerns were heard before the change.",
+   "a_ko": "경영진이 팀 구조를 대대적으로 개편하기로 했을 때, 변경 전에 팀원들의 걱정을 듣도록 일대일 면담을 잡았습니다."
+  },
+  "collocations": [
+   "shake up the team",
+   "shake up the industry",
+   "shake-up"
+  ],
+  "related": [
+   "overhaul",
+   "restructure",
+   "reorganize"
+  ],
+  "tip": "핵심어. 명사 shake-up(대개편). overhaul 은 '절차·시스템', shake up 은 '조직·판도'에 많이 씀"
+ },
+ {
+  "id": "d17-D25",
+  "day": 17,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "cutover",
+  "pos": "noun",
+  "ipa": "/ˈkʌtoʊvər/",
+  "meaning_ko": "(신규 시스템으로의) 전환, 컷오버",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cut",
+     "type": "part",
+     "gloss": "자르다"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어가서"
+    }
+   ],
+   "story": "cut(잘라 끊다) + over(넘어가서) → 옛 시스템을 끊고 새 시스템으로 넘어감 → 전환 시점"
+  },
+  "example": {
+   "q": "How did you migrate the payment database?",
+   "a": "We ran both databases in parallel for two weeks, then did the cutover at 3 a.m. with a rollback plan ready, and nobody noticed.",
+   "a_ko": "두 DB 를 2주간 병행 운영한 뒤 롤백 계획을 준비해 놓고 새벽 3시에 전환했는데, 아무도 눈치채지 못했습니다."
+  },
+  "collocations": [
+   "cutover plan",
+   "final cutover",
+   "cutover window"
+  ],
+  "related": [
+   "switch over",
+   "roll back",
+   "migration"
+  ],
+  "tip": "핵심어. 마이그레이션 경험 답변의 핵심 단어. 동사로는 cut over (두 단어)"
+ }
+]

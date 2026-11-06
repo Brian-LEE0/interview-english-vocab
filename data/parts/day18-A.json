@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "d18-A01",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "interrupt",
+  "pos": "verb",
+  "ipa": "/ˌɪntəˈrʌpt/",
+  "meaning_ko": "방해하다, (말을) 끊다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    }
+   ],
+   "story": "사이에 끼어들어 깨뜨리다 → 흐름을 끊다 → 방해하다"
+  },
+  "example": {
+   "q": "How do you protect your focus time?",
+   "a": "I block two hours each morning so meetings don't interrupt deep work.",
+   "a_ko": "오전마다 두 시간을 비워 두어 회의가 집중 업무를 방해하지 않게 합니다."
+  },
+  "collocations": [
+   "interrupt someone",
+   "sorry to interrupt",
+   "interrupt the flow"
+  ],
+  "related": [
+   "interruption",
+   "disrupt",
+   "abrupt",
+   "rupture"
+  ],
+  "tip": "면접관 말을 끊어야 할 때: Sorry to interrupt, but may I clarify one point?"
+ },
+ {
+  "id": "d18-A02",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "interruption",
+  "pos": "noun",
+  "ipa": "/ˌɪntəˈrʌpʃən/",
+  "meaning_ko": "중단, 끊김",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "사이를 깨는 것 → 작업·서비스가 끊기는 것 → 중단"
+  },
+  "example": {
+   "q": "How did you migrate the database without affecting users?",
+   "a": "We used a blue-green switch, so users saw no interruption in service during the migration.",
+   "a_ko": "블루그린 전환을 써서, 이전하는 동안 사용자는 서비스 중단을 전혀 겪지 않았습니다."
+  },
+  "collocations": [
+   "service interruption",
+   "without interruption",
+   "brief interruption"
+  ],
+  "related": [
+   "interrupt",
+   "disruption",
+   "corrupt",
+   "erupt"
+  ],
+  "tip": "service interruption 은 outage 보다 부드러운 표현 — 짧은 끊김에도 씀"
+ },
+ {
+  "id": "d18-A03",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "disrupt",
+  "pos": "verb",
+  "ipa": "/dɪsˈrʌpt/",
+  "meaning_ko": "지장을 주다, 흐트러뜨리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "산산이, 떨어져"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    }
+   ],
+   "story": "산산이 깨뜨리다 → 정상적인 흐름을 흐트러뜨리다"
+  },
+  "example": {
+   "q": "How do you introduce a new tool to a team?",
+   "a": "I pilot it with one squad first, so we don't disrupt everyone's workflow before we know it actually helps.",
+   "a_ko": "먼저 한 스쿼드에서 시범 운영합니다. 정말 도움이 되는지 알기 전에 모두의 업무 흐름을 흔들지 않으려고요."
+  },
+  "collocations": [
+   "disrupt the workflow",
+   "disrupt service",
+   "be disrupted by"
+  ],
+  "related": [
+   "disruption",
+   "interrupt",
+   "abrupt",
+   "corrupt"
+  ],
+  "tip": "interrupt 는 '잠깐 끊다', disrupt 는 '흐름 전체를 흐트러뜨리다' — 피해가 더 큼"
+ },
+ {
+  "id": "d18-A04",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "disruption",
+  "pos": "noun",
+  "ipa": "/dɪsˈrʌpʃən/",
+  "meaning_ko": "장애, 지장",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "산산이, 떨어져"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "산산이 깨진 상태 → 정상 운영이 무너진 것 → 장애·지장"
+  },
+  "example": {
+   "q": "What happened during your worst production incident?",
+   "a": "A bad config push caused a two-hour disruption to payments, so I led the rollback and added a canary stage.",
+   "a_ko": "잘못된 설정 배포로 결제가 두 시간 동안 장애를 겪었고, 제가 롤백을 주도한 뒤 카나리 단계를 추가했습니다."
+  },
+  "collocations": [
+   "service disruption",
+   "minimize disruption",
+   "cause disruption"
+  ],
+  "related": [
+   "disrupt",
+   "interruption",
+   "rupture",
+   "abrupt"
+  ],
+  "tip": "disruptive innovation(파괴적 혁신)처럼 좋은 뜻도 있지만, 장애 설명에선 '지장'"
+ },
+ {
+  "id": "d18-A05",
+  "day": 18,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "abrupt",
+  "pos": "adjective",
+  "ipa": "/əˈbrʌpt/",
+  "meaning_ko": "갑작스러운, 퉁명스러운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ab",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    }
+   ],
+   "story": "깨져 떨어져 나간 → 이어짐 없이 뚝 끊긴 → 갑작스러운·퉁명스러운"
+  },
+  "example": {
+   "q": "Tell me about a time priorities changed suddenly.",
+   "a": "When the client made an abrupt change of scope two weeks before launch, I re-planned the sprint with the PM and we still shipped the core features on time.",
+   "a_ko": "출시 2주 전에 고객사가 범위를 갑자기 바꿨을 때, PM과 스프린트를 다시 계획했고 핵심 기능은 그래도 제때 출시했습니다."
+  },
+  "collocations": [
+   "an abrupt change",
+   "come to an abrupt end",
+   "sound abrupt"
+  ],
+  "related": [
+   "abruptly",
+   "interrupt",
+   "disrupt",
+   "rupture"
+  ],
+  "tip": "사람에게 쓰면 '퉁명스러운' — I may sound abrupt in chat, so I add context."
+ },
+ {
+  "id": "d18-A06",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "abruptly",
+  "pos": "adverb",
+  "ipa": "/əˈbrʌptli/",
+  "meaning_ko": "갑자기, 예고 없이",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ab",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "뚝 끊기듯 → 예고 없이 갑자기"
+  },
+  "example": {
+   "q": "What was the symptom you were debugging?",
+   "a": "Worker processes were exiting abruptly under load, and the logs showed they were being killed for exceeding memory limits.",
+   "a_ko": "부하가 걸리면 워커 프로세스가 갑자기 종료됐는데, 로그를 보니 메모리 한도를 넘어 강제 종료되고 있었습니다."
+  },
+  "collocations": [
+   "exit abruptly",
+   "end abruptly",
+   "stop abruptly"
+  ],
+  "related": [
+   "abrupt",
+   "disrupt",
+   "interruption",
+   "rupture"
+  ],
+  "tip": "크래시·연결 끊김을 묘사할 때 suddenly 보다 기술 보고서다운 말"
+ },
+ {
+  "id": "d18-A07",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "router",
+  "pos": "noun",
+  "ipa": "/ˈraʊtər/",
+  "meaning_ko": "라우터",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rout",
+     "type": "root",
+     "gloss": "길 (route ← via rupta '깨뜨려 뚫은 길')"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "via rupta(깨뜨려 뚫은 길) → route(길) → 길을 정해 주는 장치 → 라우터"
+  },
+  "example": {
+   "q": "How do you usually start debugging a network issue?",
+   "a": "I check each hop from the client to the router before blaming the application.",
+   "a_ko": "애플리케이션을 의심하기 전에 클라이언트부터 라우터까지 구간을 하나씩 확인합니다."
+  },
+  "collocations": [
+   "edge router",
+   "configure the router",
+   "home router"
+  ],
+  "related": [
+   "route",
+   "routing",
+   "reroute",
+   "routine"
+  ],
+  "tip": "미국식 발음은 [라우터], 영국식은 [루터] — 미국 회사 면접이면 [라우터]"
+ },
+ {
+  "id": "d18-A08",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "routing",
+  "pos": "noun",
+  "ipa": "/ˈraʊtɪŋ/",
+  "meaning_ko": "라우팅, 경로 지정",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rout",
+     "type": "root",
+     "gloss": "길 (route ← via rupta)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "길(route)을 정해 주기 → 요청·패킷의 경로 지정"
+  },
+  "example": {
+   "q": "How did you release the new service safely?",
+   "a": "We used weighted routing to send five percent of traffic to the new version first, then increased it while error rates stayed flat.",
+   "a_ko": "가중치 라우팅으로 트래픽의 5%를 먼저 새 버전에 보내고, 오류율이 그대로인 동안 비율을 늘렸습니다."
+  },
+  "collocations": [
+   "routing rules",
+   "weighted routing",
+   "request routing"
+  ],
+  "related": [
+   "router",
+   "route",
+   "reroute",
+   "routine"
+  ],
+  "tip": "웹 프레임워크의 URL routing, 네트워크 routing 둘 다 같은 단어"
+ },
+ {
+  "id": "d18-A09",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "fragment",
+  "pos": "noun",
+  "ipa": "/ˈfræɡmənt/",
+  "meaning_ko": "조각, 파편",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "frag",
+     "type": "root",
+     "gloss": "깨다 (frangere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "깨진 것 → 조각 → 전체의 작은 일부"
+  },
+  "example": {
+   "q": "What made the legacy front end hard to maintain?",
+   "a": "Business logic was scattered in fragments across dozens of templates, so I pulled it into one shared module.",
+   "a_ko": "비즈니스 로직이 수십 개 템플릿에 조각조각 흩어져 있어서, 하나의 공용 모듈로 모았습니다."
+  },
+  "collocations": [
+   "code fragment",
+   "in fragments",
+   "a fragment of"
+  ],
+  "related": [
+   "fragmentation",
+   "fragile",
+   "fraction",
+   "fracture"
+  ],
+  "tip": "동사로 쓰면 강세가 뒤로 [프래그멘트] — The market is fragmented."
+ },
+ {
+  "id": "d18-A10",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "fragmentation",
+  "pos": "noun",
+  "ipa": "/ˌfræɡmənˈteɪʃən/",
+  "meaning_ko": "단편화, 파편화",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "frag",
+     "type": "root",
+     "gloss": "깨다 (frangere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~한 것"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 일·상태"
+    }
+   ],
+   "story": "조각(fragment)으로 깨져 나뉜 상태 → 단편화·파편화"
+  },
+  "example": {
+   "q": "Why did you propose a shared component library?",
+   "a": "Each team had built its own buttons and forms, and that fragmentation made the product look inconsistent and slowed every redesign.",
+   "a_ko": "팀마다 버튼과 폼을 따로 만들었는데, 그렇게 파편화된 탓에 제품이 일관성 없어 보였고 리디자인도 매번 느려졌습니다."
+  },
+  "collocations": [
+   "memory fragmentation",
+   "reduce fragmentation",
+   "tool fragmentation"
+  ],
+  "related": [
+   "fragment",
+   "fraction",
+   "fragile",
+   "infraction"
+  ],
+  "tip": "메모리·디스크 단편화(IT)와 팀·도구가 제각각인 상황(조직) 둘 다 씀"
+ },
+ {
+  "id": "d18-A11",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "infraction",
+  "pos": "noun",
+  "ipa": "/ɪnˈfrækʃən/",
+  "meaning_ko": "(규칙) 위반",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로, 대고"
+    },
+    {
+     "text": "fract",
+     "type": "root",
+     "gloss": "깨다 (frangere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "규칙에 대고 깨뜨림(infringere) → 규칙 위반"
+  },
+  "example": {
+   "q": "How do you keep code quality consistent across a large team?",
+   "a": "Our CI linter flags every style infraction before review, so reviewers can focus on design instead of formatting.",
+   "a_ko": "CI 린터가 리뷰 전에 스타일 위반을 모두 잡아 주니, 리뷰어는 포맷 대신 설계에 집중할 수 있습니다."
+  },
+  "collocations": [
+   "minor infraction",
+   "policy infraction",
+   "flag an infraction"
+  ],
+  "related": [
+   "fraction",
+   "fracture",
+   "infringe",
+   "fragment"
+  ],
+  "tip": "violation 보다 가벼운 '규칙 위반'. 큰 보안 사고는 breach"
+ },
+ {
+  "id": "d18-A12",
+  "day": 18,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "fractious",
+  "pos": "adjective",
+  "ipa": "/ˈfrækʃəs/",
+  "meaning_ko": "다투기 잘하는, 다루기 힘든",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fract",
+     "type": "root",
+     "gloss": "깨다 (fraction 의 옛 뜻 '불화·분열')"
+    },
+    {
+     "text": "ious",
+     "type": "suffix",
+     "gloss": "~한 성질의"
+    }
+   ],
+   "story": "fraction(옛 뜻: 깨짐 → 불화·다툼) → 다툼이 잦은 → 다루기 힘든"
+  },
+  "example": {
+   "q": "Tell me about a time you worked with a difficult group.",
+   "a": "I joined a fractious design review where two teams kept blocking each other, so I set shared decision criteria and we agreed on an API within a week.",
+   "a_ko": "두 팀이 서로 막기만 하던 시끄러운 설계 리뷰에 들어가서 공통 결정 기준을 세웠고, 일주일 안에 API에 합의했습니다."
+  },
+  "collocations": [
+   "a fractious meeting",
+   "fractious relationship",
+   "fractious debate"
+  ],
+  "related": [
+   "fraction",
+   "fracture",
+   "fragment",
+   "infraction"
+  ],
+  "tip": "사람·회의가 '티격태격하는' 상태. 면접에선 상대를 탓하지 말고 상황 묘사로만"
+ },
+ {
+  "id": "d18-A13",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "section",
+  "pos": "noun",
+  "ipa": "/ˈsekʃən/",
+  "meaning_ko": "부분, 섹션",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sect",
+     "type": "root",
+     "gloss": "자르다 (secare)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "잘라 낸 것 → 한 부분 → 문서·발표의 단락"
+  },
+  "example": {
+   "q": "How would you structure a design document?",
+   "a": "I start with a short problem section, then options and a recommendation.",
+   "a_ko": "짧은 문제 정의 섹션으로 시작해서, 선택지와 추천안을 씁니다."
+  },
+  "collocations": [
+   "the next section",
+   "a section on",
+   "comments section"
+  ],
+  "related": [
+   "cross-section",
+   "sector",
+   "segment",
+   "dissect"
+  ],
+  "tip": "발표·문서 순서를 말할 때: In the next section, I'll cover..."
+ },
+ {
+  "id": "d18-A14",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "cross-section",
+  "pos": "noun",
+  "ipa": "/ˈkrɔːs ˌsekʃən/",
+  "meaning_ko": "대표 표본, 단면",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cross",
+     "type": "part",
+     "gloss": "가로질러"
+    },
+    {
+     "text": "sect",
+     "type": "root",
+     "gloss": "자르다 (secare)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "가로로 자른 면(단면) → 전체를 고루 보여 주는 표본"
+  },
+  "example": {
+   "q": "How did you load-test the new search service?",
+   "a": "We replayed a cross-section of real production traffic, so the test covered both popular and rare queries.",
+   "a_ko": "실제 운영 트래픽의 대표 표본을 재생해서, 인기 검색어와 드문 검색어를 모두 테스트했습니다."
+  },
+  "collocations": [
+   "a cross-section of",
+   "representative cross-section",
+   "cross-section of users"
+  ],
+  "related": [
+   "section",
+   "intersection",
+   "sector",
+   "bisect"
+  ],
+  "tip": "a cross-section of users = 여러 유형이 고루 섞인 사용자 집단"
+ },
+ {
+  "id": "d18-A15",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "detail",
+  "pos": "noun",
+  "ipa": "/ˈdiːteɪl/",
+  "meaning_ko": "세부 사항",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히, 떼어"
+    },
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (프랑스어 tailler)"
+    }
+   ],
+   "story": "잘게 잘라 나눈 것 → 하나하나의 부분 → 세부"
+  },
+  "example": {
+   "q": "Can you tell me more about that project?",
+   "a": "Sure, let me go into a bit more detail on the architecture.",
+   "a_ko": "네, 아키텍처를 조금 더 자세히 설명드리겠습니다."
+  },
+  "collocations": [
+   "go into detail",
+   "in detail",
+   "attention to detail"
+  ],
+  "related": [
+   "detail-oriented",
+   "retail",
+   "tailor",
+   "entail"
+  ],
+  "tip": "attention to detail(꼼꼼함)은 강점 질문의 단골 표현"
+ },
+ {
+  "id": "d18-A16",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "detail-oriented",
+  "pos": "adjective",
+  "ipa": "/ˈdiːteɪl ˌɔːrientɪd/",
+  "meaning_ko": "꼼꼼한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히, 떼어"
+    },
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (tailler)"
+    },
+    {
+     "text": "oriented",
+     "type": "part",
+     "gloss": "~을 향한"
+    }
+   ],
+   "story": "세부(detail)를 향한 → 작은 것까지 챙기는 → 꼼꼼한"
+  },
+  "example": {
+   "q": "What is your greatest strength?",
+   "a": "I'm detail-oriented, so I catch edge cases before they reach production.",
+   "a_ko": "꼼꼼한 편이라 엣지 케이스를 운영에 나가기 전에 잡아냅니다."
+  },
+  "collocations": [
+   "highly detail-oriented",
+   "detail-oriented person",
+   "detail-oriented approach"
+  ],
+  "related": [
+   "detail",
+   "tailor",
+   "retail",
+   "entail"
+  ],
+  "tip": "뒤에 증거(예: 리뷰에서 잡은 버그)를 바로 붙여야 설득력이 있음"
+ },
+ {
+  "id": "d18-A17",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "retail",
+  "pos": "noun",
+  "ipa": "/ˈriːteɪl/",
+  "meaning_ko": "소매, 리테일",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (tailler)"
+    }
+   ],
+   "story": "다시 잘라(조각 내어) 팔다 → 낱개로 파는 일 → 소매"
+  },
+  "example": {
+   "q": "What industries have you worked in?",
+   "a": "I spent three years building checkout systems for a large retail company.",
+   "a_ko": "대형 리테일 기업에서 결제 시스템을 3년 동안 만들었습니다."
+  },
+  "collocations": [
+   "retail company",
+   "retail industry",
+   "e-commerce and retail"
+  ],
+  "related": [
+   "detail",
+   "tailor",
+   "entail",
+   "tally"
+  ],
+  "tip": "B2C 경험을 말할 때. wholesale(도매)의 반대"
+ },
+ {
+  "id": "d18-A18",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "tailor",
+  "pos": "verb",
+  "ipa": "/ˈteɪlər/",
+  "meaning_ko": "(맞춤으로) 조정하다, 맞추다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (tailler)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "천을 자르는 사람(재단사) → 몸에 맞게 재단하다 → 상황에 맞게 조정하다"
+  },
+  "example": {
+   "q": "The base salary band is fairly fixed for this level.",
+   "a": "I understand. In that case, could we tailor the package with a signing bonus or extra stock instead?",
+   "a_ko": "이해합니다. 그렇다면 대신 사이닝 보너스나 주식을 더하는 식으로 패키지를 조정할 수 있을까요?"
+  },
+  "collocations": [
+   "tailor the package",
+   "tailor A to B",
+   "tailored offer"
+  ],
+  "related": [
+   "detail",
+   "retail",
+   "entail",
+   "tally"
+  ],
+  "tip": "기본급이 고정일 때 다른 항목으로 맞추자고 부드럽게 제안하는 동사"
+ },
+ {
+  "id": "d18-A19",
+  "day": 18,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "entail",
+  "pos": "verb",
+  "ipa": "/ɪnˈteɪl/",
+  "meaning_ko": "수반하다, (일이) 따르다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "~하게 만들다"
+    },
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 → 한정 (taille)"
+    }
+   ],
+   "story": "상속 범위를 잘라 한정해 두다 → 반드시 따라오게 묶다 → 수반하다"
+  },
+  "example": {
+   "q": "The role does include some on-call duty.",
+   "a": "That's fine. Could you tell me what the on-call rotation entails, and whether it's paid separately or given back as time off?",
+   "a_ko": "괜찮습니다. 온콜 로테이션에 구체적으로 어떤 일이 따르는지, 그리고 별도 수당인지 대체 휴무로 보상되는지 여쭤봐도 될까요?"
+  },
+  "collocations": [
+   "what does it entail",
+   "entail extra cost",
+   "the role entails"
+  ],
+  "related": [
+   "detail",
+   "tailor",
+   "retail",
+   "tally"
+  ],
+  "tip": "What does the role entail? — 업무 범위를 물을 때 아주 자연스러움"
+ },
+ {
+  "id": "d18-A20",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "crisis",
+  "pos": "noun",
+  "ipa": "/ˈkraɪsɪs/",
+  "meaning_ko": "위기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cris",
+     "type": "root",
+     "gloss": "가르다·결정하다 (그리스어 krinein)"
+    },
+    {
+     "text": "is",
+     "type": "suffix",
+     "gloss": "~하는 일 (명사)"
+    }
+   ],
+   "story": "갈림길에서 판가름하는 순간 → 병세가 갈리는 고비 → 위기"
+  },
+  "example": {
+   "q": "How do you behave under pressure?",
+   "a": "In a crisis, I stay calm and focus on the next concrete step.",
+   "a_ko": "위기 상황에서는 침착하게 다음에 할 구체적인 일에 집중합니다."
+  },
+  "collocations": [
+   "in a crisis",
+   "crisis management",
+   "handle a crisis"
+  ],
+  "related": [
+   "critical",
+   "criteria",
+   "criticism",
+   "critique"
+  ],
+  "tip": "복수형은 crises [크라이시즈]"
+ },
+ {
+  "id": "d18-A21",
+  "day": 18,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "schism",
+  "pos": "noun",
+  "ipa": "/ˈskɪzəm/",
+  "meaning_ko": "분열, 갈라짐",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "schis",
+     "type": "root",
+     "gloss": "쪼개다 (그리스어 skhizein)"
+    },
+    {
+     "text": "m",
+     "type": "suffix",
+     "gloss": "~한 것 (-ma)"
+    }
+   ],
+   "story": "쪼개진 것 → 집단이 둘로 갈라짐 → 분열"
+  },
+  "example": {
+   "q": "Tell me about a conflict between teams that you helped resolve.",
+   "a": "There was a schism between the platform and product teams over who owned deployments, so I drafted a shared ownership doc and both leads signed off.",
+   "a_ko": "배포 소유권을 두고 플랫폼 팀과 프로덕트 팀이 갈라져 있어서, 공동 책임 문서를 작성했고 두 리드 모두 승인했습니다."
+  },
+  "collocations": [
+   "a schism between",
+   "heal the schism",
+   "a deep schism"
+  ],
+  "related": [
+   "schismatic",
+   "schist",
+   "dichotomy",
+   "divisive"
+  ],
+  "tip": "발음은 [스키점]·[시점] 둘 다 사전에 있음. 조직 안 갈등을 격식 있게 말할 때"
+ },
+ {
+  "id": "d18-A22",
+  "day": 18,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "dichotomy",
+  "pos": "noun",
+  "ipa": "/daɪˈkɑːtəmi/",
+  "meaning_ko": "이분법, 양분",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dicho",
+     "type": "prefix",
+     "gloss": "둘로 (그리스어 dikha)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (그리스어 temnein)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "둘로 자름 → 둘로 나뉜 대립 → 이분법"
+  },
+  "example": {
+   "q": "Do you prioritize speed or quality?",
+   "a": "I don't see it as a strict dichotomy; for a prototype I optimize for speed, but anything customer-facing gets tests and review.",
+   "a_ko": "엄격한 양자택일로 보지는 않습니다. 프로토타입은 속도를 우선하지만, 고객이 쓰는 기능은 반드시 테스트와 리뷰를 거칩니다."
+  },
+  "collocations": [
+   "a false dichotomy",
+   "the dichotomy between",
+   "draw a dichotomy"
+  ],
+  "related": [
+   "atomic",
+   "anatomy",
+   "epitome",
+   "atom"
+  ],
+  "tip": "false dichotomy(잘못된 이분법)로 'A냐 B냐' 질문을 세련되게 받아칠 수 있음"
+ },
+ {
+  "id": "d18-A23",
+  "day": 18,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "outage",
+  "pos": "noun",
+  "ipa": "/ˈaʊtɪdʒ/",
+  "meaning_ko": "장애, 서비스 중단",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로, 꺼져"
+    },
+    {
+     "text": "age",
+     "type": "part",
+     "gloss": "~한 상태 (명사 어미)"
+    }
+   ],
+   "story": "전기·서비스가 나가(out) 있는 상태 → 정전 → 서비스 장애"
+  },
+  "example": {
+   "q": "Have you ever handled a production outage?",
+   "a": "Yes, I led the response to a two-hour outage last year.",
+   "a_ko": "네, 작년에 두 시간짜리 장애 대응을 주도했습니다."
+  },
+  "collocations": [
+   "a major outage",
+   "cause an outage",
+   "outage window"
+  ],
+  "related": [
+   "downtime",
+   "failover",
+   "postmortem",
+   "blast radius"
+  ],
+  "tip": "incident 는 넓은 '사건', outage 는 서비스가 실제로 멈춘 장애"
+ },
+ {
+  "id": "d18-A24",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "firefighting",
+  "pos": "noun",
+  "ipa": "/ˈfaɪərˌfaɪtɪŋ/",
+  "meaning_ko": "급한 불 끄기 (긴급 대응)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fire",
+     "type": "part",
+     "gloss": "불"
+    },
+    {
+     "text": "fight",
+     "type": "part",
+     "gloss": "싸우다"
+    },
+    {
+     "text": "ing",
+     "type": "part",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "불과 싸우는 일(소방) → 터진 문제를 급하게 막는 일"
+  },
+  "example": {
+   "q": "What would you change about your current team?",
+   "a": "We spend too much time firefighting, so I'd invest in better alerts and automation to stop the same issues from coming back.",
+   "a_ko": "급한 불 끄는 데 시간을 너무 많이 써서, 같은 문제가 반복되지 않도록 알림과 자동화에 투자하고 싶습니다."
+  },
+  "collocations": [
+   "constant firefighting",
+   "in firefighting mode",
+   "reduce firefighting"
+  ],
+  "related": [
+   "war room",
+   "outage",
+   "postmortem"
+  ],
+  "tip": "현 직장 불만을 말할 땐 해결책(예방)까지 같이 말하기"
+ },
+ {
+  "id": "d18-A25",
+  "day": 18,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "war room",
+  "pos": "noun",
+  "ipa": "/ˈwɔːr ˌruːm/",
+  "meaning_ko": "상황실, 비상 대응 회의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "war",
+     "type": "part",
+     "gloss": "전쟁"
+    },
+    {
+     "text": "room",
+     "type": "part",
+     "gloss": "방"
+    }
+   ],
+   "story": "전쟁 작전실 → 큰 장애·출시 때 모이는 비상 대응 회의(방·채널)"
+  },
+  "example": {
+   "q": "How did your team coordinate during the incident?",
+   "a": "We opened a war room on Slack, assigned one incident commander, and posted updates every fifteen minutes.",
+   "a_ko": "슬랙에 비상 대응 채널을 열고, 인시던트 지휘자를 한 명 정한 뒤 15분마다 상황을 공유했습니다."
+  },
+  "collocations": [
+   "open a war room",
+   "virtual war room",
+   "war room call"
+  ],
+  "related": [
+   "firefighting",
+   "outage",
+   "postmortem"
+  ],
+  "tip": "실제 방이 아니라 화상회의·슬랙 채널도 war room 이라고 부름"
+ }
+]

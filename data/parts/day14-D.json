@@ -1,0 +1,1183 @@
+[
+ {
+  "id": "d14-D01",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "project",
+  "pos": "noun",
+  "ipa": "/ˈprɑːdʒekt/",
+  "meaning_ko": "프로젝트, 계획",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    }
+   ],
+   "story": "앞으로 던져 놓은 것(proicere) → 앞날의 계획 → 프로젝트"
+  },
+  "example": {
+   "q": "Tell me about a project you're proud of.",
+   "a": "I'm proudest of a project that cut our checkout time in half.",
+   "a_ko": "결제 시간을 절반으로 줄인 프로젝트가 가장 자랑스럽습니다."
+  },
+  "collocations": [
+   "lead a project",
+   "project scope",
+   "side project"
+  ],
+  "related": [
+   "projection",
+   "inject",
+   "object",
+   "reject"
+  ],
+  "tip": "명사는 앞 강세 PRO-ject, 동사(예상하다)는 뒤 강세 pro-JECT"
+ },
+ {
+  "id": "d14-D02",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "objection",
+  "pos": "noun",
+  "ipa": "/əbˈdʒekʃən/",
+  "meaning_ko": "이의, 반대",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "맞서, 앞에"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "앞에 던져 막아서다(obicere) → 맞서 내놓는 말 → 이의, 반대"
+  },
+  "example": {
+   "q": "The role includes a six-month probation period. Any concerns?",
+   "a": "I have no objection to the probation period at all.",
+   "a_ko": "수습 기간에 대해서는 전혀 이의 없습니다."
+  },
+  "collocations": [
+   "have no objection to",
+   "raise an objection"
+  ],
+  "related": [
+   "object",
+   "objective",
+   "subject",
+   "project"
+  ],
+  "tip": "No objection = 이의 없음. 협상에서 깔끔하게 수락할 때"
+ },
+ {
+  "id": "d14-D03",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "jet lag",
+  "pos": "noun",
+  "ipa": "/ˈdʒet ˌlæɡ/",
+  "meaning_ko": "시차 피로",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "jet",
+     "type": "root",
+     "gloss": "던지다 (ject, 프랑스어 jeter)"
+    },
+    {
+     "text": "lag",
+     "type": "part",
+     "gloss": "뒤처짐"
+    }
+   ],
+   "story": "내던지다(jeter) → 분사(jet) → 제트기 + 뒤처짐 → 비행 후 몸이 시간을 못 따라감"
+  },
+  "example": {
+   "q": "This role involves quarterly trips to our Singapore office. Is that okay?",
+   "a": "That's fine with me; I usually adjust to jet lag within a day.",
+   "a_ko": "괜찮습니다. 보통 하루면 시차에 적응합니다."
+  },
+  "collocations": [
+   "get over jet lag",
+   "suffer from jet lag"
+  ],
+  "related": [
+   "project",
+   "inject",
+   "reject",
+   "object"
+  ],
+  "tip": "jet 은 라틴어 iactare(던지다) → 프랑스어 jeter 에서. 출장 질문에"
+ },
+ {
+  "id": "d14-D04",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "projection",
+  "pos": "noun",
+  "ipa": "/prəˈdʒekʃən/",
+  "meaning_ko": "예측(치), 추정",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "앞으로 던져 보는 것 → 앞날을 미리 그려 봄 → 예측치"
+  },
+  "example": {
+   "q": "How did you plan capacity for Black Friday?",
+   "a": "I built a traffic projection from three years of data, which showed we needed twice our normal capacity.",
+   "a_ko": "3년치 데이터로 트래픽 예측을 만들었고, 평소의 두 배 용량이 필요하다는 결과가 나왔습니다."
+  },
+  "collocations": [
+   "traffic projection",
+   "revenue projection",
+   "make a projection"
+  ],
+  "related": [
+   "project",
+   "inject",
+   "object",
+   "trajectory"
+  ],
+  "tip": "forecast 와 비슷. 데이터에 근거한 예측임을 강조"
+ },
+ {
+  "id": "d14-D05",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "inject",
+  "pos": "verb",
+  "ipa": "/ɪnˈdʒekt/",
+  "meaning_ko": "주입하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    }
+   ],
+   "story": "안으로 던져 넣다(inicere) → 주입하다"
+  },
+  "example": {
+   "q": "How do you test code that calls external APIs?",
+   "a": "I inject the API client as a dependency, so in tests I can swap it for a mock and keep them fast.",
+   "a_ko": "API 클라이언트를 의존성으로 주입해서, 테스트에서는 목 객체로 바꿔 빠르게 돌립니다."
+  },
+  "collocations": [
+   "inject a dependency",
+   "inject a fault",
+   "inject energy into"
+  ],
+  "related": [
+   "injection",
+   "project",
+   "object",
+   "reject"
+  ],
+  "tip": "비유적으로 inject energy into the team (팀에 활기를 불어넣다)"
+ },
+ {
+  "id": "d14-D06",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "injection",
+  "pos": "noun",
+  "ipa": "/ɪnˈdʒekʃən/",
+  "meaning_ko": "주입 (SQL 인젝션, 의존성 주입)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안으로 던져 넣는 것 → 주입 → 악성 입력을 끼워 넣는 공격 / 의존성 주입"
+  },
+  "example": {
+   "q": "How do you protect against common security vulnerabilities?",
+   "a": "I always use parameterized queries to prevent SQL injection, and I run a static analysis tool in our CI pipeline.",
+   "a_ko": "SQL 인젝션을 막기 위해 항상 파라미터 바인딩 쿼리를 쓰고, CI 파이프라인에서 정적 분석 도구를 돌립니다."
+  },
+  "collocations": [
+   "SQL injection",
+   "dependency injection"
+  ],
+  "related": [
+   "inject",
+   "project",
+   "objection",
+   "subject"
+  ],
+  "tip": "보안(SQL injection)과 설계(dependency injection) 두 문맥 모두 단골"
+ },
+ {
+  "id": "d14-D07",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "object-oriented",
+  "pos": "adjective",
+  "ipa": "/ˈɑːbdʒekt ˌɔːrientɪd/",
+  "meaning_ko": "객체 지향의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "앞에, 맞서"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "oriented",
+     "type": "part",
+     "gloss": "방향을 맞춘 (orient 해 뜨는 쪽)"
+    }
+   ],
+   "story": "앞에 던져진 것(object, 대상) + 방향을 맞춘 → 객체를 중심으로 짠"
+  },
+  "example": {
+   "q": "Which programming paradigm do you prefer?",
+   "a": "I mostly write object-oriented code in Java, but I use functional patterns for data processing because they're easier to test.",
+   "a_ko": "주로 Java로 객체 지향 코드를 쓰지만, 데이터 처리에는 테스트하기 쉬운 함수형 패턴을 씁니다."
+  },
+  "collocations": [
+   "object-oriented programming (OOP)",
+   "object-oriented design"
+  ],
+  "related": [
+   "object",
+   "objection",
+   "subject",
+   "project"
+  ],
+  "tip": "OOP 질문 단골. object 는 앞 강세 OB-ject"
+ },
+ {
+  "id": "d14-D08",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "subject matter expert",
+  "pos": "noun",
+  "ipa": "/ˌsʌbdʒɪkt ˈmætər ˌekspɜːrt/",
+  "meaning_ko": "주제 전문가 (SME)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "matter",
+     "type": "part",
+     "gloss": "내용 (materia)"
+    },
+    {
+     "text": "expert",
+     "type": "part",
+     "gloss": "전문가 (experiri 시험해 보다)"
+    }
+   ],
+   "story": "아래에 던져 놓인 것(subject, 다룰 대상) → 주제 + 내용 + 전문가 → 그 분야의 전문가"
+  },
+  "example": {
+   "q": "What role did you play on the team?",
+   "a": "I was the subject matter expert for payments, so other teams came to me to review anything that touched billing.",
+   "a_ko": "결제 분야 전문가였기 때문에, 과금과 관련된 일은 다른 팀들이 저에게 검토를 받으러 왔습니다."
+  },
+  "collocations": [
+   "act as a subject matter expert",
+   "SME"
+  ],
+  "related": [
+   "subject",
+   "subject to",
+   "project",
+   "object"
+  ],
+  "tip": "줄여서 SME. 내가 그 분야의 '찾아오는 사람'이었음을 보여 줌"
+ },
+ {
+  "id": "d14-D09",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "subject to",
+  "pos": "phrase",
+  "ipa": "/ˈsʌbdʒɪkt tuː/",
+  "meaning_ko": "~을 조건으로, ~에 따라",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~에"
+    }
+   ],
+   "story": "~의 아래에 던져진 → ~에 매인 → ~을 조건으로"
+  },
+  "example": {
+   "q": "The offer is subject to a background check.",
+   "a": "That's fine. I understand the offer is subject to the check, and I can send my references whenever you need them.",
+   "a_ko": "괜찮습니다. 오퍼가 신원 조회를 조건으로 한다는 점 이해했고, 필요하시면 언제든 추천인 정보를 보내 드리겠습니다."
+  },
+  "collocations": [
+   "subject to approval",
+   "subject to change"
+  ],
+  "related": [
+   "subject",
+   "subject matter expert",
+   "object",
+   "project"
+  ],
+  "tip": "오퍼 레터·계약서 조건 문구 — '~에 달려 있음'"
+ },
+ {
+  "id": "d14-D10",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "dejected",
+  "pos": "adjective",
+  "ipa": "/dɪˈdʒektɪd/",
+  "meaning_ko": "낙담한, 풀이 죽은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "아래로 내던져진(deicere) → 기운이 꺾인 → 낙담한"
+  },
+  "example": {
+   "q": "Tell me about a time you failed.",
+   "a": "When my first startup pitch was rejected, I felt dejected for a day, but then I asked for feedback and rebuilt the demo.",
+   "a_ko": "첫 스타트업 피칭이 거절당했을 때 하루는 풀이 죽었지만, 곧 피드백을 요청하고 데모를 다시 만들었습니다."
+  },
+  "collocations": [
+   "feel dejected",
+   "look dejected"
+  ],
+  "related": [
+   "reject",
+   "project",
+   "object",
+   "inject"
+  ],
+  "tip": "disappointed 보다 더 '풀이 죽은'. 회복 과정을 꼭 이어서 말함"
+ },
+ {
+  "id": "d14-D11",
+  "day": 14,
+  "level": 3,
+  "set": "D",
+  "family": "F4",
+  "word": "abject",
+  "pos": "adjective",
+  "ipa": "/ˈæbdʒekt/",
+  "meaning_ko": "처참한, 완전한 (실패)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ab",
+     "type": "prefix",
+     "gloss": "멀리"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    }
+   ],
+   "story": "멀리 내던져진(abicere) → 버림받은 → 비참한 → (실패가) 처참한"
+  },
+  "example": {
+   "q": "Tell me about a project that didn't go well.",
+   "a": "Our first mobile launch was an abject failure, with a one-star rating within a week, and it taught me to test with real users before release.",
+   "a_ko": "첫 모바일 출시는 일주일 만에 별점 1점을 받은 처참한 실패였고, 출시 전에 실제 사용자와 테스트해야 한다는 걸 배웠습니다."
+  },
+  "collocations": [
+   "abject failure",
+   "abject apology"
+  ],
+  "related": [
+   "reject",
+   "dejected",
+   "project",
+   "object"
+  ],
+  "tip": "거의 abject failure / abject apology 짝으로만 씀. 배운 점을 꼭 이어서"
+ },
+ {
+  "id": "d14-D12",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "exaggeration",
+  "pos": "noun",
+  "ipa": "/ɪɡˌzædʒəˈreɪʃən/",
+  "meaning_ko": "과장",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로, 크게"
+    },
+    {
+     "text": "ag",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "ger",
+     "type": "root",
+     "gloss": "나르다 → 쌓다 (gerere)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "날라다 쌓은 더미(agger)를 더 높이 쌓다(exaggerare) → 부풀리다 → 과장"
+  },
+  "example": {
+   "q": "Your resume says you led the project. Is that accurate?",
+   "a": "Yes, and it's no exaggeration; I led the five-person team.",
+   "a_ko": "네, 과장이 아닙니다. 다섯 명 팀을 제가 이끌었습니다."
+  },
+  "collocations": [
+   "no exaggeration",
+   "a slight exaggeration"
+  ],
+  "related": [
+   "exaggerate",
+   "register",
+   "suggest",
+   "digest"
+  ],
+  "tip": "It's no exaggeration to say ~ = 과장 없이 말해 ~"
+ },
+ {
+  "id": "d14-D13",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "digestible",
+  "pos": "adjective",
+  "ipa": "/daɪˈdʒestəbəl/",
+  "meaning_ko": "이해하기 쉬운, 소화하기 쉬운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "따로 (dis)"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 (gerere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "따로따로 날라 나누다(digerere) → 소화하다 → 소화하기 쉬운 → 이해하기 쉬운"
+  },
+  "example": {
+   "q": "How do you report progress to executives?",
+   "a": "I turn our sprint metrics into a short, digestible summary with three key numbers, because executives rarely have time for long reports.",
+   "a_ko": "임원들은 긴 보고서를 볼 시간이 없어서, 스프린트 지표를 핵심 숫자 세 개로 된 짧고 이해하기 쉬운 요약으로 만듭니다."
+  },
+  "collocations": [
+   "easily digestible",
+   "bite-sized and digestible"
+  ],
+  "related": [
+   "digest",
+   "ingest",
+   "suggest",
+   "register"
+  ],
+  "tip": "정보를 '소화하기 쉽게' 다듬는다는 비유"
+ },
+ {
+  "id": "d14-D14",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "registry",
+  "pos": "noun",
+  "ipa": "/ˈredʒɪstri/",
+  "meaning_ko": "레지스트리, 등록소",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로"
+    },
+    {
+     "text": "gist",
+     "type": "root",
+     "gloss": "나르다 (gest)"
+    },
+    {
+     "text": "ry",
+     "type": "suffix",
+     "gloss": "장소, 모음"
+    }
+   ],
+   "story": "도로 날라 적어 두다(regerere) → 기록부(register) → 등록해 두는 저장소"
+  },
+  "example": {
+   "q": "How do you manage your Docker images?",
+   "a": "We push every image to a private container registry, and the pipeline only deploys images that passed the security scan.",
+   "a_ko": "모든 이미지를 사설 컨테이너 레지스트리에 올리고, 파이프라인은 보안 스캔을 통과한 이미지만 배포합니다."
+  },
+  "collocations": [
+   "container registry",
+   "package registry"
+  ],
+  "related": [
+   "register",
+   "registration",
+   "digest",
+   "suggest"
+  ],
+  "tip": "npm registry, Docker registry 처럼 '등록 저장소'"
+ },
+ {
+  "id": "d14-D15",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "ingestion",
+  "pos": "noun",
+  "ipa": "/ɪnˈdʒestʃən/",
+  "meaning_ko": "(데이터) 수집·적재",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 (gerere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안으로 날라 넣다(ingerere) → 섭취 → (데이터를) 받아들여 적재함"
+  },
+  "example": {
+   "q": "Describe a data pipeline you built.",
+   "a": "I built an ingestion pipeline that pulled clickstream data from Kafka into our warehouse every five minutes, replacing a daily batch job.",
+   "a_ko": "Kafka의 클릭 데이터를 5분마다 웨어하우스로 가져오는 수집 파이프라인을 만들어 하루 한 번 돌던 배치를 대체했습니다."
+  },
+  "collocations": [
+   "data ingestion",
+   "ingestion pipeline"
+  ],
+  "related": [
+   "ingest",
+   "digest",
+   "suggest",
+   "congestion"
+  ],
+  "tip": "동사 ingest(4일차). 데이터 엔지니어링 기본 용어"
+ },
+ {
+  "id": "d14-D16",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "congested",
+  "pos": "adjective",
+  "ipa": "/kənˈdʒestɪd/",
+  "meaning_ko": "혼잡한, 막힌",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 (gerere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "함께 날라 쌓다(congerere) → 쌓여서 막히다 → 혼잡한"
+  },
+  "example": {
+   "q": "Why were users seeing slow downloads?",
+   "a": "One network link was congested during peak hours, so we shifted part of the traffic to a second region.",
+   "a_ko": "피크 시간에 네트워크 링크 하나가 혼잡해서, 트래픽 일부를 두 번째 리전으로 돌렸습니다."
+  },
+  "collocations": [
+   "congested network",
+   "heavily congested"
+  ],
+  "related": [
+   "congestion",
+   "digest",
+   "ingest",
+   "suggest"
+  ],
+  "tip": "도로와 네트워크 모두에 씀"
+ },
+ {
+  "id": "d14-D17",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "congestion control",
+  "pos": "noun",
+  "ipa": "/kənˈdʒestʃən kənˈtroʊl/",
+  "meaning_ko": "혼잡 제어",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 (gerere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "control",
+     "type": "part",
+     "gloss": "통제·조절"
+    }
+   ],
+   "story": "쌓여 막힘(congestion) + 조절 → 네트워크가 막히지 않게 보내는 양을 조절함"
+  },
+  "example": {
+   "q": "How does TCP avoid overwhelming the network?",
+   "a": "It uses congestion control: the sender slows down when it detects packet loss, then gradually raises the rate again.",
+   "a_ko": "혼잡 제어를 씁니다. 패킷 손실이 감지되면 송신 측이 속도를 줄였다가 다시 서서히 올립니다."
+  },
+  "collocations": [
+   "TCP congestion control",
+   "congestion control algorithm"
+  ],
+  "related": [
+   "congestion",
+   "congested",
+   "digest",
+   "ingest"
+  ],
+  "tip": "flow control(수신 측 보호)과 구별해서 설명하면 좋음"
+ },
+ {
+  "id": "d14-D18",
+  "day": 14,
+  "level": 2,
+  "set": "D",
+  "family": "F4",
+  "word": "goodwill gesture",
+  "pos": "noun",
+  "ipa": "/ˌɡʊdˈwɪl ˌdʒestʃər/",
+  "meaning_ko": "호의의 표시",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "goodwill",
+     "type": "part",
+     "gloss": "호의"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 → 행동하다 (gerere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "몸을 나르는 방식(gestura, 몸가짐·행동) → 몸짓 + 호의 → 호의를 보이는 행동"
+  },
+  "example": {
+   "q": "We can't raise the base salary, but we can add an extra week of vacation.",
+   "a": "I appreciate that goodwill gesture, and an extra week of vacation would make the overall package work for me.",
+   "a_ko": "호의에 감사드립니다. 휴가 일주일이 추가된다면 전체 조건에 만족할 수 있을 것 같습니다."
+  },
+  "collocations": [
+   "as a goodwill gesture",
+   "a gesture of goodwill"
+  ],
+  "related": [
+   "gesture",
+   "suggest",
+   "digest",
+   "register"
+  ],
+  "tip": "상대의 양보를 인정해 주면서 협상 분위기를 좋게 유지할 때"
+ },
+ {
+  "id": "d14-D19",
+  "day": 14,
+  "level": 3,
+  "set": "D",
+  "family": "F4",
+  "word": "belligerent",
+  "pos": "adjective",
+  "ipa": "/bəˈlɪdʒərənt/",
+  "meaning_ko": "싸우려 드는, 적대적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "belli",
+     "type": "root",
+     "gloss": "전쟁 (bellum)"
+    },
+    {
+     "text": "ger",
+     "type": "root",
+     "gloss": "나르다 → 수행하다 (gerere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "전쟁을 수행하다(belligerare) → 교전 중인 → 싸우려 드는"
+  },
+  "example": {
+   "q": "Tell me about a difficult stakeholder you worked with.",
+   "a": "One client became belligerent during a release delay, so I stayed calm, acknowledged the impact and gave him a clear recovery plan with daily updates.",
+   "a_ko": "출시가 늦어지자 한 고객이 공격적으로 나왔는데, 침착하게 영향을 인정하고 매일 업데이트가 포함된 복구 계획을 제시했습니다."
+  },
+  "collocations": [
+   "become belligerent",
+   "a belligerent tone"
+  ],
+  "related": [
+   "gesture",
+   "register",
+   "suggest",
+   "digest"
+  ],
+  "tip": "aggressive 보다 강한 '싸우려 드는'. 남을 묘사할 땐 내 대응에 초점을"
+ },
+ {
+  "id": "d14-D20",
+  "day": 14,
+  "level": 3,
+  "set": "D",
+  "family": "F4",
+  "word": "superlative",
+  "pos": "noun",
+  "ipa": "/sʊˈpɜːrlətɪv/",
+  "meaning_ko": "최상급 표현, 극찬",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "super",
+     "type": "prefix",
+     "gloss": "위로, 넘어"
+    },
+    {
+     "text": "lat",
+     "type": "root",
+     "gloss": "날랐다 (ferre 의 과거분사 latus)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "위로 넘겨 나른(superlatus) → 정도를 넘어선 → 최상급 (표현)"
+  },
+  "example": {
+   "q": "How would you describe yourself as an engineer?",
+   "a": "I try to avoid superlatives like 'the best engineer'; instead, I'd point to results, such as cutting our incident rate by 40 percent.",
+   "a_ko": "'최고의 엔지니어' 같은 최상급 표현은 피하고, 대신 장애 발생률을 40% 줄인 것 같은 결과로 말씀드리고 싶습니다."
+  },
+  "collocations": [
+   "avoid superlatives",
+   "speak in superlatives"
+  ],
+  "related": [
+   "relationship",
+   "legislation",
+   "translate",
+   "relate"
+  ],
+  "tip": "형용사로 superlative service(최상의 서비스)도 가능. 자기소개는 숫자로"
+ },
+ {
+  "id": "d14-D21",
+  "day": 14,
+  "level": 3,
+  "set": "D",
+  "family": "F4",
+  "word": "periphery",
+  "pos": "noun",
+  "ipa": "/pəˈrɪfəri/",
+  "meaning_ko": "주변부, 변두리",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "peri",
+     "type": "prefix",
+     "gloss": "둘레"
+    },
+    {
+     "text": "pher",
+     "type": "root",
+     "gloss": "나르다 (pherein)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "둘레를 따라 나르다(peripherein) → 둘레선 → 중심에서 먼 가장자리"
+  },
+  "example": {
+   "q": "How involved were you in the architecture decisions?",
+   "a": "At first I was on the periphery of those discussions, but after I proposed the caching design, I was invited to the weekly architecture review.",
+   "a_ko": "처음에는 그 논의의 주변부에 있었지만, 캐시 설계를 제안한 뒤로 매주 아키텍처 리뷰에 초대받았습니다."
+  },
+  "collocations": [
+   "on the periphery of",
+   "move from the periphery"
+  ],
+  "related": [
+   "peripheral",
+   "metaphor",
+   "semaphore"
+  ],
+  "tip": "형용사는 peripheral(4일차). 주변에서 중심으로 들어간 성장 이야기에"
+ },
+ {
+  "id": "d14-D22",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "reference check",
+  "pos": "noun",
+  "ipa": "/ˈrefərəns ˌtʃek/",
+  "meaning_ko": "평판 조회 (레퍼런스 체크)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "도로, 다시"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "check",
+     "type": "part",
+     "gloss": "확인"
+    }
+   ],
+   "story": "도로 날라 와 참고하는 것(reference, 추천인) + 확인 → 전 직장 동료에게 묻는 평판 조회"
+  },
+  "example": {
+   "q": "Before we make an offer, we'll do a reference check.",
+   "a": "Sure, my former manager is happy to help with the reference check.",
+   "a_ko": "물론입니다. 전 매니저가 평판 조회에 기꺼이 응해 주기로 했습니다."
+  },
+  "collocations": [
+   "do a reference check",
+   "pass a reference check"
+  ],
+  "related": [
+   "reference",
+   "referral",
+   "conference",
+   "offer"
+  ],
+  "tip": "references = 추천인. 추천인에게 미리 연락해 두면 좋음"
+ },
+ {
+  "id": "d14-D23",
+  "day": 14,
+  "level": 3,
+  "set": "D",
+  "family": "F4",
+  "word": "demise",
+  "pos": "noun",
+  "ipa": "/dɪˈmaɪz/",
+  "meaning_ko": "종말, (사업의) 몰락",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "mise",
+     "type": "root",
+     "gloss": "보내다·놓다 (mit)"
+    }
+   ],
+   "story": "떨어뜨려 보내다(고대 프랑스어 desmettre, 내보내다) → 떠나보냄 → 죽음 → (회사·제품의) 몰락"
+  },
+  "example": {
+   "q": "Why did your previous startup shut down?",
+   "a": "Its demise came from scaling too fast before we had product-market fit, so now I push to validate demand before building heavy infrastructure.",
+   "a_ko": "제품-시장 적합성을 찾기 전에 너무 빨리 키운 것이 몰락의 원인이었습니다. 그래서 지금은 큰 인프라를 만들기 전에 수요부터 검증하자고 합니다."
+  },
+  "collocations": [
+   "the demise of",
+   "lead to the demise of"
+  ],
+  "related": [
+   "dismiss",
+   "mission",
+   "premise",
+   "surmise"
+  ],
+  "tip": "사람의 죽음을 점잖게 이르는 말에서 회사·제품의 몰락으로 확장"
+ },
+ {
+  "id": "d14-D24",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "flag",
+  "pos": "verb",
+  "ipa": "/flæɡ/",
+  "meaning_ko": "(문제를) 알리다, 표시하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flag",
+     "type": "part",
+     "gloss": "깃발"
+    }
+   ],
+   "story": "깃발을 들다 → 눈에 띄게 표시하다 → 문제를 미리 알리다"
+  },
+  "example": {
+   "q": "What do you do when you see a risk in a project?",
+   "a": "I flag it early in the stand-up, even if I'm not sure yet.",
+   "a_ko": "아직 확실하지 않더라도 스탠드업에서 일찍 알립니다."
+  },
+  "collocations": [
+   "flag an issue",
+   "flag a risk",
+   "feature flag"
+  ],
+  "related": [
+   "raise",
+   "point out",
+   "bring up"
+  ],
+  "tip": "feature flag(기능 플래그)는 IT 용어. raise a flag = 경고하다"
+ },
+ {
+  "id": "d14-D25",
+  "day": 14,
+  "level": 1,
+  "set": "D",
+  "family": "F4",
+  "word": "bubble up",
+  "pos": "phrasal verb",
+  "ipa": "/ˌbʌbəl ˈʌp/",
+  "meaning_ko": "(문제·의견이) 위로 올라오다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bubble",
+     "type": "part",
+     "gloss": "거품"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    }
+   ],
+   "story": "거품이 아래에서 위로 떠오르다 → (현장의 문제·의견이) 윗선까지 올라오다"
+  },
+  "example": {
+   "q": "How do you make sure problems reach you early as a lead?",
+   "a": "I hold open office hours, so small issues bubble up before they grow.",
+   "a_ko": "누구나 올 수 있는 상담 시간을 열어서, 작은 문제가 커지기 전에 저에게 올라오게 합니다."
+  },
+  "collocations": [
+   "bubble up to",
+   "let issues bubble up"
+  ],
+  "related": [
+   "escalate",
+   "flag",
+   "raise"
+  ],
+  "tip": "escalate 는 '내가 위로 올리다', bubble up 은 '자연스럽게 올라오다'"
+ }
+]

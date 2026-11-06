@@ -80,16 +80,16 @@
 
 | # | 어근 가족 | 어근 |
 |---|---|---|
-| F1 | 보다·알다 | `spect` `vis/vid` `sci` `cogn/gno` `sens/sent` `scop` · 보조 `not`(gnoscere) |
-| F2 | 이끌다·가다·움직이다 | `duc/duct` `mov/mot` `ven/vent` `cede/cess` `grad/gress` `sequ/secu` · 보조 `it` `cur/curs` `ag/act` `migr` |
-| F3 | 놓다·서다·머물다 (+손) | `pon/pos` `sta/sist` `sid/sed` `man/main` 머물다(manere) · `man/manu` 손(manus) `loc` `fix` |
-| F4 | 나르다·보내다·던지다 | `fer` `port` `mit/miss` `ject` `lat` `via/vey` · 보조 `gest/ger` `pher/phor` `bol/blem` `veh` |
-| F5 | 잡다·쥐다·끌다 | `cap/cip/cept` `ten/tain` `tract` `prehend/pris` `sum/sump` `hab/hib` |
-| F6 | 만들다·채우다·쓰다 | `fac/fic/fect` `struct` `form` `gen` `ple/plete` `scrib/sign` |
-| F7 | 돌리다·뻗다·묶다·바꾸다 | `vert/vers` `plic/ply` `tend/tens` `nect/lig` `mut/alter` `flu` |
-| F8 | 깨다·자르다·풀다·닫다 | `rupt` `fract/frag` `sect/cis` `part/vid` `solv/lys` `clud/clus` |
-| F9 | 말하다·믿다·다스리다 | `dic/dict` `voc/vok` `cred/fid` `spond/spons` `reg/rect` `jur/leg` · 보조 `jud` `surg`(sub+regere) `leg`(legare 맡기다) |
-| F10 | 값·재다·좋고 나쁨 | `pens/pend` `val/vail` `rat/quant` `bene/grat` `neg/counter` `term/fin` · 보조 `pret/preci` `ne/non` |
+| F1 | 보다·알다 | `spect` `vis/vid` `sci` `cogn/gno` `sens/sent` `scop` · 보조 `not`(gnoscere) `tu/tut` `mon/memor/ment` `the(or)` `op/opt` `id/hist` `mir` `aud` `sap` |
+| F2 | 이끌다·가다·움직이다 | `duc/duct` `mov/mot` `ven/vent` `cede/cess` `grad/gress` `sequ/secu` · 보조 `it` `cur/curs` `ag/act` `migr` `pel` `vad/vas` |
+| F3 | 놓다·서다·머물다 (+손) | `pon/pos` `sta/sist` `sid/sed` `man/main` 머물다(manere) · `man/manu` 손(manus) `loc` `fix` · 보조 `thes/thet` `situ` `stin` `stitut` `tang/ting`(contingency, 닿다) |
+| F4 | 나르다·보내다·던지다 | `fer` `port` `mit/miss` `ject` `lat` `via/vey` · 보조 `gest/ger` `pher/phor` `bol/blem` `veh` `tol` |
+| F5 | 잡다·쥐다·끌다 | `cap/cip/cept` `ten/tain` `tract` `prehend/pris` `sum/sump` `hab/hib` · 보조 `em/empt` `ech/sch` `lect/leg` `strain` `rap` `haust` `cerpt` |
+| F6 | 만들다·채우다·쓰다 | `fac/fic/fect` `struct` `form` `gen` `ple/plete` `scrib/sign` · 보조 `creat` `oper` |
+| F7 | 돌리다·뻗다·묶다·바꾸다 | `vert/vers` `plic/ply` `tend/tens` `nect/lig` `mut/alter` `flu` · 보조 `verg` `tort` `var` `plex` `flex/flect` `volv/volut` `rot` `torn/tour` `string/strict` |
+| F8 | 깨다·자르다·풀다·닫다 | `rupt` `fract/frag` `sect/cis` `part/vid` `solv/lys` `clud/clus` · 보조 `tom` `tail/tal` `lax` `cern/cret/cert` `crit/cris` `scind/schis` |
+| F9 | 말하다·믿다·다스리다 | `dic/dict` `voc/vok` `cred/fid` `spond/spons` `reg/rect` `jur/leg` · 보조 `jud` `surg`(sub+regere) `leg`(legare 맡기다) `fa/fess` `nunci/nounc` `loqu` `log` `verb` `clam/claim` `mand/mend` `govern` `arch/crat` |
+| F10 | 값·재다·좋고 나쁨 | `pens/pend` `val/vail` `rat/quant` `bene/grat` `neg/counter` `term/fin` · 보조 `pret/preci` `ne/non` `mens/meas` `metr/meter` `aestim/estim` |
 
 접두사(`pre` `pro` `re` `inter` `trans` `sub` `super` …)는 따로 날을 잡지 않고 단어 안에서 반복해서 익힙니다.
 
@@ -213,6 +213,7 @@
 
 시안: [design/mockup.html](design/mockup.html)
 
+- **로고: `Inter·view English`** — 어근 `view`(보다)만 어근 색(Root amber)으로 칠해 “사이에서 서로 보다 = 면접” 이라는 어원을 로고 자체로 보여 줌. 옆에 작은 글씨로 「어원 단어장」(폭 420px 이하에서는 숨김)
 - **핵심 장치: 행간 주석(interlinear gloss)** — 언어학 논문에서 단어 아래에 형태소 뜻을 다는 방식. `retro · spect · ive` 밑에 `뒤로 · 보다 · ~것` 이 정렬되어 붙고, 접두사·어근·접미사를 색으로 구분
 - **예문은 면접 대화록 형식** — `Q` 면접관 / `A` 나 로 표시해 실제 답변처럼 읽힘
 - **같은 어근 사다리** — 카드 아래에 그 어근의 단어를 구간(Day 1·11·21)별로 보여 줘서 10일 전에 본 단어와 이어 줌
@@ -241,7 +242,7 @@
 1. ✅ 플랜·기본 디자인 (이 문서 + 시안)
 2. 3,000단어 데이터 작성 (`data/day01~30.json`) — 구간별로 3번 나눠 검토 (구간당 1,000단어)
    - ✅ 1구간 Day 1–10 (1,000단어 · 기초 500 / 중급 400 / 고급 100 · 면접 600 / IT 400)
-   - ⬜ 2구간 Day 11–20
+   - ✅ 2구간 Day 11–20 (1,000단어 · 기초 300 / 중급 500 / 고급 200 · 면접 500 / IT 400 / 협상 100)
    - ⬜ 3구간 Day 21–30
 3. ✅ 웹 단어장 구현 (세트·카드·퀴즈·진도·복습·어근 지도·난이도 필터) — `dist/index.html`
 4. 인쇄용 PDF / Anki CSV (선택)

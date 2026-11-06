@@ -1,0 +1,1162 @@
+[
+ {
+  "id": "d12-D01",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "currency",
+  "pos": "noun",
+  "ipa": "/ˈkɝːənsi/",
+  "meaning_ko": "통화, 화폐",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "curr",
+     "type": "root",
+     "gloss": "달리다·흐르다 (cur)"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "흐르는 것(currentia, currere 에서) → 사람들 사이를 돌며 흐르는 것 → 유통되는 돈, 통화"
+  },
+  "example": {
+   "q": "We can pay you as a contractor through our Singapore entity.",
+   "a": "That sounds good. Which currency would the salary be paid in, and who covers the exchange fees?",
+   "a_ko": "좋습니다. 급여는 어느 통화로 지급되며, 환전 수수료는 누가 부담하나요?"
+  },
+  "collocations": [
+   "local currency",
+   "paid in currency",
+   "currency exchange"
+  ],
+  "related": [
+   "current",
+   "currently",
+   "cursor",
+   "occurrence"
+  ],
+  "tip": "해외 원격 오퍼에서 '어느 통화로, 환율 변동은 누가 부담하는지'를 꼭 확인"
+ },
+ {
+  "id": "d12-D02",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "act",
+  "pos": "verb",
+  "ipa": "/ækt/",
+  "meaning_ko": "행동하다, 대응하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다·몰다 (ag)"
+    }
+   ],
+   "story": "몰다·하다(agere, 과거분사 actus) → 행하다 → 행동하다"
+  },
+  "example": {
+   "q": "How do you handle feedback?",
+   "a": "I listen carefully and act on it quickly, then check in again later.",
+   "a_ko": "주의 깊게 듣고 빠르게 반영한 뒤, 나중에 다시 확인합니다."
+  },
+  "collocations": [
+   "act on feedback",
+   "act quickly",
+   "act as"
+  ],
+  "related": [
+   "action",
+   "active",
+   "acting",
+   "agenda"
+  ],
+  "tip": "'act on + 피드백/데이터' 는 '~을 바탕으로 실제로 움직이다'"
+ },
+ {
+  "id": "d12-D03",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "acting",
+  "pos": "adjective",
+  "ipa": "/ˈæktɪŋ/",
+  "meaning_ko": "대행의, 직무 대리의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "(그 일을) 하고 있는 → 정식 임명 전, 그 역할을 대신 하고 있는 → 대행의"
+  },
+  "example": {
+   "q": "Do you have any leadership experience?",
+   "a": "Yes, I served as acting team lead for three months while my manager was on parental leave, running sprint planning and one-on-ones.",
+   "a_ko": "네, 팀장님이 육아휴직 중이던 3개월 동안 팀장 대행으로 스프린트 계획과 1:1 면담을 맡았습니다."
+  },
+  "collocations": [
+   "acting manager",
+   "acting team lead",
+   "in an acting role"
+  ],
+  "related": [
+   "act",
+   "active",
+   "action",
+   "interact"
+  ],
+  "tip": "정식 직함이 없어도 'acting ~' 으로 리더 경험을 정확하게 말할 수 있음"
+ },
+ {
+  "id": "d12-D04",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "action",
+  "pos": "noun",
+  "ipa": "/ˈækʃən/",
+  "meaning_ko": "행동, 조치",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "하는 것(actio) → 실제로 행한 일 → 행동, 조치"
+  },
+  "example": {
+   "q": "What did you do when the build kept failing?",
+   "a": "I took action by fixing the flaky tests myself on the same day.",
+   "a_ko": "그날 바로 불안정한 테스트를 제가 직접 고치는 조치를 했습니다."
+  },
+  "collocations": [
+   "take action",
+   "action item",
+   "course of action"
+  ],
+  "related": [
+   "act",
+   "actionable",
+   "active",
+   "transaction"
+  ],
+  "tip": "STAR 의 A 가 Action — 'I' 를 주어로 내가 한 행동을 말하기"
+ },
+ {
+  "id": "d12-D05",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "actionable",
+  "pos": "adjective",
+  "ipa": "/ˈækʃənəbəl/",
+  "meaning_ko": "바로 조치할 수 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "행동(action)으로 옮길 수 있는 → 보고 바로 조치할 수 있는"
+  },
+  "example": {
+   "q": "How did you improve your alerting?",
+   "a": "We removed noisy alerts and made every remaining one actionable, with a link to a runbook that says exactly what to do.",
+   "a_ko": "시끄러운 알림을 없애고, 남은 알림은 모두 무엇을 할지 적힌 런북 링크를 붙여 바로 조치할 수 있게 만들었습니다."
+  },
+  "collocations": [
+   "actionable alerts",
+   "actionable insights",
+   "actionable feedback"
+  ],
+  "related": [
+   "action",
+   "act",
+   "active",
+   "react"
+  ],
+  "tip": "'actionable feedback'(바로 실천할 수 있는 피드백)은 리뷰 문화 질문에도 쓰임"
+ },
+ {
+  "id": "d12-D06",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "active",
+  "pos": "adjective",
+  "ipa": "/ˈæktɪv/",
+  "meaning_ko": "적극적인, 활발한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "하고 있는(activus) → 움직이고 있는 → 적극적인, 활발한"
+  },
+  "example": {
+   "q": "How do you keep learning?",
+   "a": "I'm active in a local Go community and give a talk twice a year.",
+   "a_ko": "지역 Go 커뮤니티에서 적극적으로 활동하고, 1년에 두 번 발표를 합니다."
+  },
+  "collocations": [
+   "active in",
+   "active role",
+   "active users"
+  ],
+  "related": [
+   "activate",
+   "act",
+   "action",
+   "interactive"
+  ],
+  "tip": "IT 지표 'daily active users(DAU)' 에도 쓰임"
+ },
+ {
+  "id": "d12-D07",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "activate",
+  "pos": "verb",
+  "ipa": "/ˈæktɪveɪt/",
+  "meaning_ko": "활성화하다, 켜다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "활동하는(active) 상태로 만들다 → 활성화하다"
+  },
+  "example": {
+   "q": "How do you release features safely?",
+   "a": "We ship code behind a feature flag and activate it for internal users first, so we can test in production without risk.",
+   "a_ko": "기능 플래그 뒤에 코드를 배포하고 먼저 사내 사용자에게만 활성화해서, 위험 없이 운영 환경에서 테스트합니다."
+  },
+  "collocations": [
+   "activate a feature",
+   "activate an account",
+   "activate a license"
+  ],
+  "related": [
+   "active",
+   "act",
+   "interactive",
+   "react"
+  ],
+  "tip": "반대말 deactivate — 'turn on/off' 보다 격식 있는 표현"
+ },
+ {
+  "id": "d12-D08",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "actually",
+  "pos": "adverb",
+  "ipa": "/ˈæktʃuəli/",
+  "meaning_ko": "실제로, 사실은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "행해진 것(actus)의 → 실제로 일어난 → 실제로, 사실은"
+  },
+  "example": {
+   "q": "Did the new design improve conversion?",
+   "a": "Actually, conversion stayed flat, but support tickets dropped by thirty percent.",
+   "a_ko": "사실 전환율은 그대로였지만, 고객 문의가 30% 줄었습니다."
+  },
+  "collocations": [
+   "actually work",
+   "what actually happened",
+   "actually, I"
+  ],
+  "related": [
+   "act",
+   "active",
+   "action",
+   "exact"
+  ],
+  "tip": "예상과 다른 사실을 말할 때 쓰는 말 — 너무 자주 쓰면 버릇처럼 들리니 주의"
+ },
+ {
+  "id": "d12-D09",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "interact",
+  "pos": "verb",
+  "ipa": "/ˌɪntərˈækt/",
+  "meaning_ko": "상호 작용하다, 연동하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에·서로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    }
+   ],
+   "story": "서로 사이에서 하다 → 서로 영향을 주고받다 → 상호 작용하다"
+  },
+  "example": {
+   "q": "How does the mobile app get its data?",
+   "a": "The app interacts with our backend only through a public REST API.",
+   "a_ko": "앱은 공개 REST API 를 통해서만 백엔드와 연동합니다."
+  },
+  "collocations": [
+   "interact with",
+   "interact directly",
+   "users interact"
+  ],
+  "related": [
+   "interactive",
+   "act",
+   "react",
+   "transaction"
+  ],
+  "tip": "사람에게도 씀 — 'I interact with customers every week.'"
+ },
+ {
+  "id": "d12-D10",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "interactive",
+  "pos": "adjective",
+  "ipa": "/ˌɪntərˈæktɪv/",
+  "meaning_ko": "대화형의, 상호 작용하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에·서로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "서로 주고받으며 하는 → 사용자의 입력에 반응하는 → 대화형의"
+  },
+  "example": {
+   "q": "What did you build for the sales team?",
+   "a": "I built an interactive dashboard, so they could filter revenue by region without asking the data team.",
+   "a_ko": "데이터 팀에 묻지 않아도 지역별로 매출을 걸러 볼 수 있도록 대화형 대시보드를 만들었습니다."
+  },
+  "collocations": [
+   "interactive dashboard",
+   "interactive session",
+   "interactive demo"
+  ],
+  "related": [
+   "interact",
+   "active",
+   "react",
+   "transactional"
+  ],
+  "tip": "'interactive demo'(직접 조작해 보는 데모)로 포트폴리오를 소개할 때도 씀"
+ },
+ {
+  "id": "d12-D11",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "react",
+  "pos": "verb",
+  "ipa": "/riˈækt/",
+  "meaning_ko": "반응하다, 대응하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "되받아·다시"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    }
+   ],
+   "story": "되받아 하다 → 어떤 일에 맞서 움직이다 → 반응하다"
+  },
+  "example": {
+   "q": "How did you react when your project was cancelled?",
+   "a": "I reacted calmly and asked how my work could be reused elsewhere.",
+   "a_ko": "차분하게 반응하고, 제 작업을 다른 곳에 재활용할 수 있는지 물었습니다."
+  },
+  "collocations": [
+   "react to",
+   "react quickly",
+   "react calmly"
+  ],
+  "related": [
+   "reactive",
+   "act",
+   "interact",
+   "action"
+  ],
+  "tip": "프레임워크 React 와 같은 단어 — '상태 변화에 반응하는' 이라는 뜻"
+ },
+ {
+  "id": "d12-D12",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "reactive",
+  "pos": "adjective",
+  "ipa": "/riˈæktɪv/",
+  "meaning_ko": "사후 대응적인, 반응형의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "되받아·다시"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "되받아 움직이는 → 일이 터진 뒤에야 움직이는 → 사후 대응적인"
+  },
+  "example": {
+   "q": "How has your team's approach to incidents changed?",
+   "a": "We used to be reactive, fixing issues only after users complained, so I introduced SLO-based alerts to catch problems earlier.",
+   "a_ko": "예전에는 사용자가 불만을 말한 뒤에야 고치는 사후 대응 방식이었는데, 문제를 더 일찍 잡으려고 SLO 기반 알림을 도입했습니다."
+  },
+  "collocations": [
+   "reactive approach",
+   "reactive programming",
+   "reactive rather than proactive"
+  ],
+  "related": [
+   "react",
+   "proactive",
+   "act",
+   "interact"
+  ],
+  "tip": "반대말 proactive(Day 2) — 'from reactive to proactive' 로 변화를 설명"
+ },
+ {
+  "id": "d12-D13",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "transactional",
+  "pos": "adjective",
+  "ipa": "/trænˈzækʃənəl/",
+  "meaning_ko": "트랜잭션의, 거래 관련의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너서·끝까지"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다·몰다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "끝까지 몰아서 해내는 것(transactio) → 거래 → 트랜잭션의, 거래 관련의"
+  },
+  "example": {
+   "q": "Why did you keep that data in PostgreSQL instead of a NoSQL store?",
+   "a": "The order data is highly transactional, so we needed ACID guarantees to keep payments and inventory consistent.",
+   "a_ko": "주문 데이터는 트랜잭션 성격이 강해서, 결제와 재고를 일관되게 유지하려면 ACID 보장이 필요했습니다."
+  },
+  "collocations": [
+   "transactional email",
+   "transactional data",
+   "transactional database"
+  ],
+  "related": [
+   "transaction",
+   "interact",
+   "act",
+   "agent"
+  ],
+  "tip": "'transactional email'은 가입·결제 확인처럼 사용자 행동에 따라 자동 발송되는 메일"
+ },
+ {
+  "id": "d12-D14",
+  "day": 12,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "retroactive",
+  "pos": "adjective",
+  "ipa": "/ˌretroʊˈæktɪv/",
+  "meaning_ko": "소급 적용되는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "retro",
+     "type": "prefix",
+     "gloss": "뒤로·거슬러"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "뒤로 거슬러 가서 행해지는 → 지난 시점까지 효력이 미치는 → 소급되는"
+  },
+  "example": {
+   "q": "Your raise has been approved, and it will take effect from next month.",
+   "a": "Thank you. Since my review was delayed by two months, would it be possible to make the raise retroactive to January?",
+   "a_ko": "감사합니다. 평가가 두 달 늦어졌으니, 인상분을 1월부터 소급 적용해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "retroactive to",
+   "retroactive pay",
+   "retroactive adjustment"
+  ],
+  "related": [
+   "active",
+   "react",
+   "act",
+   "exact"
+  ],
+  "tip": "'retroactive to + 날짜' — 늦어진 연봉 인상·평가에 대해 정중하게 요청할 때"
+ },
+ {
+  "id": "d12-D15",
+  "day": 12,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "exact",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzækt/",
+  "meaning_ko": "정확한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    }
+   ],
+   "story": "밖으로 몰아내다·달아 보다(exigere) → 정확히 재어 낸(exactus) → 정확한"
+  },
+  "example": {
+   "q": "What salary are you expecting?",
+   "a": "I don't have an exact number yet, but my range is 80 to 90 thousand.",
+   "a_ko": "아직 정확한 숫자는 없지만, 제 희망 범위는 8만에서 9만입니다."
+  },
+  "collocations": [
+   "exact number",
+   "exact figure",
+   "the exact same"
+  ],
+  "related": [
+   "exacting",
+   "act",
+   "actually",
+   "transaction"
+  ],
+  "tip": "숫자를 바로 말하기 어렵다면 'exact number' 대신 범위(range)로 답하기"
+ },
+ {
+  "id": "d12-D16",
+  "day": 12,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "exacting",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzæktɪŋ/",
+  "meaning_ko": "요구 수준이 높은, 엄격한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "밖으로 몰아 받아 내다(exigere, 요구하다) → 많은 것을 요구하는 → 요구 수준이 높은"
+  },
+  "example": {
+   "q": "What was it like working in a regulated industry?",
+   "a": "Banking clients had exacting standards for audit logs, so I designed an append-only log that let us answer any auditor's question within a day.",
+   "a_ko": "은행 고객은 감사 로그에 대한 요구 수준이 아주 높아서, 추가만 가능한 로그를 설계해 감사인의 어떤 질문에도 하루 안에 답할 수 있게 했습니다."
+  },
+  "collocations": [
+   "exacting standards",
+   "exacting requirements",
+   "exacting client"
+  ],
+  "related": [
+   "exact",
+   "act",
+   "active",
+   "agent"
+  ],
+  "tip": "demanding 과 비슷하지만 '정확성'에 대한 요구가 높다는 뜻이 강함"
+ },
+ {
+  "id": "d12-D17",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "redact",
+  "pos": "verb",
+  "ipa": "/rɪˈdækt/",
+  "meaning_ko": "(민감 정보를) 가리다, 삭제 처리하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "red",
+     "type": "prefix",
+     "gloss": "다시·뒤로 (re)"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    }
+   ],
+   "story": "뒤로 몰아 정리하다(redigere, 과거분사 redactus) → 문서를 정리·편집하다 → (공개 전에) 민감한 부분을 가리다"
+  },
+  "example": {
+   "q": "How do you handle personal data in logs?",
+   "a": "We redact emails and card numbers at the logging layer, so sensitive data never reaches our log storage.",
+   "a_ko": "로깅 단계에서 이메일과 카드 번호를 가려서, 민감 정보가 로그 저장소에 아예 들어가지 않게 합니다."
+  },
+  "collocations": [
+   "redact PII",
+   "redacted logs",
+   "redact sensitive data"
+  ],
+  "related": [
+   "act",
+   "exact",
+   "transaction",
+   "agent"
+  ],
+  "tip": "PII(개인 식별 정보) 마스킹 이야기에서 mask 와 함께 쓰는 단어"
+ },
+ {
+  "id": "d12-D18",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "agency",
+  "pos": "noun",
+  "ipa": "/ˈeɪdʒənsi/",
+  "meaning_ko": "대행사, 에이전시",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ag",
+     "type": "root",
+     "gloss": "하다·몰다"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "~하는 것·곳"
+    }
+   ],
+   "story": "대신 일하는(agere) 것(agentia) → 남의 일을 맡아 하는 곳 → 대행사"
+  },
+  "example": {
+   "q": "Tell me about your first job.",
+   "a": "I started at a digital agency, where I built websites for different clients, so I learned to switch contexts and talk to customers directly.",
+   "a_ko": "디지털 에이전시에서 시작해 여러 고객사의 웹사이트를 만들었고, 그래서 업무 전환과 고객과의 직접 소통을 배웠습니다."
+  },
+  "collocations": [
+   "digital agency",
+   "recruitment agency",
+   "government agency"
+  ],
+  "related": [
+   "agent",
+   "agentic",
+   "agenda",
+   "agile"
+  ],
+  "tip": "'sense of agency'(주체성)라는 뜻도 있음 — 문맥으로 구분"
+ },
+ {
+  "id": "d12-D19",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "agentic",
+  "pos": "adjective",
+  "ipa": "/eɪˈdʒentɪk/",
+  "meaning_ko": "에이전트형의 (AI 가 스스로 단계를 수행하는)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ag",
+     "type": "root",
+     "gloss": "하다·몰다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 것 (agent)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "대신 행하는 자(agent)의 → 스스로 판단해 움직이는 → 에이전트형의"
+  },
+  "example": {
+   "q": "Have you worked with LLMs?",
+   "a": "Yes, I built an agentic workflow where the model calls our internal APIs to triage support tickets, with a human approving the final step.",
+   "a_ko": "네, 모델이 사내 API 를 호출해 고객 문의를 분류하고 마지막 단계는 사람이 승인하는 에이전트형 워크플로를 만들었습니다."
+  },
+  "collocations": [
+   "agentic AI",
+   "agentic workflow",
+   "agentic system"
+  ],
+  "related": [
+   "agent",
+   "agency",
+   "act",
+   "agenda"
+  ],
+  "tip": "AI 분야의 새 용어 — 'human in the loop'(사람의 승인)와 같이 말하면 신뢰감을 줌"
+ },
+ {
+  "id": "d12-D20",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "navigate",
+  "pos": "verb",
+  "ipa": "/ˈnævɪɡeɪt/",
+  "meaning_ko": "(복잡한 것을) 헤쳐 나가다, 파악하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "nav",
+     "type": "root",
+     "gloss": "배 (navis)"
+    },
+    {
+     "text": "ig",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "배를 몰다(navigare, navis + agere) → 길을 찾아 나아가다 → 복잡한 것을 헤쳐 나가다"
+  },
+  "example": {
+   "q": "How do you ramp up on a large legacy codebase?",
+   "a": "I navigate it by tracing one real request end to end, and I draw a simple diagram that I later share with new hires.",
+   "a_ko": "실제 요청 하나를 처음부터 끝까지 따라가며 파악하고, 간단한 다이어그램을 그려 나중에 신입에게 공유합니다."
+  },
+  "collocations": [
+   "navigate a codebase",
+   "navigate ambiguity",
+   "navigate the system"
+  ],
+  "related": [
+   "mitigate",
+   "agent",
+   "act",
+   "ambiguity"
+  ],
+  "tip": "'navigate ambiguity / navigate a reorg' 처럼 어려운 상황에도 씀"
+ },
+ {
+  "id": "d12-D21",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "mitigate",
+  "pos": "verb",
+  "ipa": "/ˈmɪtɪɡeɪt/",
+  "meaning_ko": "(위험·피해를) 완화하다, 줄이다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mit",
+     "type": "root",
+     "gloss": "부드러운 (mitis)"
+    },
+    {
+     "text": "ig",
+     "type": "root",
+     "gloss": "몰다·만들다 (ag)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "부드럽게 만들다(mitigare, mitis + agere) → 강도를 누그러뜨리다 → (위험·피해를) 완화하다"
+  },
+  "example": {
+   "q": "How did you handle the risk of the database migration?",
+   "a": "To mitigate the risk, we ran dual writes for two weeks and compared both databases every night.",
+   "a_ko": "위험을 줄이려고 2주 동안 이중 쓰기를 하고, 매일 밤 두 데이터베이스를 비교했습니다."
+  },
+  "collocations": [
+   "mitigate risk",
+   "mitigate the impact",
+   "mitigation plan"
+  ],
+  "related": [
+   "navigate",
+   "ambiguity",
+   "act",
+   "agent"
+  ],
+  "tip": "명사 mitigation — 장애 대응에서는 'mitigate first, fix later'(먼저 피해를 줄이고 나중에 고친다)"
+ },
+ {
+  "id": "d12-D22",
+  "day": 12,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "ambiguity",
+  "pos": "noun",
+  "ipa": "/ˌæmbɪˈɡjuːəti/",
+  "meaning_ko": "모호함, 불확실성",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ambi",
+     "type": "prefix",
+     "gloss": "양쪽으로·이리저리"
+    },
+    {
+     "text": "gu",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~한 성질"
+    }
+   ],
+   "story": "이리저리 몰려다니다(ambigere) → 어느 쪽인지 정해지지 않은(ambiguus) → 모호함"
+  },
+  "example": {
+   "q": "How do you work when requirements are unclear?",
+   "a": "I'm comfortable with ambiguity; on my last project, I wrote down my assumptions, built a quick prototype, and used it to get feedback within a week.",
+   "a_ko": "모호한 상황에도 익숙합니다. 지난 프로젝트에서 가정을 적어 두고 빠르게 프로토타입을 만들어 일주일 안에 피드백을 받았습니다."
+  },
+  "collocations": [
+   "handle ambiguity",
+   "comfortable with ambiguity",
+   "reduce ambiguity"
+  ],
+  "related": [
+   "navigate",
+   "mitigate",
+   "agent",
+   "act"
+  ],
+  "tip": "'deal with ambiguity' 는 빅테크 행동 면접의 단골 주제"
+ },
+ {
+  "id": "d12-D23",
+  "day": 12,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "cogent",
+  "pos": "adjective",
+  "ipa": "/ˈkoʊdʒənt/",
+  "meaning_ko": "(논리가) 설득력 있는, 타당한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "함께 (con)"
+    },
+    {
+     "text": "gent",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    }
+   ],
+   "story": "함께 몰아붙이다(cogere) → 상대를 한쪽으로 몰아 납득시키는 → 설득력 있는"
+  },
+  "example": {
+   "q": "How do you convince people to adopt a new tool?",
+   "a": "I make a cogent case with data; for example, I showed that our CI would be four times faster, and the team agreed to switch the next sprint.",
+   "a_ko": "데이터로 설득력 있게 주장합니다. 예를 들어 CI 가 네 배 빨라진다는 걸 보여 주자, 팀이 다음 스프린트에 바꾸기로 동의했습니다."
+  },
+  "collocations": [
+   "a cogent argument",
+   "cogent case",
+   "cogent reason"
+  ],
+  "related": [
+   "agent",
+   "act",
+   "ambiguity",
+   "navigate"
+  ],
+  "tip": "compelling(마음을 끄는)보다 '논리가 탄탄한' 쪽에 무게 — 발음은 KOH-jent"
+ },
+ {
+  "id": "d12-D24",
+  "day": 12,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "handoff",
+  "pos": "noun",
+  "ipa": "/ˈhændɔːf/",
+  "meaning_ko": "인계, 넘겨주기",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hand",
+     "type": "part",
+     "gloss": "손"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "손에서 떼어 넘겨주다 → 일·책임을 다음 사람(팀)에게 넘기는 것 → 인계"
+  },
+  "example": {
+   "q": "How do you avoid problems between development and operations?",
+   "a": "We write a handoff document for every new service, covering alerts, dashboards and common failures, before ops takes it over.",
+   "a_ko": "운영 팀이 넘겨받기 전에, 새 서비스마다 알림·대시보드·자주 나는 장애를 정리한 인계 문서를 씁니다."
+  },
+  "collocations": [
+   "smooth handoff",
+   "handoff document",
+   "handoff between teams"
+  ],
+  "related": [
+   "sign-off",
+   "milestone",
+   "go-live",
+   "follow-through"
+  ],
+  "tip": "handover 와 같은 뜻 — 미국은 handoff, 영국은 handover 를 많이 씀"
+ },
+ {
+  "id": "d12-D25",
+  "day": 12,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "follow-through",
+  "pos": "noun",
+  "ipa": "/ˈfɑːloʊ θruː/",
+  "meaning_ko": "끝까지 해내기, 마무리",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "follow",
+     "type": "part",
+     "gloss": "따라가다"
+    },
+    {
+     "text": "through",
+     "type": "part",
+     "gloss": "끝까지"
+    }
+   ],
+   "story": "끝까지 따라가다 → 시작한 일을 마지막까지 해냄 → 마무리, 실행력"
+  },
+  "example": {
+   "q": "What feedback have you received from your manager?",
+   "a": "My manager praised my follow-through; after an incident, I tracked every action item to completion, even the ones owned by other teams.",
+   "a_ko": "매니저가 제 마무리 능력을 칭찬했습니다. 장애 후 모든 조치 항목을, 다른 팀 담당인 것까지 끝까지 챙겨 완료시켰습니다."
+  },
+  "collocations": [
+   "good follow-through",
+   "lack of follow-through",
+   "follow-through on"
+  ],
+  "related": [
+   "handoff",
+   "milestone",
+   "sign-off",
+   "timeline"
+  ],
+  "tip": "follow up(후속 연락, Day 2)과 다름 — follow-through 는 '끝까지 해내는 것'"
+ }
+]

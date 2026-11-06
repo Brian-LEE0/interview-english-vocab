@@ -1,0 +1,1219 @@
+[
+  {
+    "id": "d13-B01",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "local",
+    "pos": "adjective",
+    "ipa": "/ˈloʊkəl/",
+    "meaning_ko": "로컬의, 지역의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "장소(locus)의 → 그 지역의 → (IT) 내 컴퓨터의"
+    },
+    "example": {
+      "q": "How do you test changes before pushing?",
+      "a": "I run the full test suite in my local environment before I open a pull request.",
+      "a_ko": "풀 리퀘스트를 열기 전에 로컬 환경에서 전체 테스트를 돌립니다."
+    },
+    "collocations": [
+      "local environment",
+      "local time",
+      "run locally"
+    ],
+    "related": [
+      "location",
+      "locate",
+      "localization",
+      "allocate"
+    ],
+    "tip": "local time(현지 시간)은 해외 면접 일정 잡을 때도 씀"
+  },
+  {
+    "id": "d13-B02",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "locate",
+    "pos": "verb",
+    "ipa": "/ˈloʊkeɪt/",
+    "meaning_ko": "(위치를) 찾아내다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "어떤 장소에 두다(locare) → 있는 자리를 알아내다 → 찾아내다"
+    },
+    "example": {
+      "q": "How did you find the cause of the memory leak?",
+      "a": "I used a heap profiler to locate the objects that were never released.",
+      "a_ko": "힙 프로파일러로 해제되지 않은 객체들을 찾아냈습니다."
+    },
+    "collocations": [
+      "locate the cause",
+      "locate a file",
+      "be located in"
+    ],
+    "related": [
+      "location",
+      "local",
+      "allocate",
+      "relocate"
+    ],
+    "tip": "'be located in ~(~에 있다)'는 회사·사무실 위치를 말할 때"
+  },
+  {
+    "id": "d13-B03",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "localization",
+    "pos": "noun",
+    "ipa": "/ˌloʊkələˈzeɪʃən/",
+    "meaning_ko": "현지화 (다국어 지원)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "iz",
+          "type": "suffix",
+          "gloss": "~하게 하다 (-ize)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "그 지역(local)에 맞게 하는 것 → 언어·형식을 현지에 맞춤 → 현지화"
+    },
+    "example": {
+      "q": "Have you worked on any global products?",
+      "a": "Yes, I handled localization for Japanese and Korean, so I built a pipeline that pulls translations automatically.",
+      "a_ko": "네, 일본어와 한국어 현지화를 맡아서 번역을 자동으로 가져오는 파이프라인을 만들었습니다."
+    },
+    "collocations": [
+      "localization team",
+      "localization support",
+      "i18n and localization"
+    ],
+    "related": [
+      "local",
+      "locale",
+      "location",
+      "locate"
+    ],
+    "tip": "줄여서 l10n. 다국어화(internationalization, i18n)와 짝으로 나옴"
+  },
+  {
+    "id": "d13-B04",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "geolocation",
+    "pos": "noun",
+    "ipa": "/ˌdʒiːoʊloʊˈkeɪʃən/",
+    "meaning_ko": "위치 정보, 지리적 위치",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "geo",
+          "type": "prefix",
+          "gloss": "땅 (그리스어 ge)"
+        },
+        {
+          "text": "loc",
+          "type": "root",
+          "gloss": "장소 (locus)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "땅(geo) 위의 위치(location) → 기기의 지리적 위치 정보"
+    },
+    "example": {
+      "q": "What kind of data did your app collect?",
+      "a": "We used geolocation only with user consent, and we rounded the coordinates to protect privacy.",
+      "a_ko": "위치 정보는 사용자 동의가 있을 때만 썼고, 개인 정보 보호를 위해 좌표를 반올림했습니다."
+    },
+    "collocations": [
+      "geolocation data",
+      "geolocation API",
+      "IP geolocation"
+    ],
+    "related": [
+      "location",
+      "local",
+      "locate",
+      "relocation"
+    ],
+    "tip": "개인 정보 질문이 나오면 consent(동의)와 함께 쓰기"
+  },
+  {
+    "id": "d13-B05",
+    "day": 13,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "in lieu of",
+    "pos": "phrase",
+    "ipa": "/ɪn ˈluː əv/",
+    "meaning_ko": "~ 대신에",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "~에"
+        },
+        {
+          "text": "lieu",
+          "type": "root",
+          "gloss": "자리 (locus)"
+        },
+        {
+          "text": "of",
+          "type": "part",
+          "gloss": "~의"
+        }
+      ],
+      "story": "~의 자리(lieu ← locus)에 → ~ 대신에"
+    },
+    "example": {
+      "q": "We can't raise the base salary any further.",
+      "a": "I understand. In lieu of a higher base, would you consider a signing bonus or two extra weeks of paid leave?",
+      "a_ko": "이해합니다. 기본급을 더 올리는 대신 사이닝 보너스나 유급 휴가 2주 추가를 검토해 주실 수 있을까요?"
+    },
+    "collocations": [
+      "in lieu of salary",
+      "payment in lieu of notice",
+      "in lieu of a raise"
+    ],
+    "related": [
+      "local",
+      "location",
+      "allocate",
+      "milieu"
+    ],
+    "tip": "instead of 의 격식체. 계약서·협상 메일에서 자주 보임. 발음 '인 루 오브'"
+  },
+  {
+    "id": "d13-B06",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "consistently",
+    "pos": "adverb",
+    "ipa": "/kənˈsɪstəntli/",
+    "meaning_ko": "꾸준히, 한결같이",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "함께 굳게 서 있는(consistent) → 흔들림 없는 → 한결같이"
+    },
+    "example": {
+      "q": "How would your manager describe you?",
+      "a": "I think they'd say I consistently deliver on time and communicate early.",
+      "a_ko": "제가 늘 기한을 지키고 일찍 공유한다고 말할 것 같습니다."
+    },
+    "collocations": [
+      "consistently deliver",
+      "consistently high",
+      "perform consistently"
+    ],
+    "related": [
+      "consistent",
+      "consistency",
+      "persistent",
+      "assist"
+    ],
+    "tip": "always 보다 '꾸준함'을 강조해서 신뢰감을 줌"
+  },
+  {
+    "id": "d13-B07",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "assistant",
+    "pos": "noun",
+    "ipa": "/əˈsɪstənt/",
+    "meaning_ko": "조수, (AI) 어시스턴트",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "곁에 서 있다(assistere) → 곁에서 돕다 → 돕는 사람·도우미 기능"
+    },
+    "example": {
+      "q": "Do you use AI tools at work?",
+      "a": "Yes, I use an AI coding assistant for boilerplate, but I review every line.",
+      "a_ko": "네, 반복 코드는 AI 코딩 어시스턴트를 쓰지만 모든 줄을 직접 검토합니다."
+    },
+    "collocations": [
+      "AI assistant",
+      "coding assistant",
+      "virtual assistant"
+    ],
+    "related": [
+      "assist",
+      "assistance",
+      "consist",
+      "persistent"
+    ],
+    "tip": "AI 도구 질문에서는 '검토는 내가 한다'는 말을 꼭 붙이기"
+  },
+  {
+    "id": "d13-B08",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "persistence",
+    "pos": "noun",
+    "ipa": "/pərˈsɪstəns/",
+    "meaning_ko": "영속성 (데이터 저장), 끈기",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "per",
+          "type": "prefix",
+          "gloss": "끝까지"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "끝까지 버티고 서 있음 → 끈기 → (IT) 데이터가 꺼져도 남아 있음"
+    },
+    "example": {
+      "q": "How did you design the storage layer?",
+      "a": "For persistence we used PostgreSQL, and we kept Redis only as a cache so nothing important lived only in memory.",
+      "a_ko": "영구 저장은 PostgreSQL로 하고, Redis는 캐시로만 써서 중요한 데이터가 메모리에만 있지 않게 했습니다."
+    },
+    "collocations": [
+      "persistence layer",
+      "data persistence",
+      "with persistence"
+    ],
+    "related": [
+      "persistent",
+      "consistency",
+      "assistant",
+      "coexist"
+    ],
+    "tip": "사람에게 쓰면 '끈기'. 형용사 persistent 와 함께 외우기"
+  },
+  {
+    "id": "d13-B09",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "consistency",
+    "pos": "noun",
+    "ipa": "/kənˈsɪstənsi/",
+    "meaning_ko": "일관성, 정합성",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ency",
+          "type": "suffix",
+          "gloss": "~한 성질"
+        }
+      ],
+      "story": "함께 굳게 서 있음(consistere) → 흔들리지 않음 → 일관성·(DB) 정합성"
+    },
+    "example": {
+      "q": "How do you handle data across multiple services?",
+      "a": "We accepted eventual consistency between services, because strong consistency would have made checkout too slow.",
+      "a_ko": "서비스 사이에는 최종 일관성을 택했습니다. 강한 일관성을 쓰면 결제가 너무 느려졌을 것이기 때문입니다."
+    },
+    "collocations": [
+      "eventual consistency",
+      "strong consistency",
+      "data consistency"
+    ],
+    "related": [
+      "consistent",
+      "consistently",
+      "persistence",
+      "assist"
+    ],
+    "tip": "분산 시스템 면접 필수어. CAP 정리의 C"
+  },
+  {
+    "id": "d13-B10",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "coexist",
+    "pos": "verb",
+    "ipa": "/ˌkoʊɪɡˈzɪst/",
+    "meaning_ko": "공존하다, 함께 돌아가다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "co",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "ist",
+          "type": "root",
+          "gloss": "서다 (sist)"
+        }
+      ],
+      "story": "밖으로 나와 서다(exsistere) → 존재하다 → 함께 존재하다"
+    },
+    "example": {
+      "q": "How did you migrate without downtime?",
+      "a": "We let the old and new APIs coexist for a month and moved traffic over gradually.",
+      "a_ko": "한 달 동안 기존 API와 새 API를 함께 운영하면서 트래픽을 조금씩 옮겼습니다."
+    },
+    "collocations": [
+      "coexist with",
+      "coexist peacefully",
+      "let A and B coexist"
+    ],
+    "related": [
+      "exist",
+      "existing",
+      "consist",
+      "persistent"
+    ],
+    "tip": "무중단 마이그레이션 설명에 딱 맞는 동사"
+  },
+  {
+    "id": "d13-B11",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "substitution",
+    "pos": "noun",
+    "ipa": "/ˌsʌbstɪˈtuːʃən/",
+    "meaning_ko": "대체, 치환",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래·대신"
+        },
+        {
+          "text": "stitut",
+          "type": "root",
+          "gloss": "세우다 (statuere ← sta)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "대신 그 자리에 세움(substituere) → 대체·치환"
+    },
+    "example": {
+      "q": "Which design principles do you follow?",
+      "a": "I follow the Liskov substitution principle, so any subclass can replace its parent without breaking callers.",
+      "a_ko": "리스코프 치환 원칙을 따라서, 어떤 하위 클래스든 호출하는 쪽을 깨뜨리지 않고 부모를 대체할 수 있게 합니다."
+    },
+    "collocations": [
+      "Liskov substitution principle",
+      "variable substitution",
+      "a direct substitution"
+    ],
+    "related": [
+      "substitute",
+      "institute",
+      "constitute",
+      "status"
+    ],
+    "tip": "SOLID 의 L. 객체지향 설계 질문에서 바로 쓸 수 있음"
+  },
+  {
+    "id": "d13-B12",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "resistant",
+    "pos": "adjective",
+    "ipa": "/rɪˈzɪstənt/",
+    "meaning_ko": "저항하는, 잘 견디는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "맞서·뒤로"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "맞서 서다(resistere) → 저항하다 → 저항하는·잘 버티는"
+    },
+    "example": {
+      "q": "How do you introduce new practices to a team?",
+      "a": "People can be resistant to change, so I start with a small trial and show the results before asking for more.",
+      "a_ko": "사람들은 변화에 거부감이 있을 수 있어서, 작게 시험해 보고 결과를 보여 준 뒤에 더 요청합니다."
+    },
+    "collocations": [
+      "resistant to change",
+      "fault-resistant",
+      "water-resistant"
+    ],
+    "related": [
+      "resist",
+      "resistance",
+      "persistent",
+      "consistent"
+    ],
+    "tip": "'resistant to change(변화에 저항하는)'는 갈등·설득 질문의 단골 표현"
+  },
+  {
+    "id": "d13-B13",
+    "day": 13,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "insistent",
+    "pos": "adjective",
+    "ipa": "/ɪnˈsɪstənt/",
+    "meaning_ko": "끈질기게 요구하는, 단호한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "위에"
+        },
+        {
+          "text": "sist",
+          "type": "root",
+          "gloss": "서다 (sta)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "위에 버티고 서다(insistere) → 고집하다 → 끈질기게 요구하는"
+    },
+    "example": {
+      "q": "How did you handle a vendor that kept missing deadlines?",
+      "a": "I stayed polite but insistent: I asked for a written fix date, followed up every two days, and escalated when they missed it again.",
+      "a_ko": "정중하지만 단호하게 대응했습니다. 수정 날짜를 문서로 받고, 이틀마다 확인했고, 또 어기자 상부에 보고했습니다."
+    },
+    "collocations": [
+      "polite but insistent",
+      "insistent on",
+      "increasingly insistent"
+    ],
+    "related": [
+      "insist",
+      "persistent",
+      "consistent",
+      "resistant"
+    ],
+    "tip": "persistent(끈기 있게 계속함)와 달리 insistent 는 '요구를 굽히지 않음'"
+  },
+  {
+    "id": "d13-B14",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "manner",
+    "pos": "noun",
+    "ipa": "/ˈmænər/",
+    "meaning_ko": "방식, 태도",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "ner",
+          "type": "suffix",
+          "gloss": "~에 속한 것 (-aria)"
+        }
+      ],
+      "story": "손으로 다루는 방식(manuarius → maniere) → 방식·태도"
+    },
+    "example": {
+      "q": "How do you handle tight deadlines?",
+      "a": "I tell stakeholders about risks in a timely manner so there are no surprises.",
+      "a_ko": "이해관계자에게 위험을 제때 알려서 갑작스러운 일이 없게 합니다."
+    },
+    "collocations": [
+      "in a timely manner",
+      "in a professional manner",
+      "manner of speaking"
+    ],
+    "related": [
+      "manual",
+      "manage",
+      "maintain",
+      "manually"
+    ],
+    "tip": "in a timely manner = 제때에. 업무 메일에도 자주 쓰는 격식 표현"
+  },
+  {
+    "id": "d13-B15",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "demanding",
+    "pos": "adjective",
+    "ipa": "/dɪˈmændɪŋ/",
+    "meaning_ko": "힘든, 요구가 많은",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "mand",
+          "type": "root",
+          "gloss": "맡기다·명하다 (mandare ← manus)"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "완전히 맡기다(demandare) → 요구하다 → 요구가 많은·힘든"
+    },
+    "example": {
+      "q": "What was your most challenging role?",
+      "a": "My last role was demanding, but it taught me to prioritize well.",
+      "a_ko": "지난 직무는 힘들었지만 우선순위를 잘 정하는 법을 배웠습니다."
+    },
+    "collocations": [
+      "demanding job",
+      "demanding client",
+      "physically demanding"
+    ],
+    "related": [
+      "demand",
+      "on-demand",
+      "manage",
+      "manual"
+    ],
+    "tip": "hard 대신 쓰면 불평이 아니라 '도전적이었다'는 긍정적 뉘앙스"
+  },
+  {
+    "id": "d13-B16",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "manageable",
+    "pos": "adjective",
+    "ipa": "/ˈmænɪdʒəbəl/",
+    "meaning_ko": "감당할 수 있는, 괜찮은",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "age",
+          "type": "suffix",
+          "gloss": "~하다 (이탈리아어 -eggiare)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "손으로 다루다(maneggiare) → 해내다(manage) → 해낼 수 있는"
+    },
+    "example": {
+      "q": "Could you start within a month?",
+      "a": "Yes, a one-month timeline is manageable, since my notice period is only two weeks.",
+      "a_ko": "네, 퇴사 예고 기간이 2주라서 한 달 일정은 충분히 가능합니다."
+    },
+    "collocations": [
+      "manageable timeline",
+      "a manageable workload",
+      "keep it manageable"
+    ],
+    "related": [
+      "manage",
+      "manager",
+      "micromanage",
+      "manual"
+    ],
+    "tip": "입사일·업무량을 조율할 때 '무리 없다'를 부드럽게 말하는 표현"
+  },
+  {
+    "id": "d13-B17",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "micromanage",
+    "pos": "verb",
+    "ipa": "/ˈmaɪkroʊˌmænɪdʒ/",
+    "meaning_ko": "세세하게 간섭하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "micro",
+          "type": "prefix",
+          "gloss": "작은 (그리스어 mikros)"
+        },
+        {
+          "text": "man",
+          "type": "root",
+          "gloss": "손 (manus)"
+        },
+        {
+          "text": "age",
+          "type": "suffix",
+          "gloss": "~하다 (이탈리아어 -eggiare)"
+        }
+      ],
+      "story": "작은 것(micro)까지 손으로 다루다(manage) → 사소한 것까지 간섭하다"
+    },
+    "example": {
+      "q": "What management style works best for you?",
+      "a": "I do best when a manager sets clear goals but doesn't micromanage, because I like owning how I get there.",
+      "a_ko": "관리자가 목표를 분명히 정해 주되 세세하게 간섭하지 않을 때 가장 잘합니다. 방법은 제가 책임지고 정하는 걸 좋아하기 때문입니다."
+    },
+    "collocations": [
+      "micromanage a team",
+      "feel micromanaged",
+      "avoid micromanaging"
+    ],
+    "related": [
+      "manage",
+      "manager",
+      "manageable",
+      "manual"
+    ],
+    "tip": "전 상사를 비난하는 말로 쓰지 말고 '내가 잘 일하는 환경'으로 말하기"
+  },
+  {
+    "id": "d13-B18",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "reassess",
+    "pos": "verb",
+    "ipa": "/ˌriːəˈses/",
+    "meaning_ko": "다시 평가하다, 재검토하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        }
+      ],
+      "story": "곁에 앉다(assidere, 재판관 곁의 보좌관) → 평가하다(assess) → 다시 평가하다"
+    },
+    "example": {
+      "q": "What do you do when a project falls behind?",
+      "a": "I reassess the scope with the product owner and cut lower-priority features rather than lowering quality.",
+      "a_ko": "프로덕트 오너와 범위를 다시 검토해서, 품질을 낮추기보다 우선순위가 낮은 기능을 뺍니다."
+    },
+    "collocations": [
+      "reassess priorities",
+      "reassess the plan",
+      "reassess the risk"
+    ],
+    "related": [
+      "assess",
+      "assessment",
+      "self-assessment",
+      "session"
+    ],
+    "tip": "re-evaluate 와 비슷. 계획을 바꾼 이유를 설명할 때 씀"
+  },
+  {
+    "id": "d13-B19",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "self-assessment",
+    "pos": "noun",
+    "ipa": "/ˌself əˈsesmənt/",
+    "meaning_ko": "자기 평가",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "self",
+          "type": "part",
+          "gloss": "스스로"
+        },
+        {
+          "text": "as",
+          "type": "prefix",
+          "gloss": "곁에 (ad)"
+        },
+        {
+          "text": "sess",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "스스로(self) + 평가(assessment ← 곁에 앉아 판단하다) → 자기 평가"
+    },
+    "example": {
+      "q": "How do you evaluate your own performance?",
+      "a": "I write a short self-assessment every quarter, comparing my goals with what I actually delivered.",
+      "a_ko": "분기마다 목표와 실제 결과를 비교하는 짧은 자기 평가를 씁니다."
+    },
+    "collocations": [
+      "write a self-assessment",
+      "honest self-assessment",
+      "self-assessment form"
+    ],
+    "related": [
+      "assess",
+      "assessment",
+      "reassess",
+      "session"
+    ],
+    "tip": "인사 평가 제도를 말할 때 performance review 와 함께 나옴"
+  },
+  {
+    "id": "d13-B20",
+    "day": 13,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "subside",
+    "pos": "verb",
+    "ipa": "/səbˈsaɪd/",
+    "meaning_ko": "가라앉다, 잦아들다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sub",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "sid",
+          "type": "root",
+          "gloss": "앉다 (sed)"
+        },
+        {
+          "text": "e",
+          "type": "suffix",
+          "gloss": "(동사 어미)"
+        }
+      ],
+      "story": "아래로 내려앉다(subsidere) → (감정·소란이) 가라앉다"
+    },
+    "example": {
+      "q": "How did you handle the incident with the angry client?",
+      "a": "I gave them hourly updates until the issue was fixed, and once their frustration subsided, we agreed on a clear post-mortem.",
+      "a_ko": "문제가 해결될 때까지 한 시간마다 상황을 공유했고, 고객의 불만이 가라앉은 뒤 명확한 사후 분석을 하기로 합의했습니다."
+    },
+    "collocations": [
+      "the pain subsided",
+      "once things subside",
+      "the storm subsided"
+    ],
+    "related": [
+      "subsidy",
+      "subsidiary",
+      "session",
+      "sedentary"
+    ],
+    "tip": "갈등 해결 STAR 에서 '감정이 진정된 뒤'를 말할 때 자연스러움"
+  },
+  {
+    "id": "d13-B21",
+    "day": 13,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "sedentary",
+    "pos": "adjective",
+    "ipa": "/ˈsedənteri/",
+    "meaning_ko": "앉아서 하는, 활동이 적은",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sed",
+          "type": "root",
+          "gloss": "앉다"
+        },
+        {
+          "text": "entary",
+          "type": "suffix",
+          "gloss": "~하는 (-entarius)"
+        }
+      ],
+      "story": "앉아 있는(sedentarius) → 앉아서 지내는 → 활동이 적은"
+    },
+    "example": {
+      "q": "What do you do outside work?",
+      "a": "Since software work is fairly sedentary, I run three mornings a week, and it actually helps me think through hard problems.",
+      "a_ko": "개발 일은 꽤 앉아서 하는 일이라 일주일에 세 번 아침에 달리는데, 어려운 문제를 정리하는 데도 도움이 됩니다."
+    },
+    "collocations": [
+      "sedentary job",
+      "sedentary lifestyle",
+      "fairly sedentary"
+    ],
+    "related": [
+      "session",
+      "assess",
+      "subside",
+      "residual"
+    ],
+    "tip": "취미·자기 관리 질문에 쓰는 고급 표현. 발음 '세던테리'"
+  },
+  {
+    "id": "d13-B22",
+    "day": 13,
+    "level": 3,
+    "set": "B",
+    "family": "F3",
+    "word": "residual",
+    "pos": "adjective",
+    "ipa": "/rɪˈzɪdʒuəl/",
+    "meaning_ko": "남아 있는, 잔여의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤에"
+        },
+        {
+          "text": "sidu",
+          "type": "root",
+          "gloss": "남아 앉아 있는 (residuum ← sed)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "뒤에 남아 앉아 있는 것(residuum) → 남은 것의 → 잔여의"
+    },
+    "example": {
+      "q": "Was the migration completely risk-free?",
+      "a": "Not completely. There was still residual risk from a few batch jobs, so we kept the old database read-only for two weeks as a fallback.",
+      "a_ko": "완전히는 아니었습니다. 일부 배치 작업에서 남은 위험이 있어서, 기존 DB를 2주 동안 읽기 전용으로 남겨 두어 대비했습니다."
+    },
+    "collocations": [
+      "residual risk",
+      "residual data",
+      "residual errors"
+    ],
+    "related": [
+      "session",
+      "assess",
+      "subside",
+      "sedentary"
+    ],
+    "tip": "residual risk(잔여 위험) — '위험이 0은 아니었다'를 솔직하게 말할 때"
+  },
+  {
+    "id": "d13-B23",
+    "day": 13,
+    "level": 1,
+    "set": "B",
+    "family": "F3",
+    "word": "one-on-one",
+    "pos": "noun",
+    "ipa": "/ˌwʌn ɑːn ˈwʌn/",
+    "meaning_ko": "1:1 면담",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "one",
+          "type": "part",
+          "gloss": "하나"
+        },
+        {
+          "text": "on",
+          "type": "part",
+          "gloss": "~와 마주하여"
+        },
+        {
+          "text": "one",
+          "type": "part",
+          "gloss": "하나"
+        }
+      ],
+      "story": "한 사람 대 한 사람 → 상사와 팀원의 1:1 면담"
+    },
+    "example": {
+      "q": "How do you support junior teammates?",
+      "a": "I have a weekly one-on-one with each junior developer to talk about blockers.",
+      "a_ko": "주니어 개발자마다 매주 1:1 면담을 해서 막힌 점을 이야기합니다."
+    },
+    "collocations": [
+      "weekly one-on-one",
+      "have a one-on-one",
+      "one-on-one meeting"
+    ],
+    "related": [
+      "sync up",
+      "check in",
+      "feedback"
+    ],
+    "tip": "줄여서 1:1, 1-on-1 이라고 쓰기도 함"
+  },
+  {
+    "id": "d13-B24",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "cross-functional",
+    "pos": "adjective",
+    "ipa": "/ˌkrɔːs ˈfʌŋkʃənəl/",
+    "meaning_ko": "여러 부서가 함께하는, 직무 횡단의",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cross",
+          "type": "part",
+          "gloss": "가로지르는"
+        },
+        {
+          "text": "functional",
+          "type": "part",
+          "gloss": "기능·직무의"
+        }
+      ],
+      "story": "여러 직무(function)를 가로지르는(cross) → 여러 부서가 함께하는"
+    },
+    "example": {
+      "q": "Describe a project where you worked with other departments.",
+      "a": "I worked on a cross-functional team with design, marketing, and data, so I learned to explain technical trade-offs simply.",
+      "a_ko": "디자인·마케팅·데이터 담당과 함께한 부서 횡단 팀에서 일해서, 기술적인 트레이드오프를 쉽게 설명하는 법을 배웠습니다."
+    },
+    "collocations": [
+      "cross-functional team",
+      "cross-functional project",
+      "work cross-functionally"
+    ],
+    "related": [
+      "stakeholder",
+      "team lead",
+      "buy-in"
+    ],
+    "tip": "협업 질문에서 '개발자끼리만'이 아님을 보여 주는 핵심어"
+  },
+  {
+    "id": "d13-B25",
+    "day": 13,
+    "level": 2,
+    "set": "B",
+    "family": "F3",
+    "word": "on the same page",
+    "pos": "phrase",
+    "ipa": "/ɑːn ðə seɪm peɪdʒ/",
+    "meaning_ko": "같은 생각인, 이해가 일치하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "on",
+          "type": "part",
+          "gloss": "~에"
+        },
+        {
+          "text": "the",
+          "type": "part",
+          "gloss": "그"
+        },
+        {
+          "text": "same",
+          "type": "part",
+          "gloss": "같은"
+        },
+        {
+          "text": "page",
+          "type": "part",
+          "gloss": "페이지"
+        }
+      ],
+      "story": "모두 같은 페이지를 펴 놓고 있다 → 같은 내용을 이해하고 있다"
+    },
+    "example": {
+      "q": "How do you avoid misunderstandings with stakeholders?",
+      "a": "After each meeting, I send a short recap so that everyone stays on the same page about decisions and owners.",
+      "a_ko": "회의가 끝날 때마다 짧은 요약을 보내서, 결정 사항과 담당자에 대해 모두가 같은 이해를 하도록 합니다."
+    },
+    "collocations": [
+      "be on the same page",
+      "get everyone on the same page",
+      "make sure we're on the same page"
+    ],
+    "related": [
+      "sync up",
+      "alignment",
+      "buy-in"
+    ],
+    "tip": "aligned 와 비슷한 구어 표현. 회의·협업 이야기에 자주 씀"
+  }
+]

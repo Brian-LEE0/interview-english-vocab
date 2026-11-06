@@ -1,0 +1,1149 @@
+[
+ {
+  "id": "d15-D01",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "example",
+  "pos": "noun",
+  "ipa": "/ɪɡˈzæmpəl/",
+  "meaning_ko": "예, 사례",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "ample",
+     "type": "root",
+     "gloss": "집어낸 것 (emere 취하다 → exemplum)"
+    }
+   ],
+   "story": "밖으로 집어낸 것 (exemplum) → 본보기 → 예, 사례"
+  },
+  "example": {
+   "q": "Can you give me an example of teamwork?",
+   "a": "Sure, let me give you an example from my last project.",
+   "a_ko": "네, 지난 프로젝트의 사례를 하나 말씀드리겠습니다."
+  },
+  "collocations": [
+   "for example",
+   "give an example",
+   "a good example of"
+  ],
+  "related": [
+   "exemplary",
+   "sample",
+   "exempt",
+   "prompt"
+  ],
+  "tip": "면접관이 'For example?'이라고 되물으면 구체성이 부족하다는 신호. 사례를 미리 준비"
+ },
+ {
+  "id": "d15-D02",
+  "day": 15,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "exemplary",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzɛmpləri/",
+  "meaning_ko": "모범적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "empl",
+     "type": "root",
+     "gloss": "취하다 (emere → exemplum)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "본보기(exemplum)가 되는 → 모범적인"
+  },
+  "example": {
+   "q": "How do you set standards for a new team?",
+   "a": "I picked one exemplary pull request, with a clear description, a small diff, and good tests, and shared it as our reference for what good looks like.",
+   "a_ko": "설명이 명확하고 변경이 작고 테스트가 잘된 모범적인 풀 리퀘스트 하나를 골라, 좋은 기준이 무엇인지 보여 주는 참고 자료로 공유했습니다."
+  },
+  "collocations": [
+   "exemplary work",
+   "exemplary performance",
+   "an exemplary standard"
+  ],
+  "related": [
+   "example",
+   "sample",
+   "exempt",
+   "premium"
+  ],
+  "tip": "자기 일에 쓰면 자랑처럼 들리니, 동료 칭찬이나 '기준'을 말할 때 쓰기"
+ },
+ {
+  "id": "d15-D03",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "sample",
+  "pos": "noun",
+  "ipa": "/ˈsæmpəl/",
+  "meaning_ko": "샘플, 표본",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sample",
+     "type": "root",
+     "gloss": "본보기 (exemplum ← ex + emere)"
+    }
+   ],
+   "story": "example(본보기)의 앞소리가 떨어진 말 (고대 프랑스어 essample) → 일부를 떼어 낸 본보기 → 표본"
+  },
+  "example": {
+   "q": "How did you test the new parser?",
+   "a": "I ran it against a sample of one million real log lines.",
+   "a_ko": "실제 로그 백만 줄을 샘플로 뽑아 돌려 봤습니다."
+  },
+  "collocations": [
+   "sample data",
+   "a random sample",
+   "sample size"
+  ],
+  "related": [
+   "sampling",
+   "example",
+   "exemplary",
+   "exempt"
+  ],
+  "tip": "example과 원래 같은 단어. sample size(표본 크기)도 자주 씀"
+ },
+ {
+  "id": "d15-D04",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "sampling",
+  "pos": "noun",
+  "ipa": "/ˈsæmplɪŋ/",
+  "meaning_ko": "샘플링, 표본 추출",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sampl",
+     "type": "root",
+     "gloss": "본보기 (exemplum ← ex + emere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "본보기를 떼어 냄 → 전체 대신 일부만 골라 봄 → 샘플링"
+  },
+  "example": {
+   "q": "How did you reduce your tracing costs?",
+   "a": "We moved to tail-based sampling, keeping every error trace but only five percent of normal ones, which cut costs by seventy percent.",
+   "a_ko": "테일 기반 샘플링으로 바꿔 오류 트레이스는 전부, 정상 트레이스는 5%만 남겼더니 비용이 70% 줄었습니다."
+  },
+  "collocations": [
+   "sampling rate",
+   "random sampling",
+   "tail-based sampling"
+  ],
+  "related": [
+   "sample",
+   "example",
+   "exempt",
+   "prompt"
+  ],
+  "tip": "sampling rate(샘플링 비율)는 모니터링·데이터 분석 양쪽에서 쓰임"
+ },
+ {
+  "id": "d15-D05",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "prompt",
+  "pos": "noun",
+  "ipa": "/prɑmpt/",
+  "meaning_ko": "프롬프트 (AI에 주는 지시문)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "mpt",
+     "type": "root",
+     "gloss": "꺼내다·취하다 (emere → promptus)"
+    }
+   ],
+   "story": "앞으로 꺼내 놓은 (promptus) → 준비된 → 행동을 끌어내는 말 → 프롬프트"
+  },
+  "example": {
+   "q": "Have you worked with LLMs?",
+   "a": "Yes, I wrote and tested the prompt for our support chatbot.",
+   "a_ko": "네, 고객지원 챗봇의 프롬프트를 작성하고 테스트했습니다."
+  },
+  "collocations": [
+   "write a prompt",
+   "system prompt",
+   "prompt engineering"
+  ],
+  "related": [
+   "promptly",
+   "impromptu",
+   "example",
+   "preempt"
+  ],
+  "tip": "형용사로는 '즉각적인' (a prompt reply). 터미널의 입력 대기 표시도 prompt"
+ },
+ {
+  "id": "d15-D06",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "promptly",
+  "pos": "adverb",
+  "ipa": "/ˈprɑmptli/",
+  "meaning_ko": "즉시, 신속하게",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "mpt",
+     "type": "root",
+     "gloss": "꺼내다·취하다 (emere → promptus)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "앞으로 꺼내 놓아 준비된 → 바로바로 → 즉시"
+  },
+  "example": {
+   "q": "How do you handle code review requests?",
+   "a": "I respond to review requests promptly, usually within a few hours.",
+   "a_ko": "리뷰 요청에는 보통 몇 시간 안에 신속하게 응답합니다."
+  },
+  "collocations": [
+   "respond promptly",
+   "promptly fixed",
+   "promptly at nine"
+  ],
+  "related": [
+   "prompt",
+   "impromptu",
+   "example",
+   "exempt"
+  ],
+  "tip": "quickly보다 '지체 없이, 제때'라는 성실함이 담김"
+ },
+ {
+  "id": "d15-D07",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "impromptu",
+  "pos": "adjective",
+  "ipa": "/ɪmˈprɑmptu/",
+  "meaning_ko": "즉석의, 즉흥적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "~안에 (in)"
+    },
+    {
+     "text": "prompt",
+     "type": "root",
+     "gloss": "꺼내 준비된 (promptus ← pro + emere)"
+    },
+    {
+     "text": "u",
+     "type": "suffix",
+     "gloss": "~상태로 (라틴어 in promptu)"
+    }
+   ],
+   "story": "in promptu = 꺼내 놓은 상태로 → 바로 할 수 있는 → 즉석의"
+  },
+  "example": {
+   "q": "How do you handle unexpected requests to present?",
+   "a": "When my director asked for an impromptu demo, I was ready because I always keep a working staging environment.",
+   "a_ko": "이사님이 즉석 데모를 요청하셨을 때, 늘 동작하는 스테이징 환경을 유지해 둔 덕분에 바로 보여 드릴 수 있었습니다."
+  },
+  "collocations": [
+   "an impromptu demo",
+   "an impromptu meeting",
+   "an impromptu discussion"
+  ],
+  "related": [
+   "prompt",
+   "promptly",
+   "example",
+   "preempt"
+  ],
+  "tip": "준비 없이 바로 하는 발표·회의. 평소 대비가 되어 있음을 보여 주는 에피소드에 좋음"
+ },
+ {
+  "id": "d15-D08",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "preempt",
+  "pos": "verb",
+  "ipa": "/priˈɛmpt/",
+  "meaning_ko": "선수를 치다, 미리 막다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "먼저"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "사다·취하다 (emere)"
+    }
+   ],
+   "story": "남보다 먼저 사들이다 → 선수 치다 → 문제를 미리 막다"
+  },
+  "example": {
+   "q": "How do you handle stakeholders who resist change?",
+   "a": "I try to preempt their concerns by sharing a short risk list and a rollback plan before the meeting.",
+   "a_ko": "회의 전에 짧은 리스크 목록과 롤백 계획을 먼저 공유해서 우려를 미리 막으려고 합니다."
+  },
+  "collocations": [
+   "preempt concerns",
+   "preempt questions",
+   "preempt problems"
+  ],
+  "related": [
+   "preemptive",
+   "exempt",
+   "example",
+   "prompt"
+  ],
+  "tip": "anticipate(예상하다)보다 한 발 더 나가 '먼저 손을 쓴다'는 뜻"
+ },
+ {
+  "id": "d15-D09",
+  "day": 15,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "preemptive",
+  "pos": "adjective",
+  "ipa": "/priˈɛmptɪv/",
+  "meaning_ko": "선제적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "먼저"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "사다·취하다 (emere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "먼저 취하는 → 선제적인"
+  },
+  "example": {
+   "q": "How do you prepare for big traffic events?",
+   "a": "Before Black Friday, I did preemptive scaling based on last year's peak, so we absorbed three times normal traffic without a single alert.",
+   "a_ko": "블랙 프라이데이 전에 작년 피크를 기준으로 선제적으로 증설해서, 평소의 세 배 트래픽을 알림 하나 없이 받아냈습니다."
+  },
+  "collocations": [
+   "preemptive scaling",
+   "preemptive scheduling",
+   "a preemptive fix"
+  ],
+  "related": [
+   "preempt",
+   "exempt",
+   "example",
+   "premium"
+  ],
+  "tip": "OS의 preemptive multitasking(선점형)도 같은 단어. proactive보다 '먼저 막는' 느낌이 강함"
+ },
+ {
+  "id": "d15-D10",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "exempt",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzɛmpt/",
+  "meaning_ko": "(초과근무 수당 등에서) 면제된",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "취하다 (emere)"
+    }
+   ],
+   "story": "밖으로 집어낸 (eximere) → 규칙에서 빼 준 → 면제된"
+  },
+  "example": {
+   "q": "This role is salaried and exempt from overtime pay. Any questions?",
+   "a": "That's fine, but since the role is exempt, I'd like to understand how on-call time is handled.",
+   "a_ko": "괜찮습니다. 다만 초과근무 수당 대상이 아니라면 온콜 시간은 어떻게 처리되는지 알고 싶습니다."
+  },
+  "collocations": [
+   "exempt from",
+   "an exempt employee",
+   "tax-exempt"
+  ],
+  "related": [
+   "example",
+   "preempt",
+   "premium",
+   "prompt"
+  ],
+  "tip": "미국 채용에서 exempt = 초과근무 수당 대상 아님, non-exempt = 대상. 오퍼 조건 확인용"
+ },
+ {
+  "id": "d15-D11",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "premium",
+  "pos": "noun",
+  "ipa": "/ˈprimiəm/",
+  "meaning_ko": "추가 수당, 보험료",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "먼저 (prae)"
+    },
+    {
+     "text": "mium",
+     "type": "root",
+     "gloss": "취한 것 (emere → praemium)"
+    }
+   ],
+   "story": "먼저 취한 몫 (praemium: 전리품·보상) → 덤으로 얹어 주는 돈 → 추가 수당 / 보험료"
+  },
+  "example": {
+   "q": "On-call is part of this role. Do you have questions about it?",
+   "a": "Yes, is there an on-call premium, and does the company cover the full health insurance premium for dependents?",
+   "a_ko": "네, 온콜 수당이 있는지, 그리고 회사가 부양가족 건강보험료를 전액 부담하는지 궁금합니다."
+  },
+  "collocations": [
+   "on-call premium",
+   "insurance premium",
+   "pay a premium"
+  ],
+  "related": [
+   "example",
+   "exempt",
+   "prompt",
+   "preempt"
+  ],
+  "tip": "두 뜻 모두 협상에서 나옴: 추가 수당(on-call premium) / 보험료(insurance premium)"
+ },
+ {
+  "id": "d15-D12",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "collect",
+  "pos": "verb",
+  "ipa": "/kəˈlɛkt/",
+  "meaning_ko": "모으다, 수집하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "col",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "골라 모으다 (legere)"
+    }
+   ],
+   "story": "함께 골라 모으다 → 모으다, 수집하다"
+  },
+  "example": {
+   "q": "How do you know users like your feature?",
+   "a": "I collect feedback from support tickets and talk to two users every sprint.",
+   "a_ko": "지원 티켓에서 피드백을 모으고, 매 스프린트마다 사용자 두 명과 직접 이야기합니다."
+  },
+  "collocations": [
+   "collect feedback",
+   "collect data",
+   "collect metrics"
+  ],
+  "related": [
+   "garbage collection",
+   "select",
+   "elegant",
+   "intelligent"
+  ],
+  "tip": "gather보다 체계적으로 '수집'하는 느낌. collect data/metrics/feedback"
+ },
+ {
+  "id": "d15-D13",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "garbage collection",
+  "pos": "noun",
+  "ipa": "/ˈɡɑrbɪdʒ kəˌlɛkʃən/",
+  "meaning_ko": "가비지 컬렉션 (메모리 자동 회수)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "garbage",
+     "type": "part",
+     "gloss": "쓰레기"
+    },
+    {
+     "text": "col",
+     "type": "prefix",
+     "gloss": "함께 (com)"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "골라 모으다 (legere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "쓰레기를 골라 모음 → 안 쓰는 메모리를 모아 회수함"
+  },
+  "example": {
+   "q": "How did you fix the latency spikes in your Java service?",
+   "a": "The spikes came from long garbage collection pauses, so I switched to the G1 collector and tuned the heap size.",
+   "a_ko": "지연 급증의 원인이 긴 가비지 컬렉션 멈춤이어서, G1 컬렉터로 바꾸고 힙 크기를 조정했습니다."
+  },
+  "collocations": [
+   "garbage collection pause",
+   "trigger garbage collection",
+   "GC tuning"
+  ],
+  "related": [
+   "collect",
+   "select",
+   "selector",
+   "intelligent"
+  ],
+  "tip": "줄여서 GC. 'stop-the-world pause'와 같이 말하면 깊이가 보임"
+ },
+ {
+  "id": "d15-D14",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "select",
+  "pos": "verb",
+  "ipa": "/səˈlɛkt/",
+  "meaning_ko": "고르다, 선택하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "se",
+     "type": "prefix",
+     "gloss": "따로 떼어"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "골라 모으다 (legere)"
+    }
+   ],
+   "story": "따로 떼어 골라 모으다 → 고르다"
+  },
+  "example": {
+   "q": "How do you keep database queries fast?",
+   "a": "I select only the columns I need and avoid SELECT star in production code.",
+   "a_ko": "필요한 컬럼만 고르고, 운영 코드에서는 SELECT *를 쓰지 않습니다."
+  },
+  "collocations": [
+   "select the columns",
+   "carefully selected",
+   "select from"
+  ],
+  "related": [
+   "selector",
+   "collect",
+   "elegant",
+   "intelligent"
+  ],
+  "tip": "SQL의 SELECT와 같은 단어. choose보다 '여럿 중에서 신중히 고르다'는 느낌"
+ },
+ {
+  "id": "d15-D15",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "selector",
+  "pos": "noun",
+  "ipa": "/səˈlɛktər/",
+  "meaning_ko": "셀렉터 (대상을 골라내는 조건)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "se",
+     "type": "prefix",
+     "gloss": "따로 떼어"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "골라 모으다 (legere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "따로 골라내는 것 → 적용할 대상을 고르는 조건 → 셀렉터"
+  },
+  "example": {
+   "q": "How do you route traffic to the right pods in Kubernetes?",
+   "a": "The service uses a label selector, so any pod with the matching app label receives traffic automatically.",
+   "a_ko": "서비스가 레이블 셀렉터를 써서, app 레이블이 맞는 파드는 자동으로 트래픽을 받습니다."
+  },
+  "collocations": [
+   "label selector",
+   "CSS selector",
+   "node selector"
+  ],
+  "related": [
+   "select",
+   "collect",
+   "leader election",
+   "elegant"
+  ],
+  "tip": "CSS selector, Kubernetes label selector 둘 다 '대상을 골라내는 규칙'"
+ },
+ {
+  "id": "d15-D16",
+  "day": 15,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "leader election",
+  "pos": "noun",
+  "ipa": "/ˈlidər ɪˌlɛkʃən/",
+  "meaning_ko": "리더 선출",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "leader",
+     "type": "part",
+     "gloss": "이끄는 사람"
+    },
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "lect",
+     "type": "root",
+     "gloss": "골라내다 (legere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함 (명사)"
+    }
+   ],
+   "story": "여럿 중에서 골라내기 (election) → 노드들 가운데 리더 하나를 뽑기"
+  },
+  "example": {
+   "q": "How do you make sure only one instance runs the scheduled jobs?",
+   "a": "We use leader election through etcd leases, so only the elected instance runs jobs, and another takes over within seconds if it dies.",
+   "a_ko": "etcd 리스로 리더 선출을 해서 선출된 인스턴스만 작업을 돌리고, 그게 죽으면 몇 초 안에 다른 인스턴스가 넘겨받습니다."
+  },
+  "collocations": [
+   "leader election",
+   "elect a leader",
+   "re-election"
+  ],
+  "related": [
+   "select",
+   "selector",
+   "collect",
+   "elegant"
+  ],
+  "tip": "분산 시스템 면접 단골 (Raft·ZooKeeper·etcd). split-brain(리더가 둘) 방지와 같이 말하기"
+ },
+ {
+  "id": "d15-D17",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "elegant",
+  "pos": "adjective",
+  "ipa": "/ˈɛləɡənt/",
+  "meaning_ko": "(해법이) 깔끔하고 세련된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "leg",
+     "type": "root",
+     "gloss": "골라내다 (legere → eligere)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "밖으로 골라낸 (eligere: 신중히 고르다) → 잘 고른 → 군더더기 없이 세련된"
+  },
+  "example": {
+   "q": "What's a piece of code you're proud of?",
+   "a": "I replaced a 300-line retry module with an elegant twenty-line wrapper, and it handled more edge cases than the old one.",
+   "a_ko": "300줄짜리 재시도 모듈을 20줄짜리 깔끔한 래퍼로 바꿨는데, 예전 것보다 더 많은 엣지 케이스를 처리했습니다."
+  },
+  "collocations": [
+   "an elegant solution",
+   "elegant design",
+   "simple and elegant"
+  ],
+  "related": [
+   "select",
+   "collect",
+   "intelligent",
+   "leader election"
+  ],
+  "tip": "개발자 사이에서 최고의 칭찬 중 하나: 'an elegant solution'. 과하게 꾸민 코드에는 안 씀"
+ },
+ {
+  "id": "d15-D18",
+  "day": 15,
+  "level": 1,
+  "set": "D",
+  "family": "F5",
+  "word": "intelligent",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtɛlədʒənt/",
+  "meaning_ko": "똑똑한, 지적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "intel",
+     "type": "prefix",
+     "gloss": "사이에서 (inter)"
+    },
+    {
+     "text": "lig",
+     "type": "root",
+     "gloss": "골라잡다 (legere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "여럿 사이에서 골라잡다 (intellegere) → 알아보다·이해하다 → 똑똑한"
+  },
+  "example": {
+   "q": "What kind of team do you want to join?",
+   "a": "A team of intelligent, humble people who give honest feedback.",
+   "a_ko": "솔직하게 피드백해 주는 똑똑하고 겸손한 사람들이 있는 팀입니다."
+  },
+  "collocations": [
+   "intelligent people",
+   "intelligent routing",
+   "an intelligent guess"
+  ],
+  "related": [
+   "intelligence",
+   "elegant",
+   "select",
+   "collect"
+  ],
+  "tip": "smart보다 격식 있는 말. IT에서는 'intelligent routing'처럼 '알아서 판단하는'이란 뜻도"
+ },
+ {
+  "id": "d15-D19",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "strain",
+  "pos": "noun",
+  "ipa": "/streɪn/",
+  "meaning_ko": "부담, 압박",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "strain",
+     "type": "root",
+     "gloss": "팽팽히 조이다 (stringere → 고대 프랑스어 estreindre)"
+    }
+   ],
+   "story": "팽팽히 조이다 → 무리하게 당김 → 부담, 압박"
+  },
+  "example": {
+   "q": "Tell me about a time your team was overloaded.",
+   "a": "Two people left during a launch, which put a real strain on the team, so I renegotiated scope with product to protect the deadline.",
+   "a_ko": "출시 기간에 두 명이 나가서 팀에 큰 부담이 됐고, 마감을 지키려고 프로덕트 팀과 범위를 다시 협의했습니다."
+  },
+  "collocations": [
+   "put a strain on",
+   "under strain",
+   "a strain on resources"
+  ],
+  "related": [
+   "stress",
+   "stress test",
+   "restraint",
+   "constraint"
+  ],
+  "tip": "put a strain on ~ = ~에 부담을 주다. stress(심리적 압박)보다 자원·관계에 걸리는 '부담'"
+ },
+ {
+  "id": "d15-D20",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "stress test",
+  "pos": "noun",
+  "ipa": "/ˈstrɛs ˌtɛst/",
+  "meaning_ko": "스트레스 테스트, 한계 부하 시험",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stress",
+     "type": "root",
+     "gloss": "조이다 (stringere → strictus)"
+    },
+    {
+     "text": "test",
+     "type": "part",
+     "gloss": "시험"
+    }
+   ],
+   "story": "꽉 조여 압박해 보는 시험 → 한계까지 부하를 주는 테스트"
+  },
+  "example": {
+   "q": "How did you know the system would survive launch day?",
+   "a": "We ran a stress test at five times the expected load and found the database connection limit before our users did.",
+   "a_ko": "예상 부하의 다섯 배로 스트레스 테스트를 돌려서, 사용자보다 먼저 DB 커넥션 한도 문제를 찾았습니다."
+  },
+  "collocations": [
+   "run a stress test",
+   "stress-test the system",
+   "stress-test an idea"
+  ],
+  "related": [
+   "stress",
+   "strain",
+   "constraint",
+   "strict"
+  ],
+  "tip": "load test(예상 부하) vs stress test(한계 이상). 'stress-test an idea'(아이디어를 철저히 검증)로도 씀"
+ },
+ {
+  "id": "d15-D21",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "prestige",
+  "pos": "noun",
+  "ipa": "/prɛˈstiʒ/",
+  "meaning_ko": "명성, 위신",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에서 (prae)"
+    },
+    {
+     "text": "stige",
+     "type": "root",
+     "gloss": "묶다·조이다 (stringere → praestigium)"
+    }
+   ],
+   "story": "앞에서 (눈을) 묶어 가리다 (praestringere) → 눈속임 → 눈부신 인상 → 명성"
+  },
+  "example": {
+   "q": "Why are you interested in us rather than a bigger company?",
+   "a": "I care more about ownership than prestige; here I'd own a product end to end instead of a small piece of one.",
+   "a_ko": "저는 명성보다 주인의식을 더 중요하게 생각합니다. 여기서는 큰 제품의 작은 조각이 아니라 제품 하나를 처음부터 끝까지 맡을 수 있습니다."
+  },
+  "collocations": [
+   "brand prestige",
+   "the prestige of the company",
+   "more than prestige"
+  ],
+  "related": [
+   "strict",
+   "restrict",
+   "constraint",
+   "strain"
+  ],
+  "tip": "발음 /prɛˈstiʒ/ (프레스티지). 지원 동기에서 '이름값보다 일'을 강조할 때"
+ },
+ {
+  "id": "d15-D22",
+  "day": 15,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "restraint",
+  "pos": "noun",
+  "ipa": "/rɪˈstreɪnt/",
+  "meaning_ko": "자제, 절제",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "straint",
+     "type": "root",
+     "gloss": "조이다 (stringere)"
+    }
+   ],
+   "story": "뒤로 꽉 조여 붙잡아 둠 (restringere) → 억누름 → 자제"
+  },
+  "example": {
+   "q": "Tell me about a time you chose not to act.",
+   "a": "When a junior engineer's design had a flaw, I showed restraint and asked guiding questions, so she found the issue herself and learned more from it.",
+   "a_ko": "주니어 엔지니어의 설계에 결함이 있었을 때 바로 지적하지 않고 질문으로 이끌어서, 본인이 직접 문제를 찾고 더 많이 배우게 했습니다."
+  },
+  "collocations": [
+   "show restraint",
+   "exercise restraint",
+   "with restraint"
+  ],
+  "related": [
+   "restrict",
+   "strict",
+   "constraint",
+   "strain"
+  ],
+  "tip": "restrict(제한하다)와 뿌리가 같음. 리더십 질문에서 '참고 기다린' 판단을 말할 때"
+ },
+ {
+  "id": "d15-D23",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "game changer",
+  "pos": "noun",
+  "ipa": "/ˈɡeɪm ˌtʃeɪndʒər/",
+  "meaning_ko": "판도를 바꾸는 것",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "game",
+     "type": "part",
+     "gloss": "경기·판"
+    },
+    {
+     "text": "changer",
+     "type": "part",
+     "gloss": "바꾸는 것"
+    }
+   ],
+   "story": "경기의 흐름을 바꾸는 것 → 판도를 바꾸는 결정적 요소"
+  },
+  "example": {
+   "q": "What's the most impactful thing you've built?",
+   "a": "Our internal preview environments were a game changer, because product managers could test every pull request before it merged.",
+   "a_ko": "사내 프리뷰 환경이 판도를 바꿨습니다. 프로덕트 매니저가 모든 풀 리퀘스트를 머지 전에 직접 테스트할 수 있었기 때문입니다."
+  },
+  "collocations": [
+   "a real game changer",
+   "a game changer for",
+   "prove to be a game changer"
+  ],
+  "related": [
+   "move the needle",
+   "quick win",
+   "end result"
+  ],
+  "tip": "과장처럼 들릴 수 있으니 바로 뒤에 because + 구체적인 효과를 붙일 것"
+ },
+ {
+  "id": "d15-D24",
+  "day": 15,
+  "level": 2,
+  "set": "D",
+  "family": "F5",
+  "word": "bottom line",
+  "pos": "noun",
+  "ipa": "/ˌbɑtəm ˈlaɪn/",
+  "meaning_ko": "최저선, 핵심 결론",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bottom",
+     "type": "part",
+     "gloss": "맨 아래"
+    },
+    {
+     "text": "line",
+     "type": "part",
+     "gloss": "줄"
+    }
+   ],
+   "story": "장부 맨 아래 줄(최종 손익) → 최종 결론 → 협상에서 물러설 수 없는 선"
+  },
+  "example": {
+   "q": "What's your bottom line on salary?",
+   "a": "My bottom line is a base of 95,000, but I'm flexible on how equity and bonus make up the rest.",
+   "a_ko": "기본급 9만 5천이 최저선이지만, 나머지를 주식과 보너스로 어떻게 채울지는 유연하게 생각합니다."
+  },
+  "collocations": [
+   "the bottom line is",
+   "my bottom line",
+   "impact on the bottom line"
+  ],
+  "related": [
+   "end result",
+   "track record",
+   "move the needle"
+  ],
+  "tip": "'회사 이익'이라는 뜻도 있음: impact the bottom line = 이익에 영향을 주다"
+ },
+ {
+  "id": "d15-D25",
+  "day": 15,
+  "level": 3,
+  "set": "D",
+  "family": "F5",
+  "word": "move the needle",
+  "pos": "phrase",
+  "ipa": "/ˌmuv ðə ˈnidəl/",
+  "meaning_ko": "눈에 띄는 변화를 만들다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "move",
+     "type": "part",
+     "gloss": "움직이다"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "needle",
+     "type": "part",
+     "gloss": "(계기판) 바늘"
+    }
+   ],
+   "story": "계기판 바늘을 움직일 만큼 → 숫자에 드러나는 변화를 만들다"
+  },
+  "example": {
+   "q": "How do you choose what to work on?",
+   "a": "I prioritize work that will move the needle on our key metric; last quarter that meant fixing onboarding, which lifted activation by fifteen percent.",
+   "a_ko": "핵심 지표를 실제로 움직일 일을 우선합니다. 지난 분기에는 온보딩 개선이 그랬고, 활성화율이 15% 올랐습니다."
+  },
+  "collocations": [
+   "move the needle on",
+   "really move the needle",
+   "won't move the needle"
+  ],
+  "related": [
+   "game changer",
+   "low-hanging fruit",
+   "track record"
+  ],
+  "tip": "부정형 'That won't move the needle'로 우선순위가 낮은 일을 정중하게 거절할 수도 있음"
+ }
+]

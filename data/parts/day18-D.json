@@ -1,0 +1,1161 @@
+[
+ {
+  "id": "d18-D01",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "close-knit",
+  "pos": "adjective",
+  "ipa": "/ˌkloʊs ˈnɪt/",
+  "meaning_ko": "끈끈한, 긴밀한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "close",
+     "type": "root",
+     "gloss": "닫힌 → 바짝 붙은 (claudere)"
+    },
+    {
+     "text": "knit",
+     "type": "part",
+     "gloss": "짜다, 엮다"
+    }
+   ],
+   "story": "촘촘하게 붙여 짠 → 서로 단단히 엮인 → 끈끈한"
+  },
+  "example": {
+   "q": "What kind of team culture do you like?",
+   "a": "I like a close-knit team where people feel safe asking questions, because that's where juniors grow fastest.",
+   "a_ko": "질문하는 것이 편한 끈끈한 팀을 좋아합니다. 그런 팀에서 주니어가 가장 빨리 성장하니까요."
+  },
+  "collocations": [
+   "close-knit team",
+   "close-knit community",
+   "close-knit group"
+  ],
+  "related": [
+   "close",
+   "closure",
+   "enclose",
+   "include"
+  ],
+  "tip": "여기서 close 는 형용사라 [클로스]로 발음"
+ },
+ {
+  "id": "d18-D02",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "inclusion",
+  "pos": "noun",
+  "ipa": "/ɪnˈkluːʒən/",
+  "meaning_ko": "포용, 포함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "clus",
+     "type": "root",
+     "gloss": "닫다 (clud)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안에 넣고 닫음 → 포함 → (조직에서) 모두를 받아들이는 포용"
+  },
+  "example": {
+   "q": "How do you make sure everyone's voice is heard?",
+   "a": "I care about inclusion in meetings, so I share the agenda early and ask quieter teammates for their views in writing.",
+   "a_ko": "회의에서의 포용을 중요하게 생각해서, 안건을 미리 공유하고 조용한 동료에게는 서면으로 의견을 묻습니다."
+  },
+  "collocations": [
+   "diversity and inclusion",
+   "inclusion criteria",
+   "foster inclusion"
+  ],
+  "related": [
+   "include",
+   "inclusive",
+   "exclusion",
+   "conclude"
+  ],
+  "tip": "D&I(Diversity & Inclusion) — 미국 회사의 컬처 질문에 자주 나옴"
+ },
+ {
+  "id": "d18-D03",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "conclusive",
+  "pos": "adjective",
+  "ipa": "/kənˈkluːsɪv/",
+  "meaning_ko": "결정적인, 확실한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "clus",
+     "type": "root",
+     "gloss": "닫다 (clud)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "완전히 닫는 → 논쟁을 끝내는 → 결정적인"
+  },
+  "example": {
+   "q": "How did you prove the memory leak was in the cache?",
+   "a": "A heap dump gave conclusive evidence: ninety percent of the memory was held by cache entries that never expired.",
+   "a_ko": "힙 덤프가 결정적인 증거가 됐습니다. 메모리의 90%를 만료되지 않는 캐시 항목이 차지하고 있었습니다."
+  },
+  "collocations": [
+   "conclusive evidence",
+   "conclusive proof",
+   "conclusive results"
+  ],
+  "related": [
+   "conclude",
+   "conclusion",
+   "inconclusive",
+   "include"
+  ],
+  "tip": "evidence·proof 와 짝. 반대말 inconclusive"
+ },
+ {
+  "id": "d18-D04",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "inconclusive",
+  "pos": "adjective",
+  "ipa": "/ˌɪnkənˈkluːsɪv/",
+  "meaning_ko": "결론이 나지 않는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "clus",
+     "type": "root",
+     "gloss": "닫다 (clud)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "완전히 닫히지 않은 → 결론이 나지 않은"
+  },
+  "example": {
+   "q": "What did you do when the A/B test didn't show a clear winner?",
+   "a": "The results were inconclusive after two weeks, so we extended the test and added a metric closer to revenue.",
+   "a_ko": "2주 뒤에도 결과가 확실하지 않아서, 테스트를 연장하고 매출에 더 가까운 지표를 추가했습니다."
+  },
+  "collocations": [
+   "inconclusive results",
+   "remain inconclusive",
+   "inconclusive test"
+  ],
+  "related": [
+   "conclusive",
+   "conclude",
+   "conclusion",
+   "include"
+  ],
+  "tip": "실패가 아니라 '아직 결론 없음' — 다음 행동을 같이 말하기"
+ },
+ {
+  "id": "d18-D05",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "close the gap",
+  "pos": "phrase",
+  "ipa": "/ˌkloʊz ðə ˈɡæp/",
+  "meaning_ko": "차이를 좁히다, 격차를 메우다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "close",
+     "type": "root",
+     "gloss": "닫다 (claudere)"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "gap",
+     "type": "part",
+     "gloss": "틈, 차이"
+    }
+   ],
+   "story": "벌어진 틈을 닫다 → 양쪽 숫자·입장의 차이를 좁히다"
+  },
+  "example": {
+   "q": "Our offer is about ten percent below the number you mentioned.",
+   "a": "Thank you for being transparent. Could we close the gap with a signing bonus or a salary review after six months?",
+   "a_ko": "솔직하게 말씀해 주셔서 감사합니다. 사이닝 보너스나 6개월 후 연봉 재검토로 차이를 좁힐 수 있을까요?"
+  },
+  "collocations": [
+   "close the gap between",
+   "help close the gap",
+   "close the remaining gap"
+  ],
+  "related": [
+   "close",
+   "closure",
+   "conclude",
+   "include"
+  ],
+  "tip": "연봉 협상에서 '차이를 메우자'는 부드러운 제안. 기술 맥락에선 skill gap 을 메울 때도 씀"
+ },
+ {
+  "id": "d18-D06",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "relax",
+  "pos": "verb",
+  "ipa": "/rɪˈlæks/",
+  "meaning_ko": "긴장을 풀다, (규칙을) 완화하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 뒤로"
+    },
+    {
+     "text": "lax",
+     "type": "root",
+     "gloss": "느슨하게 하다 (laxare)"
+    }
+   ],
+   "story": "다시 느슨하게 하다 → 긴장을 풀다 → 규칙을 완화하다"
+  },
+  "example": {
+   "q": "How do you deal with stress?",
+   "a": "After a busy release, I relax by hiking with my family on weekends.",
+   "a_ko": "바쁜 출시가 끝나면 주말에 가족과 등산을 하며 쉽니다."
+  },
+  "collocations": [
+   "relax a rule",
+   "relax the requirement",
+   "help me relax"
+  ],
+  "related": [
+   "release",
+   "lease",
+   "laissez-faire"
+  ],
+  "tip": "기술 맥락: relax the consistency requirement(일관성 요건을 완화하다)"
+ },
+ {
+  "id": "d18-D07",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "concern",
+  "pos": "noun",
+  "ipa": "/kənˈsɝːn/",
+  "meaning_ko": "우려, 걱정",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "cern",
+     "type": "root",
+     "gloss": "가르다·체로 치다 (cernere)"
+    }
+   ],
+   "story": "함께 체로 쳐서 가려 보다 → 관련되다 → 마음이 쓰이는 일·우려"
+  },
+  "example": {
+   "q": "Do you have any concerns about this role?",
+   "a": "My only concern is the time zone, but I'm flexible with meeting hours.",
+   "a_ko": "유일한 걱정은 시차인데, 회의 시간은 유연하게 맞출 수 있습니다."
+  },
+  "collocations": [
+   "raise a concern",
+   "my main concern",
+   "address concerns"
+  ],
+  "related": [
+   "discern",
+   "discrete",
+   "secret",
+   "certain"
+  ],
+  "tip": "raise a concern = 우려를 제기하다 (갈등 질문 답변에 자주)"
+ },
+ {
+  "id": "d18-D08",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "certain",
+  "pos": "adjective",
+  "ipa": "/ˈsɝːtən/",
+  "meaning_ko": "확신하는, 확실한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cert",
+     "type": "root",
+     "gloss": "가려 정해진 (certus ← cernere)"
+    },
+    {
+     "text": "ain",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "체로 가려 정해진 → 흔들림 없는 → 확실한"
+  },
+  "example": {
+   "q": "Are you sure you want to move into backend work?",
+   "a": "Yes, I'm certain, because I enjoy designing data models more than UI.",
+   "a_ko": "네, 확실합니다. UI보다 데이터 모델을 설계하는 게 더 즐겁거든요."
+  },
+  "collocations": [
+   "be certain that",
+   "to a certain extent",
+   "for certain"
+  ],
+  "related": [
+   "uncertainty",
+   "ascertain",
+   "concern",
+   "discern"
+  ],
+  "tip": "to a certain extent = '어느 정도는' — 단정을 피할 때 유용"
+ },
+ {
+  "id": "d18-D09",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "uncertainty",
+  "pos": "noun",
+  "ipa": "/ʌnˈsɝːtənti/",
+  "meaning_ko": "불확실성",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "cert",
+     "type": "root",
+     "gloss": "가려 정해진 (certus ← cernere)"
+    },
+    {
+     "text": "ain",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ty",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "확실하지 않은 성질 → 불확실성"
+  },
+  "example": {
+   "q": "How do you work when requirements keep changing?",
+   "a": "I handle uncertainty by shipping small pieces and checking with users early.",
+   "a_ko": "작게 나눠 출시하고 사용자에게 일찍 확인하면서 불확실성을 다룹니다."
+  },
+  "collocations": [
+   "deal with uncertainty",
+   "high uncertainty",
+   "reduce uncertainty"
+  ],
+  "related": [
+   "certain",
+   "ascertain",
+   "concern",
+   "discern"
+  ],
+  "tip": "comfortable with uncertainty 는 스타트업 면접 단골"
+ },
+ {
+  "id": "d18-D10",
+  "day": 18,
+  "level": 3,
+  "set": "D",
+  "family": "F8",
+  "word": "ascertain",
+  "pos": "verb",
+  "ipa": "/ˌæsərˈteɪn/",
+  "meaning_ko": "확인하다, 알아내다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "as",
+     "type": "prefix",
+     "gloss": "~로 (ad)"
+    },
+    {
+     "text": "cert",
+     "type": "root",
+     "gloss": "가려 정해진 (certus ← cernere)"
+    },
+    {
+     "text": "ain",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "확실한(certain) 쪽으로 만들다 → 사실을 확인하다"
+  },
+  "example": {
+   "q": "What did you do first when the data looked wrong?",
+   "a": "I ascertained whether the problem was in the source system or our pipeline by comparing raw row counts at each stage, which pointed to a timezone bug in the loader.",
+   "a_ko": "단계별 원본 행 수를 비교해서 문제가 원천 시스템에 있는지 파이프라인에 있는지 확인했고, 그 결과 적재 모듈의 시간대 버그를 찾았습니다."
+  },
+  "collocations": [
+   "ascertain whether",
+   "ascertain the cause",
+   "ascertain the facts"
+  ],
+  "related": [
+   "certain",
+   "uncertainty",
+   "concern",
+   "discern"
+  ],
+  "tip": "find out 의 격식체 — 강세는 끝 [애서테인]"
+ },
+ {
+  "id": "d18-D11",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "secret",
+  "pos": "noun",
+  "ipa": "/ˈsiːkrət/",
+  "meaning_ko": "비밀, 시크릿 (인증 정보)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "se",
+     "type": "prefix",
+     "gloss": "따로"
+    },
+    {
+     "text": "cret",
+     "type": "root",
+     "gloss": "가르다 (cernere 의 과거분사)"
+    }
+   ],
+   "story": "따로 갈라 둔 것 → 숨겨 둔 것 → 비밀"
+  },
+  "example": {
+   "q": "How do you handle API keys in your projects?",
+   "a": "I never commit secrets; they live in a secrets manager and rotate automatically.",
+   "a_ko": "시크릿은 절대 커밋하지 않고, 시크릿 매니저에 두고 자동으로 교체되게 합니다."
+  },
+  "collocations": [
+   "secrets manager",
+   "rotate secrets",
+   "keep a secret"
+  ],
+  "related": [
+   "discrete",
+   "discreet",
+   "discern",
+   "concern"
+  ],
+  "tip": "IT 에선 비밀번호·토큰 같은 인증 정보를 통틀어 secrets"
+ },
+ {
+  "id": "d18-D12",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "discrete",
+  "pos": "adjective",
+  "ipa": "/dɪˈskriːt/",
+  "meaning_ko": "별개의, 개별적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "crete",
+     "type": "root",
+     "gloss": "가르다 (cret ← cernere)"
+    }
+   ],
+   "story": "따로 갈라놓은 → 서로 떨어진 → 별개의"
+  },
+  "example": {
+   "q": "How did you organize the onboarding project?",
+   "a": "I split it into discrete tasks with one owner each, so progress was visible and nothing fell between teams.",
+   "a_ko": "담당자가 한 명씩 있는 별개의 작업으로 나눠서, 진행 상황이 보이고 팀 사이에서 빠지는 일이 없게 했습니다."
+  },
+  "collocations": [
+   "discrete steps",
+   "discrete tasks",
+   "discrete events"
+  ],
+  "related": [
+   "discreet",
+   "discretion",
+   "discern",
+   "secret"
+  ],
+  "tip": "discreet(신중한)과 발음이 같음 — discrete 는 '따로 떨어진'"
+ },
+ {
+  "id": "d18-D13",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "discreet",
+  "pos": "adjective",
+  "ipa": "/dɪˈskriːt/",
+  "meaning_ko": "신중한, 입이 무거운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "creet",
+     "type": "root",
+     "gloss": "가르다 (cret ← cernere)"
+    }
+   ],
+   "story": "가려낼 줄 아는 → 분별 있는 → 말을 조심하는"
+  },
+  "example": {
+   "q": "How do you handle sensitive information about colleagues?",
+   "a": "I'm discreet with anything personal people share with me, and I only escalate if someone's safety or customer data is at risk.",
+   "a_ko": "동료가 털어놓은 개인적인 일은 조심스럽게 다루고, 누군가의 안전이나 고객 데이터가 위험할 때만 위로 보고합니다."
+  },
+  "collocations": [
+   "be discreet",
+   "discreet about",
+   "a discreet word"
+  ],
+  "related": [
+   "discrete",
+   "discretion",
+   "discern",
+   "secret"
+  ],
+  "tip": "discrete 와 같은 라틴어(discretus)에서 철자만 갈라진 쌍둥이 단어"
+ },
+ {
+  "id": "d18-D14",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "discretion",
+  "pos": "noun",
+  "ipa": "/dɪˈskreʃən/",
+  "meaning_ko": "재량, 신중함",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "cret",
+     "type": "root",
+     "gloss": "가르다 (cernere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "가려 판단하는 힘 → 스스로 판단해 정할 권한 → 재량"
+  },
+  "example": {
+   "q": "The signing bonus is paid at the manager's discretion.",
+   "a": "I see. Since it's at the manager's discretion, could we put a minimum amount in the offer letter so the terms are clear?",
+   "a_ko": "알겠습니다. 매니저 재량이라면, 조건이 분명하도록 최소 금액을 오퍼 레터에 적어 주실 수 있을까요?"
+  },
+  "collocations": [
+   "at the discretion of",
+   "use your discretion",
+   "full discretion"
+  ],
+  "related": [
+   "discretionary",
+   "discreet",
+   "discrete",
+   "discern"
+  ],
+  "tip": "at your discretion = '알아서 판단하세요'. 계약에선 '회사 재량' = 확정이 아님"
+ },
+ {
+  "id": "d18-D15",
+  "day": 18,
+  "level": 3,
+  "set": "D",
+  "family": "F8",
+  "word": "discretionary",
+  "pos": "adjective",
+  "ipa": "/dɪˈskreʃəneri/",
+  "meaning_ko": "재량에 따른, 보장되지 않는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "cret",
+     "type": "root",
+     "gloss": "가르다 (cernere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~에 관한"
+    }
+   ],
+   "story": "재량(discretion)에 관한 → 회사가 판단해 정하는 → 보장되지 않는"
+  },
+  "example": {
+   "q": "On top of the base, there's a discretionary annual bonus.",
+   "a": "Thanks. Since the bonus is discretionary, could you share what percentage people at this level actually received over the last two years?",
+   "a_ko": "감사합니다. 보너스가 재량제라면, 이 레벨 직원들이 지난 2년 동안 실제로 몇 퍼센트를 받았는지 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "discretionary bonus",
+   "discretionary spending",
+   "purely discretionary"
+  ],
+  "related": [
+   "discretion",
+   "discreet",
+   "discrete",
+   "discern"
+  ],
+  "tip": "discretionary bonus = 보장되지 않는 보너스 → 실제 지급 이력을 묻는 것이 핵심"
+ },
+ {
+  "id": "d18-D16",
+  "day": 18,
+  "level": 3,
+  "set": "D",
+  "family": "F8",
+  "word": "discern",
+  "pos": "verb",
+  "ipa": "/dɪˈsɝːn/",
+  "meaning_ko": "분별하다, 가려내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "cern",
+     "type": "root",
+     "gloss": "가르다·체로 치다 (cernere)"
+    }
+   ],
+   "story": "체로 쳐서 따로 가르다 → 구별해 알아보다 → 분별하다"
+  },
+  "example": {
+   "q": "How do you handle feedback from many stakeholders at once?",
+   "a": "I try to discern which requests share a root problem; in my last project, five feature asks all came down to slow search, so we fixed that first.",
+   "a_ko": "어떤 요청들이 같은 근본 문제에서 나오는지 가려내려고 합니다. 지난 프로젝트에선 기능 요청 다섯 개가 모두 느린 검색 문제여서 그것부터 고쳤습니다."
+  },
+  "collocations": [
+   "discern a pattern",
+   "hard to discern",
+   "discern between A and B"
+  ],
+  "related": [
+   "discrete",
+   "discretion",
+   "concern",
+   "certain"
+  ],
+  "tip": "see 보다 '가려서 알아보다'. 발음 [디썬]"
+ },
+ {
+  "id": "d18-D17",
+  "day": 18,
+  "level": 3,
+  "set": "D",
+  "family": "F8",
+  "word": "discriminate",
+  "pos": "verb",
+  "ipa": "/dɪˈskrɪmɪneɪt/",
+  "meaning_ko": "구별하다, 차별하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "crimin",
+     "type": "root",
+     "gloss": "구분 (discrimen ← cernere 가르다)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "사이를 갈라 구분하다 → 구별하다 → (사람을) 차별하다"
+  },
+  "example": {
+   "q": "How did you reduce alert fatigue?",
+   "a": "Our old monitors couldn't discriminate between real outages and brief network blips, so I added a five-minute window and paged only on sustained errors.",
+   "a_ko": "예전 모니터는 실제 장애와 잠깐의 네트워크 끊김을 구별하지 못해서, 5분 구간을 추가하고 오류가 지속될 때만 호출되게 했습니다."
+  },
+  "collocations": [
+   "discriminate between A and B",
+   "discriminate against",
+   "ability to discriminate"
+  ],
+  "related": [
+   "discern",
+   "discrete",
+   "discretion",
+   "concern"
+  ],
+  "tip": "discriminate against 는 '차별하다'(부정). 기술 맥락에선 between 과 써서 '구별하다'"
+ },
+ {
+  "id": "d18-D18",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "criteria",
+  "pos": "noun",
+  "ipa": "/kraɪˈtɪriə/",
+  "meaning_ko": "기준 (criterion 의 복수)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "crit",
+     "type": "root",
+     "gloss": "가르다·판단하다 (그리스어 krinein)"
+    },
+    {
+     "text": "eria",
+     "type": "suffix",
+     "gloss": "~하는 수단 (-terion 의 복수)"
+    }
+   ],
+   "story": "판단하는 수단 → 가르는 잣대 → 기준"
+  },
+  "example": {
+   "q": "How do you choose a library for a project?",
+   "a": "My main criteria are maintenance activity, documentation quality, and the license.",
+   "a_ko": "주요 기준은 유지보수 활발도, 문서 품질, 라이선스입니다."
+  },
+  "collocations": [
+   "selection criteria",
+   "acceptance criteria",
+   "meet the criteria"
+  ],
+  "related": [
+   "critical",
+   "crisis",
+   "criticism",
+   "critique"
+  ],
+  "tip": "criteria 는 복수, 하나는 criterion. acceptance criteria(인수 조건)는 애자일 필수어"
+ },
+ {
+  "id": "d18-D19",
+  "day": 18,
+  "level": 1,
+  "set": "D",
+  "family": "F8",
+  "word": "criticism",
+  "pos": "noun",
+  "ipa": "/ˈkrɪtəsɪzəm/",
+  "meaning_ko": "비판, 지적",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "crit",
+     "type": "root",
+     "gloss": "가르다·판단하다 (krinein)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ism",
+     "type": "suffix",
+     "gloss": "~하는 일"
+    }
+   ],
+   "story": "판단하는 사람(critic)의 일 → 잘잘못을 가림 → 비판"
+  },
+  "example": {
+   "q": "How do you take negative feedback?",
+   "a": "I welcome constructive criticism, because it shows me what I can't see myself.",
+   "a_ko": "건설적인 비판은 환영합니다. 제가 스스로 보지 못하는 부분을 알려 주니까요."
+  },
+  "collocations": [
+   "constructive criticism",
+   "take criticism",
+   "open to criticism"
+  ],
+  "related": [
+   "critique",
+   "critical",
+   "criteria",
+   "crisis"
+  ],
+  "tip": "동사는 criticize. 말로만 하지 말고 비판을 반영한 예시를 붙이기"
+ },
+ {
+  "id": "d18-D20",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "critique",
+  "pos": "verb",
+  "ipa": "/krɪˈtiːk/",
+  "meaning_ko": "평가하다, 비평하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "crit",
+     "type": "root",
+     "gloss": "가르다·판단하다 (krinein)"
+    },
+    {
+     "text": "ique",
+     "type": "suffix",
+     "gloss": "~하는 기술 (프랑스어)"
+    }
+   ],
+   "story": "판단하는 기술 → 장단점을 가려 평가하다"
+  },
+  "example": {
+   "q": "How do you give feedback on a colleague's design?",
+   "a": "I critique the design, not the person, and I always pair each concern with a concrete alternative.",
+   "a_ko": "사람이 아니라 설계를 평가하고, 우려를 말할 때는 항상 구체적인 대안을 함께 제시합니다."
+  },
+  "collocations": [
+   "design critique",
+   "offer a critique",
+   "critique a proposal"
+  ],
+  "related": [
+   "criticism",
+   "critical",
+   "criteria",
+   "crisis"
+  ],
+  "tip": "criticize 보다 중립적 — '분석해서 평가하다'. 발음 [크리티크]"
+ },
+ {
+  "id": "d18-D21",
+  "day": 18,
+  "level": 3,
+  "set": "D",
+  "family": "F8",
+  "word": "epitome",
+  "pos": "noun",
+  "ipa": "/ɪˈpɪtəmi/",
+  "meaning_ko": "전형, 본보기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "epi",
+     "type": "prefix",
+     "gloss": "위에, 덧붙여 (그리스어)"
+    },
+    {
+     "text": "tome",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    }
+   ],
+   "story": "잘라 줄인 것(요약본) → 핵심만 담은 것 → 전형·본보기"
+  },
+  "example": {
+   "q": "Who has influenced you most as an engineer?",
+   "a": "My first tech lead was the epitome of calm leadership; during a major outage she kept everyone focused, and I've modeled my own incident style on her.",
+   "a_ko": "첫 테크 리드가 침착한 리더십의 전형이었습니다. 큰 장애 때 모두를 집중시켰고, 제 장애 대응 방식도 그분을 본보기로 삼았습니다."
+  },
+  "collocations": [
+   "the epitome of",
+   "the very epitome of",
+   "epitome of professionalism"
+  ],
+  "related": [
+   "anatomy",
+   "atomic",
+   "dichotomy",
+   "atom"
+  ],
+  "tip": "발음 주의 [이피터미] — '에피톰'이 아님"
+ },
+ {
+  "id": "d18-D22",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "tally",
+  "pos": "verb",
+  "ipa": "/ˈtæli/",
+  "meaning_ko": "집계하다, 세다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tally",
+     "type": "root",
+     "gloss": "눈금 막대 (talea '잘라 낸 가지')"
+    }
+   ],
+   "story": "잘라 낸 막대에 눈금을 새겨 셈 → 수를 세어 기록하다 → 집계하다"
+  },
+  "example": {
+   "q": "How did you decide which errors to fix first?",
+   "a": "I tallied the errors by type over a week, and three types accounted for eighty percent of user complaints.",
+   "a_ko": "일주일 동안 오류를 유형별로 집계해 보니, 세 가지 유형이 사용자 불만의 80%를 차지했습니다."
+  },
+  "collocations": [
+   "tally up",
+   "keep a tally",
+   "tally the results"
+  ],
+  "related": [
+   "tailor",
+   "detail",
+   "retail",
+   "entail"
+  ],
+  "tip": "keep a tally = 하나씩 표시해 가며 개수를 세다"
+ },
+ {
+  "id": "d18-D23",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "solve for",
+  "pos": "phrasal verb",
+  "ipa": "/ˈsɑːlv fɔːr/",
+  "meaning_ko": "~을 목표로 풀다, ~을 최적화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "solve",
+     "type": "root",
+     "gloss": "풀다 (solvere)"
+    },
+    {
+     "text": "for",
+     "type": "part",
+     "gloss": "~을 위해"
+    }
+   ],
+   "story": "방정식에서 x 를 구하다(solve for x) → 특정 목표를 기준으로 문제를 풀다"
+  },
+  "example": {
+   "q": "What was the main goal of your redesign?",
+   "a": "We were solving for latency, not cost, so we kept the extra cache layer even though it raised our bill slightly.",
+   "a_ko": "비용이 아니라 지연 시간을 줄이는 게 목표여서, 비용이 조금 늘어도 캐시 계층을 유지했습니다."
+  },
+  "collocations": [
+   "solve for scale",
+   "solve for latency",
+   "solve for the user"
+  ],
+  "related": [
+   "solve",
+   "solution",
+   "resolve",
+   "dissolve"
+  ],
+  "tip": "미국 테크 회사 구어. What are we solving for? = 우리가 진짜 풀려는 게 뭐죠?"
+ },
+ {
+  "id": "d18-D24",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "postmortem",
+  "pos": "noun",
+  "ipa": "/ˌpoʊstˈmɔːrtəm/",
+  "meaning_ko": "사후 분석, 포스트모템",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "post",
+     "type": "part",
+     "gloss": "뒤에 (라틴어)"
+    },
+    {
+     "text": "mortem",
+     "type": "part",
+     "gloss": "죽음 (라틴어)"
+    }
+   ],
+   "story": "죽은 뒤의 검시 → 장애가 끝난 뒤의 원인 분석 회고"
+  },
+  "example": {
+   "q": "What happens after an incident on your team?",
+   "a": "We write a blameless postmortem within three days, focusing on what failed in the system rather than who made the mistake.",
+   "a_ko": "3일 안에 비난 없는 포스트모템을 작성하고, 누가 실수했는지보다 시스템의 무엇이 실패했는지에 집중합니다."
+  },
+  "collocations": [
+   "blameless postmortem",
+   "write a postmortem",
+   "postmortem review"
+  ],
+  "related": [
+   "outage",
+   "runbook",
+   "war room",
+   "blast radius"
+  ],
+  "tip": "post-mortem 으로도 씀. blameless(비난 없는)와 짝으로 외우기"
+ },
+ {
+  "id": "d18-D25",
+  "day": 18,
+  "level": 2,
+  "set": "D",
+  "family": "F8",
+  "word": "failover",
+  "pos": "noun",
+  "ipa": "/ˈfeɪloʊvər/",
+  "meaning_ko": "장애 조치, 페일오버",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fail",
+     "type": "part",
+     "gloss": "실패하다"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어가다"
+    }
+   ],
+   "story": "실패하면(fail) 넘어가기(over) → 예비 시스템으로 자동 전환"
+  },
+  "example": {
+   "q": "How did you make the database highly available?",
+   "a": "We set up automatic failover to a standby replica, and we test it every month so we know it really works.",
+   "a_ko": "대기 복제본으로 자동 장애 조치를 설정했고, 실제로 동작하는지 매달 테스트합니다."
+  },
+  "collocations": [
+   "automatic failover",
+   "failover test",
+   "fail over to"
+  ],
+  "related": [
+   "outage",
+   "downtime",
+   "uptime",
+   "blast radius"
+  ],
+  "tip": "명사는 failover 한 단어, 동사는 fail over 두 단어"
+ }
+]

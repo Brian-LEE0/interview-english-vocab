@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "d20-A01",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "independent",
+    "pos": "adjective",
+    "ipa": "/ˌɪndɪˈpendənt/",
+    "meaning_ko": "독립적인, 스스로 하는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "매달리다 (pendere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "아래에 매달려 있지 않은 → 남에게 기대지 않는 → 독립적인"
+    },
+    "example": {
+      "q": "How do you work when your manager is not around?",
+      "a": "I'm quite independent, but I share progress every day.",
+      "a_ko": "꽤 독립적으로 일하는 편이지만, 진행 상황은 매일 공유합니다."
+    },
+    "collocations": [
+      "work independently",
+      "independent of",
+      "fully independent"
+    ],
+    "related": [
+      "depend",
+      "dependable",
+      "pending",
+      "suspend"
+    ],
+    "tip": "'혼자 다 한다'가 아니라 '스스로 판단해 진행한다'는 느낌. 공유 습관을 같이 말하면 좋음"
+  },
+  {
+    "id": "d20-A02",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "dependable",
+    "pos": "adjective",
+    "ipa": "/dɪˈpendəbəl/",
+    "meaning_ko": "믿을 수 있는, 의지할 수 있는",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "매달리다 (pendere)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "아래에 매달릴 수 있는 → 기댈 수 있는 → 믿음직한"
+    },
+    "example": {
+      "q": "How would your teammates describe you?",
+      "a": "They would say I'm dependable, especially during release weeks.",
+      "a_ko": "특히 릴리스 주간에 믿고 맡길 수 있는 사람이라고 할 겁니다."
+    },
+    "collocations": [
+      "dependable teammate",
+      "highly dependable"
+    ],
+    "related": [
+      "depend",
+      "independent",
+      "dependency",
+      "pending"
+    ],
+    "tip": "reliable 과 비슷하지만 '사람'을 칭찬할 때 더 따뜻하게 들림"
+  },
+  {
+    "id": "d20-A03",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "appendix",
+    "pos": "noun",
+    "ipa": "/əˈpendɪks/",
+    "meaning_ko": "부록, 첨부 자료",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ap",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "매달다 (pendere)"
+        },
+        {
+          "text": "ix",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        }
+      ],
+      "story": "본문에 매달아 놓은 것 → 덧붙인 자료 → 부록"
+    },
+    "example": {
+      "q": "How do you document a complex design?",
+      "a": "I keep the main design doc short and move detailed benchmarks into an appendix, so reviewers can focus on the decision.",
+      "a_ko": "핵심 설계 문서는 짧게 유지하고 자세한 벤치마크는 부록으로 옮겨서, 리뷰어가 결정 사항에 집중할 수 있게 합니다."
+    },
+    "collocations": [
+      "in the appendix",
+      "see the appendix"
+    ],
+    "related": [
+      "append",
+      "pending",
+      "suspend",
+      "dependency"
+    ],
+    "tip": "복수형은 appendices 또는 appendixes. 문서 구조를 설명할 때 유용"
+  },
+  {
+    "id": "d20-A04",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "prepend",
+    "pos": "verb",
+    "ipa": "/priˈpend/",
+    "meaning_ko": "앞에 덧붙이다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "매달다 (append 에서)"
+        }
+      ],
+      "story": "append(뒤에 매달다)를 본떠 만든 말 → 앞에 매달다 → 앞에 붙이다"
+    },
+    "example": {
+      "q": "How did you make the logs easier to search?",
+      "a": "I prepended a request ID to every log line, so we could trace a single request across services.",
+      "a_ko": "모든 로그 줄 앞에 요청 ID 를 붙여서, 하나의 요청을 여러 서비스에 걸쳐 추적할 수 있게 했습니다."
+    },
+    "collocations": [
+      "prepend A to B",
+      "prepend a prefix"
+    ],
+    "related": [
+      "append",
+      "appendix",
+      "independent"
+    ],
+    "tip": "append 의 반대. 프로그래밍에서 생긴 말이라 일반 대화보다는 기술 설명에서 씀"
+  },
+  {
+    "id": "d20-A05",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "compensation",
+    "pos": "noun",
+    "ipa": "/ˌkɑːmpenˈseɪʃən/",
+    "meaning_ko": "보상, 급여·처우 (연봉+복리후생)",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pens",
+          "type": "root",
+          "gloss": "무게를 달다 (pensare ← pendere)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "양쪽을 함께 저울에 달다 → 균형을 맞추다 → 일한 만큼 갚아 주는 것 → 보상·처우"
+    },
+    "example": {
+      "q": "Can you tell me what you're expecting in terms of compensation?",
+      "a": "I'm looking at total compensation rather than base salary alone, so I'd like to understand the bonus and equity structure first.",
+      "a_ko": "기본급만이 아니라 총보상을 보고 있어서, 먼저 보너스와 주식 보상 구조를 알고 싶습니다."
+    },
+    "collocations": [
+      "total compensation",
+      "compensation package",
+      "equity compensation"
+    ],
+    "related": [
+      "compensate",
+      "pension",
+      "expense",
+      "stipend"
+    ],
+    "tip": "salary 는 연봉만, compensation 은 보너스·주식·복리후생까지 포함한 총처우"
+  },
+  {
+    "id": "d20-A06",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "compensate",
+    "pos": "verb",
+    "ipa": "/ˈkɑːmpenseɪt/",
+    "meaning_ko": "보완하다, 보상하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "pens",
+          "type": "root",
+          "gloss": "무게를 달다 (pensare)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "함께 저울에 달아 균형을 맞추다 → 모자란 쪽을 채우다 → 보완하다"
+    },
+    "example": {
+      "q": "What's one weakness you have?",
+      "a": "My public speaking isn't strong yet, so I compensate by preparing clear slides and rehearsing before every demo.",
+      "a_ko": "아직 발표가 강하지 않아서, 매번 데모 전에 명확한 슬라이드를 준비하고 리허설하는 것으로 보완합니다."
+    },
+    "collocations": [
+      "compensate for",
+      "be compensated"
+    ],
+    "related": [
+      "compensation",
+      "pension",
+      "expense"
+    ],
+    "tip": "약점 질문에서 'compensate for ~' 로 보완 방법을 말하면 깔끔함"
+  },
+  {
+    "id": "d20-A07",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "poised",
+    "pos": "adjective",
+    "ipa": "/pɔɪzd/",
+    "meaning_ko": "~할 준비가 된, 침착한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pois",
+          "type": "root",
+          "gloss": "무게 (pensum ← pendere)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "무게를 달아 균형이 잡힌 → 흔들리지 않는 → 침착한, 바로 움직일 태세인"
+    },
+    "example": {
+      "q": "Why do you think this is the right time to join us?",
+      "a": "Your team is poised to launch in new markets, and my experience with localization would help right away.",
+      "a_ko": "팀이 새로운 시장 진출을 앞두고 있고, 제 현지화 경험이 바로 도움이 될 수 있다고 생각합니다."
+    },
+    "collocations": [
+      "poised to do",
+      "poised for growth",
+      "calm and poised"
+    ],
+    "related": [
+      "pension",
+      "compensate",
+      "penchant"
+    ],
+    "tip": "'be poised to + 동사' = 막 ~하려는 참이다. 회사 상황을 말할 때 세련되게 들림"
+  },
+  {
+    "id": "d20-A08",
+    "day": 20,
+    "level": 3,
+    "set": "A",
+    "family": "F10",
+    "word": "expenditure",
+    "pos": "noun",
+    "ipa": "/ɪkˈspendɪtʃər/",
+    "meaning_ko": "지출, 비용",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ex",
+          "type": "prefix",
+          "gloss": "밖으로"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "달다, 치르다 (pendere)"
+        },
+        {
+          "text": "iture",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "저울에 달아 밖으로 내주다 → 돈을 치르다 → 지출"
+    },
+    "example": {
+      "q": "Have you ever worked on reducing infrastructure costs?",
+      "a": "Our cloud expenditure grew 40 percent in one year, so I set up per-team cost dashboards and we cut it by a quarter within six months.",
+      "a_ko": "클라우드 지출이 1년 만에 40% 늘어서, 팀별 비용 대시보드를 만들었고 6개월 안에 4분의 1을 줄였습니다."
+    },
+    "collocations": [
+      "cloud expenditure",
+      "capital expenditure",
+      "reduce expenditure"
+    ],
+    "related": [
+      "expense",
+      "expensive",
+      "spend",
+      "compensation"
+    ],
+    "tip": "expense 보다 격식 있는 말. capital expenditure(CapEx) 처럼 회계 용어로도 씀"
+  },
+  {
+    "id": "d20-A09",
+    "day": 20,
+    "level": 3,
+    "set": "A",
+    "family": "F10",
+    "word": "stipend",
+    "pos": "noun",
+    "ipa": "/ˈstaɪpend/",
+    "meaning_ko": "(정액) 지원금, 수당",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sti",
+          "type": "part",
+          "gloss": "작은 동전 (stips)"
+        },
+        {
+          "text": "pend",
+          "type": "root",
+          "gloss": "달다, 치르다 (pendere)"
+        }
+      ],
+      "story": "작은 돈을 달아서 치르다 → 정기적으로 주는 일정한 돈 → 수당·지원금"
+    },
+    "example": {
+      "q": "Our benefits include a learning stipend. Is that important to you?",
+      "a": "Yes, very much. If the learning stipend could cover one conference a year, that would matter more to me than a small increase in base pay.",
+      "a_ko": "네, 아주 중요합니다. 학습 지원금으로 1년에 컨퍼런스 하나를 갈 수 있다면, 기본급이 조금 오르는 것보다 저에게 더 의미가 있습니다."
+    },
+    "collocations": [
+      "learning stipend",
+      "home office stipend",
+      "monthly stipend"
+    ],
+    "related": [
+      "compensation",
+      "pension",
+      "expenditure"
+    ],
+    "tip": "발음은 '스타이펜드'. 재택 장비·교육비처럼 용도가 정해진 정액 지원을 말할 때 씀"
+  },
+  {
+    "id": "d20-A10",
+    "day": 20,
+    "level": 3,
+    "set": "A",
+    "family": "F10",
+    "word": "penchant",
+    "pos": "noun",
+    "ipa": "/ˈpentʃənt/",
+    "meaning_ko": "(무언가를 좋아하는) 성향, 기호",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pench",
+          "type": "root",
+          "gloss": "기울다 (pencher ← pendere)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "매달려 한쪽으로 기울다 → 마음이 한쪽으로 기우는 것 → 성향, 좋아하는 경향"
+    },
+    "example": {
+      "q": "What kind of work energizes you?",
+      "a": "I have a penchant for untangling legacy code; last year I rewrote our billing module and cut its bug reports by more than half.",
+      "a_ko": "레거시 코드를 풀어내는 일을 좋아하는 편입니다. 작년에 결제 모듈을 다시 작성해서 버그 리포트를 절반 넘게 줄였습니다."
+    },
+    "collocations": [
+      "have a penchant for",
+      "a penchant for detail"
+    ],
+    "related": [
+      "propensity",
+      "pension",
+      "poised"
+    ],
+    "tip": "'have a penchant for + 명사/-ing' 형태. like 보다 '타고난 성향'이라는 느낌"
+  },
+  {
+    "id": "d20-A11",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "invalid",
+    "pos": "adjective",
+    "ipa": "/ɪnˈvælɪd/",
+    "meaning_ko": "유효하지 않은, 잘못된",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        },
+        {
+          "text": "id",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "힘이 없는 → 효력이 없는 → 유효하지 않은"
+    },
+    "example": {
+      "q": "How does your API handle bad input?",
+      "a": "It returns a clear error message for any invalid request.",
+      "a_ko": "유효하지 않은 요청에는 명확한 에러 메시지를 돌려줍니다."
+    },
+    "collocations": [
+      "invalid input",
+      "invalid token",
+      "mark as invalid"
+    ],
+    "related": [
+      "valid",
+      "validate",
+      "invalidate",
+      "value"
+    ],
+    "tip": "형용사 /ɪnˈvælɪd/(유효하지 않은)와 명사 /ˈɪnvəlɪd/(환자)는 강세가 다름"
+  },
+  {
+    "id": "d20-A12",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "key-value",
+    "pos": "adjective",
+    "ipa": "/ˈkiː ˌvæljuː/",
+    "meaning_ko": "키-값 (형식의)",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "key-",
+          "type": "part",
+          "gloss": "열쇠 (고대 영어)"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "값어치가 있다 (valere)"
+        },
+        {
+          "text": "ue",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        }
+      ],
+      "story": "열쇠(key)와 그에 맞는 값(value)의 짝 → 키로 값을 찾는 구조"
+    },
+    "example": {
+      "q": "Which database did you use for sessions?",
+      "a": "We used a key-value store, Redis, for fast session lookups.",
+      "a_ko": "빠른 세션 조회를 위해 키-값 저장소인 Redis 를 썼습니다."
+    },
+    "collocations": [
+      "key-value store",
+      "key-value pair"
+    ],
+    "related": [
+      "value",
+      "valid",
+      "evaluation",
+      "invaluable"
+    ],
+    "tip": "보통 key-value store / key-value pair 처럼 명사 앞에 붙여 씀"
+  },
+  {
+    "id": "d20-A13",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "evaluation",
+    "pos": "noun",
+    "ipa": "/ɪˌvæljuˈeɪʃən/",
+    "meaning_ko": "평가",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "valu",
+          "type": "root",
+          "gloss": "가치 (valere)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "가치를 밖으로 끌어내 보다 → 값어치를 따져 보는 것 → 평가"
+    },
+    "example": {
+      "q": "How did your last performance evaluation go?",
+      "a": "My last evaluation praised my code reviews and mentoring.",
+      "a_ko": "지난 평가에서 코드 리뷰와 멘토링을 좋게 평가받았습니다."
+    },
+    "collocations": [
+      "performance evaluation",
+      "self-evaluation"
+    ],
+    "related": [
+      "evaluate",
+      "value",
+      "valid",
+      "invaluable"
+    ],
+    "tip": "동사 evaluate 는 Day 10. 인사평가는 performance evaluation / review 둘 다 씀"
+  },
+  {
+    "id": "d20-A14",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "invaluable",
+    "pos": "adjective",
+    "ipa": "/ɪnˈvæljuəbəl/",
+    "meaning_ko": "매우 귀중한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "valu",
+          "type": "root",
+          "gloss": "값을 매기다 (valere)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "값을 매길 수 없을 만큼 → 너무 귀중한"
+    },
+    "example": {
+      "q": "What did you learn from your first job?",
+      "a": "Working next to senior engineers was invaluable, because I learned how they break big problems into small, safe steps.",
+      "a_ko": "시니어 엔지니어 옆에서 일한 경험이 정말 귀중했습니다. 큰 문제를 작고 안전한 단계로 나누는 방법을 배웠기 때문입니다."
+    },
+    "collocations": [
+      "invaluable experience",
+      "prove invaluable"
+    ],
+    "related": [
+      "valuable",
+      "value",
+      "evaluation",
+      "available"
+    ],
+    "tip": "주의: '가치 없는'이 아니라 '값을 못 매길 만큼 귀중한'. 가치 없는 = worthless"
+  },
+  {
+    "id": "d20-A15",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "invalidate",
+    "pos": "verb",
+    "ipa": "/ɪnˈvælɪdeɪt/",
+    "meaning_ko": "무효로 하다, (캐시를) 무효화하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        },
+        {
+          "text": "id",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "효력이 없게 만들다 → 무효로 하다 → 낡은 캐시를 버리다"
+    },
+    "example": {
+      "q": "How did you keep cached data consistent?",
+      "a": "We invalidate the cache whenever a product is updated, so users never see stale prices for more than a second.",
+      "a_ko": "상품이 수정될 때마다 캐시를 무효화해서, 사용자가 1초 이상 오래된 가격을 보지 않게 했습니다."
+    },
+    "collocations": [
+      "invalidate the cache",
+      "invalidate a session",
+      "invalidate an assumption"
+    ],
+    "related": [
+      "invalid",
+      "valid",
+      "validate",
+      "validation"
+    ],
+    "tip": "cache invalidation 은 '어려운 문제'의 대명사. 가정(assumption)을 뒤집을 때도 씀"
+  },
+  {
+    "id": "d20-A16",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "validation",
+    "pos": "noun",
+    "ipa": "/ˌvælɪˈdeɪʃən/",
+    "meaning_ko": "검증, 유효성 검사",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        },
+        {
+          "text": "id",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "힘(효력)이 있음을 확인하는 것 → 검증"
+    },
+    "example": {
+      "q": "Where do you put input checks in your services?",
+      "a": "I do validation at the API boundary, so bad data is rejected early and the business logic stays simple.",
+      "a_ko": "입력 검증은 API 경계에서 해서, 잘못된 데이터를 일찍 걸러내고 비즈니스 로직은 단순하게 유지합니다."
+    },
+    "collocations": [
+      "input validation",
+      "data validation",
+      "schema validation"
+    ],
+    "related": [
+      "validate",
+      "valid",
+      "invalid",
+      "validator"
+    ],
+    "tip": "동사 validate 는 Day 10. 사람에게 쓰면 '인정받는 느낌'이란 뜻도 있음"
+  },
+  {
+    "id": "d20-A17",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "validator",
+    "pos": "noun",
+    "ipa": "/ˈvælɪdeɪtər/",
+    "meaning_ko": "검증기, 검사 도구",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        },
+        {
+          "text": "id",
+          "type": "suffix",
+          "gloss": "~한"
+        },
+        {
+          "text": "ator",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "효력이 있는지 확인하는 것 → 검증기"
+    },
+    "example": {
+      "q": "How do you catch configuration mistakes before deploying?",
+      "a": "I added a schema validator to our CI pipeline, and it now blocks any config file that's missing required fields.",
+      "a_ko": "CI 파이프라인에 스키마 검증기를 추가해서, 지금은 필수 항목이 빠진 설정 파일을 모두 막아 줍니다."
+    },
+    "collocations": [
+      "schema validator",
+      "custom validator"
+    ],
+    "related": [
+      "validation",
+      "validate",
+      "valid",
+      "invalidate"
+    ],
+    "tip": "validation(검증 행위)과 validator(검증하는 도구·코드)를 구별해서 쓰기"
+  },
+  {
+    "id": "d20-A18",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "value proposition",
+    "pos": "noun",
+    "ipa": "/ˈvæljuː ˌprɑːpəˈzɪʃən/",
+    "meaning_ko": "가치 제안, 내세울 강점",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "값어치가 있다 (valere)"
+        },
+        {
+          "text": "ue",
+          "type": "suffix",
+          "gloss": "(명사 어미)"
+        },
+        {
+          "text": " proposition",
+          "type": "part",
+          "gloss": "제안 (pro+ponere)"
+        }
+      ],
+      "story": "가치 있는 것을 앞에 내놓음 → 상대에게 줄 수 있는 가치를 한마디로 제안함"
+    },
+    "example": {
+      "q": "Why should we hire you over other candidates?",
+      "a": "My value proposition is simple: I've built payment systems at scale, and I can explain them clearly to non-engineers.",
+      "a_ko": "제가 드릴 수 있는 가치는 간단합니다. 대규모 결제 시스템을 만들어 봤고, 엔지니어가 아닌 분들께도 명확하게 설명할 수 있습니다."
+    },
+    "collocations": [
+      "unique value proposition",
+      "clear value proposition"
+    ],
+    "related": [
+      "value",
+      "invaluable",
+      "evaluation"
+    ],
+    "tip": "'왜 당신을 뽑아야 하나' 질문에 자신을 제품처럼 소개할 때 쓰는 표현"
+  },
+  {
+    "id": "d20-A19",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "prevalent",
+    "pos": "adjective",
+    "ipa": "/ˈprevələnt/",
+    "meaning_ko": "널리 퍼진, 흔한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에, 더 (prae)"
+        },
+        {
+          "text": "val",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        },
+        {
+          "text": "ent",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "더 힘이 세다 → 우세하다 → 널리 퍼져 있는"
+    },
+    "example": {
+      "q": "What security issues do you see most often?",
+      "a": "Leaked API keys are still prevalent, so I added secret scanning to every repository on my team.",
+      "a_ko": "API 키 유출이 여전히 흔해서, 우리 팀 모든 저장소에 비밀 정보 스캔을 추가했습니다."
+    },
+    "collocations": [
+      "prevalent in",
+      "increasingly prevalent"
+    ],
+    "related": [
+      "prevail",
+      "valid",
+      "value",
+      "available"
+    ],
+    "tip": "common 보다 격식 있음. 문제·현상이 '널리 퍼져 있다'고 말할 때"
+  },
+  {
+    "id": "d20-A20",
+    "day": 20,
+    "level": 3,
+    "set": "A",
+    "family": "F10",
+    "word": "prevail",
+    "pos": "verb",
+    "ipa": "/prɪˈveɪl/",
+    "meaning_ko": "이기다, 우세하다, (의견이) 받아들여지다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "앞에, 더 (prae)"
+        },
+        {
+          "text": "vail",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        }
+      ],
+      "story": "남보다 더 힘이 세다 → 이기다 → 의견이 받아들여지다"
+    },
+    "example": {
+      "q": "Tell me about a disagreement with your team lead.",
+      "a": "We disagreed on rewriting the service, but after I shared load-test data showing a 3x gain, my proposal prevailed and we shipped it in two sprints.",
+      "a_ko": "서비스 재작성을 두고 의견이 달랐지만, 3배 성능 향상을 보여 주는 부하 테스트 결과를 공유한 뒤 제 제안이 받아들여졌고 두 스프린트 만에 출시했습니다."
+    },
+    "collocations": [
+      "common sense prevailed",
+      "prevail over",
+      "prevail on someone to do"
+    ],
+    "related": [
+      "prevalent",
+      "avail",
+      "available",
+      "value"
+    ],
+    "tip": "'내가 이겼다'보다 '데이터 덕에 제안이 채택됐다'는 식으로 말하면 겸손하게 들림"
+  },
+  {
+    "id": "d20-A21",
+    "day": 20,
+    "level": 3,
+    "set": "A",
+    "family": "F10",
+    "word": "avail",
+    "pos": "noun",
+    "ipa": "/əˈveɪl/",
+    "meaning_ko": "소용, 도움",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "a",
+          "type": "prefix",
+          "gloss": "~에 (ad 로 추정)"
+        },
+        {
+          "text": "vail",
+          "type": "root",
+          "gloss": "힘이 있다 (valere)"
+        }
+      ],
+      "story": "힘이 되다 → 도움이 되다 → 소용"
+    },
+    "example": {
+      "q": "Tell me about a time a fix didn't work.",
+      "a": "We restarted the pods and scaled up the database, to no avail; the real cause was a DNS timeout, which I found by tracing one request end to end.",
+      "a_ko": "파드를 재시작하고 DB 를 증설해 봤지만 소용이 없었습니다. 진짜 원인은 DNS 타임아웃이었고, 요청 하나를 끝까지 추적해서 찾아냈습니다."
+    },
+    "collocations": [
+      "to no avail",
+      "of little avail",
+      "avail oneself of"
+    ],
+    "related": [
+      "available",
+      "prevail",
+      "value",
+      "valid"
+    ],
+    "tip": "'to no avail' (소용없었다)를 한 덩어리로 외우기. STAR 의 실패 장면에서 유용"
+  },
+  {
+    "id": "d20-A22",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "estimate",
+    "pos": "verb",
+    "ipa": "/ˈestɪmeɪt/",
+    "meaning_ko": "추정하다, 견적을 내다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "estim",
+          "type": "root",
+          "gloss": "값을 매기다 (aestimare)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "값을 매기다 → 대략 계산하다 → 추정하다"
+    },
+    "example": {
+      "q": "How do you plan your work in a sprint?",
+      "a": "I estimate each task in story points with my team.",
+      "a_ko": "팀과 함께 각 작업을 스토리 포인트로 추정합니다."
+    },
+    "collocations": [
+      "estimate the effort",
+      "rough estimate",
+      "estimated time"
+    ],
+    "related": [
+      "underestimate",
+      "esteem",
+      "evaluation",
+      "value"
+    ],
+    "tip": "동사는 /-meɪt/, 명사(견적)는 /-mət/ 로 끝 발음이 다름"
+  },
+  {
+    "id": "d20-A23",
+    "day": 20,
+    "level": 2,
+    "set": "A",
+    "family": "F10",
+    "word": "underestimate",
+    "pos": "verb",
+    "ipa": "/ˌʌndərˈestɪmeɪt/",
+    "meaning_ko": "과소평가하다, 너무 적게 잡다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "under",
+          "type": "prefix",
+          "gloss": "아래로 (고대 영어)"
+        },
+        {
+          "text": "estim",
+          "type": "root",
+          "gloss": "값을 매기다 (aestimare)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "실제보다 아래로 값을 매기다 → 과소평가하다"
+    },
+    "example": {
+      "q": "Tell me about a mistake you made on a project.",
+      "a": "I underestimated the data migration, so now I add a buffer and break risky tasks into smaller pieces before I commit to a date.",
+      "a_ko": "데이터 이전 작업을 너무 적게 잡았던 적이 있어서, 이제는 일정을 약속하기 전에 여유를 두고 위험한 작업을 작게 나눕니다."
+    },
+    "collocations": [
+      "underestimate the complexity",
+      "never underestimate"
+    ],
+    "related": [
+      "estimate",
+      "esteem",
+      "evaluation",
+      "value"
+    ],
+    "tip": "실수 질문의 단골 답. 무엇을 배웠는지 바로 이어 말하기"
+  },
+  {
+    "id": "d20-A24",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "take-home pay",
+    "pos": "noun",
+    "ipa": "/ˈteɪk hoʊm ˌpeɪ/",
+    "meaning_ko": "실수령액 (세후 급여)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "take-",
+          "type": "part",
+          "gloss": "가져가다"
+        },
+        {
+          "text": "home ",
+          "type": "part",
+          "gloss": "집"
+        },
+        {
+          "text": "pay",
+          "type": "part",
+          "gloss": "급여"
+        }
+      ],
+      "story": "집에 가져가는 급여 → 세금·보험을 뗀 실제로 받는 돈"
+    },
+    "example": {
+      "q": "Is the salary range we discussed okay for you?",
+      "a": "Yes, but I'd like to check the take-home pay after tax.",
+      "a_ko": "네, 다만 세후 실수령액을 확인해 보고 싶습니다."
+    },
+    "collocations": [
+      "monthly take-home pay",
+      "net take-home pay"
+    ],
+    "related": [
+      "base pay",
+      "compensation",
+      "salary"
+    ],
+    "tip": "gross(세전) ↔ net / take-home(세후). 이직할 때 실수령액 비교에 꼭 필요"
+  },
+  {
+    "id": "d20-A25",
+    "day": 20,
+    "level": 1,
+    "set": "A",
+    "family": "F10",
+    "word": "base pay",
+    "pos": "noun",
+    "ipa": "/ˈbeɪs ˌpeɪ/",
+    "meaning_ko": "기본급",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "base ",
+          "type": "part",
+          "gloss": "바탕"
+        },
+        {
+          "text": "pay",
+          "type": "part",
+          "gloss": "급여"
+        }
+      ],
+      "story": "바탕이 되는 급여 → 보너스·수당을 뺀 기본급"
+    },
+    "example": {
+      "q": "What's more important to you, base pay or bonus?",
+      "a": "I prefer a stable base pay because it's easier to plan around.",
+      "a_ko": "생활 계획을 세우기 쉬워서 안정적인 기본급을 더 선호합니다."
+    },
+    "collocations": [
+      "base pay increase",
+      "base pay plus bonus"
+    ],
+    "related": [
+      "take-home pay",
+      "compensation",
+      "salary"
+    ],
+    "tip": "base salary 와 같은 뜻. 보너스·주식과 대비해서 말할 때 씀"
+  }
+]

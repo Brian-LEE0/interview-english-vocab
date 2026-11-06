@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "d17-D01",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "flexible",
+    "pos": "adjective",
+    "ipa": "/ˈfleksəbəl/",
+    "meaning_ko": "유연한, 융통성 있는",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "flex",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        },
+        {
+          "text": "ible",
+          "type": "suffix",
+          "gloss": "~할 수 있는"
+        }
+      ],
+      "story": "라틴어 flexibilis(구부릴 수 있는) → 잘 휘는 → 융통성 있는"
+    },
+    "example": {
+      "q": "When would you be able to start?",
+      "a": "I'm flexible on the start date, but the first week of April would be ideal.",
+      "a_ko": "입사일은 조정할 수 있지만, 4월 첫째 주가 가장 좋겠습니다."
+    },
+    "collocations": [
+      "flexible on",
+      "flexible hours",
+      "flexible schedule"
+    ],
+    "related": [
+      "flexibility",
+      "reflect",
+      "deflect",
+      "inflection"
+    ],
+    "tip": "flectere(구부리다)는 '돌리다·뻗다' 가족의 보조 어근. be flexible on + 조건 으로 협상 여지를 보여 줌"
+  },
+  {
+    "id": "d17-D02",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "reflect",
+    "pos": "verb",
+    "ipa": "/rɪˈflekt/",
+    "meaning_ko": "반영하다, 되돌아보다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로"
+        },
+        {
+          "text": "flect",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        }
+      ],
+      "story": "라틴어 reflectere(뒤로 구부리다) → 빛을 되돌려 비추다 → 반영하다, 돌이켜 생각하다"
+    },
+    "example": {
+      "q": "What are your salary expectations?",
+      "a": "I'd like the offer to reflect my eight years of backend experience and the on-call duties.",
+      "a_ko": "제 8년간의 백엔드 경력과 온콜 업무가 오퍼에 반영되었으면 합니다."
+    },
+    "collocations": [
+      "reflect experience",
+      "reflect on",
+      "reflect the market"
+    ],
+    "related": [
+      "reflection",
+      "flexible",
+      "deflect"
+    ],
+    "tip": "'경력이 연봉에 반영되다'는 the offer reflects my experience. reflect on 은 '되돌아보다'"
+  },
+  {
+    "id": "d17-D03",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "flexibility",
+    "pos": "noun",
+    "ipa": "/ˌfleksəˈbɪləti/",
+    "meaning_ko": "유연성, 융통성",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "flex",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        },
+        {
+          "text": "ib",
+          "type": "suffix",
+          "gloss": "~할 수 있는 (ible)"
+        },
+        {
+          "text": "ility",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "flexible(구부릴 수 있는) + ity → 유연성"
+    },
+    "example": {
+      "q": "Our budget for the base salary is a bit lower than your expectation.",
+      "a": "I have some flexibility on the base salary if the stock grant or remote work options can make up the difference.",
+      "a_ko": "주식이나 원격 근무 조건으로 차이를 메울 수 있다면 기본급은 조금 양보할 수 있습니다."
+    },
+    "collocations": [
+      "some flexibility",
+      "flexibility on",
+      "work flexibility"
+    ],
+    "related": [
+      "flexible",
+      "reflect",
+      "reflection"
+    ],
+    "tip": "협상에서 '양보할 여지'를 보여 주되 조건(if ~)을 함께 붙이는 것이 요령"
+  },
+  {
+    "id": "d17-D04",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "reflection",
+    "pos": "noun",
+    "ipa": "/rɪˈflekʃən/",
+    "meaning_ko": "반영, 돌이켜 봄",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로"
+        },
+        {
+          "text": "flect",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "reflect(뒤로 구부리다, 되비추다) + ion → 되비친 모습 → 반영, 돌이켜 봄"
+    },
+    "example": {
+      "q": "What did you learn from that failed project?",
+      "a": "On reflection, I should have shown users a prototype much earlier, so now I share a demo within the first two weeks.",
+      "a_ko": "돌이켜 보니 사용자에게 프로토타입을 훨씬 일찍 보여 줬어야 했습니다. 그래서 지금은 첫 2주 안에 데모를 공유합니다."
+    },
+    "collocations": [
+      "on reflection",
+      "a reflection of",
+      "self-reflection"
+    ],
+    "related": [
+      "reflect",
+      "flexibility",
+      "retrospective"
+    ],
+    "tip": "On reflection, ~(돌이켜 보면)으로 실패 경험 답변을 시작하면 성숙한 인상. 자바의 리플렉션도 같은 단어"
+  },
+  {
+    "id": "d17-D05",
+    "day": 17,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "deflect",
+    "pos": "verb",
+    "ipa": "/dɪˈflekt/",
+    "meaning_ko": "(비판·질문을) 피하다, 돌리다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져, 비껴"
+        },
+        {
+          "text": "flect",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        }
+      ],
+      "story": "라틴어 deflectere(비껴 구부리다) → 방향을 딴 데로 돌리다 → 비판·책임을 피하다"
+    },
+    "example": {
+      "q": "How do you react when someone criticizes your design?",
+      "a": "I try not to deflect criticism; I ask what problem they see, and last year that feedback saved us from a costly schema change.",
+      "a_ko": "비판을 피하지 않으려 합니다. 어떤 문제가 보이는지 물어보는데, 작년에는 그 피드백 덕분에 비싼 스키마 변경을 피했습니다."
+    },
+    "collocations": [
+      "deflect criticism",
+      "deflect blame",
+      "deflect a question"
+    ],
+    "related": [
+      "reflect",
+      "flexible",
+      "inflection"
+    ],
+    "tip": "deflect blame(책임을 남에게 돌리다)은 면접관이 싫어하는 태도. '나는 그러지 않는다'는 맥락으로 쓰기"
+  },
+  {
+    "id": "d17-D06",
+    "day": 17,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "inflection point",
+    "pos": "phrase",
+    "ipa": "/ɪnˈflekʃən pɔɪnt/",
+    "meaning_ko": "변곡점, 전환점",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "flect",
+          "type": "root",
+          "gloss": "구부리다 (flectere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        },
+        {
+          "text": "point",
+          "type": "part",
+          "gloss": "점 (punctum)"
+        }
+      ],
+      "story": "라틴어 inflectere(안으로 구부리다) → 곡선이 휘는 방향이 바뀌는 점 → 상황이 크게 바뀌는 전환점"
+    },
+    "example": {
+      "q": "Why do you want to join us now?",
+      "a": "I think your company is at an inflection point, moving from one product to a platform, and that is exactly the kind of growth I want to be part of.",
+      "a_ko": "회사가 단일 제품에서 플랫폼으로 넘어가는 전환점에 있다고 생각하고, 그런 성장에 함께하고 싶습니다."
+    },
+    "collocations": [
+      "at an inflection point",
+      "reach an inflection point",
+      "career inflection point"
+    ],
+    "related": [
+      "reflect",
+      "deflect",
+      "flexible"
+    ],
+    "tip": "수학의 '변곡점'에서 온 비즈니스 표현. 지원 동기에서 회사의 성장 단계를 짚을 때 강력함"
+  },
+  {
+    "id": "d17-D07",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "involve",
+    "pos": "verb",
+    "ipa": "/ɪnˈvɑːlv/",
+    "meaning_ko": "포함하다, 참여시키다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "volve",
+          "type": "root",
+          "gloss": "말다, 굴리다 (volvere)"
+        }
+      ],
+      "story": "라틴어 involvere(안으로 말아 넣다) → 감싸 넣다 → 포함하다, 끌어들이다"
+    },
+    "example": {
+      "q": "What does your current job involve?",
+      "a": "My job involves building APIs and reviewing code for three junior developers.",
+      "a_ko": "API 를 만들고 주니어 개발자 세 명의 코드를 리뷰하는 일을 합니다."
+    },
+    "collocations": [
+      "involve doing",
+      "be involved in",
+      "get involved"
+    ],
+    "related": [
+      "involvement",
+      "evolve",
+      "revolve",
+      "volume"
+    ],
+    "tip": "involve + 동명사(-ing). '참여하다'는 be/get involved in"
+  },
+  {
+    "id": "d17-D08",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "involvement",
+    "pos": "noun",
+    "ipa": "/ɪnˈvɑːlvmənt/",
+    "meaning_ko": "참여, 관여",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "안으로"
+        },
+        {
+          "text": "volve",
+          "type": "root",
+          "gloss": "말다 (volvere)"
+        },
+        {
+          "text": "ment",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "involve(안으로 말아 넣다) + ment → 안에 들어가 있음 → 참여, 관여"
+    },
+    "example": {
+      "q": "How did you get product managers to care about tech debt?",
+      "a": "I asked for their involvement in sprint planning, so they could see how tech debt slowed down their own features.",
+      "a_ko": "스프린트 계획에 참여해 달라고 요청해서, 기술 부채가 자기 기능 개발을 얼마나 늦추는지 직접 보게 했습니다."
+    },
+    "collocations": [
+      "direct involvement",
+      "involvement in",
+      "early involvement"
+    ],
+    "related": [
+      "involve",
+      "evolution",
+      "revolve"
+    ],
+    "tip": "my involvement in the project(그 프로젝트에서 제가 맡은 부분)로 역할을 설명할 때도 씀"
+  },
+  {
+    "id": "d17-D09",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "evolve",
+    "pos": "verb",
+    "ipa": "/ɪˈvɑːlv/",
+    "meaning_ko": "발전하다, 진화하다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "volve",
+          "type": "root",
+          "gloss": "말다, 굴리다 (volvere)"
+        }
+      ],
+      "story": "라틴어 evolvere(말린 것을 밖으로 펼치다) → 펼쳐지며 자라다 → 발전하다"
+    },
+    "example": {
+      "q": "How has your system changed since you joined?",
+      "a": "It evolved from a single server into twelve services, so I also moved our deployments to Kubernetes.",
+      "a_ko": "서버 한 대에서 서비스 12개로 발전해서, 배포도 쿠버네티스로 옮겼습니다."
+    },
+    "collocations": [
+      "evolve into",
+      "evolve over time",
+      "constantly evolving"
+    ],
+    "related": [
+      "evolution",
+      "involve",
+      "revolve"
+    ],
+    "tip": "evolve from A into B 로 변화 과정을 설명. 역할이 커진 것도 my role evolved"
+  },
+  {
+    "id": "d17-D10",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "evolution",
+    "pos": "noun",
+    "ipa": "/ˌevəˈluːʃən/",
+    "meaning_ko": "발전, 진화",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "e",
+          "type": "prefix",
+          "gloss": "밖으로 (ex)"
+        },
+        {
+          "text": "volut",
+          "type": "root",
+          "gloss": "말다 (volvere 의 과거분사)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "라틴어 evolutio(두루마리를 펼침) → 펼쳐 나감 → 발전, 진화"
+    },
+    "example": {
+      "q": "How do you change a database schema without downtime?",
+      "a": "I plan schema evolution in small steps, adding new columns first and removing old ones only after every service has switched.",
+      "a_ko": "스키마 변경을 작은 단계로 계획해서, 새 컬럼을 먼저 추가하고 모든 서비스가 바꾼 뒤에야 옛 컬럼을 지웁니다."
+    },
+    "collocations": [
+      "schema evolution",
+      "natural evolution",
+      "the evolution of"
+    ],
+    "related": [
+      "evolve",
+      "revolution",
+      "involve"
+    ],
+    "tip": "schema evolution(스키마 진화)은 데이터 엔지니어링 단골 용어"
+  },
+  {
+    "id": "d17-D11",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "revolve",
+    "pos": "verb",
+    "ipa": "/rɪˈvɑːlv/",
+    "meaning_ko": "(~을) 중심으로 돌아가다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시, 뒤로"
+        },
+        {
+          "text": "volve",
+          "type": "root",
+          "gloss": "굴리다 (volvere)"
+        }
+      ],
+      "story": "라틴어 revolvere(다시 굴리다) → 빙빙 돌다 → ~을 중심으로 돌아가다"
+    },
+    "example": {
+      "q": "What was your main responsibility on that team?",
+      "a": "My work revolved around data quality, because every report the company used depended on our pipeline.",
+      "a_ko": "회사의 모든 보고서가 저희 파이프라인에 달려 있어서, 제 일은 데이터 품질을 중심으로 돌아갔습니다."
+    },
+    "collocations": [
+      "revolve around",
+      "everything revolves around"
+    ],
+    "related": [
+      "revolution",
+      "evolve",
+      "involve"
+    ],
+    "tip": "거의 항상 revolve around 로 씀. 업무의 중심을 한마디로 말할 때"
+  },
+  {
+    "id": "d17-D12",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "revolutionize",
+    "pos": "verb",
+    "ipa": "/ˌrevəˈluːʃənaɪz/",
+    "meaning_ko": "혁신하다, 완전히 바꾸다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "volut",
+          "type": "root",
+          "gloss": "굴리다 (volvere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "명사"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "라틴어 revolutio(다시 굴러 돎) → revolution(뒤집힘, 혁명) → ize → 완전히 바꾸다"
+    },
+    "example": {
+      "q": "How did containers change your work?",
+      "a": "Containers revolutionized how we test, because every developer could finally run the full stack on a laptop.",
+      "a_ko": "모든 개발자가 노트북에서 전체 스택을 돌릴 수 있게 되면서, 컨테이너가 테스트 방식을 완전히 바꿨습니다."
+    },
+    "collocations": [
+      "revolutionize the industry",
+      "revolutionize how",
+      "revolutionized the way"
+    ],
+    "related": [
+      "revolution",
+      "revolve",
+      "evolve"
+    ],
+    "tip": "자기 성과에 쓰면 과장으로 들릴 수 있음. 기술·도구가 바꾼 변화를 말할 때 쓰기"
+  },
+  {
+    "id": "d17-D13",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "volume",
+    "pos": "noun",
+    "ipa": "/ˈvɑːljuːm/",
+    "meaning_ko": "양, 처리량",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "volume",
+          "type": "root",
+          "gloss": "두루마리 (volumen, volvere 말다)"
+        }
+      ],
+      "story": "라틴어 volumen(말아 놓은 두루마리 책) → 책 한 권 → 부피 → 양"
+    },
+    "example": {
+      "q": "What was the scale of the system you built?",
+      "a": "It handled a volume of about two million orders a day, so we had to partition the order table by date.",
+      "a_ko": "하루 약 200만 건의 주문량을 처리해서, 주문 테이블을 날짜별로 파티션해야 했습니다."
+    },
+    "collocations": [
+      "high volume",
+      "traffic volume",
+      "data volume"
+    ],
+    "related": [
+      "evolve",
+      "involve",
+      "revolve"
+    ],
+    "tip": "'책 1권'(Vol. 1)과 같은 단어. 규모를 숫자로 말할 때 volume of + 숫자"
+  },
+  {
+    "id": "d17-D14",
+    "day": 17,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "convoluted",
+    "pos": "adjective",
+    "ipa": "/ˈkɑːnvəluːtɪd/",
+    "meaning_ko": "복잡하게 얽힌, 난해한",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "volut",
+          "type": "root",
+          "gloss": "말다 (volvere 의 과거분사)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "라틴어 convolutus(함께 둘둘 말린) → 꼬이고 얽힌 → 지나치게 복잡한"
+    },
+    "example": {
+      "q": "Tell me about a piece of code you're proud of improving.",
+      "a": "Our permission logic was so convoluted that nobody wanted to touch it, so I rewrote it as a simple rule table with tests.",
+      "a_ko": "권한 로직이 너무 복잡하게 얽혀서 아무도 손대려 하지 않았는데, 테스트가 있는 단순한 규칙 테이블로 다시 썼습니다."
+    },
+    "collocations": [
+      "convoluted logic",
+      "convoluted process",
+      "overly convoluted"
+    ],
+    "related": [
+      "evolution",
+      "involve",
+      "complicated"
+    ],
+    "tip": "complicated 보다 '쓸데없이 꼬였다'는 비판이 강함. 강세는 CON-vo-lu-ted"
+  },
+  {
+    "id": "d17-D15",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "control",
+    "pos": "noun",
+    "ipa": "/kənˈtroʊl/",
+    "meaning_ko": "통제, 관리",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "control",
+          "type": "root",
+          "gloss": "대조 장부로 확인하다 (contra 맞대어 + rotulus 두루마리)"
+        }
+      ],
+      "story": "중세 라틴어 contrarotulus(대조용 두루마리 장부) → 장부를 맞대어 확인하다 → 관리, 통제"
+    },
+    "example": {
+      "q": "How does your team manage code changes?",
+      "a": "We use Git for version control and review every change before merging.",
+      "a_ko": "버전 관리는 깃으로 하고, 머지하기 전에 모든 변경을 리뷰합니다."
+    },
+    "collocations": [
+      "version control",
+      "access control",
+      "quality control"
+    ],
+    "related": [
+      "roll",
+      "enroll",
+      "role",
+      "rotate"
+    ],
+    "tip": "rotulus(작은 바퀴, 두루마리)에서 온 말이라 roll·role 과 친척. version control 은 필수 표현"
+  },
+  {
+    "id": "d17-D16",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "enroll",
+    "pos": "verb",
+    "ipa": "/ɪnˈroʊl/",
+    "meaning_ko": "등록하다, 수강하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "en",
+          "type": "prefix",
+          "gloss": "안에 (in)"
+        },
+        {
+          "text": "roll",
+          "type": "root",
+          "gloss": "두루마리, 명부 (rotulus)"
+        }
+      ],
+      "story": "고대 프랑스어 enroller(명부 안에 적어 넣다, rolle < rotulus) → 등록하다"
+    },
+    "example": {
+      "q": "What are you doing to grow your skills?",
+      "a": "I enrolled in an online course on distributed systems last spring.",
+      "a_ko": "지난봄에 분산 시스템 온라인 강좌에 등록했습니다."
+    },
+    "collocations": [
+      "enroll in",
+      "be enrolled",
+      "enroll users"
+    ],
+    "related": [
+      "roll",
+      "control",
+      "role"
+    ],
+    "tip": "영국식 철자는 enrol. enroll in a course(강좌에 등록하다)"
+  },
+  {
+    "id": "d17-D17",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "role",
+    "pos": "noun",
+    "ipa": "/roʊl/",
+    "meaning_ko": "역할, 직무",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "role",
+          "type": "root",
+          "gloss": "두루마리 (rotulus, 프랑스어 rôle)"
+        }
+      ],
+      "story": "라틴어 rotulus(두루마리) → 프랑스어 rôle(배우의 대사를 적은 두루마리) → 맡은 배역 → 역할"
+    },
+    "example": {
+      "q": "What was your role in the project?",
+      "a": "My role was to design the API and lead two backend developers.",
+      "a_ko": "제 역할은 API 를 설계하고 백엔드 개발자 두 명을 이끄는 것이었습니다."
+    },
+    "collocations": [
+      "my role",
+      "key role",
+      "role model"
+    ],
+    "related": [
+      "roll",
+      "enroll",
+      "control"
+    ],
+    "tip": "roll(두루마리)과 같은 뿌리. 면접에서 position·job 대신 가장 많이 쓰는 말"
+  },
+  {
+    "id": "d17-D18",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "rotate",
+    "pos": "verb",
+    "ipa": "/ˈroʊteɪt/",
+    "meaning_ko": "교체하다, 돌리다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rot",
+          "type": "root",
+          "gloss": "바퀴 (rota)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "라틴어 rotare(바퀴처럼 돌리다, rota 바퀴) → 돌리다 → 차례로 바꾸다"
+    },
+    "example": {
+      "q": "How do you manage secrets and API keys?",
+      "a": "We rotate API keys every ninety days automatically, so a leaked key has a short life.",
+      "a_ko": "API 키를 90일마다 자동으로 교체해서, 유출되더라도 키의 수명이 짧습니다."
+    },
+    "collocations": [
+      "rotate keys",
+      "rotate logs",
+      "rotate credentials"
+    ],
+    "related": [
+      "rotation",
+      "role",
+      "control"
+    ],
+    "tip": "rota(바퀴)는 '돌리다' 가족의 보조 어근. 보안에서 '키 교체'는 key rotation"
+  },
+  {
+    "id": "d17-D19",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "rotation",
+    "pos": "noun",
+    "ipa": "/roʊˈteɪʃən/",
+    "meaning_ko": "교대, 순환",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rot",
+          "type": "root",
+          "gloss": "바퀴 (rota)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "명사"
+        }
+      ],
+      "story": "rotate(바퀴처럼 돌리다) + ion → 돌아가며 맡음 → 교대, 순환"
+    },
+    "example": {
+      "q": "Do you have experience being on call?",
+      "a": "Yes, I was in a weekly on-call rotation, and I wrote runbooks so the next person could fix common alerts quickly.",
+      "a_ko": "네, 주 단위 온콜 교대에 들어가 있었고, 다음 사람이 흔한 알림을 빨리 처리하도록 런북을 썼습니다."
+    },
+    "collocations": [
+      "on-call rotation",
+      "key rotation",
+      "in rotation"
+    ],
+    "related": [
+      "rotate",
+      "role",
+      "control"
+    ],
+    "tip": "on-call rotation 은 SRE·백엔드 면접 필수 표현. job rotation 은 '직무 순환'"
+  },
+  {
+    "id": "d17-D20",
+    "day": 17,
+    "level": 1,
+    "set": "D",
+    "family": "F7",
+    "word": "return",
+    "pos": "verb",
+    "ipa": "/rɪˈtɝːn/",
+    "meaning_ko": "돌아오다, 돌려주다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "뒤로"
+        },
+        {
+          "text": "turn",
+          "type": "root",
+          "gloss": "돌리다 (tornare)"
+        }
+      ],
+      "story": "라틴어 tornare(선반으로 돌리다) → 고대 프랑스어 retorner(뒤로 돌다) → 돌아오다"
+    },
+    "example": {
+      "q": "Why do you want to move back to Korea?",
+      "a": "I want to return to Korea to be closer to my family.",
+      "a_ko": "가족과 가까이 지내려고 한국에 돌아가고 싶습니다."
+    },
+    "collocations": [
+      "return to",
+      "return a call",
+      "return on investment"
+    ],
+    "related": [
+      "turn",
+      "detour",
+      "turnover"
+    ],
+    "tip": "tornare(돌리다, 그리스어 tornos 선반에서)는 보조 어근. 함수가 값을 돌려주는 것도 return"
+  },
+  {
+    "id": "d17-D21",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "detour",
+    "pos": "noun",
+    "ipa": "/ˈdiːtʊr/",
+    "meaning_ko": "우회, 돌아가는 길",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져, 비껴"
+        },
+        {
+          "text": "tour",
+          "type": "root",
+          "gloss": "돌다 (tornare)"
+        }
+      ],
+      "story": "프랑스어 détourner(비껴 돌리다, tornare 에서) → détour → 돌아가는 길, 우회"
+    },
+    "example": {
+      "q": "Your résumé shows a year in sales. Can you explain that?",
+      "a": "It was a useful detour; working in sales taught me how customers think, and that makes me a better product engineer.",
+      "a_ko": "도움이 된 우회로였습니다. 영업에서 고객의 생각을 배워서, 더 나은 제품 엔지니어가 됐습니다."
+    },
+    "collocations": [
+      "take a detour",
+      "a short detour",
+      "career detour"
+    ],
+    "related": [
+      "return",
+      "turnover",
+      "tour"
+    ],
+    "tip": "경력 공백·전환을 긍정적으로 설명할 때 a useful detour 라고 하면 자연스러움"
+  },
+  {
+    "id": "d17-D22",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "turnover",
+    "pos": "noun",
+    "ipa": "/ˈtɝːnoʊvər/",
+    "meaning_ko": "이직률, (인력) 교체",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "turn",
+          "type": "root",
+          "gloss": "돌리다 (tornare)"
+        },
+        {
+          "text": "over",
+          "type": "part",
+          "gloss": "넘어가서"
+        }
+      ],
+      "story": "turn(돌리다) + over(넘어가서) → 뒤집혀 바뀜 → 사람이 들고 나는 비율, 이직"
+    },
+    "example": {
+      "q": "How did you deal with losing knowledge when people left?",
+      "a": "Our team had high turnover, so I started recording short design videos that new members could watch in their first week.",
+      "a_ko": "팀 이직률이 높아서, 새 팀원이 첫 주에 볼 수 있는 짧은 설계 영상을 녹화하기 시작했습니다."
+    },
+    "collocations": [
+      "high turnover",
+      "staff turnover",
+      "low turnover"
+    ],
+    "related": [
+      "return",
+      "detour",
+      "turn"
+    ],
+    "tip": "면접에서 '이직률'은 turnover (rate). 회사에 질문할 때 What is the team's turnover like? 도 가능"
+  },
+  {
+    "id": "d17-D23",
+    "day": 17,
+    "level": 2,
+    "set": "D",
+    "family": "F7",
+    "word": "constraint",
+    "pos": "noun",
+    "ipa": "/kənˈstreɪnt/",
+    "meaning_ko": "제약, 제약 조건",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께, 꽉"
+        },
+        {
+          "text": "straint",
+          "type": "root",
+          "gloss": "조이다 (stringere)"
+        }
+      ],
+      "story": "라틴어 constringere(꽉 묶다) → 고대 프랑스어 constreindre → 묶어서 제한하는 것 → 제약"
+    },
+    "example": {
+      "q": "How do you approach a system design question?",
+      "a": "I start by clarifying the constraints, like traffic, budget, and latency, because they decide most of the design.",
+      "a_ko": "트래픽·예산·지연 시간 같은 제약 조건부터 확인합니다. 그것이 설계의 대부분을 결정하기 때문입니다."
+    },
+    "collocations": [
+      "time constraint",
+      "budget constraint",
+      "under constraints"
+    ],
+    "related": [
+      "strict",
+      "restrict",
+      "stringent"
+    ],
+    "tip": "stringere(꽉 묶다)에서 철자가 straint 로 바뀜. DB 의 제약 조건(foreign key constraint)도 같은 단어"
+  },
+  {
+    "id": "d17-D24",
+    "day": 17,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "shake up",
+    "pos": "phrasal verb",
+    "ipa": "/ʃeɪk ˈʌp/",
+    "meaning_ko": "(조직을) 대대적으로 개편하다, 뒤흔들다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "shake",
+          "type": "part",
+          "gloss": "흔들다"
+        },
+        {
+          "text": "up",
+          "type": "part",
+          "gloss": "완전히"
+        }
+      ],
+      "story": "shake(흔들다) + up(위로, 완전히) → 확 흔들어 섞다 → 조직·방식을 대대적으로 바꾸다"
+    },
+    "example": {
+      "q": "How do you handle big organizational changes?",
+      "a": "When management decided to shake up the team structure, I set up one-on-ones with my reports so their concerns were heard before the change.",
+      "a_ko": "경영진이 팀 구조를 대대적으로 개편하기로 했을 때, 변경 전에 팀원들의 걱정을 듣도록 일대일 면담을 잡았습니다."
+    },
+    "collocations": [
+      "shake up the team",
+      "shake up the industry",
+      "shake-up"
+    ],
+    "related": [
+      "overhaul",
+      "restructure",
+      "reorganize"
+    ],
+    "tip": "핵심어. 명사 shake-up(대개편). overhaul 은 '절차·시스템', shake up 은 '조직·판도'에 많이 씀"
+  },
+  {
+    "id": "d17-D25",
+    "day": 17,
+    "level": 3,
+    "set": "D",
+    "family": "F7",
+    "word": "cutover",
+    "pos": "noun",
+    "ipa": "/ˈkʌtoʊvər/",
+    "meaning_ko": "(신규 시스템으로의) 전환, 컷오버",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cut",
+          "type": "part",
+          "gloss": "자르다"
+        },
+        {
+          "text": "over",
+          "type": "part",
+          "gloss": "넘어가서"
+        }
+      ],
+      "story": "cut(잘라 끊다) + over(넘어가서) → 옛 시스템을 끊고 새 시스템으로 넘어감 → 전환 시점"
+    },
+    "example": {
+      "q": "How did you migrate the payment database?",
+      "a": "We ran both databases in parallel for two weeks, then did the cutover at 3 a.m. with a rollback plan ready, and nobody noticed.",
+      "a_ko": "두 DB 를 2주간 병행 운영한 뒤 롤백 계획을 준비해 놓고 새벽 3시에 전환했는데, 아무도 눈치채지 못했습니다."
+    },
+    "collocations": [
+      "cutover plan",
+      "final cutover",
+      "cutover window"
+    ],
+    "related": [
+      "switch over",
+      "roll back",
+      "migration"
+    ],
+    "tip": "핵심어. 마이그레이션 경험 답변의 핵심 단어. 동사로는 cut over (두 단어)"
+  }
+]
