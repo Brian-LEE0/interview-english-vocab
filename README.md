@@ -1,10 +1,12 @@
-# 면접영어 어원 단어장 (mensetsu-tango)
+# Interview English Vocab — 면접영어 어원 단어장
 
 IT 면접 영어 단어를 어원(접두사 + 어근 + 접미사)으로 쪼개서 외우는 30일 단어장. 하루 100단어, 예문은 면접에서 그대로 말할 수 있는 답변.
 
 ## 쓰는 법
 
-`dist/index.html` 을 브라우저로 엽니다. 휴대폰에서 쓰려면 이 파일 하나만 옮기면 됩니다.
+- **웹에서 바로**: https://brian-lee0.github.io/interview-english-vocab/ (휴대폰은 브라우저 메뉴의 「홈 화면에 추가」로 앱처럼 쓸 수 있음)
+- **오프라인**: `dist/index.html` 을 브라우저로 열기 (이 파일 하나에 단어가 다 들어 있음)
+- 진도는 기기·브라우저마다 따로 저장됩니다.
 
 ## 파일
 
@@ -23,6 +25,13 @@ IT 면접 영어 단어를 어원(접두사 + 어근 + 접미사)으로 쪼개�
 ```bash
 python scripts/build_data.py
 python scripts/build_app.py
+```
+
+사이트에 반영 (GitHub Pages 는 `gh-pages` 브랜치 = `dist/` 폴더):
+
+```bash
+git add -A && git commit -m "..." && git push
+git subtree push --prefix dist origin gh-pages
 ```
 
 `build_data.py` 는 세트당 25개, 난이도·분야 숫자, 대표 단어, 날짜 사이 중복을 검사하고 오류가 있으면 멈춥니다.

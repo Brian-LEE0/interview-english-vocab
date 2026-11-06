@@ -206,6 +206,7 @@
 - 진도는 그 브라우저(localStorage, 키 `mensetsu-tango:v1`)에 저장. 다른 기기와 공유되지 않음
   - 진도 = 오늘의 학습에서 「외웠어요 / 다시 볼래요」를 누른 단어 수 (퀴즈만 푼 단어는 진도에 안 들어감)
 - 만드는 법: `python scripts/build_data.py` → `python scripts/build_app.py` (화면 코드 `app/index.html` 에 데이터를 넣어 `dist/index.html` 생성)
+- 공개 주소: https://brian-lee0.github.io/interview-english-vocab/ (저장소 `Brian-LEE0/interview-english-vocab`, GitHub Pages 가 `gh-pages` 브랜치 = `dist/` 를 서비스). 반영: `git subtree push --prefix dist origin gh-pages`
 - (선택, 나중에) PDF 인쇄본, Anki 가져오기용 CSV
 
 ## 8. 디자인 방향
