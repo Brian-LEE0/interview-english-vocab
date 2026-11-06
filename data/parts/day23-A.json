@@ -1,0 +1,1191 @@
+[
+ {
+  "id": "d23-A01",
+  "day": 23,
+  "level": 1,
+  "set": "A",
+  "family": "F3",
+  "word": "deposit",
+  "pos": "verb",
+  "ipa": "/dɪˈpɑːzɪt/",
+  "meaning_ko": "입금하다, 맡기다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 것 (과거분사 -itum)"
+    }
+   ],
+   "story": "아래에 내려놓다(deponere) → 맡겨 두다 → 입금하다·보증금"
+  },
+  "example": {
+   "q": "The signing bonus is paid out with your first paycheck.",
+   "a": "Great, so it will be deposited into my account at the end of the first month?",
+   "a_ko": "좋습니다. 그럼 첫 달 말에 제 계좌로 입금되는 거죠?"
+  },
+  "collocations": [
+   "deposit into an account",
+   "security deposit",
+   "make a deposit"
+  ],
+  "related": [
+   "position",
+   "posit",
+   "depository",
+   "composite"
+  ],
+  "tip": "보너스·급여가 \"입금되다\"는 be deposited. 집 보증금은 security deposit"
+ },
+ {
+  "id": "d23-A02",
+  "day": 23,
+  "level": 1,
+  "set": "A",
+  "family": "F3",
+  "word": "post",
+  "pos": "noun",
+  "ipa": "/poʊst/",
+  "meaning_ko": "직위, 자리",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "t",
+     "type": "suffix",
+     "gloss": "~된 (과거분사 positum)"
+    }
+   ],
+   "story": "놓인 자리(positum) → 이탈리아어 posto·프랑스어 poste \"배치된 자리\" → 직위"
+  },
+  "example": {
+   "q": "When could you take up the post?",
+   "a": "I could take up the post on March third, right after my notice period ends.",
+   "a_ko": "퇴사 통보 기간이 끝나는 3월 3일부터 바로 부임할 수 있습니다."
+  },
+  "collocations": [
+   "take up a post",
+   "leave a post",
+   "a senior post"
+  ],
+  "related": [
+   "position",
+   "deposit",
+   "posture",
+   "outpost"
+  ],
+  "tip": "\"직위\"의 post 는 ponere 출신. 기둥(postis)·채용 공고(job posting)의 post 는 철자만 같은 다른 단어"
+ },
+ {
+  "id": "d23-A03",
+  "day": 23,
+  "level": 1,
+  "set": "A",
+  "family": "F3",
+  "word": "opponent",
+  "pos": "noun",
+  "ipa": "/əˈpoʊnənt/",
+  "meaning_ko": "상대, 적수",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "op",
+     "type": "prefix",
+     "gloss": "맞서 (ob)"
+    },
+    {
+     "text": "pon",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "맞은편에 놓인 사람(opponens) → 상대편 → 적수"
+  },
+  "example": {
+   "q": "Some candidates treat salary talks like a fight.",
+   "a": "I don't see you as an opponent; we both want an offer I can happily accept.",
+   "a_ko": "저는 담당자님을 상대편으로 보지 않습니다. 둘 다 제가 기꺼이 수락할 오퍼를 원하니까요."
+  },
+  "collocations": [
+   "a worthy opponent",
+   "see someone as an opponent"
+  ],
+  "related": [
+   "opposite",
+   "oppose",
+   "opposition",
+   "component",
+   "proponent"
+  ],
+  "tip": "협상 상대는 보통 the other side·counterpart 라고 하고, opponent 는 \"적\"의 느낌이 있음"
+ },
+ {
+  "id": "d23-A04",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "opposition",
+  "pos": "noun",
+  "ipa": "/ˌɑːpəˈzɪʃən/",
+  "meaning_ko": "반대, 반발",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "op",
+     "type": "prefix",
+     "gloss": "맞서 (ob)"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "맞은편에 놓음(oppositio) → 맞섬 → 반대"
+  },
+  "example": {
+   "q": "Finance might push back on raising the base salary.",
+   "a": "If there's opposition to a higher base, I'm open to a larger signing bonus instead.",
+   "a_ko": "기본급 인상에 반대가 있다면, 대신 사이닝 보너스를 더 받는 것도 괜찮습니다."
+  },
+  "collocations": [
+   "face opposition",
+   "strong opposition",
+   "in opposition to"
+  ],
+  "related": [
+   "oppose",
+   "opponent",
+   "opposite",
+   "position"
+  ],
+  "tip": "push back(반발)을 격식 있는 명사로 말할 때. 대안을 바로 붙이면 협상이 이어짐"
+ },
+ {
+  "id": "d23-A05",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "well-positioned",
+  "pos": "adjective",
+  "ipa": "/ˌwel pəˈzɪʃənd/",
+  "meaning_ko": "~하기에 유리한 위치에 있는, 적임인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "well",
+     "type": "part",
+     "gloss": "잘"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "잘 놓인 → 유리한 자리에 있는 → ~하기에 적임인"
+  },
+  "example": {
+   "q": "Why do you think you would succeed in this role?",
+   "a": "Having scaled payment systems at two startups, I'm well-positioned to lead your platform migration.",
+   "a_ko": "스타트업 두 곳에서 결제 시스템을 확장해 본 만큼, 귀사의 플랫폼 이전을 이끌기에 적합한 위치에 있다고 생각합니다."
+  },
+  "collocations": [
+   "well-positioned to do",
+   "well-positioned for growth"
+  ],
+  "related": [
+   "position",
+   "positioning",
+   "deposit",
+   "posture"
+  ],
+  "tip": "\"제가 적임자입니다\"를 자신 있게, 그러나 과장 없이 말하는 표현"
+ },
+ {
+  "id": "d23-A06",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "positional bargaining",
+  "pos": "noun",
+  "ipa": "/pəˈzɪʃənəl ˈbɑːrɡənɪŋ/",
+  "meaning_ko": "입장 고수식 협상",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "bargaining",
+     "type": "part",
+     "gloss": "흥정"
+    }
+   ],
+   "story": "자기 입장(position)을 정해 놓고 밀어붙이는 흥정 → 숫자만 주고받는 협상 방식"
+  },
+  "example": {
+   "q": "We usually go back and forth a few rounds on the numbers.",
+   "a": "I'd rather avoid positional bargaining; if we share what matters most to each side, we can usually find a package that works faster.",
+   "a_ko": "숫자만 주고받는 입장 고수식 협상은 피하고 싶습니다. 서로 가장 중요한 것을 공유하면 대개 더 빨리 맞는 패키지를 찾을 수 있습니다."
+  },
+  "collocations": [
+   "avoid positional bargaining",
+   "interest-based negotiation"
+  ],
+  "related": [
+   "position",
+   "posit",
+   "opposition",
+   "deposit"
+  ],
+  "tip": "협상 이론서 Getting to Yes 의 용어. 반대 개념은 interest-based(이해관계 중심) negotiation"
+ },
+ {
+  "id": "d23-A07",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "composed",
+  "pos": "adjective",
+  "ipa": "/kəmˈpoʊzd/",
+  "meaning_ko": "침착한, 차분한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "함께 가지런히 놓인(compose) → 마음이 정돈된 → 침착한"
+  },
+  "example": {
+   "q": "How do you handle a production outage at 2 a.m.?",
+   "a": "I stay composed, follow the runbook step by step, and update stakeholders every thirty minutes.",
+   "a_ko": "침착함을 유지하고 런북을 단계별로 따르며, 30분마다 이해관계자에게 상황을 공유합니다."
+  },
+  "collocations": [
+   "stay composed",
+   "calm and composed",
+   "remain composed under pressure"
+  ],
+  "related": [
+   "compose",
+   "composure",
+   "component",
+   "composite"
+  ],
+  "tip": "calm 보다 \"압박 속에서도 흐트러지지 않는\" 느낌. 명사는 composure"
+ },
+ {
+  "id": "d23-A08",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "dispose",
+  "pos": "verb",
+  "ipa": "/dɪˈspoʊz/",
+  "meaning_ko": "(자원을) 해제하다, 처리하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "따로"
+    },
+    {
+     "text": "pose",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    }
+   ],
+   "story": "따로따로 배치하다 → 처리하다 → (dispose of) 치워 버리다·해제하다"
+  },
+  "example": {
+   "q": "How did you fix the memory leak?",
+   "a": "We weren't disposing of database connections after each request, so I wrapped them in a using block.",
+   "a_ko": "요청마다 DB 연결을 해제하지 않고 있어서, using 블록으로 감싸 자동으로 해제되게 했습니다."
+  },
+  "collocations": [
+   "dispose of",
+   "dispose of resources"
+  ],
+  "related": [
+   "disposal",
+   "disposable",
+   "disposition",
+   "compose",
+   "expose"
+  ],
+  "tip": "\"처리하다·버리다\"는 항상 dispose of + 목적어. C# 의 IDisposable·Dispose() 로 익숙한 단어"
+ },
+ {
+  "id": "d23-A09",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "disposition",
+  "pos": "noun",
+  "ipa": "/ˌdɪspəˈzɪʃən/",
+  "meaning_ko": "기질, 성향",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "따로"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "(마음이) 따로따로 배치된 모양(dispositio) → 타고난 배치 → 기질·성향"
+  },
+  "example": {
+   "q": "How would your teammates describe your personality?",
+   "a": "They'd say I have a calm disposition, which helped when our largest client escalated a billing error to our CEO late on a Friday.",
+   "a_ko": "차분한 성향이라고 할 것 같습니다. 금요일 늦게 최대 고객사가 청구 오류를 CEO에게 직접 제기했을 때도 그 덕을 봤습니다."
+  },
+  "collocations": [
+   "a calm disposition",
+   "a cheerful disposition",
+   "by disposition"
+  ],
+  "related": [
+   "dispose",
+   "position",
+   "composed",
+   "deposit"
+  ],
+  "tip": "personality 보다 격식 있는 말. by disposition(천성적으로)도 자주 씀"
+ },
+ {
+  "id": "d23-A10",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "exponent",
+  "pos": "noun",
+  "ipa": "/ɪkˈspoʊnənt/",
+  "meaning_ko": "지수 (거듭제곱의)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "pon",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "밖으로 내놓다(exponere) → 내세운 것 → (수학) 밑 위에 올려놓은 수, 지수"
+  },
+  "example": {
+   "q": "How do your retries avoid overwhelming the server?",
+   "a": "Each retry doubles the delay, and I cap the exponent so the wait never exceeds thirty seconds.",
+   "a_ko": "재시도할 때마다 대기 시간을 두 배로 늘리되, 지수에 상한을 둬서 대기가 30초를 넘지 않게 합니다."
+  },
+  "collocations": [
+   "raise to an exponent",
+   "cap the exponent"
+  ],
+  "related": [
+   "exponential",
+   "expose",
+   "component",
+   "opponent"
+  ],
+  "tip": "2의 n제곱에서 n 이 exponent, 2 는 base. 형용사 exponential(지수적인)과 짝으로 기억"
+ },
+ {
+  "id": "d23-A11",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "posit",
+  "pos": "verb",
+  "ipa": "/ˈpɑːzɪt/",
+  "meaning_ko": "(가설로) 상정하다, 주장하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 (과거분사 -itum)"
+    }
+   ],
+   "story": "놓아 두다(positus) → 논의의 전제로 내놓다 → 상정하다"
+  },
+  "example": {
+   "q": "What is your view on why the redesign failed?",
+   "a": "I'd posit that the real issue wasn't the UI but onboarding; drop-off spiked on step two, and once we shortened it, activation rose eighteen percent.",
+   "a_ko": "진짜 문제는 UI 가 아니라 온보딩이었다고 봅니다. 2단계에서 이탈이 급증했는데, 그 단계를 줄이자 활성화율이 18% 올랐습니다."
+  },
+  "collocations": [
+   "posit that",
+   "posit a theory"
+  ],
+  "related": [
+   "position",
+   "deposit",
+   "posture",
+   "juxtapose"
+  ],
+  "tip": "\"I'd posit that ~\" 은 \"제 가설은 ~입니다\". 데이터 근거를 바로 붙이면 설득력이 큼"
+ },
+ {
+  "id": "d23-A12",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "repurpose",
+  "pos": "verb",
+  "ipa": "/riːˈpɝːpəs/",
+  "meaning_ko": "다른 용도로 바꿔 쓰다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "pur",
+     "type": "prefix",
+     "gloss": "앞으로 (pro)"
+    },
+    {
+     "text": "pose",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    }
+   ],
+   "story": "앞에 내놓은 목적(purpose)을 다시 정하다 → 용도를 바꿔 쓰다"
+  },
+  "example": {
+   "q": "How did you deliver the feature without extra headcount?",
+   "a": "I repurposed our existing notification service for in-app alerts instead of building a new one from scratch.",
+   "a_ko": "새로 만들지 않고 기존 알림 서비스를 인앱 알림용으로 바꿔 썼습니다."
+  },
+  "collocations": [
+   "repurpose existing code",
+   "repurpose hardware"
+  ],
+  "related": [
+   "purpose",
+   "propose",
+   "suppose",
+   "compose"
+  ],
+  "tip": "reuse 는 그대로 다시 쓰기, repurpose 는 \"다른 목적으로\" 바꿔 쓰기"
+ },
+ {
+  "id": "d23-A13",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "false positive",
+  "pos": "noun",
+  "ipa": "/ˌfɔːls ˈpɑːzətɪv/",
+  "meaning_ko": "오탐 (거짓 양성)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "false",
+     "type": "part",
+     "gloss": "거짓의 (falsus)"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~한 (positivus 정해진)"
+    }
+   ],
+   "story": "놓여 정해진(positivus) → 있다고 확정된(positive) + 거짓 → 문제가 없는데 있다고 판정함"
+  },
+  "example": {
+   "q": "How did you reduce alert fatigue on your team?",
+   "a": "Half our pages were false positives, so I tuned the thresholds and paging volume dropped by sixty percent.",
+   "a_ko": "호출의 절반이 오탐이어서 임계값을 조정했더니 호출량이 60% 줄었습니다."
+  },
+  "collocations": [
+   "reduce false positives",
+   "false positive rate"
+  ],
+  "related": [
+   "positive",
+   "position",
+   "deposit",
+   "posit"
+  ],
+  "tip": "반대말 false negative(미탐). 보안·모니터링·ML 평가에서 매일 쓰는 말"
+ },
+ {
+  "id": "d23-A14",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "imposition",
+  "pos": "noun",
+  "ipa": "/ˌɪmpəˈzɪʃən/",
+  "meaning_ko": "부담, 무리한 부탁",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "위에 (in)"
+    },
+    {
+     "text": "pos",
+     "type": "root",
+     "gloss": "놓다 (ponere)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "위에 얹어 놓음(impositio) → 남에게 지우는 짐 → 무리한 부탁"
+  },
+  "example": {
+   "q": "Your current company wants you to stay through their release.",
+   "a": "I hope it's not an imposition, but could we push my start date back two weeks so I can hand over the release properly?",
+   "a_ko": "부담이 되지 않으면 좋겠지만, 릴리스를 제대로 인수인계할 수 있도록 입사일을 2주 늦출 수 있을까요?"
+  },
+  "collocations": [
+   "I hope it's not an imposition",
+   "an imposition on someone"
+  ],
+  "related": [
+   "impose",
+   "self-imposed",
+   "superimpose",
+   "position"
+  ],
+  "tip": "부탁 앞에 \"I hope it's not an imposition\" 을 붙이면 공손하지만 당당하게 요청할 수 있음"
+ },
+ {
+  "id": "d23-A15",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "superimpose",
+  "pos": "verb",
+  "ipa": "/ˌsuːpərɪmˈpoʊz/",
+  "meaning_ko": "겹쳐 놓다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "super",
+     "type": "prefix",
+     "gloss": "위에"
+    },
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "위에 (in)"
+    },
+    {
+     "text": "pose",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    }
+   ],
+   "story": "위에 다시 올려놓다 → 두 그림을 겹쳐 놓다"
+  },
+  "example": {
+   "q": "How did you prove the deploy caused the latency spike?",
+   "a": "I superimposed the deploy timeline on our p99 latency graph, and every spike started within two minutes of a release to the payment service.",
+   "a_ko": "배포 타임라인을 p99 지연 그래프에 겹쳐 보니, 모든 급증이 결제 서비스 배포 후 2분 안에 시작됐습니다."
+  },
+  "collocations": [
+   "superimpose A on B",
+   "superimposed graphs"
+  ],
+  "related": [
+   "impose",
+   "imposition",
+   "expose",
+   "transpose"
+  ],
+  "tip": "그래프·화면을 \"겹쳐서\" 비교했다고 말할 때. overlay 와 비슷"
+ },
+ {
+  "id": "d23-A16",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "presuppose",
+  "pos": "verb",
+  "ipa": "/ˌpriːsəˈpoʊz/",
+  "meaning_ko": "전제로 하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에 (sub)"
+    },
+    {
+     "text": "pose",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    }
+   ],
+   "story": "미리 밑에 깔아 놓다 → 먼저 있다고 가정하다 → 전제로 하다"
+  },
+  "example": {
+   "q": "The bonus target assumes the team grows to eight people.",
+   "a": "That target presupposes hiring four engineers this year; if hiring slips, could we tie part of the bonus to milestones I control instead?",
+   "a_ko": "그 목표는 올해 엔지니어 4명 채용을 전제로 합니다. 채용이 늦어지면 보너스 일부를 제가 통제할 수 있는 마일스톤에 연동할 수 있을까요?"
+  },
+  "collocations": [
+   "presuppose that",
+   "presuppose knowledge of"
+  ],
+  "related": [
+   "suppose",
+   "supposedly",
+   "propose",
+   "purpose"
+  ],
+  "tip": "assume 보다 \"논리적 전제\"를 짚는 느낌. 조건 속 숨은 가정을 지적할 때"
+ },
+ {
+  "id": "d23-A17",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "juxtapose",
+  "pos": "verb",
+  "ipa": "/ˈdʒʌkstəpoʊz/",
+  "meaning_ko": "나란히 놓고 비교하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "juxta",
+     "type": "prefix",
+     "gloss": "옆에 (iuxta)"
+    },
+    {
+     "text": "pose",
+     "type": "root",
+     "gloss": "놓다 (poser)"
+    }
+   ],
+   "story": "옆에 나란히 놓다 → 나란히 두고 대조하다"
+  },
+  "example": {
+   "q": "How are you comparing our offer with your other one?",
+   "a": "I juxtaposed both offers over four years, including equity and bonus, and yours comes out slightly lower, mainly because of the smaller sign-on.",
+   "a_ko": "두 오퍼를 지분과 보너스를 포함해 4년 기준으로 나란히 비교해 보니, 주로 사이닝 보너스가 적어서 귀사 쪽이 조금 낮게 나옵니다."
+  },
+  "collocations": [
+   "juxtapose A with B",
+   "juxtaposed side by side"
+  ],
+  "related": [
+   "position",
+   "impose",
+   "compose",
+   "posit"
+  ],
+  "tip": "compare 보다 \"나란히 늘어놓고 대비한다\"는 시각적 느낌. 명사 juxtaposition"
+ },
+ {
+  "id": "d23-A18",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "situated",
+  "pos": "adjective",
+  "ipa": "/ˈsɪtʃueɪtɪd/",
+  "meaning_ko": "(~에) 위치한, (~할) 처지에 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "situ",
+     "type": "root",
+     "gloss": "장소 (situs)"
+    },
+    {
+     "text": "ated",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "장소(situs)에 놓인 → 위치한 → 어떤 처지에 있는"
+  },
+  "example": {
+   "q": "Our team is split between Seoul and Singapore.",
+   "a": "Since I'm situated in Seoul, I can cover the morning handoff and still overlap three hours with Singapore.",
+   "a_ko": "제가 서울에 있으니 오전 인수인계를 맡으면서도 싱가포르와 세 시간 겹쳐서 일할 수 있습니다."
+  },
+  "collocations": [
+   "be situated in",
+   "well situated to"
+  ],
+  "related": [
+   "situation",
+   "situational",
+   "site"
+  ],
+  "tip": "be based in 과 비슷하지만 더 격식. well situated to ~ 는 \"~하기 좋은 처지\""
+ },
+ {
+  "id": "d23-A19",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "hypothesize",
+  "pos": "verb",
+  "ipa": "/haɪˈpɑːθəsaɪz/",
+  "meaning_ko": "가설을 세우다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hypo",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "thes",
+     "type": "root",
+     "gloss": "놓다 (thesis)"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "아래에 깔아 놓은 것(hypothesis) → 전제·가설 → 가설을 세우다"
+  },
+  "example": {
+   "q": "Walk me through how you debugged the intermittent timeout.",
+   "a": "I hypothesized it was connection pool exhaustion, so I added metrics, and the pool hit its limit right before every timeout.",
+   "a_ko": "커넥션 풀 고갈이라고 가설을 세우고 지표를 추가했더니, 타임아웃 직전마다 풀이 한도에 도달해 있었습니다."
+  },
+  "collocations": [
+   "hypothesize that",
+   "hypothesize a cause"
+  ],
+  "related": [
+   "hypothesis",
+   "hypothetical",
+   "thesis",
+   "synthesis"
+  ],
+  "tip": "디버깅 과정을 \"가설 → 검증\" 흐름으로 말하면 논리적으로 들림"
+ },
+ {
+  "id": "d23-A20",
+  "day": 23,
+  "level": 2,
+  "set": "A",
+  "family": "F3",
+  "word": "hypothetically",
+  "pos": "adverb",
+  "ipa": "/ˌhaɪpəˈθetɪkli/",
+  "meaning_ko": "가정해서 말하자면",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hypo",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "thet",
+     "type": "root",
+     "gloss": "놓다 (thesis)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "아래에 깔아 놓고(hypothesis) 생각해서 → 실제가 아니라 가정으로"
+  },
+  "example": {
+   "q": "Is there anything that would help you decide today?",
+   "a": "Hypothetically, if the base moved up five percent, I'd be comfortable signing this week.",
+   "a_ko": "가정해서 말씀드리면, 기본급이 5% 오른다면 이번 주에 기꺼이 서명할 수 있습니다."
+  },
+  "collocations": [
+   "hypothetically speaking",
+   "purely hypothetically"
+  ],
+  "related": [
+   "hypothesis",
+   "hypothesize",
+   "thesis",
+   "synthesis"
+  ],
+  "tip": "확정 약속 없이 조건을 떠볼 때 쓰는 협상 표현"
+ },
+ {
+  "id": "d23-A21",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "synthesis",
+  "pos": "noun",
+  "ipa": "/ˈsɪnθəsɪs/",
+  "meaning_ko": "종합, 통합 정리",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "syn",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "thes",
+     "type": "root",
+     "gloss": "놓다 (thesis)"
+    },
+    {
+     "text": "is",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "함께 놓기(synthesis) → 여러 요소를 합쳐 하나로 → 종합"
+  },
+  "example": {
+   "q": "Can you summarize what we heard from all the stakeholders?",
+   "a": "Here is my synthesis: sales wants speed, legal wants audit logs, and both can be met if we ship logging in phase one.",
+   "a_ko": "종합하면 이렇습니다. 영업은 속도를, 법무는 감사 로그를 원하는데, 1단계에 로깅을 넣어 출시하면 둘 다 충족할 수 있습니다."
+  },
+  "collocations": [
+   "a synthesis of",
+   "provide a synthesis"
+  ],
+  "related": [
+   "synthesize",
+   "synthetic",
+   "hypothesis",
+   "thesis"
+  ],
+  "tip": "summary 는 요약, synthesis 는 여러 의견을 엮어 \"결론\"을 만드는 것"
+ },
+ {
+  "id": "d23-A22",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "anathema",
+  "pos": "noun",
+  "ipa": "/əˈnæθəmə/",
+  "meaning_ko": "질색인 것, 금기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ana",
+     "type": "prefix",
+     "gloss": "위로"
+    },
+    {
+     "text": "the",
+     "type": "root",
+     "gloss": "놓다 (tithenai)"
+    },
+    {
+     "text": "ma",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "(신전에) 올려 바친 것(anathema) → 저주받도록 바쳐진 것 → 몹시 꺼리는 것"
+  },
+  "example": {
+   "q": "How do you feel about micromanagement?",
+   "a": "Micromanagement is anathema to me; I set clear goals, agree on check-ins, and then trust my engineers to own the details.",
+   "a_ko": "마이크로매니지먼트는 제게 금기입니다. 목표를 분명히 정하고 점검 일정을 합의한 뒤, 세부 사항은 엔지니어들이 책임지도록 믿고 맡깁니다."
+  },
+  "collocations": [
+   "anathema to someone",
+   "be anathema to"
+  ],
+  "related": [
+   "thesis",
+   "theme",
+   "synthesis",
+   "hypothesis"
+  ],
+  "tip": "\"A is anathema to me\" 처럼 관사 없이 씀. 싫어하는 것을 세련되게 말하는 고급 표현"
+ },
+ {
+  "id": "d23-A23",
+  "day": 23,
+  "level": 1,
+  "set": "A",
+  "family": "F3",
+  "word": "opt out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌɑːpt ˈaʊt/",
+  "meaning_ko": "(제도에서) 빠지다, 탈퇴하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "opt",
+     "type": "part",
+     "gloss": "고르다 (라틴어 optare)"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "밖으로 나가기를 고르다 → 기본 가입에서 빠지다"
+  },
+  "example": {
+   "q": "Employees are enrolled in the stock purchase plan by default.",
+   "a": "Good to know. Can I opt out of the stock purchase plan for my first year?",
+   "a_ko": "알겠습니다. 첫해에는 주식 매입 프로그램에서 빠질 수 있을까요?"
+  },
+  "collocations": [
+   "opt out of",
+   "opt-out clause"
+  ],
+  "related": [
+   "opt in",
+   "option",
+   "optional",
+   "adopt"
+  ],
+  "tip": "반대말 opt in(가입하다). 명사·형용사로 쓸 때는 opt-out (clause)"
+ },
+ {
+  "id": "d23-A24",
+  "day": 23,
+  "level": 1,
+  "set": "A",
+  "family": "F3",
+  "word": "in writing",
+  "pos": "phrase",
+  "ipa": "/ɪn ˈraɪtɪŋ/",
+  "meaning_ko": "서면으로, 문서로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~으로"
+    },
+    {
+     "text": "writing",
+     "type": "part",
+     "gloss": "글로 씀 (고대 영어 wrītan 긁다·새기다)"
+    }
+   ],
+   "story": "새겨서 남긴 것으로 → 말이 아니라 문서로"
+  },
+  "example": {
+   "q": "Our VP still needs to approve the revised offer.",
+   "a": "Of course. Could you send me the final terms in writing once it's approved?",
+   "a_ko": "물론입니다. 승인되면 최종 조건을 서면으로 보내 주시겠어요?"
+  },
+  "collocations": [
+   "put it in writing",
+   "confirm in writing"
+  ],
+  "related": [
+   "written offer",
+   "verbal offer",
+   "script"
+  ],
+  "tip": "구두 제안(verbal offer)을 받은 뒤 꼭 쓰는 표현. 서면 확인 전에는 지금 회사에 퇴사 통보하지 않기"
+ },
+ {
+  "id": "d23-A25",
+  "day": 23,
+  "level": 3,
+  "set": "A",
+  "family": "F3",
+  "word": "good leaver",
+  "pos": "noun",
+  "ipa": "/ˌɡʊd ˈliːvər/",
+  "meaning_ko": "선의의 퇴사자 (지분을 보호받는 퇴사 사유)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "good",
+     "type": "part",
+     "gloss": "좋은"
+    },
+    {
+     "text": "leav",
+     "type": "part",
+     "gloss": "떠나다"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "좋게 떠나는 사람 → 해고·질병처럼 정당한 사유로 나가 지분을 지킬 수 있는 퇴사자"
+  },
+  "example": {
+   "q": "Under the shareholder agreement, leavers can lose their vested shares.",
+   "a": "Could the agreement treat a layoff as a good leaver event, so I keep my vested shares even if my role is cut?",
+   "a_ko": "정리해고를 선의의 퇴사(good leaver) 사유로 정해서, 제 직무가 없어지더라도 이미 확정된 주식은 지킬 수 있도록 할 수 있을까요?"
+  },
+  "collocations": [
+   "good leaver clause",
+   "good leaver vs. bad leaver"
+  ],
+  "related": [
+   "bad leaver",
+   "leave",
+   "leaver"
+  ],
+  "tip": "영국·유럽 스타트업 지분 계약 용어. bad leaver(징계·경업 위반)로 분류되면 지분을 헐값에 잃을 수 있음"
+ }
+]

@@ -80,16 +80,16 @@
 
 | # | 어근 가족 | 어근 |
 |---|---|---|
-| F1 | 보다·알다 | `spect` `vis/vid` `sci` `cogn/gno` `sens/sent` `scop` · 보조 `not`(gnoscere) `tu/tut` `mon/memor/ment` `the(or)` `op/opt` `id/hist` `mir` `aud` `sap` |
-| F2 | 이끌다·가다·움직이다 | `duc/duct` `mov/mot` `ven/vent` `cede/cess` `grad/gress` `sequ/secu` · 보조 `it` `cur/curs` `ag/act` `migr` `pel` `vad/vas` |
-| F3 | 놓다·서다·머물다 (+손) | `pon/pos` `sta/sist` `sid/sed` `man/main` 머물다(manere) · `man/manu` 손(manus) `loc` `fix` · 보조 `thes/thet` `situ` `stin` `stitut` `tang/ting`(contingency, 닿다) |
-| F4 | 나르다·보내다·던지다 | `fer` `port` `mit/miss` `ject` `lat` `via/vey` · 보조 `gest/ger` `pher/phor` `bol/blem` `veh` `tol` |
-| F5 | 잡다·쥐다·끌다 | `cap/cip/cept` `ten/tain` `tract` `prehend/pris` `sum/sump` `hab/hib` · 보조 `em/empt` `ech/sch` `lect/leg` `strain` `rap` `haust` `cerpt` |
-| F6 | 만들다·채우다·쓰다 | `fac/fic/fect` `struct` `form` `gen` `ple/plete` `scrib/sign` · 보조 `creat` `oper` |
-| F7 | 돌리다·뻗다·묶다·바꾸다 | `vert/vers` `plic/ply` `tend/tens` `nect/lig` `mut/alter` `flu` · 보조 `verg` `tort` `var` `plex` `flex/flect` `volv/volut` `rot` `torn/tour` `string/strict` |
-| F8 | 깨다·자르다·풀다·닫다 | `rupt` `fract/frag` `sect/cis` `part/vid` `solv/lys` `clud/clus` · 보조 `tom` `tail/tal` `lax` `cern/cret/cert` `crit/cris` `scind/schis` |
-| F9 | 말하다·믿다·다스리다 | `dic/dict` `voc/vok` `cred/fid` `spond/spons` `reg/rect` `jur/leg` · 보조 `jud` `surg`(sub+regere) `leg`(legare 맡기다) `fa/fess` `nunci/nounc` `loqu` `log` `verb` `clam/claim` `mand/mend` `govern` `arch/crat` |
-| F10 | 값·재다·좋고 나쁨 | `pens/pend` `val/vail` `rat/quant` `bene/grat` `neg/counter` `term/fin` · 보조 `pret/preci` `ne/non` `mens/meas` `metr/meter` `aestim/estim` |
+| F1 | 보다·알다 | `spect` `vis/vid` `sci` `cogn/gno` `sens/sent` `scop` · 보조 `not`(gnoscere) `tu/tut` `mon/memor/ment` `the(or)` `op/opt` `id/hist` `mir` `aud` `sap` `path` `aesth` `mne` |
+| F2 | 이끌다·가다·움직이다 | `duc/duct` `mov/mot` `ven/vent` `cede/cess` `grad/gress` `sequ/secu` · 보조 `it` `cur/curs` `ag/act` `migr` `pel` `vad/vas` `pass/pace` `ambul` |
+| F3 | 놓다·서다·머물다 (+손) | `pon/pos` `sta/sist` `sid/sed` `man/main` 머물다(manere) · `man/manu` 손(manus) `loc` `fix` · 보조 `thes/thet` `situ` `stin` `stitut` `tang/ting`(contingency, 닿다) `mor` `cub/cumb` `qui/quies` `jac` |
+| F4 | 나르다·보내다·던지다 | `fer` `port` `mit/miss` `ject` `lat` `via/vey` · 보조 `gest/ger` `pher/phor` `bol/blem` `veh` `tol` `lev/liev` `car/char` `launch/lance` `on/oner` |
+| F5 | 잡다·쥐다·끌다 | `cap/cip/cept` `ten/tain` `tract` `prehend/pris` `sum/sump` `hab/hib` · 보조 `em/empt` `ech/sch` `lect/leg` `strain` `rap` `haust` `cerpt` `habil/deb` `chase/catch` |
+| F6 | 만들다·채우다·쓰다 | `fac/fic/fect` `struct` `form` `gen` `ple/plete` `scrib/sign` · 보조 `creat` `oper` `erg` `organ` `fabr` |
+| F7 | 돌리다·뻗다·묶다·바꾸다 | `vert/vers` `plic/ply` `tend/tens` `nect/lig` `mut/alter` `flu` · 보조 `verg` `tort` `var` `plex` `flex/flect` `volv/volut` `rot` `torn/tour` `string/strict` `cambi/change` |
+| F8 | 깨다·자르다·풀다·닫다 | `rupt` `fract/frag` `sect/cis` `part/vid` `solv/lys` `clud/clus` · 보조 `tom` `tail/tal` `lax` `cern/cret/cert` `crit/cris` `scind/schis` `clast` `trunc` |
+| F9 | 말하다·믿다·다스리다 | `dic/dict` `voc/vok` `cred/fid` `spond/spons` `reg/rect` `jur/leg` · 보조 `jud` `surg`(sub+regere) `leg`(legare 맡기다) `fa/fess` `nunci/nounc` `loqu` `log` `verb` `clam/claim` `mand/mend` `govern` `arch/crat` `dox/dog` `nom` `domin` `test` `rog` `phem` `rhet` `phon` `or` `cil` `vot` `feder` |
+| F10 | 값·재다·좋고 나쁨 | `pens/pend` `val/vail` `rat/quant` `bene/grat` `neg/counter` `term/fin` · 보조 `pret/preci` `ne/non` `mens/meas` `metr/meter` `aestim/estim` `mal` `equ` `par` `prob` `put` `numer` `calc` `mod` `lucr` `merc` `tax` `quot` |
 
 접두사(`pre` `pro` `re` `inter` `trans` `sub` `super` …)는 따로 날을 잡지 않고 단어 안에서 반복해서 익힙니다.
 
@@ -193,7 +193,7 @@
 
 ## 7. 결과물 형태 — 웹 단어장
 
-**`dist/index.html` 한 파일** (단어 데이터 포함, 약 0.9 MB). 브라우저로 열기만 하면 되고 인터넷 없이도 동작합니다 (인터넷이 없으면 글꼴만 기본 글꼴로 바뀜).
+**`dist/index.html` 한 파일** (단어 3,000개 포함, 약 2.9 MB). 브라우저로 열기만 하면 되고 인터넷 없이도 동작합니다 (인터넷이 없으면 글꼴만 기본 글꼴로 바뀜).
 
 | 화면 | 하는 일 |
 |---|---|
@@ -243,6 +243,6 @@
 2. 3,000단어 데이터 작성 (`data/day01~30.json`) — 구간별로 3번 나눠 검토 (구간당 1,000단어)
    - ✅ 1구간 Day 1–10 (1,000단어 · 기초 500 / 중급 400 / 고급 100 · 면접 600 / IT 400)
    - ✅ 2구간 Day 11–20 (1,000단어 · 기초 300 / 중급 500 / 고급 200 · 면접 500 / IT 400 / 협상 100)
-   - ⬜ 3구간 Day 21–30
+   - ✅ 3구간 Day 21–30 (1,000단어 · 기초 200 / 중급 400 / 고급 400 · 면접 200 / IT 250 / 협상 550)
 3. ✅ 웹 단어장 구현 (세트·카드·퀴즈·진도·복습·어근 지도·난이도 필터) — `dist/index.html`
 4. 인쇄용 PDF / Anki CSV (선택)

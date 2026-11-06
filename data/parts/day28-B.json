@@ -1,0 +1,1220 @@
+[
+ {
+  "id": "d28-B01",
+  "day": 28,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "apartment",
+  "pos": "noun",
+  "ipa": "/əˈpɑːrtmənt/",
+  "meaning_ko": "아파트(임대 주택), 집",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "~쪽으로 (a parte 따로)"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 쪽 (part)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "따로 떼어 놓은 공간(이탈리아어 appartamento) → 건물 안의 한 세대 → 임대 주택"
+  },
+  "example": {
+   "q": "Will you need any help with relocation?",
+   "a": "Yes, temporary housing would help while I look for an apartment near the office.",
+   "a_ko": "네, 회사 근처 집을 구하는 동안 임시 숙소를 지원받으면 도움이 될 것 같습니다."
+  },
+  "collocations": [
+   "rent an apartment",
+   "furnished apartment",
+   "corporate apartment"
+  ],
+  "related": [
+   "apart",
+   "part",
+   "department",
+   "set apart"
+  ],
+  "tip": "미국 apartment는 주로 월세로 사는 임대 주택. 한국식 '아파트(분양)'와 느낌이 다름"
+ },
+ {
+  "id": "d28-B02",
+  "day": 28,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "set apart",
+  "pos": "phrasal verb",
+  "ipa": "/ˌset əˈpɑːrt/",
+  "meaning_ko": "(남과) 구별되게 하다, 돋보이게 하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "set ",
+     "type": "part",
+     "gloss": "두다"
+    },
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 쪽 (part)"
+    }
+   ],
+   "story": "한쪽으로 따로 떼어 두다 → 남들과 구별되게 하다 → 돋보이게 하다"
+  },
+  "example": {
+   "q": "What sets you apart from other candidates?",
+   "a": "What sets me apart is that I've built backend systems and also led on-call rotations.",
+   "a_ko": "백엔드 시스템을 만들어 왔을 뿐 아니라 온콜 로테이션도 이끌어 본 점이 저를 돋보이게 합니다."
+  },
+  "collocations": [
+   "set A apart from B",
+   "what sets you apart"
+  ],
+  "related": [
+   "apart",
+   "apartment",
+   "part",
+   "impartial"
+  ],
+  "tip": "면접 단골 질문 What sets you apart? 를 그대로 받아 What sets me apart is ~ 로 답하면 자연스러움"
+ },
+ {
+  "id": "d28-B03",
+  "day": 28,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "for my part",
+  "pos": "phrase",
+  "ipa": "/fɔːr ˈmaɪ ˌpɑːrt/",
+  "meaning_ko": "저로서는, 제 몫으로는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "for ",
+     "type": "part",
+     "gloss": "~으로서"
+    },
+    {
+     "text": "my ",
+     "type": "part",
+     "gloss": "나의"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 몫 (part)"
+    }
+   ],
+   "story": "나의 몫으로는 → 내가 맡은 부분은 → 저로서는"
+  },
+  "example": {
+   "q": "How did the team handle the launch?",
+   "a": "The whole team pitched in; for my part, I owned the payment API.",
+   "a_ko": "팀 전체가 힘을 보탰고, 저는 결제 API를 맡았습니다."
+  },
+  "collocations": [
+   "for my part",
+   "on my part",
+   "do my part"
+  ],
+  "related": [
+   "part",
+   "partake",
+   "parcel out",
+   "set apart"
+  ],
+  "tip": "팀 성과 속에서 내 역할만 따로 짚어 말할 때 좋은 연결어"
+ },
+ {
+  "id": "d28-B04",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "individual contributor",
+  "pos": "noun",
+  "ipa": "/ˌɪndɪˈvɪdʒuəl kənˈtrɪbjətər/",
+  "meaning_ko": "개인 기여자 (관리직이 아닌 실무 전문가, IC)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "나누다"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": " contributor",
+     "type": "part",
+     "gloss": "기여자"
+    }
+   ],
+   "story": "더 나눌 수 없는 한 사람(개인) + 기여자 → 사람을 관리하지 않고 직접 일로 기여하는 실무자"
+  },
+  "example": {
+   "q": "Are you interested in moving into management?",
+   "a": "Not right now. I'd like to grow as a senior individual contributor first, because I still enjoy designing systems hands-on.",
+   "a_ko": "지금은 아닙니다. 아직 직접 시스템을 설계하는 일이 즐거워서, 먼저 시니어 개인 기여자로 성장하고 싶습니다."
+  },
+  "collocations": [
+   "senior individual contributor",
+   "individual contributor track"
+  ],
+  "related": [
+   "individual",
+   "divide",
+   "undivided",
+   "divisional"
+  ],
+  "tip": "줄여서 IC. 'IC track vs management track' 질문에 바로 쓰임"
+ },
+ {
+  "id": "d28-B05",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "undivided",
+  "pos": "adjective",
+  "ipa": "/ˌʌndɪˈvaɪdɪd/",
+  "meaning_ko": "나뉘지 않은, 온전한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vid",
+     "type": "root",
+     "gloss": "나누다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "나뉘지 않은 → 한곳에 모인 → 온전한 (집중)"
+  },
+  "example": {
+   "q": "Would you be open to starting part-time while you wrap up your current job?",
+   "a": "I'd rather not, because I want to give the new team my undivided attention, so a clean start date in May works better.",
+   "a_ko": "새 팀에 온전히 집중하고 싶어서 그건 피하고 싶습니다. 그래서 5월에 깔끔하게 입사하는 쪽이 더 좋겠습니다."
+  },
+  "collocations": [
+   "undivided attention",
+   "undivided focus",
+   "undivided support"
+  ],
+  "related": [
+   "divide",
+   "divisional",
+   "individual contributor",
+   "pay dividends"
+  ],
+  "tip": "undivided attention(온전한 집중) 형태로 거의 고정해서 씀"
+ },
+ {
+  "id": "d28-B06",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "blow out of proportion",
+  "pos": "phrase",
+  "ipa": "/ˌbloʊ ˌaʊt əv prəˈpɔːrʃən/",
+  "meaning_ko": "지나치게 부풀리다, 과장하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "blow ",
+     "type": "part",
+     "gloss": "불다"
+    },
+    {
+     "text": "out of ",
+     "type": "part",
+     "gloss": "~밖으로"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "~에 따라"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "몫 (part와 같은 뿌리)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "몫에 따라(비율) → 비율 밖으로 불어 키우다 → 실제보다 부풀리다"
+  },
+  "example": {
+   "q": "How do you handle a stressful incident?",
+   "a": "I stay calm and share facts in the channel, so a small outage doesn't get blown out of proportion.",
+   "a_ko": "침착하게 채널에 사실만 공유해서, 작은 장애가 실제보다 부풀려지지 않게 합니다."
+  },
+  "collocations": [
+   "blow something out of proportion",
+   "get blown out of proportion"
+  ],
+  "related": [
+   "proportion",
+   "portion",
+   "apportionment",
+   "part"
+  ],
+  "tip": "수동형 get blown out of proportion(과장되다)도 자주 씀"
+ },
+ {
+  "id": "d28-B07",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "apportionment",
+  "pos": "noun",
+  "ipa": "/əˈpɔːrʃənmənt/",
+  "meaning_ko": "배분, 할당",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에게 (ad)"
+    },
+    {
+     "text": "portion",
+     "type": "root",
+     "gloss": "몫 (part와 같은 뿌리)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "~에게 몫을 나눠 줌 → 정해진 비율로 나누기 → 배분"
+  },
+  "example": {
+   "q": "You'll be eligible for this year's annual bonus.",
+   "a": "That's great. Since I'm joining in July, could you explain the apportionment, for example whether I'd receive half of the target bonus?",
+   "a_ko": "좋습니다. 7월에 입사하게 되는데, 예를 들어 목표 보너스의 절반을 받게 되는지 등 배분 방식을 설명해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "apportionment of costs",
+   "fair apportionment",
+   "bonus apportionment"
+  ],
+  "related": [
+   "apportion",
+   "portion",
+   "blow out of proportion",
+   "part"
+  ],
+  "tip": "일상 대화에선 prorate(일할 계산하다)가 더 흔함. 계약서·정책 문서에서 보는 격식체"
+ },
+ {
+  "id": "d28-B08",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "repartition",
+  "pos": "verb",
+  "ipa": "/ˌriːpɑːrˈtɪʃən/",
+  "meaning_ko": "(데이터를) 다시 분할하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partire)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "다시 나누다 → 데이터 조각을 새 기준으로 다시 나누다"
+  },
+  "example": {
+   "q": "How did you speed up the Spark job?",
+   "a": "The data was skewed toward one key, so I repartitioned it by date and the job ran three times faster.",
+   "a_ko": "데이터가 키 하나에 쏠려 있어서 날짜 기준으로 다시 분할했더니 작업이 세 배 빨라졌습니다."
+  },
+  "collocations": [
+   "repartition the data",
+   "repartition by"
+  ],
+  "related": [
+   "partition",
+   "partition tolerance",
+   "part",
+   "impartial"
+  ],
+  "tip": "Spark의 repartition()은 셔플이 생겨 비용이 듦. 파티션 수만 줄일 땐 coalesce()"
+ },
+ {
+  "id": "d28-B09",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "partition tolerance",
+  "pos": "noun",
+  "ipa": "/pɑːrˈtɪʃən ˈtɑːlərəns/",
+  "meaning_ko": "분단 내성 (네트워크가 끊겨도 동작하는 성질, CAP의 P)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "나누다 (partire)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~함"
+    },
+    {
+     "text": " tolerance",
+     "type": "part",
+     "gloss": "견딤 (tolerare)"
+    }
+   ],
+   "story": "나뉨(분할)을 견딤 → 네트워크가 둘로 갈라져도 버티는 성질"
+  },
+  "example": {
+   "q": "How did the CAP theorem shape your design?",
+   "a": "Network splits will happen, so partition tolerance isn't optional; for the ledger we chose consistency over availability, and for the feed we chose the reverse.",
+   "a_ko": "네트워크 분단은 반드시 생기니 분단 내성은 선택 사항이 아닙니다. 그래서 원장은 가용성보다 일관성을, 피드는 그 반대를 택했습니다."
+  },
+  "collocations": [
+   "partition tolerance",
+   "partition-tolerant system"
+  ],
+  "related": [
+   "partition",
+   "repartition",
+   "part",
+   "apart"
+  ],
+  "tip": "CAP = Consistency·Availability·Partition tolerance. 실제론 P는 포기할 수 없다는 점을 말하면 좋음"
+ },
+ {
+  "id": "d28-B10",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "inclusivity",
+  "pos": "noun",
+  "ipa": "/ˌɪnkluːˈsɪvəti/",
+  "meaning_ko": "포용성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "clus",
+     "type": "root",
+     "gloss": "닫다 (clud)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "안에 넣고 닫음(포함) → 누구도 빼놓지 않는 성질 → 포용성"
+  },
+  "example": {
+   "q": "Do you have any questions about our benefits?",
+   "a": "Yes, inclusivity matters to me, so could you tell me whether the parental leave policy applies equally to all parents, including adoptive ones?",
+   "a_ko": "네, 저는 포용성을 중요하게 생각해서, 육아휴직 제도가 입양 부모를 포함한 모든 부모에게 똑같이 적용되는지 여쭤보고 싶습니다."
+  },
+  "collocations": [
+   "diversity and inclusivity",
+   "promote inclusivity"
+  ],
+  "related": [
+   "include",
+   "all-inclusive",
+   "exclusivity",
+   "preclude"
+  ],
+  "tip": "inclusion과 거의 같은 뜻. DEI 문맥에선 inclusion이 더 흔함"
+ },
+ {
+  "id": "d28-B11",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "partake",
+  "pos": "verb",
+  "ipa": "/pɑːrˈteɪk/",
+  "meaning_ko": "(몫을) 함께 누리다, 참여하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "par",
+     "type": "root",
+     "gloss": "부분, 몫 (part, t 하나로 합쳐짐)"
+    },
+    {
+     "text": "take",
+     "type": "part",
+     "gloss": "가지다"
+    }
+   ],
+   "story": "몫을 가지는 사람(part-taker)에서 → 몫을 함께 가지다 → 참여하다"
+  },
+  "example": {
+   "q": "All employees are eligible for the profit-sharing plan after a year.",
+   "a": "That's great. Would I be able to partake in the plan from my start date if I join before the fiscal year begins?",
+   "a_ko": "좋습니다. 회계 연도가 시작되기 전에 입사하면 입사일부터 그 제도에 참여할 수 있을까요?"
+  },
+  "collocations": [
+   "partake in",
+   "partake of"
+  ],
+  "related": [
+   "part",
+   "for my part",
+   "parcel out",
+   "impartial"
+  ],
+  "tip": "격식체. 일상에선 take part in 이 더 흔함"
+ },
+ {
+  "id": "d28-B12",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "impartial",
+  "pos": "adjective",
+  "ipa": "/ɪmˈpɑːrʃəl/",
+  "meaning_ko": "공정한, 치우치지 않은",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 편 (part)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "한쪽 편(부분)에 서지 않는 → 치우치지 않은 → 공정한"
+  },
+  "example": {
+   "q": "How do you feel about our leveling process?",
+   "a": "I appreciate that a separate committee reviews it, because an impartial review gives me confidence that my level and pay band are fair.",
+   "a_ko": "별도 위원회가 검토한다는 점이 좋습니다. 공정한 검토 덕분에 제 레벨과 급여 밴드가 합당하다고 믿을 수 있으니까요."
+  },
+  "collocations": [
+   "impartial review",
+   "impartial advice",
+   "remain impartial"
+  ],
+  "related": [
+   "partial",
+   "part",
+   "impartiality",
+   "apart"
+  ],
+  "tip": "fair보다 '어느 편도 들지 않는다'는 뉘앙스. unbiased와 비슷"
+ },
+ {
+  "id": "d28-B13",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "impartiality",
+  "pos": "noun",
+  "ipa": "/ɪmˌpɑːrʃiˈæləti/",
+  "meaning_ko": "공정성, 치우치지 않음",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "part",
+     "type": "root",
+     "gloss": "부분, 편 (part)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "한쪽 편에 서지 않음 → 공정성"
+  },
+  "example": {
+   "q": "In this role, you'd sometimes mediate between sales and engineering.",
+   "a": "I'm comfortable with that; I keep my impartiality by writing down each side's requirements and costs before we meet.",
+   "a_ko": "그런 역할은 편합니다. 회의 전에 양쪽의 요구 사항과 비용을 글로 정리해서 공정성을 지킵니다."
+  },
+  "collocations": [
+   "maintain impartiality",
+   "with impartiality"
+  ],
+  "related": [
+   "impartial",
+   "partial",
+   "part",
+   "apart"
+  ],
+  "tip": "강세는 -AL- [임파ㄹ시앨러티]"
+ },
+ {
+  "id": "d28-B14",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "parcel out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌpɑːrsəl ˈaʊt/",
+  "meaning_ko": "나누어 맡기다, 분배하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "parcel",
+     "type": "root",
+     "gloss": "작은 조각 (particula ← pars, part)"
+    },
+    {
+     "text": " out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "작은 조각으로 나눠 밖으로 내주다 → 일을 쪼개 나눠 맡기다"
+  },
+  "example": {
+   "q": "How did you lead the migration with a small team?",
+   "a": "I broke the migration into twelve services and parceled out two to each engineer based on who knew that code best.",
+   "a_ko": "마이그레이션을 서비스 12개로 나누고, 코드를 가장 잘 아는 사람 기준으로 엔지니어마다 두 개씩 맡겼습니다."
+  },
+  "collocations": [
+   "parcel out tasks",
+   "parcel out work"
+  ],
+  "related": [
+   "part",
+   "particle",
+   "partake",
+   "for my part"
+  ],
+  "tip": "parcel 단독은 '소포'. 미국 철자는 parceled, 영국은 parcelled"
+ },
+ {
+  "id": "d28-B15",
+  "day": 28,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "analyst",
+  "pos": "noun",
+  "ipa": "/ˈænəlɪst/",
+  "meaning_ko": "분석가",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ana",
+     "type": "prefix",
+     "gloss": "위로, 완전히 (그리스어 ana)"
+    },
+    {
+     "text": "lys",
+     "type": "root",
+     "gloss": "풀다 (그리스어 lyein)"
+    },
+    {
+     "text": "t",
+     "type": "suffix",
+     "gloss": "~하는 사람 (-ist)"
+    }
+   ],
+   "story": "완전히 풀어 헤치는 사람 → 분석하는 사람"
+  },
+  "example": {
+   "q": "Who did you work with most closely?",
+   "a": "I worked closely with a data analyst to define our success metrics.",
+   "a_ko": "데이터 분석가와 긴밀히 협업해 성공 지표를 정의했습니다."
+  },
+  "collocations": [
+   "data analyst",
+   "business analyst",
+   "security analyst"
+  ],
+  "related": [
+   "analysis",
+   "analyze",
+   "static analysis",
+   "catalytic"
+  ],
+  "tip": "강세는 첫 음절 [애널리스트]"
+ },
+ {
+  "id": "d28-B16",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "static analysis",
+  "pos": "noun",
+  "ipa": "/ˌstætɪk əˈnæləsɪs/",
+  "meaning_ko": "정적 분석 (코드를 실행하지 않고 검사)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "static ",
+     "type": "part",
+     "gloss": "정지한 (그리스어 statikos)"
+    },
+    {
+     "text": "ana",
+     "type": "prefix",
+     "gloss": "위로, 완전히"
+    },
+    {
+     "text": "lys",
+     "type": "root",
+     "gloss": "풀다 (lyein)"
+    },
+    {
+     "text": "is",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "완전히 풀어 헤침(분석) + 멈춘 상태로 → 실행하지 않고 코드를 분석함"
+  },
+  "example": {
+   "q": "How do you catch security bugs early?",
+   "a": "We run static analysis on every pull request, so issues like SQL injection get flagged before code review.",
+   "a_ko": "모든 PR에 정적 분석을 돌려서, SQL 인젝션 같은 문제가 코드 리뷰 전에 표시되게 합니다."
+  },
+  "collocations": [
+   "static analysis tool",
+   "run static analysis"
+  ],
+  "related": [
+   "analysis",
+   "analyst",
+   "catalytic",
+   "dissolution"
+  ],
+  "tip": "반대말 dynamic analysis(실행하면서 분석)"
+ },
+ {
+  "id": "d28-B17",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "solver",
+  "pos": "noun",
+  "ipa": "/ˈsɑːlvər/",
+  "meaning_ko": "솔버 (문제를 푸는 프로그램), 해결사",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "solv",
+     "type": "root",
+     "gloss": "풀다 (solvere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것·사람"
+    }
+   ],
+   "story": "푸는 것 → 문제를 풀어 주는 프로그램·사람"
+  },
+  "example": {
+   "q": "Tell me about an optimization problem you worked on.",
+   "a": "For warehouse scheduling, I modeled the shifts as constraints and used an open-source solver to find the cheapest plan.",
+   "a_ko": "창고 근무표 문제에서 교대 조건을 제약으로 모델링하고, 오픈소스 솔버로 비용이 가장 적은 계획을 찾았습니다."
+  },
+  "collocations": [
+   "constraint solver",
+   "SAT solver",
+   "problem solver"
+  ],
+  "related": [
+   "solve",
+   "solution",
+   "solvent",
+   "problem-solving"
+  ],
+  "tip": "사람에게는 a good problem solver(문제 해결을 잘하는 사람)"
+ },
+ {
+  "id": "d28-B18",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "solutions architect",
+  "pos": "noun",
+  "ipa": "/səˈluːʃənz ˈɑːrkɪtekt/",
+  "meaning_ko": "솔루션 아키텍트 (고객 요구를 기술 설계로 바꾸는 직무)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "solut",
+     "type": "root",
+     "gloss": "풀다 (solvere)"
+    },
+    {
+     "text": "ions",
+     "type": "suffix",
+     "gloss": "~것들"
+    },
+    {
+     "text": " architect",
+     "type": "part",
+     "gloss": "설계자 (그리스어 arkhitekton)"
+    }
+   ],
+   "story": "푼 것(해결책) + 설계자 → 고객 문제의 해결책을 설계하는 사람"
+  },
+  "example": {
+   "q": "Why are you interested in a customer-facing role?",
+   "a": "As a solutions architect, I could combine my backend experience with talking to customers, which I enjoyed most in my last job.",
+   "a_ko": "솔루션 아키텍트로서 제 백엔드 경험과, 이전 직장에서 가장 즐거웠던 고객과의 대화를 함께 살릴 수 있습니다."
+  },
+  "collocations": [
+   "AWS solutions architect",
+   "senior solutions architect"
+  ],
+  "related": [
+   "solution",
+   "solve",
+   "solver",
+   "dispute resolution"
+  ],
+  "tip": "클라우드 회사 직무명. 줄여서 SA"
+ },
+ {
+  "id": "d28-B19",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "dispute resolution",
+  "pos": "noun",
+  "ipa": "/dɪˈspjuːt ˌrezəˈluːʃən/",
+  "meaning_ko": "분쟁 해결 (조항)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dispute ",
+     "type": "part",
+     "gloss": "분쟁 (disputare 따지다)"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 완전히"
+    },
+    {
+     "text": "solut",
+     "type": "root",
+     "gloss": "풀다 (solvere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "완전히 풀어 냄(해결) + 분쟁 → 다툼을 푸는 방법·절차"
+  },
+  "example": {
+   "q": "Do you have any comments on the contract draft?",
+   "a": "The dispute resolution clause requires arbitration in another state, so I'd like to ask whether it could be held locally instead.",
+   "a_ko": "분쟁 해결 조항에 다른 주에서 중재를 하도록 되어 있어서, 대신 이 지역에서 할 수 있는지 여쭤보고 싶습니다."
+  },
+  "collocations": [
+   "dispute resolution clause",
+   "alternative dispute resolution"
+  ],
+  "related": [
+   "resolve",
+   "resolution",
+   "solve",
+   "solvent"
+  ],
+  "tip": "계약서 분쟁 해결 조항. arbitration(중재)·mediation(조정)과 함께 나옴"
+ },
+ {
+  "id": "d28-B20",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "solvent",
+  "pos": "adjective",
+  "ipa": "/ˈsɑːlvənt/",
+  "meaning_ko": "지급 능력이 있는, 빚을 갚을 수 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "solv",
+     "type": "root",
+     "gloss": "풀다, 갚다 (solvere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "(빚을) 풀어 갚을 수 있는 → 지급 능력이 있는"
+  },
+  "example": {
+   "q": "What would you check before signing a long-term contract with a vendor?",
+   "a": "I'd review their financial statements to make sure they're solvent, because migrating away from a failed vendor could cost us months.",
+   "a_ko": "재무제표를 보고 지급 능력이 있는지 확인하겠습니다. 망한 업체에서 옮겨 가려면 몇 달이 걸릴 수 있으니까요."
+  },
+  "collocations": [
+   "remain solvent",
+   "financially solvent",
+   "solvent company"
+  ],
+  "related": [
+   "solve",
+   "insolvency",
+   "dissolution",
+   "solver"
+  ],
+  "tip": "화학에선 '용매'. 비즈니스에선 '빚을 갚을 능력이 있는'"
+ },
+ {
+  "id": "d28-B21",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "insolvency",
+  "pos": "noun",
+  "ipa": "/ɪnˈsɑːlvənsi/",
+  "meaning_ko": "지급 불능, 파산 상태",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "solv",
+     "type": "root",
+     "gloss": "풀다, 갚다 (solvere)"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "~한 상태"
+    }
+   ],
+   "story": "빚을 풀어 갚지 못하는 상태 → 지급 불능"
+  },
+  "example": {
+   "q": "Our parent company is restructuring, but your role is safe.",
+   "a": "Thanks for being upfront. Could the contract state that my severance is protected even in the event of insolvency?",
+   "a_ko": "솔직하게 말씀해 주셔서 감사합니다. 지급 불능 상황이 되더라도 퇴직금은 보호된다고 계약서에 명시할 수 있을까요?"
+  },
+  "collocations": [
+   "in the event of insolvency",
+   "insolvency proceedings"
+  ],
+  "related": [
+   "solvent",
+   "solve",
+   "dissolution",
+   "bankruptcy"
+  ],
+  "tip": "bankruptcy는 법적 절차, insolvency는 '빚을 못 갚는 상태' 자체"
+ },
+ {
+  "id": "d28-B22",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "sublease",
+  "pos": "verb",
+  "ipa": "/ˈsʌbliːs/",
+  "meaning_ko": "(빌린 집을) 다시 빌려주다, 전대하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "lease",
+     "type": "root",
+     "gloss": "놓아주다, 빌려주다 (laxare 느슨하게 하다, lax)"
+    }
+   ],
+   "story": "느슨하게 놓아줌(빌려줌) → 그 아래로 한 번 더 빌려주다 → 전대하다"
+  },
+  "example": {
+   "q": "Your start date is in six weeks. Does that work with your housing situation?",
+   "a": "It should. My lease runs until August, but my landlord allows me to sublease the place, so moving early isn't a problem.",
+   "a_ko": "괜찮을 것 같습니다. 임대 계약은 8월까지지만 집주인이 전대를 허락해서, 일찍 이사해도 문제없습니다."
+  },
+  "collocations": [
+   "sublease an apartment",
+   "sublease agreement"
+  ],
+  "related": [
+   "lease",
+   "release",
+   "relax",
+   "lessee"
+  ],
+  "tip": "영국에선 sublet이 더 흔함"
+ },
+ {
+  "id": "d28-B23",
+  "day": 28,
+  "level": 1,
+  "set": "B",
+  "family": "F8",
+  "word": "pull out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌpʊl ˈaʊt/",
+  "meaning_ko": "(진행 중인 일에서) 빠지다, 철회하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pull",
+     "type": "part",
+     "gloss": "당기다"
+    },
+    {
+     "text": " out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "당겨서 밖으로 빼다 → 진행 중인 과정에서 빠지다"
+  },
+  "example": {
+   "q": "Are you still interested in moving forward with us?",
+   "a": "Sadly, I need to pull out of the process because of a family move.",
+   "a_ko": "아쉽지만 가족 문제로 이사를 하게 되어 채용 절차에서 빠져야 할 것 같습니다."
+  },
+  "collocations": [
+   "pull out of the process",
+   "pull out of a deal"
+  ],
+  "related": [
+   "back out",
+   "call it off",
+   "break down",
+   "think it over"
+  ],
+  "tip": "back out은 약속한 뒤 발을 빼는 느낌, pull out은 진행 중인 과정에서 빠지는 일반적인 말"
+ },
+ {
+  "id": "d28-B24",
+  "day": 28,
+  "level": 2,
+  "set": "B",
+  "family": "F8",
+  "word": "back out",
+  "pos": "phrasal verb",
+  "ipa": "/ˌbæk ˈaʊt/",
+  "meaning_ko": "(약속에서) 발을 빼다, 철회하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "뒤로"
+    },
+    {
+     "text": " out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "뒤로 물러나 밖으로 나가다 → 약속·거래에서 발을 빼다"
+  },
+  "example": {
+   "q": "Is there any chance you'd back out after signing?",
+   "a": "No. Once I sign, I won't back out, which is why I'm asking all my questions now, before I commit.",
+   "a_ko": "아닙니다. 서명하면 발을 빼지 않을 것이고, 그래서 확정하기 전인 지금 질문을 모두 드리는 겁니다."
+  },
+  "collocations": [
+   "back out of a deal",
+   "back out at the last minute"
+  ],
+  "related": [
+   "turn down",
+   "call it off",
+   "deal-breaker",
+   "sleep on it"
+  ],
+  "tip": "back out of + 명사. 서명 후 철회는 신뢰를 크게 잃으니 주의"
+ },
+ {
+  "id": "d28-B25",
+  "day": 28,
+  "level": 3,
+  "set": "B",
+  "family": "F8",
+  "word": "no hard feelings",
+  "pos": "phrase",
+  "ipa": "/ˌnoʊ ˌhɑːrd ˈfiːlɪŋz/",
+  "meaning_ko": "악감정은 없습니다, 서운해하지 마세요",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "no ",
+     "type": "part",
+     "gloss": "없는"
+    },
+    {
+     "text": "hard ",
+     "type": "part",
+     "gloss": "딱딱한, 언짢은"
+    },
+    {
+     "text": "feelings",
+     "type": "part",
+     "gloss": "감정"
+    }
+   ],
+   "story": "언짢은 감정이 없음 → 결과와 상관없이 관계는 좋게 남김"
+  },
+  "example": {
+   "q": "We've decided to go with another candidate. I'm sorry it didn't work out.",
+   "a": "No hard feelings at all; I enjoyed meeting the team, and I'd be glad to be considered if a similar role opens up later.",
+   "a_ko": "전혀 서운하지 않습니다. 팀분들을 만나서 즐거웠고, 나중에 비슷한 자리가 나면 기꺼이 다시 지원하고 싶습니다."
+  },
+  "collocations": [
+   "no hard feelings",
+   "I hope there are no hard feelings"
+  ],
+  "related": [
+   "leave the door open",
+   "burn bridges",
+   "turn down",
+   "close the deal"
+  ],
+  "tip": "내가 오퍼를 거절할 때도: I hope there are no hard feelings."
+ }
+]

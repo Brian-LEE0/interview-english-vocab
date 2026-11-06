@@ -1,0 +1,1187 @@
+[
+ {
+  "id": "d27-D01",
+  "day": 27,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "simple",
+  "pos": "adjective",
+  "ipa": "/ˈsɪmpəl/",
+  "meaning_ko": "단순한, 간단한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sim",
+     "type": "prefix",
+     "gloss": "하나 (sem)"
+    },
+    {
+     "text": "ple",
+     "type": "root",
+     "gloss": "겹 (-plex, plicare 접다)"
+    }
+   ],
+   "story": "라틴어 simplex(한 겹의) → 고대 프랑스어 simple → 꼬이지 않은 → 단순한, 간단한"
+  },
+  "example": {
+   "q": "How would you describe your coding style?",
+   "a": "I keep my code simple so that others can read it easily.",
+   "a_ko": "다른 사람이 쉽게 읽을 수 있도록 코드를 단순하게 유지합니다."
+  },
+  "collocations": [
+   "keep it simple",
+   "simple solution",
+   "simple and clear"
+  ],
+  "related": [
+   "simplify",
+   "simplicity",
+   "simplification",
+   "complex"
+  ],
+  "tip": "KISS(Keep It Simple, Stupid) 원칙. 반대는 complex(여러 겹으로 엮인)"
+ },
+ {
+  "id": "d27-D02",
+  "day": 27,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "reapply",
+  "pos": "verb",
+  "ipa": "/ˌriːəˈplaɪ/",
+  "meaning_ko": "다시 지원하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다·붙이다 (plic)"
+    }
+   ],
+   "story": "re(다시) + apply(~에 접어 붙이다 → 지원하다, 라틴어 applicare) → 다시 지원하다"
+  },
+  "example": {
+   "q": "If you're not selected this time, would you consider applying again?",
+   "a": "Yes, I'd reapply in a year with more cloud experience.",
+   "a_ko": "네, 클라우드 경험을 더 쌓아서 1년 뒤에 다시 지원하겠습니다."
+  },
+  "collocations": [
+   "reapply for a position",
+   "reapply after",
+   "eligible to reapply"
+  ],
+  "related": [
+   "apply",
+   "applicant",
+   "application",
+   "appliance"
+  ],
+  "tip": "회사마다 재지원 제한 기간(cooldown period)이 있으니 미리 물어보면 좋음"
+ },
+ {
+  "id": "d27-D03",
+  "day": 27,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "reply-all",
+  "pos": "verb",
+  "ipa": "/rɪˈplaɪ ˈɔːl/",
+  "meaning_ko": "전체 회신하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·뒤로"
+    },
+    {
+     "text": "ply",
+     "type": "root",
+     "gloss": "접다 (plic)"
+    },
+    {
+     "text": "all",
+     "type": "part",
+     "gloss": "모두"
+    }
+   ],
+   "story": "라틴어 replicare(다시 접어 되돌리다) → reply(답하다) + all(모두) → 받은 사람 모두에게 답하다"
+  },
+  "example": {
+   "q": "Should we copy the whole team on this update?",
+   "a": "Yes, I'll reply-all so everyone sees the new deadline.",
+   "a_ko": "네, 모두가 새 마감일을 볼 수 있게 전체 회신하겠습니다."
+  },
+  "collocations": [
+   "reply-all to an email",
+   "hit reply-all",
+   "avoid reply-all"
+  ],
+  "related": [
+   "reply",
+   "apply",
+   "imply",
+   "replica"
+  ],
+  "tip": "메일 예절: 꼭 필요할 때만 reply-all. 띄어 쓴 reply all 도 흔함"
+ },
+ {
+  "id": "d27-D04",
+  "day": 27,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "complicate",
+  "pos": "verb",
+  "ipa": "/ˈkɑːmplɪkeɪt/",
+  "meaning_ko": "복잡하게 만들다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "동사"
+    }
+   ],
+   "story": "라틴어 complicare(함께 접어 넣다) → 겹겹이 얽다 → 복잡하게 만들다"
+  },
+  "example": {
+   "q": "Can you start on the first of next month?",
+   "a": "Starting before my bonus pays out would complicate things, so could we say the twentieth?",
+   "a_ko": "보너스가 지급되기 전에 입사하면 일이 복잡해져서, 20일로 해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "complicate matters",
+   "complicate things",
+   "further complicate"
+  ],
+  "related": [
+   "complicated",
+   "complication",
+   "complex",
+   "explicit"
+  ],
+  "tip": "형용사 complicated 는 Day 7. 동사로 '상황을 꼬이게 한다'고 말할 때"
+ },
+ {
+  "id": "d27-D05",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "self-employed",
+  "pos": "adjective",
+  "ipa": "/ˌselfɪmˈplɔɪd/",
+  "meaning_ko": "자영업의, 프리랜서인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "self",
+     "type": "part",
+     "gloss": "스스로"
+    },
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "라틴어 implicare(안으로 접어 넣다) → 고대 프랑스어 emploier → employ(고용하다) → self(스스로) 고용된 → 자영업의"
+  },
+  "example": {
+   "q": "You've been freelancing for two years. Why move to a full-time role?",
+   "a": "Being self-employed taught me to manage clients and deadlines, and now I want the stability and teamwork of a full-time role.",
+   "a_ko": "프리랜서로 일하며 고객과 마감 관리를 배웠고, 이제는 정규직의 안정성과 팀워크를 원합니다."
+  },
+  "collocations": [
+   "self-employed contractor",
+   "be self-employed",
+   "self-employed income"
+  ],
+  "related": [
+   "employ",
+   "employer",
+   "unemployment",
+   "deploy"
+  ],
+  "tip": "프리랜서 경력을 설명할 때. 소득 증빙(self-employed income)이 필요할 수 있음"
+ },
+ {
+  "id": "d27-D06",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "unemployment",
+  "pos": "noun",
+  "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+  "meaning_ko": "실업",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "ploy",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "employ(고용하다, implicare 에서) + ment → 고용 → un 이 붙어 고용되지 않은 상태, 실업"
+  },
+  "example": {
+   "q": "Do you have any questions about the contract-to-hire terms?",
+   "a": "Yes, if the contract isn't converted, would I still be eligible for unemployment benefits under Korean law?",
+   "a_ko": "네, 정규직 전환이 안 될 경우에도 한국 법상 실업 급여를 받을 수 있는지 궁금합니다."
+  },
+  "collocations": [
+   "unemployment benefits",
+   "unemployment insurance",
+   "unemployment rate"
+  ],
+  "related": [
+   "employ",
+   "employment",
+   "self-employed",
+   "employer"
+  ],
+  "tip": "실업 급여는 unemployment benefits. 고용보험은 employment insurance 라고도 함"
+ },
+ {
+  "id": "d27-D07",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "appliance",
+  "pos": "noun",
+  "ipa": "/əˈplaɪəns/",
+  "meaning_ko": "(전용) 장비, 어플라이언스",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "pli",
+     "type": "root",
+     "gloss": "접다·붙이다 (plic)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "apply(~에 접어 붙이다 → 갖다 쓰다, 라틴어 applicare) + ance → 쓰임에 갖다 대는 것 → 특정 용도의 기기, 장비"
+  },
+  "example": {
+   "q": "Have you done any network migration work?",
+   "a": "We replaced an old on-premises firewall appliance with a cloud service, which removed a single point of failure.",
+   "a_ko": "오래된 사내 방화벽 장비를 클라우드 서비스로 교체해서 단일 장애점을 없앴습니다."
+  },
+  "collocations": [
+   "network appliance",
+   "security appliance",
+   "virtual appliance"
+  ],
+  "related": [
+   "apply",
+   "application",
+   "reapply",
+   "applicable"
+  ],
+  "tip": "IT 에서는 특정 기능 전용 서버·장비. 일상에서는 가전제품(home appliance)"
+ },
+ {
+  "id": "d27-D08",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "flexbox",
+  "pos": "noun",
+  "ipa": "/ˈfleksbɑːks/",
+  "meaning_ko": "플렉스박스 (CSS 유연 레이아웃)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "flex",
+     "type": "root",
+     "gloss": "구부리다 (flectere)"
+    },
+    {
+     "text": "box",
+     "type": "part",
+     "gloss": "상자"
+    }
+   ],
+   "story": "flex(구부리다, 라틴어 flexus ← flectere) + box(상자) → 늘었다 줄었다 하는 상자 → CSS 의 유연한 박스 레이아웃"
+  },
+  "example": {
+   "q": "How did you make the dashboard work on mobile?",
+   "a": "I rebuilt the layout with flexbox, so the cards wrap naturally on small screens without separate mobile templates.",
+   "a_ko": "레이아웃을 플렉스박스로 다시 만들어, 별도 모바일 템플릿 없이도 작은 화면에서 카드가 자연스럽게 줄바꿈되도록 했습니다."
+  },
+  "collocations": [
+   "use flexbox",
+   "flexbox layout",
+   "flexbox and grid"
+  ],
+  "related": [
+   "flexible",
+   "flextime",
+   "inflexible",
+   "reflect"
+  ],
+  "tip": "1차원 배치는 flexbox, 2차원 배치는 CSS grid 라고 구분해서 말하면 좋음"
+ },
+ {
+  "id": "d27-D09",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "complicit",
+  "pos": "adjective",
+  "ipa": "/kəmˈplɪsɪt/",
+  "meaning_ko": "(나쁜 일에) 공모한, 가담한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다, 엮다 (plicare)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "형용사 어미"
+    }
+   ],
+   "story": "후기 라틴어 complex(함께 엮인 사람, 공범) → 프랑스어 complice(공범) → complicity(공모) → complicit(가담한)"
+  },
+  "example": {
+   "q": "What would you do if a teammate hid a production error?",
+   "a": "I'd talk to them privately first, but if they refused to report it, I'd escalate, because staying silent would make me complicit.",
+   "a_ko": "먼저 따로 이야기하겠지만, 끝내 보고하지 않으면 상부에 알리겠습니다. 침묵하면 저도 가담하는 셈이 되기 때문입니다."
+  },
+  "collocations": [
+   "complicit in",
+   "be complicit",
+   "complicit silence"
+  ],
+  "related": [
+   "complex",
+   "complicate",
+   "complication",
+   "implicit"
+  ],
+  "tip": "윤리·청렴성 질문(integrity question)에서 '침묵도 가담'이라는 태도를 보여 줄 때"
+ },
+ {
+  "id": "d27-D10",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "inexplicable",
+  "pos": "adjective",
+  "ipa": "/ˌɪnɪkˈsplɪkəbəl/",
+  "meaning_ko": "설명할 수 없는, 원인 불명의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "plic",
+     "type": "root",
+     "gloss": "접다 (plicare)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 explicare(접힌 것을 밖으로 펼치다 → 설명하다) → explicabilis → in 이 붙어 설명할 수 없는"
+  },
+  "example": {
+   "q": "Tell me about the hardest bug you've tracked down.",
+   "a": "We had inexplicable timeouts only on Mondays, and after tracing the logs I found a weekly batch job that exhausted the database connections.",
+   "a_ko": "월요일에만 원인 모를 타임아웃이 났는데, 로그를 추적해 보니 DB 커넥션을 고갈시키는 주간 배치 작업이 원인이었습니다."
+  },
+  "collocations": [
+   "inexplicable error",
+   "for some inexplicable reason",
+   "seemingly inexplicable"
+  ],
+  "related": [
+   "explicit",
+   "implicit",
+   "complicate",
+   "imply"
+  ],
+  "tip": "강세는 -SPLIC- 또는 IN- 둘 다 씀. 디버깅 STAR 답변의 상황 설명에"
+ },
+ {
+  "id": "d27-D11",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "multiplexing",
+  "pos": "noun",
+  "ipa": "/ˈmʌltiˌpleksɪŋ/",
+  "meaning_ko": "다중화 (한 연결에 여러 흐름을 싣기)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "multi",
+     "type": "prefix",
+     "gloss": "많은"
+    },
+    {
+     "text": "plex",
+     "type": "root",
+     "gloss": "겹 (plicare 접다)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "라틴어 multiplex(여러 겹의) → multiplex(여러 신호를 한 회선에 싣다) → 다중화"
+  },
+  "example": {
+   "q": "How did you improve page load times on mobile?",
+   "a": "Moving to HTTP/2 multiplexing let the browser send many requests over one connection, which reduced load time by about 40 percent on mobile.",
+   "a_ko": "HTTP/2 다중화로 바꿔 브라우저가 연결 하나로 여러 요청을 보내게 했더니, 모바일 로딩 시간이 약 40% 줄었습니다."
+  },
+  "collocations": [
+   "HTTP/2 multiplexing",
+   "connection multiplexing",
+   "stream multiplexing"
+  ],
+  "related": [
+   "multiple",
+   "duplex",
+   "complex",
+   "multiply"
+  ],
+  "tip": "연결 하나에 여러 스트림을 섞어 보내는 것. 반대 개념은 요청마다 연결을 새로 여는 방식"
+ },
+ {
+  "id": "d27-D12",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "letter of intent",
+  "pos": "noun",
+  "ipa": "/ˈletər əv ɪnˈtent/",
+  "meaning_ko": "의향서",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "letter",
+     "type": "part",
+     "gloss": "편지, 문서"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "intent",
+     "type": "root",
+     "gloss": "의도 (intendere ~쪽으로 뻗다)"
+    }
+   ],
+   "story": "라틴어 intendere(~쪽으로 마음을 뻗다) → intent(의도) → letter of intent(의도를 밝힌 문서) → 의향서"
+  },
+  "example": {
+   "q": "The client wants to sign a letter of intent before the full contract.",
+   "a": "That's a good step, but since a letter of intent is usually non-binding, I'd keep our security review on the original schedule.",
+   "a_ko": "좋은 진전이지만 의향서는 보통 구속력이 없으니, 보안 검토는 원래 일정대로 진행하는 것이 좋겠습니다."
+  },
+  "collocations": [
+   "sign a letter of intent",
+   "non-binding letter of intent",
+   "issue a letter of intent"
+  ],
+  "related": [
+   "intention",
+   "intentional",
+   "intend",
+   "extension"
+  ],
+  "tip": "줄여서 LOI. 본계약 전 단계라 법적 구속력이 없는 경우가 많다는 점이 핵심"
+ },
+ {
+  "id": "d27-D13",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "payroll",
+  "pos": "noun",
+  "ipa": "/ˈpeɪroʊl/",
+  "meaning_ko": "급여 지급 (명부), 급여 대장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pay",
+     "type": "part",
+     "gloss": "지불하다"
+    },
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "두루마리, 명부 (rotulus)"
+    }
+   ],
+   "story": "pay(지불하다) + roll(명부, 고대 프랑스어 rolle ← 라틴어 rotulus 작은 바퀴·두루마리) → 급여 받을 사람의 명부 → 급여 지급"
+  },
+  "example": {
+   "q": "Our payroll runs on the twenty-fifth of each month.",
+   "a": "That works; if I start on the fifteenth, will my first month be prorated on the next payroll?",
+   "a_ko": "괜찮습니다. 15일에 입사하면 첫 달 급여는 다음 급여일에 일할 계산되어 나오나요?"
+  },
+  "collocations": [
+   "on the payroll",
+   "payroll date",
+   "run payroll"
+  ],
+  "related": [
+   "roll",
+   "enrollment",
+   "rollover",
+   "role"
+  ],
+  "tip": "be on the payroll = 정식 직원으로 급여를 받다. 첫 급여의 일할 계산(prorated)을 확인할 때"
+ },
+ {
+  "id": "d27-D14",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "enrollment",
+  "pos": "noun",
+  "ipa": "/ɪnˈroʊlmənt/",
+  "meaning_ko": "등록, 가입",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "안에 (in)"
+    },
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "두루마리, 명부 (rotulus)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "고대 프랑스어 enroller(명부 안에 적어 넣다, rolle < rotulus) → 등록하다 → 등록, 가입"
+  },
+  "example": {
+   "q": "Benefits enrollment opens during your first week.",
+   "a": "Great; could you send the enrollment guide early so I can compare the health plans with my wife?",
+   "a_ko": "좋습니다. 아내와 건강보험 플랜을 비교해 볼 수 있게 가입 안내서를 미리 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "benefits enrollment",
+   "open enrollment",
+   "enrollment period"
+  ],
+  "related": [
+   "enroll",
+   "roll",
+   "payroll",
+   "control"
+  ],
+  "tip": "미국 회사 복리후생은 open enrollment(정해진 가입 기간)에만 변경 가능한 경우가 많음"
+ },
+ {
+  "id": "d27-D15",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "rollover",
+  "pos": "noun",
+  "ipa": "/ˈroʊloʊvər/",
+  "meaning_ko": "이월, (계좌) 이전",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "굴리다 (rotulus)"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어"
+    }
+   ],
+   "story": "roll(굴리다, 고대 프랑스어 roller ← rotulus) + over(넘어) → 다음으로 굴려 넘김 → 이월, 이전"
+  },
+  "example": {
+   "q": "You'll get fifteen vacation days per year.",
+   "a": "Thank you; could you tell me whether unused days have a rollover into the next year, or do they expire?",
+   "a_ko": "감사합니다. 쓰지 않은 휴가는 다음 해로 이월되나요, 아니면 소멸되나요?"
+  },
+  "collocations": [
+   "vacation rollover",
+   "401(k) rollover",
+   "rollover policy"
+  ],
+  "related": [
+   "roll",
+   "payroll",
+   "enrollment",
+   "rotate"
+  ],
+  "tip": "휴가 이월, 퇴직연금 계좌 이전(401(k) rollover) 모두에 씀. 동사구는 roll over"
+ },
+ {
+  "id": "d27-D16",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "rolling",
+  "pos": "adjective",
+  "ipa": "/ˈroʊlɪŋ/",
+  "meaning_ko": "수시의, 순차적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "굴리다 (rotulus)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "roll(굴리다, rotulus 작은 바퀴) → 계속 굴러가는 → 끊김 없이 이어지는 → 수시의, 순차적인"
+  },
+  "example": {
+   "q": "When do you expect to make a decision?",
+   "a": "I'm interviewing on a rolling basis with two other companies, so hearing back within two weeks would help me plan.",
+   "a_ko": "다른 두 회사와도 순차적으로 면접을 보고 있어서, 2주 안에 결과를 들을 수 있으면 계획을 세우는 데 도움이 됩니다."
+  },
+  "collocations": [
+   "on a rolling basis",
+   "rolling deployment",
+   "rolling release"
+  ],
+  "related": [
+   "roll",
+   "rollover",
+   "payroll",
+   "rotate"
+  ],
+  "tip": "on a rolling basis = 정해진 마감 없이 수시로. IT 에서는 rolling deployment(순차 배포)"
+ },
+ {
+  "id": "d27-D17",
+  "day": 27,
+  "level": 2,
+  "set": "D",
+  "family": "F7",
+  "word": "rotational",
+  "pos": "adjective",
+  "ipa": "/roʊˈteɪʃənəl/",
+  "meaning_ko": "순환 근무의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rot",
+     "type": "root",
+     "gloss": "바퀴, 돌다 (rota)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 rota(바퀴) → rotare(돌다) → rotation(순환) → 여러 부서를 돌며 일하는, 순환 근무의"
+  },
+  "example": {
+   "q": "Why did you choose your first company?",
+   "a": "They offered a rotational program, so I worked on backend, data and infrastructure teams before choosing my specialty.",
+   "a_ko": "순환 근무 프로그램이 있어서 백엔드, 데이터, 인프라 팀을 거친 뒤 전문 분야를 정할 수 있었습니다."
+  },
+  "collocations": [
+   "rotational program",
+   "rotational role",
+   "rotational assignment"
+  ],
+  "related": [
+   "rotate",
+   "rotation",
+   "role",
+   "control"
+  ],
+  "tip": "신입 대상 rotational program(순환 근무 프로그램) 설명에. on-call rotation 은 당번 교대"
+ },
+ {
+  "id": "d27-D18",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "bankroll",
+  "pos": "verb",
+  "ipa": "/ˈbæŋkroʊl/",
+  "meaning_ko": "자금을 대다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bank",
+     "type": "part",
+     "gloss": "은행"
+    },
+    {
+     "text": "roll",
+     "type": "root",
+     "gloss": "두루마리, 뭉치 (rotulus)"
+    }
+   ],
+   "story": "bank(은행) + roll(말아 둔 뭉치, rotulus) → 말아 둔 지폐 뭉치 → 보유 자금 → (동사) 자금을 대다"
+  },
+  "example": {
+   "q": "Our parent company has agreed to bankroll us for the next two years.",
+   "a": "That's reassuring; while they bankroll operations, how will the value of employee stock options be set without an outside funding round?",
+   "a_ko": "든든하네요. 모회사가 운영 자금을 대는 동안 외부 투자 라운드 없이 직원 스톡옵션 가치는 어떻게 정해지나요?"
+  },
+  "collocations": [
+   "bankroll a project",
+   "bankroll a startup",
+   "bankrolled by"
+  ],
+  "related": [
+   "roll",
+   "payroll",
+   "enrollment",
+   "rollover"
+  ],
+  "tip": "fund 의 구어적 표현. 명사로는 '자금(력)'"
+ },
+ {
+  "id": "d27-D19",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "devolve",
+  "pos": "verb",
+  "ipa": "/dɪˈvɑːlv/",
+  "meaning_ko": "(권한·책임을) 아래로 넘기다, 위임하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "volve",
+     "type": "root",
+     "gloss": "굴리다 (volvere)"
+    }
+   ],
+   "story": "라틴어 devolvere(아래로 굴리다) → 아래로 굴러 내려가다 → (권한·책임을) 아래로 넘기다"
+  },
+  "example": {
+   "q": "How much autonomy do you expect in this role?",
+   "a": "I work best when decisions devolve to the team closest to the problem, while I keep my manager informed through a weekly written update.",
+   "a_ko": "문제에 가장 가까운 팀에 결정 권한이 넘어갈 때 가장 잘 일하고, 매니저에게는 주간 서면 업데이트로 계속 공유합니다."
+  },
+  "collocations": [
+   "devolve responsibility",
+   "devolve power to",
+   "devolve into"
+  ],
+  "related": [
+   "evolve",
+   "involve",
+   "revolve",
+   "convolution"
+  ],
+  "tip": "devolve into ~ 는 '~로 악화되다'(The meeting devolved into an argument)"
+ },
+ {
+  "id": "d27-D20",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "evolutionary",
+  "pos": "adjective",
+  "ipa": "/ˌevəˈluːʃəneri/",
+  "meaning_ko": "점진적으로 발전하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "말다, 굴리다 (volvere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 evolvere(말린 것을 밖으로 펼치다) → evolutio → evolution(발전, 진화) → 점진적으로 발전하는"
+  },
+  "example": {
+   "q": "How did you modernize your legacy system?",
+   "a": "I pushed for an evolutionary architecture: we split the monolith one service at a time, so customers never saw a big-bang migration.",
+   "a_ko": "점진적 아키텍처를 제안해서 모놀리스를 서비스 하나씩 분리했기 때문에, 고객은 한 번에 갈아엎는 전환을 겪지 않았습니다."
+  },
+  "collocations": [
+   "evolutionary architecture",
+   "evolutionary approach",
+   "evolutionary change"
+  ],
+  "related": [
+   "evolve",
+   "evolution",
+   "revolution",
+   "involve"
+  ],
+  "tip": "revolutionary(급진적인)와 대비. 레거시 현대화를 '한 번에'가 아니라 '조금씩' 했다고 말할 때"
+ },
+ {
+  "id": "d27-D21",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "convolution",
+  "pos": "noun",
+  "ipa": "/ˌkɑːnvəˈluːʃən/",
+  "meaning_ko": "합성곱 (CNN의 연산)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "말다, 굴리다 (volvere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 convolvere(함께 말다) → 둘둘 말림, 얽힘 → (수학) 두 함수를 겹쳐 굴리는 연산 → 합성곱"
+  },
+  "example": {
+   "q": "Have you worked on any computer vision models?",
+   "a": "For defect detection I used convolution layers to extract image features, which raised accuracy from 82 to 94 percent on our test set.",
+   "a_ko": "결함 검출 프로젝트에서 합성곱 층으로 이미지 특징을 추출해, 테스트셋 정확도를 82%에서 94%로 올렸습니다."
+  },
+  "collocations": [
+   "convolution layer",
+   "convolutional neural network",
+   "apply a convolution"
+  ],
+  "related": [
+   "convoluted",
+   "evolve",
+   "involve",
+   "revolve"
+  ],
+  "tip": "CNN = convolutional neural network. 형용사 convoluted 는 '난해하게 꼬인'(Day 17)"
+ },
+ {
+  "id": "d27-D22",
+  "day": 27,
+  "level": 1,
+  "set": "D",
+  "family": "F7",
+  "word": "tour",
+  "pos": "noun",
+  "ipa": "/tʊr/",
+  "meaning_ko": "견학, 둘러보기",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tour",
+     "type": "root",
+     "gloss": "한 바퀴 돌기 (tornus 선반)"
+    }
+   ],
+   "story": "그리스어 tornos·라틴어 tornus(선반, 돌리는 도구) → 고대 프랑스어 tour(돌기, 한 바퀴) → 한 바퀴 둘러보기, 견학"
+  },
+  "example": {
+   "q": "Would you like an office tour before you make your decision?",
+   "a": "Yes, a quick tour would help me picture working here.",
+   "a_ko": "네, 잠깐 둘러보면 이곳에서 일하는 모습을 그려 보는 데 도움이 될 것 같습니다."
+  },
+  "collocations": [
+   "office tour",
+   "give a tour",
+   "take a tour"
+  ],
+  "related": [
+   "turn",
+   "return",
+   "detour",
+   "attorney"
+  ],
+  "tip": "오퍼 결정 전 사무실·팀을 둘러볼 기회를 요청할 때. 발음은 '투어'(tʊr)"
+ },
+ {
+  "id": "d27-D23",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "overturn",
+  "pos": "verb",
+  "ipa": "/ˌoʊvərˈtɝːn/",
+  "meaning_ko": "(결정을) 뒤집다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어, 뒤집어"
+    },
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    }
+   ],
+   "story": "over(뒤집어) + turn(돌리다, 라틴어 tornare) → 엎어 뒤집다 → (결정·판결을) 뒤집다"
+  },
+  "example": {
+   "q": "The hiring committee rejected the salary exception last week.",
+   "a": "I understand, but if the committee could overturn that decision with my competing offer as evidence, I'd be ready to sign this week.",
+   "a_ko": "이해합니다. 다만 제 경쟁 오퍼를 근거로 위원회가 그 결정을 뒤집을 수 있다면 이번 주에 바로 서명할 준비가 되어 있습니다."
+  },
+  "collocations": [
+   "overturn a decision",
+   "overturn a ruling",
+   "be overturned"
+  ],
+  "related": [
+   "turn down",
+   "U-turn",
+   "return",
+   "turnover"
+  ],
+  "tip": "reverse a decision 과 비슷한 격식 표현. 경쟁 오퍼를 근거로 재검토를 요청할 때"
+ },
+ {
+  "id": "d27-D24",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "cash-strapped",
+  "pos": "adjective",
+  "ipa": "/ˈkæʃ stræpt/",
+  "meaning_ko": "자금난에 시달리는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cash",
+     "type": "part",
+     "gloss": "현금"
+    },
+    {
+     "text": "strapped",
+     "type": "part",
+     "gloss": "(돈에) 쪼들리는"
+    }
+   ],
+   "story": "cash(현금) + strapped(끈으로 꽉 묶인 → 19세기 속어 '돈에 쪼들리는') → 현금이 모자라는 → 자금난에 시달리는"
+  },
+  "example": {
+   "q": "We're an early-stage startup, so cash is limited.",
+   "a": "I know cash-strapped startups can't always match big-tech salaries, so I'd consider a lower base in exchange for meaningful equity and a review in six months.",
+   "a_ko": "자금이 빠듯한 스타트업이 대기업 연봉을 맞추기 어렵다는 걸 알기에, 의미 있는 지분과 6개월 뒤 재검토를 조건으로 낮은 기본급도 고려하겠습니다."
+  },
+  "collocations": [
+   "cash-strapped startup",
+   "cash-strapped company",
+   "cash-strapped budget"
+  ],
+  "related": [
+   "runway",
+   "down round",
+   "headwind",
+   "downturn"
+  ],
+  "tip": "핵심어. 상대 회사를 직접 cash-strapped 라고 부르면 무례할 수 있어 일반론으로 말하는 것이 안전"
+ },
+ {
+  "id": "d27-D25",
+  "day": 27,
+  "level": 3,
+  "set": "D",
+  "family": "F7",
+  "word": "down round",
+  "pos": "noun",
+  "ipa": "/ˈdaʊn raʊnd/",
+  "meaning_ko": "다운 라운드 (이전보다 낮은 가치의 투자)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    },
+    {
+     "text": "round",
+     "type": "part",
+     "gloss": "(투자) 라운드"
+    }
+   ],
+   "story": "down(아래로) + round(한 차례의 투자 유치) → 이전 라운드보다 낮은 기업 가치로 받은 투자"
+  },
+  "example": {
+   "q": "To be honest, our last funding was a down round.",
+   "a": "Thanks for sharing that; after a down round, I'd like to understand whether employee options were repriced and how my grant would be protected.",
+   "a_ko": "말씀해 주셔서 감사합니다. 다운 라운드 이후 직원 옵션 행사가가 재조정되었는지, 제 부여분은 어떻게 보호되는지 알고 싶습니다."
+  },
+  "collocations": [
+   "raise a down round",
+   "after a down round",
+   "down round protection"
+  ],
+  "related": [
+   "upside",
+   "runway",
+   "cash-strapped",
+   "downturn"
+  ],
+  "tip": "핵심어. 반대는 up round. 스톡옵션 가치에 직접 영향을 주므로 꼭 확인할 사항"
+ }
+]

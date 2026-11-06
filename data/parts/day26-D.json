@@ -1,0 +1,1207 @@
+[
+ {
+  "id": "d26-D01",
+  "day": 26,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "generation",
+  "pos": "noun",
+  "ipa": "/ˌdʒenəˈreɪʃən/",
+  "meaning_ko": "세대, 생성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gener",
+     "type": "root",
+     "gloss": "낳다 (gen)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "generare '낳다' → 낳음, 생성 → 같은 때 태어난 무리 → 세대"
+  },
+  "example": {
+   "q": "What did you work on last year?",
+   "a": "I helped build the next generation of our mobile app.",
+   "a_ko": "저희 모바일 앱의 차세대 버전을 만드는 데 참여했습니다."
+  },
+  "collocations": [
+   "next generation",
+   "code generation",
+   "a new generation of"
+  ],
+  "related": [
+   "generate",
+   "regenerate",
+   "general",
+   "generous"
+  ],
+  "tip": "'차세대'가 형용사로 명사 앞에 오면 하이픈: a next-generation platform"
+ },
+ {
+  "id": "d26-D02",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "heterogeneous",
+  "pos": "adjective",
+  "ipa": "/ˌhetərəˈdʒiːniəs/",
+  "meaning_ko": "이질적인, 여러 종류가 섞인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hetero",
+     "type": "prefix",
+     "gloss": "다른 (그리스어 heteros)"
+    },
+    {
+     "text": "gene",
+     "type": "root",
+     "gloss": "종류 (그리스어 genos, gen)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "그리스어 heterogenes '다른 종류의' → 서로 다른 것이 섞인 → 이질적인"
+  },
+  "example": {
+   "q": "This project has stakeholders from sales, legal, and engineering.",
+   "a": "With such a heterogeneous group, I'd start by agreeing on one shared success metric, then send a weekly summary each team can read in two minutes.",
+   "a_ko": "이렇게 다양한 사람들로 이뤄진 그룹이라면, 먼저 공통 성공 지표 하나에 합의하고 팀마다 2분이면 읽을 수 있는 주간 요약을 보내겠습니다."
+  },
+  "collocations": [
+   "a heterogeneous group",
+   "heterogeneous systems",
+   "highly heterogeneous"
+  ],
+  "related": [
+   "homogeneous",
+   "general",
+   "generate",
+   "generation"
+  ],
+  "tip": "발음 /ˌhetərəˈdʒiːniəs/. 사람·시스템 모두에 '여러 종류가 섞인'. 반대는 homogeneous"
+ },
+ {
+  "id": "d26-D03",
+  "day": 26,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "subscribe",
+  "pos": "verb",
+  "ipa": "/səbˈskraɪb/",
+  "meaning_ko": "구독하다, (의견에) 동의하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "scribe",
+     "type": "root",
+     "gloss": "쓰다 (scrib)"
+    }
+   ],
+   "story": "subscribere '아래에 이름을 쓰다' → 서명해 동의하다 → 정기 구독을 신청하다"
+  },
+  "example": {
+   "q": "How do you keep up with new technology?",
+   "a": "I subscribe to a few engineering newsletters and read them every morning.",
+   "a_ko": "엔지니어링 뉴스레터 몇 개를 구독해서 매일 아침 읽습니다."
+  },
+  "collocations": [
+   "subscribe to",
+   "subscribe to a view",
+   "subscribe to events"
+  ],
+  "related": [
+   "subscription",
+   "describe",
+   "prescribe",
+   "script"
+  ],
+  "tip": "'subscribe to a view' = 어떤 견해에 동의하다 라는 뜻도 있음"
+ },
+ {
+  "id": "d26-D04",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "subscription",
+  "pos": "noun",
+  "ipa": "/səbˈskrɪpʃən/",
+  "meaning_ko": "구독(료), 정기 결제",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에"
+    },
+    {
+     "text": "scrip",
+     "type": "root",
+     "gloss": "쓰다 (scrib)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "subscribere '아래에 이름을 쓰다' → 서명해 약정함 → 정기 구독"
+  },
+  "example": {
+   "q": "Every engineer gets an annual learning budget of $1,500.",
+   "a": "That's great. Could I use part of it for an online course subscription, or does it only cover conferences?",
+   "a_ko": "좋네요. 그중 일부를 온라인 강의 구독료로 써도 되나요, 아니면 컨퍼런스에만 쓸 수 있나요?"
+  },
+  "collocations": [
+   "subscription fee",
+   "cancel a subscription",
+   "subscription model"
+  ],
+  "related": [
+   "subscribe",
+   "prescription",
+   "description",
+   "script"
+  ],
+  "tip": "SaaS 비즈니스의 '구독 모델'(subscription model)로도 자주 나옴"
+ },
+ {
+  "id": "d26-D05",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "descriptor",
+  "pos": "noun",
+  "ipa": "/dɪˈskrɪptər/",
+  "meaning_ko": "디스크립터 (자원을 가리키는 식별 정보)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "scrip",
+     "type": "root",
+     "gloss": "쓰다 (scrib)"
+    },
+    {
+     "text": "tor",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "describere '베껴 쓰다, 묘사하다' → 묘사하는 것 → 파일·자원을 가리키는 정보"
+  },
+  "example": {
+   "q": "Tell me about a hard production bug you fixed.",
+   "a": "Our service crashed every few days because it leaked file descriptors, so I found the unclosed sockets and added a metric to alert us early.",
+   "a_ko": "서비스가 며칠마다 죽었는데 파일 디스크립터가 새고 있었습니다. 닫히지 않은 소켓을 찾아 고치고, 미리 알 수 있게 지표 알림을 추가했습니다."
+  },
+  "collocations": [
+   "file descriptor",
+   "descriptor leak",
+   "property descriptor"
+  ],
+  "related": [
+   "describe",
+   "description",
+   "descriptive",
+   "script"
+  ],
+  "tip": "Linux 의 'too many open files' 오류 = 파일 디스크립터 고갈"
+ },
+ {
+  "id": "d26-D06",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "circumscribe",
+  "pos": "verb",
+  "ipa": "/ˈsɜːrkəmskraɪb/",
+  "meaning_ko": "(범위를) 한정하다, 제한하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "circum",
+     "type": "prefix",
+     "gloss": "둘레에"
+    },
+    {
+     "text": "scribe",
+     "type": "root",
+     "gloss": "쓰다·긋다 (scrib)"
+    }
+   ],
+   "story": "circumscribere '둘레에 선을 긋다' → 경계를 정하다 → 범위를 한정하다"
+  },
+  "example": {
+   "q": "Our standard IP agreement covers anything you build while you're employed here.",
+   "a": "I'd like that clause circumscribed to work related to the company's business, so my weekend open-source projects stay my own.",
+   "a_ko": "그 조항을 회사 사업과 관련된 작업으로 한정해 주셨으면 합니다. 주말에 하는 제 오픈소스 프로젝트는 제 것으로 남도록요."
+  },
+  "collocations": [
+   "narrowly circumscribed",
+   "circumscribe the scope",
+   "clearly circumscribed"
+  ],
+  "related": [
+   "describe",
+   "prescribe",
+   "subscribe",
+   "script"
+  ],
+  "tip": "limit 보다 격식 — 계약 조항의 '범위를 좁혀 달라'고 할 때"
+ },
+ {
+  "id": "d26-D07",
+  "day": 26,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "supplier",
+  "pos": "noun",
+  "ipa": "/səˈplaɪər/",
+  "meaning_ko": "공급업체",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "pli",
+     "type": "root",
+     "gloss": "채우다 (ple)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 사람·곳"
+    }
+   ],
+   "story": "supplere '아래에서 채워 넣다' → supply 공급하다 → 공급하는 업체"
+  },
+  "example": {
+   "q": "Our cloud supplier just raised its prices by 20%.",
+   "a": "Let's compare two other suppliers before we renew the contract.",
+   "a_ko": "계약을 갱신하기 전에 다른 공급업체 두 곳과 비교해 보죠."
+  },
+  "collocations": [
+   "main supplier",
+   "switch suppliers",
+   "supplier contract"
+  ],
+  "related": [
+   "supply",
+   "supply chain",
+   "supplement",
+   "complete"
+  ],
+  "tip": "IT 에서는 vendor 와 거의 같은 뜻으로 씀"
+ },
+ {
+  "id": "d26-D08",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "complimentary",
+  "pos": "adjective",
+  "ipa": "/ˌkɑːmplɪˈmentəri/",
+  "meaning_ko": "무료의; 칭찬하는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "pli",
+     "type": "root",
+     "gloss": "채우다 (ple)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~한 것"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 complere '채우다' → 스페인어 cumplir '예의를 다하다' → compliment 예의를 갖춘 말 → 예의로 주는 → 무료의"
+  },
+  "example": {
+   "q": "We also have a fully stocked kitchen at the office.",
+   "a": "That's nice. Are lunches complimentary every day, or only on team days?",
+   "a_ko": "좋네요. 점심이 매일 무료인가요, 아니면 팀 데이에만 그런가요?"
+  },
+  "collocations": [
+   "complimentary lunch",
+   "complimentary membership",
+   "complimentary upgrade"
+  ],
+  "related": [
+   "compliment",
+   "comply",
+   "complete",
+   "complementary"
+  ],
+  "tip": "complementary(보완하는)와 철자 i/e 하나 차이 — 혼동 주의"
+ },
+ {
+  "id": "d26-D09",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "supplementary",
+  "pos": "adjective",
+  "ipa": "/ˌsʌplɪˈmentəri/",
+  "meaning_ko": "추가의, 보충의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "ple",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "supplementum '보충물' → 보충하는 → 추가의"
+  },
+  "example": {
+   "q": "Our base health plan covers most standard treatments.",
+   "a": "That's helpful. Is there a supplementary plan for dental and vision, and would the company cover part of that premium for my family?",
+   "a_ko": "도움이 됩니다. 치과·안과용 추가 플랜이 있는지, 그리고 가족분 보험료 일부를 회사가 지원해 주는지 궁금합니다."
+  },
+  "collocations": [
+   "supplementary insurance",
+   "supplementary materials",
+   "supplementary information"
+  ],
+  "related": [
+   "supplement",
+   "supply",
+   "complementary",
+   "complete"
+  ],
+  "tip": "supplemental 과 같은 뜻. 보험·서류에서 '추가'를 격식 있게 말할 때"
+ },
+ {
+  "id": "d26-D10",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "depletion",
+  "pos": "noun",
+  "ipa": "/dɪˈpliːʃən/",
+  "meaning_ko": "고갈",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "반대로, 빼내어"
+    },
+    {
+     "text": "plet",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "deplere '비우다'(de '반대로' + plere '채우다') → 다 빠져나감 → 고갈"
+  },
+  "example": {
+   "q": "Walk me through an outage you led the response for.",
+   "a": "Traffic spiked after a campaign and caused connection pool depletion. I raised the pool limit as a stopgap, then added caching so database load stayed flat.",
+   "a_ko": "캠페인 후 트래픽이 급증해 커넥션 풀이 고갈됐습니다. 임시로 풀 한도를 올리고, 이후 캐싱을 추가해 DB 부하가 늘지 않게 했습니다."
+  },
+  "collocations": [
+   "connection pool depletion",
+   "resource depletion",
+   "budget depletion"
+  ],
+  "related": [
+   "deplete",
+   "complete",
+   "replenish",
+   "supply"
+  ],
+  "tip": "exhaustion 과 비슷 — 장애 원인을 '자원 고갈'로 설명할 때"
+ },
+ {
+  "id": "d26-D11",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "transformer",
+  "pos": "noun",
+  "ipa": "/trænsˈfɔːrmər/",
+  "meaning_ko": "트랜스포머 (딥러닝 모델 구조), 변압기",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "가로질러, 바꿔"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "형태 (forma)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "transformare '형태를 바꾸다' → 바꾸는 것 → 변압기 → 입력을 바꿔 내는 딥러닝 구조"
+  },
+  "example": {
+   "q": "Have you worked with large language models?",
+   "a": "Yes, I fine-tuned a small transformer model to summarize support tickets, which saved our agents about ten minutes per case.",
+   "a_ko": "네, 작은 트랜스포머 모델을 파인튜닝해 지원 티켓을 요약하게 했고, 상담원들이 건당 10분 정도를 아꼈습니다."
+  },
+  "collocations": [
+   "transformer model",
+   "transformer architecture",
+   "pre-trained transformer"
+  ],
+  "related": [
+   "transform",
+   "transformation",
+   "format",
+   "transformative"
+  ],
+  "tip": "GPT 의 T 가 transformer. 전기의 '변압기'라는 뜻도 있음"
+ },
+ {
+  "id": "d26-D12",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "formally",
+  "pos": "adverb",
+  "ipa": "/ˈfɔːrməli/",
+  "meaning_ko": "정식으로, 공식적으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "형태 (forma)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "forma '형태' → 형식을 갖춘 → 정식으로"
+  },
+  "example": {
+   "q": "So, have you made a decision about the offer?",
+   "a": "Yes, I'm happy to formally accept it. I'll sign the letter today and confirm my start date by email.",
+   "a_ko": "네, 기쁜 마음으로 정식 수락하겠습니다. 오늘 서류에 서명하고 입사일은 메일로 확정해 드리겠습니다."
+  },
+  "collocations": [
+   "formally accept",
+   "formally resign",
+   "formally request"
+  ],
+  "related": [
+   "formal",
+   "informal",
+   "format",
+   "formality"
+  ],
+  "tip": "구두로 수락한 뒤 서면으로 정리할 때. formerly(예전에)와 발음이 비슷하니 주의"
+ },
+ {
+  "id": "d26-D13",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "transformative",
+  "pos": "adjective",
+  "ipa": "/trænsˈfɔːrmətɪv/",
+  "meaning_ko": "큰 변화를 가져오는, 변혁적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "가로질러, 바꿔"
+    },
+    {
+     "text": "form",
+     "type": "root",
+     "gloss": "형태 (forma)"
+    },
+    {
+     "text": "ative",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "transformare '형태를 바꾸다' → 바꾸어 놓는 → 큰 변화를 가져오는"
+  },
+  "example": {
+   "q": "What experience shaped you most as an engineer?",
+   "a": "Leading our move to continuous delivery was transformative. We went from monthly releases to daily ones, and I learned how to bring skeptical people along.",
+   "a_ko": "지속적 배포로의 전환을 이끈 일이 저를 크게 바꿨습니다. 월 1회 배포에서 매일 배포로 바뀌었고, 회의적인 사람들을 설득해 함께 가는 법을 배웠습니다."
+  },
+  "collocations": [
+   "a transformative experience",
+   "transformative change",
+   "truly transformative"
+  ],
+  "related": [
+   "transform",
+   "transformation",
+   "transformer",
+   "format"
+  ],
+  "tip": "life-changing 보다 업무에 어울리는 말 — 과장되지 않게 구체적인 결과를 붙임"
+ },
+ {
+  "id": "d26-D14",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "pro forma",
+  "pos": "adjective",
+  "ipa": "/ˌproʊ ˈfɔːrmə/",
+  "meaning_ko": "형식적인, 형식상의 (회계: 추정의)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "~을 위해"
+    },
+    {
+     "text": "forma",
+     "type": "root",
+     "gloss": "형태 (forma)"
+    }
+   ],
+   "story": "라틴어 pro forma '형식을 위해' → 형식상의 → 형식적인"
+  },
+  "example": {
+   "q": "The last step is a short call with our VP.",
+   "a": "Thanks for letting me know. Is that call mostly pro forma, or should I prepare to discuss the team roadmap and my compensation in detail?",
+   "a_ko": "알려 주셔서 감사합니다. 그 통화는 주로 형식적인 건가요, 아니면 팀 로드맵과 보상을 자세히 논의할 준비를 해야 할까요?"
+  },
+  "collocations": [
+   "a pro forma step",
+   "pro forma invoice",
+   "purely pro forma"
+  ],
+  "related": [
+   "form",
+   "formal",
+   "formally",
+   "format"
+  ],
+  "tip": "회계에서는 pro forma financials(추정 재무제표). 발음 /ˌproʊ ˈfɔːrmə/"
+ },
+ {
+  "id": "d26-D15",
+  "day": 26,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "job satisfaction",
+  "pos": "noun",
+  "ipa": "/ˈdʒɑːb ˌsætɪsˈfækʃən/",
+  "meaning_ko": "직무 만족(도)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "job",
+     "type": "part",
+     "gloss": "일"
+    },
+    {
+     "text": "satis",
+     "type": "part",
+     "gloss": "충분히 (satis)"
+    },
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "satisfacere '충분히 해 주다' → 만족 + 일 → 일에서 얻는 만족"
+  },
+  "example": {
+   "q": "What matters most to you in a job?",
+   "a": "For me, job satisfaction comes from shipping things people actually use.",
+   "a_ko": "저에게 직무 만족은 사람들이 실제로 쓰는 것을 내놓는 데서 옵니다."
+  },
+  "collocations": [
+   "high job satisfaction",
+   "improve job satisfaction",
+   "a source of job satisfaction"
+  ],
+  "related": [
+   "satisfy",
+   "satisfaction",
+   "satisfied",
+   "satisfactory"
+  ],
+  "tip": "'일에서 무엇이 중요하냐'는 질문에 연봉 말고 동기를 말할 때"
+ },
+ {
+  "id": "d26-D16",
+  "day": 26,
+  "level": 1,
+  "set": "D",
+  "family": "F6",
+  "word": "qualified",
+  "pos": "adjective",
+  "ipa": "/ˈkwɑːlɪfaɪd/",
+  "meaning_ko": "자격을 갖춘, 적임인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "quali",
+     "type": "part",
+     "gloss": "어떤 성질의 (qualis)"
+    },
+    {
+     "text": "fi",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "중세 라틴어 qualificare '어떤 성질로 만들다'(qualis + facere) → 자격을 주다 → 자격을 갖춘"
+  },
+  "example": {
+   "q": "Why should we hire you?",
+   "a": "I'm qualified because I've built and run payment systems at scale.",
+   "a_ko": "대규모 결제 시스템을 직접 만들고 운영해 봤기 때문에 이 자리에 적임자입니다."
+  },
+  "collocations": [
+   "well qualified",
+   "highly qualified",
+   "qualified for"
+  ],
+  "related": [
+   "qualify",
+   "qualification",
+   "certified",
+   "justification"
+  ],
+  "tip": "overqualified(자격 과잉)는 면접관이 우려로 꺼내는 말 — 구분"
+ },
+ {
+  "id": "d26-D17",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "take effect",
+  "pos": "phrase",
+  "ipa": "/ˌteɪk ɪˈfekt/",
+  "meaning_ko": "효력이 생기다, 적용되다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "take",
+     "type": "part",
+     "gloss": "잡다 (영어 고유어)"
+    },
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "efficere '이루다' → effect 결과, 효력 → 효력을 얻다 → 시행·적용되다"
+  },
+  "example": {
+   "q": "Your raise has been approved by the committee.",
+   "a": "Thank you! When does it take effect? I'd like to know whether it applies to this month's paycheck.",
+   "a_ko": "감사합니다! 언제부터 적용되나요? 이번 달 급여에 반영되는지 알고 싶습니다."
+  },
+  "collocations": [
+   "take effect immediately",
+   "take effect from",
+   "take effect on"
+  ],
+  "related": [
+   "effect",
+   "effective",
+   "effective date",
+   "effectively"
+  ],
+  "tip": "come into effect 와 같은 뜻. 'from + 날짜'로 시점을 말함"
+ },
+ {
+  "id": "d26-D18",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "factor in",
+  "pos": "phrasal verb",
+  "ipa": "/ˌfæktər ˈɪn/",
+  "meaning_ko": "(계산·판단에) 포함하다, 고려에 넣다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fact",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "안에"
+    }
+   ],
+   "story": "factor '만드는 것, 요인' → 요인으로 안에 넣다 → 계산·판단에 포함하다"
+  },
+  "example": {
+   "q": "Our offer is 5% above your current base salary.",
+   "a": "Thanks. Once I factor in the bonus I'd lose, though, the total is a bit lower than what I have now.",
+   "a_ko": "감사합니다. 그런데 제가 잃게 되는 보너스를 고려하면 총액은 지금보다 조금 낮습니다."
+  },
+  "collocations": [
+   "factor in the cost",
+   "factor in the bonus",
+   "factor something in"
+  ],
+  "related": [
+   "factor",
+   "fact",
+   "effect",
+   "artifact"
+  ],
+  "tip": "factor(Day 16)를 동사로 — 총보상(total compensation)을 따질 때 필수 표현"
+ },
+ {
+  "id": "d26-D19",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "modifier",
+  "pos": "noun",
+  "ipa": "/ˈmɑːdɪfaɪər/",
+  "meaning_ko": "수정자, (접근) 제어자",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "modi",
+     "type": "root",
+     "gloss": "척도·방식 (modus)"
+    },
+    {
+     "text": "fi",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "modificare '척도에 맞게 만들다'(modus + facere) → 바꾸는 것 → 코드의 수정자·제어자"
+  },
+  "example": {
+   "q": "How do you keep a class's internal state safe?",
+   "a": "I keep fields private with access modifiers and expose only the methods other modules really need.",
+   "a_ko": "접근 제어자로 필드를 private 으로 두고, 다른 모듈에 꼭 필요한 메서드만 공개합니다."
+  },
+  "collocations": [
+   "access modifier",
+   "private modifier",
+   "modifier key"
+  ],
+  "related": [
+   "modify",
+   "modification",
+   "classifier",
+   "identifier"
+  ],
+  "tip": "Java·C# 의 public / private / protected 가 access modifier"
+ },
+ {
+  "id": "d26-D20",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "identifier",
+  "pos": "noun",
+  "ipa": "/aɪˈdentɪfaɪər/",
+  "meaning_ko": "식별자",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "identi",
+     "type": "part",
+     "gloss": "같은 (idem)"
+    },
+    {
+     "text": "fi",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "중세 라틴어 identificare '같은 것으로 만들다'(idem + facere) → 알아보다 → 알아보게 하는 것 → 식별자"
+  },
+  "example": {
+   "q": "How did you make retries safe in your payment API?",
+   "a": "Each request carries a unique identifier, so if a client retries, we return the first result instead of charging twice.",
+   "a_ko": "요청마다 고유 식별자를 붙여서, 클라이언트가 재시도하면 두 번 결제하지 않고 처음 결과를 돌려줍니다."
+  },
+  "collocations": [
+   "unique identifier",
+   "user identifier",
+   "an identifier for"
+  ],
+  "related": [
+   "identify",
+   "identification",
+   "modifier",
+   "classifier"
+  ],
+  "tip": "identity(정체성)와 구분. UUID 가 대표적인 unique identifier"
+ },
+ {
+  "id": "d26-D21",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "deficit",
+  "pos": "noun",
+  "ipa": "/ˈdefɪsɪt/",
+  "meaning_ko": "부족분, 적자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "(라틴어 3인칭 동사 어미)"
+    }
+   ],
+   "story": "라틴어 deficit '그것이 모자란다'(deficere 의 3인칭 형태) → 장부의 부족분 → 적자"
+  },
+  "example": {
+   "q": "Our offer includes a smaller bonus than your current employer's.",
+   "a": "I see. To close that deficit, would you consider a one-time signing bonus equal to the difference, which is roughly $8,000?",
+   "a_ko": "그렇군요. 그 부족분을 메우기 위해, 차액인 약 8천 달러만큼 일회성 사이닝 보너스를 고려해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "close the deficit",
+   "budget deficit",
+   "a deficit of"
+  ],
+  "related": [
+   "deficiency",
+   "defective",
+   "sufficient",
+   "efficient"
+  ],
+  "tip": "발음 /ˈdefɪsɪt/ — 강세가 앞. 차액을 숫자로 정확히 제시하면 효과적"
+ },
+ {
+  "id": "d26-D22",
+  "day": 26,
+  "level": 2,
+  "set": "D",
+  "family": "F6",
+  "word": "reorg",
+  "pos": "noun",
+  "ipa": "/ˈriːɔːrɡ/",
+  "meaning_ko": "조직 개편 (reorganization 의 줄임말)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "org",
+     "type": "root",
+     "gloss": "도구·짜 맞추다 (그리스어 organon, ergon 일과 같은 뿌리)"
+    }
+   ],
+   "story": "organize '기관처럼 짜 맞추다' + re '다시' → reorganization 의 줄임 → 조직 개편"
+  },
+  "example": {
+   "q": "You'd be joining right after a small reorg on our side.",
+   "a": "Thanks for being upfront. After the reorg, who would I report to, and is the team's roadmap already settled?",
+   "a_ko": "솔직하게 말씀해 주셔서 감사합니다. 개편 후에는 제가 누구에게 보고하게 되는지, 팀 로드맵은 이미 정해졌는지 궁금합니다."
+  },
+  "collocations": [
+   "go through a reorg",
+   "after the reorg",
+   "a recent reorg"
+  ],
+  "related": [
+   "organize",
+   "organization",
+   "organizational",
+   "restructuring"
+  ],
+  "tip": "사내에서 흔히 쓰는 구어적 줄임말. 보고 라인 변화를 꼭 물어볼 것"
+ },
+ {
+  "id": "d26-D23",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "synergy",
+  "pos": "noun",
+  "ipa": "/ˈsɪnərdʒi/",
+  "meaning_ko": "시너지, 상승효과",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "syn",
+     "type": "prefix",
+     "gloss": "함께 (그리스어)"
+    },
+    {
+     "text": "erg",
+     "type": "root",
+     "gloss": "일 (그리스어 ergon)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "그리스어 synergia '함께 일함' → 함께해서 더 커지는 효과 → 시너지"
+  },
+  "example": {
+   "q": "How do you see your experience fitting with our platform team?",
+   "a": "I see real synergy: my payments background could help your team design the billing APIs, while I'd learn a lot from your scale.",
+   "a_ko": "진짜 시너지가 있다고 봅니다. 제 결제 경험은 팀의 과금 API 설계에 도움이 되고, 저는 귀사의 규모에서 많이 배울 수 있을 것입니다."
+  },
+  "collocations": [
+   "create synergy",
+   "synergy between",
+   "real synergy"
+  ],
+  "related": [
+   "energy",
+   "energize",
+   "ergonomic",
+   "organization"
+  ],
+  "tip": "남용하면 버즈워드로 들림 — 서로 무엇을 주고받는지 구체적으로 말할 것"
+ },
+ {
+  "id": "d26-D24",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "glass ceiling",
+  "pos": "noun",
+  "ipa": "/ˌɡlæs ˈsiːlɪŋ/",
+  "meaning_ko": "유리 천장 (보이지 않는 승진 장벽)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "glass",
+     "type": "part",
+     "gloss": "유리"
+    },
+    {
+     "text": "ceiling",
+     "type": "part",
+     "gloss": "천장"
+    }
+   ],
+   "story": "위가 보이지만 뚫을 수 없는 유리 천장 → 특정 집단이 겪는 보이지 않는 승진 장벽"
+  },
+  "example": {
+   "q": "What does an inclusive team look like to you?",
+   "a": "It's a team where promotion criteria are written down and applied evenly, so there's no glass ceiling for people who don't fit the usual profile.",
+   "a_ko": "승진 기준이 문서로 정리돼 공평하게 적용되어서, 흔한 유형에 맞지 않는 사람에게도 유리 천장이 없는 팀입니다."
+  },
+  "collocations": [
+   "break the glass ceiling",
+   "hit a glass ceiling",
+   "shatter the glass ceiling"
+  ],
+  "related": [
+   "career ladder",
+   "move up",
+   "fast track",
+   "level up"
+  ],
+  "tip": "다양성·포용(DEI) 질문에서 씀. 원래 여성·소수자의 승진 장벽을 가리킴"
+ },
+ {
+  "id": "d26-D25",
+  "day": 26,
+  "level": 3,
+  "set": "D",
+  "family": "F6",
+  "word": "skip-level",
+  "pos": "adjective",
+  "ipa": "/ˈskɪp ˌlevəl/",
+  "meaning_ko": "(직속 상사를 건너뛰어) 한 단계 위 상사와의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "skip",
+     "type": "part",
+     "gloss": "건너뛰다"
+    },
+    {
+     "text": "level",
+     "type": "part",
+     "gloss": "단계 (라틴어 libella 작은 저울)"
+    }
+   ],
+   "story": "단계를 건너뛰는 → 직속 상사를 건너 그 위 상사와 직접 만나는"
+  },
+  "example": {
+   "q": "Is there anything that would help you feel supported here?",
+   "a": "I'd appreciate a quarterly skip-level meeting with the director, since direct feedback from that level helps me align my work with the broader strategy.",
+   "a_ko": "디렉터와 분기마다 스킵 레벨 미팅을 하면 좋겠습니다. 그 레벨에서 직접 피드백을 받으면 제 업무를 더 큰 전략에 맞추는 데 도움이 되기 때문입니다."
+  },
+  "collocations": [
+   "skip-level meeting",
+   "skip-level one-on-one",
+   "skip-level manager"
+  ],
+  "related": [
+   "level up",
+   "career ladder",
+   "move up",
+   "growth path"
+  ],
+  "tip": "직속 매니저를 건너뛴다는 뜻이 아님 — 목적(전략 정렬)을 함께 말하면 좋음"
+ }
+]

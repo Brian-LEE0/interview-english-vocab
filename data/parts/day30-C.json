@@ -1,0 +1,1205 @@
+[
+ {
+  "id": "d30-C01",
+  "day": 30,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "determination",
+  "pos": "noun",
+  "ipa": "/dɪˌtɜːrmɪˈneɪʃən/",
+  "meaning_ko": "끈기, 결단력",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "termin",
+     "type": "root",
+     "gloss": "경계, 끝 (terminus)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "경계를 확실히 정하다 (determinare) → 마음을 굳게 정함 → 결단력, 끈기"
+  },
+  "example": {
+   "q": "What helped you get through that difficult project?",
+   "a": "Mostly determination, plus a clear plan we reviewed every Monday.",
+   "a_ko": "주로 끈기였고, 매주 월요일 함께 점검한 명확한 계획도 도움이 됐습니다."
+  },
+  "collocations": [
+   "sheer determination",
+   "with determination",
+   "determination to succeed"
+  ],
+  "related": [
+   "determine",
+   "determined",
+   "terminal",
+   "term"
+  ],
+  "tip": "'결정'이라는 뜻보다 면접에서는 '끈기·투지'의 뜻으로 많이 씀"
+ },
+ {
+  "id": "d30-C02",
+  "day": 30,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "definite",
+  "pos": "adjective",
+  "ipa": "/ˈdefɪnət/",
+  "meaning_ko": "확실한, 분명한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "fin",
+     "type": "root",
+     "gloss": "끝, 경계 (finis)"
+    },
+    {
+     "text": "ite",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "경계가 분명히 정해진 → 분명한, 확실한"
+  },
+  "example": {
+   "q": "When can you give us a definite answer?",
+   "a": "I can give you a definite answer by Friday afternoon.",
+   "a_ko": "금요일 오후까지 확실한 답을 드리겠습니다."
+  },
+  "collocations": [
+   "a definite answer",
+   "a definite date",
+   "nothing definite yet"
+  ],
+  "related": [
+   "define",
+   "definitely",
+   "definitive",
+   "finite"
+  ],
+  "tip": "definitive(최종적인, 결정판의)와 구분. 확답은 a definite answer"
+ },
+ {
+  "id": "d30-C03",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "terminate",
+  "pos": "verb",
+  "ipa": "/ˈtɜːrmɪneɪt/",
+  "meaning_ko": "종료하다, (계약을) 해지하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "termin",
+     "type": "root",
+     "gloss": "경계, 끝 (terminus)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "경계를 정하다 (terminare) → 끝을 내다 → 종료하다"
+  },
+  "example": {
+   "q": "How do you handle a stuck job in production?",
+   "a": "If a worker hangs for more than five minutes, the supervisor terminates it and requeues the task, so nothing gets lost.",
+   "a_ko": "워커가 5분 넘게 멈추면 감독 프로세스가 그것을 종료하고 작업을 다시 큐에 넣어서, 아무것도 유실되지 않습니다."
+  },
+  "collocations": [
+   "terminate a process",
+   "terminate a contract",
+   "terminate early"
+  ],
+  "related": [
+   "termination",
+   "terminal",
+   "determine",
+   "term"
+  ],
+  "tip": "프로세스·계약 모두에 씀. 사람에게 쓰면 '해고하다'라서, 내가 그만두는 것은 resign"
+ },
+ {
+  "id": "d30-C04",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "termination",
+  "pos": "noun",
+  "ipa": "/ˌtɜːrmɪˈneɪʃən/",
+  "meaning_ko": "(계약) 해지, 종료",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "termin",
+     "type": "root",
+     "gloss": "경계, 끝 (terminus)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "끝을 정하는 것 → 계약을 끝냄 → 해지"
+  },
+  "example": {
+   "q": "Do you have any questions about the contract terms?",
+   "a": "Could you clarify the termination clause, especially the notice period on each side during probation?",
+   "a_ko": "해지 조항, 특히 수습 기간 중 양쪽의 통보 기간을 명확히 해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "termination clause",
+   "early termination",
+   "termination notice"
+  ],
+  "related": [
+   "terminate",
+   "terminal",
+   "term",
+   "determine"
+  ],
+  "tip": "계약서에서 꼭 확인하는 조항. 해고는 termination of employment"
+ },
+ {
+  "id": "d30-C05",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "near-term",
+  "pos": "adjective",
+  "ipa": "/ˌnɪrˈtɜːrm/",
+  "meaning_ko": "단기의, 가까운 시기의",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "near-",
+     "type": "part",
+     "gloss": "가까운"
+    },
+    {
+     "text": "term",
+     "type": "root",
+     "gloss": "기한, 경계 (terminus)"
+    }
+   ],
+   "story": "가까운 기한의 → 단기의"
+  },
+  "example": {
+   "q": "What are your goals for the first year?",
+   "a": "My near-term goal is to own one service end to end, and longer term I'd like to mentor new engineers.",
+   "a_ko": "단기 목표는 서비스 하나를 처음부터 끝까지 맡는 것이고, 길게 보면 신입 엔지니어를 멘토링하고 싶습니다."
+  },
+  "collocations": [
+   "near-term goals",
+   "in the near term",
+   "near-term priorities"
+  ],
+  "related": [
+   "term",
+   "long-term",
+   "short-term",
+   "terminate"
+  ],
+  "tip": "short-term 은 '일시적'이라는 느낌이 있어, 계획을 말할 때는 near-term 이 더 긍정적"
+ },
+ {
+  "id": "d30-C06",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "indefinitely",
+  "pos": "adverb",
+  "ipa": "/ɪnˈdefɪnətli/",
+  "meaning_ko": "무기한으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "fin",
+     "type": "root",
+     "gloss": "끝, 경계 (finis)"
+    },
+    {
+     "text": "ite",
+     "type": "suffix",
+     "gloss": "~된"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "끝이 정해지지 않은 채로 → 무기한으로"
+  },
+  "example": {
+   "q": "Could you wait a few weeks while we finish the other interviews?",
+   "a": "I'd be glad to wait, but I can't hold my other offer indefinitely; it expires on the 15th.",
+   "a_ko": "기꺼이 기다리겠지만 다른 오퍼를 무기한으로 붙잡아 둘 수는 없습니다. 15일에 만료됩니다."
+  },
+  "collocations": [
+   "delay indefinitely",
+   "postpone indefinitely",
+   "hold indefinitely"
+  ],
+  "related": [
+   "definite",
+   "define",
+   "finite",
+   "infinite"
+  ],
+  "tip": "다른 오퍼의 마감을 정중하게 알릴 때 쓰는 표현"
+ },
+ {
+  "id": "d30-C07",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "financing",
+  "pos": "noun",
+  "ipa": "/ˈfaɪnænsɪŋ/",
+  "meaning_ko": "자금 조달, 투자 유치",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fin",
+     "type": "root",
+     "gloss": "끝내다, 빚을 청산하다 (finis)"
+    },
+    {
+     "text": "anc",
+     "type": "suffix",
+     "gloss": "~함"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "빚을 끝내다 (finer) → 돈을 마련하는 일 → 자금 조달"
+  },
+  "example": {
+   "q": "Do you have any questions for us about the company?",
+   "a": "Yes, how much runway does the latest financing give you, and are you planning another round next year?",
+   "a_ko": "네, 최근 투자 유치로 얼마나 버틸 수 있는지, 그리고 내년에 다음 라운드를 계획하고 계신지 궁금합니다."
+  },
+  "collocations": [
+   "Series B financing",
+   "secure financing",
+   "a financing round"
+  ],
+  "related": [
+   "finance",
+   "financial",
+   "final",
+   "finish"
+  ],
+  "tip": "스타트업 오퍼를 검토할 때 runway(남은 자금 기간)와 함께 묻는 질문"
+ },
+ {
+  "id": "d30-C08",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "term sheet",
+  "pos": "noun",
+  "ipa": "/ˈtɜːrm ˌʃiːt/",
+  "meaning_ko": "조건 개요서, 텀시트",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "term ",
+     "type": "root",
+     "gloss": "조건, 기한 (terminus)"
+    },
+    {
+     "text": "sheet",
+     "type": "part",
+     "gloss": "한 장의 문서"
+    }
+   ],
+   "story": "조건을 정리한 한 장 → 정식 계약 전에 핵심 조건을 적은 문서"
+  },
+  "example": {
+   "q": "Is there anything else you'd like to see before you decide?",
+   "a": "Since equity is a big part of this offer, could you share a simple term sheet with the strike price, vesting cliff, and exercise window?",
+   "a_ko": "이번 오퍼에서 지분 비중이 커서, 행사가·베스팅 클리프·행사 기간을 정리한 간단한 조건 개요서를 받아 볼 수 있을까요?"
+  },
+  "collocations": [
+   "sign a term sheet",
+   "a non-binding term sheet"
+  ],
+  "related": [
+   "term",
+   "terminate",
+   "termination",
+   "fixed-term"
+  ],
+  "tip": "원래 투자 계약에서 쓰는 말. 오퍼에서는 '핵심 조건 요약'을 요청할 때 응용"
+ },
+ {
+  "id": "d30-C09",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "predetermined",
+  "pos": "adjective",
+  "ipa": "/ˌpriːdɪˈtɜːrmɪnd/",
+  "meaning_ko": "미리 정해진",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "termin",
+     "type": "root",
+     "gloss": "경계, 끝 (terminus)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "미리 경계를 정해 둔 → 미리 정해진"
+  },
+  "example": {
+   "q": "How do you roll out risky changes?",
+   "a": "We use canary releases with predetermined error thresholds, so the rollout stops automatically if the error rate climbs above one percent.",
+   "a_ko": "미리 정한 에러 임계값으로 카나리 배포를 해서, 에러율이 1%를 넘으면 배포가 자동으로 멈춥니다."
+  },
+  "collocations": [
+   "predetermined thresholds",
+   "a predetermined schedule"
+  ],
+  "related": [
+   "determine",
+   "deterministic",
+   "terminate",
+   "term"
+  ],
+  "tip": "'그때그때 판단하지 않고 기준을 미리 정해 둔다'를 강조할 때"
+ },
+ {
+  "id": "d30-C10",
+  "day": 30,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "dependent",
+  "pos": "noun",
+  "ipa": "/dɪˈpendənt/",
+  "meaning_ko": "부양가족",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "pend",
+     "type": "root",
+     "gloss": "매달리다 (pendere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "아래에 매달려 있는 사람 → 남에게 기대어 사는 사람 → 부양가족"
+  },
+  "example": {
+   "q": "Do you have any questions about our health insurance?",
+   "a": "Yes, does the plan also cover dependents, like my spouse and child?",
+   "a_ko": "네, 배우자와 아이 같은 부양가족도 보험에 포함되나요?"
+  },
+  "collocations": [
+   "cover dependents",
+   "dependent coverage",
+   "add a dependent"
+  ],
+  "related": [
+   "depend",
+   "independent",
+   "dependable",
+   "pending"
+  ],
+  "tip": "형용사로는 '의존하는'(dependent on). 복리후생 이야기에서는 명사 '부양가족'"
+ },
+ {
+  "id": "d30-C11",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "expend",
+  "pos": "verb",
+  "ipa": "/ɪkˈspend/",
+  "meaning_ko": "(노력·시간을) 쏟다, 들이다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "pend",
+     "type": "root",
+     "gloss": "무게를 달다, 지불하다 (pendere)"
+    }
+   ],
+   "story": "저울에 달아 내주다 (expendere) → 돈·힘을 내어 쓰다"
+  },
+  "example": {
+   "q": "How do you prioritize when everything feels urgent?",
+   "a": "I'd rather expend effort on the one task that unblocks others than on many small ones.",
+   "a_ko": "작은 일 여러 개보다, 다른 사람의 막힌 일을 풀어 주는 일 하나에 힘을 쏟는 편입니다."
+  },
+  "collocations": [
+   "expend effort",
+   "expend energy",
+   "expend resources"
+  ],
+  "related": [
+   "expense",
+   "spend",
+   "expenditure",
+   "pension"
+  ],
+  "tip": "spend 보다 격식 있는 말. 돈보다 노력·에너지에 자주 씀"
+ },
+ {
+  "id": "d30-C12",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "interdependent",
+  "pos": "adjective",
+  "ipa": "/ˌɪntərdɪˈpendənt/",
+  "meaning_ko": "서로 의존하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "서로, 사이에"
+    },
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "pend",
+     "type": "root",
+     "gloss": "매달리다 (pendere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "서로에게 매달려 있는 → 서로 의존하는"
+  },
+  "example": {
+   "q": "What was the hardest part of migrating to microservices?",
+   "a": "Many services were tightly interdependent, so we mapped every call first and cut the riskiest dependencies before moving anything.",
+   "a_ko": "많은 서비스가 서로 강하게 의존하고 있어서, 먼저 모든 호출을 그려 보고 가장 위험한 의존 관계를 끊은 뒤에 옮겼습니다."
+  },
+  "collocations": [
+   "tightly interdependent",
+   "interdependent systems",
+   "interdependent teams"
+  ],
+  "related": [
+   "dependent",
+   "dependency",
+   "independent",
+   "depend"
+  ],
+  "tip": "IT 에서는 coupling 과 함께, 조직 이야기에서는 팀 간 협업을 말할 때 씀"
+ },
+ {
+  "id": "d30-C13",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "recompense",
+  "pos": "noun",
+  "ipa": "/ˈrekəmpens/",
+  "meaning_ko": "보상, 대가",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "되돌려"
+    },
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "pense",
+     "type": "root",
+     "gloss": "무게를 달다 (pensare)"
+    }
+   ],
+   "story": "다시 함께 달아 맞추다 (recompensare) → 손실을 되갚다 → 보상"
+  },
+  "example": {
+   "q": "We'd need you to be on call one week a month.",
+   "a": "That's fine, but I'd expect fair recompense, either an on-call allowance or time off in lieu after a heavy week.",
+   "a_ko": "괜찮습니다만, 온콜 수당이든 힘든 주 뒤의 대체 휴무든 공정한 보상이 있었으면 합니다."
+  },
+  "collocations": [
+   "fair recompense",
+   "in recompense for"
+  ],
+  "related": [
+   "compensate",
+   "compensation",
+   "pension",
+   "expense"
+  ],
+  "tip": "compensation 보다 격식 있고 '손실·수고에 대한 대가'라는 느낌"
+ },
+ {
+  "id": "d30-C14",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "preponderance",
+  "pos": "noun",
+  "ipa": "/prɪˈpɑːndərəns/",
+  "meaning_ko": "(양·무게의) 우세, 대부분",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞서, 더 (prae)"
+    },
+    {
+     "text": "ponder",
+     "type": "root",
+     "gloss": "무게 (pondus)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "무게가 더 나감 (praeponderare) → 저울이 한쪽으로 기움 → 우세, 대부분"
+  },
+  "example": {
+   "q": "How do you make decisions when the team disagrees?",
+   "a": "I follow the preponderance of evidence; last year, when the data clearly favored another engineer's design, I backed it over my own proposal.",
+   "a_ko": "증거가 더 많이 가리키는 쪽을 따릅니다. 작년에 데이터가 다른 엔지니어의 설계를 분명히 지지했을 때, 제 제안 대신 그 안을 지지했습니다."
+  },
+  "collocations": [
+   "the preponderance of evidence",
+   "a preponderance of"
+  ],
+  "related": [
+   "ponder",
+   "depend",
+   "pension",
+   "suspend"
+  ],
+  "tip": "'증거 대부분이 ~를 가리킨다'를 격식 있게 말할 때. 법률 용어로도 쓰임"
+ },
+ {
+  "id": "d30-C15",
+  "day": 30,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "measurement",
+  "pos": "noun",
+  "ipa": "/ˈmeʒərmənt/",
+  "meaning_ko": "측정",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "meas",
+     "type": "root",
+     "gloss": "재다 (mensura)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "재는 것 → 측정"
+  },
+  "example": {
+   "q": "How do you know the optimization actually worked?",
+   "a": "I always take a measurement before and after every change.",
+   "a_ko": "모든 변경 전후로 항상 측정을 합니다."
+  },
+  "collocations": [
+   "accurate measurement",
+   "take a measurement",
+   "latency measurement"
+  ],
+  "related": [
+   "measure",
+   "measurable",
+   "dimension",
+   "immense"
+  ],
+  "tip": "'감으로 빨라졌다'가 아니라 측정했다고 말하면 답변의 신뢰도가 올라감"
+ },
+ {
+  "id": "d30-C16",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "symmetric",
+  "pos": "adjective",
+  "ipa": "/sɪˈmetrɪk/",
+  "meaning_ko": "대칭의, (암호) 대칭키의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sym",
+     "type": "prefix",
+     "gloss": "같이, 함께 (syn)"
+    },
+    {
+     "text": "metr",
+     "type": "root",
+     "gloss": "재다 (metron)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "같은 치수로 잰 → 양쪽이 같은 → 대칭의"
+  },
+  "example": {
+   "q": "How do you encrypt data at rest?",
+   "a": "We use symmetric encryption with AES-256 because it's fast for large volumes, and the keys live in a managed KMS.",
+   "a_ko": "대용량에 빠르기 때문에 AES-256 대칭키 암호화를 쓰고, 키는 관리형 KMS 에 둡니다."
+  },
+  "collocations": [
+   "symmetric encryption",
+   "a symmetric key"
+  ],
+  "related": [
+   "asymmetric",
+   "metric",
+   "parameter",
+   "symmetry"
+  ],
+  "tip": "같은 키로 암호화·복호화하면 symmetric, 공개키·개인키를 따로 쓰면 asymmetric"
+ },
+ {
+  "id": "d30-C17",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "measured",
+  "pos": "adjective",
+  "ipa": "/ˈmeʒərd/",
+  "meaning_ko": "신중한, 절제된",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "meas",
+     "type": "root",
+     "gloss": "재다 (mensura)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "d",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "잘 잰 → 생각을 재어 보고 하는 → 신중한, 절제된"
+  },
+  "example": {
+   "q": "How did you respond when a client blamed your team for an outage?",
+   "a": "I gave a measured response: I acknowledged the impact, shared the timeline, and only discussed root cause once we had the facts.",
+   "a_ko": "신중하게 대응했습니다. 영향을 인정하고 경과를 공유했으며, 근본 원인은 사실을 확인한 뒤에만 이야기했습니다."
+  },
+  "collocations": [
+   "a measured response",
+   "a measured approach",
+   "a measured tone"
+  ],
+  "related": [
+   "measure",
+   "measurement",
+   "commensurate",
+   "dimension"
+  ],
+  "tip": "감정적으로 반응하지 않고 '차분하게 조절했다'는 뜻. 갈등 상황 STAR 에 좋음"
+ },
+ {
+  "id": "d30-C18",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "asymmetric",
+  "pos": "adjective",
+  "ipa": "/ˌeɪsɪˈmetrɪk/",
+  "meaning_ko": "비대칭의, (암호) 비대칭키의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "아닌 (그리스어 a-)"
+    },
+    {
+     "text": "sym",
+     "type": "prefix",
+     "gloss": "같이, 함께 (syn)"
+    },
+    {
+     "text": "metr",
+     "type": "root",
+     "gloss": "재다 (metron)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "같은 치수가 아닌 → 양쪽이 다른 → 비대칭의"
+  },
+  "example": {
+   "q": "How does your service exchange keys with partners?",
+   "a": "We use asymmetric encryption for the key exchange, so partners only ever see our public key, then switch to a symmetric session key for speed.",
+   "a_ko": "키 교환에는 비대칭키 암호화를 써서 파트너는 공개키만 보게 하고, 속도를 위해 대칭 세션 키로 전환합니다."
+  },
+  "collocations": [
+   "asymmetric encryption",
+   "asymmetric risk"
+  ],
+  "related": [
+   "symmetric",
+   "metric",
+   "telemetry",
+   "parameter"
+  ],
+  "tip": "협상·투자에서는 asymmetric risk(손실은 작고 이득은 큰)처럼도 씀"
+ },
+ {
+  "id": "d30-C19",
+  "day": 30,
+  "level": 1,
+  "set": "C",
+  "family": "F10",
+  "word": "adequate",
+  "pos": "adjective",
+  "ipa": "/ˈædɪkwət/",
+  "meaning_ko": "충분한, 적절한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에"
+    },
+    {
+     "text": "equ",
+     "type": "root",
+     "gloss": "같은 (aequus)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "~와 같게 맞춘 (adaequare) → 필요에 맞는 → 충분한"
+  },
+  "example": {
+   "q": "Is the relocation package adequate for your move?",
+   "a": "It's adequate for the flight, but not quite for the first month's housing.",
+   "a_ko": "항공편에는 충분하지만, 첫 달 숙소 비용까지는 조금 모자랍니다."
+  },
+  "collocations": [
+   "adequate support",
+   "more than adequate",
+   "adequate notice"
+  ],
+  "related": [
+   "equal",
+   "equity",
+   "equitable",
+   "equivalent"
+  ],
+  "tip": "'충분하긴 한데 아주 좋지는 않다'는 느낌. 칭찬에는 more than adequate"
+ },
+ {
+  "id": "d30-C20",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "equity",
+  "pos": "noun",
+  "ipa": "/ˈekwəti/",
+  "meaning_ko": "지분, 주식 보상",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "equ",
+     "type": "root",
+     "gloss": "같은, 공평한 (aequus)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "공평함 (aequitas) → 공정하게 인정되는 몫 → 회사에 대한 지분, 주식"
+  },
+  "example": {
+   "q": "How do you feel about the equity part of the offer?",
+   "a": "I'm excited about the equity, but I'd like to understand the vesting schedule and the refresh policy.",
+   "a_ko": "지분 보상은 기대가 되지만, 베스팅 일정과 추가 부여 정책을 이해하고 싶습니다."
+  },
+  "collocations": [
+   "an equity grant",
+   "equity compensation",
+   "pay equity"
+  ],
+  "related": [
+   "equal",
+   "equitable",
+   "adequate",
+   "equivalent"
+  ],
+  "tip": "오퍼에서는 '주식 보상'. pay equity 처럼 쓰면 '보상의 공정성'"
+ },
+ {
+  "id": "d30-C21",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "equitable",
+  "pos": "adjective",
+  "ipa": "/ˈekwɪtəbəl/",
+  "meaning_ko": "공정한, 공평한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "equ",
+     "type": "root",
+     "gloss": "공평한 (aequus)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~함"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 만한"
+    }
+   ],
+   "story": "공평함 (aequitas) 을 따르는 → 사정을 고려해 공정한"
+  },
+  "example": {
+   "q": "We use pay bands to set salaries. Does that work for you?",
+   "a": "Bands are fine as long as placement is equitable; could you share where I'd sit in the band and what it takes to move up?",
+   "a_ko": "배치만 공정하다면 밴드 자체는 괜찮습니다. 제가 밴드의 어디쯤에 위치하는지, 위로 올라가려면 무엇이 필요한지 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "an equitable outcome",
+   "equitable pay",
+   "fair and equitable"
+  ],
+  "related": [
+   "equity",
+   "equal",
+   "adequate",
+   "equivalent"
+  ],
+  "tip": "equal(똑같은)과 달리 equitable 은 '사정을 고려해 공정한'"
+ },
+ {
+  "id": "d30-C22",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "moderate",
+  "pos": "adjective",
+  "ipa": "/ˈmɑːdərət/",
+  "meaning_ko": "보통의, 적당한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "moder",
+     "type": "root",
+     "gloss": "알맞은 정도로 조절하다 (moderari ← modus)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "알맞은 정도 (modus) 로 조절된 → 지나치지 않은 → 보통의"
+  },
+  "example": {
+   "q": "How much traffic does your current system handle?",
+   "a": "It handles moderate traffic, around two thousand requests per second, with room to scale horizontally.",
+   "a_ko": "초당 약 2천 건 정도의 보통 수준 트래픽을 처리하고, 수평 확장할 여유가 있습니다."
+  },
+  "collocations": [
+   "moderate traffic",
+   "moderate risk",
+   "a moderate increase"
+  ],
+  "related": [
+   "modest",
+   "mode",
+   "modify",
+   "accommodate"
+  ],
+  "tip": "동사 /ˈmɑːdəreɪt/ 는 '(회의를) 진행하다, 조절하다'로 발음이 다름"
+ },
+ {
+  "id": "d30-C23",
+  "day": 30,
+  "level": 2,
+  "set": "C",
+  "family": "F10",
+  "word": "final say",
+  "pos": "noun",
+  "ipa": "/ˌfaɪnəl ˈseɪ/",
+  "meaning_ko": "최종 결정권",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "final ",
+     "type": "part",
+     "gloss": "마지막의"
+    },
+    {
+     "text": "say",
+     "type": "part",
+     "gloss": "말, 발언권"
+    }
+   ],
+   "story": "마지막 발언권 → 최종 결정권"
+  },
+  "example": {
+   "q": "I'll need to check with the hiring manager on that.",
+   "a": "Of course. Who has the final say on the level, so I know roughly how long the approval might take?",
+   "a_ko": "물론입니다. 직급은 누가 최종 결정하시나요? 승인에 대략 얼마나 걸릴지 알고 싶어서요."
+  },
+  "collocations": [
+   "have the final say",
+   "get the final say"
+  ],
+  "related": [
+   "final",
+   "finalize",
+   "sign off"
+  ],
+  "tip": "have the final say (on ~) 형태. 결정권자를 정중하게 확인할 때"
+ },
+ {
+  "id": "d30-C24",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "sign on the dotted line",
+  "pos": "phrase",
+  "ipa": "/ˌsaɪn ɑːn ðə ˌdɑːtɪd ˈlaɪn/",
+  "meaning_ko": "정식으로 서명하다, 계약하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sign ",
+     "type": "part",
+     "gloss": "서명하다"
+    },
+    {
+     "text": "on the ",
+     "type": "part",
+     "gloss": "~ 위에"
+    },
+    {
+     "text": "dotted ",
+     "type": "part",
+     "gloss": "점선의"
+    },
+    {
+     "text": "line",
+     "type": "part",
+     "gloss": "줄"
+    }
+   ],
+   "story": "계약서의 점선 서명란에 서명하다 → 정식으로 계약하다"
+  },
+  "example": {
+   "q": "So, are you ready to move forward with us?",
+   "a": "Absolutely. Once the remote-work policy is written into the contract, I'm happy to sign on the dotted line this week.",
+   "a_ko": "물론입니다. 재택 근무 조건이 계약서에 들어가면, 이번 주에 기꺼이 서명하겠습니다."
+  },
+  "collocations": [
+   "sign on the dotted line",
+   "ready to sign on the dotted line"
+  ],
+  "related": [
+   "seal the deal",
+   "handshake deal",
+   "final say"
+  ],
+  "tip": "구두로 동의한 뒤 '정식 서명' 단계를 말하는 관용구"
+ },
+ {
+  "id": "d30-C25",
+  "day": 30,
+  "level": 3,
+  "set": "C",
+  "family": "F10",
+  "word": "over the line",
+  "pos": "phrase",
+  "ipa": "/ˌoʊvər ðə ˈlaɪn/",
+  "meaning_ko": "(거래를) 마무리 지어, 성사시켜",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "over ",
+     "type": "part",
+     "gloss": "넘어"
+    },
+    {
+     "text": "the ",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "line",
+     "type": "part",
+     "gloss": "선 (결승선)"
+    }
+   ],
+   "story": "결승선을 넘기다 → 거래를 끝까지 마무리하다"
+  },
+  "example": {
+   "q": "We're close. What would it take to get this over the line?",
+   "a": "If we can add one extra week of vacation, I think that gets us over the line, and I can sign by Friday.",
+   "a_ko": "휴가를 일주일 더 넣어 주실 수 있으면 마무리될 것 같습니다. 금요일까지 서명할 수 있습니다."
+  },
+  "collocations": [
+   "get the deal over the line",
+   "push it over the line"
+  ],
+  "related": [
+   "seal the deal",
+   "sign on the dotted line",
+   "win-win"
+  ],
+  "tip": "주로 영국·호주식 비즈니스 표현. '도를 넘다'라는 cross the line 과는 다름"
+ }
+]

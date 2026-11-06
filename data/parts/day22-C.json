@@ -1,0 +1,1182 @@
+[
+ {
+  "id": "d22-C01",
+  "day": 22,
+  "level": 1,
+  "set": "C",
+  "family": "F2",
+  "word": "succeed",
+  "pos": "verb",
+  "ipa": "/səkˈsiːd/",
+  "meaning_ko": "성공하다, 성과를 내다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "suc",
+     "type": "prefix",
+     "gloss": "아래·뒤에 (sub)"
+    },
+    {
+     "text": "ceed",
+     "type": "root",
+     "gloss": "가다 (cede)"
+    }
+   ],
+   "story": "뒤따라 가다(succedere) → 뒤를 잇다 → 일이 뒤따라 잘 풀리다 → 성공하다"
+  },
+  "example": {
+   "q": "What do you need from a manager to do your best work?",
+   "a": "I succeed when I have clear goals and freedom in how I reach them.",
+   "a_ko": "목표가 분명하고 달성 방법을 스스로 정할 수 있을 때 성과를 잘 냅니다."
+  },
+  "collocations": [
+   "succeed in",
+   "help others succeed",
+   "succeed as"
+  ],
+  "related": [
+   "success",
+   "succession",
+   "proceed",
+   "exceed"
+  ],
+  "tip": "'succeed in + -ing' 형태 — 'succeed to'는 '(지위를) 물려받다'"
+ },
+ {
+  "id": "d22-C02",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "proceeds",
+  "pos": "noun",
+  "ipa": "/ˈproʊsiːdz/",
+  "meaning_ko": "(매각) 대금, 수익금",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ceed",
+     "type": "root",
+     "gloss": "가다 (cede)"
+    },
+    {
+     "text": "s",
+     "type": "suffix",
+     "gloss": "(복수)"
+    }
+   ],
+   "story": "앞으로 나아가다(procedere) → 거래에서 나온 것 → (주식 매각 등의) 대금"
+  },
+  "example": {
+   "q": "Your RSUs will be taxed when they vest.",
+   "a": "Understood. Does the company sell some shares automatically to cover taxes, and do the proceeds go straight to withholding?",
+   "a_ko": "알겠습니다. 세금을 내기 위해 회사가 일부 주식을 자동으로 매도하나요? 그리고 그 매도 대금은 바로 원천징수로 들어가나요?"
+  },
+  "collocations": [
+   "sale proceeds",
+   "net proceeds",
+   "proceeds from"
+  ],
+  "related": [
+   "proceed",
+   "procedure",
+   "exceed",
+   "succeed"
+  ],
+  "tip": "항상 복수형, 강세는 첫음절 '프로시즈' — 동사 proceed(진행하다)와 발음이 다름"
+ },
+ {
+  "id": "d22-C03",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "procedural",
+  "pos": "adjective",
+  "ipa": "/prəˈsiːdʒərəl/",
+  "meaning_ko": "절차적인, 절차형의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ced",
+     "type": "root",
+     "gloss": "가다"
+    },
+    {
+     "text": "ur",
+     "type": "suffix",
+     "gloss": "~하는 것 (ure)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "앞으로 나아가는 방식(procedure) + ~의 → 순서를 따르는 → 절차적인"
+  },
+  "example": {
+   "q": "How did you modernize your infrastructure scripts?",
+   "a": "I replaced hundreds of lines of procedural shell scripts with declarative Terraform, so the desired state was easy to review.",
+   "a_ko": "수백 줄짜리 절차형 셸 스크립트를 선언형 Terraform으로 바꿔서, 원하는 상태를 쉽게 리뷰할 수 있게 했습니다."
+  },
+  "collocations": [
+   "procedural code",
+   "procedural programming",
+   "procedural step"
+  ],
+  "related": [
+   "procedure",
+   "proceed",
+   "process",
+   "precedent"
+  ],
+  "tip": "procedural(어떻게 할지 순서대로) ↔ declarative(무엇을 원하는지)로 대비해 설명"
+ },
+ {
+  "id": "d22-C04",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "precedent",
+  "pos": "noun",
+  "ipa": "/ˈpresɪdənt/",
+  "meaning_ko": "선례, 전례",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "ced",
+     "type": "root",
+     "gloss": "가다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "앞서 간(praecedere) → 먼저 일어난 일 → 나중 판단의 기준이 되는 선례"
+  },
+  "example": {
+   "q": "We don't usually offer signing bonuses at this level.",
+   "a": "I understand. Is there any precedent for it, for example when a candidate was giving up an annual bonus at their current company?",
+   "a_ko": "이해합니다. 혹시 지원자가 현 직장의 연간 보너스를 포기해야 했던 경우처럼, 그런 전례가 있었을까요?"
+  },
+  "collocations": [
+   "set a precedent",
+   "there is precedent for",
+   "without precedent"
+  ],
+  "related": [
+   "precede",
+   "precedence",
+   "unprecedented",
+   "proceed"
+  ],
+  "tip": "발음은 '프레시던트' — 'set a precedent(선례를 남기다)'는 회사가 조건을 거절하는 이유로도 자주 나옴"
+ },
+ {
+  "id": "d22-C05",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "precedence",
+  "pos": "noun",
+  "ipa": "/ˈpresɪdəns/",
+  "meaning_ko": "우선순위, 우선함",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "ced",
+     "type": "root",
+     "gloss": "가다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "앞서 감(praecedere) → 순서상 앞에 섬 → 우선함, 우선순위"
+  },
+  "example": {
+   "q": "How does your configuration system resolve conflicting values?",
+   "a": "We defined a clear precedence order: environment variables override the config file, which overrides defaults, so nobody had to guess which value won.",
+   "a_ko": "명확한 우선순위를 정해 환경 변수가 설정 파일을, 설정 파일이 기본값을 덮어쓰게 했습니다. 그래서 어떤 값이 적용되는지 아무도 추측할 필요가 없었습니다."
+  },
+  "collocations": [
+   "take precedence over",
+   "operator precedence",
+   "order of precedence"
+  ],
+  "related": [
+   "precedent",
+   "precede",
+   "proceed",
+   "access"
+  ],
+  "tip": "precedent(선례)와 철자·발음이 비슷 — 'take precedence over'는 '~보다 우선하다'"
+ },
+ {
+  "id": "d22-C06",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "cede",
+  "pos": "verb",
+  "ipa": "/siːd/",
+  "meaning_ko": "양보하다, 내주다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cede",
+     "type": "root",
+     "gloss": "가다·물러나다 (cedere)"
+    }
+   ],
+   "story": "가다, 물러나다(cedere) → 물러나 자리를 내주다 → 양보하다"
+  },
+  "example": {
+   "q": "Would you be willing to give up some equity for a higher base salary?",
+   "a": "I'd prefer not to cede much equity, but I could trade a small portion of it for a guaranteed raise after the first year.",
+   "a_ko": "지분을 많이 내주고 싶지는 않지만, 일부는 1년 뒤 보장된 인상과 맞바꿀 수 있습니다."
+  },
+  "collocations": [
+   "cede ground",
+   "cede control",
+   "cede to"
+  ],
+  "related": [
+   "concede",
+   "accede",
+   "precedent",
+   "proceed"
+  ],
+  "tip": "'cede ground(물러서다, 양보하다)'는 협상에서 자주 쓰는 관용 표현"
+ },
+ {
+  "id": "d22-C07",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "accede",
+  "pos": "verb",
+  "ipa": "/əkˈsiːd/",
+  "meaning_ko": "(요청에) 동의하다, 응하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~로 (ad)"
+    },
+    {
+     "text": "cede",
+     "type": "root",
+     "gloss": "가다"
+    }
+   ],
+   "story": "~쪽으로 가다(accedere) → 상대 쪽으로 다가가다 → 요청에 응하다"
+  },
+  "example": {
+   "q": "The hiring manager has agreed to your request for a later start date.",
+   "a": "Thank you for acceding to that request so quickly; it lets me hand over my current projects properly, and I'm happy to sign this week.",
+   "a_ko": "그 요청에 이렇게 빨리 응해 주셔서 감사합니다. 덕분에 지금 프로젝트를 제대로 인수인계할 수 있고, 이번 주에 기꺼이 서명하겠습니다."
+  },
+  "collocations": [
+   "accede to a request",
+   "accede to demands"
+  ],
+  "related": [
+   "access",
+   "cede",
+   "precedent",
+   "succeed"
+  ],
+  "tip": "항상 'accede to + 요청' — agree to보다 격식 있는 말, exceed(초과하다)와 혼동 주의"
+ },
+ {
+  "id": "d22-C08",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "succession",
+  "pos": "noun",
+  "ipa": "/səkˈseʃn/",
+  "meaning_ko": "승계, 연속",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "suc",
+     "type": "prefix",
+     "gloss": "아래·뒤에 (sub)"
+    },
+    {
+     "text": "cess",
+     "type": "root",
+     "gloss": "가다 (cede)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "뒤따라 감(succedere) → 뒤를 이음 → (자리·역할의) 승계"
+  },
+  "example": {
+   "q": "How do you develop the people on your team?",
+   "a": "I treat succession planning as part of my job: I pair each critical system owner with a backup, so nobody becomes a single point of failure.",
+   "a_ko": "승계 계획을 제 업무의 일부로 봅니다. 핵심 시스템 담당자마다 백업 담당자를 붙여서 누구도 단일 장애 지점이 되지 않게 합니다."
+  },
+  "collocations": [
+   "succession planning",
+   "in quick succession"
+  ],
+  "related": [
+   "succeed",
+   "success",
+   "successor",
+   "procedure"
+  ],
+  "tip": "'in quick succession'은 '연달아' — 'three incidents in quick succession'"
+ },
+ {
+  "id": "d22-C09",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "cessation",
+  "pos": "noun",
+  "ipa": "/seˈseɪʃn/",
+  "meaning_ko": "중단, (고용) 종료",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cess",
+     "type": "root",
+     "gloss": "멈추다 (cede)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "물러나다(cedere)의 반복형 cessare(멈추다) → 멈춤 → 중단, 종료"
+  },
+  "example": {
+   "q": "Do you have any questions about the stock option terms?",
+   "a": "Yes. How long do I have to exercise vested options after the cessation of employment? Ninety days is common, but some companies allow longer.",
+   "a_ko": "네. 퇴사 후 베스팅된 옵션을 얼마나 오래 행사할 수 있나요? 보통 90일이지만, 더 길게 허용하는 회사도 있어서요."
+  },
+  "collocations": [
+   "cessation of employment",
+   "cessation of service"
+  ],
+  "related": [
+   "incessant",
+   "cease",
+   "access",
+   "process"
+  ],
+  "tip": "계약서 표현 — 일상에서는 end, stop을 쓰고 계약서·약관에서는 cessation이 나옴"
+ },
+ {
+  "id": "d22-C10",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "incessant",
+  "pos": "adjective",
+  "ipa": "/ɪnˈsesnt/",
+  "meaning_ko": "끊임없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "cess",
+     "type": "root",
+     "gloss": "멈추다 (cede)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "멈추지 않는(incessans ← cessare 멈추다) → 끊임없는"
+  },
+  "example": {
+   "q": "How did you deal with alert fatigue on your team?",
+   "a": "The incessant low-priority alerts were burning people out, so I deleted forty noisy rules and routed the rest to a daily digest.",
+   "a_ko": "중요도 낮은 알림이 끊임없이 와서 팀원들이 지쳐 갔기 때문에, 시끄러운 규칙 40개를 지우고 나머지는 하루 요약으로 보냈습니다."
+  },
+  "collocations": [
+   "incessant alerts",
+   "incessant noise",
+   "incessant demands"
+  ],
+  "related": [
+   "cessation",
+   "cease",
+   "process",
+   "access"
+  ],
+  "tip": "부정적인 '끊임없는'에 씀 — 좋은 의미의 '꾸준한'은 constant, steady"
+ },
+ {
+  "id": "d22-C11",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "executive",
+  "pos": "noun",
+  "ipa": "/ɪɡˈzekjətɪv/",
+  "meaning_ko": "임원, 경영진",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로·끝까지"
+    },
+    {
+     "text": "ecut",
+     "type": "root",
+     "gloss": "따르다 (sequ)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 (사람)"
+    }
+   ],
+   "story": "끝까지 따라가다(exsequi) → 실행하다 → 실행을 맡은 사람 → 임원"
+  },
+  "example": {
+   "q": "The final step is a short call with one of our executives.",
+   "a": "Great. Could you tell me which executive it will be, so I can prepare questions about the company's direction?",
+   "a_ko": "좋습니다. 회사 방향에 대한 질문을 준비할 수 있게, 어느 임원분과 통화하는지 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "senior executive",
+   "executive team",
+   "executive summary"
+  ],
+  "related": [
+   "execute",
+   "execution",
+   "executable",
+   "consequence"
+  ],
+  "tip": "'executive summary(요약 보고)'도 회의·메일에서 자주 씀"
+ },
+ {
+  "id": "d22-C12",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "executable",
+  "pos": "noun",
+  "ipa": "/ɪɡˈzekjətəbl/",
+  "meaning_ko": "실행 파일",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로·끝까지"
+    },
+    {
+     "text": "ecut",
+     "type": "root",
+     "gloss": "따르다 (sequ)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "끝까지 따라가 해내다(exsequi → execute) + 할 수 있는 → 실행할 수 있는 것 → 실행 파일"
+  },
+  "example": {
+   "q": "How did you simplify distribution of the CLI tool?",
+   "a": "I built it as a single static executable, so users could download one file and run it without installing dependencies.",
+   "a_ko": "하나의 정적 실행 파일로 빌드해서, 사용자가 의존성 설치 없이 파일 하나만 내려받아 실행할 수 있게 했습니다."
+  },
+  "collocations": [
+   "single executable",
+   "executable file",
+   "build an executable"
+  ],
+  "related": [
+   "execute",
+   "execution",
+   "executive",
+   "consecutive"
+  ],
+  "tip": "형용사로 '실행 가능한(executable code)'으로도 씀"
+ },
+ {
+  "id": "d22-C13",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "consequential",
+  "pos": "adjective",
+  "ipa": "/ˌkɑːnsəˈkwenʃl/",
+  "meaning_ko": "결과로 생기는, 중대한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "sequ",
+     "type": "root",
+     "gloss": "따르다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "함께 뒤따라오는(consequi → consequence) + ~의 → 결과로 생기는 → (결과가 커서) 중대한"
+  },
+  "example": {
+   "q": "Do you have any concerns about the contractor agreement?",
+   "a": "Just one: the liability clause makes me responsible for consequential damages, so I'd ask to cap my liability at the fees paid under the contract.",
+   "a_ko": "한 가지만요. 책임 조항상 제가 간접 손해까지 책임지게 되어 있어서, 책임 한도를 계약에 따라 받은 금액으로 제한해 주셨으면 합니다."
+  },
+  "collocations": [
+   "consequential damages",
+   "consequential decision"
+  ],
+  "related": [
+   "consequence",
+   "sequence",
+   "subsequent",
+   "execute"
+  ],
+  "tip": "계약서의 'consequential damages'는 '간접(파생) 손해' — 프리랜서·계약직 계약에서 꼭 확인"
+ },
+ {
+  "id": "d22-C14",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "itinerary",
+  "pos": "noun",
+  "ipa": "/aɪˈtɪnəreri/",
+  "meaning_ko": "일정표, 여행 일정",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "itiner",
+     "type": "root",
+     "gloss": "길·여정 (it 가다)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~에 관한 것"
+    }
+   ],
+   "story": "가는 길(iter, itineris ← ire 가다) → 여정에 관한 것(itinerarium) → 일정표"
+  },
+  "example": {
+   "q": "We'll fly you in for the onsite interviews next week.",
+   "a": "Thank you. Could you send me the itinerary, including the hotel and the interview schedule, by Wednesday?",
+   "a_ko": "감사합니다. 호텔과 면접 일정이 포함된 일정표를 수요일까지 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "travel itinerary",
+   "send the itinerary",
+   "detailed itinerary"
+  ],
+  "related": [
+   "initial",
+   "exit",
+   "transit",
+   "issue"
+  ],
+  "tip": "발음은 '아이티너레리' — 출장·현장 면접 일정 메일에 자주 나옴"
+ },
+ {
+  "id": "d22-C15",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "transitional",
+  "pos": "adjective",
+  "ipa": "/trænˈzɪʃənl/",
+  "meaning_ko": "과도기의, 전환기의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "it",
+     "type": "root",
+     "gloss": "가다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "건너감(transire → transition) + ~의 → 넘어가는 중의 → 과도기의"
+  },
+  "example": {
+   "q": "We need someone in the office from day one. Is that possible?",
+   "a": "Could we agree on a transitional period of one month with three office days a week while I relocate?",
+   "a_ko": "제가 이사하는 동안 한 달은 주 3일 출근하는 과도기를 두는 것으로 합의할 수 있을까요?"
+  },
+  "collocations": [
+   "transitional period",
+   "transitional arrangement"
+  ],
+  "related": [
+   "transition",
+   "transit",
+   "transient",
+   "initial"
+  ],
+  "tip": "'transitional arrangement(임시 조치)'로 조건 변경을 단계적으로 제안할 때"
+ },
+ {
+  "id": "d22-C16",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "commencement",
+  "pos": "noun",
+  "ipa": "/kəˈmensmənt/",
+  "meaning_ko": "개시, (근무) 시작",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께·강조 (con)"
+    },
+    {
+     "text": "mence",
+     "type": "root",
+     "gloss": "시작하다 (initiare ← in + it)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "강조의 com + initiare(시작하다; in+ire 안으로 들어가다) → 고대 프랑스어 comencier → 시작함 → 근무 개시"
+  },
+  "example": {
+   "q": "The contract lists your commencement date as May 1st.",
+   "a": "Thank you. Could the commencement date be May 15th instead, since my notice period ends on the 10th and I need a few days to relocate?",
+   "a_ko": "감사합니다. 퇴사 통보 기간이 10일에 끝나고 이사할 며칠이 필요해서, 근무 개시일을 5월 15일로 해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "commencement date",
+   "commencement of employment"
+  ],
+  "related": [
+   "commence",
+   "initial",
+   "initiate",
+   "transit"
+  ],
+  "tip": "계약서의 'commencement date'는 start date의 격식 표현 — 미국에서는 '졸업식'이라는 뜻도 있음"
+ },
+ {
+  "id": "d22-C17",
+  "day": 22,
+  "level": 3,
+  "set": "C",
+  "family": "F2",
+  "word": "transitive",
+  "pos": "adjective",
+  "ipa": "/ˈtrænsətɪv/",
+  "meaning_ko": "전이적인, 간접(의존)의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "it",
+     "type": "root",
+     "gloss": "가다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "건너가는(transire) → 다른 것을 거쳐 넘어가는 → (의존성이) 다른 패키지를 거쳐 들어오는"
+  },
+  "example": {
+   "q": "How did you respond to the Log4j vulnerability?",
+   "a": "We didn't use Log4j directly, but it came in as a transitive dependency, so I generated an SBOM and patched every service within two days.",
+   "a_ko": "Log4j를 직접 쓰지는 않았지만 간접 의존성으로 들어와 있어서, SBOM을 생성해 이틀 안에 모든 서비스를 패치했습니다."
+  },
+  "collocations": [
+   "transitive dependency",
+   "transitive closure"
+  ],
+  "related": [
+   "transition",
+   "transit",
+   "initial",
+   "exit"
+  ],
+  "tip": "문법에서는 '타동사(transitive verb)' — 개발에서는 '간접으로 딸려 오는'"
+ },
+ {
+  "id": "d22-C18",
+  "day": 22,
+  "level": 1,
+  "set": "C",
+  "family": "F2",
+  "word": "actual",
+  "pos": "adjective",
+  "ipa": "/ˈæktʃuəl/",
+  "meaning_ko": "실제의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ual",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "행한(actus ← agere) → 행위로 나타난 → 실제의"
+  },
+  "example": {
+   "q": "How do you write a good unit test?",
+   "a": "I compare the actual result with the expected value and test one behavior at a time.",
+   "a_ko": "실제 결과를 기댓값과 비교하고, 한 번에 한 가지 동작만 테스트합니다."
+  },
+  "collocations": [
+   "actual result",
+   "actual cost",
+   "expected vs actual"
+  ],
+  "related": [
+   "act",
+   "action",
+   "activity",
+   "actually"
+  ],
+  "tip": "actually(사실은)의 형용사 — 'expected vs actual'은 버그 리포트의 기본 형식"
+ },
+ {
+  "id": "d22-C19",
+  "day": 22,
+  "level": 1,
+  "set": "C",
+  "family": "F2",
+  "word": "activity",
+  "pos": "noun",
+  "ipa": "/ækˈtɪvəti/",
+  "meaning_ko": "활동, (사용자) 활동 기록",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~인 것"
+    }
+   ],
+   "story": "행하는(activus) + 것 → 움직여 행함 → 활동"
+  },
+  "example": {
+   "q": "How did you detect the compromised account?",
+   "a": "Our activity logs showed logins from two countries within ten minutes.",
+   "a_ko": "활동 로그에서 10분 안에 두 나라에서 로그인한 기록이 보였습니다."
+  },
+  "collocations": [
+   "activity log",
+   "user activity",
+   "suspicious activity"
+  ],
+  "related": [
+   "active",
+   "act",
+   "actual",
+   "inactive"
+  ],
+  "tip": "보안 질문에서 'suspicious activity(의심스러운 활동)'가 자주 나옴"
+ },
+ {
+  "id": "d22-C20",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "self-motivated",
+  "pos": "adjective",
+  "ipa": "/ˌself ˈmoʊtɪveɪtɪd/",
+  "meaning_ko": "자기 주도적인, 스스로 동기 부여하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "self-",
+     "type": "part",
+     "gloss": "스스로"
+    },
+    {
+     "text": "motiv",
+     "type": "root",
+     "gloss": "움직이게 하는 (mov)"
+    },
+    {
+     "text": "ated",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "스스로 + 움직이게 하는 이유(motive ← movere)를 갖춘 → 시키지 않아도 움직이는"
+  },
+  "example": {
+   "q": "How do you stay productive when working remotely?",
+   "a": "I'm quite self-motivated: I plan my week every Monday and share my goals with the team, so they can see my progress.",
+   "a_ko": "저는 꽤 자기 주도적인 편입니다. 매주 월요일에 한 주를 계획하고 목표를 팀에 공유해서 진행 상황이 보이게 합니다."
+  },
+  "collocations": [
+   "highly self-motivated",
+   "self-motivated learner"
+  ],
+  "related": [
+   "motivate",
+   "motive",
+   "motion",
+   "promote"
+  ],
+  "tip": "'I'm self-motivated'만 말하지 말고 바로 뒤에 구체적인 습관을 붙여야 설득력 있음"
+ },
+ {
+  "id": "d22-C21",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "fast-paced",
+  "pos": "adjective",
+  "ipa": "/ˌfæst ˈpeɪst/",
+  "meaning_ko": "빠르게 돌아가는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fast-",
+     "type": "part",
+     "gloss": "빠른"
+    },
+    {
+     "text": "pac",
+     "type": "root",
+     "gloss": "걸음 (passus)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "빠른 + 걸음(pace ← passus) → 걸음이 빠른 → 일이 빠르게 돌아가는"
+  },
+  "example": {
+   "q": "Our environment changes quickly. How do you handle that?",
+   "a": "I enjoy fast-paced teams as long as priorities are clear, because shipping often helps me learn quickly.",
+   "a_ko": "우선순위만 분명하다면 빠르게 돌아가는 팀을 좋아합니다. 자주 배포하면 빨리 배울 수 있기 때문입니다."
+  },
+  "collocations": [
+   "fast-paced environment",
+   "fast-paced team"
+  ],
+  "related": [
+   "pace",
+   "pass",
+   "surpass",
+   "impasse"
+  ],
+  "tip": "채용 공고 단골 표현 — 'as long as priorities are clear'처럼 조건을 붙이면 성숙해 보임"
+ },
+ {
+  "id": "d22-C22",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "surpass",
+  "pos": "verb",
+  "ipa": "/sərˈpæs/",
+  "meaning_ko": "넘어서다, 능가하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sur",
+     "type": "prefix",
+     "gloss": "위로·넘어 (super)"
+    },
+    {
+     "text": "pass",
+     "type": "root",
+     "gloss": "지나가다 (passus)"
+    }
+   ],
+   "story": "위로 넘어 지나가다(프랑스어 surpasser) → 앞지르다 → 능가하다"
+  },
+  "example": {
+   "q": "What's your proudest achievement this year?",
+   "a": "Our team surpassed its uptime target with 99.98 percent, mainly because we automated our failover tests.",
+   "a_ko": "저희 팀이 가동률 99.98%로 목표를 넘어섰는데, 주로 장애 전환 테스트를 자동화한 덕분이었습니다."
+  },
+  "collocations": [
+   "surpass a target",
+   "surpass expectations"
+  ],
+  "related": [
+   "pass",
+   "pace",
+   "impasse",
+   "pass on"
+  ],
+  "tip": "exceed와 비슷 — 'surpassed our goal by 20%'처럼 숫자와 함께 쓰면 좋음"
+ },
+ {
+  "id": "d22-C23",
+  "day": 22,
+  "level": 1,
+  "set": "C",
+  "family": "F2",
+  "word": "think over",
+  "pos": "phrasal verb",
+  "ipa": "/ˌθɪŋk ˈoʊvər/",
+  "meaning_ko": "곰곰이 생각해 보다, 검토하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "think",
+     "type": "part",
+     "gloss": "생각하다"
+    },
+    {
+     "text": " over",
+     "type": "part",
+     "gloss": "처음부터 끝까지"
+    }
+   ],
+   "story": "처음부터 끝까지 넘겨 가며 생각하다 → 결정 전에 곰곰이 따져 보다"
+  },
+  "example": {
+   "q": "This is our final offer. Do you need some time?",
+   "a": "Yes, please. I'd like to think it over and reply by Friday.",
+   "a_ko": "네, 부탁드립니다. 곰곰이 생각해 보고 금요일까지 답을 드리고 싶습니다."
+  },
+  "collocations": [
+   "think it over",
+   "think over the offer"
+  ],
+  "related": [
+   "on the table",
+   "ballpark",
+   "middle ground"
+  ],
+  "tip": "목적어가 대명사면 'think it over'처럼 가운데에 넣음 — 답할 날짜를 같이 말하면 신뢰를 줌"
+ },
+ {
+  "id": "d22-C24",
+  "day": 22,
+  "level": 1,
+  "set": "C",
+  "family": "F2",
+  "word": "on the table",
+  "pos": "phrase",
+  "ipa": "/ɑːn ðə ˈteɪbl/",
+  "meaning_ko": "논의 중인, 제시된",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "on",
+     "type": "part",
+     "gloss": "위에"
+    },
+    {
+     "text": " the table",
+     "type": "part",
+     "gloss": "테이블"
+    }
+   ],
+   "story": "테이블 위에 올려진 → 협상 테이블에 놓인 → 논의할 수 있는 상태인"
+  },
+  "example": {
+   "q": "Is there anything else you'd like to discuss?",
+   "a": "Yes. Is a relocation package on the table for this role?",
+   "a_ko": "네. 이 직무에 이전 지원 패키지도 논의할 수 있을까요?"
+  },
+  "collocations": [
+   "on the table",
+   "off the table",
+   "put on the table"
+  ],
+  "related": [
+   "middle ground",
+   "think over",
+   "bargaining chip"
+  ],
+  "tip": "반대는 'off the table(논의 대상 아님)' — 'Remote work is off the table'"
+ },
+ {
+  "id": "d22-C25",
+  "day": 22,
+  "level": 2,
+  "set": "C",
+  "family": "F2",
+  "word": "drive a hard bargain",
+  "pos": "phrase",
+  "ipa": "/ˌdraɪv ə ˌhɑːrd ˈbɑːrɡən/",
+  "meaning_ko": "(자기에게 유리하게) 끈질기게 협상하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "drive",
+     "type": "part",
+     "gloss": "몰다 (고대 영어 drīfan)"
+    },
+    {
+     "text": "a",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "hard",
+     "type": "part",
+     "gloss": "단단한, 어려운"
+    },
+    {
+     "text": "bargain",
+     "type": "part",
+     "gloss": "거래 (고대 프랑스어 bargaine)"
+    }
+   ],
+   "story": "어려운 거래를 밀어붙이다 → 쉽게 양보하지 않고 협상하다"
+  },
+  "example": {
+   "q": "What salary range are you looking for?",
+   "a": "I don't want to drive a hard bargain, but based on my experience I'm targeting the upper half of your range.",
+   "a_ko": "무리하게 밀어붙이고 싶진 않지만, 제 경력을 고려해 제시하신 범위의 상단을 목표로 하고 있습니다."
+  },
+  "collocations": [
+   "drive a hard bargain",
+   "strike a bargain"
+  ],
+  "related": [
+   "bargaining chip",
+   "haggle",
+   "negotiate"
+  ],
+  "tip": "\"I don't want to drive a hard bargain, but…\" 로 시작하면 부드럽게 높은 조건을 말할 수 있음"
+ }
+]

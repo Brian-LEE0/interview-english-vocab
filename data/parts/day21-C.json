@@ -1,0 +1,1198 @@
+[
+ {
+  "id": "d21-C01",
+  "day": 21,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "advance notice",
+  "pos": "noun",
+  "ipa": "/ədˌvæns ˈnoʊtɪs/",
+  "meaning_ko": "사전 통보",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "advance",
+     "type": "part",
+     "gloss": "미리·앞서"
+    },
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (gnoscere)"
+    },
+    {
+     "text": "ice",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "알게 함(notitia) → 알림(notice) → 미리 하는 알림"
+  },
+  "example": {
+   "q": "When could you start?",
+   "a": "I need to give my current employer four weeks' advance notice.",
+   "a_ko": "현재 회사에 4주 전에 미리 퇴사 통보를 해야 합니다."
+  },
+  "collocations": [
+   "give advance notice",
+   "with advance notice"
+  ],
+  "related": [
+   "notice",
+   "noticeably",
+   "notify",
+   "notional"
+  ],
+  "tip": "four weeks' notice 처럼 기간 뒤에 's 를 붙이는 형태도 자주 씀"
+ },
+ {
+  "id": "d21-C02",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "notional",
+  "pos": "adjective",
+  "ipa": "/ˈnoʊʃənəl/",
+  "meaning_ko": "명목상의, 이론상의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (gnoscere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "알게 됨(notio) → 머릿속 개념(notion) → 개념상으로만 있는 → 명목상의"
+  },
+  "example": {
+   "q": "The option grant is worth about 200,000 dollars at today's valuation.",
+   "a": "I appreciate that, but since it's a notional value until there's a liquidity event, I'd put more weight on the base salary in my decision.",
+   "a_ko": "감사합니다만, 유동화 이벤트 전까지는 명목상의 가치라서 결정할 때는 기본급에 더 무게를 두려고 합니다."
+  },
+  "collocations": [
+   "notional value",
+   "a notional amount"
+  ],
+  "related": [
+   "notion",
+   "notice",
+   "advance notice",
+   "recognize"
+  ],
+  "tip": "paper value 와 비슷한 뜻. 비상장 주식처럼 '아직 현금이 아닌 가치'를 말할 때"
+ },
+ {
+  "id": "d21-C03",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "pardon my ignorance",
+  "pos": "phrase",
+  "ipa": "/ˈpɑːrdən maɪ ˈɪɡnərəns/",
+  "meaning_ko": "제가 잘 몰라서 여쭙니다만",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pardon",
+     "type": "part",
+     "gloss": "용서하다"
+    },
+    {
+     "text": "my",
+     "type": "part",
+     "gloss": "나의"
+    },
+    {
+     "text": "i",
+     "type": "prefix",
+     "gloss": "아닌 (in)"
+    },
+    {
+     "text": "gnor",
+     "type": "root",
+     "gloss": "알다 (gno)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "알지 못함(ignorantia) → 무지 → '제 무지를 용서하세요' → 모르는 것을 정중히 물을 때"
+  },
+  "example": {
+   "q": "Your stock options come with a one-year cliff.",
+   "a": "Pardon my ignorance, but what happens to the unvested options if the company is acquired during that first year?",
+   "a_ko": "제가 잘 몰라서 여쭙니다만, 첫해 안에 회사가 인수되면 베스팅되지 않은 옵션은 어떻게 되나요?"
+  },
+  "collocations": [
+   "pardon my ignorance, but",
+   "forgive my ignorance"
+  ],
+  "related": [
+   "ignore",
+   "ignorance",
+   "diagnose",
+   "agnostic"
+  ],
+  "tip": "모르는 조건을 묻는 걸 부끄러워하지 말고 이 말로 정중하게 시작"
+ },
+ {
+  "id": "d21-C04",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "cloud-agnostic",
+  "pos": "adjective",
+  "ipa": "/ˌklaʊd æɡˈnɑːstɪk/",
+  "meaning_ko": "특정 클라우드에 종속되지 않는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cloud",
+     "type": "part",
+     "gloss": "클라우드"
+    },
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "gnost",
+     "type": "root",
+     "gloss": "알다 (gno)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "알 수 없는(agnostos) → 어느 쪽으로도 정하지 않는(agnostic) → 어떤 클라우드에도 묶이지 않는"
+  },
+  "example": {
+   "q": "Why did you use Terraform and Kubernetes?",
+   "a": "We wanted the platform to be cloud-agnostic, so we could move workloads between AWS and GCP if pricing changed.",
+   "a_ko": "플랫폼을 특정 클라우드에 묶이지 않게 해서, 가격이 바뀌면 AWS와 GCP 사이로 워크로드를 옮길 수 있게 하고 싶었습니다."
+  },
+  "collocations": [
+   "cloud-agnostic architecture",
+   "vendor-agnostic"
+  ],
+  "related": [
+   "agnostic",
+   "diagnose",
+   "prognosis",
+   "ignorance"
+  ],
+  "tip": "-agnostic 은 '~에 상관없는, 종속되지 않는' (platform-agnostic, language-agnostic)"
+ },
+ {
+  "id": "d21-C05",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "misdiagnose",
+  "pos": "verb",
+  "ipa": "/ˌmɪsˈdaɪəɡnoʊs/",
+  "meaning_ko": "잘못 진단하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mis",
+     "type": "prefix",
+     "gloss": "잘못"
+    },
+    {
+     "text": "dia",
+     "type": "prefix",
+     "gloss": "꿰뚫어·사이로"
+    },
+    {
+     "text": "gnose",
+     "type": "root",
+     "gloss": "알다 (gno)"
+    }
+   ],
+   "story": "꿰뚫어 알다(diagignoskein) → 진단하다(diagnose) → 잘못 진단하다"
+  },
+  "example": {
+   "q": "Tell me about a time you got something wrong during an incident.",
+   "a": "I initially misdiagnosed the outage as a database issue, but the traces pointed to a DNS change, so I corrected course within twenty minutes.",
+   "a_ko": "처음에는 장애를 데이터베이스 문제로 잘못 진단했지만, 트레이스가 DNS 변경을 가리켜서 20분 안에 방향을 바로잡았습니다."
+  },
+  "collocations": [
+   "misdiagnose the problem",
+   "misdiagnose a bug"
+  ],
+  "related": [
+   "diagnose",
+   "diagnosis",
+   "prognosis",
+   "agnostic"
+  ],
+  "tip": "실수 인정 → 근거(traces) → 빠른 수정 순서로 말하면 STAR 답변이 깔끔해짐"
+ },
+ {
+  "id": "d21-C06",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "prognosis",
+  "pos": "noun",
+  "ipa": "/prɑːɡˈnoʊsɪs/",
+  "meaning_ko": "예후, (앞으로의) 전망",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "미리·앞서"
+    },
+    {
+     "text": "gno",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "sis",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "미리 앎(prognosis) → 병의 진행을 내다봄 → 앞으로의 전망"
+  },
+  "example": {
+   "q": "What did you recommend for the aging billing system?",
+   "a": "My prognosis was that patching it would cost more within a year, so I proposed a phased rewrite with clear checkpoints, and leadership approved it.",
+   "a_ko": "계속 패치하면 1년 안에 비용이 더 커질 거라고 전망해서 명확한 점검 지점을 둔 단계적 재작성을 제안했고, 경영진이 승인했습니다."
+  },
+  "collocations": [
+   "a gloomy prognosis",
+   "the long-term prognosis"
+  ],
+  "related": [
+   "diagnosis",
+   "misdiagnose",
+   "agnostic",
+   "recognize"
+  ],
+  "tip": "원래 의학 용어(예후)지만 비즈니스·기술에서 '전망'으로도 씀. 복수는 prognoses"
+ },
+ {
+  "id": "d21-C07",
+  "day": 21,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "common sense",
+  "pos": "noun",
+  "ipa": "/ˌkɑːmən ˈsens/",
+  "meaning_ko": "상식, 분별",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "common",
+     "type": "part",
+     "gloss": "공통의"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(어미)"
+    }
+   ],
+   "story": "느끼다(sentire) → 감각·판단(sense) → 누구나 갖는 판단 → 상식"
+  },
+  "example": {
+   "q": "How do you handle situations with no clear process?",
+   "a": "I use common sense, check with my lead, and then write the process down.",
+   "a_ko": "상식선에서 판단하고, 리드와 확인한 다음, 그 과정을 문서로 남깁니다."
+  },
+  "collocations": [
+   "use common sense",
+   "common sense tells me"
+  ],
+  "related": [
+   "sense",
+   "sensible",
+   "sensitive",
+   "consensus"
+  ],
+  "tip": "셀 수 없는 명사라서 a common sense ✗"
+ },
+ {
+  "id": "d21-C08",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "sense of purpose",
+  "pos": "noun",
+  "ipa": "/ˌsens əv ˈpɝːpəs/",
+  "meaning_ko": "목적의식",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(어미)"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "purpose",
+     "type": "part",
+     "gloss": "목적"
+    }
+   ],
+   "story": "느끼다(sentire) → 느낌·감각(sense) → 목적에 대한 감각 → 목적의식"
+  },
+  "example": {
+   "q": "What motivates you at work?",
+   "a": "A strong sense of purpose motivates me, so I prefer products that solve real problems for real people.",
+   "a_ko": "강한 목적의식이 동기가 됩니다. 그래서 실제 사람들의 실제 문제를 해결하는 제품을 선호합니다."
+  },
+  "collocations": [
+   "a strong sense of purpose",
+   "give a sense of purpose"
+  ],
+  "related": [
+   "sense",
+   "common sense",
+   "sentiment",
+   "consensus"
+  ],
+  "tip": "a sense of ownership / urgency / humor 처럼 a sense of + 명사 패턴으로 확장"
+ },
+ {
+  "id": "d21-C09",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "case-insensitive",
+  "pos": "adjective",
+  "ipa": "/ˌkeɪs ɪnˈsensətɪv/",
+  "meaning_ko": "대소문자를 구분하지 않는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "case",
+     "type": "part",
+     "gloss": "(대·소문자) 형태"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "느낄 수 있는(sensitive) → 민감한 → 대소문자에 민감하지 않은 → 구분하지 않는"
+  },
+  "example": {
+   "q": "What caused the duplicate accounts bug?",
+   "a": "Our login compared emails exactly as typed, so I made the lookup case-insensitive and added a unique index on the lowercased email.",
+   "a_ko": "로그인할 때 이메일을 입력한 그대로 비교하고 있어서, 조회를 대소문자 구분 없이 하도록 바꾸고 소문자로 바꾼 이메일에 유니크 인덱스를 추가했습니다."
+  },
+  "collocations": [
+   "case-insensitive search",
+   "case-insensitive match"
+  ],
+  "related": [
+   "sensitive",
+   "case-sensitive",
+   "price-sensitive",
+   "sense"
+  ],
+  "tip": "반대말은 case-sensitive. 비밀번호는 보통 case-sensitive"
+ },
+ {
+  "id": "d21-C10",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "price-sensitive",
+  "pos": "adjective",
+  "ipa": "/ˌpraɪs ˈsensətɪv/",
+  "meaning_ko": "가격에 민감한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "price",
+     "type": "part",
+     "gloss": "가격"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "잘 느끼는(sensitive) + 가격 → 가격 변화에 민감한"
+  },
+  "example": {
+   "q": "Our customers push back on price increases. Have you dealt with that?",
+   "a": "Yes. Our SMB customers were very price-sensitive, so instead of raising prices, we introduced a usage-based tier, which kept churn under two percent.",
+   "a_ko": "네. 저희 중소기업 고객들이 가격에 매우 민감해서, 가격을 올리는 대신 사용량 기반 요금제를 도입했고 이탈률을 2% 아래로 유지했습니다."
+  },
+  "collocations": [
+   "price-sensitive customers",
+   "highly price-sensitive"
+  ],
+  "related": [
+   "sensitive",
+   "case-insensitive",
+   "sense",
+   "sensor"
+  ],
+  "tip": "고객·시장 이야기를 할 때 쓰는 비즈니스 표현"
+ },
+ {
+  "id": "d21-C11",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "consensus",
+  "pos": "noun",
+  "ipa": "/kənˈsensəs/",
+  "meaning_ko": "합의, 의견 일치",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "sens",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "us",
+     "type": "suffix",
+     "gloss": "(라틴어 명사 어미)"
+    }
+   ],
+   "story": "함께 느끼다(consentire) → 같은 생각 → 합의"
+  },
+  "example": {
+   "q": "How does your team make big technical decisions?",
+   "a": "We write a short design doc, collect feedback for a week, and aim for consensus before we commit to anything.",
+   "a_ko": "짧은 설계 문서를 쓰고 일주일 동안 피드백을 모은 뒤, 확정하기 전에 합의를 이루려고 합니다."
+  },
+  "collocations": [
+   "reach a consensus",
+   "build consensus",
+   "consensus among"
+  ],
+  "related": [
+   "consent",
+   "sense",
+   "sentiment",
+   "assent"
+  ],
+  "tip": "철자 주의: concensus ✗ → consensus ○ (sens = 느끼다)"
+ },
+ {
+  "id": "d21-C12",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "written consent",
+  "pos": "noun",
+  "ipa": "/ˌrɪtən kənˈsent/",
+  "meaning_ko": "서면 동의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "written",
+     "type": "part",
+     "gloss": "글로 쓴"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "sent",
+     "type": "root",
+     "gloss": "느끼다"
+    }
+   ],
+   "story": "함께 느끼다(consentire) → 같은 뜻을 가짐 → 동의 → 글로 남긴 동의"
+  },
+  "example": {
+   "q": "We'd like to contact your current manager for a reference.",
+   "a": "I'd be happy to share references, but please get my written consent before contacting my current manager, since my search is confidential.",
+   "a_ko": "레퍼런스는 기꺼이 드리겠지만, 제 이직 준비는 비공개라서 현재 매니저에게 연락하시기 전에 서면 동의를 받아 주셨으면 합니다."
+  },
+  "collocations": [
+   "prior written consent",
+   "without written consent"
+  ],
+  "related": [
+   "consent",
+   "consensus",
+   "assent",
+   "sense"
+  ],
+  "tip": "계약서에 prior written consent(사전 서면 동의)로 자주 나옴"
+ },
+ {
+  "id": "d21-C13",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "assent",
+  "pos": "noun",
+  "ipa": "/əˈsent/",
+  "meaning_ko": "동의, 찬성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "as",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "sent",
+     "type": "root",
+     "gloss": "느끼다"
+    }
+   ],
+   "story": "~에 대해 같은 느낌을 갖다(assentire) → 찬성하다 → 동의"
+  },
+  "example": {
+   "q": "Do you need to check with anyone before accepting?",
+   "a": "Yes, relocating affects my partner's job too, so I'd like her assent before I sign; we'll have an answer for you by Friday.",
+   "a_ko": "네, 이주는 배우자의 직장에도 영향을 주기 때문에 서명하기 전에 배우자의 동의를 받고 싶습니다. 금요일까지 답을 드리겠습니다."
+  },
+  "collocations": [
+   "give assent",
+   "nod in assent",
+   "verbal assent"
+  ],
+  "related": [
+   "consent",
+   "consensus",
+   "dissenting",
+   "sentiment"
+  ],
+  "tip": "consent 보다 격식 있고 '찬성 의사 표시'에 초점. ascent(상승)와 발음이 같으니 철자 주의"
+ },
+ {
+  "id": "d21-C14",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "dissenting",
+  "pos": "adjective",
+  "ipa": "/dɪˈsentɪŋ/",
+  "meaning_ko": "반대하는, 이견을 가진",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져·다르게"
+    },
+    {
+     "text": "sent",
+     "type": "root",
+     "gloss": "느끼다"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "다르게 느끼다(dissentire) → 의견이 갈리다 → 반대하는"
+  },
+  "example": {
+   "q": "Tell me about a time you disagreed with the team.",
+   "a": "I was the only dissenting voice on adopting microservices, so I wrote a one-page cost analysis; we eventually agreed to start with a modular monolith instead.",
+   "a_ko": "마이크로서비스 도입에 저 혼자 반대 의견이어서 한 장짜리 비용 분석을 작성했고, 결국 모듈형 모놀리스부터 시작하기로 합의했습니다."
+  },
+  "collocations": [
+   "a dissenting voice",
+   "a dissenting opinion"
+  ],
+  "related": [
+   "dissent",
+   "consent",
+   "consensus",
+   "assent"
+  ],
+  "tip": "a dissenting voice 는 '혼자 반대한 사람'. 근거를 갖춘 반대였다는 걸 함께 말하기"
+ },
+ {
+  "id": "d21-C15",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "sentiment analysis",
+  "pos": "noun",
+  "ipa": "/ˈsentɪmənt əˌnæləsɪs/",
+  "meaning_ko": "감성 분석",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "senti",
+     "type": "root",
+     "gloss": "느끼다 (sent)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "analysis",
+     "type": "part",
+     "gloss": "분석"
+    }
+   ],
+   "story": "느낌(sentimentum) → 감정·의견 → 글 속 감정을 분석하는 것"
+  },
+  "example": {
+   "q": "Have you worked with NLP models?",
+   "a": "Yes, I built a sentiment analysis pipeline that tagged support tickets, so urgent complaints reached the right team within minutes.",
+   "a_ko": "네, 고객 문의 티켓에 태그를 다는 감성 분석 파이프라인을 만들어서 급한 불만이 몇 분 안에 담당 팀에 전달되게 했습니다."
+  },
+  "collocations": [
+   "run sentiment analysis",
+   "sentiment analysis model"
+  ],
+  "related": [
+   "sentiment",
+   "sense",
+   "sensitive",
+   "consensus"
+  ],
+  "tip": "리뷰·SNS·티켓 텍스트의 긍정/부정을 판단하는 NLP 작업"
+ },
+ {
+  "id": "d21-C16",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "sentiment",
+  "pos": "noun",
+  "ipa": "/ˈsentɪmənt/",
+  "meaning_ko": "(어떤 일에 대한) 마음, 정서",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "senti",
+     "type": "root",
+     "gloss": "느끼다 (sent)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "느끼다(sentire) → 느낀 것(sentimentum) → 생각·감정"
+  },
+  "example": {
+   "q": "Our CEO really wants you on the team.",
+   "a": "I appreciate the sentiment, and the feeling is mutual; if we can align on the equity refresh policy, I'm ready to sign this week.",
+   "a_ko": "그 마음 감사하고 저도 같은 생각입니다. 주식 추가 부여 정책에 대해 의견이 맞춰지면 이번 주에 서명할 준비가 되어 있습니다."
+  },
+  "collocations": [
+   "I appreciate the sentiment",
+   "share the sentiment",
+   "market sentiment"
+  ],
+  "related": [
+   "sentimental",
+   "sense",
+   "consensus",
+   "consent"
+  ],
+  "tip": "I appreciate the sentiment 는 상대의 호의에 감사하면서 본론으로 넘어갈 때 쓰는 정중한 표현"
+ },
+ {
+  "id": "d21-C17",
+  "day": 21,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "empathy",
+  "pos": "noun",
+  "ipa": "/ˈempəθi/",
+  "meaning_ko": "공감, 감정 이입",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "em",
+     "type": "prefix",
+     "gloss": "안에 (en)"
+    },
+    {
+     "text": "path",
+     "type": "root",
+     "gloss": "느끼다·겪다 (그리스어 pathos)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "안으로 느낌(empatheia) → 남의 감정 안으로 들어가 느낌 → 공감"
+  },
+  "example": {
+   "q": "What makes a good teammate?",
+   "a": "Empathy. I try to understand why someone disagrees before I respond.",
+   "a_ko": "공감 능력입니다. 저는 대답하기 전에 상대가 왜 반대하는지 먼저 이해하려고 합니다."
+  },
+  "collocations": [
+   "show empathy",
+   "empathy for users"
+  ],
+  "related": [
+   "sympathetic",
+   "sentiment",
+   "sense",
+   "consensus"
+  ],
+  "tip": "sympathy 는 '안타까워함', empathy 는 '그 입장이 되어 느낌'"
+ },
+ {
+  "id": "d21-C18",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "sympathetic",
+  "pos": "adjective",
+  "ipa": "/ˌsɪmpəˈθetɪk/",
+  "meaning_ko": "(사정을) 이해하는, 공감하는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sym",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "path",
+     "type": "root",
+     "gloss": "느끼다·겪다 (pathos)"
+    },
+    {
+     "text": "etic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "함께 느끼는(sympathetikos) → 남의 사정을 이해하는 → 공감하는"
+  },
+  "example": {
+   "q": "Honestly, our budget for this year is already fixed.",
+   "a": "I'm sympathetic to the budget constraints, so could we agree on a guaranteed salary review in January instead of a higher base today?",
+   "a_ko": "예산 사정은 충분히 이해합니다. 그러면 지금 기본급을 올리는 대신, 1월에 연봉 재검토를 확약해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "sympathetic to",
+   "a sympathetic ear"
+  ],
+  "related": [
+   "empathy",
+   "sentiment",
+   "sense",
+   "consensus"
+  ],
+  "tip": "'I'm sympathetic to ~, so could we ~?' 는 상대 사정을 인정하고 대안을 내는 협상 패턴"
+ },
+ {
+  "id": "d21-C19",
+  "day": 21,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "out of scope",
+  "pos": "phrase",
+  "ipa": "/ˌaʊt əv ˈskoʊp/",
+  "meaning_ko": "범위 밖인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "out of",
+     "type": "part",
+     "gloss": "~밖에"
+    },
+    {
+     "text": "scope",
+     "type": "root",
+     "gloss": "보다 (그리스어 skopos '보는 대상·과녁')"
+    }
+   ],
+   "story": "보는 대상·과녁(skopos) → 다루는 범위(scope) → 범위 밖"
+  },
+  "example": {
+   "q": "Did you also redesign the admin page?",
+   "a": "No, that was out of scope for this release, so we planned it for Q3.",
+   "a_ko": "아니요, 그건 이번 릴리스 범위 밖이라서 3분기로 계획했습니다."
+  },
+  "collocations": [
+   "out of scope for",
+   "in scope"
+  ],
+  "related": [
+   "scope",
+   "scope of work",
+   "microscope",
+   "descope"
+  ],
+  "tip": "반대는 in scope. 범위를 지켰다는 걸 보여 줄 때 좋음"
+ },
+ {
+  "id": "d21-C20",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "scope of work",
+  "pos": "noun",
+  "ipa": "/ˌskoʊp əv ˈwɝːk/",
+  "meaning_ko": "업무 범위 (계약상)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "scope",
+     "type": "root",
+     "gloss": "보다 (skopos)"
+    },
+    {
+     "text": "of work",
+     "type": "part",
+     "gloss": "업무의"
+    }
+   ],
+   "story": "보는 대상(skopos) → 다루는 범위 → 계약에 적힌 일의 범위"
+  },
+  "example": {
+   "q": "We'd like to start you as a contractor for the first three months.",
+   "a": "That works for me, as long as the scope of work is defined in the contract, including deliverables, hours, and how extra requests are billed.",
+   "a_ko": "괜찮습니다. 다만 결과물, 근무 시간, 추가 요청의 비용 청구 방식까지 포함해 계약서에 업무 범위가 정의되어 있으면 좋겠습니다."
+  },
+  "collocations": [
+   "define the scope of work",
+   "outside the scope of work"
+  ],
+  "related": [
+   "scope",
+   "out of scope",
+   "descope",
+   "scope creep"
+  ],
+  "tip": "계약직·프리랜서 계약서의 SOW(statement of work)와 함께 나오는 말"
+ },
+ {
+  "id": "d21-C21",
+  "day": 21,
+  "level": 1,
+  "set": "C",
+  "family": "F1",
+  "word": "audio",
+  "pos": "noun",
+  "ipa": "/ˈɔːdioʊ/",
+  "meaning_ko": "음성, 오디오",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "aud",
+     "type": "root",
+     "gloss": "듣다"
+    },
+    {
+     "text": "io",
+     "type": "suffix",
+     "gloss": "(라틴어 audio '나는 듣는다')"
+    }
+   ],
+   "story": "라틴어 audio '나는 듣는다' → 소리 → 음성"
+  },
+  "example": {
+   "q": "Can you hear me okay?",
+   "a": "Your audio is cutting out a little. Could you repeat the last part?",
+   "a_ko": "음성이 조금씩 끊깁니다. 마지막 부분을 다시 말씀해 주시겠어요?"
+  },
+  "collocations": [
+   "audio is cutting out",
+   "audio issues"
+  ],
+  "related": [
+   "audit",
+   "audience",
+   "inaudible",
+   "audit trail"
+  ],
+  "tip": "화상 회의에서 소리가 끊길 때 쓰는 단골 표현: You're cutting out."
+ },
+ {
+  "id": "d21-C22",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "inaudible",
+  "pos": "adjective",
+  "ipa": "/ɪnˈɔːdəbəl/",
+  "meaning_ko": "들리지 않는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "aud",
+     "type": "root",
+     "gloss": "듣다"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "들을 수 없는 → 들리지 않는"
+  },
+  "example": {
+   "q": "So, does that compensation range work for you?",
+   "a": "Sorry, you were inaudible for a few seconds, so I missed the range. Could you say it again?",
+   "a_ko": "죄송합니다. 몇 초간 소리가 안 들려서 범위를 놓쳤습니다. 다시 말씀해 주시겠어요?"
+  },
+  "collocations": [
+   "inaudible for a moment",
+   "almost inaudible"
+  ],
+  "related": [
+   "audio",
+   "audible",
+   "audience",
+   "audit"
+  ],
+  "tip": "중요한 숫자는 추측하지 말고 꼭 다시 물어 확인하기"
+ },
+ {
+  "id": "d21-C23",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "audit trail",
+  "pos": "noun",
+  "ipa": "/ˈɔːdɪt ˌtreɪl/",
+  "meaning_ko": "감사 추적 기록",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "aud",
+     "type": "root",
+     "gloss": "듣다"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "(라틴어 auditus '들음')"
+    },
+    {
+     "text": "trail",
+     "type": "part",
+     "gloss": "자취"
+    }
+   ],
+   "story": "들음(auditus) → 장부를 소리 내어 듣고 검사함 → 감사(audit) → 감사용으로 남기는 자취"
+  },
+  "example": {
+   "q": "How did you handle compliance for the admin tool?",
+   "a": "Every permission change is written to an append-only audit trail, so we can show auditors who changed what and when.",
+   "a_ko": "권한이 바뀔 때마다 추가만 가능한 감사 기록에 남겨서, 누가 언제 무엇을 바꿨는지 감사인에게 보여 줄 수 있습니다."
+  },
+  "collocations": [
+   "keep an audit trail",
+   "full audit trail"
+  ],
+  "related": [
+   "audit",
+   "audio",
+   "inaudible",
+   "audience"
+  ],
+  "tip": "보안·금융·의료 시스템 면접에서 자주 나오는 말"
+ },
+ {
+  "id": "d21-C24",
+  "day": 21,
+  "level": 2,
+  "set": "C",
+  "family": "F1",
+  "word": "on the fence",
+  "pos": "phrase",
+  "ipa": "/ɑːn ðə ˈfens/",
+  "meaning_ko": "결정을 못 하고 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "on",
+     "type": "part",
+     "gloss": "~위에"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "fence",
+     "type": "part",
+     "gloss": "울타리"
+    }
+   ],
+   "story": "울타리 위에 앉아 어느 쪽으로도 내려가지 않음 → 결정을 못 하고 있는"
+  },
+  "example": {
+   "q": "Where are you leaning right now?",
+   "a": "I'm still on the fence, because the commute worries me. Is hybrid work an option?",
+   "a_ko": "아직 결정을 못 했습니다. 출퇴근이 걱정돼서요. 하이브리드 근무가 가능할까요?"
+  },
+  "collocations": [
+   "be on the fence",
+   "sit on the fence"
+  ],
+  "related": [
+   "sleep on it",
+   "cold feet",
+   "second thoughts"
+  ],
+  "tip": "망설이는 이유를 하나 말하면 상대가 그 부분을 해결해 줄 여지가 생김"
+ },
+ {
+  "id": "d21-C25",
+  "day": 21,
+  "level": 3,
+  "set": "C",
+  "family": "F1",
+  "word": "cold feet",
+  "pos": "noun",
+  "ipa": "/ˌkoʊld ˈfiːt/",
+  "meaning_ko": "막판에 겁이 남, 망설임",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cold",
+     "type": "part",
+     "gloss": "차가운"
+    },
+    {
+     "text": "feet",
+     "type": "part",
+     "gloss": "발"
+    }
+   ],
+   "story": "발이 차가워져 앞으로 나아가지 못함 → 결정 직전에 겁이 남"
+  },
+  "example": {
+   "q": "You accepted verbally last week. Is everything okay?",
+   "a": "Yes, I'm not getting cold feet; I just want to confirm the remote policy in writing before I resign from my current job.",
+   "a_ko": "네, 마음이 바뀐 건 아닙니다. 지금 회사에 사직하기 전에 원격 근무 정책만 서면으로 확인하고 싶을 뿐입니다."
+  },
+  "collocations": [
+   "get cold feet",
+   "have cold feet"
+  ],
+  "related": [
+   "on the fence",
+   "second thoughts",
+   "hold off"
+  ],
+  "tip": "get cold feet 는 큰 결정 직전의 망설임. 부정형으로 상대를 안심시킬 때 유용"
+ }
+]

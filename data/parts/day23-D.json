@@ -1,0 +1,1134 @@
+[
+ {
+  "id": "d23-D01",
+  "day": 23,
+  "level": 1,
+  "set": "D",
+  "family": "F3",
+  "word": "remaining",
+  "pos": "adjective",
+  "ipa": "/rɪˈmeɪnɪŋ/",
+  "meaning_ko": "남은",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에"
+    },
+    {
+     "text": "main",
+     "type": "root",
+     "gloss": "머물다 (manere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "뒤에 머물러 있는 → 남은"
+  },
+  "example": {
+   "q": "Do you have any remaining questions about the offer?",
+   "a": "Just one: what happens to my remaining vacation days at year-end?",
+   "a_ko": "하나만요. 연말에 남은 휴가 일수는 어떻게 되나요?"
+  },
+  "collocations": [
+   "remaining balance",
+   "remaining questions",
+   "remaining days"
+  ],
+  "related": [
+   "remain",
+   "remainder",
+   "permanent",
+   "remnant"
+  ],
+  "tip": "휴가 이월(carry over)·소멸을 물을 때 기본 표현"
+ },
+ {
+  "id": "d23-D02",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "incumbent",
+  "pos": "noun",
+  "ipa": "/ɪnˈkʌmbənt/",
+  "meaning_ko": "기존 강자, 현직자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "위에"
+    },
+    {
+     "text": "cumb",
+     "type": "root",
+     "gloss": "눕다·기대다 (cumbere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "위에 기대어 누워 있는(incumbens) → 그 자리를 차지하고 있는 → 현직자·기존 강자"
+  },
+  "example": {
+   "q": "The market leader in this space is much bigger than us.",
+   "a": "Competing with the incumbent is exactly what excites me; at my last startup, we won three enterprise deals by shipping integrations the market leader ignored.",
+   "a_ko": "업계 기존 강자와 경쟁하는 것이 바로 제가 끌리는 점입니다. 전 스타트업에서 시장 선두가 외면한 연동 기능을 먼저 내놓아 엔터프라이즈 계약 세 건을 따냈습니다."
+  },
+  "collocations": [
+   "the incumbent vendor",
+   "be incumbent on someone"
+  ],
+  "related": [
+   "succumb",
+   "recumbent",
+   "incubate"
+  ],
+  "tip": "시장에서는 \"기존 강자\", 자리에서는 \"현직자\". It is incumbent on me to ~ = ~하는 것이 내 의무다"
+ },
+ {
+  "id": "d23-D03",
+  "day": 23,
+  "level": 1,
+  "set": "D",
+  "family": "F3",
+  "word": "fixed",
+  "pos": "adjective",
+  "ipa": "/fɪkst/",
+  "meaning_ko": "고정된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fix",
+     "type": "root",
+     "gloss": "고정하다 (figere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "박아 고정한(fixus) → 움직이지 않는 → 고정된"
+  },
+  "example": {
+   "q": "How did you make the benchmark results comparable?",
+   "a": "I kept the batch size fixed and changed only one setting per run.",
+   "a_ko": "배치 크기를 고정해 두고, 실행마다 설정을 하나씩만 바꿨습니다."
+  },
+  "collocations": [
+   "fixed size",
+   "fixed interval",
+   "fixed cost"
+  ],
+  "related": [
+   "fix",
+   "prefix",
+   "affix",
+   "fixture"
+  ],
+  "tip": "fix(고치다)의 과거분사지만 \"고정된\"이란 형용사로 많이 씀"
+ },
+ {
+  "id": "d23-D04",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "prefix",
+  "pos": "noun",
+  "ipa": "/ˈpriːfɪks/",
+  "meaning_ko": "접두사, 접두어",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "fix",
+     "type": "root",
+     "gloss": "고정하다 (figere)"
+    }
+   ],
+   "story": "앞에 붙여 고정한 것(praefixum) → 접두사 → 이름 앞에 붙이는 구분자"
+  },
+  "example": {
+   "q": "How do you keep cache keys from colliding across services?",
+   "a": "Each service adds its own prefix to every key, like 'billing:', so keys never collide and we can flush one service safely.",
+   "a_ko": "서비스마다 \"billing:\" 처럼 모든 키에 고유 접두어를 붙여 충돌을 막고, 한 서비스 캐시만 안전하게 비울 수 있게 했습니다."
+  },
+  "collocations": [
+   "key prefix",
+   "URL prefix",
+   "prefix with"
+  ],
+  "related": [
+   "suffix",
+   "fix",
+   "affix",
+   "postfix"
+  ],
+  "tip": "S3 객체·Redis 키·URL 경로 설계에서 자주 쓰는 말. 반대는 suffix"
+ },
+ {
+  "id": "d23-D05",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "fix forward",
+  "pos": "phrasal verb",
+  "ipa": "/ˌfɪks ˈfɔːrwərd/",
+  "meaning_ko": "(롤백 대신) 수정 배포로 해결하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fix",
+     "type": "root",
+     "gloss": "고치다 (figere 고정하다)"
+    },
+    {
+     "text": "forward",
+     "type": "part",
+     "gloss": "앞으로"
+    }
+   ],
+   "story": "고정하다 → 고치다(fix) + 앞으로 → 되돌리지 않고 고친 버전을 바로 배포하다"
+  },
+  "example": {
+   "q": "When a deploy breaks production, do you roll back?",
+   "a": "Usually yes, but when a migration has already changed data, I fix forward, because rolling back could corrupt records.",
+   "a_ko": "대개는 롤백하지만, 마이그레이션이 이미 데이터를 바꿨다면 롤백이 레코드를 망가뜨릴 수 있어 수정 배포로 해결합니다."
+  },
+  "collocations": [
+   "fix forward vs. roll back",
+   "fix-forward strategy"
+  ],
+  "related": [
+   "fix",
+   "hotfix",
+   "prefix",
+   "fixture"
+  ],
+  "tip": "rollback 과 짝으로 나오는 장애 대응 용어"
+ },
+ {
+  "id": "d23-D06",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "fixed-price",
+  "pos": "adjective",
+  "ipa": "/ˌfɪkst ˈpraɪs/",
+  "meaning_ko": "고정 가격의, 정액의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fix",
+     "type": "root",
+     "gloss": "고정하다 (figere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    },
+    {
+     "text": "price",
+     "type": "part",
+     "gloss": "값 (pretium)"
+    }
+   ],
+   "story": "고정된(fixed) 값 → 작업량과 상관없이 정해진 금액"
+  },
+  "example": {
+   "q": "For the contract phase, we can pay hourly or a set amount.",
+   "a": "I'd prefer a fixed-price contract for the migration project, since the scope is clear and it gives you budget certainty.",
+   "a_ko": "범위가 명확하고 예산 예측도 쉬우니, 마이그레이션 프로젝트는 고정 가격 계약이 좋겠습니다."
+  },
+  "collocations": [
+   "fixed-price contract",
+   "fixed-price bid"
+  ],
+  "related": [
+   "fixed",
+   "fix",
+   "prefix",
+   "affix"
+  ],
+  "tip": "시간제(time and materials) 계약과 대비되는 방식"
+ },
+ {
+  "id": "d23-D07",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "affix",
+  "pos": "verb",
+  "ipa": "/əˈfɪks/",
+  "meaning_ko": "(서명·도장을) 붙이다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "af",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "fix",
+     "type": "root",
+     "gloss": "고정하다 (figere)"
+    }
+   ],
+   "story": "~에 붙여 고정하다(affigere) → 붙이다·첨부하다"
+  },
+  "example": {
+   "q": "Once the final terms are approved, we'll send the agreement through DocuSign.",
+   "a": "Perfect. As soon as I've reviewed the final draft, I'll affix my signature and return it the same day.",
+   "a_ko": "좋습니다. 최종본을 검토하는 대로 서명해서 당일에 돌려 드리겠습니다."
+  },
+  "collocations": [
+   "affix a signature",
+   "affix a label"
+  ],
+  "related": [
+   "fix",
+   "prefix",
+   "suffix",
+   "fixture"
+  ],
+  "tip": "sign 의 격식체로 계약서·공문에 자주 나옴. 문법 용어로는 \"접사\""
+ },
+ {
+  "id": "d23-D08",
+  "day": 23,
+  "level": 1,
+  "set": "D",
+  "family": "F3",
+  "word": "point of contact",
+  "pos": "noun",
+  "ipa": "/ˌpɔɪnt əv ˈkɑːntækt/",
+  "meaning_ko": "담당 창구, 연락 담당자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "point",
+     "type": "part",
+     "gloss": "점 (punctum)"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tact",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    }
+   ],
+   "story": "닿는(contact) 지점(point) → 연락이 닿는 사람 → 담당 창구"
+  },
+  "example": {
+   "q": "Our HR team will handle your onboarding paperwork.",
+   "a": "Thanks. Who will be my main point of contact for questions before my start date?",
+   "a_ko": "감사합니다. 입사 전까지 문의할 주 담당자는 누구인가요?"
+  },
+  "collocations": [
+   "main point of contact",
+   "single point of contact"
+  ],
+  "related": [
+   "contact",
+   "intact",
+   "tact",
+   "tangible"
+  ],
+  "tip": "줄여서 POC. 입사 준비·프로젝트 협업에서 \"창구\"를 정할 때"
+ },
+ {
+  "id": "d23-D09",
+  "day": 23,
+  "level": 1,
+  "set": "D",
+  "family": "F3",
+  "word": "intact",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtækt/",
+  "meaning_ko": "손상되지 않은, 온전한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "tact",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    }
+   ],
+   "story": "손대지 않은(intactus) → 온전한"
+  },
+  "example": {
+   "q": "How did you verify the migration went well?",
+   "a": "We compared row counts and checksums to confirm every record stayed intact.",
+   "a_ko": "행 수와 체크섬을 비교해서 모든 레코드가 온전한지 확인했습니다."
+  },
+  "collocations": [
+   "remain intact",
+   "stay intact",
+   "keep intact"
+  ],
+  "related": [
+   "contact",
+   "tact",
+   "tangible",
+   "integrity"
+  ],
+  "tip": "보통 remain·stay·keep 과 함께 써서 \"그대로 남다\""
+ },
+ {
+  "id": "d23-D10",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "tact",
+  "pos": "noun",
+  "ipa": "/tækt/",
+  "meaning_ko": "눈치, 요령 (상대를 배려하는 말솜씨)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tact",
+     "type": "root",
+     "gloss": "닿다·촉감 (tangere)"
+    }
+   ],
+   "story": "촉감(tactus) → 섬세하게 느끼는 감각 → 남의 기분을 헤아리는 요령"
+  },
+  "example": {
+   "q": "How will you handle your current company's counteroffer?",
+   "a": "I'll decline it with tact and thank my manager sincerely, since I may work with that team again someday.",
+   "a_ko": "언젠가 그 팀과 다시 일할 수도 있으니, 상사에게 진심으로 감사를 전하며 요령 있게 거절하겠습니다."
+  },
+  "collocations": [
+   "with tact",
+   "show tact",
+   "tact and diplomacy"
+  ],
+  "related": [
+   "tactful",
+   "contact",
+   "intact",
+   "tangible"
+  ],
+  "tip": "tactic(전술, 그리스어 taktikos)과 어원이 다름. tact 는 \"닿다\""
+ },
+ {
+  "id": "d23-D11",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "tactful",
+  "pos": "adjective",
+  "ipa": "/ˈtæktfəl/",
+  "meaning_ko": "요령 있는, 배려 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tact",
+     "type": "root",
+     "gloss": "닿다·촉감 (tangere)"
+    },
+    {
+     "text": "ful",
+     "type": "suffix",
+     "gloss": "가득한"
+    }
+   ],
+   "story": "섬세한 촉감(tact)이 가득한 → 남의 기분을 살피는"
+  },
+  "example": {
+   "q": "How do you give critical feedback to a senior colleague?",
+   "a": "I try to be tactful by raising it privately and focusing on the code, not the person.",
+   "a_ko": "따로 이야기하고 사람이 아니라 코드에 초점을 맞춰 배려 있게 전하려고 합니다."
+  },
+  "collocations": [
+   "a tactful way",
+   "be tactful"
+  ],
+  "related": [
+   "tact",
+   "contact",
+   "intact",
+   "tangible"
+  ],
+  "tip": "반대말 tactless(눈치 없는). 피드백 질문의 단골"
+ },
+ {
+  "id": "d23-D12",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "tangible",
+  "pos": "adjective",
+  "ipa": "/ˈtændʒəbəl/",
+  "meaning_ko": "실질적인, 눈에 보이는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tang",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "만질 수 있는(tangibilis) → 손에 잡히는 → 실질적인"
+  },
+  "example": {
+   "q": "What did you achieve in your first year?",
+   "a": "The most tangible result was cutting our cloud bill by twenty percent while traffic kept growing.",
+   "a_ko": "가장 눈에 보이는 성과는 트래픽이 계속 늘었는데도 클라우드 비용을 20% 줄인 것입니다."
+  },
+  "collocations": [
+   "tangible results",
+   "tangible impact",
+   "tangible benefits"
+  ],
+  "related": [
+   "intangible",
+   "contact",
+   "intact",
+   "tangent"
+  ],
+  "tip": "성과를 \"숫자로 보이는\" 결과로 말할 때 핵심 형용사"
+ },
+ {
+  "id": "d23-D13",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "intangible",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtændʒəbəl/",
+  "meaning_ko": "무형의, 숫자로 드러나지 않는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "tang",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "만질 수 없는 → 무형의"
+  },
+  "example": {
+   "q": "Our base is lower, but we think the culture makes up for it.",
+   "a": "I do value intangible benefits like mentorship and flexibility, but I'd still need the base within ten percent of my other offer.",
+   "a_ko": "멘토링이나 유연 근무 같은 무형의 혜택도 중요하게 생각하지만, 기본급은 그래도 다른 오퍼의 10% 이내여야 합니다."
+  },
+  "collocations": [
+   "intangible benefits",
+   "intangible assets"
+  ],
+  "related": [
+   "tangible",
+   "contact",
+   "tact",
+   "contingent"
+  ],
+  "tip": "\"무형의 혜택\"을 인정하면서도 숫자 조건을 지키는 협상 문장에 씀"
+ },
+ {
+  "id": "d23-D14",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "tangent",
+  "pos": "noun",
+  "ipa": "/ˈtændʒənt/",
+  "meaning_ko": "(이야기의) 곁길, 접선",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tang",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "(원에) 닿는 선(tangens) → 접선 → 한 점만 닿고 벗어나는 곁길"
+  },
+  "example": {
+   "q": "How do you keep long technical discussions on track?",
+   "a": "When someone goes off on a tangent, I note it in a parking-lot doc and bring us back to the agenda.",
+   "a_ko": "누가 곁길로 새면 \"파킹랏\" 문서에 적어 두고 다시 안건으로 돌아옵니다."
+  },
+  "collocations": [
+   "go off on a tangent",
+   "tangent line"
+  ],
+  "related": [
+   "tangential",
+   "tangible",
+   "contact",
+   "contingent"
+  ],
+  "tip": "go off on a tangent(곁길로 새다) 형태로 회의·발표 상황에서 많이 씀"
+ },
+ {
+  "id": "d23-D15",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "tangential",
+  "pos": "adjective",
+  "ipa": "/tænˈdʒenʃəl/",
+  "meaning_ko": "지엽적인, 본론에서 벗어난",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tang",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "접선(tangent)처럼 살짝만 닿는 → 본론과 관계가 적은"
+  },
+  "example": {
+   "q": "Should we also discuss the logging format in this meeting?",
+   "a": "That's a bit tangential to today's decision, so let's park it and set up a separate fifteen-minute call with the platform team.",
+   "a_ko": "오늘 결정과는 조금 지엽적인 이야기라서, 일단 미뤄 두고 플랫폼 팀과 따로 15분 통화를 잡겠습니다."
+  },
+  "collocations": [
+   "tangential to",
+   "only tangentially related"
+  ],
+  "related": [
+   "tangent",
+   "tangible",
+   "contact",
+   "intact"
+  ],
+  "tip": "회의 진행 중 \"그건 다른 자리에서\"라고 정중히 미룰 때"
+ },
+ {
+  "id": "d23-D16",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "integral",
+  "pos": "adjective",
+  "ipa": "/ˈɪntəɡrəl/",
+  "meaning_ko": "필수적인, 핵심적인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "tegr",
+     "type": "root",
+     "gloss": "닿다 (tangere; integer 손대지 않은)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "온전한(integer) 전체의 → 빠지면 전체가 성립하지 않는 → 필수적인"
+  },
+  "example": {
+   "q": "Is remote work a deal-breaker for you?",
+   "a": "Flexibility is integral to my decision, since I care for a parent, so two remote days a week would really matter.",
+   "a_ko": "부모님을 돌보고 있어서 유연성은 제 결정에 필수적입니다. 주 2일 재택이 정말 중요합니다."
+  },
+  "collocations": [
+   "integral part of",
+   "integral to"
+  ],
+  "related": [
+   "integrate",
+   "integrity",
+   "entire",
+   "intact"
+  ],
+  "tip": "integral part of ~(~의 핵심 부분)도 자주 씀. 수학의 \"적분\"도 같은 단어"
+ },
+ {
+  "id": "d23-D17",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "contiguous",
+  "pos": "adjective",
+  "ipa": "/kənˈtɪɡjuəs/",
+  "meaning_ko": "연속된, 맞닿은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tigu",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "서로 닿아 있는(contiguus) → 끊김 없이 이어진"
+  },
+  "example": {
+   "q": "Why is an array faster to iterate over than a linked list?",
+   "a": "An array stores elements in contiguous memory, so the CPU prefetches the next items, while a linked list jumps around the heap and misses the cache.",
+   "a_ko": "배열은 원소를 연속된 메모리에 저장해서 CPU 가 다음 원소를 미리 가져오지만, 연결 리스트는 힙을 여기저기 뛰어다녀 캐시를 놓칩니다."
+  },
+  "collocations": [
+   "contiguous memory",
+   "contiguous block"
+  ],
+  "related": [
+   "contact",
+   "contingent",
+   "tangible",
+   "intact"
+  ],
+  "tip": "contingent(조건부의)와 헷갈리기 쉬움. 둘 다 tangere 출신"
+ },
+ {
+  "id": "d23-D18",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "attain",
+  "pos": "verb",
+  "ipa": "/əˈteɪn/",
+  "meaning_ko": "달성하다, 이르다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    }
+   ],
+   "story": "~에 손이 닿다(attingere) → 도달하다 → 달성하다"
+  },
+  "example": {
+   "q": "What is a goal you achieved recently?",
+   "a": "I attained the AWS Solutions Architect Professional certification last spring while working full-time.",
+   "a_ko": "작년 봄에 일을 병행하면서 AWS 솔루션스 아키텍트 프로페셔널 자격을 취득했습니다."
+  },
+  "collocations": [
+   "attain a goal",
+   "attain certification"
+  ],
+  "related": [
+   "attainable",
+   "contact",
+   "tangible",
+   "intact"
+  ],
+  "tip": "achieve 와 비슷하나 \"노력해서 수준에 이르다\". retain·maintain 의 tain(tenere 쥐다)과는 다른 어근"
+ },
+ {
+  "id": "d23-D19",
+  "day": 23,
+  "level": 2,
+  "set": "D",
+  "family": "F3",
+  "word": "attainable",
+  "pos": "adjective",
+  "ipa": "/əˈteɪnəbəl/",
+  "meaning_ko": "달성 가능한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "손이 닿을 수 있는 → 달성 가능한"
+  },
+  "example": {
+   "q": "Your bonus is tied to company and individual targets.",
+   "a": "Could you share last year's payout rate, so I can judge whether the targets are realistically attainable?",
+   "a_ko": "목표가 현실적으로 달성 가능한지 판단할 수 있게 작년 지급률을 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "realistic and attainable",
+   "attainable target"
+  ],
+  "related": [
+   "attain",
+   "contact",
+   "tangible",
+   "intact"
+  ],
+  "tip": "성과급 조건을 확인할 때. SMART 목표의 A 가 Achievable·Attainable"
+ },
+ {
+  "id": "d23-D20",
+  "day": 23,
+  "level": 1,
+  "set": "D",
+  "family": "F3",
+  "word": "entire",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtaɪər/",
+  "meaning_ko": "전체의, 온",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "아님 (in-)"
+    },
+    {
+     "text": "tire",
+     "type": "root",
+     "gloss": "손댄 (teger ← tangere)"
+    }
+   ],
+   "story": "손대지 않은(integrum) → 온전한(프랑스어 entier) → 전체의"
+  },
+  "example": {
+   "q": "Have you ever owned a project end to end?",
+   "a": "Yes, I owned the entire checkout redesign from design to launch.",
+   "a_ko": "네, 결제 화면 개편 전체를 설계부터 출시까지 맡았습니다."
+  },
+  "collocations": [
+   "the entire team",
+   "the entire process"
+  ],
+  "related": [
+   "entirety",
+   "integrity",
+   "integrate",
+   "intact"
+  ],
+  "tip": "whole 과 비슷. the entire ~ 형태로 범위를 강조"
+ },
+ {
+  "id": "d23-D21",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "entirety",
+  "pos": "noun",
+  "ipa": "/ɪnˈtaɪərəti/",
+  "meaning_ko": "전체, 전부",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en",
+     "type": "prefix",
+     "gloss": "아님 (in-)"
+    },
+    {
+     "text": "tire",
+     "type": "root",
+     "gloss": "손댄 (teger ← tangere)"
+    },
+    {
+     "text": "ty",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "온전한 것(entire) → 빠짐없는 전부"
+  },
+  "example": {
+   "q": "Here is the contract; most people just sign the summary page.",
+   "a": "I'd like to read the agreement in its entirety before signing, especially the IP and non-solicitation sections, so could I return it by Monday?",
+   "a_ko": "서명 전에 지식재산과 권유 금지 조항을 중심으로 계약서 전체를 읽고 싶은데, 월요일까지 돌려 드려도 될까요?"
+  },
+  "collocations": [
+   "in its entirety",
+   "in their entirety"
+  ],
+  "related": [
+   "entire",
+   "integrity",
+   "intact",
+   "integral"
+  ],
+  "tip": "거의 in its entirety(빠짐없이 전부) 형태. 계약서 검토 시간을 요청할 때"
+ },
+ {
+  "id": "d23-D22",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "instantaneous",
+  "pos": "adjective",
+  "ipa": "/ˌɪnstənˈteɪniəs/",
+  "meaning_ko": "즉각적인, 순간적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "가까이 (in)"
+    },
+    {
+     "text": "stant",
+     "type": "root",
+     "gloss": "서 있는 (stare)"
+    },
+    {
+     "text": "aneous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "가까이 서 있는(instans) → 바로 눈앞의 → 순간적인"
+  },
+  "example": {
+   "q": "Why did you choose an event-driven design?",
+   "a": "Users expected instantaneous updates across devices, so we pushed changes over WebSockets instead of polling every thirty seconds, which also cut server load.",
+   "a_ko": "사용자가 기기 간 즉각적인 반영을 기대해서, 30초마다 폴링하는 대신 웹소켓으로 변경을 푸시했고 서버 부하도 줄었습니다."
+  },
+  "collocations": [
+   "instantaneous response",
+   "near-instantaneous"
+  ],
+  "related": [
+   "instant",
+   "instance",
+   "constant",
+   "distant"
+  ],
+  "tip": "instant 보다 격식. 실제로는 near-instantaneous(거의 즉시)라고 해야 정확할 때가 많음"
+ },
+ {
+  "id": "d23-D23",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "carve-out",
+  "pos": "noun",
+  "ipa": "/ˈkɑːrv aʊt/",
+  "meaning_ko": "예외 조항",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "carve",
+     "type": "part",
+     "gloss": "깎아 내다"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "덩어리에서 깎아 떼어 내다 → 적용 범위에서 따로 빼 둔 부분 → 예외 조항"
+  },
+  "example": {
+   "q": "The IP clause covers anything you create during your employment.",
+   "a": "Could we add a carve-out for open-source work I do on my own time and equipment, as long as it doesn't compete with the company?",
+   "a_ko": "회사와 경쟁하지 않는 한, 제 시간과 장비로 하는 오픈소스 작업은 예외 조항으로 빼 둘 수 있을까요?"
+  },
+  "collocations": [
+   "a carve-out for",
+   "negotiate a carve-out"
+  ],
+  "related": [
+   "carve",
+   "carving",
+   "carve up"
+  ],
+  "tip": "계약 조항의 \"예외\"를 말하는 가장 흔한 실무 표현"
+ },
+ {
+  "id": "d23-D24",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "gross-up",
+  "pos": "noun",
+  "ipa": "/ˈɡroʊs ʌp/",
+  "meaning_ko": "세금 보전 (세후 금액을 맞추도록 올려 주기)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gross",
+     "type": "part",
+     "gloss": "총액의 (라틴어 grossus 두꺼운)"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    }
+   ],
+   "story": "총액(gross)을 위로 올리다 → 세금을 떼고도 목표 금액이 남도록 지급액을 늘림"
+  },
+  "example": {
+   "q": "The relocation allowance is ten thousand dollars.",
+   "a": "Thank you. Is that amount grossed up for taxes, or would I receive closer to seven thousand after withholding?",
+   "a_ko": "감사합니다. 그 금액이 세금 보전된 금액인가요, 아니면 원천징수 후에는 7천 달러 정도를 받게 되나요?"
+  },
+  "collocations": [
+   "tax gross-up",
+   "gross up a payment"
+  ],
+  "related": [
+   "gross",
+   "grossly",
+   "engross"
+  ],
+  "tip": "이전 보조금·보너스가 세전 금액인지 세금 보전 금액인지 꼭 물어볼 것"
+ },
+ {
+  "id": "d23-D25",
+  "day": 23,
+  "level": 3,
+  "set": "D",
+  "family": "F3",
+  "word": "true-up",
+  "pos": "noun",
+  "ipa": "/ˈtruː ʌp/",
+  "meaning_ko": "(실제 값에 맞춘) 사후 정산",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "true",
+     "type": "part",
+     "gloss": "정확히 맞는"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "끝까지 맞춰"
+    }
+   ],
+   "story": "정확히 맞게(true) 맞추다(up) → 먼저 정한 금액을 나중에 실제 값에 맞춰 정산함"
+  },
+  "example": {
+   "q": "Your equity is stated as a dollar amount and converted to options at the grant date.",
+   "a": "If the valuation drops before my grant date, could we do a true-up so the number of options still matches the dollar value we agreed on?",
+   "a_ko": "부여일 전에 기업 가치가 떨어지면, 옵션 수가 합의한 금액 가치와 계속 맞도록 사후 정산을 해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "equity true-up",
+   "annual true-up"
+  ],
+  "related": [
+   "true",
+   "truly",
+   "truth"
+  ],
+  "tip": "원래 목공 용어(정확히 맞추다). 보상·라이선스 비용을 \"나중에 실제 기준으로 맞춘다\"는 뜻"
+ }
+]

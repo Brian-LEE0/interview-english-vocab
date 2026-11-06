@@ -1,0 +1,1196 @@
+[
+ {
+  "id": "d22-D01",
+  "day": 22,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "inactive",
+  "pos": "adjective",
+  "ipa": "/ɪnˈæktɪv/",
+  "meaning_ko": "비활성의, 사용하지 않는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "행하지 않는 → 움직이지 않는 → 비활성의"
+  },
+  "example": {
+   "q": "What did you do to improve account security?",
+   "a": "I wrote a job that disables accounts inactive for ninety days.",
+   "a_ko": "90일 동안 사용하지 않은 계정을 비활성화하는 작업을 만들었습니다."
+  },
+  "collocations": [
+   "inactive users",
+   "inactive accounts",
+   "remain inactive"
+  ],
+  "related": [
+   "active",
+   "act",
+   "deactivate",
+   "activity"
+  ],
+  "tip": "dormant(휴면)와 비슷 — 보안 감사 이야기에서 자주 나옴"
+ },
+ {
+  "id": "d22-D02",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "deactivate",
+  "pos": "verb",
+  "ipa": "/diˈæktɪveɪt/",
+  "meaning_ko": "비활성화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "반대로·떼어"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "활동하게 하다(activate) + 반대로 → 작동을 멈추게 하다 → 비활성화하다"
+  },
+  "example": {
+   "q": "How do you release risky features safely?",
+   "a": "Every new feature goes behind a flag, so we can deactivate it in seconds without a redeploy if something goes wrong.",
+   "a_ko": "모든 신규 기능을 플래그 뒤에 두어서, 문제가 생기면 재배포 없이 몇 초 만에 비활성화할 수 있습니다."
+  },
+  "collocations": [
+   "deactivate a feature",
+   "deactivate an account"
+  ],
+  "related": [
+   "activate",
+   "active",
+   "inactive",
+   "act"
+  ],
+  "tip": "disable과 거의 같음 — 기능 플래그(feature flag) 설명에 잘 어울림"
+ },
+ {
+  "id": "d22-D03",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "bad actor",
+  "pos": "noun",
+  "ipa": "/ˌbæd ˈæktər/",
+  "meaning_ko": "악의적 사용자, 공격자",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bad",
+     "type": "part",
+     "gloss": "나쁜"
+    },
+    {
+     "text": " act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "나쁜 + 행하는 사람(actor) → 나쁜 짓을 하는 사람 → 악의적 공격자"
+  },
+  "example": {
+   "q": "How did you protect the public API?",
+   "a": "We added per-key rate limits and anomaly alerts, so a single bad actor couldn't take down the service for everyone.",
+   "a_ko": "키별 요청 제한과 이상 탐지 알림을 넣어서, 악의적 사용자 한 명이 모두의 서비스를 멈추지 못하게 했습니다."
+  },
+  "collocations": [
+   "block bad actors",
+   "detect bad actors"
+  ],
+  "related": [
+   "act",
+   "action",
+   "activity",
+   "react"
+  ],
+  "tip": "보안에서 attacker보다 넓은 말 — 스팸·사기 계정까지 포함"
+ },
+ {
+  "id": "d22-D04",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "mitigation",
+  "pos": "noun",
+  "ipa": "/ˌmɪtɪˈɡeɪʃn/",
+  "meaning_ko": "완화 (조치)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mit",
+     "type": "root",
+     "gloss": "부드러운 (mitis)"
+    },
+    {
+     "text": "ig",
+     "type": "root",
+     "gloss": "몰다·만들다 (ag)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "부드럽게 만들다(mitigare = mitis + agere) → 누그러뜨림 → (위험·피해의) 완화"
+  },
+  "example": {
+   "q": "What did you do while the root cause was still unknown?",
+   "a": "As an immediate mitigation, I rolled back the last release and added caching, which brought error rates back to normal within minutes.",
+   "a_ko": "즉각적인 완화 조치로 마지막 릴리스를 롤백하고 캐시를 추가했더니, 몇 분 안에 오류율이 정상으로 돌아왔습니다."
+  },
+  "collocations": [
+   "risk mitigation",
+   "immediate mitigation",
+   "mitigation plan"
+  ],
+  "related": [
+   "mitigate",
+   "navigate",
+   "agent",
+   "act"
+  ],
+  "tip": "장애 대응에서 'mitigation(우선 불 끄기) → root cause fix(근본 수정)' 순서로 말하면 좋음"
+ },
+ {
+  "id": "d22-D05",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "exactly-once",
+  "pos": "adjective",
+  "ipa": "/ɪɡˈzæktli ˈwʌns/",
+  "meaning_ko": "정확히 한 번의 (전달 보장)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "몰다 (ag)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    },
+    {
+     "text": "-once",
+     "type": "part",
+     "gloss": "한 번"
+    }
+   ],
+   "story": "밖으로 몰아 끝까지 맞추다(exigere → exactus 정확한) → 정확히 + 한 번 → 메시지가 꼭 한 번만 처리되는"
+  },
+  "example": {
+   "q": "How did you prevent double charges in your payment pipeline?",
+   "a": "True exactly-once delivery is hard across systems, so we combined at-least-once delivery with deduplication by transaction ID, and duplicate charges dropped to zero.",
+   "a_ko": "시스템 간에 진짜 정확히 한 번 전달은 어려워서, 최소 한 번 전달에 거래 ID 기반 중복 제거를 결합했고 중복 결제가 0건이 됐습니다."
+  },
+  "collocations": [
+   "exactly-once delivery",
+   "exactly-once semantics",
+   "exactly-once processing"
+  ],
+  "related": [
+   "exact",
+   "act",
+   "transaction",
+   "agent"
+  ],
+  "tip": "at-least-once(최소 한 번), at-most-once(최대 한 번)와 세트로 설명"
+ },
+ {
+  "id": "d22-D06",
+  "day": 22,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "interaction",
+  "pos": "noun",
+  "ipa": "/ˌɪntərˈækʃn/",
+  "meaning_ko": "상호작용, 소통",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "사이에서 서로 행함 → 서로 주고받음 → 상호작용, 소통"
+  },
+  "example": {
+   "q": "What did you enjoy most about your last role?",
+   "a": "I enjoyed the direct interaction with customers during product demos.",
+   "a_ko": "제품 데모 때 고객과 직접 소통하는 것이 가장 좋았습니다."
+  },
+  "collocations": [
+   "customer interaction",
+   "user interaction",
+   "direct interaction"
+  ],
+  "related": [
+   "interact",
+   "act",
+   "reaction",
+   "action"
+  ],
+  "tip": "사람과의 소통에도, UI의 사용자 상호작용에도 씀"
+ },
+ {
+  "id": "d22-D07",
+  "day": 22,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "reaction",
+  "pos": "noun",
+  "ipa": "/riˈækʃn/",
+  "meaning_ko": "반응",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·되받아"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "되받아 행함 → 무언가에 대해 돌아오는 행동 → 반응"
+  },
+  "example": {
+   "q": "So, what are your first thoughts on the offer?",
+   "a": "My first reaction is very positive, but I'd like a day to review the details.",
+   "a_ko": "첫 반응은 아주 긍정적이지만, 세부 사항을 검토할 하루를 주셨으면 합니다."
+  },
+  "collocations": [
+   "first reaction",
+   "initial reaction",
+   "gut reaction"
+  ],
+  "related": [
+   "react",
+   "action",
+   "interaction",
+   "act"
+  ],
+  "tip": "오퍼를 받자마자 수락하지 말고 'My first reaction is positive, but…'으로 검토 시간을 요청"
+ },
+ {
+  "id": "d22-D08",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "agility",
+  "pos": "noun",
+  "ipa": "/əˈdʒɪləti/",
+  "meaning_ko": "민첩성, 기민함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ag",
+     "type": "root",
+     "gloss": "움직이다·몰다"
+    },
+    {
+     "text": "ility",
+     "type": "suffix",
+     "gloss": "~할 수 있는 성질"
+    }
+   ],
+   "story": "움직이게 할 수 있는(agilis ← agere) → 잘 움직이는 성질 → 민첩성"
+  },
+  "example": {
+   "q": "Why do you want to move from a large company to a startup?",
+   "a": "I'm looking for more agility; at my current company, even small changes can take months of approvals.",
+   "a_ko": "더 민첩하게 일하고 싶습니다. 지금 회사에서는 작은 변경도 몇 달씩 승인을 거쳐야 할 때가 있습니다."
+  },
+  "collocations": [
+   "business agility",
+   "organizational agility"
+  ],
+  "related": [
+   "agile",
+   "agent",
+   "act",
+   "agenda"
+  ],
+  "tip": "agile(애자일)의 명사 — 이직 이유를 긍정적으로 말할 때 좋음"
+ },
+ {
+  "id": "d22-D09",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "course of action",
+  "pos": "phrase",
+  "ipa": "/ˌkɔːrs əv ˈækʃn/",
+  "meaning_ko": "행동 방침, 대응 방안",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cours",
+     "type": "root",
+     "gloss": "달리다 (cur)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 어미)"
+    },
+    {
+     "text": " of ",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "action",
+     "type": "root",
+     "gloss": "행동 (ag)"
+    }
+   ],
+   "story": "달려가는 길(cursus ← currere) → 나아갈 방향 + 행동(actio ← agere) → 앞으로 취할 행동 방침"
+  },
+  "example": {
+   "q": "The client wants the feature by Friday, but QA isn't finished. What do you suggest?",
+   "a": "I'd suggest a safer course of action: release it to ten percent of users on Friday and roll out fully after QA signs off.",
+   "a_ko": "더 안전한 방안을 제안드립니다. 금요일에는 사용자 10%에게만 공개하고, QA 승인 뒤 전체 배포하는 것입니다."
+  },
+  "collocations": [
+   "the best course of action",
+   "recommend a course of action"
+  ],
+  "related": [
+   "course",
+   "recourse",
+   "action",
+   "inaction"
+  ],
+  "tip": "회의·메일에서 'plan'보다 격식 있게 대응 방안을 제안할 때 — 'the best course of action is ~'"
+ },
+ {
+  "id": "d22-D10",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "inaction",
+  "pos": "noun",
+  "ipa": "/ɪnˈækʃn/",
+  "meaning_ko": "무대응, 아무것도 하지 않음",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "행하지 않음 → 행동이 없음 → 무대응"
+  },
+  "example": {
+   "q": "How did you convince leadership to fund the migration?",
+   "a": "I quantified the cost of inaction: staying on the old database meant two outages a quarter and about forty engineer-hours of firefighting each month.",
+   "a_ko": "아무것도 하지 않을 때의 비용을 수치로 보여 줬습니다. 기존 DB에 남으면 분기마다 장애가 두 번, 매달 약 40시간의 엔지니어 대응 시간이 든다는 것이었습니다."
+  },
+  "collocations": [
+   "cost of inaction",
+   "inaction on"
+  ],
+  "related": [
+   "action",
+   "act",
+   "enact",
+   "course of action"
+  ],
+  "tip": "'the cost of inaction(무대응의 비용)'은 예산·우선순위를 설득할 때 강력한 표현"
+ },
+ {
+  "id": "d22-D11",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "litigation",
+  "pos": "noun",
+  "ipa": "/ˌlɪtɪˈɡeɪʃn/",
+  "meaning_ko": "소송",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lit",
+     "type": "root",
+     "gloss": "다툼·소송 (lis)"
+    },
+    {
+     "text": "ig",
+     "type": "root",
+     "gloss": "몰다·행하다 (ag)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "다툼을 몰고 가다(litigare = lis + agere) → 소송을 벌이다 → 소송"
+  },
+  "example": {
+   "q": "Does your current employer's non-compete affect this role?",
+   "a": "I had a lawyer review it, and to avoid any risk of litigation, I'll stay off payment products, which is their market, for the first year.",
+   "a_ko": "변호사에게 검토를 받았고, 소송 위험을 피하기 위해 첫 1년은 그 회사의 시장인 결제 제품 업무는 맡지 않겠습니다."
+  },
+  "collocations": [
+   "risk of litigation",
+   "pending litigation",
+   "avoid litigation"
+  ],
+  "related": [
+   "mitigate",
+   "navigate",
+   "agent",
+   "act"
+  ],
+  "tip": "lawsuit(개별 소송)보다 넓고 격식 있는 말 — 'in litigation(소송 중)'"
+ },
+ {
+  "id": "d22-D12",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "retroactively",
+  "pos": "adverb",
+  "ipa": "/ˌretroʊˈæktɪvli/",
+  "meaning_ko": "소급하여, 거슬러 올라가 적용해",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "retro",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "act",
+     "type": "root",
+     "gloss": "행하다 (ag)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "뒤로(retro) 거슬러 작용하는(actus ← agere) → 지난 시점까지 효력이 미치는 → 소급하여"
+  },
+  "example": {
+   "q": "The salary adjustment will take effect after the next review cycle in April.",
+   "a": "I understand the timing, but since the new scope starts this month, could the adjustment apply retroactively from my first day in the role?",
+   "a_ko": "일정은 이해하지만 새 업무 범위가 이번 달부터 시작되니, 조정분을 이 역할을 맡은 첫날부터 소급해 적용해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "apply retroactively",
+   "paid retroactively",
+   "retroactively from"
+  ],
+  "related": [
+   "retroactive",
+   "act",
+   "reaction",
+   "inaction"
+  ],
+  "tip": "인상·보너스 적용 시점을 협상할 때 — 'back pay(소급분 지급)'와 함께 알아 두면 좋음"
+ },
+ {
+  "id": "d22-D13",
+  "day": 22,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "appeal",
+  "pos": "verb",
+  "ipa": "/əˈpiːl/",
+  "meaning_ko": "마음을 끌다, 호소하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~로 (ad)"
+    },
+    {
+     "text": "peal",
+     "type": "root",
+     "gloss": "몰다 (pel)"
+    }
+   ],
+   "story": "~쪽으로 몰다(appellere) → 말을 걸다, 호소하다(appellare) → 마음을 끌다"
+  },
+  "example": {
+   "q": "What do you think of our offer so far?",
+   "a": "The learning budget really appeals to me, and the team sounds great.",
+   "a_ko": "교육 지원 예산이 특히 마음에 들고, 팀도 좋아 보입니다."
+  },
+  "collocations": [
+   "appeal to",
+   "strong appeal",
+   "appeal a decision"
+  ],
+  "related": [
+   "compel",
+   "impulse",
+   "pulse",
+   "compulsory"
+  ],
+  "tip": "'A appeals to me'는 'A가 마음에 든다' — 사람이 아니라 대상이 주어"
+ },
+ {
+  "id": "d22-D14",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "impulse",
+  "pos": "noun",
+  "ipa": "/ˈɪmpʌls/",
+  "meaning_ko": "충동, 즉흥적인 마음",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "안으로 (in)"
+    },
+    {
+     "text": "puls",
+     "type": "root",
+     "gloss": "밀다 (pel)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 어미)"
+    }
+   ],
+   "story": "안으로 밀어 넣음(impellere) → 안에서 미는 힘 → 충동"
+  },
+  "example": {
+   "q": "How do you handle pressure when production is down?",
+   "a": "My first impulse is to fix things fast, but I've learned to stop, check the dashboards, and roll back before debugging.",
+   "a_ko": "제 첫 충동은 빨리 고치는 것이지만, 일단 멈춰서 대시보드를 확인하고 디버깅 전에 롤백하는 법을 배웠습니다."
+  },
+  "collocations": [
+   "first impulse",
+   "on impulse",
+   "resist the impulse"
+  ],
+  "related": [
+   "pulse",
+   "compel",
+   "propel",
+   "appeal"
+  ],
+  "tip": "'resist the impulse to ~(~하고 싶은 충동을 참다)'는 성숙함을 보여 주는 표현"
+ },
+ {
+  "id": "d22-D15",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "compulsory",
+  "pos": "adjective",
+  "ipa": "/kəmˈpʌlsəri/",
+  "meaning_ko": "의무적인, 필수의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "강하게·함께"
+    },
+    {
+     "text": "puls",
+     "type": "root",
+     "gloss": "몰다 (pel)"
+    },
+    {
+     "text": "ory",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "강하게 몰아붙이다(compellere → compulsus) → 억지로 하게 하는 → 의무적인"
+  },
+  "example": {
+   "q": "All new hires attend a two-week training in Tokyo.",
+   "a": "That sounds useful. Is the training compulsory for experienced hires too, and will travel costs be covered?",
+   "a_ko": "유익할 것 같습니다. 경력 입사자에게도 필수인지, 그리고 출장 비용은 지원되는지 궁금합니다."
+  },
+  "collocations": [
+   "compulsory training",
+   "compulsory overtime",
+   "compulsory retirement"
+  ],
+  "related": [
+   "compel",
+   "impulse",
+   "pulse",
+   "appeal"
+  ],
+  "tip": "mandatory와 같은 뜻 — 계약서에서 'compulsory overtime(의무 초과근무)' 여부를 꼭 확인"
+ },
+ {
+  "id": "d22-D16",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "compel",
+  "pos": "verb",
+  "ipa": "/kəmˈpel/",
+  "meaning_ko": "(어쩔 수 없이) ~하게 만들다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "강하게·함께"
+    },
+    {
+     "text": "pel",
+     "type": "root",
+     "gloss": "몰다"
+    }
+   ],
+   "story": "강하게 몰다(compellere) → 억지로 몰아가다 → ~하지 않을 수 없게 하다"
+  },
+  "example": {
+   "q": "Why did you take on the security work yourself?",
+   "a": "No one owned it, and after a near-miss with leaked keys, I felt compelled to step up and build a secret-scanning pipeline.",
+   "a_ko": "담당자가 없었고 키가 유출될 뻔한 일이 있은 뒤로는 제가 나서지 않을 수 없다고 느껴, 시크릿 스캔 파이프라인을 만들었습니다."
+  },
+  "collocations": [
+   "feel compelled to",
+   "compel someone to"
+  ],
+  "related": [
+   "compelling",
+   "compulsory",
+   "propel",
+   "dispel"
+  ],
+  "tip": "'I felt compelled to ~'는 '책임감 때문에 나섰다'는 뉘앙스 — 오너십 답변에 좋음"
+ },
+ {
+  "id": "d22-D17",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "courier",
+  "pos": "noun",
+  "ipa": "/ˈkʊriər/",
+  "meaning_ko": "택배, 특송 (배달원)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cour",
+     "type": "root",
+     "gloss": "달리다 (cur)"
+    },
+    {
+     "text": "ier",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "달리다(currere → 이탈리아어 correre) → 달리는 사람(corriere) → 문서·소포를 나르는 배달원"
+  },
+  "example": {
+   "q": "We'll need your signed documents and a copy of your passport.",
+   "a": "I'll sign them today and send the originals by courier, so they should reach your office by Thursday.",
+   "a_ko": "오늘 서명해서 원본을 특송으로 보내겠습니다. 목요일까지는 사무실에 도착할 겁니다."
+  },
+  "collocations": [
+   "send by courier",
+   "courier service"
+  ],
+  "related": [
+   "course",
+   "current",
+   "occur",
+   "recourse"
+  ],
+  "tip": "발음은 '쿠리어' — 일반 우편(post)보다 빠른 특송 서비스를 말함"
+ },
+ {
+  "id": "d22-D18",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "concurrently",
+  "pos": "adverb",
+  "ipa": "/kənˈkɜːrəntli/",
+  "meaning_ko": "동시에, 병행하여",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "curr",
+     "type": "root",
+     "gloss": "달리다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "함께 달리는(concurrere) → 동시에 일어나는 → 동시에"
+  },
+  "example": {
+   "q": "Are you interviewing with other companies?",
+   "a": "Yes, I'm in final rounds with two other companies concurrently, so I'd appreciate knowing your timeline.",
+   "a_ko": "네, 다른 두 회사와 동시에 최종 단계를 진행 중이라 일정을 알려 주시면 감사하겠습니다."
+  },
+  "collocations": [
+   "run concurrently",
+   "work concurrently on"
+  ],
+  "related": [
+   "concurrent",
+   "current",
+   "occur",
+   "course"
+  ],
+  "tip": "경쟁 오퍼를 부드럽게 알릴 때 — 일정 공유 요청과 같이 쓰면 압박처럼 들리지 않음"
+ },
+ {
+  "id": "d22-D19",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "recursion",
+  "pos": "noun",
+  "ipa": "/rɪˈkɜːrʒn/",
+  "meaning_ko": "재귀",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시·뒤로"
+    },
+    {
+     "text": "curs",
+     "type": "root",
+     "gloss": "달리다 (cur)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "뒤로 다시 달려감(recurrere) → 되돌아옴 → 함수가 자기 자신을 다시 부르는 것"
+  },
+  "example": {
+   "q": "Have you ever hit a stack overflow in production?",
+   "a": "Yes. Deep recursion on a nested category tree overflowed the stack, so I rewrote it as an iterative loop with an explicit stack.",
+   "a_ko": "네. 중첩된 카테고리 트리에서 재귀가 너무 깊어져 스택이 넘쳤고, 명시적인 스택을 쓰는 반복문으로 다시 작성했습니다."
+  },
+  "collocations": [
+   "tail recursion",
+   "deep recursion",
+   "recursion depth"
+  ],
+  "related": [
+   "recursive",
+   "recur",
+   "current",
+   "course"
+  ],
+  "tip": "recursive(재귀적인)의 명사 — 'recursion depth limit(재귀 깊이 제한)'도 같이 알아 두면 좋음"
+ },
+ {
+  "id": "d22-D20",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "recourse",
+  "pos": "noun",
+  "ipa": "/ˈriːkɔːrs/",
+  "meaning_ko": "의지할 수단, 구제 방법",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로·다시"
+    },
+    {
+     "text": "cours",
+     "type": "root",
+     "gloss": "달리다 (cur)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(명사 어미)"
+    }
+   ],
+   "story": "되돌아 달려감(recursus) → 도움을 구해 되돌아가는 곳 → 의지할 수단"
+  },
+  "example": {
+   "q": "The performance bonus is decided by your manager at year end.",
+   "a": "Understood. If I disagree with the rating, what recourse do I have? Is there a calibration or appeal process I could use?",
+   "a_ko": "알겠습니다. 평가에 동의하지 않을 경우 어떤 구제 수단이 있나요? 이용할 수 있는 조정이나 이의 제기 절차가 있을까요?"
+  },
+  "collocations": [
+   "have no recourse",
+   "legal recourse",
+   "recourse to"
+  ],
+  "related": [
+   "course",
+   "current",
+   "courier",
+   "occur"
+  ],
+  "tip": "'What recourse do I have?'는 계약·평가 조건에서 안전장치를 물을 때 쓰는 정중한 표현"
+ },
+ {
+  "id": "d22-D21",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "intercede",
+  "pos": "verb",
+  "ipa": "/ˌɪntərˈsiːd/",
+  "meaning_ko": "중재하다, (남을 위해) 나서 주다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "cede",
+     "type": "root",
+     "gloss": "가다"
+    }
+   ],
+   "story": "사이로 가다(intercedere) → 둘 사이에 끼어들다 → 남을 위해 대신 말해 주다"
+  },
+  "example": {
+   "q": "I'll share your request with the compensation team.",
+   "a": "Thank you. If they can't move on the base, would you be willing to intercede with the hiring manager about an earlier performance review?",
+   "a_ko": "감사합니다. 기본급 조정이 어렵다면, 성과 평가를 앞당기는 것에 대해 채용 매니저께 말씀해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "intercede with",
+   "intercede on behalf of"
+  ],
+  "related": [
+   "intervene",
+   "precedent",
+   "cede",
+   "proceed"
+  ],
+  "tip": "intervene(개입하다)보다 '남을 위해 대신 말해 주다'는 느낌 — 'intercede on my behalf'"
+ },
+ {
+  "id": "d22-D22",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "pursuant",
+  "pos": "adjective",
+  "ipa": "/pərˈsuːənt/",
+  "meaning_ko": "(~에) 따른, 의거한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pur",
+     "type": "prefix",
+     "gloss": "앞으로 (pro)"
+    },
+    {
+     "text": "su",
+     "type": "root",
+     "gloss": "따르다 (sequ)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "앞으로 따라가다(prosequi → 고대 프랑스어 poursuir) → 뒤따르는 → (규정에) 따른"
+  },
+  "example": {
+   "q": "Your relocation bonus is repayable if you leave within a year.",
+   "a": "That's fair. Could the offer letter state that any repayment is pursuant to the relocation policy and prorated by the months I've worked?",
+   "a_ko": "타당합니다. 반환은 이전 지원 규정에 따르고 근무한 개월 수에 비례해 줄어든다는 내용을 오퍼 레터에 넣어 주실 수 있을까요?"
+  },
+  "collocations": [
+   "pursuant to",
+   "pursuant to the agreement"
+  ],
+  "related": [
+   "pursue",
+   "pursuit",
+   "sequence",
+   "execute"
+  ],
+  "tip": "항상 'pursuant to ~(~에 따라)' — 계약서에서 according to의 격식 표현"
+ },
+ {
+  "id": "d22-D23",
+  "day": 22,
+  "level": 1,
+  "set": "D",
+  "family": "F2",
+  "word": "push for",
+  "pos": "phrasal verb",
+  "ipa": "/ˈpʊʃ fɔːr/",
+  "meaning_ko": "~을 강하게 요구하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "push",
+     "type": "part",
+     "gloss": "밀다"
+    },
+    {
+     "text": " for",
+     "type": "part",
+     "gloss": "~을 위해"
+    }
+   ],
+   "story": "~을 얻으려고 밀어붙이다 → 강하게 요구하다"
+  },
+  "example": {
+   "q": "Is there one thing you'd really like us to change?",
+   "a": "I'd push for one more remote day, since my commute is long.",
+   "a_ko": "통근 시간이 길어서 재택 하루를 더 꼭 요청드리고 싶습니다."
+  },
+  "collocations": [
+   "push for a raise",
+   "push for change"
+  ],
+  "related": [
+   "back down",
+   "hold firm",
+   "meet halfway"
+  ],
+  "tip": "push back(반대하다)과 구분 — push for는 '얻으려고 밀어붙이다'"
+ },
+ {
+  "id": "d22-D24",
+  "day": 22,
+  "level": 2,
+  "set": "D",
+  "family": "F2",
+  "word": "middle ground",
+  "pos": "noun",
+  "ipa": "/ˈmɪdl ˌɡraʊnd/",
+  "meaning_ko": "타협점, 중간 지점",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "middle",
+     "type": "part",
+     "gloss": "가운데"
+    },
+    {
+     "text": " ground",
+     "type": "part",
+     "gloss": "땅"
+    }
+   ],
+   "story": "가운데 땅 → 양쪽 사이의 자리 → 타협점"
+  },
+  "example": {
+   "q": "We'd prefer four office days a week, and you'd prefer two.",
+   "a": "Could three days be a fair middle ground, with some flexibility during release weeks?",
+   "a_ko": "릴리스 주간에는 조금 유연하게 하는 조건으로, 주 3일이 적당한 타협점이 될 수 있을까요?"
+  },
+  "collocations": [
+   "find a middle ground",
+   "a fair middle ground"
+  ],
+  "related": [
+   "meet halfway",
+   "think over",
+   "sticking point"
+  ],
+  "tip": "'find (a) middle ground'로 양쪽 숫자의 중간을 제안할 때"
+ },
+ {
+  "id": "d22-D25",
+  "day": 22,
+  "level": 3,
+  "set": "D",
+  "family": "F2",
+  "word": "sticking point",
+  "pos": "noun",
+  "ipa": "/ˈstɪkɪŋ ˌpɔɪnt/",
+  "meaning_ko": "걸림돌, 합의가 안 되는 쟁점",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sticking",
+     "type": "part",
+     "gloss": "들러붙는"
+    },
+    {
+     "text": " point",
+     "type": "part",
+     "gloss": "지점"
+    }
+   ],
+   "story": "들러붙어 움직이지 않는 지점 → 진행을 막는 쟁점 → 걸림돌"
+  },
+  "example": {
+   "q": "Is there anything that would stop you from accepting today?",
+   "a": "The only sticking point is the twelve-month non-compete; if we could shorten it to six months, I'd be ready to sign today.",
+   "a_ko": "유일한 걸림돌은 12개월 경업 금지 조항입니다. 6개월로 줄일 수 있다면 오늘 바로 서명할 수 있습니다."
+  },
+  "collocations": [
+   "the main sticking point",
+   "remain a sticking point"
+  ],
+  "related": [
+   "bargaining chip",
+   "middle ground",
+   "hold firm"
+  ],
+  "tip": "쟁점을 하나로 좁혀 말하면 상대가 해결하기 쉬워짐 — 'the only sticking point is ~'"
+ }
+]

@@ -1,0 +1,1189 @@
+[
+ {
+  "id": "d23-B01",
+  "day": 23,
+  "level": 1,
+  "set": "B",
+  "family": "F3",
+  "word": "station",
+  "pos": "noun",
+  "ipa": "/ˈsteɪʃən/",
+  "meaning_ko": "역, 정거장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sta",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~하는 곳"
+    }
+   ],
+   "story": "서 있는 곳(statio) → 머무는 자리 → 역·정거장"
+  },
+  "example": {
+   "q": "How would you commute to our Pangyo office?",
+   "a": "The office is right by the station, so my commute would be under forty minutes.",
+   "a_ko": "사무실이 역 바로 옆이라 출퇴근이 40분이 안 걸립니다."
+  },
+  "collocations": [
+   "subway station",
+   "train station",
+   "charging station"
+  ],
+  "related": [
+   "status",
+   "stable",
+   "state",
+   "stature"
+  ],
+  "tip": "출퇴근·근무지 조건을 이야기할 때. 사무 공간의 workstation 도 같은 어근"
+ },
+ {
+  "id": "d23-B02",
+  "day": 23,
+  "level": 1,
+  "set": "B",
+  "family": "F3",
+  "word": "stability",
+  "pos": "noun",
+  "ipa": "/stəˈbɪləti/",
+  "meaning_ko": "안정성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sta",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "bil",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (-bilis)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "서 있을 수 있음(stabilitas) → 흔들리지 않음 → 안정"
+  },
+  "example": {
+   "q": "What matters most to you in your next role?",
+   "a": "At this stage, I value long-term stability over a slightly higher base salary.",
+   "a_ko": "지금 단계에서는 조금 더 높은 기본급보다 장기적인 안정성이 더 중요합니다."
+  },
+  "collocations": [
+   "job stability",
+   "financial stability",
+   "system stability"
+  ],
+  "related": [
+   "stable",
+   "stabilize",
+   "unstable",
+   "status"
+  ],
+  "tip": "회사 재무·고용 안정성을 물을 때도 씀. financial stability of the company"
+ },
+ {
+  "id": "d23-B03",
+  "day": 23,
+  "level": 1,
+  "set": "B",
+  "family": "F3",
+  "word": "unstable",
+  "pos": "adjective",
+  "ipa": "/ʌnˈsteɪbəl/",
+  "meaning_ko": "불안정한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "sta",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "ble",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "제대로 서 있을 수 없는 → 불안정한"
+  },
+  "example": {
+   "q": "Why did you migrate off that message queue?",
+   "a": "It became unstable under peak traffic, so we moved to a managed service.",
+   "a_ko": "트래픽이 몰리면 불안정해져서 매니지드 서비스로 옮겼습니다."
+  },
+  "collocations": [
+   "unstable build",
+   "unstable connection"
+  ],
+  "related": [
+   "stable",
+   "stability",
+   "stabilize",
+   "state"
+  ],
+  "tip": "flaky 는 \"가끔 실패하는\" 테스트, unstable 은 시스템 전체가 \"흔들리는\" 상태"
+ },
+ {
+  "id": "d23-B04",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "state machine",
+  "pos": "noun",
+  "ipa": "/ˈsteɪt məˌʃiːn/",
+  "meaning_ko": "상태 기계 (상태 전이 모델)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "state",
+     "type": "root",
+     "gloss": "서 있는 상태 (status)"
+    },
+    {
+     "text": "machine",
+     "type": "part",
+     "gloss": "기계"
+    }
+   ],
+   "story": "서 있는 모양(status) → 상태(state) + 기계 → 정해진 상태 사이를 규칙대로 옮겨 가는 모델"
+  },
+  "example": {
+   "q": "How did you model the order lifecycle?",
+   "a": "I used a state machine, so an order can only move from paid to shipped and can never skip a step.",
+   "a_ko": "상태 기계를 써서 주문이 결제 완료에서 배송 중으로만 넘어가고, 단계를 건너뛰지 못하게 했습니다."
+  },
+  "collocations": [
+   "finite state machine",
+   "state transition"
+  ],
+  "related": [
+   "status",
+   "stateful",
+   "stateless",
+   "static"
+  ],
+  "tip": "주문·결제·워크플로처럼 상태 전이가 중요한 설계 질문에서 자주 나옴"
+ },
+ {
+  "id": "d23-B05",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "reinstate",
+  "pos": "verb",
+  "ipa": "/ˌriːɪnˈsteɪt/",
+  "meaning_ko": "(빠진 것을) 되살리다, 복원하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "state",
+     "type": "root",
+     "gloss": "서 있는 상태 (status)"
+    }
+   ],
+   "story": "다시 원래 상태(state) 안에 세우다 → 복원하다"
+  },
+  "example": {
+   "q": "The revised offer removed the relocation bonus.",
+   "a": "I appreciate the higher base, but could you reinstate the relocation bonus? Moving my family from Busan will cost about ten thousand dollars.",
+   "a_ko": "기본급을 올려 주셔서 감사하지만, 이전 보너스를 다시 넣어 주실 수 있을까요? 부산에서 가족과 이사하는 데 약 1만 달러가 듭니다."
+  },
+  "collocations": [
+   "reinstate a benefit",
+   "reinstate the original terms"
+  ],
+  "related": [
+   "state",
+   "status",
+   "statute",
+   "restate"
+  ],
+  "tip": "협상 중 빠진 조건을 \"되살려 달라\"고 할 때 정확한 단어"
+ },
+ {
+  "id": "d23-B06",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "statement of work",
+  "pos": "noun",
+  "ipa": "/ˈsteɪtmənt əv ˈwɝːk/",
+  "meaning_ko": "작업 명세서 (SOW)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "state",
+     "type": "root",
+     "gloss": "서 있는 상태 (status)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "work",
+     "type": "part",
+     "gloss": "일"
+    }
+   ],
+   "story": "상태를 확정해 말한 것(statement) + 일 → 범위·일정·대가를 정한 계약 문서"
+  },
+  "example": {
+   "q": "We'd start you as a contractor for three months before converting you.",
+   "a": "That works, but I'd like a clear statement of work covering scope, deliverables, and the conversion criteria before I sign anything.",
+   "a_ko": "괜찮습니다. 다만 서명 전에 범위, 산출물, 정규직 전환 기준을 담은 명확한 작업 명세서를 받고 싶습니다."
+  },
+  "collocations": [
+   "draft a statement of work",
+   "sign a statement of work"
+  ],
+  "related": [
+   "state",
+   "status",
+   "statute",
+   "stable"
+  ],
+  "tip": "계약직·컨설팅 계약의 핵심 문서. 줄여서 SOW"
+ },
+ {
+  "id": "d23-B07",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "statute",
+  "pos": "noun",
+  "ipa": "/ˈstætʃuːt/",
+  "meaning_ko": "법령, 성문법",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stat",
+     "type": "root",
+     "gloss": "세우다 (statuere ← stare)"
+    },
+    {
+     "text": "ute",
+     "type": "suffix",
+     "gloss": "~된 것 (-utum)"
+    }
+   ],
+   "story": "세워 정한 것(statutum) → 제정된 법"
+  },
+  "example": {
+   "q": "Unused vacation isn't paid out when you leave.",
+   "a": "I understand the policy, but in some states the statute requires a payout, so could we confirm which rule applies to my contract?",
+   "a_ko": "정책은 이해합니다만 일부 주에서는 법령상 지급이 의무라서, 제 계약에는 어떤 규정이 적용되는지 확인할 수 있을까요?"
+  },
+  "collocations": [
+   "by statute",
+   "statute of limitations"
+  ],
+  "related": [
+   "statutory",
+   "status",
+   "state",
+   "institute"
+  ],
+  "tip": "형용사 statutory(법정의)는 Day 13. statute of limitations(소멸시효)도 계약서에 나옴"
+ },
+ {
+  "id": "d23-B08",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "stature",
+  "pos": "noun",
+  "ipa": "/ˈstætʃər/",
+  "meaning_ko": "위상, 명성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stat",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "서 있는 키(statura) → 사람의 키 → 위상·명성"
+  },
+  "example": {
+   "q": "We're a smaller brand than the company you're at now.",
+   "a": "Your company's stature in the payments space is exactly why I applied; the size matters less to me than the problems you're solving.",
+   "a_ko": "결제 분야에서 귀사의 위상이 바로 제가 지원한 이유입니다. 규모보다 귀사가 풀고 있는 문제가 저에게 더 중요합니다."
+  },
+  "collocations": [
+   "grow in stature",
+   "of your stature",
+   "international stature"
+  ],
+  "related": [
+   "status",
+   "statue",
+   "state",
+   "stable"
+  ],
+  "tip": "원래 \"키\"라는 뜻. 비즈니스에서는 회사·사람의 \"위상\"을 높여 말할 때"
+ },
+ {
+  "id": "d23-B09",
+  "day": 23,
+  "level": 1,
+  "set": "B",
+  "family": "F3",
+  "word": "cost-of-living",
+  "pos": "adjective",
+  "ipa": "/ˌkɔːst əv ˈlɪvɪŋ/",
+  "meaning_ko": "생계비의, 물가 반영의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "함께 (con)"
+    },
+    {
+     "text": "st",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    },
+    {
+     "text": "living",
+     "type": "part",
+     "gloss": "생활"
+    }
+   ],
+   "story": "함께 서다·값이 매겨지다(constare → cost) + 생활 → 생활비를 반영한"
+  },
+  "example": {
+   "q": "Raises here are tied to performance reviews.",
+   "a": "Is there also a yearly cost-of-living adjustment, or is every raise based on performance?",
+   "a_ko": "매년 물가 반영 인상도 있나요, 아니면 모든 인상이 성과 기반인가요?"
+  },
+  "collocations": [
+   "cost-of-living adjustment",
+   "cost-of-living raise"
+  ],
+  "related": [
+   "cost",
+   "costly",
+   "constant",
+   "distant"
+  ],
+  "tip": "줄여서 COLA. 물가 상승분만큼 자동으로 올려 주는 인상"
+ },
+ {
+  "id": "d23-B10",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "cost-sharing",
+  "pos": "noun",
+  "ipa": "/ˈkɔːst ˌʃerɪŋ/",
+  "meaning_ko": "(보험료 등) 비용 분담",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "함께 (con)"
+    },
+    {
+     "text": "st",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "sharing",
+     "type": "part",
+     "gloss": "나누기"
+    }
+   ],
+   "story": "값이 매겨지다(constare → cost) + 나누기 → 회사와 직원이 비용을 나눠 냄"
+  },
+  "example": {
+   "q": "Health insurance is included in the benefits package.",
+   "a": "That's great. What does the employee cost-sharing look like for family coverage, since I'd be adding my spouse and daughter?",
+   "a_ko": "좋습니다. 배우자와 딸도 추가할 예정이라, 가족 보장의 직원 비용 분담이 어떻게 되는지 궁금합니다."
+  },
+  "collocations": [
+   "employee cost-sharing",
+   "cost-sharing arrangement"
+  ],
+  "related": [
+   "cost",
+   "cost-of-living",
+   "constant",
+   "contrast"
+  ],
+  "tip": "보험의 자기부담금(deductible)·본인부담(copay)을 묶어 cost-sharing 이라고 함"
+ },
+ {
+  "id": "d23-B11",
+  "day": 23,
+  "level": 1,
+  "set": "B",
+  "family": "F3",
+  "word": "distant",
+  "pos": "adjective",
+  "ipa": "/ˈdɪstənt/",
+  "meaning_ko": "먼, (순위가) 한참 뒤인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "st",
+     "type": "root",
+     "gloss": "서다 (stare)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "떨어져 서 있는(distans) → 먼"
+  },
+  "example": {
+   "q": "How important is salary compared with other factors?",
+   "a": "Salary matters, but it's a distant second to the chance to lead a team.",
+   "a_ko": "연봉도 중요하지만, 팀을 이끌 기회에 비하면 한참 뒤입니다."
+  },
+  "collocations": [
+   "a distant second",
+   "distant future"
+  ],
+  "related": [
+   "distance",
+   "instant",
+   "constant",
+   "stance"
+  ],
+  "tip": "a distant second = 2위지만 1위와 차이가 큰. 우선순위를 말할 때 유용"
+ },
+ {
+  "id": "d23-B12",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "persist",
+  "pos": "verb",
+  "ipa": "/pərˈsɪst/",
+  "meaning_ko": "(데이터를) 저장하다, 지속되다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "끝까지"
+    },
+    {
+     "text": "sist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    }
+   ],
+   "story": "끝까지 버티고 서 있다 → 지속되다 → (데이터를) 영구 저장하다"
+  },
+  "example": {
+   "q": "What happens to user sessions when a pod restarts?",
+   "a": "We persist sessions in Redis, so users stay logged in even when a pod restarts.",
+   "a_ko": "세션을 Redis 에 저장해 두기 때문에 파드가 재시작돼도 사용자는 로그인 상태를 유지합니다."
+  },
+  "collocations": [
+   "persist data",
+   "persist to disk",
+   "the issue persists"
+  ],
+  "related": [
+   "persistent",
+   "persistence",
+   "consist",
+   "assist"
+  ],
+  "tip": "IT 에서는 \"디스크·DB 에 영구 저장하다\". 일반적으로는 \"문제가 계속되다(the issue persists)\""
+ },
+ {
+  "id": "d23-B13",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "persistently",
+  "pos": "adverb",
+  "ipa": "/pərˈsɪstəntli/",
+  "meaning_ko": "끈질기게, 꾸준히",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "끝까지"
+    },
+    {
+     "text": "sist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "끝까지 서 있는 채로 → 끈질기게"
+  },
+  "example": {
+   "q": "Tell me about a time you pushed for something unpopular.",
+   "a": "I persistently raised our lack of backups in planning meetings until we finally scheduled a restore drill.",
+   "a_ko": "백업 부족 문제를 계획 회의 때마다 꾸준히 제기해서 결국 복원 훈련 일정을 잡았습니다."
+  },
+  "collocations": [
+   "persistently follow up",
+   "persistently high"
+  ],
+  "related": [
+   "persist",
+   "persistent",
+   "consistently",
+   "insist"
+  ],
+  "tip": "끈기를 보여 주는 부사. 고집으로 들리지 않게 결과를 함께 말할 것"
+ },
+ {
+  "id": "d23-B14",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "inconsistent",
+  "pos": "adjective",
+  "ipa": "/ˌɪnkənˈsɪstənt/",
+  "meaning_ko": "일관성 없는, 불일치하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "sist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "함께 굳게 서 있지 못한 → 앞뒤가 맞지 않는"
+  },
+  "example": {
+   "q": "What went wrong with the cache?",
+   "a": "The cache and database became inconsistent after failovers, so I added versioned writes to detect stale data.",
+   "a_ko": "장애 조치 후 캐시와 DB 가 불일치해서, 버전 기반 쓰기를 넣어 오래된 데이터를 잡아내게 했습니다."
+  },
+  "collocations": [
+   "inconsistent state",
+   "inconsistent results",
+   "inconsistent with"
+  ],
+  "related": [
+   "consistent",
+   "consistency",
+   "persist",
+   "resist"
+  ],
+  "tip": "데이터 불일치를 말할 때. 명사는 inconsistency"
+ },
+ {
+  "id": "d23-B15",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "irresistible",
+  "pos": "adjective",
+  "ipa": "/ˌɪrɪˈzɪstəbəl/",
+  "meaning_ko": "거부할 수 없는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ir",
+     "type": "prefix",
+     "gloss": "아님 (in)"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "맞서"
+    },
+    {
+     "text": "sist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "맞서 버틸(resist) 수 없는 → 거부할 수 없을 만큼 끌리는"
+  },
+  "example": {
+   "q": "What would make this offer a clear yes for you?",
+   "a": "If you could match the equity from my other offer, the package would be irresistible and I'd sign right away.",
+   "a_ko": "다른 오퍼의 지분 수준을 맞춰 주신다면, 거절할 수 없는 패키지가 되어 바로 서명하겠습니다."
+  },
+  "collocations": [
+   "an irresistible offer",
+   "find something irresistible"
+  ],
+  "related": [
+   "resist",
+   "resistance",
+   "persist",
+   "insist"
+  ],
+  "tip": "조건 하나만 맞으면 바로 수락하겠다는 신호를 줄 때"
+ },
+ {
+  "id": "d23-B16",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "desist",
+  "pos": "verb",
+  "ipa": "/dɪˈzɪst/",
+  "meaning_ko": "(하던 일을) 그만두다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "sist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    }
+   ],
+   "story": "떨어져 서다(desistere) → 손을 떼다 → 중단하다"
+  },
+  "example": {
+   "q": "Has your previous employer ever contacted you about the non-solicitation clause?",
+   "a": "No, I've never received a cease-and-desist letter, and I'm happy to confirm in writing that I won't approach former clients.",
+   "a_ko": "아니요, 중지 요청서를 받은 적이 없으며, 이전 고객에게 연락하지 않겠다고 서면으로 확인해 드리겠습니다."
+  },
+  "collocations": [
+   "cease and desist",
+   "cease-and-desist letter",
+   "desist from"
+  ],
+  "related": [
+   "insist",
+   "resist",
+   "persist",
+   "consist"
+  ],
+  "tip": "거의 cease and desist(중지하라) 형태로 씀. 계약·법무 대화 단어"
+ },
+ {
+  "id": "d23-B17",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "pre-existing",
+  "pos": "adjective",
+  "ipa": "/ˌpriːɪɡˈzɪstɪŋ/",
+  "meaning_ko": "기존의, 이전부터 있던",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "ist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "미리 밖에 나와 서 있던 → 이전부터 존재하던"
+  },
+  "example": {
+   "q": "Please review the invention assignment clause in the contract.",
+   "a": "I'd like to list my pre-existing open-source projects in the exhibit, so it's clear the company won't own work I did before joining.",
+   "a_ko": "입사 전에 제가 한 작업을 회사가 소유하지 않는다는 점이 분명하도록, 기존 오픈소스 프로젝트를 부속서에 적고 싶습니다."
+  },
+  "collocations": [
+   "pre-existing IP",
+   "pre-existing commitment",
+   "pre-existing condition"
+  ],
+  "related": [
+   "exist",
+   "existing",
+   "coexist",
+   "existential"
+  ],
+  "tip": "발명 양도 조항에서는 prior inventions·pre-existing IP 목록을 꼭 챙길 것"
+ },
+ {
+  "id": "d23-B18",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "existential",
+  "pos": "adjective",
+  "ipa": "/ˌeɡzɪˈstenʃəl/",
+  "meaning_ko": "존폐가 걸린, 실존적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "ist",
+     "type": "root",
+     "gloss": "서다 (sistere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "밖으로 나와 서 있음(existence) → 존재 자체에 관한 → 존폐가 걸린"
+  },
+  "example": {
+   "q": "Tell me about the highest-stakes project you have worked on.",
+   "a": "When our biggest customer threatened to leave over downtime, it was an existential risk, so I led a ninety-day reliability plan that kept them.",
+   "a_ko": "최대 고객이 장애 때문에 떠나겠다고 했을 때 회사 존폐가 걸린 위험이어서, 90일 안정화 계획을 이끌어 고객을 지켰습니다."
+  },
+  "collocations": [
+   "existential threat",
+   "existential risk"
+  ],
+  "related": [
+   "exist",
+   "existing",
+   "coexist",
+   "pre-existing"
+  ],
+  "tip": "비즈니스에서는 철학적 뜻보다 \"존폐가 걸린(existential threat)\"으로 많이 씀"
+ },
+ {
+  "id": "d23-B19",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "adjacent",
+  "pos": "adjective",
+  "ipa": "/əˈdʒeɪsənt/",
+  "meaning_ko": "인접한, 가까운",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에"
+    },
+    {
+     "text": "jac",
+     "type": "root",
+     "gloss": "놓여 있다·눕다 (iacere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "옆에 놓여 있는(adiacens) → 인접한"
+  },
+  "example": {
+   "q": "Have you worked closely with teams outside your own?",
+   "a": "Yes, I often paired with adjacent teams like data and security, because our APIs fed their pipelines.",
+   "a_ko": "네, 저희 API 가 그 팀들의 파이프라인에 들어가서 데이터·보안처럼 인접한 팀과 자주 함께 일했습니다."
+  },
+  "collocations": [
+   "adjacent teams",
+   "adjacent to",
+   "adjacent skills"
+  ],
+  "related": [
+   "adjacency",
+   "subjacent",
+   "circumjacent"
+  ],
+  "tip": "adjacent skills(인접 기술)처럼 커리어 확장을 말할 때도 씀"
+ },
+ {
+  "id": "d23-B20",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "adjacency",
+  "pos": "noun",
+  "ipa": "/əˈdʒeɪsənsi/",
+  "meaning_ko": "인접 (관계)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에"
+    },
+    {
+     "text": "jac",
+     "type": "root",
+     "gloss": "놓여 있다·눕다 (iacere)"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "옆에 놓여 있음 → 인접 → (그래프) 이웃 관계"
+  },
+  "example": {
+   "q": "How would you store a social graph with millions of users?",
+   "a": "I'd store it as an adjacency list rather than a matrix, since each user follows only a few hundred accounts and the matrix would be mostly empty.",
+   "a_ko": "사용자마다 수백 개 계정만 팔로우하니 행렬은 대부분 비어 있게 되므로, 인접 행렬보다 인접 리스트로 저장하겠습니다."
+  },
+  "collocations": [
+   "adjacency list",
+   "adjacency matrix"
+  ],
+  "related": [
+   "adjacent",
+   "subjacent",
+   "circumjacent"
+  ],
+  "tip": "그래프 저장 방식 질문의 단골. 희소하면 list, 밀집하면 matrix"
+ },
+ {
+  "id": "d23-B21",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "contagious",
+  "pos": "adjective",
+  "ipa": "/kənˈteɪdʒəs/",
+  "meaning_ko": "전염되는, 퍼지는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tag",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    },
+    {
+     "text": "ious",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "서로 닿음(contagio) → 접촉으로 옮는 → 분위기가 퍼지는"
+  },
+  "example": {
+   "q": "What kind of energy do you bring to a team?",
+   "a": "My teammates say my curiosity is contagious; I run a weekly demo hour that now draws thirty engineers.",
+   "a_ko": "팀원들은 제 호기심이 전염된다고 합니다. 매주 데모 시간을 여는데 지금은 엔지니어 30명이 옵니다."
+  },
+  "collocations": [
+   "contagious enthusiasm",
+   "contagious energy"
+  ],
+  "related": [
+   "contact",
+   "tangible",
+   "intact",
+   "contiguous"
+  ],
+  "tip": "긍정적인 태도가 \"퍼진다\"고 할 때 자연스러운 표현"
+ },
+ {
+  "id": "d23-B22",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "antithetical",
+  "pos": "adjective",
+  "ipa": "/ˌæntɪˈθetɪkəl/",
+  "meaning_ko": "정반대의, 상반되는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anti",
+     "type": "prefix",
+     "gloss": "반대로"
+    },
+    {
+     "text": "thet",
+     "type": "root",
+     "gloss": "놓다 (tithenai)"
+    },
+    {
+     "text": "ical",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "반대편에 놓은(antithesis) → 정반대의"
+  },
+  "example": {
+   "q": "How do you balance speed and quality?",
+   "a": "I don't see them as antithetical; at my last company, adding contract tests actually let us release twice as often with fewer rollbacks.",
+   "a_ko": "둘이 상반된다고 보지 않습니다. 전 직장에서 계약 테스트를 도입했더니 롤백은 줄고 배포는 오히려 두 배로 늘었습니다."
+  },
+  "collocations": [
+   "antithetical to",
+   "seemingly antithetical"
+  ],
+  "related": [
+   "antithesis",
+   "thesis",
+   "synthesis",
+   "hypothesis"
+  ],
+  "tip": "A is antithetical to B 로 씀. opposite 보다 논리·가치관이 \"정반대\"라는 격식 있는 말"
+ },
+ {
+  "id": "d23-B23",
+  "day": 23,
+  "level": 3,
+  "set": "B",
+  "family": "F3",
+  "word": "succumb",
+  "pos": "verb",
+  "ipa": "/səˈkʌm/",
+  "meaning_ko": "굴복하다, 무너지다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "suc",
+     "type": "prefix",
+     "gloss": "아래로 (sub)"
+    },
+    {
+     "text": "cumb",
+     "type": "root",
+     "gloss": "눕다 (cumbere)"
+    }
+   ],
+   "story": "아래로 드러눕다 → 쓰러지다 → 굴복하다"
+  },
+  "example": {
+   "q": "Tell me about a time you faced pressure to cut corners.",
+   "a": "Before a big launch, I was pushed to skip load testing, but I didn't succumb; I ran a shorter test overnight and found a bottleneck.",
+   "a_ko": "큰 출시 전에 부하 테스트를 건너뛰라는 압박이 있었지만 굴하지 않고, 밤사이 짧은 테스트를 돌려 병목을 찾았습니다."
+  },
+  "collocations": [
+   "succumb to pressure",
+   "succumb to temptation"
+  ],
+  "related": [
+   "incumbent",
+   "recumbent",
+   "incubate"
+  ],
+  "tip": "give in 의 격식체. 항상 succumb to + 명사"
+ },
+ {
+  "id": "d23-B24",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "lock-up",
+  "pos": "noun",
+  "ipa": "/ˈlɑːk ʌp/",
+  "meaning_ko": "(상장 후) 보호예수, 매도 제한 기간",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lock",
+     "type": "part",
+     "gloss": "잠그다"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "단단히"
+    }
+   ],
+   "story": "단단히 잠가 두다 → 상장 후 일정 기간 주식을 팔지 못하게 묶어 둠"
+  },
+  "example": {
+   "q": "If we go public, there's a standard six-month lock-up.",
+   "a": "That's fine. During the lock-up, would I still be able to exercise my options, even if I can't sell the shares?",
+   "a_ko": "괜찮습니다. 보호예수 기간에 주식을 팔 수는 없어도 옵션 행사는 할 수 있나요?"
+  },
+  "collocations": [
+   "lock-up period",
+   "lock-up agreement"
+  ],
+  "related": [
+   "lock",
+   "unlock",
+   "lockout"
+  ],
+  "tip": "직원 지분은 상장 후 보통 90~180일 lock-up. 그동안 매도 불가"
+ },
+ {
+  "id": "d23-B25",
+  "day": 23,
+  "level": 2,
+  "set": "B",
+  "family": "F3",
+  "word": "cliff",
+  "pos": "noun",
+  "ipa": "/klɪf/",
+  "meaning_ko": "(베스팅) 클리프, 최소 근속 기간",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cliff",
+     "type": "part",
+     "gloss": "절벽"
+    }
+   ],
+   "story": "절벽 → 그때까지 0이다가 한 번에 뚝 오르는 계단 → 1년을 채워야 첫 지분이 생기는 조건"
+  },
+  "example": {
+   "q": "Your options vest over four years with a one-year cliff.",
+   "a": "Got it. If I'm laid off before the cliff, would any portion of the options still vest?",
+   "a_ko": "알겠습니다. 클리프 전에 정리해고되면 옵션 일부라도 베스팅되나요?"
+  },
+  "collocations": [
+   "one-year cliff",
+   "vesting cliff"
+  ],
+  "related": [
+   "cliffhanger",
+   "cliff edge"
+  ],
+  "tip": "1년 클리프 = 1년을 채워야 첫 25% 가 한꺼번에 생김. 그 전에 나가면 0"
+ }
+]

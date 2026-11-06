@@ -1,0 +1,1202 @@
+[
+ {
+  "id": "d27-B01",
+  "day": 27,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "extension",
+  "pos": "noun",
+  "ipa": "/ɪkˈstenʃən/",
+  "meaning_ko": "연장, 확장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tens",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 extensio(밖으로 뻗음, extendere 에서) → 늘림 → (기한의) 연장"
+  },
+  "example": {
+   "q": "Do you need more time to decide on the offer?",
+   "a": "Yes, could I have a three-day extension to discuss it with my family?",
+   "a_ko": "네, 가족과 상의할 수 있도록 사흘만 연장해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "ask for an extension",
+   "deadline extension",
+   "contract extension"
+  ],
+  "related": [
+   "extend",
+   "extensive",
+   "extensible",
+   "tension"
+  ],
+  "tip": "오퍼 회신 기한을 늘려 달라고 할 때 바로 쓰는 단어. 전화 내선 번호도 extension(ext.)"
+ },
+ {
+  "id": "d27-B02",
+  "day": 27,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "attendance",
+  "pos": "noun",
+  "ipa": "/əˈtendəns/",
+  "meaning_ko": "참석, 출석",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 attendere(~쪽으로 마음을 뻗다) → 고대 프랑스어 atendance → 그 자리에 와 있음 → 참석"
+  },
+  "example": {
+   "q": "Can you join our all-hands meeting on Friday?",
+   "a": "Sure, I'll confirm my attendance by email later today.",
+   "a_ko": "네, 오늘 중으로 메일로 참석 여부를 확정해 드리겠습니다."
+  },
+  "collocations": [
+   "confirm attendance",
+   "attendance policy",
+   "in attendance"
+  ],
+  "related": [
+   "attend",
+   "attendee",
+   "attention",
+   "extension"
+  ],
+  "tip": "회의·행사 참석을 확정할 때. 근태(출결) 규정은 attendance policy"
+ },
+ {
+  "id": "d27-B03",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "intentional",
+  "pos": "adjective",
+  "ipa": "/ɪnˈtenʃənəl/",
+  "meaning_ko": "의도적인, 일부러 신경 쓰는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "~안으로·~쪽으로"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "라틴어 intentio(마음을 ~쪽으로 뻗음, intendere 에서) → 의도 → 의도적인"
+  },
+  "example": {
+   "q": "How do you build relationships on a remote team?",
+   "a": "I'm intentional about it: I schedule short one-on-one calls with every new teammate during my first month.",
+   "a_ko": "의식적으로 노력합니다. 첫 달에는 새 팀원 모두와 짧은 1:1 통화를 잡습니다."
+  },
+  "collocations": [
+   "be intentional about",
+   "intentional choice",
+   "intentional practice"
+  ],
+  "related": [
+   "intention",
+   "intend",
+   "intent",
+   "extension"
+  ],
+  "tip": "be intentional about ~ = ~을 일부러 신경 써서 하다. 미국 면접에서 자주 들리는 표현"
+ },
+ {
+  "id": "d27-B04",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "tender",
+  "pos": "verb",
+  "ipa": "/ˈtendər/",
+  "meaning_ko": "(사직서 등을) 정식으로 제출하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다, 내밀다 (tendere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "동사 어미 (고대 프랑스어 tendre 의 -re)"
+    }
+   ],
+   "story": "라틴어 tendere(뻗다, 내밀다) → 고대 프랑스어 tendre(내밀어 제공하다) → (서류·제안을) 정식으로 내밀다, 제출하다"
+  },
+  "example": {
+   "q": "If you accept, when would you tell your current employer?",
+   "a": "I'd tender my resignation the day I sign, and I've already planned a four-week handover so my team isn't left with gaps.",
+   "a_ko": "서명하는 날 사직서를 제출할 예정이고, 팀에 공백이 생기지 않도록 4주간의 인수인계 계획도 세워 두었습니다."
+  },
+  "collocations": [
+   "tender one's resignation",
+   "tender offer",
+   "legal tender"
+  ],
+  "related": [
+   "tend",
+   "extend",
+   "contend",
+   "attendance"
+  ],
+  "tip": "'부드러운'의 tender(라틴어 tener)와는 다른 단어. tender offer 는 주식 공개 매수"
+ },
+ {
+  "id": "d27-B05",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "contentious",
+  "pos": "adjective",
+  "ipa": "/kənˈtenʃəs/",
+  "meaning_ko": "논란이 많은, 쟁점이 되는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께, 힘껏"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ious",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 contendere(힘껏 뻗어 겨루다) → contentio(다툼) → contentiosus(다툼이 많은) → 논란이 많은"
+  },
+  "example": {
+   "q": "Is there anything in the contract you'd like to discuss?",
+   "a": "The IP assignment clause is the only contentious point for me; I'd like to exclude open-source projects I build on my own time.",
+   "a_ko": "제게 쟁점은 지식재산 양도 조항 하나뿐입니다. 개인 시간에 만드는 오픈소스 프로젝트는 제외했으면 합니다."
+  },
+  "collocations": [
+   "contentious issue",
+   "contentious point",
+   "highly contentious"
+  ],
+  "related": [
+   "contend",
+   "contention",
+   "contender",
+   "intense"
+  ],
+  "tip": "controversial 보다 '당사자 간 다툼이 되는' 느낌. 계약 조항 중 쟁점 하나를 짚을 때"
+ },
+ {
+  "id": "d27-B06",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "contention",
+  "pos": "noun",
+  "ipa": "/kənˈtenʃən/",
+  "meaning_ko": "경합, (자원) 경쟁",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께, 힘껏"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 contentio(힘껏 겨룸, contendere 에서) → 다툼 → (여러 처리가 한 자원을 두고) 경합"
+  },
+  "example": {
+   "q": "Tell me about a tough performance problem you solved.",
+   "a": "Our checkout API slowed down under load because of lock contention on one hot row, so I moved the counter to Redis and latency dropped by 70 percent.",
+   "a_ko": "결제 API가 부하 시 특정 행 하나의 락 경합 때문에 느려져서, 카운터를 Redis로 옮겼더니 지연 시간이 70% 줄었습니다."
+  },
+  "collocations": [
+   "lock contention",
+   "resource contention",
+   "in contention for"
+  ],
+  "related": [
+   "contentious",
+   "contend",
+   "contender",
+   "tension"
+  ],
+  "tip": "IT 에서는 lock/CPU contention(경합). 일반적으로는 '주장, 논쟁' 뜻도 있음"
+ },
+ {
+  "id": "d27-B07",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "overextend",
+  "pos": "verb",
+  "ipa": "/ˌoʊvərɪkˈstend/",
+  "meaning_ko": "무리하게 일을 벌이다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "over",
+     "type": "prefix",
+     "gloss": "지나치게"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tend",
+     "type": "root",
+     "gloss": "뻗다 (tendere)"
+    }
+   ],
+   "story": "over(지나치게) + extend(밖으로 뻗다, 라틴어 extendere) → 힘이 닿는 범위 너머까지 뻗다 → 무리하다"
+  },
+  "example": {
+   "q": "How do you handle too many requests from different teams?",
+   "a": "Early in my career I overextended myself by saying yes to everything, so now I agree on priorities with my manager before committing.",
+   "a_ko": "경력 초반에는 모든 요청을 수락하다 무리했던 적이 있어서, 지금은 약속하기 전에 매니저와 우선순위부터 합의합니다."
+  },
+  "collocations": [
+   "overextend oneself",
+   "become overextended",
+   "overextend resources"
+  ],
+  "related": [
+   "extend",
+   "extension",
+   "extensive",
+   "attendance"
+  ],
+  "tip": "약점 질문에 '과거에는 무리했지만 지금은 개선했다'는 흐름으로 답할 때 좋음"
+ },
+ {
+  "id": "d27-B08",
+  "day": 27,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "unreliable",
+  "pos": "adjective",
+  "ipa": "/ˌʌnrɪˈlaɪəbəl/",
+  "meaning_ko": "믿을 수 없는, 불안정한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "단단히·다시"
+    },
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (lig)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "단단히 묶다(religare → 고대 프랑스어 relier) → 기대다(rely) → 기댈 수 있는 → un 이 붙어 믿을 수 없는"
+  },
+  "example": {
+   "q": "Why did you replace your old test setup?",
+   "a": "Our end-to-end tests were unreliable, so we rewrote the flaky ones.",
+   "a_ko": "엔드투엔드 테스트가 불안정해서 자주 깨지는 테스트를 다시 작성했습니다."
+  },
+  "collocations": [
+   "unreliable network",
+   "unreliable data",
+   "prove unreliable"
+  ],
+  "related": [
+   "reliable",
+   "rely",
+   "reliant",
+   "obligation"
+  ],
+  "tip": "자주 깨지는 테스트는 flaky test 라고도 함. 사람에게 쓰면 꽤 강한 비판"
+ },
+ {
+  "id": "d27-B09",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "interconnect",
+  "pos": "verb",
+  "ipa": "/ˌɪntərkəˈnekt/",
+  "meaning_ko": "서로 연결하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "nect",
+     "type": "root",
+     "gloss": "묶다 (nectere)"
+    }
+   ],
+   "story": "inter(사이에) + connect(함께 묶다, 라틴어 conectere) → 서로 사이를 잇다"
+  },
+  "example": {
+   "q": "How did you connect your on-premises network with the cloud?",
+   "a": "We used a dedicated link to interconnect our data center with AWS, which gave us stable latency for database replication.",
+   "a_ko": "전용 회선으로 데이터센터와 AWS를 서로 연결해서, 데이터베이스 복제에 안정적인 지연 시간을 확보했습니다."
+  },
+  "collocations": [
+   "interconnect systems",
+   "highly interconnected",
+   "data center interconnect"
+  ],
+  "related": [
+   "connect",
+   "connection",
+   "connectivity",
+   "nexus"
+  ],
+  "tip": "명사도 interconnect(상호 연결 회선). 형용사 interconnected 는 '서로 얽힌'"
+ },
+ {
+  "id": "d27-B10",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "reliant",
+  "pos": "adjective",
+  "ipa": "/rɪˈlaɪənt/",
+  "meaning_ko": "의존하는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "단단히·다시"
+    },
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (lig)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "단단히 묶다(religare → relier) → 기대다(rely) → 기대고 있는, 의존하는"
+  },
+  "example": {
+   "q": "What risks did you see in your last architecture?",
+   "a": "We were too reliant on one managed queue, so I added a fallback path to keep orders flowing during outages.",
+   "a_ko": "관리형 큐 하나에 지나치게 의존하고 있어서, 장애 때도 주문이 처리되도록 대체 경로를 추가했습니다."
+  },
+  "collocations": [
+   "reliant on",
+   "heavily reliant",
+   "less reliant"
+  ],
+  "related": [
+   "rely",
+   "reliance",
+   "reliable",
+   "self-reliant"
+  ],
+  "tip": "be reliant on = depend on. 단일 장애점(single point of failure) 설명에 자연스러움"
+ },
+ {
+  "id": "d27-B11",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "allyship",
+  "pos": "noun",
+  "ipa": "/ˈælaɪʃɪp/",
+  "meaning_ko": "(소수자·동료) 지지, 연대",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "al",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "ly",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    },
+    {
+     "text": "ship",
+     "type": "suffix",
+     "gloss": "상태, 관계"
+    }
+   ],
+   "story": "라틴어 alligare(~에 묶다) → 고대 프랑스어 alier → ally(동맹, 편) + ship → 편이 되어 주는 관계, 연대"
+  },
+  "example": {
+   "q": "How do you support colleagues from underrepresented groups?",
+   "a": "I practice allyship by making sure quieter teammates get credit for their ideas in meetings.",
+   "a_ko": "회의에서 목소리가 작은 팀원도 자기 아이디어에 대한 공을 인정받도록 챙기는 방식으로 연대를 실천합니다."
+  },
+  "collocations": [
+   "practice allyship",
+   "allyship in the workplace",
+   "show allyship"
+  ],
+  "related": [
+   "ally",
+   "alliance",
+   "rally",
+   "liaison"
+  ],
+  "tip": "다양성·포용(DEI) 질문에 쓰는 현대 표현. ally 는 강세가 앞(AL-ly)"
+ },
+ {
+  "id": "d27-B12",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "self-reliant",
+  "pos": "adjective",
+  "ipa": "/ˌselfrɪˈlaɪənt/",
+  "meaning_ko": "자립적인, 스스로 해내는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "self",
+     "type": "part",
+     "gloss": "스스로"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "단단히·다시"
+    },
+    {
+     "text": "li",
+     "type": "root",
+     "gloss": "묶다 (lig)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "self(스스로) + reliant(기대는, relier ← religare 단단히 묶다) → 자기 자신에게 기대는 → 자립적인"
+  },
+  "example": {
+   "q": "How do you work when there isn't much guidance?",
+   "a": "I'm fairly self-reliant: at my last job I set up our monitoring stack alone, but I still shared design docs early to get feedback.",
+   "a_ko": "꽤 자립적인 편입니다. 전 직장에서 모니터링 환경을 혼자 구축했지만, 피드백을 받으려고 설계 문서는 일찍 공유했습니다."
+  },
+  "collocations": [
+   "self-reliant team",
+   "become self-reliant",
+   "fiercely self-reliant"
+  ],
+  "related": [
+   "reliant",
+   "reliance",
+   "rely",
+   "reliable"
+  ],
+  "tip": "independent 보다 '남에게 기대지 않고 해낸다'는 뉘앙스. 협업도 한다는 말을 덧붙이면 균형이 좋음"
+ },
+ {
+  "id": "d27-B13",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "obligatory",
+  "pos": "adjective",
+  "ipa": "/əˈblɪɡətɔːri/",
+  "meaning_ko": "의무적인, 필수의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~에 대해"
+    },
+    {
+     "text": "lig",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    },
+    {
+     "text": "atory",
+     "type": "suffix",
+     "gloss": "~의 성질을 띤"
+    }
+   ],
+   "story": "라틴어 obligare(~에 묶다) → obligatorius(묶어 두는) → 의무적인"
+  },
+  "example": {
+   "q": "Are there any terms in your current contract we should know about?",
+   "a": "Yes, my contract has an obligatory sixty-day notice period, so the earliest realistic start date would be early March.",
+   "a_ko": "네, 계약상 60일 사전 통보가 의무라서 현실적으로 가장 빠른 입사일은 3월 초입니다."
+  },
+  "collocations": [
+   "obligatory notice period",
+   "obligatory training",
+   "not obligatory"
+  ],
+  "related": [
+   "obligation",
+   "oblige",
+   "obliged",
+   "liable"
+  ],
+  "tip": "mandatory 와 비슷하지만 더 격식체. 계약상 의무 기간을 설명할 때"
+ },
+ {
+  "id": "d27-B14",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "oblige",
+  "pos": "verb",
+  "ipa": "/əˈblaɪdʒ/",
+  "meaning_ko": "(요청에) 응하다, 의무를 지우다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "~에 대해"
+    },
+    {
+     "text": "lige",
+     "type": "root",
+     "gloss": "묶다 (ligare)"
+    }
+   ],
+   "story": "라틴어 obligare(~에 묶다) → 고대 프랑스어 obligier → 의무로 묶다 → (부탁을) 들어주다"
+  },
+  "example": {
+   "q": "Could you share details of your current compensation with us?",
+   "a": "I'm happy to oblige with a summary of my total package, though I'd prefer to keep the actual pay slips confidential.",
+   "a_ko": "총 보상 요약은 기꺼이 알려 드리겠습니다만, 실제 급여 명세서는 비공개로 두고 싶습니다."
+  },
+  "collocations": [
+   "happy to oblige",
+   "be obliged to",
+   "feel obliged"
+  ],
+  "related": [
+   "obligation",
+   "obligatory",
+   "obliged",
+   "liable"
+  ],
+  "tip": "happy to oblige = 기꺼이 응하겠다(정중). be obliged to do = ~할 의무가 있다"
+ },
+ {
+  "id": "d27-B15",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "annex",
+  "pos": "noun",
+  "ipa": "/ˈæneks/",
+  "meaning_ko": "부속서, 별첨",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "an",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "nex",
+     "type": "root",
+     "gloss": "묶다 (nectere)"
+    }
+   ],
+   "story": "라틴어 annectere(~에 묶어 붙이다), 과거분사 annexus → 덧붙여 묶은 것 → (계약서의) 부속서, 별관"
+  },
+  "example": {
+   "q": "The equity details are in a separate annex to the contract.",
+   "a": "Thanks; I'll review the annex carefully, and I'd like the vesting schedule and cliff to be stated there before I sign.",
+   "a_ko": "감사합니다. 부속서를 꼼꼼히 검토하겠고, 서명 전에 베스팅 일정과 클리프가 거기에 명시되었으면 합니다."
+  },
+  "collocations": [
+   "contract annex",
+   "annex to the agreement",
+   "attached as an annex"
+  ],
+  "related": [
+   "connect",
+   "nexus",
+   "interconnect",
+   "connection"
+  ],
+  "tip": "동사 annex(합병하다)는 강세가 뒤(an-NEX). 계약서에서는 appendix·schedule·exhibit 과 비슷"
+ },
+ {
+  "id": "d27-B16",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "nexus",
+  "pos": "noun",
+  "ipa": "/ˈneksəs/",
+  "meaning_ko": "연결 고리, 중심점",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "nex",
+     "type": "root",
+     "gloss": "묶다 (nectere)"
+    },
+    {
+     "text": "us",
+     "type": "suffix",
+     "gloss": "명사 어미 (라틴어)"
+    }
+   ],
+   "story": "라틴어 nexus(묶음, nectere 묶다에서) → 서로 묶인 지점 → 연결 고리, 중심점"
+  },
+  "example": {
+   "q": "This role sits between product, data and engineering.",
+   "a": "That nexus is where I've done my best work; at my last company I translated product goals into data requirements every sprint.",
+   "a_ko": "바로 그 접점에서 가장 좋은 성과를 냈습니다. 전 직장에서 매 스프린트 제품 목표를 데이터 요구 사항으로 옮기는 역할을 했습니다."
+  },
+  "collocations": [
+   "the nexus of",
+   "nexus between",
+   "at the nexus"
+  ],
+  "related": [
+   "connect",
+   "annex",
+   "interconnect",
+   "connection"
+  ],
+  "tip": "여러 팀이 만나는 지점을 세련되게 말하는 단어. 세무에서는 '과세 연결점'"
+ },
+ {
+  "id": "d27-B17",
+  "day": 27,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "strictly",
+  "pos": "adverb",
+  "ipa": "/ˈstrɪktli/",
+  "meaning_ko": "엄격히, 꼭",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶은 (strictus, stringere)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "라틴어 strictus(꽉 묶은, stringere 에서) → 엄격한 → 엄격히, (부정문에서) 꼭 그렇지는"
+  },
+  "example": {
+   "q": "Is your salary expectation flexible?",
+   "a": "It's not strictly fixed; I'm open if the equity is strong.",
+   "a_ko": "꼭 고정된 것은 아닙니다. 주식 조건이 좋다면 열려 있습니다."
+  },
+  "collocations": [
+   "strictly confidential",
+   "not strictly",
+   "strictly speaking"
+  ],
+  "related": [
+   "strict",
+   "restrict",
+   "restrictive",
+   "stringent"
+  ],
+  "tip": "not strictly = 꼭 ~인 것은 아닌. 메일 제목의 Strictly Confidential(극비)도 자주 봄"
+ },
+ {
+  "id": "d27-B18",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "restrictive",
+  "pos": "adjective",
+  "ipa": "/rɪˈstrɪktɪv/",
+  "meaning_ko": "제한적인, 구속하는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶다 (stringere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 restringere(뒤로 꽉 당겨 묶다), 과거분사 restrictus → 제한하다 → 제한적인"
+  },
+  "example": {
+   "q": "Here's our standard non-compete clause.",
+   "a": "This clause seems quite restrictive, so could we limit it to six months and direct competitors only?",
+   "a_ko": "이 조항은 꽤 제한적으로 보이는데, 기간을 6개월로, 대상을 직접 경쟁사로만 한정할 수 있을까요?"
+  },
+  "collocations": [
+   "restrictive covenant",
+   "overly restrictive",
+   "restrictive policy"
+  ],
+  "related": [
+   "restrict",
+   "restriction",
+   "strict",
+   "unrestricted"
+  ],
+  "tip": "경업금지 등은 법률 용어로 restrictive covenant. 조항을 좁혀 달라는 협상에"
+ },
+ {
+  "id": "d27-B19",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "unrestricted",
+  "pos": "adjective",
+  "ipa": "/ˌʌnrɪˈstrɪktɪd/",
+  "meaning_ko": "제한 없는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "strict",
+     "type": "root",
+     "gloss": "꽉 묶다 (stringere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "restrict(뒤로 꽉 묶다, restringere) → restricted(제한된) → un 이 붙어 제한 없는"
+  },
+  "example": {
+   "q": "Your learning budget can be used for any course or conference.",
+   "a": "That's great; unrestricted use matters to me, because I plan to take a Kubernetes certification this year.",
+   "a_ko": "좋습니다. 올해 쿠버네티스 자격증을 딸 계획이라 제한 없이 쓸 수 있다는 점이 중요합니다."
+  },
+  "collocations": [
+   "unrestricted access",
+   "unrestricted use",
+   "unrestricted funds"
+  ],
+  "related": [
+   "restrict",
+   "restrictive",
+   "strict",
+   "strictly"
+  ],
+  "tip": "복리후생이 '용도 제한 없이' 쓸 수 있는지 확인할 때"
+ },
+ {
+  "id": "d27-B20",
+  "day": 27,
+  "level": 3,
+  "set": "B",
+  "family": "F7",
+  "word": "stringency",
+  "pos": "noun",
+  "ipa": "/ˈstrɪndʒənsi/",
+  "meaning_ko": "엄격함",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "string",
+     "type": "root",
+     "gloss": "꽉 당기다 (stringere)"
+    },
+    {
+     "text": "ency",
+     "type": "suffix",
+     "gloss": "성질"
+    }
+   ],
+   "story": "라틴어 stringere(꽉 당기다) → stringent(엄격한) → 엄격함"
+  },
+  "example": {
+   "q": "Our background check process is quite strict, given our clients.",
+   "a": "I understand the stringency given your banking clients, and I can provide my employment certificates and references within a week.",
+   "a_ko": "은행 고객사가 있으니 엄격한 것은 이해합니다. 재직 증명서와 추천인은 일주일 안에 드릴 수 있습니다."
+  },
+  "collocations": [
+   "the stringency of",
+   "regulatory stringency",
+   "increased stringency"
+  ],
+  "related": [
+   "stringent",
+   "strict",
+   "restrict",
+   "constraint"
+  ],
+  "tip": "string(끈)과는 어원이 다름. 규제·심사가 까다롭다는 것을 격식 있게 말할 때"
+ },
+ {
+  "id": "d27-B21",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "convergence",
+  "pos": "noun",
+  "ipa": "/kənˈvɝːdʒəns/",
+  "meaning_ko": "수렴",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "verg",
+     "type": "root",
+     "gloss": "기울다, 향하다 (vergere)"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 convergere(함께 한쪽으로 기울다) → 한 점으로 모임 → 수렴"
+  },
+  "example": {
+   "q": "How does your system handle replicas that fall out of sync?",
+   "a": "We accept eventual consistency, and convergence usually happens within a second, which is fine for user profile data.",
+   "a_ko": "최종 일관성을 허용하는데, 보통 1초 안에 수렴하기 때문에 사용자 프로필 데이터에는 문제가 없습니다."
+  },
+  "collocations": [
+   "eventual convergence",
+   "convergence time",
+   "model convergence"
+  ],
+  "related": [
+   "converge",
+   "diverge",
+   "divergence",
+   "convert"
+  ],
+  "tip": "분산 시스템의 복제본 수렴, 머신러닝의 학습 수렴(model convergence) 모두에 씀"
+ },
+ {
+  "id": "d27-B22",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "divergence",
+  "pos": "noun",
+  "ipa": "/daɪˈvɝːdʒəns/",
+  "meaning_ko": "갈라짐, 차이",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "따로 (dis)"
+    },
+    {
+     "text": "verg",
+     "type": "root",
+     "gloss": "기울다, 향하다 (vergere)"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "중세 라틴어 divergere(따로따로 기울다) → 갈라져 나감 → 차이"
+  },
+  "example": {
+   "q": "How do you manage long-running feature branches?",
+   "a": "I rebase often, because the longer a branch lives, the more divergence builds up from main.",
+   "a_ko": "브랜치가 오래 살아 있을수록 main 과의 차이가 커지기 때문에 자주 리베이스합니다."
+  },
+  "collocations": [
+   "code divergence",
+   "divergence from",
+   "growing divergence"
+  ],
+  "related": [
+   "diverge",
+   "converge",
+   "convergence",
+   "divert"
+  ],
+  "tip": "convergence 의 반대. 발음은 dai- 와 di- 둘 다 씀"
+ },
+ {
+  "id": "d27-B23",
+  "day": 27,
+  "level": 1,
+  "set": "B",
+  "family": "F7",
+  "word": "layoff",
+  "pos": "noun",
+  "ipa": "/ˈleɪɔːf/",
+  "meaning_ko": "정리 해고",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lay",
+     "type": "part",
+     "gloss": "눕히다, 놓다"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "lay off(일에서 떼어 내려놓다) → 일시 해고 → 정리 해고"
+  },
+  "example": {
+   "q": "Why did you leave your last company?",
+   "a": "My whole team was affected by a layoff after a funding cut.",
+   "a_ko": "투자 축소 이후 정리 해고로 팀 전체가 영향을 받았습니다."
+  },
+  "collocations": [
+   "a round of layoffs",
+   "affected by a layoff",
+   "mass layoffs"
+  ],
+  "related": [
+   "hiring freeze",
+   "downturn",
+   "slowdown",
+   "runway"
+  ],
+  "tip": "핵심어. 동사는 띄어서 lay off. 퇴사 사유로 말할 때는 사실만 담담하게"
+ },
+ {
+  "id": "d27-B24",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "hiring freeze",
+  "pos": "noun",
+  "ipa": "/ˈhaɪərɪŋ friːz/",
+  "meaning_ko": "채용 동결",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hiring",
+     "type": "part",
+     "gloss": "채용"
+    },
+    {
+     "text": "freeze",
+     "type": "part",
+     "gloss": "얼리다, 동결"
+    }
+   ],
+   "story": "hire(고용하다) + freeze(얼리다) → 채용을 얼려 멈춤 → 채용 동결"
+  },
+  "example": {
+   "q": "We may have a hiring freeze next quarter, but this role is already approved.",
+   "a": "Thanks for being open; could you confirm in writing that this role is safe from the hiring freeze before I resign?",
+   "a_ko": "솔직하게 말씀해 주셔서 감사합니다. 제가 사직하기 전에 이 자리가 채용 동결 대상이 아니라는 것을 서면으로 확인해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "impose a hiring freeze",
+   "lift a hiring freeze",
+   "under a hiring freeze"
+  ],
+  "related": [
+   "layoff",
+   "slowdown",
+   "downturn",
+   "runway"
+  ],
+  "tip": "핵심어. 오퍼 수락 전에 '이 포지션은 확정인지' 확인할 때"
+ },
+ {
+  "id": "d27-B25",
+  "day": 27,
+  "level": 2,
+  "set": "B",
+  "family": "F7",
+  "word": "runway",
+  "pos": "noun",
+  "ipa": "/ˈrʌnweɪ/",
+  "meaning_ko": "(스타트업의) 남은 자금 기간",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "run",
+     "type": "part",
+     "gloss": "달리다"
+    },
+    {
+     "text": "way",
+     "type": "part",
+     "gloss": "길"
+    }
+   ],
+   "story": "run(달리다) + way(길) → 비행기가 이륙 전에 달리는 활주로 → 자금이 바닥나기 전까지 버틸 수 있는 기간"
+  },
+  "example": {
+   "q": "We raised our Series B last year.",
+   "a": "Congratulations; may I ask how much runway you have, since stability matters to me when I weigh equity?",
+   "a_ko": "축하드립니다. 주식 보상을 따질 때 안정성이 중요해서 그런데, 자금 여력이 얼마나 남았는지 여쭤봐도 될까요?"
+  },
+  "collocations": [
+   "months of runway",
+   "extend the runway",
+   "cash runway"
+  ],
+  "related": [
+   "headwind",
+   "tailwind",
+   "layoff",
+   "cash-strapped"
+  ],
+  "tip": "핵심어. 스타트업 오퍼를 검토할 때 꼭 물어볼 단어. '18 months of runway' 처럼 씀"
+ }
+]

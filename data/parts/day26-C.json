@@ -1,0 +1,1232 @@
+[
+ {
+  "id": "d26-C01",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "regenerate",
+  "pos": "verb",
+  "ipa": "/riˈdʒenəreɪt/",
+  "meaning_ko": "다시 생성하다, 재발급하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "gener",
+     "type": "root",
+     "gloss": "낳다 (gen)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "generare '낳다, 만들어 내다' + re '다시' → 다시 만들어 내다"
+  },
+  "example": {
+   "q": "What did you do after an API key leaked in a public repo?",
+   "a": "I revoked and regenerated the key within ten minutes, then added a secret scanner to our CI so it couldn't happen again.",
+   "a_ko": "10분 안에 키를 폐기하고 다시 발급한 뒤, 재발을 막으려고 CI에 시크릿 스캐너를 추가했습니다."
+  },
+  "collocations": [
+   "regenerate a key",
+   "regenerate the token",
+   "regenerate client code"
+  ],
+  "related": [
+   "generate",
+   "generation",
+   "generator",
+   "general"
+  ],
+  "tip": "키·토큰·자동 생성 코드를 '다시 만들' 때 씀"
+ },
+ {
+  "id": "d26-C02",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "generosity",
+  "pos": "noun",
+  "ipa": "/ˌdʒenəˈrɑːsəti/",
+  "meaning_ko": "후함, 너그러움",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gener",
+     "type": "root",
+     "gloss": "태생·가문 (genus, gen 낳다)"
+    },
+    {
+     "text": "os",
+     "type": "suffix",
+     "gloss": "~가 많은 (-osus)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "generosus '좋은 가문 출신의, 고귀한' → 고귀한 사람답게 너그러운 → 후함"
+  },
+  "example": {
+   "q": "We've increased the signing bonus as you asked.",
+   "a": "Thank you for your generosity on the bonus. It really helps offset the equity I'm leaving behind, and I'm excited to move forward.",
+   "a_ko": "보너스를 후하게 조정해 주셔서 감사합니다. 두고 오는 지분을 메우는 데 큰 도움이 되고, 진행하게 되어 기쁩니다."
+  },
+  "collocations": [
+   "appreciate the generosity",
+   "the generosity of the offer",
+   "thank you for your generosity"
+  ],
+  "related": [
+   "generous",
+   "general",
+   "generation",
+   "heterogeneous"
+  ],
+  "tip": "조건을 올려 받은 뒤 감사 인사로 — 관계를 좋게 마무리할 때"
+ },
+ {
+  "id": "d26-C03",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "homogeneous",
+  "pos": "adjective",
+  "ipa": "/ˌhoʊməˈdʒiːniəs/",
+  "meaning_ko": "동질의, 균일한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "homo",
+     "type": "prefix",
+     "gloss": "같은 (그리스어 homos)"
+    },
+    {
+     "text": "gene",
+     "type": "root",
+     "gloss": "종류 (그리스어 genos, gen)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "그리스어 homogenes '같은 종류의' → 성질이 같은 → 동질의, 균일한"
+  },
+  "example": {
+   "q": "How did you plan capacity for the new cluster?",
+   "a": "We kept the node pool homogeneous, with one instance type, so capacity planning was simple and the scheduler behaved predictably under load.",
+   "a_ko": "노드 풀을 인스턴스 유형 하나로 균일하게 유지해서, 용량 계획이 단순했고 부하가 걸려도 스케줄러가 예측 가능하게 동작했습니다."
+  },
+  "collocations": [
+   "homogeneous cluster",
+   "homogeneous data",
+   "a homogeneous team"
+  ],
+  "related": [
+   "heterogeneous",
+   "generate",
+   "general",
+   "generic"
+  ],
+  "tip": "반대말은 heterogeneous. homogenous 라는 철자도 흔히 보임"
+ },
+ {
+  "id": "d26-C04",
+  "day": 26,
+  "level": 1,
+  "set": "C",
+  "family": "F6",
+  "word": "completely",
+  "pos": "adverb",
+  "ipa": "/kəmˈpliːtli/",
+  "meaning_ko": "완전히, 전적으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "plete",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "complere '가득 채우다' → 완전한 → 완전히"
+  },
+  "example": {
+   "q": "Unfortunately, the base salary band is fixed for this level.",
+   "a": "I completely understand. Could we look at the signing bonus instead?",
+   "a_ko": "충분히 이해합니다. 그럼 사이닝 보너스 쪽을 볼 수 있을까요?"
+  },
+  "collocations": [
+   "completely understand",
+   "completely agree",
+   "completely different"
+  ],
+  "related": [
+   "complete",
+   "completion",
+   "incomplete",
+   "supplement"
+  ],
+  "tip": "'I completely understand.' — 거절을 받아들이고 대안으로 넘어갈 때 쓰는 협상 표현"
+ },
+ {
+  "id": "d26-C05",
+  "day": 26,
+  "level": 1,
+  "set": "C",
+  "family": "F6",
+  "word": "incomplete",
+  "pos": "adjective",
+  "ipa": "/ˌɪnkəmˈpliːt/",
+  "meaning_ko": "불완전한, 빠진 것이 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "plete",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    }
+   ],
+   "story": "complere '가득 채우다' → complete 완전한 → in '아니다' → 다 채우지 못한, 불완전한"
+  },
+  "example": {
+   "q": "Here's the offer summary we put together for you.",
+   "a": "Thanks. It seems incomplete, though. Could you add the vesting schedule?",
+   "a_ko": "감사합니다. 그런데 빠진 부분이 있는 것 같습니다. 베스팅 일정을 추가해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "incomplete information",
+   "incomplete offer details",
+   "incomplete data"
+  ],
+  "related": [
+   "complete",
+   "completely",
+   "completion",
+   "deplete"
+  ],
+  "tip": "'missing something' 보다 격식 있게 빠진 정보를 요청할 때"
+ },
+ {
+  "id": "d26-C06",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "supplement",
+  "pos": "verb",
+  "ipa": "/ˈsʌplɪment/",
+  "meaning_ko": "보충하다, 보완하다 (명사: 보충, 추가분)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "ple",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "supplere '아래에서 채워 넣다' → supplementum '보충물' → 모자란 것을 더해 채우다"
+  },
+  "example": {
+   "q": "The base salary is already at the top of the band.",
+   "a": "I understand. Would it be possible to supplement the base with a larger equity grant or a signing bonus, so the total package stays competitive?",
+   "a_ko": "이해합니다. 총 보상이 경쟁력 있도록 더 큰 지분 부여나 사이닝 보너스로 기본급을 보충하는 것이 가능할까요?"
+  },
+  "collocations": [
+   "supplement the base salary",
+   "supplement A with B",
+   "a supplement to"
+  ],
+  "related": [
+   "supply",
+   "supplementary",
+   "complement",
+   "complete"
+  ],
+  "tip": "complement(서로 짝을 이뤄 완성하다)와 구분 — supplement 는 '모자란 것을 더해 채우다'. 명사 발음은 /ˈsʌplɪmənt/"
+ },
+ {
+  "id": "d26-C07",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "noncompliance",
+  "pos": "noun",
+  "ipa": "/ˌnɑːnkəmˈplaɪəns/",
+  "meaning_ko": "미준수, 위반",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "pli",
+     "type": "root",
+     "gloss": "채우다 (ple)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "complere '가득 채우다' → 스페인어·이탈리아어 '해야 할 일을 다하다' → comply 따르다 → non '아니다' → 따르지 않음"
+  },
+  "example": {
+   "q": "The contract includes a non-solicitation clause for twelve months.",
+   "a": "That's reasonable. Could you clarify what counts as noncompliance, for example whether staying in touch with former colleagues online would be an issue?",
+   "a_ko": "합리적입니다. 무엇이 위반으로 간주되는지 명확히 해 주실 수 있을까요? 예를 들어 예전 동료와 온라인으로 연락하는 것도 문제가 되는지요."
+  },
+  "collocations": [
+   "noncompliance with",
+   "risk of noncompliance",
+   "penalties for noncompliance"
+  ],
+  "related": [
+   "comply",
+   "compliance",
+   "compliant",
+   "complete"
+  ],
+  "tip": "계약 조항의 '위반 기준'을 구체적으로 확인할 때 씀"
+ },
+ {
+  "id": "d26-C08",
+  "day": 26,
+  "level": 1,
+  "set": "C",
+  "family": "F6",
+  "word": "operate",
+  "pos": "verb",
+  "ipa": "/ˈɑːpəreɪt/",
+  "meaning_ko": "운영하다, 일하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "oper",
+     "type": "root",
+     "gloss": "일 (opus, oper)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "operari '일하다' → 움직이게 하다 → 운영하다, 일하다"
+  },
+  "example": {
+   "q": "Our team operates on a hybrid schedule, three days in the office.",
+   "a": "That works for me. I've operated in a hybrid setup for two years.",
+   "a_ko": "저는 괜찮습니다. 2년 동안 하이브리드 환경에서 일해 왔습니다."
+  },
+  "collocations": [
+   "operate on a schedule",
+   "operate at scale",
+   "operate in a hybrid setup"
+  ],
+  "related": [
+   "operator",
+   "operation",
+   "cooperate",
+   "interoperability"
+  ],
+  "tip": "회사·팀의 운영 방식을 말할 때 'operate on ~' 형태로 자주 나옴"
+ },
+ {
+  "id": "d26-C09",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "operator",
+  "pos": "noun",
+  "ipa": "/ˈɑːpəreɪtər/",
+  "meaning_ko": "오퍼레이터 (쿠버네티스 확장), 운영자, 연산자",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "oper",
+     "type": "root",
+     "gloss": "일 (opus, oper)"
+    },
+    {
+     "text": "at",
+     "type": "suffix",
+     "gloss": "~하다 (-ate)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "operari '일하다' → 일하는 사람 → 기계·시스템을 돌리는 것 → 쿠버네티스 오퍼레이터, 연산자"
+  },
+  "example": {
+   "q": "How do you manage stateful services on Kubernetes?",
+   "a": "We run PostgreSQL with an operator, so failover and backups are automated instead of handled from a runbook at 3 a.m.",
+   "a_ko": "PostgreSQL을 오퍼레이터로 운영해서, 장애 조치와 백업을 새벽 3시에 런북을 보며 하는 대신 자동으로 처리합니다."
+  },
+  "collocations": [
+   "Kubernetes operator",
+   "logical operator",
+   "operator pattern"
+  ],
+  "related": [
+   "operate",
+   "operation",
+   "operational",
+   "cooperation"
+  ],
+  "tip": "프로그래밍에서는 연산자(+, &&)라는 뜻도 있어 문맥으로 구분"
+ },
+ {
+  "id": "d26-C10",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "cooperation",
+  "pos": "noun",
+  "ipa": "/koʊˌɑːpəˈreɪʃən/",
+  "meaning_ko": "협조, 협력",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "oper",
+     "type": "root",
+     "gloss": "일 (opus, oper)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "cooperari '함께 일하다'(co + operari) → 협력, 협조"
+  },
+  "example": {
+   "q": "We'll need you to complete the background check by Friday.",
+   "a": "No problem, you'll have my full cooperation. I'll submit the forms by Wednesday so there's time for any questions.",
+   "a_ko": "문제없습니다, 적극 협조하겠습니다. 질문하실 시간이 있도록 수요일까지 서류를 제출하겠습니다."
+  },
+  "collocations": [
+   "full cooperation",
+   "in cooperation with",
+   "close cooperation"
+  ],
+  "related": [
+   "cooperate",
+   "operate",
+   "operator",
+   "interoperability"
+  ],
+  "tip": "메일의 'Thank you for your cooperation' 은 지시하는 느낌이 있어 동료에게는 'Thanks for your help' 가 부드러움"
+ },
+ {
+  "id": "d26-C11",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "interoperability",
+  "pos": "noun",
+  "ipa": "/ˌɪntərˌɑːpərəˈbɪləti/",
+  "meaning_ko": "상호 운용성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "서로, 사이에"
+    },
+    {
+     "text": "oper",
+     "type": "root",
+     "gloss": "일 (opus, oper)"
+    },
+    {
+     "text": "abil",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "operari '일하다' + inter '서로' → 서로 맞물려 동작할 수 있음 → 상호 운용성"
+  },
+  "example": {
+   "q": "Why did you choose OpenTelemetry for tracing?",
+   "a": "Interoperability was the main reason: it let us switch vendors without re-instrumenting forty services, which protected us from lock-in at contract renewal.",
+   "a_ko": "가장 큰 이유는 상호 운용성이었습니다. 서비스 40개를 다시 계측하지 않고도 벤더를 바꿀 수 있어서, 계약 갱신 때 종속을 피할 수 있었습니다."
+  },
+  "collocations": [
+   "interoperability between",
+   "ensure interoperability",
+   "interoperability standards"
+  ],
+  "related": [
+   "operate",
+   "operable",
+   "cooperation",
+   "operator"
+  ],
+  "tip": "vendor lock-in(벤더 종속) 회피와 함께 말하면 설득력 있음"
+ },
+ {
+  "id": "d26-C12",
+  "day": 26,
+  "level": 1,
+  "set": "C",
+  "family": "F6",
+  "word": "creative",
+  "pos": "adjective",
+  "ipa": "/kriˈeɪtɪv/",
+  "meaning_ko": "창의적인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "creat",
+     "type": "root",
+     "gloss": "만들다 (creare)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "creare '만들어 내다' → 새것을 만드는 → 창의적인"
+  },
+  "example": {
+   "q": "How would your teammates describe you?",
+   "a": "They'd say I'm creative when we're stuck on a tricky problem.",
+   "a_ko": "까다로운 문제에 막혔을 때 제가 창의적이라고 말할 것 같습니다."
+  },
+  "collocations": [
+   "creative solution",
+   "get creative",
+   "creative thinking"
+  ],
+  "related": [
+   "create",
+   "creativity",
+   "creation",
+   "recreate"
+  ],
+  "tip": "'get creative' = 제약 속에서 방법을 짜내다 — 예산 협상에서도 씀"
+ },
+ {
+  "id": "d26-C13",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "recreate",
+  "pos": "verb",
+  "ipa": "/ˌriːkriˈeɪt/",
+  "meaning_ko": "재현하다, 다시 만들다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "creat",
+     "type": "root",
+     "gloss": "만들다 (creare)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "(동사 어미)"
+    }
+   ],
+   "story": "creare '만들다' + re '다시' → 다시 만들다 → (버그·환경을) 재현하다"
+  },
+  "example": {
+   "q": "How do you approach a bug that only happens in production?",
+   "a": "First I try to recreate it locally with the same data and config, because once I can reproduce it, the fix is usually quick.",
+   "a_ko": "먼저 같은 데이터와 설정으로 로컬에서 재현해 봅니다. 재현만 되면 보통 수정은 금방이기 때문입니다."
+  },
+  "collocations": [
+   "recreate the bug",
+   "recreate the environment",
+   "recreate the issue"
+  ],
+  "related": [
+   "create",
+   "creative",
+   "creation",
+   "value creation"
+  ],
+  "tip": "발음 /ˌriːkriˈeɪt/. recreation /ˌrekriˈeɪʃən/(휴양, 레크리에이션)과 발음·뜻이 다름"
+ },
+ {
+  "id": "d26-C14",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "value creation",
+  "pos": "noun",
+  "ipa": "/ˈvæljuː kriˌeɪʃən/",
+  "meaning_ko": "가치 창출",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "value",
+     "type": "part",
+     "gloss": "가치 (valere 힘이 있다)"
+    },
+    {
+     "text": "creat",
+     "type": "root",
+     "gloss": "만들다 (creare)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "valere '가치가 있다' + creare '만들다' → 가치를 만들어 내는 것"
+  },
+  "example": {
+   "q": "How do you think about your impact at a business level?",
+   "a": "I focus on value creation, not just output. For example, our checkout redesign raised conversion by 4%, worth about two million dollars a year.",
+   "a_ko": "단순한 산출물보다 가치 창출에 집중합니다. 예를 들어 결제 화면 개편으로 전환율을 4% 올렸는데, 연간 약 200만 달러 규모였습니다."
+  },
+  "collocations": [
+   "drive value creation",
+   "long-term value creation",
+   "value creation for customers"
+  ],
+  "related": [
+   "create",
+   "creative",
+   "creation",
+   "value"
+  ],
+  "tip": "임팩트를 매출·비용 숫자로 바꿔 말할 때 쓰는 비즈니스 표현"
+ },
+ {
+  "id": "d26-C15",
+  "day": 26,
+  "level": 1,
+  "set": "C",
+  "family": "F6",
+  "word": "satisfied",
+  "pos": "adjective",
+  "ipa": "/ˈsætɪsfaɪd/",
+  "meaning_ko": "만족한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "satis",
+     "type": "part",
+     "gloss": "충분히 (satis)"
+    },
+    {
+     "text": "fi",
+     "type": "root",
+     "gloss": "~하게 만들다 (fac → -fy)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "satisfacere '충분히 해 주다'(satis + facere) → 채워 주다 → 만족한"
+  },
+  "example": {
+   "q": "How do you feel about the revised offer?",
+   "a": "I'm satisfied with the base salary and ready to move forward.",
+   "a_ko": "기본급에 만족하고, 진행할 준비가 됐습니다."
+  },
+  "collocations": [
+   "satisfied with",
+   "fully satisfied",
+   "more than satisfied"
+  ],
+  "related": [
+   "satisfy",
+   "satisfaction",
+   "dissatisfied",
+   "satisfactory"
+  ],
+  "tip": "'I'm satisfied with A, but ~' 처럼 받아들일 부분부터 말하고 남은 요청으로 넘어가면 좋음"
+ },
+ {
+  "id": "d26-C16",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "effective date",
+  "pos": "noun",
+  "ipa": "/ɪˈfektɪv ˌdeɪt/",
+  "meaning_ko": "효력 발생일, 적용 시작일",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ef",
+     "type": "prefix",
+     "gloss": "밖으로 (ex)"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "date",
+     "type": "part",
+     "gloss": "날짜 (라틴어 data 주어진)"
+    }
+   ],
+   "story": "efficere '이루다' → 효력이 생기는 + 날짜 → 효력 발생일"
+  },
+  "example": {
+   "q": "Your relocation package has been approved.",
+   "a": "Great news. Could you confirm the effective date, so I know whether this month's moving costs are covered?",
+   "a_ko": "좋은 소식이네요. 이번 달 이사 비용이 지원되는지 알 수 있도록 적용 시작일을 확인해 주시겠어요?"
+  },
+  "collocations": [
+   "the effective date of",
+   "as of the effective date",
+   "confirm the effective date"
+  ],
+  "related": [
+   "effect",
+   "effective",
+   "effectively",
+   "take effect"
+  ],
+  "tip": "계약서의 effective date 는 입사일(start date)과 다를 수 있으니 꼭 확인"
+ },
+ {
+  "id": "d26-C17",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "nonprofit",
+  "pos": "noun",
+  "ipa": "/ˌnɑːnˈprɑːfɪt/",
+  "meaning_ko": "비영리 단체",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non",
+     "type": "prefix",
+     "gloss": "아니다"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "fit",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    }
+   ],
+   "story": "proficere '앞으로 나아가다, 이롭다' → profit 이익 → non '아니다' → 이익을 목적으로 하지 않는 단체"
+  },
+  "example": {
+   "q": "Do you have any experience outside your day job?",
+   "a": "I volunteer for a local nonprofit, where I rebuilt their donation site so they could stop paying for an expensive platform.",
+   "a_ko": "지역 비영리 단체에서 봉사하면서, 비싼 플랫폼 비용을 내지 않아도 되도록 기부 사이트를 새로 만들었습니다."
+  },
+  "collocations": [
+   "work for a nonprofit",
+   "nonprofit organization",
+   "volunteer at a nonprofit"
+  ],
+  "related": [
+   "profit",
+   "profitable",
+   "profitability",
+   "proficient"
+  ],
+  "tip": "형용사로도 씀: a nonprofit organization. 영국에서는 charity 나 not-for-profit"
+ },
+ {
+  "id": "d26-C18",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "officially",
+  "pos": "adverb",
+  "ipa": "/əˈfɪʃəli/",
+  "meaning_ko": "공식적으로, 정식으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "offic",
+     "type": "root",
+     "gloss": "직무 (officium ← opus 일 + fac)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "officium '직무, 의무'(opus 일 + facere 하다에서 온 말로 봄) → 직무상의 → 공식적으로"
+  },
+  "example": {
+   "q": "We're thrilled you've accepted. Is there anything else you need from us?",
+   "a": "Just one thing: once I officially sign, I'd like to tell my manager in person before anything is announced.",
+   "a_ko": "한 가지만요. 정식으로 서명하고 나면, 무엇이든 발표되기 전에 제 매니저에게 직접 먼저 말하고 싶습니다."
+  },
+  "collocations": [
+   "officially accept",
+   "officially start",
+   "officially announce"
+  ],
+  "related": [
+   "official",
+   "office",
+   "efficient",
+   "sufficient"
+  ],
+  "tip": "구두(verbal) 합의와 대비 — 정식 수락·서명 시점을 말할 때"
+ },
+ {
+  "id": "d26-C19",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "infection",
+  "pos": "noun",
+  "ipa": "/ɪnˈfekʃən/",
+  "meaning_ko": "감염",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "fect",
+     "type": "root",
+     "gloss": "만들다·넣다 (fac)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "inficere '안에 넣다, 물들이다, 더럽히다'(in + facere) → 감염"
+  },
+  "example": {
+   "q": "Have you ever dealt with a security incident?",
+   "a": "Yes, a malware infection on a build server. We isolated it, rotated every credential it could reach, and rebuilt it from a clean image.",
+   "a_ko": "네, 빌드 서버의 악성코드 감염이었습니다. 서버를 격리하고 접근 가능했던 모든 자격 증명을 교체한 뒤 깨끗한 이미지로 다시 구축했습니다."
+  },
+  "collocations": [
+   "malware infection",
+   "spread of infection",
+   "infection vector"
+  ],
+  "related": [
+   "infect",
+   "effect",
+   "defect",
+   "affect"
+  ],
+  "tip": "보안 사고 답변은 격리(isolate) → 교체(rotate) → 재구축(rebuild) 순서로 말하면 깔끔함"
+ },
+ {
+  "id": "d26-C20",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "feature-complete",
+  "pos": "adjective",
+  "ipa": "/ˈfiːtʃər kəmˌpliːt/",
+  "meaning_ko": "기능이 모두 구현된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feat",
+     "type": "root",
+     "gloss": "만든 것 (factura ← fac)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~한 것"
+    },
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "plete",
+     "type": "root",
+     "gloss": "채우다 (plere)"
+    }
+   ],
+   "story": "factura '만든 것' → feature 특징·기능 + complete '가득 채운' → 계획한 기능을 다 채운"
+  },
+  "example": {
+   "q": "How do you decide when a release is ready?",
+   "a": "Being feature-complete isn't enough for me; we also need the load tests passing and a rollback plan before we ship.",
+   "a_ko": "기능이 다 구현됐다고 충분하지 않습니다. 부하 테스트 통과와 롤백 계획까지 갖춰야 출시합니다."
+  },
+  "collocations": [
+   "feature-complete build",
+   "reach feature-complete",
+   "feature-complete by"
+  ],
+  "related": [
+   "feature",
+   "complete",
+   "completion",
+   "feature flag"
+  ],
+  "tip": "code freeze 직전 단계를 말할 때 씀"
+ },
+ {
+  "id": "d26-C21",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "facilitation",
+  "pos": "noun",
+  "ipa": "/fəˌsɪlɪˈteɪʃən/",
+  "meaning_ko": "(회의·워크숍) 진행, 원활하게 함",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "facil",
+     "type": "root",
+     "gloss": "쉬운 (facilis ← fac 하다)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~하게 하다 (-itare)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "facilis '하기 쉬운' → facilitate '쉽게 하다' → 일이 잘 흘러가게 함 → 회의 진행"
+  },
+  "example": {
+   "q": "This role involves a lot of cross-team planning meetings.",
+   "a": "That plays to my strengths. My facilitation of quarterly planning across four teams cut the meeting from two days to one, with clearer owners for every goal.",
+   "a_ko": "제 강점과 맞습니다. 네 팀이 함께하는 분기 계획 회의를 진행하면서 이틀짜리 회의를 하루로 줄였고, 목표마다 담당자가 더 분명해졌습니다."
+  },
+  "collocations": [
+   "meeting facilitation",
+   "workshop facilitation",
+   "facilitation skills"
+  ],
+  "related": [
+   "facilitate",
+   "facilitator",
+   "facilities",
+   "difficult"
+  ],
+  "tip": "facilitate(Day 6) → facilitator(Day 16) → facilitation: 회의 '진행 능력'을 말할 때"
+ },
+ {
+  "id": "d26-C22",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "ramification",
+  "pos": "noun",
+  "ipa": "/ˌræmɪfɪˈkeɪʃən/",
+  "meaning_ko": "(뻗어 나가는) 파급 결과, 영향",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rami",
+     "type": "part",
+     "gloss": "가지 (ramus)"
+    },
+    {
+     "text": "fic",
+     "type": "root",
+     "gloss": "만들다 (fac)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "중세 라틴어 ramificare '가지를 만들다'(ramus + facere) → 가지처럼 뻗어 나감 → 여러 갈래의 파급 결과"
+  },
+  "example": {
+   "q": "Do you have any questions about the non-compete clause?",
+   "a": "Yes, I'd like to understand its ramifications, for instance whether joining a small startup in a related field next year would be restricted.",
+   "a_ko": "네, 그 조항이 어떤 영향을 미치는지 알고 싶습니다. 예를 들어 내년에 관련 분야의 작은 스타트업으로 옮기는 것도 제한되는지요."
+  },
+  "collocations": [
+   "legal ramifications",
+   "financial ramifications",
+   "consider the ramifications"
+  ],
+  "related": [
+   "significance",
+   "justification",
+   "modify",
+   "verify"
+  ],
+  "tip": "주로 복수 ramifications. consequences 보다 '여러 갈래로 퍼지는 영향'의 느낌"
+ },
+ {
+  "id": "d26-C23",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "fabricate",
+  "pos": "verb",
+  "ipa": "/ˈfæbrɪkeɪt/",
+  "meaning_ko": "지어내다, 조작하다; 제작하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fabric",
+     "type": "root",
+     "gloss": "만들다 (faber 장인, fabrica 작업장)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "faber '장인, 만드는 사람' → fabricari '만들다' → 만들어 내다 → (없는 것을) 지어내다"
+  },
+  "example": {
+   "q": "Tell me about a time you faced pressure to make results look better.",
+   "a": "A stakeholder wanted us to report higher adoption, but I refused to fabricate numbers. Instead, I presented the real data with a plan to improve it.",
+   "a_ko": "한 이해관계자가 도입률을 높게 보고하길 원했지만 숫자를 지어내는 것은 거절했습니다. 대신 실제 데이터와 개선 계획을 함께 보고했습니다."
+  },
+  "collocations": [
+   "fabricate data",
+   "fabricate results",
+   "fabricated evidence"
+  ],
+  "related": [
+   "fabric",
+   "factory",
+   "manufacturing",
+   "artifact"
+  ],
+  "tip": "윤리(integrity) 질문에서 'refuse to fabricate' 로 원칙을 보여 줄 때. 제조 분야에서는 '제작하다'"
+ },
+ {
+  "id": "d26-C24",
+  "day": 26,
+  "level": 2,
+  "set": "C",
+  "family": "F6",
+  "word": "stretch goal",
+  "pos": "noun",
+  "ipa": "/ˈstretʃ ˌɡoʊl/",
+  "meaning_ko": "도전 목표 (조금 무리해야 닿는 목표)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stretch",
+     "type": "part",
+     "gloss": "뻗다, 늘이다 (영어 고유어)"
+    },
+    {
+     "text": "goal",
+     "type": "part",
+     "gloss": "목표"
+    }
+   ],
+   "story": "몸을 쭉 뻗어야 닿는 + 목표 → 도전적인 목표"
+  },
+  "example": {
+   "q": "How do you set goals for yourself?",
+   "a": "I set one realistic goal and one stretch goal each quarter, like cutting our build time in half.",
+   "a_ko": "분기마다 현실적인 목표 하나와 도전 목표 하나를 정합니다. 예를 들면 빌드 시간을 절반으로 줄이는 것 같은 목표요."
+  },
+  "collocations": [
+   "set a stretch goal",
+   "hit a stretch goal",
+   "stretch assignment"
+  ],
+  "related": [
+   "fast track",
+   "level up",
+   "growth mindset",
+   "outgrow"
+  ],
+  "tip": "다 못 이뤄도 괜찮은 목표라는 뉘앙스 — OKR 이야기와 잘 어울림"
+ },
+ {
+  "id": "d26-C25",
+  "day": 26,
+  "level": 3,
+  "set": "C",
+  "family": "F6",
+  "word": "growth mindset",
+  "pos": "noun",
+  "ipa": "/ˌɡroʊθ ˈmaɪndset/",
+  "meaning_ko": "성장형 사고방식",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "grow",
+     "type": "part",
+     "gloss": "자라다"
+    },
+    {
+     "text": "th",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "mind",
+     "type": "part",
+     "gloss": "마음"
+    },
+    {
+     "text": "set",
+     "type": "part",
+     "gloss": "틀, 굳힌 것"
+    }
+   ],
+   "story": "성장 + 마음의 틀 → 능력은 노력으로 자란다고 보는 사고방식 (심리학자 Carol Dweck 의 용어)"
+  },
+  "example": {
+   "q": "Tell me about a time you received tough feedback.",
+   "a": "When my lead said my design docs were too long, I approached it with a growth mindset, studied strong examples, and cut them to two pages.",
+   "a_ko": "리드가 제 설계 문서가 너무 길다고 했을 때, 성장형 사고방식으로 받아들여 좋은 예시를 연구하고 문서를 두 페이지로 줄였습니다."
+  },
+  "collocations": [
+   "have a growth mindset",
+   "a growth mindset culture",
+   "fixed vs. growth mindset"
+  ],
+  "related": [
+   "growth path",
+   "stretch goal",
+   "level up",
+   "outgrow"
+  ],
+  "tip": "반대는 fixed mindset. 말로만 하지 말고 구체적인 행동을 붙여야 설득력 있음"
+ }
+]

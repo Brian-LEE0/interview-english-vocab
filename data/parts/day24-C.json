@@ -1,0 +1,1199 @@
+[
+ {
+  "id": "d24-C01",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "verbal offer",
+  "pos": "noun",
+  "ipa": "/ˌvɜːrbəl ˈɔːfər/",
+  "meaning_ko": "구두 오퍼",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "verbal",
+     "type": "part",
+     "gloss": "말로 하는"
+    },
+    {
+     "text": "of",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ob)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "상대 쪽으로 날라 내민 제안(offer) + 말로 하는 → 서면 전에 말로 전하는 오퍼"
+  },
+  "example": {
+   "q": "We're happy to extend a verbal offer today.",
+   "a": "Thank you for the verbal offer, I'm thrilled. Could you also send it in writing, so I can review the details with my family?",
+   "a_ko": "구두로 제안해 주셔서 감사합니다, 정말 기쁩니다. 가족과 세부 내용을 검토할 수 있도록 서면으로도 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "extend a verbal offer",
+   "accept a verbal offer"
+  ],
+  "related": [
+   "offer",
+   "proffer",
+   "transfer",
+   "refer"
+  ],
+  "tip": "구두 오퍼 뒤에는 꼭 서면(written offer)을 요청. 바로 수락하기보다 감사 + 검토 시간 요청"
+ },
+ {
+  "id": "d24-C02",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "knowledge transfer",
+  "pos": "noun",
+  "ipa": "/ˈnɑːlɪdʒ ˌtrænsfɜːr/",
+  "meaning_ko": "지식 이전, 인수인계",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "knowledge",
+     "type": "part",
+     "gloss": "지식"
+    },
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "건너편으로 날라 옮기다(transfer) → 지식을 다른 사람에게 넘김 → 인수인계"
+  },
+  "example": {
+   "q": "How would you hand off your current work if you join us?",
+   "a": "I'd run a two-week knowledge transfer with recorded walkthroughs and an updated runbook for my successor.",
+   "a_ko": "녹화한 설명 자료와 최신 런북을 준비해서 후임자에게 2주 동안 인수인계를 하겠습니다."
+  },
+  "collocations": [
+   "knowledge transfer session",
+   "do a knowledge transfer"
+  ],
+  "related": [
+   "transfer",
+   "refer",
+   "confer",
+   "offer"
+  ],
+  "tip": "줄여서 KT. 퇴사·이동 때 인수인계 계획을 말할 때"
+ },
+ {
+  "id": "d24-C03",
+  "day": 24,
+  "level": 1,
+  "set": "C",
+  "family": "F4",
+  "word": "conference room",
+  "pos": "noun",
+  "ipa": "/ˈkɑːnfərəns ˌruːm/",
+  "meaning_ko": "회의실",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "room",
+     "type": "part",
+     "gloss": "방"
+    }
+   ],
+   "story": "함께 날라 모으다(conferre) → 의견을 모아 의논함 → 회의 + 방 → 회의실"
+  },
+  "example": {
+   "q": "Where should we meet for the contract review?",
+   "a": "Let's book the small conference room on the third floor at two.",
+   "a_ko": "3층 작은 회의실을 2시로 예약하겠습니다."
+  },
+  "collocations": [
+   "book a conference room",
+   "in the conference room"
+  ],
+  "related": [
+   "conference",
+   "confer",
+   "refer",
+   "transfer"
+  ],
+  "tip": "meeting room 과 거의 같은 뜻. book / reserve 와 짝으로 씀"
+ },
+ {
+  "id": "d24-C04",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "preferential",
+  "pos": "adjective",
+  "ipa": "/ˌprefəˈrenʃəl/",
+  "meaning_ko": "우대하는, 특혜의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~에 관한"
+    }
+   ],
+   "story": "앞에 날라 놓다(praeferre) → 더 좋아하다(prefer) → 우대하는"
+  },
+  "example": {
+   "q": "Employees can buy company shares through our purchase plan.",
+   "a": "That's attractive. Do employees get a preferential price, like a fifteen percent discount, and is there a minimum holding period?",
+   "a_ko": "매력적이네요. 직원에게 15% 할인 같은 우대 가격이 적용되나요? 최소 보유 기간도 있나요?"
+  },
+  "collocations": [
+   "preferential rate",
+   "preferential pricing",
+   "preferential treatment"
+  ],
+  "related": [
+   "prefer",
+   "preference",
+   "differential",
+   "refer"
+  ],
+  "tip": "preferential treatment(특혜) 는 부정적으로 들릴 수 있음. 가격·조건에 쓰면 중립"
+ },
+ {
+  "id": "d24-C05",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "vociferous",
+  "pos": "adjective",
+  "ipa": "/voʊˈsɪfərəs/",
+  "meaning_ko": "목소리 높여 주장하는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "voci",
+     "type": "root",
+     "gloss": "목소리 (vox)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "목소리를 실어 나르다(vociferari 외치다) → 큰 소리로 주장하는"
+  },
+  "example": {
+   "q": "How do you handle a stakeholder who strongly opposes your plan?",
+   "a": "One product lead was a vociferous critic of our migration, so I met him one-on-one, listened first, and adjusted the rollout to protect his launch.",
+   "a_ko": "한 프로덕트 리드가 저희 마이그레이션을 강하게 반대해서, 따로 만나 먼저 이야기를 듣고 그분의 출시에 지장이 없도록 배포 일정을 조정했습니다."
+  },
+  "collocations": [
+   "vociferous critic",
+   "vociferous opposition"
+  ],
+  "related": [
+   "offer",
+   "refer",
+   "proffer",
+   "fertile"
+  ],
+  "tip": "critic, opponent, supporter 와 짝. 감정 섞지 않고 사실만 묘사할 때 좋음"
+ },
+ {
+  "id": "d24-C06",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "fertility benefits",
+  "pos": "noun",
+  "ipa": "/fərˈtɪləti ˌbenɪfɪts/",
+  "meaning_ko": "난임·출산 지원 복지",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "fert",
+     "type": "root",
+     "gloss": "나르다, 열매를 맺다 (ferre)"
+    },
+    {
+     "text": "il",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (-ile)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "성질"
+    },
+    {
+     "text": "benefits",
+     "type": "part",
+     "gloss": "복리후생"
+    }
+   ],
+   "story": "열매를 맺어 나를 수 있는(fertilis) → 생식 능력 → 난임 치료 등을 지원하는 복지"
+  },
+  "example": {
+   "q": "Our benefits package also includes family-planning support.",
+   "a": "That's important to us. Could you share what the fertility benefits cover and whether there's a lifetime cap?",
+   "a_ko": "저희 가족에게 중요한 부분입니다. 난임 지원 복지가 무엇을 보장하는지, 평생 한도가 있는지 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "fertility benefits coverage",
+   "offer fertility benefits"
+  ],
+  "related": [
+   "fertile",
+   "offer",
+   "refer",
+   "transfer"
+  ],
+  "tip": "미국 테크 기업의 복지 항목. 사적인 주제라 '가족에게 중요하다' 정도로만 말해도 충분"
+ },
+ {
+  "id": "d24-C07",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "commission",
+  "pos": "noun",
+  "ipa": "/kəˈmɪʃən/",
+  "meaning_ko": "수수료, 성과급 (커미션)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께, 완전히"
+    },
+    {
+     "text": "miss",
+     "type": "root",
+     "gloss": "보낸 (missus ← mittere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "완전히 보내 맡기다(committere) → 맡긴 일 → 맡긴 일에 대한 보수 → 수수료"
+  },
+  "example": {
+   "q": "This solutions engineer role includes a variable component.",
+   "a": "Could you explain how the commission is calculated, and what portion of the team usually hits target?",
+   "a_ko": "커미션이 어떻게 계산되는지, 그리고 팀에서 보통 몇 퍼센트가 목표를 달성하는지 설명해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "earn a commission",
+   "commission structure",
+   "on commission"
+  ],
+  "related": [
+   "commit",
+   "mission",
+   "submit",
+   "permit"
+  ],
+  "tip": "영업·솔루션 엔지니어 오퍼에서 자주 나옴. OTE(on-target earnings) 와 함께 확인"
+ },
+ {
+  "id": "d24-C08",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "missive",
+  "pos": "noun",
+  "ipa": "/ˈmɪsɪv/",
+  "meaning_ko": "(긴) 서신, 장문의 메시지",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "miss",
+     "type": "root",
+     "gloss": "보낸 (missus ← mittere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "보낸 것(missivus) → 보낸 편지 → 길고 격식 있는 서신"
+  },
+  "example": {
+   "q": "Should we email the whole team about the deadline change?",
+   "a": "Rather than sending a long missive, I'd post a short summary and hold a fifteen-minute call for questions.",
+   "a_ko": "긴 메일을 보내기보다는 짧은 요약을 올리고, 질문을 받는 15분짜리 통화를 하겠습니다."
+  },
+  "collocations": [
+   "a lengthy missive",
+   "send a missive"
+  ],
+  "related": [
+   "message",
+   "mission",
+   "commission",
+   "submit"
+  ],
+  "tip": "약간 농담조로 '긴 메일'을 가리킬 때 씀. 내 메일을 missive 라고 부르면 겸손한 느낌"
+ },
+ {
+  "id": "d24-C09",
+  "day": 24,
+  "level": 1,
+  "set": "C",
+  "family": "F4",
+  "word": "pet project",
+  "pos": "noun",
+  "ipa": "/ˌpet ˈprɑːdʒekt/",
+  "meaning_ko": "애착 프로젝트 (특히 아끼는 일)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pet",
+     "type": "part",
+     "gloss": "아끼는 (애완)"
+    },
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    }
+   ],
+   "story": "앞으로 던지다(proicere) → 계획 → 내가 특히 아끼는 계획"
+  },
+  "example": {
+   "q": "What do you do outside of work?",
+   "a": "My pet project is a small app that tracks bus delays.",
+   "a_ko": "제 애착 프로젝트는 버스 지연을 추적하는 작은 앱입니다."
+  },
+  "collocations": [
+   "my pet project",
+   "a pet project of"
+  ],
+  "related": [
+   "project",
+   "projected",
+   "subject",
+   "object"
+  ],
+  "tip": "side project 와 비슷하지만 애착이 더 강함. 윗사람의 pet project 는 '직접 밀어주는 사업'"
+ },
+ {
+  "id": "d24-C10",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "projected",
+  "pos": "adjective",
+  "ipa": "/prəˈdʒektɪd/",
+  "meaning_ko": "예상되는, 추정된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "앞으로 던지다 → 앞을 내다보고 던져 본 값 → 예상되는"
+  },
+  "example": {
+   "q": "How did you size the new cluster?",
+   "a": "I sized it for projected traffic over eighteen months, plus a thirty percent buffer for seasonal spikes.",
+   "a_ko": "18개월 동안의 예상 트래픽에, 계절별 급증에 대비한 30% 여유분을 더해 산정했습니다."
+  },
+  "collocations": [
+   "projected growth",
+   "projected traffic",
+   "projected revenue"
+  ],
+  "related": [
+   "project",
+   "projection",
+   "inject",
+   "subject"
+  ],
+  "tip": "오퍼에서는 projected bonus(예상 보너스) 처럼 '확정이 아님'을 뜻함"
+ },
+ {
+  "id": "d24-C11",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "conjecture",
+  "pos": "noun",
+  "ipa": "/kənˈdʒektʃər/",
+  "meaning_ko": "추측",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "함께 던져 맞춰 보다(conicere) → 단서를 모아 짐작함 → 추측"
+  },
+  "example": {
+   "q": "What was the root cause of that intermittent failure?",
+   "a": "My first conjecture was a race condition, but I didn't act on it until thread dumps confirmed two workers were updating the same row.",
+   "a_ko": "처음에는 경쟁 상태라고 추측했지만, 스레드 덤프로 두 워커가 같은 행을 갱신하는 걸 확인하기 전까지는 조치하지 않았습니다."
+  },
+  "collocations": [
+   "pure conjecture",
+   "based on conjecture"
+  ],
+  "related": [
+   "project",
+   "reject",
+   "subject",
+   "interject"
+  ],
+  "tip": "근거가 부족한 '추측'임을 인정하는 뉘앙스. 가설 → 검증 순서를 보여 주는 답변에 좋음"
+ },
+ {
+  "id": "d24-C12",
+  "day": 24,
+  "level": 1,
+  "set": "C",
+  "family": "F4",
+  "word": "previous employer",
+  "pos": "noun",
+  "ipa": "/ˈpriːviəs ɪmˈplɔɪər/",
+  "meaning_ko": "전 직장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "vi",
+     "type": "root",
+     "gloss": "길 (via)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "employer",
+     "type": "part",
+     "gloss": "고용주"
+    }
+   ],
+   "story": "앞서 길을 간(praevius) → 이전의 + 고용주 → 전 직장"
+  },
+  "example": {
+   "q": "Can we contact your references?",
+   "a": "Yes, my manager at my previous employer is happy to talk with you.",
+   "a_ko": "네, 전 직장 매니저님이 기꺼이 통화해 주시기로 했습니다."
+  },
+  "collocations": [
+   "at my previous employer",
+   "previous employer reference"
+  ],
+  "related": [
+   "previous",
+   "obvious",
+   "obviate",
+   "via"
+  ],
+  "tip": "지금 직장은 current employer. 전 직장 험담은 피하는 게 기본"
+ },
+ {
+  "id": "d24-C13",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "obviate",
+  "pos": "verb",
+  "ipa": "/ˈɑːbvieɪt/",
+  "meaning_ko": "(필요를) 없애다, 미리 막다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "맞서, 앞에"
+    },
+    {
+     "text": "vi",
+     "type": "root",
+     "gloss": "길 (via)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "길에서 마주쳐 막아서다(obviare) → 미리 막다 → 필요를 없애다"
+  },
+  "example": {
+   "q": "Why did you choose event sourcing for that service?",
+   "a": "Keeping a full event log obviated the need for a separate audit table, which removed a whole class of sync bugs.",
+   "a_ko": "전체 이벤트 로그를 남기니 별도 감사 테이블이 필요 없어졌고, 동기화 버그 한 부류가 통째로 사라졌습니다."
+  },
+  "collocations": [
+   "obviate the need for",
+   "obviate a problem"
+  ],
+  "related": [
+   "obvious",
+   "previous",
+   "via",
+   "deviate"
+  ],
+  "tip": "거의 'obviate the need for ~' 로 씀. remove the need 의 격식 있는 말"
+ },
+ {
+  "id": "d24-C14",
+  "day": 24,
+  "level": 1,
+  "set": "C",
+  "family": "F4",
+  "word": "open to suggestions",
+  "pos": "phrase",
+  "ipa": "/ˌoʊpən tə səɡˈdʒestʃənz/",
+  "meaning_ko": "제안을 환영하는, 의견에 열려 있는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "open",
+     "type": "part",
+     "gloss": "열린"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~에"
+    },
+    {
+     "text": "sug",
+     "type": "prefix",
+     "gloss": "아래 (sub)"
+    },
+    {
+     "text": "gest",
+     "type": "root",
+     "gloss": "나르다 (gerere)"
+    },
+    {
+     "text": "ions",
+     "type": "suffix",
+     "gloss": "~것들"
+    }
+   ],
+   "story": "아래에서 날라 올리다(suggerere) → 넌지시 내놓다 → 제안 → 제안에 열려 있는"
+  },
+  "example": {
+   "q": "We're still shaping the onboarding plan for your role.",
+   "a": "That's great, and I'm open to suggestions on what to learn first.",
+   "a_ko": "좋습니다. 무엇부터 배우면 좋을지 제안해 주시면 환영입니다."
+  },
+  "collocations": [
+   "I'm open to suggestions",
+   "open to suggestions on"
+  ],
+  "related": [
+   "suggest",
+   "digest",
+   "register",
+   "gesture"
+  ],
+  "tip": "협상에서 '다른 방안도 괜찮다'고 여지를 줄 때도 씀"
+ },
+ {
+  "id": "d24-C15",
+  "day": 24,
+  "level": 1,
+  "set": "C",
+  "family": "F4",
+  "word": "problem-solving",
+  "pos": "noun",
+  "ipa": "/ˈprɑːbləm ˌsɑːlvɪŋ/",
+  "meaning_ko": "문제 해결",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "blem",
+     "type": "root",
+     "gloss": "던지다 (ballein)"
+    },
+    {
+     "text": "solving",
+     "type": "part",
+     "gloss": "풀기"
+    }
+   ],
+   "story": "앞에 던져진 것(problema) → 문제 + 풀기 → 문제 해결"
+  },
+  "example": {
+   "q": "What's your biggest strength?",
+   "a": "My biggest strength is structured problem-solving under pressure.",
+   "a_ko": "제 가장 큰 강점은 압박 속에서도 체계적으로 문제를 해결하는 것입니다."
+  },
+  "collocations": [
+   "problem-solving skills",
+   "creative problem-solving"
+  ],
+  "related": [
+   "problem",
+   "problem space",
+   "symbol",
+   "emblem"
+  ],
+  "tip": "형용사로도 씀: problem-solving skills. 사례 하나를 꼭 붙이기"
+ },
+ {
+  "id": "d24-C16",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "devil's advocate",
+  "pos": "noun",
+  "ipa": "/ˌdevəlz ˈædvəkət/",
+  "meaning_ko": "일부러 반대 입장을 취하는 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "devil",
+     "type": "root",
+     "gloss": "악마 (diabolos ← dia 가로질러 + ballein 던지다)"
+    },
+    {
+     "text": "s",
+     "type": "part",
+     "gloss": "~의 ('s)"
+    },
+    {
+     "text": "advocate",
+     "type": "part",
+     "gloss": "변호인"
+    }
+   ],
+   "story": "가로질러 던져 헐뜯는 자(악마) + 변호인 → 성인 심사에서 일부러 반대 논거를 대던 사람 → 일부러 반대 입장을 취하는 사람"
+  },
+  "example": {
+   "q": "How do you stress-test a design before committing to it?",
+   "a": "I ask someone to play devil's advocate in the review, because hearing the strongest counterargument early saves rework.",
+   "a_ko": "리뷰에서 누군가에게 일부러 반대 입장을 맡아 달라고 합니다. 가장 강한 반론을 일찍 들으면 재작업이 줄기 때문입니다."
+  },
+  "collocations": [
+   "play devil's advocate",
+   "devil's advocate question"
+  ],
+  "related": [
+   "the devil is in the details",
+   "problem",
+   "symbol",
+   "parable"
+  ],
+  "tip": "'Let me play devil's advocate' 로 반대 의견을 부드럽게 꺼냄"
+ },
+ {
+  "id": "d24-C17",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "irrelevant",
+  "pos": "adjective",
+  "ipa": "/ɪˈreləvənt/",
+  "meaning_ko": "관련 없는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ir",
+     "type": "prefix",
+     "gloss": "~아닌 (in)"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "lev",
+     "type": "root",
+     "gloss": "들어 올리다 (levare)"
+    },
+    {
+     "text": "ant",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "다시 들어 올려 거들다(relevare) → 도움이 되는 → 관련 있는(relevant) + 부정 → 관련 없는"
+  },
+  "example": {
+   "q": "How did you reduce alert fatigue?",
+   "a": "I removed alerts that were irrelevant to user impact, which cut pages by about half.",
+   "a_ko": "사용자 영향과 관련 없는 알림을 없애서 호출 건수를 절반 정도 줄였습니다."
+  },
+  "collocations": [
+   "irrelevant to",
+   "largely irrelevant"
+  ],
+  "related": [
+   "relevant",
+   "elevate",
+   "relieve",
+   "leverage"
+  ],
+  "tip": "반대말 relevant. 강세는 ir-REL-e-vant"
+ },
+ {
+  "id": "d24-C18",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "elevate",
+  "pos": "verb",
+  "ipa": "/ˈelɪveɪt/",
+  "meaning_ko": "높이다, (권한을) 올리다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "e",
+     "type": "prefix",
+     "gloss": "밖으로, 위로 (ex)"
+    },
+    {
+     "text": "lev",
+     "type": "root",
+     "gloss": "들어 올리다 (levare)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "위로 들어 올리다 → 높이다 → (권한·수준을) 올리다"
+  },
+  "example": {
+   "q": "How do you handle admin access in production?",
+   "a": "Engineers elevate their permissions only through a time-limited request, and every session is logged for audit.",
+   "a_ko": "엔지니어는 시간 제한이 있는 요청을 통해서만 권한을 올리고, 모든 세션은 감사용으로 기록됩니다."
+  },
+  "collocations": [
+   "elevate privileges",
+   "elevated access",
+   "elevate the conversation"
+  ],
+  "related": [
+   "elevator pitch",
+   "relevant",
+   "relieve",
+   "lever"
+  ],
+  "tip": "보안에서는 '권한 상승', 일반적으로는 '수준을 끌어올리다'(elevate the team)"
+ },
+ {
+  "id": "d24-C19",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "levy",
+  "pos": "verb",
+  "ipa": "/ˈlevi/",
+  "meaning_ko": "(세금 등을) 부과하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lev",
+     "type": "root",
+     "gloss": "들어 올리다 (OF lever ← levare)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~한 것 (levée)"
+    }
+   ],
+   "story": "들어 올리다(lever) → 세금을 걷어 올리다 → 부과하다"
+  },
+  "example": {
+   "q": "Our relocation package is paid as a taxable allowance.",
+   "a": "Understood. Since the local tax office will levy income tax on it, could you gross it up so the net amount covers my actual moving costs?",
+   "a_ko": "알겠습니다. 현지 세무서가 소득세를 부과할 테니, 실수령액이 실제 이사 비용을 충당하도록 세금분까지 얹어 주실 수 있을까요?"
+  },
+  "collocations": [
+   "levy a tax",
+   "levy a fee",
+   "impose a levy"
+  ],
+  "related": [
+   "lever",
+   "leverage",
+   "elevate",
+   "relieve"
+  ],
+  "tip": "세금·수수료를 부과할 때. gross up(세금분까지 얹어 주기) 과 함께 쓰면 좋음"
+ },
+ {
+  "id": "d24-C20",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "levity",
+  "pos": "noun",
+  "ipa": "/ˈlevəti/",
+  "meaning_ko": "가벼운 유머, 경박함",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lev",
+     "type": "root",
+     "gloss": "가벼운 (levis)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "성질"
+    }
+   ],
+   "story": "가벼운 성질(levitas) → 분위기를 가볍게 하는 유머"
+  },
+  "example": {
+   "q": "How do you keep a team calm during a long incident?",
+   "a": "I stay focused on facts, but a little levity at the right moment helps the team stay sharp through a long night.",
+   "a_ko": "사실에 집중하되, 적절한 순간의 가벼운 유머가 긴 밤 동안 팀이 집중력을 유지하는 데 도움이 됩니다."
+  },
+  "collocations": [
+   "a moment of levity",
+   "a touch of levity"
+  ],
+  "related": [
+   "relieve",
+   "alleviate",
+   "elevate",
+   "lever"
+  ],
+  "tip": "보통 '가벼운 유머'로 긍정적. 진지해야 할 때의 levity 는 '경솔함'"
+ },
+ {
+  "id": "d24-C21",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "career break",
+  "pos": "noun",
+  "ipa": "/kəˈrɪr ˌbreɪk/",
+  "meaning_ko": "경력 공백, 휴직기",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "career",
+     "type": "root",
+     "gloss": "길 (F carrière ← carraria 수레 길, carrus)"
+    },
+    {
+     "text": "break",
+     "type": "part",
+     "gloss": "쉼"
+    }
+   ],
+   "story": "수레가 다니는 길(carraria) → 달리는 코스 → 직업 경로 + 쉼 → 경력 공백"
+  },
+  "example": {
+   "q": "I see a gap in your résumé last year.",
+   "a": "I took a planned career break to care for my father, and I kept my skills current with an open-source project.",
+   "a_ko": "아버지를 돌보기 위해 계획적으로 경력을 쉬었고, 그동안 오픈소스 프로젝트로 실력을 유지했습니다."
+  },
+  "collocations": [
+   "take a career break",
+   "return from a career break"
+  ],
+  "related": [
+   "carry",
+   "charge",
+   "cargo",
+   "carry over"
+  ],
+  "tip": "gap 보다 계획된 느낌. 그 기간에 한 일을 짧게 덧붙이기"
+ },
+ {
+  "id": "d24-C22",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "discharge",
+  "pos": "verb",
+  "ipa": "/dɪsˈtʃɑːrdʒ/",
+  "meaning_ko": "(의무를) 다하다, 이행하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떼어 내다, 반대로"
+    },
+    {
+     "text": "charge",
+     "type": "root",
+     "gloss": "짐을 싣다 (OF chargier ← carricare)"
+    }
+   ],
+   "story": "실은 짐을 내리다 → 짐(의무)을 덜다 → 의무를 다하다"
+  },
+  "example": {
+   "q": "Our contract requires a ninety-day notice period.",
+   "a": "That works. I want to fully discharge my obligations to my current employer, so a clean handover within the notice period is my priority.",
+   "a_ko": "괜찮습니다. 현 직장에 대한 의무를 끝까지 다하고 싶어서, 예고 기간 안에 깔끔하게 인수인계하는 것을 최우선으로 하겠습니다."
+  },
+  "collocations": [
+   "discharge obligations",
+   "discharge duties"
+  ],
+  "related": [
+   "charge",
+   "recharge",
+   "carry",
+   "cargo"
+  ],
+  "tip": "계약·법률 문맥에서 '이행하다'. 병원·군대에서는 '퇴원·제대'"
+ },
+ {
+  "id": "d24-C23",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "cargo cult",
+  "pos": "noun",
+  "ipa": "/ˈkɑːrɡoʊ ˌkʌlt/",
+  "meaning_ko": "카고 컬트 (이유도 모른 채 겉모양만 따라 하기)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cargo",
+     "type": "root",
+     "gloss": "짐 (스페인어 cargar ← carricare, carrus 수레)"
+    },
+    {
+     "text": "cult",
+     "type": "part",
+     "gloss": "숭배"
+    }
+   ],
+   "story": "짐(화물)을 숭배함 → 화물을 다시 부르려고 활주로를 흉내 내던 섬 신앙 → 이유를 모르고 형식만 따라 함"
+  },
+  "example": {
+   "q": "How do you decide which industry practices to adopt?",
+   "a": "I avoid cargo cult engineering, so before adopting microservices I check whether our team actually has the scaling problem they solve.",
+   "a_ko": "겉모양만 따라 하는 개발은 피합니다. 그래서 마이크로서비스를 도입하기 전에 우리 팀에 그게 해결하는 확장 문제가 실제로 있는지 확인합니다."
+  },
+  "collocations": [
+   "cargo cult programming",
+   "cargo cult engineering"
+  ],
+  "related": [
+   "carry",
+   "charge",
+   "career"
+  ],
+  "tip": "다른 팀 비판으로 들리지 않게 '나도 경계한다'는 식으로 쓰기"
+ },
+ {
+  "id": "d24-C24",
+  "day": 24,
+  "level": 2,
+  "set": "C",
+  "family": "F4",
+  "word": "top up",
+  "pos": "phrasal verb",
+  "ipa": "/ˌtɑːp ˈʌp/",
+  "meaning_ko": "(부족분을) 채워 주다, 보충하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "top",
+     "type": "part",
+     "gloss": "꼭대기"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    }
+   ],
+   "story": "꼭대기까지 위로 채우다 → 부족분을 보충하다"
+  },
+  "example": {
+   "q": "We can't move the base salary any higher.",
+   "a": "I understand. Could you top up the package with a one-time signing bonus instead?",
+   "a_ko": "이해합니다. 대신 일회성 사이닝 보너스로 패키지를 보충해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "top up the offer",
+   "top up with a bonus"
+  ],
+  "related": [
+   "sweeten the deal",
+   "signing bonus",
+   "make-whole"
+  ],
+  "tip": "영국·아시아권에서 많이 씀. 미국에서는 add to / sweeten 도 자주 씀"
+ },
+ {
+  "id": "d24-C25",
+  "day": 24,
+  "level": 3,
+  "set": "C",
+  "family": "F4",
+  "word": "buyout",
+  "pos": "noun",
+  "ipa": "/ˈbaɪaʊt/",
+  "meaning_ko": "(포기하는 보상의) 매입 보전",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "buy",
+     "type": "part",
+     "gloss": "사다"
+    },
+    {
+     "text": "out",
+     "type": "part",
+     "gloss": "밖으로"
+    }
+   ],
+   "story": "사서(buy) 빼내다(out) → 상대 몫을 통째로 사들임 → 이직 때 포기하는 보상을 사 주는 것"
+  },
+  "example": {
+   "q": "Would anything stop you from joining in April?",
+   "a": "My annual bonus pays out in March, so if I leave earlier, I'd ask for a buyout of that bonus to keep the move financially neutral.",
+   "a_ko": "연간 보너스가 3월에 지급되니, 그보다 일찍 옮긴다면 금전적 손해가 없도록 그 보너스를 보전해 주시길 요청드리고 싶습니다."
+  },
+  "collocations": [
+   "bonus buyout",
+   "equity buyout"
+  ],
+  "related": [
+   "make-whole",
+   "clawback",
+   "golden handcuffs"
+  ],
+  "tip": "M&A 에서는 '인수'지만, 채용 협상에서는 '포기하는 보상의 보전'"
+ }
+]

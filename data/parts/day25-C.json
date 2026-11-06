@@ -1,0 +1,1219 @@
+[
+ {
+  "id": "d25-C01",
+  "day": 25,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "habit",
+  "pos": "noun",
+  "ipa": "/ˈhæbɪt/",
+  "meaning_ko": "습관, 버릇",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hab",
+     "type": "root",
+     "gloss": "가지다 (habere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 것 (habitus)"
+    }
+   ],
+   "story": "지니고 있는 상태(habitus) → 몸에 밴 것 → 습관"
+  },
+  "example": {
+   "q": "What's one habit that makes you effective?",
+   "a": "I have a habit of writing a short plan before I touch any code.",
+   "a_ko": "코드를 건드리기 전에 짧은 계획을 적는 습관이 있습니다."
+  },
+  "collocations": [
+   "make it a habit to",
+   "a good habit",
+   "break a habit"
+  ],
+  "related": [
+   "habitual",
+   "inhibit",
+   "exhibit",
+   "ability"
+  ],
+  "tip": "강점 질문에 '습관 + 구체적 행동'으로 답하면 신뢰감이 생김"
+ },
+ {
+  "id": "d25-C02",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "habitual",
+  "pos": "adjective",
+  "ipa": "/həˈbɪtʃuəl/",
+  "meaning_ko": "습관적인, 늘 하는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hab",
+     "type": "root",
+     "gloss": "가지다 (habere)"
+    },
+    {
+     "text": "itu",
+     "type": "suffix",
+     "gloss": "상태 (habitus)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "몸에 밴 상태(habitus)의 → 늘 하는, 습관적인"
+  },
+  "example": {
+   "q": "How do you keep your skills current?",
+   "a": "Reading postmortems from other companies has become a habitual part of my Friday afternoons, and it shapes how I design for failure.",
+   "a_ko": "다른 회사의 포스트모템을 읽는 것이 금요일 오후의 습관이 되었고, 그 덕분에 장애를 고려한 설계를 하게 됩니다."
+  },
+  "collocations": [
+   "habitual practice",
+   "a habitual part of",
+   "habitual behavior"
+  ],
+  "related": [
+   "habit",
+   "inhibit",
+   "prohibitively",
+   "ability"
+  ],
+  "tip": "habit 의 형용사. 부정적으로는 habitual latecomer(상습 지각자)처럼도 씀"
+ },
+ {
+  "id": "d25-C03",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "inhibit",
+  "pos": "verb",
+  "ipa": "/ɪnˈhɪbɪt/",
+  "meaning_ko": "억제하다, 위축시키다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다, 가지다 (habere)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "~된 (inhibitus)"
+    }
+   ],
+   "story": "안쪽에 붙잡아 두다(inhibere) → 못 나오게 막다 → 억제하다, 위축시키다"
+  },
+  "example": {
+   "q": "What did you change after taking over the team?",
+   "a": "I noticed that approving every design myself was inhibiting junior engineers from speaking up, so I moved reviews to a rotating panel.",
+   "a_ko": "모든 설계를 제가 직접 승인하는 방식이 주니어 엔지니어들의 발언을 위축시키고 있다는 걸 깨닫고, 리뷰를 순번제 패널로 바꿨습니다."
+  },
+  "collocations": [
+   "inhibit growth",
+   "inhibit someone from -ing",
+   "inhibit innovation"
+  ],
+  "related": [
+   "uninhibited",
+   "habit",
+   "prohibitively",
+   "exhibit"
+  ],
+  "tip": "inhibit A from -ing = A가 ~하지 못하게 막다. prohibit(금지)보다 '심리적으로 억누르다'"
+ },
+ {
+  "id": "d25-C04",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "uninhibited",
+  "pos": "adjective",
+  "ipa": "/ˌʌnɪnˈhɪbɪtɪd/",
+  "meaning_ko": "거리낌 없는, 솔직한",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안에"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다, 가지다 (habere)"
+    },
+    {
+     "text": "ited",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "안에 붙잡혀 있지 않은 → 억눌림이 없는 → 거리낌 없는"
+  },
+  "example": {
+   "q": "How do you run design reviews?",
+   "a": "I want the discussion to be uninhibited, so I ask the most junior person to share their view before any senior engineer speaks.",
+   "a_ko": "토론이 거리낌 없이 이뤄지길 바라서, 시니어가 말하기 전에 가장 주니어인 사람에게 먼저 의견을 묻습니다."
+  },
+  "collocations": [
+   "uninhibited discussion",
+   "feel uninhibited",
+   "uninhibited feedback"
+  ],
+  "related": [
+   "inhibit",
+   "habit",
+   "habitual",
+   "prohibitively"
+  ],
+  "tip": "토론·피드백에는 '자유롭고 솔직한'이라는 좋은 뜻. 사람 행동에 쓰면 '제멋대로'로 들릴 수 있음"
+ },
+ {
+  "id": "d25-C05",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "prohibitively",
+  "pos": "adverb",
+  "ipa": "/proʊˈhɪbətɪvli/",
+  "meaning_ko": "엄두를 못 낼 만큼",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞에서"
+    },
+    {
+     "text": "hib",
+     "type": "root",
+     "gloss": "쥐다, 가지다 (habere)"
+    },
+    {
+     "text": "itive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "앞에서 막아 쥐다(prohibere) → 금지할 만큼 → 엄두를 못 낼 만큼 (비싸게)"
+  },
+  "example": {
+   "q": "Would you consider relocating to our Singapore office?",
+   "a": "I'd love to, but housing there is prohibitively expensive on this base, so a relocation allowance or a housing stipend would be essential.",
+   "a_ko": "꼭 가고 싶지만 이 기본급으로는 그곳 주거비가 엄두를 못 낼 만큼 비싸서, 이전 수당이나 주거 지원금이 꼭 필요합니다."
+  },
+  "collocations": [
+   "prohibitively expensive",
+   "prohibitively high",
+   "prohibitively slow"
+  ],
+  "related": [
+   "prohibit",
+   "prohibitive",
+   "inhibit",
+   "habit"
+  ],
+  "tip": "거의 항상 prohibitively expensive / high / costly 로 씀"
+ },
+ {
+  "id": "d25-C06",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "rehabilitate",
+  "pos": "verb",
+  "ipa": "/ˌriəˈbɪləˌteɪt/",
+  "meaning_ko": "(낡은 시스템을) 되살리다, 재정비하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "hab",
+     "type": "root",
+     "gloss": "가지다 (habere)"
+    },
+    {
+     "text": "ilit",
+     "type": "suffix",
+     "gloss": "~할 수 있는 (habilis)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "다시 다룰 수 있게(habilis) 만들다 → 원래 기능을 되찾게 하다 → 되살리다"
+  },
+  "example": {
+   "q": "Have you ever inherited a codebase nobody wanted to touch?",
+   "a": "Yes, I rehabilitated a neglected billing service by adding characterization tests first, then refactoring it module by module over two quarters.",
+   "a_ko": "네, 방치된 결제 서비스를 먼저 특성 테스트로 덮은 뒤 두 분기에 걸쳐 모듈별로 리팩터링해 되살렸습니다."
+  },
+  "collocations": [
+   "rehabilitate a legacy system",
+   "rehabilitate the codebase",
+   "fully rehabilitated"
+  ],
+  "related": [
+   "ability",
+   "inability",
+   "disability",
+   "habit"
+  ],
+  "tip": "원래 '재활시키다'. 레거시를 다시 짜지 않고 점진적으로 살렸다고 말할 때 인상적"
+ },
+ {
+  "id": "d25-C07",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "inability",
+  "pos": "noun",
+  "ipa": "/ˌɪnəˈbɪləti/",
+  "meaning_ko": "~할 수 없음",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "abil",
+     "type": "root",
+     "gloss": "다룰 수 있는 (habilis ← habere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "다룰 수 있는(habilis → able) 상태가 아님 → ~할 수 없음"
+  },
+  "example": {
+   "q": "We were hoping you could start on March 1.",
+   "a": "My inability to start before mid-March is due to a contractual notice period, but I could join the planning offsite remotely.",
+   "a_ko": "3월 중순 전에 입사할 수 없는 건 계약상 퇴사 예고 기간 때문인데, 기획 워크숍에는 원격으로 참여할 수 있습니다."
+  },
+  "collocations": [
+   "inability to",
+   "my inability to start",
+   "inability to relocate"
+  ],
+  "related": [
+   "ability",
+   "able",
+   "disability",
+   "rehabilitate"
+  ],
+  "tip": "can't 를 격식 있게 명사로 말하는 표현. 이유와 대안을 같이 붙일 것"
+ },
+ {
+  "id": "d25-C08",
+  "day": 25,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "disability",
+  "pos": "noun",
+  "ipa": "/ˌdɪsəˈbɪləti/",
+  "meaning_ko": "장애, (보험) 장애 소득 보장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "아니, 떨어져"
+    },
+    {
+     "text": "abil",
+     "type": "root",
+     "gloss": "다룰 수 있는 (habilis ← habere)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "할 수 있는(able) 상태에서 떨어짐 → 장애 → 일을 못 할 때를 위한 보장"
+  },
+  "example": {
+   "q": "Do you have any questions about our insurance coverage?",
+   "a": "Yes, does the plan include long-term disability insurance?",
+   "a_ko": "네, 장기 장애 소득 보장 보험도 포함되나요?"
+  },
+  "collocations": [
+   "disability insurance",
+   "short-term disability",
+   "long-term disability"
+  ],
+  "related": [
+   "ability",
+   "inability",
+   "able",
+   "rehabilitate"
+  ],
+  "tip": "미국 복리후생의 STD / LTD(단기·장기 장애 보험). 일을 못 할 때 급여 일부를 보장"
+ },
+ {
+  "id": "d25-C09",
+  "day": 25,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "debit",
+  "pos": "noun",
+  "ipa": "/ˈdɛbɪt/",
+  "meaning_ko": "차변, 출금 (기록)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "bit",
+     "type": "root",
+     "gloss": "가지다 (habere → debere)"
+    }
+   ],
+   "story": "남에게서 떼어 가지고 있는 것(debitum, 빚진 것) → 출금, 차변"
+  },
+  "example": {
+   "q": "How did you keep the payment ledger consistent?",
+   "a": "Every debit has a matching credit, and a nightly job checks the totals.",
+   "a_ko": "모든 출금(차변)에는 짝이 되는 입금(대변)이 있고, 매일 밤 배치 작업이 합계를 검증합니다."
+  },
+  "collocations": [
+   "debit and credit",
+   "debit card",
+   "direct debit"
+  ],
+  "related": [
+   "debt",
+   "due",
+   "duly",
+   "indebted"
+  ],
+  "tip": "핀테크 면접에서 복식부기(double-entry)를 설명할 때 기본. debt 와 어원이 같음"
+ },
+ {
+  "id": "d25-C10",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "duly",
+  "pos": "adverb",
+  "ipa": "/ˈduli/",
+  "meaning_ko": "정식으로, 마땅히",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "du",
+     "type": "root",
+     "gloss": "빚지다, 마땅한 (debere ← de + habere)"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "마땅히 치러야 할(due) 방식으로 → 정식으로, 적절히"
+  },
+  "example": {
+   "q": "Just a reminder that the background check needs your consent form.",
+   "a": "Duly noted; I signed the consent form this morning and also attached the reference contacts you requested, so you should have everything.",
+   "a_ko": "잘 알겠습니다. 오늘 아침 동의서에 서명했고, 요청하신 추천인 연락처도 첨부했으니 모두 받으셨을 겁니다."
+  },
+  "collocations": [
+   "duly noted",
+   "duly signed",
+   "duly authorized"
+  ],
+  "related": [
+   "due",
+   "in due course",
+   "debit",
+   "duty"
+  ],
+  "tip": "Duly noted 는 '확인했습니다'의 격식체. 단독으로 쓰면 차갑게 들릴 수 있어 한 문장을 덧붙이면 좋음"
+ },
+ {
+  "id": "d25-C11",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "in due course",
+  "pos": "phrase",
+  "ipa": "/ɪn ˌdu ˈkɔrs/",
+  "meaning_ko": "때가 되면, 적절한 시기에",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~에"
+    },
+    {
+     "text": "due",
+     "type": "root",
+     "gloss": "빚진, 마땅한 (debere)"
+    },
+    {
+     "text": "course",
+     "type": "part",
+     "gloss": "흐름"
+    }
+   ],
+   "story": "마땅한(due) 흐름 속에서 → 적절한 때가 되면"
+  },
+  "example": {
+   "q": "We'll share details on the equity refresh program later in the process.",
+   "a": "That works for me. I understand the details will come in due course, but could you share the general eligibility rules now?",
+   "a_ko": "괜찮습니다. 세부 사항은 때가 되면 주실 것으로 이해하는데, 대략적인 자격 기준만 지금 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "in due course",
+   "will follow in due course",
+   "be informed in due course"
+  ],
+  "related": [
+   "due",
+   "duly",
+   "debit",
+   "duty"
+  ],
+  "tip": "메일의 '추후 안내드리겠습니다'(You will be informed in due course) 단골 표현"
+ },
+ {
+  "id": "d25-C12",
+  "day": 25,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "prompt reply",
+  "pos": "noun",
+  "ipa": "/ˌprɑmpt rɪˈplaɪ/",
+  "meaning_ko": "빠른 답장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pro",
+     "type": "prefix",
+     "gloss": "앞으로"
+    },
+    {
+     "text": "mpt",
+     "type": "root",
+     "gloss": "꺼내다 (emere)"
+    },
+    {
+     "text": "reply",
+     "type": "part",
+     "gloss": "답장"
+    }
+   ],
+   "story": "앞으로 꺼내 둔(promptus) → 곧바로 준비된 → 빠른 답장"
+  },
+  "example": {
+   "q": "Thanks for getting back to us so quickly.",
+   "a": "Thank you for the prompt reply as well; I've attached my signed offer.",
+   "a_ko": "저도 빠른 답장에 감사드립니다. 서명한 오퍼를 첨부했습니다."
+  },
+  "collocations": [
+   "thank you for your prompt reply",
+   "a prompt reply",
+   "prompt response"
+  ],
+  "related": [
+   "prompt",
+   "promptly",
+   "impromptu",
+   "example"
+  ],
+  "tip": "비즈니스 메일 첫 줄 단골. Thanks for the quick reply 보다 격식 있음"
+ },
+ {
+  "id": "d25-C13",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "redeem",
+  "pos": "verb",
+  "ipa": "/rɪˈdim/",
+  "meaning_ko": "(포인트·혜택을) 사용하다, 현금화하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "red",
+     "type": "prefix",
+     "gloss": "다시 (re)"
+    },
+    {
+     "text": "eem",
+     "type": "root",
+     "gloss": "사다, 취하다 (emere)"
+    }
+   ],
+   "story": "다시 사들이다(redimere) → 되찾다 → 포인트·쿠폰을 현금이나 혜택으로 바꾸다"
+  },
+  "example": {
+   "q": "Do you have any questions about the wellness benefit?",
+   "a": "Yes, can I redeem the annual wellness credit for a standing desk, or is it only for gym memberships?",
+   "a_ko": "네, 연간 웰니스 크레딧을 스탠딩 책상 구입에 쓸 수 있나요, 아니면 헬스장 회원권에만 쓸 수 있나요?"
+  },
+  "collocations": [
+   "redeem points",
+   "redeem a voucher",
+   "redeem oneself"
+  ],
+  "related": [
+   "exemption",
+   "prompt reply",
+   "premium",
+   "example"
+  ],
+  "tip": "redeem oneself 는 '(실수 후) 만회하다'. 실패 경험을 말할 때도 쓸 수 있음"
+ },
+ {
+  "id": "d25-C14",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "downsampling",
+  "pos": "noun",
+  "ipa": "/ˈdaʊnˌsæmplɪŋ/",
+  "meaning_ko": "다운샘플링 (데이터를 줄여 뽑기)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    },
+    {
+     "text": "sampl",
+     "type": "root",
+     "gloss": "본보기 (exemplum ← eximere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하기"
+    }
+   ],
+   "story": "꺼내 보인 본보기(exemplum → sample) → 일부만 뽑기 → 빈도·해상도를 낮춰 줄여 뽑기"
+  },
+  "example": {
+   "q": "How did you reduce your metrics storage costs?",
+   "a": "We kept raw metrics for seven days and applied downsampling to five-minute averages after that, which cut storage by 80 percent.",
+   "a_ko": "원본 메트릭은 7일만 보관하고 그 이후는 5분 평균으로 다운샘플링해서 저장 공간을 80% 줄였습니다."
+  },
+  "collocations": [
+   "apply downsampling",
+   "downsampling rate",
+   "downsampling the majority class"
+  ],
+  "related": [
+   "sample",
+   "sampling",
+   "example",
+   "preemption"
+  ],
+  "tip": "ML 에서는 불균형 데이터의 다수 클래스를 줄이는 기법 (반대: upsampling)"
+ },
+ {
+  "id": "d25-C15",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "exemption",
+  "pos": "noun",
+  "ipa": "/ɪɡˈzɛmpʃən/",
+  "meaning_ko": "면제, 예외 인정",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "취하다 (emere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "밖으로 꺼내 빼 주다(eximere) → 의무에서 빼 줌 → 면제"
+  },
+  "example": {
+   "q": "Our IP assignment clause covers everything you build while employed here.",
+   "a": "I'd like to request an exemption for my open-source work, since it's unrelated to your products and predates my employment here.",
+   "a_ko": "제 오픈소스 활동은 귀사 제품과 무관하고 입사 전부터 해 온 것이라, 이에 대한 예외를 요청드리고 싶습니다."
+  },
+  "collocations": [
+   "request an exemption",
+   "tax exemption",
+   "exemption from"
+  ],
+  "related": [
+   "exempt",
+   "redeem",
+   "example",
+   "preemption"
+  ],
+  "tip": "형용사 exempt(Day 15)의 명사형. 계약 조항에서 예외를 요청할 때"
+ },
+ {
+  "id": "d25-C16",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "peremptory",
+  "pos": "adjective",
+  "ipa": "/pəˈrɛmptəri/",
+  "meaning_ko": "단호한, 고압적인 (반론의 여지를 주지 않는)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "취하다 (emere)"
+    },
+    {
+     "text": "ory",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "완전히 빼앗아 없애다(perimere) → 반론을 없애 버리는 → 단호한, 고압적인"
+  },
+  "example": {
+   "q": "How do you push back on a stakeholder without damaging the relationship?",
+   "a": "I avoid a peremptory no; instead I explain the trade-off and offer two options, so the stakeholder still owns the final decision.",
+   "a_ko": "단칼에 거절하는 대신 트레이드오프를 설명하고 두 가지 선택지를 제시해서, 최종 결정은 여전히 이해관계자가 내리게 합니다."
+  },
+  "collocations": [
+   "a peremptory tone",
+   "a peremptory refusal",
+   "peremptory demand"
+  ],
+  "related": [
+   "exemption",
+   "preemption",
+   "redeem",
+   "prompt reply"
+  ],
+  "tip": "강세 /pə-REMP-tə-ri/. 메일 톤이 '고압적'이라고 말할 때 쓰는 격식 있는 단어"
+ },
+ {
+  "id": "d25-C17",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "preemption",
+  "pos": "noun",
+  "ipa": "/priˈɛmpʃən/",
+  "meaning_ko": "선점 (우선순위가 높은 작업이 자원을 먼저 차지함)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "먼저"
+    },
+    {
+     "text": "empt",
+     "type": "root",
+     "gloss": "사다 (emere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "남보다 먼저 사다(prae + emere) → 선매권 → 먼저 차지해 밀어내기, 선점"
+  },
+  "example": {
+   "q": "How do you keep batch jobs from starving critical services on a shared cluster?",
+   "a": "We set priority classes so Kubernetes preemption evicts low-priority batch pods first when the cluster is under pressure, which protects checkout latency.",
+   "a_ko": "우선순위 클래스를 설정해, 클러스터 자원이 부족하면 쿠버네티스 선점 기능이 낮은 우선순위 배치 파드부터 밀어내게 해서 결제 지연 시간을 지켰습니다."
+  },
+  "collocations": [
+   "pod preemption",
+   "preemption policy",
+   "preemptive scheduling"
+  ],
+  "related": [
+   "preempt",
+   "preemptive",
+   "exemption",
+   "sample"
+  ],
+  "tip": "OS·쿠버네티스 스케줄링 용어. 회수될 수 있는 저가 VM 은 preemptible VM"
+ },
+ {
+  "id": "d25-C18",
+  "day": 25,
+  "level": 1,
+  "set": "C",
+  "family": "F5",
+  "word": "time-consuming",
+  "pos": "adjective",
+  "ipa": "/ˈtaɪm kənˌsumɪŋ/",
+  "meaning_ko": "시간이 많이 걸리는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "time",
+     "type": "part",
+     "gloss": "시간"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "sum",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "시간을 완전히 다 가져가 버리는(consumere) → 시간이 많이 드는"
+  },
+  "example": {
+   "q": "Our background check usually takes two weeks.",
+   "a": "I understand it's time-consuming, so I'll send my documents today.",
+   "a_ko": "시간이 오래 걸리는 절차라는 걸 알기에, 서류를 오늘 보내 드리겠습니다."
+  },
+  "collocations": [
+   "time-consuming process",
+   "extremely time-consuming",
+   "less time-consuming"
+  ],
+  "related": [
+   "consume",
+   "consumption",
+   "consumer group",
+   "assumption"
+  ],
+  "tip": "명사 앞, 서술 모두 가능. 하이픈을 꼭 붙임"
+ },
+ {
+  "id": "d25-C19",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "assumption",
+  "pos": "noun",
+  "ipa": "/əˈsʌmpʃən/",
+  "meaning_ko": "가정, 전제",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "as",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "내 쪽으로 취해 받아들임(assumere) → 사실로 받아들인 것 → 가정, 전제"
+  },
+  "example": {
+   "q": "Does the number we discussed work for you?",
+   "a": "It does, based on the assumption that the sign-on bonus is paid in my first paycheck; could you confirm that in writing?",
+   "a_ko": "사이닝 보너스가 첫 급여와 함께 지급된다는 전제에서는 괜찮습니다. 서면으로 확인해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "based on the assumption that",
+   "make an assumption",
+   "challenge an assumption"
+  ],
+  "related": [
+   "assume",
+   "presumption",
+   "unassuming",
+   "consumer group"
+  ],
+  "tip": "협상 막바지에 '내가 이해한 전제'를 확인할 때 좋음. 동사 assume 은 Day 15"
+ },
+ {
+  "id": "d25-C20",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "consumer group",
+  "pos": "noun",
+  "ipa": "/kənˈsumər ˌɡrup/",
+  "meaning_ko": "컨슈머 그룹 (메시지를 나눠 읽는 소비자 묶음)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "sum",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "group",
+     "type": "part",
+     "gloss": "그룹"
+    }
+   ],
+   "story": "다 가져다 쓰는 것(consumer)들의 묶음 → 메시지를 나눠 처리하는 소비자 그룹"
+  },
+  "example": {
+   "q": "How did you scale the event processing?",
+   "a": "We split the topic into 24 partitions and added workers to the consumer group, so throughput scaled almost linearly.",
+   "a_ko": "토픽을 24개 파티션으로 나누고 컨슈머 그룹에 워커를 추가해서, 처리량이 거의 선형으로 늘었습니다."
+  },
+  "collocations": [
+   "consumer group lag",
+   "join a consumer group",
+   "rebalance the consumer group"
+  ],
+  "related": [
+   "consumer",
+   "consume",
+   "time-consuming",
+   "assumption"
+  ],
+  "tip": "Kafka 면접 단골. 한 파티션은 그룹 안에서 한 컨슈머만 읽는다는 점이 핵심"
+ },
+ {
+  "id": "d25-C21",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "presumption",
+  "pos": "noun",
+  "ipa": "/prɪˈzʌmpʃən/",
+  "meaning_ko": "추정, 주제넘은 짐작",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sump",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "미리 취해 버리다(praesumere) → 확인 전에 사실로 여김 → 추정, 주제넘은 짐작"
+  },
+  "example": {
+   "q": "Is there anything else you'd like to raise before we finalize?",
+   "a": "Without any presumption about your budget, I'd like to ask whether there's flexibility in the equity, since the base is already at the top of the band.",
+   "a_ko": "예산을 제 마음대로 짐작하려는 건 아니지만, 기본급이 이미 밴드 최상단이라 지분 쪽에 여지가 있는지 여쭤보고 싶습니다."
+  },
+  "collocations": [
+   "a presumption that",
+   "without presumption",
+   "the presumption of good faith"
+  ],
+  "related": [
+   "presume",
+   "presumptuous",
+   "assumption",
+   "unassuming"
+  ],
+  "tip": "assumption 보다 '근거 없이 미리 단정'하는 뉘앙스. 겸손하게 운을 뗄 때 without any presumption"
+ },
+ {
+  "id": "d25-C22",
+  "day": 25,
+  "level": 3,
+  "set": "C",
+  "family": "F5",
+  "word": "unassuming",
+  "pos": "adjective",
+  "ipa": "/ˌʌnəˈsumɪŋ/",
+  "meaning_ko": "겸손한, 나서지 않는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "as",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "sum",
+     "type": "root",
+     "gloss": "취하다 (sumere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "(높은 자리·공을) 제 것으로 취하지 않는 → 나서지 않는 → 겸손한"
+  },
+  "example": {
+   "q": "How would your previous team describe your leadership style?",
+   "a": "They'd probably call me unassuming: I rarely take the spotlight, but I make sure decisions get made and credit goes to whoever did the work.",
+   "a_ko": "아마 겸손하다고 할 겁니다. 스포트라이트를 받는 일은 드물지만, 결정이 제때 내려지고 공은 실제로 일한 사람에게 가도록 챙깁니다."
+  },
+  "collocations": [
+   "an unassuming leader",
+   "an unassuming manner",
+   "quiet and unassuming"
+  ],
+  "related": [
+   "assume",
+   "assumption",
+   "presumption",
+   "consume"
+  ],
+  "tip": "humble 의 세련된 표현. 자기 자랑 없이 리더십을 말할 때"
+ },
+ {
+  "id": "d25-C23",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "bus factor",
+  "pos": "noun",
+  "ipa": "/ˈbʌs ˌfæktər/",
+  "meaning_ko": "버스 팩터 (몇 명이 빠지면 프로젝트가 멈추는가)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bus",
+     "type": "part",
+     "gloss": "버스"
+    },
+    {
+     "text": "factor",
+     "type": "part",
+     "gloss": "요인"
+    }
+   ],
+   "story": "몇 명이 버스에 치이면 프로젝트가 멈출까 → 지식이 소수에게 몰린 정도"
+  },
+  "example": {
+   "q": "How do you reduce key-person risk on your team?",
+   "a": "Our bus factor was one for the billing service, so I set up pairing and runbooks until three people could handle on-call alone.",
+   "a_ko": "결제 서비스의 버스 팩터가 1이어서, 세 명이 혼자서도 온콜을 감당할 수 있을 때까지 페어링과 런북을 마련했습니다."
+  },
+  "collocations": [
+   "increase the bus factor",
+   "a bus factor of one",
+   "low bus factor"
+  ],
+  "related": [
+   "point person",
+   "north star",
+   "lead by example"
+  ],
+  "tip": "숫자가 클수록 안전함. truck factor 라고도 함"
+ },
+ {
+  "id": "d25-C24",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "north star",
+  "pos": "noun",
+  "ipa": "/ˌnɔrθ ˈstɑr/",
+  "meaning_ko": "북극성 (팀이 따르는 핵심 목표·지표)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "north",
+     "type": "part",
+     "gloss": "북쪽"
+    },
+    {
+     "text": "star",
+     "type": "part",
+     "gloss": "별"
+    }
+   ],
+   "story": "길잡이가 되는 북극성 → 모든 결정의 기준이 되는 핵심 목표"
+  },
+  "example": {
+   "q": "How do you align your team on priorities?",
+   "a": "We pick one north star metric, weekly active teams, and every roadmap item has to explain how it moves that number.",
+   "a_ko": "주간 활성 팀 수라는 핵심 지표 하나를 정하고, 모든 로드맵 항목이 그 숫자를 어떻게 움직이는지 설명하게 합니다."
+  },
+  "collocations": [
+   "north star metric",
+   "our north star",
+   "serve as a north star"
+  ],
+  "related": [
+   "big picture",
+   "bus factor",
+   "step back"
+  ],
+  "tip": "제품·데이터 조직에서 '핵심 지표'를 말할 때. 여러 개면 north star 가 아님"
+ },
+ {
+  "id": "d25-C25",
+  "day": 25,
+  "level": 2,
+  "set": "C",
+  "family": "F5",
+  "word": "point person",
+  "pos": "noun",
+  "ipa": "/ˈpɔɪnt ˌpɝsən/",
+  "meaning_ko": "담당 창구, 책임 담당자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "point",
+     "type": "part",
+     "gloss": "맨 앞, 끝"
+    },
+    {
+     "text": "person",
+     "type": "part",
+     "gloss": "사람"
+    }
+   ],
+   "story": "맨 앞(point)에 선 사람 → 대표로 연락받고 책임지는 담당자"
+  },
+  "example": {
+   "q": "During onboarding, you'll be working with several different teams.",
+   "a": "That sounds great. Could you name one point person for onboarding, so I know who to ask about equipment and access?",
+   "a_ko": "좋습니다. 장비와 접근 권한을 누구에게 물어야 할지 알 수 있도록, 온보딩 담당자 한 분을 정해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "the point person for",
+   "act as point person",
+   "a single point person"
+  ],
+  "related": [
+   "bus factor",
+   "big picture",
+   "lead by example"
+  ],
+  "tip": "'I was the point person for the migration'처럼 책임을 맡았다고 말할 때도 씀"
+ }
+]

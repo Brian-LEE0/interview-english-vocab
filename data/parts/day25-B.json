@@ -1,0 +1,1251 @@
+[
+ {
+  "id": "d25-B01",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "tenure",
+  "pos": "noun",
+  "ipa": "/ˈtɛnjər/",
+  "meaning_ko": "재직 기간, 근속 (대학의 종신 재직권)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~하는 상태"
+    }
+   ],
+   "story": "쥐고 있는 것(teneure) → 자리를 지니고 있는 기간 → 재직 기간"
+  },
+  "example": {
+   "q": "Can you walk me through what you'd lose by leaving now?",
+   "a": "After a four-year tenure at my current company, I'd be leaving unvested shares behind, so I'd like a sign-on bonus that offsets them.",
+   "a_ko": "현 직장에서 4년 재직한 터라 미확정 주식을 두고 떠나게 되어, 이를 상쇄할 사이닝 보너스를 원합니다."
+  },
+  "collocations": [
+   "during my tenure",
+   "average tenure",
+   "tenure-based benefits"
+  ],
+  "related": [
+   "tenant",
+   "tenancy",
+   "retainer",
+   "contain"
+  ],
+  "tip": "'재직 기간'의 격식어. 미국 대학의 tenure 는 '종신 재직권'"
+ },
+ {
+  "id": "d25-B02",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "tenancy",
+  "pos": "noun",
+  "ipa": "/ˈtɛnənsi/",
+  "meaning_ko": "임차, 임차 기간",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ancy",
+     "type": "suffix",
+     "gloss": "~하는 상태"
+    }
+   ],
+   "story": "쥐고 있는 사람(tenant, 세입자)의 상태 → 임차, 임차 기간"
+  },
+  "example": {
+   "q": "If we need you on-site in Seoul, when could you relocate?",
+   "a": "My tenancy in Busan runs until the end of March, so I could relocate in April, or earlier if the relocation package covers the early-termination fee.",
+   "a_ko": "부산 집 임차 계약이 3월 말까지라 4월에 이사할 수 있고, 이전 지원금으로 중도 해지 위약금을 보전해 주신다면 더 일찍도 가능합니다."
+  },
+  "collocations": [
+   "tenancy agreement",
+   "the end of my tenancy",
+   "multi-tenancy"
+  ],
+  "related": [
+   "tenant",
+   "tenure",
+   "multi-tenant",
+   "retainer"
+  ],
+  "tip": "영국식 임대차 계약은 tenancy agreement, 미국식은 lease. IT 에서는 multi-tenancy"
+ },
+ {
+  "id": "d25-B03",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "tenor",
+  "pos": "noun",
+  "ipa": "/ˈtɛnər/",
+  "meaning_ko": "(말·글의) 전반적 논조, 취지",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "쭉 붙들고 이어 가는 흐름(tenor) → 말·글 전체에 흐르는 취지"
+  },
+  "example": {
+   "q": "How would you summarize our conversation so far?",
+   "a": "The general tenor has been positive; we agree on scope and level, and the only open item is how the equity is structured.",
+   "a_ko": "전반적인 분위기는 긍정적이었습니다. 업무 범위와 직급은 합의했고, 남은 것은 지분 구성 방식 하나입니다."
+  },
+  "collocations": [
+   "the general tenor",
+   "the tenor of the discussion",
+   "a change in tenor"
+  ],
+  "related": [
+   "tenure",
+   "tenet",
+   "retain",
+   "contain"
+  ],
+  "tip": "성악의 '테너'와 같은 단어(선율을 붙들고 가는 성부). 회의·메일 분위기를 요약할 때"
+ },
+ {
+  "id": "d25-B04",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "retainer",
+  "pos": "noun",
+  "ipa": "/rɪˈteɪnər/",
+  "meaning_ko": "고정 자문료, 선임료",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에 (계속)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "뒤에 계속 붙잡아 두는 것 → 일을 맡기려고 미리 주는 돈 → 고정 자문료"
+  },
+  "example": {
+   "q": "Would you consider joining as a contractor before going full-time?",
+   "a": "I'd consider it on a monthly retainer for a fixed number of hours, with a clear path to a full-time offer after three months.",
+   "a_ko": "정해진 시간에 대한 월 고정 자문료 방식이라면 고려하겠습니다. 단, 3개월 뒤 정규직 오퍼로 이어지는 명확한 경로가 있었으면 합니다."
+  },
+  "collocations": [
+   "on a retainer",
+   "monthly retainer",
+   "retainer fee"
+  ],
+  "related": [
+   "retain",
+   "retention bonus",
+   "tenure",
+   "contain"
+  ],
+  "tip": "변호사·컨설턴트의 '선임료'. 프리랜서로 일할 때 계약 방식을 말하는 단어"
+ },
+ {
+  "id": "d25-B05",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "retention bonus",
+  "pos": "noun",
+  "ipa": "/rɪˈtɛnʃən ˌboʊnəs/",
+  "meaning_ko": "잔류 보너스",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에"
+    },
+    {
+     "text": "ten",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "tion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "bonus",
+     "type": "part",
+     "gloss": "보너스"
+    }
+   ],
+   "story": "뒤에 붙잡아 두는 것(retention) + 보너스 → 회사에 남도록 주는 보너스"
+  },
+  "example": {
+   "q": "Is your current employer trying to keep you?",
+   "a": "They've offered a retention bonus, but it's paid over two years, so your offer is still more attractive overall.",
+   "a_ko": "현 회사가 잔류 보너스를 제안했지만 2년에 걸쳐 나눠 지급되는 조건이라, 전체적으로는 여전히 귀사의 오퍼가 더 매력적입니다."
+  },
+  "collocations": [
+   "offer a retention bonus",
+   "retention bonus clawback",
+   "one-time retention bonus"
+  ],
+  "related": [
+   "retention",
+   "retain",
+   "retainer",
+   "tenure"
+  ],
+  "tip": "카운터오퍼 상황의 단골 단어. 일찍 퇴사하면 돌려줘야 하는 clawback 조건이 붙기도 함"
+ },
+ {
+  "id": "d25-B06",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "entertain an offer",
+  "pos": "phrase",
+  "ipa": "/ˌɛntərˈteɪn ən ˈɔfər/",
+  "meaning_ko": "제안을 고려하다, 오퍼를 검토하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "enter",
+     "type": "prefix",
+     "gloss": "사이에 (inter)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "an",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "offer",
+     "type": "part",
+     "gloss": "제안"
+    }
+   ],
+   "story": "사이에 붙잡아 두다(entretenir) → 마음속에 품어 두다 → 제안을 고려해 보다"
+  },
+  "example": {
+   "q": "Are you talking to any other companies right now?",
+   "a": "I'm in final rounds elsewhere, but I'd be happy to entertain an offer from you first, since this team is my top choice.",
+   "a_ko": "다른 곳에서 최종 단계를 진행 중이지만, 이 팀이 1지망이라 귀사의 제안을 먼저 기꺼이 검토하고 싶습니다."
+  },
+  "collocations": [
+   "entertain an offer",
+   "entertain the idea",
+   "willing to entertain"
+  ],
+  "related": [
+   "entertain",
+   "retain",
+   "contain",
+   "tenure"
+  ],
+  "tip": "entertain 은 '즐겁게 하다'뿐 아니라 '(생각·제안을) 고려하다'. Day 5 entertain 의 협상용 쓰임"
+ },
+ {
+  "id": "d25-B07",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "containment",
+  "pos": "noun",
+  "ipa": "/kənˈteɪnmənt/",
+  "meaning_ko": "(장애·사고의) 확산 방지, 격리",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "함께 꽉 쥐어 가두다(continere) → 밖으로 퍼지지 않게 막음 → 장애·사고 격리"
+  },
+  "example": {
+   "q": "Walk me through how you handled the security incident.",
+   "a": "Containment came first: I revoked the leaked keys and isolated the affected hosts before we started the root-cause analysis.",
+   "a_ko": "확산 방지가 먼저였습니다. 원인 분석을 시작하기 전에 유출된 키를 폐기하고 영향받은 호스트를 격리했습니다."
+  },
+  "collocations": [
+   "incident containment",
+   "containment strategy",
+   "damage containment"
+  ],
+  "related": [
+   "contain",
+   "container",
+   "containerize",
+   "sustained"
+  ],
+  "tip": "보안 사고 대응 단계: detection → containment → eradication → recovery"
+ },
+ {
+  "id": "d25-B08",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "containerize",
+  "pos": "verb",
+  "ipa": "/kənˈteɪnəˌraɪz/",
+  "meaning_ko": "컨테이너화하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~화하다"
+    }
+   ],
+   "story": "함께 담아 쥐는 것(container) → 컨테이너에 담다 → 앱을 컨테이너 이미지로 묶다"
+  },
+  "example": {
+   "q": "What was your biggest infrastructure win last year?",
+   "a": "I containerized our legacy Java services, which cut environment setup for new engineers from two days to an hour.",
+   "a_ko": "레거시 자바 서비스를 컨테이너화해서 신규 엔지니어의 환경 세팅 시간을 이틀에서 한 시간으로 줄였습니다."
+  },
+  "collocations": [
+   "containerize an application",
+   "containerized workloads",
+   "fully containerized"
+  ],
+  "related": [
+   "container",
+   "contain",
+   "containment",
+   "continuation"
+  ],
+  "tip": "명사형 containerization. 도커·쿠버네티스 경험을 말할 때 기본 동사"
+ },
+ {
+  "id": "d25-B09",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "continuation",
+  "pos": "noun",
+  "ipa": "/kənˌtɪnjuˈeɪʃən/",
+  "meaning_ko": "계속, 이어짐 (이어 받기)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tinu",
+     "type": "root",
+     "gloss": "쥐다 (tenere → continuus)"
+    },
+    {
+     "text": "ation",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "함께 붙잡고 이어지다(continere → continuus) → 끊기지 않고 이어감 → 다음 페이지를 이어 받는 토큰"
+  },
+  "example": {
+   "q": "How did you design pagination for the export API?",
+   "a": "We return a continuation token instead of page numbers, so clients can resume reliably even when new rows are inserted.",
+   "a_ko": "페이지 번호 대신 이어 받기 토큰을 반환해서, 새 행이 추가돼도 클라이언트가 안정적으로 이어 받을 수 있게 했습니다."
+  },
+  "collocations": [
+   "continuation token",
+   "a continuation of",
+   "continuation-passing style"
+  ],
+  "related": [
+   "continue",
+   "continuous",
+   "continuity",
+   "continuing education"
+  ],
+  "tip": "커서 기반 페이지네이션을 설명할 때. continuation token = cursor"
+ },
+ {
+  "id": "d25-B10",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "continuing education",
+  "pos": "noun",
+  "ipa": "/kənˈtɪnjuɪŋ ˌɛdʒəˈkeɪʃən/",
+  "meaning_ko": "직무 교육, 계속 교육 (지원)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tinu",
+     "type": "root",
+     "gloss": "쥐다 (tenere → continuus)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "education",
+     "type": "part",
+     "gloss": "교육"
+    }
+   ],
+   "story": "끊기지 않고 이어지는(continue) 교육 → 일하면서 계속 받는 교육 → 교육비 지원 복지"
+  },
+  "example": {
+   "q": "Is there anything else in the benefits package you'd like to discuss?",
+   "a": "Yes, I'd like to know the annual budget for continuing education, because I plan to take a cloud security certification next year.",
+   "a_ko": "네, 내년에 클라우드 보안 자격증을 딸 계획이라 직무 교육 연간 지원 예산이 궁금합니다."
+  },
+  "collocations": [
+   "continuing education budget",
+   "continuing education credits",
+   "support for continuing education"
+  ],
+  "related": [
+   "continue",
+   "continuation",
+   "continuous",
+   "sustained"
+  ],
+  "tip": "learning budget, education stipend 라고도 함. 복리후생을 물을 때 좋은 표현"
+ },
+ {
+  "id": "d25-B11",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "sustained",
+  "pos": "adjective",
+  "ipa": "/səˈsteɪnd/",
+  "meaning_ko": "지속적인, 꾸준히 유지되는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sus",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "아래에서 받쳐 쥐고 있는 → 끊기지 않고 유지되는"
+  },
+  "example": {
+   "q": "How did you validate the new message broker?",
+   "a": "We ran a sustained load test at 20,000 messages per second for six hours to catch memory leaks, not just peak spikes.",
+   "a_ko": "순간 피크만이 아니라 메모리 누수까지 잡으려고 초당 2만 건으로 6시간 동안 지속 부하 테스트를 돌렸습니다."
+  },
+  "collocations": [
+   "sustained throughput",
+   "sustained load",
+   "sustained effort"
+  ],
+  "related": [
+   "sustain",
+   "sustainable",
+   "containment",
+   "retain"
+  ],
+  "tip": "peak(순간 최대)와 대비되는 '지속' 성능을 말할 때"
+ },
+ {
+  "id": "d25-B12",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "discontent",
+  "pos": "noun",
+  "ipa": "/ˌdɪskənˈtɛnt/",
+  "meaning_ko": "불만",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "아니"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tent",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    }
+   ],
+   "story": "함께 담겨 만족한(contentus) 상태가 아님 → 불만"
+  },
+  "example": {
+   "q": "Tell me about a time you turned around a struggling team.",
+   "a": "I noticed growing discontent over constant on-call pages, so I set up a rotation and an alert cleanup sprint, and attrition stopped within a quarter.",
+   "a_ko": "잦은 온콜 호출로 불만이 커지는 걸 알아채고 순번제와 알림 정리 스프린트를 도입했더니, 한 분기 만에 이탈이 멈췄습니다."
+  },
+  "collocations": [
+   "growing discontent",
+   "signs of discontent",
+   "discontent among the team"
+  ],
+  "related": [
+   "content",
+   "contain",
+   "sustained",
+   "tenure"
+  ],
+  "tip": "content(만족한)의 반대. dissatisfaction 보다 '팀에 퍼진 불만' 느낌"
+ },
+ {
+  "id": "d25-B13",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "pertaining to",
+  "pos": "phrase",
+  "ipa": "/pərˈteɪnɪŋ tu/",
+  "meaning_ko": "~에 관한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "끝까지"
+    },
+    {
+     "text": "tain",
+     "type": "root",
+     "gloss": "쥐다 (tenere)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~에"
+    }
+   ],
+   "story": "끝까지 뻗어 붙어 있다(pertinere) → ~에 관련되다 → ~에 관한"
+  },
+  "example": {
+   "q": "Do you have any final questions before we send the contract?",
+   "a": "Just one: could you send me the policy documents pertaining to remote work and equipment, so I can review them alongside the contract?",
+   "a_ko": "하나만요. 계약서와 함께 검토할 수 있도록 원격 근무와 장비에 관한 규정 문서를 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "pertaining to",
+   "documents pertaining to",
+   "matters pertaining to"
+  ],
+  "related": [
+   "pertain",
+   "pertinent",
+   "retain",
+   "contain"
+  ],
+  "tip": "메일·문서체에서 about 대신 쓰는 격식 표현"
+ },
+ {
+  "id": "d25-B14",
+  "day": 25,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "contractor",
+  "pos": "noun",
+  "ipa": "/ˈkɑntræktər/",
+  "meaning_ko": "계약직, 외주 인력",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "함께 끌어당겨 맺은 것(contract) → 계약을 맺고 일하는 사람"
+  },
+  "example": {
+   "q": "This role starts as a contract position. Is that okay with you?",
+   "a": "I'd prefer full-time, but I can start as a contractor for three months.",
+   "a_ko": "정규직을 선호하지만, 3개월간 계약직으로 시작할 수는 있습니다."
+  },
+  "collocations": [
+   "independent contractor",
+   "work as a contractor",
+   "contractor rate"
+  ],
+  "related": [
+   "contract",
+   "contractual",
+   "contract-to-hire",
+   "attractiveness"
+  ],
+  "tip": "미국에서는 independent contractor 와 employee 의 세금·복지 차이가 큼"
+ },
+ {
+  "id": "d25-B15",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "contract-to-hire",
+  "pos": "adjective",
+  "ipa": "/ˌkɑntrækt tə ˈhaɪər/",
+  "meaning_ko": "계약직 후 정규직 전환형의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~으로"
+    },
+    {
+     "text": "hire",
+     "type": "part",
+     "gloss": "고용"
+    }
+   ],
+   "story": "계약(contract)으로 시작해 정규 고용(hire)으로 → 전환형 계약직"
+  },
+  "example": {
+   "q": "This position would start as a six-month contract. How do you feel about that?",
+   "a": "A contract-to-hire setup can work, as long as the conversion criteria and full-time salary are written down before I start.",
+   "a_ko": "정규직 전환 조건과 정규직 연봉이 입사 전에 문서로 확정된다면, 계약 후 전환 방식도 괜찮습니다."
+  },
+  "collocations": [
+   "contract-to-hire role",
+   "contract-to-hire conversion",
+   "temp-to-perm"
+  ],
+  "related": [
+   "contract",
+   "contractor",
+   "contractual",
+   "attractiveness"
+  ],
+  "tip": "C2H 로 줄여 씀. 전환 기준과 시점을 꼭 문서로 받을 것"
+ },
+ {
+  "id": "d25-B16",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "attractiveness",
+  "pos": "noun",
+  "ipa": "/əˈtræktɪvnəs/",
+  "meaning_ko": "매력도",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ness",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "내 쪽으로 끌어당기는 성질 → 매력, 매력도"
+  },
+  "example": {
+   "q": "What's your overall impression of the package?",
+   "a": "The overall attractiveness of the package is high, mainly because of the equity, but the base is below my current salary.",
+   "a_ko": "지분 덕분에 패키지 전체의 매력도는 높지만, 기본급은 현재 연봉보다 낮습니다."
+  },
+  "collocations": [
+   "overall attractiveness",
+   "attractiveness of the offer",
+   "increase the attractiveness"
+  ],
+  "related": [
+   "attract",
+   "attractive",
+   "contractor",
+   "traction"
+  ],
+  "tip": "칭찬 → 그러나 → 아쉬운 점 순서로 협상할 때 쓰기 좋은 명사"
+ },
+ {
+  "id": "d25-B17",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "abstract class",
+  "pos": "noun",
+  "ipa": "/ˈæbstrækt ˌklæs/",
+  "meaning_ko": "추상 클래스",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "abs",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "class",
+     "type": "part",
+     "gloss": "클래스"
+    }
+   ],
+   "story": "떼어 끌어낸(abstractus) → 구체적 구현을 뺀 → 틀만 있고 직접 만들 수 없는 클래스"
+  },
+  "example": {
+   "q": "When would you use an abstract class instead of an interface?",
+   "a": "I use an abstract class when subclasses share real behavior, like retry logic, and an interface when they only share a contract.",
+   "a_ko": "하위 클래스가 재시도 로직 같은 실제 동작을 공유하면 추상 클래스를, 약속(시그니처)만 공유하면 인터페이스를 씁니다."
+  },
+  "collocations": [
+   "abstract class",
+   "abstract method",
+   "extend an abstract class"
+  ],
+  "related": [
+   "abstract",
+   "abstraction",
+   "feature extraction",
+   "contractor"
+  ],
+  "tip": "객체지향 면접 단골 질문: abstract class vs interface"
+ },
+ {
+  "id": "d25-B18",
+  "day": 25,
+  "level": 2,
+  "set": "B",
+  "family": "F5",
+  "word": "feature extraction",
+  "pos": "noun",
+  "ipa": "/ˈfitʃər ɪkˌstrækʃən/",
+  "meaning_ko": "특징 추출",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "feature",
+     "type": "part",
+     "gloss": "특징"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tract",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "밖으로 끌어내다(extract) → 원본 데이터에서 쓸모 있는 특징을 뽑아냄"
+  },
+  "example": {
+   "q": "How did you improve the fraud model?",
+   "a": "Most of the gain came from feature extraction, such as time since last login, rather than from switching to a bigger model.",
+   "a_ko": "성능 향상의 대부분은 더 큰 모델로 바꾼 것이 아니라 '마지막 로그인 이후 경과 시간' 같은 특징 추출에서 나왔습니다."
+  },
+  "collocations": [
+   "feature extraction",
+   "automated feature extraction",
+   "feature extraction pipeline"
+  ],
+  "related": [
+   "extract",
+   "extraction",
+   "abstract class",
+   "traction"
+  ],
+  "tip": "feature engineering 과 비슷하게 쓰이며 ML 면접에서 자주 나옴"
+ },
+ {
+  "id": "d25-B19",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "tax treatment",
+  "pos": "noun",
+  "ipa": "/ˈtæks ˌtritmənt/",
+  "meaning_ko": "과세 방식, 세금 처리",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tax",
+     "type": "part",
+     "gloss": "세금"
+    },
+    {
+     "text": "treat",
+     "type": "root",
+     "gloss": "다루다 (tractare ← trahere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "자꾸 끌어다 다루다(tractare) → 다루는 방식(treatment) → 세금을 매기는 방식"
+  },
+  "example": {
+   "q": "Do you have a preference between stock options and RSUs?",
+   "a": "I lean toward RSUs, but before deciding I'd like to understand the tax treatment of each in Korea, especially at vesting versus sale.",
+   "a_ko": "RSU 쪽이 끌리지만, 결정 전에 한국에서 각각의 과세 방식, 특히 베스팅 시점과 매도 시점의 차이를 이해하고 싶습니다."
+  },
+  "collocations": [
+   "tax treatment of",
+   "favorable tax treatment",
+   "the same tax treatment"
+  ],
+  "related": [
+   "treat",
+   "treatment",
+   "trace",
+   "contractor"
+  ],
+  "tip": "스톡옵션·RSU 를 비교할 때 꼭 나오는 표현"
+ },
+ {
+  "id": "d25-B20",
+  "day": 25,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "trainee",
+  "pos": "noun",
+  "ipa": "/treɪˈni/",
+  "meaning_ko": "교육생, 수습 사원",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "train",
+     "type": "root",
+     "gloss": "끌다 (trahere)"
+    },
+    {
+     "text": "ee",
+     "type": "suffix",
+     "gloss": "~받는 사람"
+    }
+   ],
+   "story": "끌고 가다(trainer) → 가르쳐 이끌다 → 가르침을 받는 사람"
+  },
+  "example": {
+   "q": "Have you ever mentored anyone?",
+   "a": "Yes, I mentored two trainees through their first production release.",
+   "a_ko": "네, 교육생 두 명이 첫 프로덕션 배포를 마칠 때까지 멘토링했습니다."
+  },
+  "collocations": [
+   "graduate trainee",
+   "trainee program",
+   "mentor a trainee"
+  ],
+  "related": [
+   "train",
+   "training",
+   "trainable",
+   "retrain"
+  ],
+  "tip": "-ee 는 '받는 사람'(employee, interviewee). 강세는 뒤 /treɪˈni/"
+ },
+ {
+  "id": "d25-B21",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "reprisal",
+  "pos": "noun",
+  "ipa": "/rɪˈpraɪzəl/",
+  "meaning_ko": "보복, 앙갚음",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 되"
+    },
+    {
+     "text": "pris",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "되잡아 빼앗음(ripresaglia ← reprehendere) → 앙갚음 → 보복"
+  },
+  "example": {
+   "q": "How do you create psychological safety on your team?",
+   "a": "I tell people they can flag problems without fear of reprisal, and I prove it by thanking whoever raises the bad news first.",
+   "a_ko": "보복을 걱정하지 않고 문제를 제기해도 된다고 말하고, 나쁜 소식을 먼저 꺼낸 사람에게 고마움을 표현해 그걸 증명합니다."
+  },
+  "collocations": [
+   "without fear of reprisal",
+   "in reprisal for",
+   "fear reprisal"
+  ],
+  "related": [
+   "keep me apprised",
+   "comprehend",
+   "surprise",
+   "enterprise"
+  ],
+  "tip": "without fear of reprisal 은 심리적 안전감을 말할 때 고정 표현"
+ },
+ {
+  "id": "d25-B22",
+  "day": 25,
+  "level": 3,
+  "set": "B",
+  "family": "F5",
+  "word": "keep me apprised",
+  "pos": "phrase",
+  "ipa": "/ˌkip mi əˈpraɪzd/",
+  "meaning_ko": "(진행 상황을) 계속 알려 주세요",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "keep",
+     "type": "part",
+     "gloss": "계속 ~하게 하다"
+    },
+    {
+     "text": "me",
+     "type": "part",
+     "gloss": "나를"
+    },
+    {
+     "text": "ap",
+     "type": "prefix",
+     "gloss": "~에게 (ad)"
+    },
+    {
+     "text": "pris",
+     "type": "root",
+     "gloss": "잡다 (prehendere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "알게끔 붙잡게 하다(apprendre ← apprehendere) → 소식을 알리다 → 계속 알려 달라"
+  },
+  "example": {
+   "q": "We're still waiting for final approval from the compensation committee.",
+   "a": "That's completely fine. Please keep me apprised of any changes, since I've told the other company I'll reply by Friday.",
+   "a_ko": "괜찮습니다. 다른 회사에 금요일까지 답하기로 해서, 변동이 있으면 계속 알려 주세요."
+  },
+  "collocations": [
+   "keep me apprised of",
+   "keep someone apprised",
+   "fully apprised"
+  ],
+  "related": [
+   "apprise",
+   "reprisal",
+   "comprehend",
+   "enterprise"
+  ],
+  "tip": "keep me posted 의 격식체. apprise(알리다, Day 5)와 appraise(평가하다)를 헷갈리지 말 것"
+ },
+ {
+  "id": "d25-B23",
+  "day": 25,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "lead by example",
+  "pos": "phrase",
+  "ipa": "/ˌlid baɪ ɪɡˈzæmpəl/",
+  "meaning_ko": "솔선수범하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "lead",
+     "type": "part",
+     "gloss": "이끌다"
+    },
+    {
+     "text": "by",
+     "type": "part",
+     "gloss": "~으로"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "ample",
+     "type": "root",
+     "gloss": "꺼내다 (emere)"
+    }
+   ],
+   "story": "꺼내 보인 본보기(exemplum)로 이끌다 → 솔선수범하다"
+  },
+  "example": {
+   "q": "What kind of leader are you?",
+   "a": "I lead by example, so I write tests before I ask anyone else to.",
+   "a_ko": "솔선수범하는 편이라, 남에게 테스트를 요구하기 전에 제가 먼저 작성합니다."
+  },
+  "collocations": [
+   "lead by example",
+   "set an example",
+   "by example"
+  ],
+  "related": [
+   "example",
+   "walk the talk",
+   "hands-off",
+   "step back"
+  ],
+  "tip": "리더십 질문의 가장 기본 답. 구체적인 행동 하나를 꼭 붙일 것"
+ },
+ {
+  "id": "d25-B24",
+  "day": 25,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "hands-off",
+  "pos": "adjective",
+  "ipa": "/ˌhændzˈɔf/",
+  "meaning_ko": "간섭하지 않는, 맡기는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hands",
+     "type": "part",
+     "gloss": "손"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "손을 떼고 있는 → 직접 간섭하지 않는"
+  },
+  "example": {
+   "q": "How do you manage senior engineers?",
+   "a": "I'm fairly hands-off with seniors, but I check in weekly on risks.",
+   "a_ko": "시니어에게는 꽤 맡기는 편이지만, 리스크는 매주 확인합니다."
+  },
+  "collocations": [
+   "hands-off approach",
+   "hands-off manager",
+   "take a hands-off approach"
+  ],
+  "related": [
+   "hands-on",
+   "step back",
+   "lead by example",
+   "micromanage"
+  ],
+  "tip": "반대말 hands-on(직접 챙기는). 너무 hands-off 면 방치로 들리니 확인 방식을 같이 말할 것"
+ },
+ {
+  "id": "d25-B25",
+  "day": 25,
+  "level": 1,
+  "set": "B",
+  "family": "F5",
+  "word": "big picture",
+  "pos": "noun",
+  "ipa": "/ˌbɪɡ ˈpɪktʃər/",
+  "meaning_ko": "큰 그림, 전체 상황",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "big",
+     "type": "part",
+     "gloss": "큰"
+    },
+    {
+     "text": "picture",
+     "type": "part",
+     "gloss": "그림"
+    }
+   ],
+   "story": "큰 그림 → 세부가 아닌 전체 상황"
+  },
+  "example": {
+   "q": "We've been going back and forth on details. Where do you stand?",
+   "a": "Looking at the big picture, the role matters more to me than a small salary gap.",
+   "a_ko": "큰 그림으로 보면, 작은 연봉 차이보다 역할이 저에게 더 중요합니다."
+  },
+  "collocations": [
+   "see the big picture",
+   "big-picture thinking",
+   "in the big picture"
+  ],
+  "related": [
+   "north star",
+   "step back",
+   "lead by example"
+  ],
+  "tip": "세부 협상이 길어질 때 결론으로 넘어가는 말. big-picture thinker 는 리더십 칭찬"
+ }
+]

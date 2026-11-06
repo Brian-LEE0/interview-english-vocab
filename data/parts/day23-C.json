@@ -1,0 +1,1169 @@
+[
+ {
+  "id": "d23-C01",
+  "day": 23,
+  "level": 1,
+  "set": "C",
+  "family": "F3",
+  "word": "president",
+  "pos": "noun",
+  "ipa": "/ˈprezɪdənt/",
+  "meaning_ko": "회장, 대표",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "sid",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "앞에 앉아 있는 사람(praesidens) → 모임을 이끄는 사람 → 회장·대표"
+  },
+  "example": {
+   "q": "Did you have any leadership roles in college?",
+   "a": "I was president of our coding club and organized two hackathons a year.",
+   "a_ko": "코딩 동아리 회장을 맡아 1년에 해커톤을 두 번 열었습니다."
+  },
+  "collocations": [
+   "club president",
+   "vice president",
+   "president of"
+  ],
+  "related": [
+   "preside",
+   "reside",
+   "session",
+   "subsidy"
+  ],
+  "tip": "회사 직급 VP(vice president)도 같은 단어. 동아리 \"회장\"도 president"
+ },
+ {
+  "id": "d23-C02",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "preside",
+  "pos": "verb",
+  "ipa": "/prɪˈzaɪd/",
+  "meaning_ko": "(회의를) 주재하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "side",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    }
+   ],
+   "story": "앞자리에 앉다(praesidere) → 회의를 이끌다 → 주재하다"
+  },
+  "example": {
+   "q": "Who usually runs your architecture review meetings?",
+   "a": "I presided over our monthly architecture review, setting the agenda and making sure every objection was recorded before we decided.",
+   "a_ko": "제가 월례 아키텍처 리뷰를 주재하며 안건을 정하고, 결정 전에 모든 반대 의견이 기록되도록 했습니다."
+  },
+  "collocations": [
+   "preside over a meeting",
+   "presiding officer"
+  ],
+  "related": [
+   "president",
+   "reside",
+   "subside",
+   "session"
+  ],
+  "tip": "항상 preside over + 회의·행사. chair a meeting 과 같은 뜻"
+ },
+ {
+  "id": "d23-C03",
+  "day": 23,
+  "level": 1,
+  "set": "C",
+  "family": "F3",
+  "word": "resident",
+  "pos": "noun",
+  "ipa": "/ˈrezɪdənt/",
+  "meaning_ko": "거주자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에"
+    },
+    {
+     "text": "sid",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "뒤에 남아 앉아 있는 사람(residens) → 머물러 사는 사람 → 거주자"
+  },
+  "example": {
+   "q": "Will you need visa sponsorship to work in Singapore?",
+   "a": "No, I'm already a permanent resident, so I can start without sponsorship.",
+   "a_ko": "아니요, 이미 영주권자라서 비자 스폰서 없이 시작할 수 있습니다."
+  },
+  "collocations": [
+   "permanent resident",
+   "tax resident",
+   "local resident"
+  ],
+  "related": [
+   "reside",
+   "president",
+   "residual",
+   "session"
+  ],
+  "tip": "permanent resident = 영주권자. 비자 질문에 바로 쓰는 표현"
+ },
+ {
+  "id": "d23-C04",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "reside",
+  "pos": "verb",
+  "ipa": "/rɪˈzaɪd/",
+  "meaning_ko": "(데이터가) 있다, 거주하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤에"
+    },
+    {
+     "text": "side",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    }
+   ],
+   "story": "뒤에 남아 앉아 있다(residere) → 머물러 살다 → (데이터·권한이) 그곳에 있다"
+  },
+  "example": {
+   "q": "Our EU customers are very strict about where data is stored.",
+   "a": "Then all EU personal data should reside in the Frankfurt region, with only anonymized metrics replicated elsewhere.",
+   "a_ko": "그렇다면 EU 개인 정보는 모두 프랑크푸르트 리전에 두고, 익명화된 지표만 다른 곳에 복제해야 합니다."
+  },
+  "collocations": [
+   "reside in",
+   "data resides in",
+   "reside with"
+  ],
+  "related": [
+   "resident",
+   "residual",
+   "president",
+   "subside"
+  ],
+  "tip": "live 의 격식체. 데이터 레지던시(data residency) 이야기에 그대로 씀"
+ },
+ {
+  "id": "d23-C05",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "dissident",
+  "pos": "noun",
+  "ipa": "/ˈdɪsɪdənt/",
+  "meaning_ko": "반대자, 이견을 내는 사람",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "떨어져"
+    },
+    {
+     "text": "sid",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "떨어져 앉다(dissidere) → 의견이 갈라지다 → 반대자"
+  },
+  "example": {
+   "q": "Tell me about a time you disagreed with the whole team.",
+   "a": "In a design review, I was the lone dissident on adopting microservices; I showed our team was too small, and we kept a modular monolith instead.",
+   "a_ko": "설계 리뷰에서 마이크로서비스 도입에 저 혼자 반대했는데, 팀 규모가 너무 작다는 걸 보여 줘서 결국 모듈형 모놀리스를 유지했습니다."
+  },
+  "collocations": [
+   "lone dissident",
+   "dissident voice"
+  ],
+  "related": [
+   "president",
+   "reside",
+   "subsidy",
+   "insidious"
+  ],
+  "tip": "원래 정치적 \"반체제 인사\". 회의에서는 the lone dissident(유일한 반대자)처럼 가볍게 씀"
+ },
+ {
+  "id": "d23-C06",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "subsidy",
+  "pos": "noun",
+  "ipa": "/ˈsʌbsədi/",
+  "meaning_ko": "보조금, 지원금",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에·뒤에"
+    },
+    {
+     "text": "sid",
+     "type": "root",
+     "gloss": "앉다 (sedere)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~한 것"
+    }
+   ],
+   "story": "뒤에 앉아 대기하는 예비 병력(subsidium) → 도움 → 보조금"
+  },
+  "example": {
+   "q": "We don't have a commuter benefit, but we're flexible on hybrid days.",
+   "a": "Is there a transit subsidy for the days I come in, since the commute from Incheon is fairly expensive?",
+   "a_ko": "출근하는 날에는 교통비 보조금이 있나요? 인천에서 출퇴근하면 비용이 꽤 들어서요."
+  },
+  "collocations": [
+   "transit subsidy",
+   "education subsidy",
+   "housing subsidy"
+  ],
+  "related": [
+   "subsidize",
+   "subsidiary",
+   "reside",
+   "preside"
+  ],
+  "tip": "교통·학비·주거 지원을 물을 때. 동사는 subsidize"
+ },
+ {
+  "id": "d23-C07",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "possession",
+  "pos": "noun",
+  "ipa": "/pəˈzeʃən/",
+  "meaning_ko": "소유, 보유",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pos",
+     "type": "prefix",
+     "gloss": "주인으로 (potis)"
+    },
+    {
+     "text": "sess",
+     "type": "root",
+     "gloss": "앉다 (sed)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "주인으로 앉아 있음(possessio) → 차지함 → 소유"
+  },
+  "example": {
+   "q": "We'll send the formal offer letter by Thursday.",
+   "a": "Great. Once the signed offer is in my possession, I'll give my two weeks' notice.",
+   "a_ko": "좋습니다. 서명된 오퍼 레터를 받는 대로 2주 전 퇴사 통보를 하겠습니다."
+  },
+  "collocations": [
+   "in my possession",
+   "take possession of"
+  ],
+  "related": [
+   "possess",
+   "self-possessed",
+   "session",
+   "assess"
+  ],
+  "tip": "in hand 보다 격식. 서면 오퍼를 받기 전에는 사직하지 않겠다는 뜻을 분명히 할 때"
+ },
+ {
+  "id": "d23-C08",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "self-possessed",
+  "pos": "adjective",
+  "ipa": "/ˌself pəˈzest/",
+  "meaning_ko": "침착한, 자제력 있는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "self",
+     "type": "part",
+     "gloss": "자기"
+    },
+    {
+     "text": "pos",
+     "type": "prefix",
+     "gloss": "주인으로 (potis)"
+    },
+    {
+     "text": "sess",
+     "type": "root",
+     "gloss": "앉다 (sed)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "자기 자신을 소유하고(possess) 있는 → 흔들리지 않는 → 침착한"
+  },
+  "example": {
+   "q": "How do you act when a client is shouting at you?",
+   "a": "I stay self-possessed, let them finish, and restate their concern, which usually lowers the temperature enough to solve the actual problem.",
+   "a_ko": "침착함을 유지하며 끝까지 듣고 우려를 다시 정리해 말합니다. 그러면 대개 분위기가 가라앉아 실제 문제를 풀 수 있습니다."
+  },
+  "collocations": [
+   "calm and self-possessed",
+   "remain self-possessed"
+  ],
+  "related": [
+   "possess",
+   "possession",
+   "session",
+   "assess"
+  ],
+  "tip": "composed 와 비슷하지만 \"자신을 완전히 통제하는\" 느낌이 더 강함"
+ },
+ {
+  "id": "d23-C09",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "moratorium",
+  "pos": "noun",
+  "ipa": "/ˌmɔːrəˈtɔːriəm/",
+  "meaning_ko": "일시 중지, 동결",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mor",
+     "type": "root",
+     "gloss": "지체하다·머물다 (morari)"
+    },
+    {
+     "text": "at",
+     "type": "suffix",
+     "gloss": "~하다"
+    },
+    {
+     "text": "orium",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "지체시키는 것(moratorium) → 일정 기간 멈춰 두기 → 일시 중지·동결"
+  },
+  "example": {
+   "q": "There's a moratorium on salary changes until the next review cycle.",
+   "a": "I understand the moratorium, but could we put a guaranteed review date in writing so the adjustment happens right after it ends?",
+   "a_ko": "동결 방침은 이해합니다만, 동결이 끝나자마자 조정이 이뤄지도록 확정된 검토 일자를 서면으로 넣어 주실 수 있을까요?"
+  },
+  "collocations": [
+   "hiring moratorium",
+   "impose a moratorium",
+   "moratorium on"
+  ],
+  "related": [
+   "demur",
+   "moratory",
+   "remora"
+  ],
+  "tip": "freeze 의 격식체. a moratorium on + 명사"
+ },
+ {
+  "id": "d23-C10",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "demur",
+  "pos": "verb",
+  "ipa": "/dɪˈmɝː/",
+  "meaning_ko": "이의를 제기하다, 난색을 표하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "mur",
+     "type": "root",
+     "gloss": "지체하다·머물다 (morari)"
+    }
+   ],
+   "story": "계속 머뭇거리다(demorari) → 선뜻 따르지 않다 → 이의를 제기하다"
+  },
+  "example": {
+   "q": "We'd need you to start in two weeks.",
+   "a": "I'd gently demur at two weeks; I owe my team a proper handover, so four weeks would let me leave on good terms.",
+   "a_ko": "2주는 조금 어렵겠습니다. 팀에 제대로 인수인계를 해야 해서, 4주면 좋게 마무리하고 나올 수 있습니다."
+  },
+  "collocations": [
+   "demur at",
+   "without demur"
+  ],
+  "related": [
+   "moratorium",
+   "moratory",
+   "remora"
+  ],
+  "tip": "demure(얌전한)와 철자·뜻이 다름. 공손하게 반대할 때 I'd gently demur"
+ },
+ {
+  "id": "d23-C11",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "quiet period",
+  "pos": "noun",
+  "ipa": "/ˈkwaɪət ˌpɪriəd/",
+  "meaning_ko": "(상장 전후) 정보 공개 제한 기간",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "quiet",
+     "type": "root",
+     "gloss": "가만히 있는 (quietus)"
+    },
+    {
+     "text": "period",
+     "type": "part",
+     "gloss": "기간"
+    }
+   ],
+   "story": "가만히 있는(quietus) 기간 → 상장 전후 회사가 실적·전망을 말하지 않는 기간"
+  },
+  "example": {
+   "q": "We can't share revenue numbers right now.",
+   "a": "I understand you're in a quiet period, so I won't ask for figures, but could you explain how the IPO would affect my equity?",
+   "a_ko": "정보 공개 제한 기간이시라는 건 알기에 수치는 여쭙지 않겠습니다. 다만 상장이 제 지분에 어떤 영향을 주는지 설명해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "IPO quiet period",
+   "be in a quiet period"
+  ],
+  "related": [
+   "acquiesce",
+   "quiescent",
+   "requiem"
+  ],
+  "tip": "상장(IPO) 앞둔 회사가 재무 질문을 피하는 이유. 이때는 수치 대신 구조를 물을 것"
+ },
+ {
+  "id": "d23-C12",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "acquiesce",
+  "pos": "verb",
+  "ipa": "/ˌækwiˈes/",
+  "meaning_ko": "(마지못해) 따르다, 수용하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "quiesce",
+     "type": "root",
+     "gloss": "쉬다·가만히 있다 (quiescere)"
+    }
+   ],
+   "story": "~에 대해 가만히 있다(acquiescere) → 반대하지 않고 받아들이다"
+  },
+  "example": {
+   "q": "The equity grant is standard and we cannot change it.",
+   "a": "I'm willing to acquiesce to the standard equity grant if we can revisit the base salary, since that's where my other offer is notably stronger.",
+   "a_ko": "기본급을 다시 논의할 수 있다면 표준 지분 조건은 받아들이겠습니다. 다른 오퍼가 확실히 더 강한 부분이 기본급이라서요."
+  },
+  "collocations": [
+   "acquiesce to",
+   "acquiesce in"
+  ],
+  "related": [
+   "quiet",
+   "quiescent",
+   "requiem"
+  ],
+  "tip": "agree 보다 \"마지못해 수용\". 양보를 다른 조건과 맞바꿀 때 씀"
+ },
+ {
+  "id": "d23-C13",
+  "day": 23,
+  "level": 1,
+  "set": "C",
+  "family": "F3",
+  "word": "management",
+  "pos": "noun",
+  "ipa": "/ˈmænɪdʒmənt/",
+  "meaning_ko": "경영진, 관리",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "man",
+     "type": "root",
+     "gloss": "손 (manus)"
+    },
+    {
+     "text": "age",
+     "type": "suffix",
+     "gloss": "~하다 (이탈리아어 -eggiare)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "손으로 (말을) 다루다(maneggiare) → 관리하다(manage) → 관리·경영진"
+  },
+  "example": {
+   "q": "Your offer still needs approval from upper management.",
+   "a": "Thanks for the update. Do you expect management to decide this week?",
+   "a_ko": "알려 주셔서 감사합니다. 경영진이 이번 주 안에 결정할 것 같나요?"
+  },
+  "collocations": [
+   "upper management",
+   "senior management",
+   "project management"
+  ],
+  "related": [
+   "manage",
+   "manager",
+   "manual",
+   "manifest"
+  ],
+  "tip": "\"경영진\"이란 뜻일 때는 관사 없이 management. senior management 도 같은 뜻"
+ },
+ {
+  "id": "d23-C14",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "managerial",
+  "pos": "adjective",
+  "ipa": "/ˌmænəˈdʒɪriəl/",
+  "meaning_ko": "관리직의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "man",
+     "type": "root",
+     "gloss": "손 (manus)"
+    },
+    {
+     "text": "ager",
+     "type": "suffix",
+     "gloss": "~하는 사람 (manager)"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "손으로 다루는 사람(manager)의 → 관리직의"
+  },
+  "example": {
+   "q": "The title is senior engineer, but you'd lead three people.",
+   "a": "Since the role includes managerial duties like performance reviews, could the title reflect that, perhaps engineering manager?",
+   "a_ko": "평가처럼 관리직 업무가 포함되니, 직함에도 그 점을 반영해 엔지니어링 매니저로 할 수 있을까요?"
+  },
+  "collocations": [
+   "managerial role",
+   "managerial experience",
+   "managerial track"
+  ],
+  "related": [
+   "manage",
+   "management",
+   "manual",
+   "maneuver"
+  ],
+  "tip": "직함·직무 범위를 협상할 때. individual contributor(IC) 트랙과 대비"
+ },
+ {
+  "id": "d23-C15",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "manifest",
+  "pos": "verb",
+  "ipa": "/ˈmænɪfest/",
+  "meaning_ko": "(문제·증상이) 드러나다, 나타나다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mani",
+     "type": "root",
+     "gloss": "손 (manus)"
+    },
+    {
+     "text": "fest",
+     "type": "root",
+     "gloss": "잡힌·닿은 (-festus, 정확한 뜻은 학설이 갈림)"
+    }
+   ],
+   "story": "손에 잡힐 만큼 뚜렷한(manifestus) → 명백한 → (숨어 있던 것이) 드러나다"
+  },
+  "example": {
+   "q": "Why was the race condition so hard to find?",
+   "a": "It only manifested under heavy load across multiple regions, so I built a replay harness that reproduced the exact request ordering from production.",
+   "a_ko": "여러 리전에 부하가 몰릴 때만 드러나서, 운영 환경의 요청 순서를 그대로 재현하는 리플레이 도구를 만들었습니다."
+  },
+  "collocations": [
+   "manifest itself",
+   "manifest as",
+   "deployment manifest"
+  ],
+  "related": [
+   "manual",
+   "manipulate",
+   "maintain",
+   "manage"
+  ],
+  "tip": "동사(드러나다)·형용사(명백한)·명사(쿠버네티스 manifest 파일, 화물 목록)로 다 씀"
+ },
+ {
+  "id": "d23-C16",
+  "day": 23,
+  "level": 1,
+  "set": "C",
+  "family": "F3",
+  "word": "locally",
+  "pos": "adverb",
+  "ipa": "/ˈloʊkəli/",
+  "meaning_ko": "로컬에서, 현지에서",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "loc",
+     "type": "root",
+     "gloss": "장소 (locus)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "장소(locus)의 → 그 자리에서 → (내 컴퓨터) 로컬에서"
+  },
+  "example": {
+   "q": "How do you test changes before pushing them?",
+   "a": "I run the whole stack locally with Docker Compose before opening a pull request.",
+   "a_ko": "PR 을 올리기 전에 Docker Compose 로 전체 스택을 로컬에서 돌려 봅니다."
+  },
+  "collocations": [
+   "run locally",
+   "test locally",
+   "hire locally"
+  ],
+  "related": [
+   "local",
+   "locate",
+   "allocate",
+   "locality"
+  ],
+  "tip": "개발에서는 \"내 PC 에서\", 채용·급여에서는 \"현지에서(hire locally)\""
+ },
+ {
+  "id": "d23-C17",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "locator",
+  "pos": "noun",
+  "ipa": "/ˈloʊkeɪtər/",
+  "meaning_ko": "위치를 찾아 주는 것, 로케이터",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "loc",
+     "type": "root",
+     "gloss": "장소 (locus)"
+    },
+    {
+     "text": "ator",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "자리를 정하는 것(locare) → 위치를 찾아 주는 장치"
+  },
+  "example": {
+   "q": "How do your services find each other?",
+   "a": "We moved from a hand-written service locator to DNS-based discovery, so new services register themselves automatically.",
+   "a_ko": "직접 만든 서비스 로케이터에서 DNS 기반 디스커버리로 바꿔, 새 서비스가 자동으로 등록되게 했습니다."
+  },
+  "collocations": [
+   "service locator",
+   "uniform resource locator"
+  ],
+  "related": [
+   "locate",
+   "location",
+   "local",
+   "allocator"
+  ],
+  "tip": "URL 의 L 이 locator. 디자인 패턴 service locator 는 DI 와 자주 비교됨"
+ },
+ {
+  "id": "d23-C18",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "allocator",
+  "pos": "noun",
+  "ipa": "/ˈæləkeɪtər/",
+  "meaning_ko": "할당기 (메모리 등)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "al",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "loc",
+     "type": "root",
+     "gloss": "장소 (locus)"
+    },
+    {
+     "text": "ator",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "자리에 배치하는 것(allocare) → (메모리를) 나눠 주는 프로그램"
+  },
+  "example": {
+   "q": "How did you cut the service's memory usage?",
+   "a": "Fragmentation was the problem, so switching the allocator to jemalloc cut our memory footprint by thirty percent.",
+   "a_ko": "단편화가 원인이어서 메모리 할당기를 jemalloc 으로 바꾸자 메모리 사용량이 30% 줄었습니다."
+  },
+  "collocations": [
+   "memory allocator",
+   "custom allocator"
+  ],
+  "related": [
+   "allocate",
+   "allocation",
+   "locate",
+   "reallocate"
+  ],
+  "tip": "malloc 같은 메모리 할당 라이브러리를 부르는 말. 동사 allocate 는 Day 13"
+ },
+ {
+  "id": "d23-C19",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "reallocate",
+  "pos": "verb",
+  "ipa": "/riːˈæləkeɪt/",
+  "meaning_ko": "재배분하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "al",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "loc",
+     "type": "root",
+     "gloss": "장소 (locus)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "다시 자리를 나눠 배치하다 → 재배분하다"
+  },
+  "example": {
+   "q": "The total budget for this offer is fixed.",
+   "a": "Then could we reallocate part of the bonus into base salary, since base is what my mortgage lender looks at?",
+   "a_ko": "그렇다면 보너스 일부를 기본급으로 돌릴 수 있을까요? 주택담보대출 심사에서 보는 게 기본급이라서요."
+  },
+  "collocations": [
+   "reallocate budget",
+   "reallocate resources"
+  ],
+  "related": [
+   "allocate",
+   "allocation",
+   "locate",
+   "local"
+  ],
+  "tip": "총액이 고정일 때 \"구성만 바꾸자\"고 제안하는 핵심 동사"
+ },
+ {
+  "id": "d23-C20",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "locality",
+  "pos": "noun",
+  "ipa": "/loʊˈkæləti/",
+  "meaning_ko": "지역성 (데이터·참조)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "loc",
+     "type": "root",
+     "gloss": "장소 (locus)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "장소(locus)의 성질 → 가까이 모여 있음 → 데이터 지역성"
+  },
+  "example": {
+   "q": "Why did the new data layout run so much faster?",
+   "a": "We stored each customer's records together on disk, which improved cache locality and cut query latency by nearly half without adding hardware.",
+   "a_ko": "고객별 레코드를 디스크에 모아 저장해 캐시 지역성이 좋아졌고, 하드웨어 추가 없이 쿼리 지연이 거의 절반으로 줄었습니다."
+  },
+  "collocations": [
+   "data locality",
+   "locality of reference",
+   "cache locality"
+  ],
+  "related": [
+   "local",
+   "locate",
+   "allocate",
+   "locally"
+  ],
+  "tip": "locality of reference(참조 지역성)는 캐시·성능 질문의 기본 개념"
+ },
+ {
+  "id": "d23-C21",
+  "day": 23,
+  "level": 1,
+  "set": "C",
+  "family": "F3",
+  "word": "contact",
+  "pos": "verb",
+  "ipa": "/ˈkɑːntækt/",
+  "meaning_ko": "연락하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "tact",
+     "type": "root",
+     "gloss": "닿다 (tangere)"
+    }
+   ],
+   "story": "서로 닿다(contactus) → 접촉하다 → 연락하다"
+  },
+  "example": {
+   "q": "Can we speak with your previous manager?",
+   "a": "Of course. Feel free to contact her; I'll send you her email today.",
+   "a_ko": "물론입니다. 편하게 연락하셔도 됩니다. 오늘 이메일 주소를 보내 드리겠습니다."
+  },
+  "collocations": [
+   "contact someone",
+   "stay in contact"
+  ],
+  "related": [
+   "intact",
+   "tact",
+   "tangible",
+   "contagious"
+  ],
+  "tip": "contact 는 타동사라 contact to her 가 아니라 contact her"
+ },
+ {
+  "id": "d23-C22",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "integrate",
+  "pos": "verb",
+  "ipa": "/ˈɪntəɡreɪt/",
+  "meaning_ko": "통합하다, 연동하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "tegr",
+     "type": "root",
+     "gloss": "닿다 (tangere; integer 손대지 않은)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "손대지 않은 온전한 것(integer) → 하나로 온전하게 만들다 → 통합하다"
+  },
+  "example": {
+   "q": "Have you worked with third-party payment providers?",
+   "a": "Yes, I integrated Stripe and a local provider behind one interface, so we could switch without touching checkout code.",
+   "a_ko": "네, Stripe 와 국내 결제사를 하나의 인터페이스 뒤에 연동해서 결제 코드 수정 없이 전환할 수 있게 했습니다."
+  },
+  "collocations": [
+   "integrate with",
+   "integrate into",
+   "continuous integration"
+  ],
+  "related": [
+   "integrity",
+   "integer",
+   "entire",
+   "intact"
+  ],
+  "tip": "integrate A with B(연동), integrate A into B(편입). CI 의 I"
+ },
+ {
+  "id": "d23-C23",
+  "day": 23,
+  "level": 2,
+  "set": "C",
+  "family": "F3",
+  "word": "integrity",
+  "pos": "noun",
+  "ipa": "/ɪnˈteɡrəti/",
+  "meaning_ko": "정직성, 진실성",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아님"
+    },
+    {
+     "text": "tegr",
+     "type": "root",
+     "gloss": "닿다 (tangere; integer 손대지 않은)"
+    },
+    {
+     "text": "ity",
+     "type": "suffix",
+     "gloss": "~성"
+    }
+   ],
+   "story": "손대지 않은 온전함(integritas) → 흠 없음 → 정직성·무결성"
+  },
+  "example": {
+   "q": "Tell me about a time you had to deliver bad news.",
+   "a": "I told the client about the data loss right away, because integrity matters more to me than looking good.",
+   "a_ko": "데이터 유실 사실을 고객에게 바로 알렸습니다. 좋게 보이는 것보다 정직함이 더 중요하기 때문입니다."
+  },
+  "collocations": [
+   "personal integrity",
+   "data integrity",
+   "act with integrity"
+  ],
+  "related": [
+   "integrate",
+   "integer",
+   "entire",
+   "intact"
+  ],
+  "tip": "사람에겐 \"정직·청렴\", 데이터에겐 \"무결성(data integrity)\""
+ },
+ {
+  "id": "d23-C24",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "at-will",
+  "pos": "adjective",
+  "ipa": "/ət ˈwɪl/",
+  "meaning_ko": "(언제든) 해지할 수 있는 고용의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "part",
+     "gloss": "~에 따라"
+    },
+    {
+     "text": "will",
+     "type": "part",
+     "gloss": "뜻·의지"
+    }
+   ],
+   "story": "(어느 쪽이든) 뜻대로 → 언제든 그만두거나 해고할 수 있는 고용"
+  },
+  "example": {
+   "q": "Employment here is at-will, like at most US tech companies.",
+   "a": "I understand it's at-will, but could we add a severance clause of two months' pay in case my role is eliminated?",
+   "a_ko": "임의 고용이라는 점은 이해하지만, 제 직무가 없어질 경우를 대비해 두 달 치 급여의 퇴직금 조항을 넣을 수 있을까요?"
+  },
+  "collocations": [
+   "at-will employment",
+   "at-will employee"
+  ],
+  "related": [
+   "willing",
+   "willingness",
+   "goodwill"
+  ],
+  "tip": "미국 고용 계약의 기본 조건. 사유 없이 해고·퇴사가 가능해서 severance(퇴직금) 조항이 중요"
+ },
+ {
+  "id": "d23-C25",
+  "day": 23,
+  "level": 3,
+  "set": "C",
+  "family": "F3",
+  "word": "buyback",
+  "pos": "noun",
+  "ipa": "/ˈbaɪbæk/",
+  "meaning_ko": "(회사의) 주식 재매입",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "buy",
+     "type": "part",
+     "gloss": "사다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "되돌려"
+    }
+   ],
+   "story": "되사다 → 회사가 직원·주주의 주식을 다시 사들임"
+  },
+  "example": {
+   "q": "If you leave before an IPO, the company can buy back your vested shares.",
+   "a": "Could we set the buyback price at fair market value rather than what I paid, since I'd be taking early-stage risk?",
+   "a_ko": "제가 초기 단계의 위험을 감수하는 만큼, 재매입 가격을 제가 낸 금액이 아니라 공정 시장가로 정할 수 있을까요?"
+  },
+  "collocations": [
+   "share buyback",
+   "buyback right",
+   "buyback price"
+  ],
+  "related": [
+   "buy back",
+   "buy-in",
+   "payback"
+  ],
+  "tip": "퇴사 시 회사의 재매입권(repurchase right). 가격 기준(원가 vs 시가)이 핵심"
+ }
+]

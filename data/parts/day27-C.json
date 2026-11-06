@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "d27-C01",
+  "day": 27,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "versus",
+  "pos": "phrase",
+  "ipa": "/ˈvɝːsəs/",
+  "meaning_ko": "~대 ~, ~와 비교하여",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vertere)"
+    },
+    {
+     "text": "us",
+     "type": "suffix",
+     "gloss": "라틴어 분사 어미"
+    }
+   ],
+   "story": "라틴어 versus(~쪽으로 돌린, vertere 의 과거분사) → ~을 마주 보고 → ~에 맞서, ~대"
+  },
+  "example": {
+   "q": "Would you prefer a higher base salary or more stock?",
+   "a": "I'd compare base versus stock based on the company's growth stage.",
+   "a_ko": "회사의 성장 단계를 보고 기본급과 주식을 비교해서 정하겠습니다."
+  },
+  "collocations": [
+   "A versus B",
+   "build versus buy",
+   "cost versus benefit"
+  ],
+  "related": [
+   "reverse",
+   "convert",
+   "version",
+   "conversely"
+  ],
+  "tip": "줄여서 vs. 로 씀. build versus buy(직접 개발 vs 구매)는 IT 단골 표현"
+ },
+ {
+  "id": "d27-C02",
+  "day": 27,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "advertisement",
+  "pos": "noun",
+  "ipa": "/ˌædvərˈtaɪzmənt/",
+  "meaning_ko": "광고, 공고",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ise",
+     "type": "suffix",
+     "gloss": "동사"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 advertere(~쪽으로 돌리다) → 고대 프랑스어 avertir(주의를 돌리게 하다, 알리다) → advertise(알리다) → 광고, 공고"
+  },
+  "example": {
+   "q": "How did you find out about this position?",
+   "a": "I saw your job advertisement on LinkedIn, and it matched my skills.",
+   "a_ko": "링크드인에서 채용 공고를 봤는데 제 역량과 잘 맞았습니다."
+  },
+  "collocations": [
+   "job advertisement",
+   "place an advertisement",
+   "online advertisement"
+  ],
+  "related": [
+   "advertise",
+   "convert",
+   "divert",
+   "versus"
+  ],
+  "tip": "미국식 강세 ad-ver-TISE-ment, 영국식 ad-VER-tis-ment. 채용 공고는 job posting 도 많이 씀"
+ },
+ {
+  "id": "d27-C03",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "inverse",
+  "pos": "adjective",
+  "ipa": "/ˈɪnvɝːs/",
+  "meaning_ko": "반비례의, 역의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안쪽으로, 거꾸로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "e",
+     "type": "suffix",
+     "gloss": "형용사 어미"
+    }
+   ],
+   "story": "라틴어 inversus(뒤집힌, invertere 에서) → 거꾸로 된 → 역의, 반비례의"
+  },
+  "example": {
+   "q": "How did you decide how much memory to give the cache?",
+   "a": "We found an inverse relationship between cache size and database load, so adding memory cut our query volume in half.",
+   "a_ko": "캐시 크기와 DB 부하가 반비례한다는 것을 확인해서, 메모리를 늘려 쿼리량을 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "inverse relationship",
+   "inverse function",
+   "the inverse of"
+  ],
+  "related": [
+   "invert",
+   "inversion",
+   "reverse",
+   "convert"
+  ],
+  "tip": "inverse relationship = 한쪽이 늘면 다른 쪽이 주는 관계. 명사로 the inverse(역, 반대)"
+ },
+ {
+  "id": "d27-C04",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "traversal",
+  "pos": "noun",
+  "ipa": "/trəˈvɝːsəl/",
+  "meaning_ko": "순회, 탐색",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tra",
+     "type": "prefix",
+     "gloss": "가로질러 (trans)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "후기 라틴어 traversare(가로질러 돌다, trans + vertere) → traverse(가로지르다) → 하나씩 거쳐 가는 순회"
+  },
+  "example": {
+   "q": "How did you implement the permission check?",
+   "a": "I used a graph traversal from the user to each resource, and cached the results so repeated checks stayed fast.",
+   "a_ko": "사용자에서 각 리소스까지 그래프를 순회하는 방식으로 구현하고, 결과를 캐시해 반복 확인도 빠르게 했습니다."
+  },
+  "collocations": [
+   "tree traversal",
+   "graph traversal",
+   "breadth-first traversal"
+  ],
+  "related": [
+   "traverse",
+   "reverse",
+   "convert",
+   "inverse"
+  ],
+  "tip": "코딩 테스트 단골: in-order / pre-order traversal, BFS·DFS traversal"
+ },
+ {
+  "id": "d27-C05",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "risk-averse",
+  "pos": "adjective",
+  "ipa": "/ˈrɪsk əˌvɝːs/",
+  "meaning_ko": "위험을 꺼리는, 안정 지향의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "risk",
+     "type": "part",
+     "gloss": "위험"
+    },
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "떨어져 (ab)"
+    },
+    {
+     "text": "verse",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    }
+   ],
+   "story": "risk(위험) + averse(얼굴을 돌린, 라틴어 aversus ← avertere) → 위험에서 고개를 돌리는 → 위험을 꺼리는"
+  },
+  "example": {
+   "q": "Our offer is mostly equity. How do you feel about that?",
+   "a": "I'm fairly risk-averse with a family to support, so I'd prefer a higher base salary, even if it means fewer options.",
+   "a_ko": "부양할 가족이 있어 위험을 꺼리는 편이라, 옵션이 줄더라도 기본급이 더 높은 쪽을 선호합니다."
+  },
+  "collocations": [
+   "risk-averse investor",
+   "fairly risk-averse",
+   "risk-averse culture"
+  ],
+  "related": [
+   "averse",
+   "aversion",
+   "adverse",
+   "reverse"
+  ],
+  "tip": "주식 비중이 큰 오퍼에서 '안정 선호'를 솔직하고 차분하게 말할 때. averse to ~ 형태도 함께 기억"
+ },
+ {
+  "id": "d27-C06",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "convertible",
+  "pos": "adjective",
+  "ipa": "/kənˈvɝːtəbəl/",
+  "meaning_ko": "전환 가능한 (전환 사채의)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "후기 라틴어 convertibilis(완전히 돌릴 수 있는) → 바꿀 수 있는 → (주식으로) 전환 가능한"
+  },
+  "example": {
+   "q": "We're currently funded through a convertible note.",
+   "a": "Since your last raise was a convertible note, could you explain how my option price will be set once it converts at the next round?",
+   "a_ko": "최근 투자가 전환 사채였으니, 다음 라운드에서 전환될 때 제 옵션 가격이 어떻게 정해지는지 설명해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "convertible note",
+   "convertible bond",
+   "convertible into"
+  ],
+  "related": [
+   "convert",
+   "conversion",
+   "reverse",
+   "versus"
+  ],
+  "tip": "스타트업 초기 투자 방식 convertible note(전환 사채). 지붕을 여는 자동차도 convertible"
+ },
+ {
+  "id": "d27-C07",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "diversification",
+  "pos": "noun",
+  "ipa": "/daɪˌvɝːsəfɪˈkeɪʃən/",
+  "meaning_ko": "다각화, 분산",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "따로 (dis)"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ification",
+     "type": "suffix",
+     "gloss": "~하게 만듦 (facere)"
+    }
+   ],
+   "story": "라틴어 diversus(따로 돌린, 서로 다른) + facere(만들다) → 여러 갈래로 만듦 → 다각화, 분산"
+  },
+  "example": {
+   "q": "Our revenue still depends heavily on one large client.",
+   "a": "Diversification would reduce that risk; at my last company I helped launch a self-serve plan that brought in 200 small customers within a year.",
+   "a_ko": "다각화하면 그 위험을 줄일 수 있습니다. 전 직장에서 셀프 서비스 요금제 출시를 도와 1년 만에 소규모 고객 200곳을 확보했습니다."
+  },
+  "collocations": [
+   "revenue diversification",
+   "portfolio diversification",
+   "diversification strategy"
+  ],
+  "related": [
+   "diverse",
+   "diversity",
+   "divert",
+   "diverge"
+  ],
+  "tip": "사업 다각화·투자 분산 모두에 씀. 고객 집중 위험(customer concentration) 이야기와 짝"
+ },
+ {
+  "id": "d27-C08",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "subvert",
+  "pos": "verb",
+  "ipa": "/səbˈvɝːt/",
+  "meaning_ko": "(체제·규칙을) 몰래 무너뜨리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래에서"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    }
+   ],
+   "story": "라틴어 subvertere(아래에서 뒤집다) → 전복하다 → (규칙·과정을) 몰래 무너뜨리다"
+  },
+  "example": {
+   "q": "What would you do if you disagreed with a security policy?",
+   "a": "I'd raise it with the security team rather than subvert the policy, and propose a safer alternative backed by data.",
+   "a_ko": "정책을 몰래 우회하기보다 보안팀에 문제를 제기하고, 데이터로 뒷받침한 더 안전한 대안을 제안하겠습니다."
+  },
+  "collocations": [
+   "subvert the process",
+   "subvert expectations",
+   "subvert authority"
+  ],
+  "related": [
+   "convert",
+   "divert",
+   "revert",
+   "versus"
+  ],
+  "tip": "'규칙을 무시하지 않는다'는 신뢰를 보여 줄 때 rather than subvert 형태로. 명사 subversion"
+ },
+ {
+  "id": "d27-C09",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "incontrovertible",
+  "pos": "adjective",
+  "ipa": "/ˌɪnkɑːntrəˈvɝːtəbəl/",
+  "meaning_ko": "반박의 여지가 없는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "contro",
+     "type": "prefix",
+     "gloss": "반대로 (contra)"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "라틴어 controversus(반대로 돌린) → controvert(반박하다) → 반박할 수 있는 → in 이 붙어 반박의 여지가 없는"
+  },
+  "example": {
+   "q": "What makes you confident about the salary you're asking for?",
+   "a": "The market data is fairly incontrovertible: three recent offers for similar roles in Seoul were all above this number, and I'm happy to share them.",
+   "a_ko": "시장 자료가 꽤 확실합니다. 서울의 비슷한 직무 최근 오퍼 세 건이 모두 이 금액보다 높았고, 기꺼이 공유하겠습니다."
+  },
+  "collocations": [
+   "incontrovertible evidence",
+   "incontrovertible proof",
+   "incontrovertible fact"
+  ],
+  "related": [
+   "controversy",
+   "controversial",
+   "convert",
+   "reverse"
+  ],
+  "tip": "undeniable 보다 격식 있는 단어. 근거를 제시하며 연봉을 요구할 때 단정적으로 들리지 않게 fairly 를 붙이면 좋음"
+ },
+ {
+  "id": "d27-C10",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "adversary",
+  "pos": "noun",
+  "ipa": "/ˈædvərseri/",
+  "meaning_ko": "적수, 상대편",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vers",
+     "type": "root",
+     "gloss": "돌리다 (vert)"
+    },
+    {
+     "text": "ary",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    }
+   ],
+   "story": "라틴어 adversus(~쪽으로 몸을 돌린, 마주한) → adversarius(맞선 사람) → 적수, 상대편"
+  },
+  "example": {
+   "q": "How do you usually approach a negotiation like this?",
+   "a": "I don't see you as an adversary; I want an offer that works for both of us, so let's look at base and equity together.",
+   "a_ko": "저는 상대를 적으로 보지 않습니다. 서로에게 맞는 오퍼를 원하니 기본급과 주식을 함께 살펴봤으면 합니다."
+  },
+  "collocations": [
+   "see someone as an adversary",
+   "a worthy adversary",
+   "political adversary"
+  ],
+  "related": [
+   "adversarial",
+   "adverse",
+   "adversity",
+   "averse"
+  ],
+  "tip": "협상을 윈윈(win-win)으로 이끄는 오프닝 멘트에. 형용사 adversarial(적대적인)"
+ },
+ {
+  "id": "d27-C11",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "inadvertent",
+  "pos": "adjective",
+  "ipa": "/ˌɪnədˈvɝːtənt/",
+  "meaning_ko": "부주의로 인한, 의도치 않은",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~쪽으로"
+    },
+    {
+     "text": "vert",
+     "type": "root",
+     "gloss": "돌리다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "라틴어 advertere(마음을 ~쪽으로 돌리다, 주의하다) → advertent(주의하는) → in 이 붙어 주의하지 않은, 부주의로 인한"
+  },
+  "example": {
+   "q": "Tell me about a mistake you made at work.",
+   "a": "I made an inadvertent change to a shared config that broke staging, so I owned the fix and added a review rule for that file.",
+   "a_ko": "공용 설정 파일을 부주의하게 바꿔 스테이징이 깨진 적이 있어서, 직접 수습하고 그 파일에 리뷰 규칙을 추가했습니다."
+  },
+  "collocations": [
+   "inadvertent error",
+   "inadvertent change",
+   "inadvertent disclosure"
+  ],
+  "related": [
+   "inadvertently",
+   "advertise",
+   "avert",
+   "divert"
+  ],
+  "tip": "실수 질문에 'by accident'보다 격식 있게. 부사 inadvertently(무심코)"
+ },
+ {
+  "id": "d27-C12",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "divergent",
+  "pos": "adjective",
+  "ipa": "/daɪˈvɝːdʒənt/",
+  "meaning_ko": "서로 다른, 갈라지는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "따로 (dis)"
+    },
+    {
+     "text": "verg",
+     "type": "root",
+     "gloss": "기울다, 향하다 (vergere)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "중세 라틴어 divergere(따로따로 기울다) → 갈라져 나가는 → (의견이) 서로 다른"
+  },
+  "example": {
+   "q": "How do you handle a team with very different opinions?",
+   "a": "When views are divergent, I write down each option with its costs and benefits, then we decide against agreed criteria rather than volume.",
+   "a_ko": "의견이 갈릴 때는 각 안의 비용과 이점을 적어 두고, 목소리 크기가 아니라 합의한 기준으로 결정합니다."
+  },
+  "collocations": [
+   "divergent views",
+   "divergent thinking",
+   "widely divergent"
+  ],
+  "related": [
+   "diverge",
+   "divergence",
+   "converge",
+   "convergence"
+  ],
+  "tip": "divergent thinking 은 '확산적 사고'. 의견 차이를 다루는 갈등 질문에 유용"
+ },
+ {
+  "id": "d27-C13",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "extortionate",
+  "pos": "adjective",
+  "ipa": "/ɪkˈstɔːrʃənət/",
+  "meaning_ko": "터무니없이 비싼",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "tort",
+     "type": "root",
+     "gloss": "비틀다 (torquere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "라틴어 extorquere(비틀어 짜내다) → extortion(갈취) → 갈취하는 듯한 → 터무니없이 비싼"
+  },
+  "example": {
+   "q": "Our relocation package covers one month of temporary housing.",
+   "a": "That's helpful; rents near your office can be extortionate, so two months of housing would give my family time to find a place.",
+   "a_ko": "도움이 됩니다. 다만 사무실 근처 월세가 터무니없이 비쌀 수 있어서, 두 달을 지원해 주시면 가족이 집을 구할 시간이 생깁니다."
+  },
+  "collocations": [
+   "extortionate prices",
+   "extortionate rent",
+   "extortionate fees"
+  ],
+  "related": [
+   "distort",
+   "distortion",
+   "tortuous",
+   "torque"
+  ],
+  "tip": "very expensive 의 강한 표현. 상대 회사가 아닌 '외부 비용'에 써야 무례하지 않음"
+ },
+ {
+  "id": "d27-C14",
+  "day": 27,
+  "level": 3,
+  "set": "C",
+  "family": "F7",
+  "word": "tortuous",
+  "pos": "adjective",
+  "ipa": "/ˈtɔːrtʃuəs/",
+  "meaning_ko": "구불구불한, 복잡하고 오래 걸리는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tort",
+     "type": "root",
+     "gloss": "비틀다 (torquere)"
+    },
+    {
+     "text": "uous",
+     "type": "suffix",
+     "gloss": "~이 많은"
+    }
+   ],
+   "story": "라틴어 tortuosus(비틀림이 많은, tortus 에서) → 구불구불한 → (과정이) 복잡하고 오래 걸리는"
+  },
+  "example": {
+   "q": "Sorry the approval is taking a while on our side.",
+   "a": "No problem; I know internal approvals can be tortuous, so I'll keep my other process on hold until Friday if that helps.",
+   "a_ko": "괜찮습니다. 내부 승인이 복잡하고 오래 걸릴 수 있다는 걸 아니, 도움이 된다면 다른 전형은 금요일까지 보류해 두겠습니다."
+  },
+  "collocations": [
+   "tortuous process",
+   "tortuous negotiations",
+   "a tortuous route"
+  ],
+  "related": [
+   "distort",
+   "distortion",
+   "extortionate",
+   "torque"
+  ],
+  "tip": "torturous(고문 같은)와 헷갈리기 쉬움. tortuous 는 '꼬불꼬불·복잡한'"
+ },
+ {
+  "id": "d27-C15",
+  "day": 27,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "turning point",
+  "pos": "noun",
+  "ipa": "/ˈtɝːnɪŋ pɔɪnt/",
+  "meaning_ko": "전환점",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "point",
+     "type": "part",
+     "gloss": "점"
+    }
+   ],
+   "story": "라틴어 tornare(선반으로 돌리다) → turn(돌다) + point(점) → 방향이 바뀌는 지점 → 전환점"
+  },
+  "example": {
+   "q": "What's the most important experience in your career so far?",
+   "a": "Leading our payment migration was a turning point in my career.",
+   "a_ko": "결제 시스템 마이그레이션을 이끈 것이 제 경력의 전환점이었습니다."
+  },
+  "collocations": [
+   "a turning point in",
+   "mark a turning point",
+   "major turning point"
+  ],
+  "related": [
+   "turn down",
+   "return",
+   "turnover",
+   "detour"
+  ],
+  "tip": "경력 스토리를 말할 때 '그 경험 이후 달라졌다'를 한 단어로"
+ },
+ {
+  "id": "d27-C16",
+  "day": 27,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "turn down",
+  "pos": "phrasal verb",
+  "ipa": "/tɝːn ˈdaʊn/",
+  "meaning_ko": "거절하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    },
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    }
+   ],
+   "story": "라틴어 tornare(돌리다) → turn(돌리다) + down(아래로) → (요청을) 아래로 돌려 내려놓다 → 거절하다"
+  },
+  "example": {
+   "q": "What if we can't match your salary expectation?",
+   "a": "I'd rather not turn down this offer, so let's look at other options.",
+   "a_ko": "이 오퍼를 거절하고 싶지는 않으니 다른 방안을 함께 찾아봤으면 합니다."
+  },
+  "collocations": [
+   "turn down an offer",
+   "turn down a request",
+   "politely turn down"
+  ],
+  "related": [
+   "turning point",
+   "return",
+   "U-turn",
+   "overturn"
+  ],
+  "tip": "decline 보다 구어적. 오퍼를 거절할 때는 decline the offer 가 더 정중"
+ },
+ {
+  "id": "d27-C17",
+  "day": 27,
+  "level": 1,
+  "set": "C",
+  "family": "F7",
+  "word": "U-turn",
+  "pos": "noun",
+  "ipa": "/ˈjuːtɝːn/",
+  "meaning_ko": "(입장의) 180도 번복",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "U",
+     "type": "part",
+     "gloss": "U 자 모양"
+    },
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    }
+   ],
+   "story": "U 자 모양 + turn(돌기, tornare) → 차가 U 자로 돌아 반대로 가기 → 입장·정책의 180도 번복"
+  },
+  "example": {
+   "q": "Last week you mentioned two office days. Are you now asking for full remote?",
+   "a": "No, that's not a U-turn; two office days still work for me.",
+   "a_ko": "아닙니다, 입장을 바꾼 것이 아닙니다. 주 이틀 출근은 여전히 괜찮습니다."
+  },
+  "collocations": [
+   "do a U-turn",
+   "a policy U-turn",
+   "make a U-turn"
+  ],
+  "related": [
+   "turn down",
+   "turning point",
+   "return",
+   "reversal"
+  ],
+  "tip": "상대가 '말을 바꿨다'고 오해할 때 차분히 정정하는 멘트. 격식체는 reversal"
+ },
+ {
+  "id": "d27-C18",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "attorney",
+  "pos": "noun",
+  "ipa": "/əˈtɝːni/",
+  "meaning_ko": "변호사, 대리인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "at",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "torn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    },
+    {
+     "text": "ey",
+     "type": "suffix",
+     "gloss": "~된 사람 (과거분사 -é)"
+    }
+   ],
+   "story": "고대 프랑스어 atorner(~쪽으로 돌리다 → 맡기다, 지명하다, torner ← tornare)의 과거분사 atorné → 일을 맡겨 지명된 사람 → 대리인, 변호사"
+  },
+  "example": {
+   "q": "Take your time reviewing the contract.",
+   "a": "Thank you; I'll have an employment attorney review the non-compete section before I sign.",
+   "a_ko": "감사합니다. 서명 전에 노동 전문 변호사에게 경업금지 조항을 검토받겠습니다."
+  },
+  "collocations": [
+   "employment attorney",
+   "consult an attorney",
+   "power of attorney"
+  ],
+  "related": [
+   "turn",
+   "return",
+   "detour",
+   "tour"
+  ],
+  "tip": "미국식 표현. 영국은 solicitor·lawyer. power of attorney 는 위임장"
+ },
+ {
+  "id": "d27-C19",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "turnkey",
+  "pos": "adjective",
+  "ipa": "/ˈtɝːnkiː/",
+  "meaning_ko": "바로 쓸 수 있는 (완성형)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "turn",
+     "type": "root",
+     "gloss": "돌리다 (tornare)"
+    },
+    {
+     "text": "key",
+     "type": "part",
+     "gloss": "열쇠"
+    }
+   ],
+   "story": "turn(돌리다, tornare) + key(열쇠) → 원래 열쇠를 돌리는 간수 → 열쇠만 돌리면 바로 쓸 수 있는 → 완성형의"
+  },
+  "example": {
+   "q": "Why did you choose that vendor?",
+   "a": "They offered a turnkey solution, so we could launch in two weeks instead of building everything ourselves.",
+   "a_ko": "바로 쓸 수 있는 완성형 솔루션을 제공해서, 전부 직접 만드는 대신 2주 만에 출시할 수 있었습니다."
+  },
+  "collocations": [
+   "turnkey solution",
+   "turnkey system",
+   "turnkey project"
+  ],
+  "related": [
+   "turn down",
+   "return",
+   "turning point",
+   "detour"
+  ],
+  "tip": "out-of-the-box 와 비슷. build versus buy 결정에서 '구매' 쪽 근거로 자주 씀"
+ },
+ {
+  "id": "d27-C20",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "round-trip",
+  "pos": "noun",
+  "ipa": "/ˌraʊndˈtrɪp/",
+  "meaning_ko": "왕복 (요청-응답 한 번)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "round",
+     "type": "root",
+     "gloss": "둥근 (rotundus ← rota 바퀴)"
+    },
+    {
+     "text": "trip",
+     "type": "part",
+     "gloss": "여행"
+    }
+   ],
+   "story": "라틴어 rotundus(바퀴처럼 둥근, rota 에서) → round(빙 돌아오는) + trip → 왕복 → (네트워크) 요청이 갔다가 돌아오는 한 번"
+  },
+  "example": {
+   "q": "How did you speed up the dashboard?",
+   "a": "Each page load made ten round-trips to the API, so I batched them into a single call and halved the load time.",
+   "a_ko": "페이지를 열 때마다 API를 10번 왕복해서, 한 번의 호출로 묶어 로딩 시간을 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "round-trip time",
+   "network round-trip",
+   "round-trip ticket"
+  ],
+  "related": [
+   "rotate",
+   "rotation",
+   "role",
+   "control"
+  ],
+  "tip": "RTT(round-trip time) 은 지연 시간의 기본 단위. 띄어 쓴 round trip 도 흔함"
+ },
+ {
+  "id": "d27-C21",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "controller",
+  "pos": "noun",
+  "ipa": "/kənˈtroʊlər/",
+  "meaning_ko": "컨트롤러 (제어 구성 요소)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "controll",
+     "type": "root",
+     "gloss": "대조 장부로 확인하다 (contra 맞대어 + rotulus 두루마리)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "중세 라틴어 contrarotulus(대조용 두루마리 장부) → control(장부를 맞대어 확인하다, 관리하다) + er → 관리하는 것 → 제어 구성 요소"
+  },
+  "example": {
+   "q": "Tell me about something you built on Kubernetes.",
+   "a": "I wrote a custom Kubernetes controller that cleans up unused preview environments every night, which cut our cluster costs noticeably.",
+   "a_ko": "매일 밤 사용하지 않는 프리뷰 환경을 정리하는 쿠버네티스 커스텀 컨트롤러를 만들어 클러스터 비용을 눈에 띄게 줄였습니다."
+  },
+  "collocations": [
+   "custom controller",
+   "MVC controller",
+   "ingress controller"
+  ],
+  "related": [
+   "control",
+   "role",
+   "enroll",
+   "rotate"
+  ],
+  "tip": "MVC 의 C, 쿠버네티스 controller 등. 회사 직함 controller 는 '재무 관리자'"
+ },
+ {
+  "id": "d27-C22",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "revolution",
+  "pos": "noun",
+  "ipa": "/ˌrevəˈluːʃən/",
+  "meaning_ko": "혁명, 대변혁",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시, 뒤로"
+    },
+    {
+     "text": "volut",
+     "type": "root",
+     "gloss": "굴리다 (volvere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "명사"
+    }
+   ],
+   "story": "라틴어 revolvere(다시 굴리다) → revolutio(회전) → 판이 한 바퀴 뒤집힘 → 혁명, 대변혁"
+  },
+  "example": {
+   "q": "How are you keeping up with AI tools?",
+   "a": "The generative AI revolution changed how I code, so I use assistants for tests but still review every line.",
+   "a_ko": "생성형 AI 혁명으로 코딩 방식이 바뀌어서, 테스트 작성에는 어시스턴트를 쓰지만 모든 코드를 직접 검토합니다."
+  },
+  "collocations": [
+   "AI revolution",
+   "digital revolution",
+   "a revolution in"
+  ],
+  "related": [
+   "revolve",
+   "revolutionize",
+   "evolve",
+   "involve"
+  ],
+  "tip": "원래 '회전'(revolutions per minute = rpm). 동사는 revolutionize"
+ },
+ {
+  "id": "d27-C23",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "duplex",
+  "pos": "adjective",
+  "ipa": "/ˈduːpleks/",
+  "meaning_ko": "양방향의 (동시 송수신)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "du",
+     "type": "prefix",
+     "gloss": "둘 (duo)"
+    },
+    {
+     "text": "plex",
+     "type": "root",
+     "gloss": "겹 (plicare 접다)"
+    }
+   ],
+   "story": "라틴어 duplex(두 겹의, duo + -plex) → 두 갈래의 → (통신) 양방향 동시 송수신의"
+  },
+  "example": {
+   "q": "Why did you choose WebSockets for the chat feature?",
+   "a": "We needed full-duplex communication, and WebSockets let the server push messages without constant polling.",
+   "a_ko": "완전 양방향 통신이 필요했는데, 웹소켓은 계속 폴링하지 않고도 서버가 메시지를 보낼 수 있습니다."
+  },
+  "collocations": [
+   "full-duplex",
+   "half-duplex",
+   "duplex communication"
+  ],
+  "related": [
+   "duplicate",
+   "multiple",
+   "complex",
+   "multiplexing"
+  ],
+  "tip": "full-duplex(동시에 양방향) vs half-duplex(번갈아 한 방향). 미국에서는 2세대 주택도 duplex"
+ },
+ {
+  "id": "d27-C24",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "downturn",
+  "pos": "noun",
+  "ipa": "/ˈdaʊntɝːn/",
+  "meaning_ko": "(경기) 하락, 침체",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "down",
+     "type": "part",
+     "gloss": "아래로"
+    },
+    {
+     "text": "turn",
+     "type": "part",
+     "gloss": "돌기, 방향 전환"
+    }
+   ],
+   "story": "down(아래로) + turn(방향을 틀다) → 아래로 꺾임 → 경기·실적의 하락"
+  },
+  "example": {
+   "q": "How do you feel about joining a company during a downturn?",
+   "a": "A downturn forces focus, so I'd like to know which projects you're protecting, because I want to work on core revenue.",
+   "a_ko": "침체기에는 집중이 필요하니 어떤 프로젝트를 지키고 계신지 알고 싶습니다. 핵심 매출과 관련된 일을 하고 싶기 때문입니다."
+  },
+  "collocations": [
+   "economic downturn",
+   "market downturn",
+   "during a downturn"
+  ],
+  "related": [
+   "slowdown",
+   "headwind",
+   "layoff",
+   "upside"
+  ],
+  "tip": "핵심어. slowdown(둔화)보다 강하고 recession(경기 후퇴)보다는 약한 말"
+ },
+ {
+  "id": "d27-C25",
+  "day": 27,
+  "level": 2,
+  "set": "C",
+  "family": "F7",
+  "word": "upside",
+  "pos": "noun",
+  "ipa": "/ˈʌpsaɪd/",
+  "meaning_ko": "상승 여지, 이점",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "위로"
+    },
+    {
+     "text": "side",
+     "type": "part",
+     "gloss": "쪽, 면"
+    }
+   ],
+   "story": "up(위) + side(쪽) → 위쪽 면 → (가치가) 오를 여지, 좋은 면"
+  },
+  "example": {
+   "q": "The base is a bit lower, but the equity has a lot of upside.",
+   "a": "I see the upside, but could you share the latest valuation so I can estimate what the options might be worth?",
+   "a_ko": "상승 여지는 알겠습니다만, 옵션 가치를 추정할 수 있도록 최근 기업 가치를 알려 주실 수 있을까요?"
+  },
+  "collocations": [
+   "a lot of upside",
+   "upside potential",
+   "on the upside"
+  ],
+  "related": [
+   "downturn",
+   "tailwind",
+   "runway",
+   "down round"
+  ],
+  "tip": "핵심어. 반대는 downside. 주식 보상 협상에서 '근거 숫자'를 요청하는 멘트와 함께"
+ }
+]

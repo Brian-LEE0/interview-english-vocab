@@ -1,0 +1,1176 @@
+[
+ {
+  "id": "d21-D01",
+  "day": 21,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "mental health",
+  "pos": "noun",
+  "ipa": "/ˌmentəl ˈhelθ/",
+  "meaning_ko": "정신 건강",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "마음·생각 (mens)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "health",
+     "type": "part",
+     "gloss": "건강"
+    }
+   ],
+   "story": "마음(mens) → 마음의(mental) → 마음의 건강"
+  },
+  "example": {
+   "q": "Do you have any questions about our benefits?",
+   "a": "Yes, does the health plan include mental health support, like counseling sessions?",
+   "a_ko": "네, 건강 보험에 상담 같은 정신 건강 지원도 포함되나요?"
+  },
+  "collocations": [
+   "mental health support",
+   "mental health days"
+  ],
+  "related": [
+   "mentality",
+   "mention",
+   "comment",
+   "demonstrable"
+  ],
+  "tip": "mental health day(정신 건강을 위한 휴가)를 주는 회사도 많음"
+ },
+ {
+  "id": "d21-D02",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "aforementioned",
+  "pos": "adjective",
+  "ipa": "/əˈfɔːrˌmenʃənd/",
+  "meaning_ko": "앞서 언급한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "afore",
+     "type": "part",
+     "gloss": "앞서 (고대 영어)"
+    },
+    {
+     "text": "ment",
+     "type": "root",
+     "gloss": "마음·생각하다 (men-)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "마음에 떠올리게 함(mentio) → 언급(mention) → 앞서 언급된"
+  },
+  "example": {
+   "q": "Please let us know if you have any final questions about the contract.",
+   "a": "Thanks. Regarding the aforementioned relocation allowance, could you confirm whether it's paid before or after my start date?",
+   "a_ko": "감사합니다. 앞서 말씀하신 이주 지원금과 관련해서, 입사일 전에 지급되는지 후에 지급되는지 확인해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "the aforementioned clause",
+   "as aforementioned"
+  ],
+  "related": [
+   "mention",
+   "comment",
+   "mental health",
+   "demonstrable"
+  ],
+  "tip": "메일·계약서 같은 글에서 쓰는 딱딱한 표현. 말할 때는 the ~ we discussed 가 자연스러움"
+ },
+ {
+  "id": "d21-D03",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "demonstrable",
+  "pos": "adjective",
+  "ipa": "/dɪˈmɑːnstrəbəl/",
+  "meaning_ko": "입증할 수 있는, 명백한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "monstr",
+     "type": "root",
+     "gloss": "보여 주다 (monere '알리다'에서)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "알리다(monere) → 보여 주다(monstrare) → 완전히 보여 주다(demonstrare) → 입증할 수 있는"
+  },
+  "example": {
+   "q": "How should we structure your performance bonus?",
+   "a": "I'd suggest tying it to demonstrable outcomes, such as reducing cloud costs by fifteen percent, so we both know exactly what success looks like.",
+   "a_ko": "클라우드 비용 15% 절감처럼 입증할 수 있는 성과에 연동하는 걸 제안드립니다. 그래야 서로 성공의 기준을 정확히 알 수 있으니까요."
+  },
+  "collocations": [
+   "demonstrable results",
+   "demonstrable impact"
+  ],
+  "related": [
+   "demonstrate",
+   "monitor",
+   "demo",
+   "mental health"
+  ],
+  "tip": "measurable 과 비슷하지만 '보여 줄 수 있다'에 초점. 성과급 조건을 정할 때 유용"
+ },
+ {
+  "id": "d21-D04",
+  "day": 21,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "memorize",
+  "pos": "verb",
+  "ipa": "/ˈmeməraɪz/",
+  "meaning_ko": "외우다, 암기하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하다"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "기억(memoria) → 기억하게 하다 → 외우다"
+  },
+  "example": {
+   "q": "How did you prepare for this interview?",
+   "a": "I didn't memorize answers; I reviewed my projects and practiced explaining them.",
+   "a_ko": "답을 외우지는 않았고, 제 프로젝트를 다시 살펴보며 설명하는 연습을 했습니다."
+  },
+  "collocations": [
+   "memorize answers",
+   "memorize by heart"
+  ],
+  "related": [
+   "memory",
+   "memorable",
+   "memo",
+   "memorialize"
+  ],
+  "tip": "learn by heart 와 같은 뜻. 영국식 철자는 memorise"
+ },
+ {
+  "id": "d21-D05",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "in-memory",
+  "pos": "adjective",
+  "ipa": "/ˌɪn ˈmeməri/",
+  "meaning_ko": "메모리 내의 (디스크가 아닌)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~안에"
+    },
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하다"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "기억(memoria) → 컴퓨터의 기억 장치(memory) → 메모리 안에서 처리하는"
+  },
+  "example": {
+   "q": "How did you speed up the leaderboard API?",
+   "a": "I moved the rankings into an in-memory store like Redis, so reads no longer hit the database.",
+   "a_ko": "순위 데이터를 Redis 같은 인메모리 저장소로 옮겨서 읽기 요청이 더 이상 데이터베이스까지 가지 않게 했습니다."
+  },
+  "collocations": [
+   "in-memory cache",
+   "in-memory database"
+  ],
+  "related": [
+   "memory",
+   "memory leak",
+   "memorize",
+   "mnemonic"
+  ],
+  "tip": "빠르지만 재시작하면 사라질 수 있다는 점(영속성)을 같이 말하면 깊이가 보임"
+ },
+ {
+  "id": "d21-D06",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "mnemonic",
+  "pos": "noun",
+  "ipa": "/nɪˈmɑːnɪk/",
+  "meaning_ko": "니모닉, 기억을 돕는 문구",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "mnemon",
+     "type": "root",
+     "gloss": "기억하는 (그리스어 mnēmōn, memor 계열)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "기억하는(mnēmōn) → 기억을 돕는 → 기억하기 쉽게 만든 문구·이름"
+  },
+  "example": {
+   "q": "Tell me about a security-sensitive feature you built.",
+   "a": "In our crypto wallet app, users backed up their keys with a twelve-word mnemonic, so I designed the recovery flow to validate each word as it was typed.",
+   "a_ko": "저희 암호화폐 지갑 앱에서는 사용자가 12단어 니모닉으로 키를 백업했기 때문에, 단어를 입력할 때마다 바로 검증하도록 복구 흐름을 설계했습니다."
+  },
+  "collocations": [
+   "mnemonic phrase",
+   "a handy mnemonic"
+  ],
+  "related": [
+   "memory",
+   "memorize",
+   "in-memory",
+   "reminiscent"
+  ],
+  "tip": "첫 m 은 발음하지 않음: /nɪˈmɑːnɪk/ (니마닉). 어셈블리 명령어 이름(MOV, ADD)도 mnemonic"
+ },
+ {
+  "id": "d21-D07",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "memorialize",
+  "pos": "verb",
+  "ipa": "/məˈmɔːriəlaɪz/",
+  "meaning_ko": "(합의를) 문서로 남기다, 기념하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하다"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "기억의(memorialis) → 기억되게 하다 → 기념하다 → (합의를) 문서로 남겨 두다"
+  },
+  "example": {
+   "q": "Our manager has agreed that you can work remotely on Fridays.",
+   "a": "That's great news. Could we memorialize the remote Fridays arrangement in the offer letter, so it stays in place if my manager changes?",
+   "a_ko": "좋은 소식이네요. 매니저가 바뀌어도 유지되도록, 금요일 원격 근무 약속을 오퍼 레터에 문서로 남겨 주실 수 있을까요?"
+  },
+  "collocations": [
+   "memorialize in writing",
+   "memorialize the agreement"
+  ],
+  "related": [
+   "memory",
+   "memorize",
+   "memorandum of understanding",
+   "memo"
+  ],
+  "tip": "미국 비즈니스·법률 영어에서 '합의를 서면화하다'의 뜻. put it in writing 의 격식형"
+ },
+ {
+  "id": "d21-D08",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "memorandum of understanding",
+  "pos": "noun",
+  "ipa": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+  "meaning_ko": "양해 각서 (MOU)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "memor",
+     "type": "root",
+     "gloss": "기억하다"
+    },
+    {
+     "text": "andum",
+     "type": "suffix",
+     "gloss": "~해야 할 것"
+    },
+    {
+     "text": "of understanding",
+     "type": "part",
+     "gloss": "이해의"
+    }
+   ],
+   "story": "기억해야 할 것(memorandum) → 메모 → 서로 이해한 내용을 적은 문서 → 양해 각서"
+  },
+  "example": {
+   "q": "You'll be leading the partnership with our Korean vendor.",
+   "a": "Great. In my last role, I drafted a memorandum of understanding with a Seoul-based vendor, which helped us align on scope before the lawyers finalized the contract.",
+   "a_ko": "좋습니다. 이전 직장에서 서울의 한 업체와 양해 각서 초안을 작성했는데, 변호사들이 계약을 확정하기 전에 범위를 맞추는 데 도움이 됐습니다."
+  },
+  "collocations": [
+   "sign a memorandum of understanding",
+   "draft an MOU"
+  ],
+  "related": [
+   "memo",
+   "memory",
+   "memorialize",
+   "memorize"
+  ],
+  "tip": "보통 MOU 로 줄여 씀. 법적 구속력이 약한 '합의 의향서' 성격"
+ },
+ {
+  "id": "d21-D09",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "reminiscent",
+  "pos": "adjective",
+  "ipa": "/ˌremɪˈnɪsənt/",
+  "meaning_ko": "~을 떠올리게 하는, ~와 비슷한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "minisc",
+     "type": "root",
+     "gloss": "기억하다 (meminisse, men-)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "다시 기억하다(reminisci) → 옛일을 떠올리는 → ~을 떠올리게 하는"
+  },
+  "example": {
+   "q": "What do you think of the architecture we just walked through?",
+   "a": "It's reminiscent of the event-driven payments platform I helped build, so I'm confident I could get up to speed quickly and spot the common pitfalls early.",
+   "a_ko": "제가 구축에 참여했던 이벤트 기반 결제 플랫폼이 떠오릅니다. 그래서 빨리 적응하고 흔한 함정도 일찍 짚어 낼 수 있을 거라고 자신합니다."
+  },
+  "collocations": [
+   "reminiscent of",
+   "strongly reminiscent"
+  ],
+  "related": [
+   "mention",
+   "memory",
+   "mnemonic",
+   "mental health"
+  ],
+  "tip": "be reminiscent of ~ 로 '~와 비슷해서 경험을 살릴 수 있다'고 연결하기 좋음"
+ },
+ {
+  "id": "d21-D10",
+  "day": 21,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "in theory",
+  "pos": "phrase",
+  "ipa": "/ɪn ˈθɪri/",
+  "meaning_ko": "이론상으로는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~안에"
+    },
+    {
+     "text": "theor",
+     "type": "root",
+     "gloss": "보다 (그리스어 theōria '바라봄')"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "바라봄·관찰(theōria) → 머릿속으로 본 것 → 이론 → 이론상으로는"
+  },
+  "example": {
+   "q": "Could you start on the first of next month?",
+   "a": "In theory, yes, but I'd like to confirm my notice period with HR first.",
+   "a_ko": "이론상으로는 가능하지만, 먼저 인사팀과 퇴사 통보 기간을 확인하고 싶습니다."
+  },
+  "collocations": [
+   "in theory",
+   "in theory and in practice"
+  ],
+  "related": [
+   "theory",
+   "theoretical",
+   "theoretically",
+   "theorem"
+  ],
+  "tip": "In theory ~, but (in practice) ~ 로 조건을 붙여 답할 때 씀"
+ },
+ {
+  "id": "d21-D11",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "theoretically",
+  "pos": "adverb",
+  "ipa": "/ˌθiːəˈretɪkli/",
+  "meaning_ko": "원칙적으로는, 이론적으로는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "theor",
+     "type": "root",
+     "gloss": "보다 (theōria)"
+    },
+    {
+     "text": "etic",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "바라봄(theōria) → 이론 → 이론적으로 → 원칙적으로는"
+  },
+  "example": {
+   "q": "There's a clawback on the signing bonus if you leave within a year.",
+   "a": "Theoretically that's fine, since I plan to stay long term, but could we prorate the clawback by month so it's fair to both sides?",
+   "a_ko": "저는 오래 다닐 생각이라 원칙적으로는 괜찮습니다만, 양쪽에 공평하도록 반환 금액을 개월 수에 따라 비례 계산해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "theoretically possible",
+   "at least theoretically"
+  ],
+  "related": [
+   "theory",
+   "theoretical",
+   "in theory",
+   "theorem"
+  ],
+  "tip": "in theory 와 같은 뜻이지만 문장 전체를 꾸미는 부사라 더 격식 있게 들림"
+ },
+ {
+  "id": "d21-D12",
+  "day": 21,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "idea",
+  "pos": "noun",
+  "ipa": "/aɪˈdiːə/",
+  "meaning_ko": "생각, 아이디어",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "idea",
+     "type": "root",
+     "gloss": "보다 → 형상 (그리스어 idein '보다')"
+    }
+   ],
+   "story": "보다(idein) → 보이는 모습·형상(idea) → 머릿속에 그린 모습 → 생각"
+  },
+  "example": {
+   "q": "Tell me about a time you improved a process.",
+   "a": "I suggested an idea to automate release notes, and it saved us hours.",
+   "a_ko": "릴리스 노트를 자동화하자는 아이디어를 냈고, 그 덕에 몇 시간씩 아낄 수 있었습니다."
+  },
+  "collocations": [
+   "come up with an idea",
+   "pitch an idea",
+   "a rough idea"
+  ],
+  "related": [
+   "ideal",
+   "idealistic",
+   "video",
+   "history"
+  ],
+  "tip": "발음 /aɪˈdiːə/ (아이-디-아), 강세는 de 에"
+ },
+ {
+  "id": "d21-D13",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "idealistic",
+  "pos": "adjective",
+  "ipa": "/ˌaɪdiəˈlɪstɪk/",
+  "meaning_ko": "이상주의적인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ide",
+     "type": "root",
+     "gloss": "보다 → 형상 (idea)"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ist",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "형상(idea) → 이상적인(ideal) → 이상을 좇는 → 이상주의적인"
+  },
+  "example": {
+   "q": "What matters most to you in this decision?",
+   "a": "I'm idealistic about your mission, but I'm also realistic, so the package needs to support my family's move.",
+   "a_ko": "회사의 미션에는 이상주의적일 만큼 공감하지만 현실도 봐야 해서, 처우가 가족의 이주를 감당할 수 있어야 합니다."
+  },
+  "collocations": [
+   "idealistic but realistic",
+   "overly idealistic"
+  ],
+  "related": [
+   "idea",
+   "ideal",
+   "ideally",
+   "history"
+  ],
+  "tip": "idealistic ↔ realistic 를 대비시키면 균형 잡힌 사람으로 보임"
+ },
+ {
+  "id": "d21-D14",
+  "day": 21,
+  "level": 1,
+  "set": "D",
+  "family": "F1",
+  "word": "success story",
+  "pos": "noun",
+  "ipa": "/səkˈses ˌstɔːri/",
+  "meaning_ko": "성공 사례",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "success",
+     "type": "part",
+     "gloss": "성공"
+    },
+    {
+     "text": "story",
+     "type": "root",
+     "gloss": "알다 → 이야기 (historia, 그리스어 histōr '아는 사람')"
+    }
+   ],
+   "story": "알아낸 것을 전하는 이야기(historia) → 이야기(story) → 성공에 관한 이야기"
+  },
+  "example": {
+   "q": "What are you most proud of?",
+   "a": "My proudest success story is mentoring an intern who later joined us full-time.",
+   "a_ko": "가장 자랑스러운 성공 사례는 제가 멘토링한 인턴이 나중에 정규직으로 합류한 일입니다."
+  },
+  "collocations": [
+   "a customer success story",
+   "share a success story"
+  ],
+  "related": [
+   "story",
+   "history",
+   "historically",
+   "salary history"
+  ],
+  "tip": "story 는 history 가 줄어든 말 — 둘 다 '알아낸 것을 전함'에서 나옴"
+ },
+ {
+  "id": "d21-D15",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "historically",
+  "pos": "adverb",
+  "ipa": "/hɪˈstɔːrɪkli/",
+  "meaning_ko": "지금까지는, 역사적으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "histor",
+     "type": "root",
+     "gloss": "알다 (그리스어 histōr '아는 사람')"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "아는 사람·탐구(historia) → 지난 일의 기록 → 과거를 보면 → 지금까지는"
+  },
+  "example": {
+   "q": "How is your current bonus structured?",
+   "a": "Historically, my bonus has been about fifteen percent of base, paid annually, so I'd look for something comparable here.",
+   "a_ko": "지금까지 보너스는 보통 기본급의 15% 정도로 1년에 한 번 받아 왔기 때문에, 여기서도 비슷한 수준을 기대합니다."
+  },
+  "collocations": [
+   "historically speaking",
+   "has historically been"
+  ],
+  "related": [
+   "history",
+   "story",
+   "salary history",
+   "success story"
+  ],
+  "tip": "과거 실적·관행을 근거로 요구할 때 문장 맨 앞에 두면 자연스러움"
+ },
+ {
+  "id": "d21-D16",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "salary history",
+  "pos": "noun",
+  "ipa": "/ˈsæləri ˌhɪstəri/",
+  "meaning_ko": "과거 연봉 이력",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "salary",
+     "type": "part",
+     "gloss": "봉급"
+    },
+    {
+     "text": "histor",
+     "type": "root",
+     "gloss": "알다 (histōr)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "알아낸 것의 기록(historia) → 지난 기록 → 지금까지의 연봉 기록"
+  },
+  "example": {
+   "q": "Could you share your current salary and salary history?",
+   "a": "I'd prefer not to share my salary history, but I'm happy to tell you my expected range for this role.",
+   "a_ko": "과거 연봉 이력은 말씀드리지 않으려 합니다만, 이 자리에 대한 희망 연봉 범위는 기꺼이 말씀드리겠습니다."
+  },
+  "collocations": [
+   "salary history question",
+   "salary history ban"
+  ],
+  "related": [
+   "history",
+   "historically",
+   "story",
+   "success story"
+  ],
+  "tip": "미국 일부 주는 회사가 salary history 를 묻는 것을 법으로 금지함"
+ },
+ {
+  "id": "d21-D17",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "aesthetic",
+  "pos": "adjective",
+  "ipa": "/esˈθetɪk/",
+  "meaning_ko": "미적인, 디자인 감각의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "aesthet",
+     "type": "root",
+     "gloss": "느끼다·지각하다 (그리스어 aisthanesthai)"
+    },
+    {
+     "text": "ic",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "감각으로 지각하다(aisthanesthai) → 감각적인 → 아름다움을 느끼는 → 미적인"
+  },
+  "example": {
+   "q": "How do you work with designers?",
+   "a": "I respect their aesthetic choices, but I flag it early when an animation might hurt performance on low-end phones.",
+   "a_ko": "디자이너의 미적 선택을 존중하지만, 애니메이션이 저사양 휴대폰에서 성능을 떨어뜨릴 것 같으면 일찍 알려 드립니다."
+  },
+  "collocations": [
+   "aesthetic choices",
+   "a clean aesthetic"
+  ],
+  "related": [
+   "anesthesia",
+   "sense",
+   "sentiment",
+   "empathy"
+  ],
+  "tip": "명사로 a clean aesthetic(깔끔한 스타일)처럼도 씀. 발음 /esˈθetɪk/"
+ },
+ {
+  "id": "d21-D18",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "admirable",
+  "pos": "adjective",
+  "ipa": "/ˈædmərəbəl/",
+  "meaning_ko": "훌륭한, 존경할 만한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ad",
+     "type": "prefix",
+     "gloss": "~에·~을 향해"
+    },
+    {
+     "text": "mir",
+     "type": "root",
+     "gloss": "놀라다·바라보다 (mirari)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 만한"
+    }
+   ],
+   "story": "~을 보고 놀라다(admirari) → 감탄할 만한 → 훌륭한"
+  },
+  "example": {
+   "q": "We also offer sixteen weeks of paid parental leave.",
+   "a": "That's admirable, and it really matters to me since we're planning a family, so thank you for mentioning it.",
+   "a_ko": "정말 훌륭하네요. 저희가 아이 계획이 있어서 저에게 무척 중요한 부분입니다. 말씀해 주셔서 감사합니다."
+  },
+  "collocations": [
+   "an admirable policy",
+   "truly admirable"
+  ],
+  "related": [
+   "admire",
+   "mirror",
+   "miracle",
+   "admiration"
+  ],
+  "tip": "강세는 첫음절: /ˈædmərəbəl/ (애드머러블). admire(어드마이어)와 다름"
+ },
+ {
+  "id": "d21-D19",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "tech-savvy",
+  "pos": "adjective",
+  "ipa": "/ˌtek ˈsævi/",
+  "meaning_ko": "기술에 능숙한",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tech",
+     "type": "part",
+     "gloss": "기술"
+    },
+    {
+     "text": "savvy",
+     "type": "root",
+     "gloss": "알다 (sapere, 스페인·포르투갈어 sabe '그는 안다')"
+    }
+   ],
+   "story": "라틴어 sapere(맛보다·알다) → 스페인·포르투갈어 sabe(안다) → 잘 아는 → 기술을 잘 아는"
+  },
+  "example": {
+   "q": "Who were the main users of your internal tool?",
+   "a": "Mostly operations staff who weren't very tech-savvy, so I added guided forms and plain-language error messages.",
+   "a_ko": "주로 기술에 익숙하지 않은 운영팀 직원들이어서, 단계별 입력 폼과 쉬운 말로 된 에러 메시지를 넣었습니다."
+  },
+  "collocations": [
+   "tech-savvy users",
+   "not very tech-savvy"
+  ],
+  "related": [
+   "savvy",
+   "sage",
+   "sapient",
+   "science"
+  ],
+  "tip": "사용자 수준을 설명할 때 유용. 반대는 non-technical users"
+ },
+ {
+  "id": "d21-D20",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "sage",
+  "pos": "adjective",
+  "ipa": "/seɪdʒ/",
+  "meaning_ko": "현명한, 지혜로운",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sage",
+     "type": "root",
+     "gloss": "알다·지혜롭다 (sapere)"
+    }
+   ],
+   "story": "맛보다·분별하다(sapere) → 지혜로운(고대 프랑스어 sage) → 현명한"
+  },
+  "example": {
+   "q": "Who has influenced your career the most?",
+   "a": "My first tech lead gave me sage advice: write the rollback plan before the rollout plan, and I've followed it ever since.",
+   "a_ko": "첫 테크 리드가 '배포 계획보다 롤백 계획을 먼저 써라'라는 현명한 조언을 해 주셨고, 그 뒤로 계속 지키고 있습니다."
+  },
+  "collocations": [
+   "sage advice",
+   "a sage mentor"
+  ],
+  "related": [
+   "savvy",
+   "tech-savvy",
+   "sapient",
+   "science"
+  ],
+  "tip": "sage advice 가 가장 흔한 짝. 허브 이름 sage(세이지)와는 다른 단어"
+ },
+ {
+  "id": "d21-D21",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "tuition reimbursement",
+  "pos": "noun",
+  "ipa": "/tuˈɪʃən ˌriːɪmˈbɝːsmənt/",
+  "meaning_ko": "학비 지원 (환급)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tu",
+     "type": "root",
+     "gloss": "지켜보다·돌보다 (tueri)"
+    },
+    {
+     "text": "ition",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "reimbursement",
+     "type": "part",
+     "gloss": "환급"
+    }
+   ],
+   "story": "지켜봄·보호(tuitio) → 가르치며 돌봄 → 수업료 → 수업료를 돌려주는 제도"
+  },
+  "example": {
+   "q": "Is there anything else in the benefits you'd like to discuss?",
+   "a": "Yes, I'm planning a part-time master's degree, so I'd like to know if you offer tuition reimbursement.",
+   "a_ko": "네, 파트타임 석사를 계획하고 있어서 학비 지원 제도가 있는지 알고 싶습니다."
+  },
+  "collocations": [
+   "tuition reimbursement program",
+   "offer tuition reimbursement"
+  ],
+  "related": [
+   "tuition",
+   "tutorial",
+   "intuitively",
+   "tutelage"
+  ],
+  "tip": "대개 '몇 년 근무' 조건이 붙으니 반환 조건(clawback)도 같이 물어보기"
+ },
+ {
+  "id": "d21-D22",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "intuitively",
+  "pos": "adverb",
+  "ipa": "/ɪnˈtuːɪtɪvli/",
+  "meaning_ko": "직관적으로",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안을"
+    },
+    {
+     "text": "tu",
+     "type": "root",
+     "gloss": "보다·지켜보다 (tueri)"
+    },
+    {
+     "text": "it",
+     "type": "suffix",
+     "gloss": "(과거분사 어미)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "안을 들여다보다(intueri) → 곧바로 꿰뚫어 봄(intuition) → 직관적으로"
+  },
+  "example": {
+   "q": "How do you know if a UI is well designed?",
+   "a": "If new users can complete the main task intuitively, without reading any help text, the design is usually working.",
+   "a_ko": "새 사용자가 도움말을 읽지 않고도 직관적으로 주요 작업을 끝낼 수 있다면, 대개 잘된 디자인입니다."
+  },
+  "collocations": [
+   "intuitively obvious",
+   "work intuitively"
+  ],
+  "related": [
+   "intuition",
+   "intuitive",
+   "tutorial",
+   "tuition reimbursement"
+  ],
+  "tip": "intuitive(형용사) → intuitively(부사). counterintuitive(직관에 반하는)도 함께 기억"
+ },
+ {
+  "id": "d21-D23",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "tutelage",
+  "pos": "noun",
+  "ipa": "/ˈtuːtəlɪdʒ/",
+  "meaning_ko": "지도, 가르침",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tut",
+     "type": "root",
+     "gloss": "지켜보다·보호하다 (tueri)"
+    },
+    {
+     "text": "el",
+     "type": "suffix",
+     "gloss": "(명사 어미, tutela)"
+    },
+    {
+     "text": "age",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "지켜봄·보호(tutela) → 보호하며 가르침 → 지도"
+  },
+  "example": {
+   "q": "How did you grow into a senior engineer?",
+   "a": "Under the tutelage of a principal engineer, I learned to write design docs that compare trade-offs clearly, and within a year I was leading reviews myself.",
+   "a_ko": "수석 엔지니어의 지도를 받으며 트레이드오프를 명확히 비교하는 설계 문서를 쓰는 법을 배웠고, 1년 안에 제가 직접 리뷰를 이끌게 됐습니다."
+  },
+  "collocations": [
+   "under the tutelage of",
+   "under her tutelage"
+  ],
+  "related": [
+   "tutor",
+   "tutorial",
+   "tuition reimbursement",
+   "intuitively"
+  ],
+  "tip": "거의 항상 under the tutelage of + 사람 형태로 씀"
+ },
+ {
+  "id": "d21-D24",
+  "day": 21,
+  "level": 2,
+  "set": "D",
+  "family": "F1",
+  "word": "second thoughts",
+  "pos": "noun",
+  "ipa": "/ˌsekənd ˈθɔːts/",
+  "meaning_ko": "다시 생각함, 망설임",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "second",
+     "type": "part",
+     "gloss": "두 번째의"
+    },
+    {
+     "text": "thoughts",
+     "type": "part",
+     "gloss": "생각들"
+    }
+   ],
+   "story": "두 번째 생각 → 처음 결정을 다시 생각함 → 망설임"
+  },
+  "example": {
+   "q": "Are you having any doubts about joining?",
+   "a": "No second thoughts about the role, but I'd like to clarify the on-call schedule before I sign.",
+   "a_ko": "이 자리에 대한 망설임은 없지만, 서명하기 전에 온콜 일정을 확실히 하고 싶습니다."
+  },
+  "collocations": [
+   "have second thoughts",
+   "on second thought"
+  ],
+  "related": [
+   "cold feet",
+   "on the fence",
+   "mull over"
+  ],
+  "tip": "on second thought(다시 생각해 보니)는 단수 형태로 쓰는 다른 표현"
+ },
+ {
+  "id": "d21-D25",
+  "day": 21,
+  "level": 3,
+  "set": "D",
+  "family": "F1",
+  "word": "hold off",
+  "pos": "phrasal verb",
+  "ipa": "/ˌhoʊld ˈɔːf/",
+  "meaning_ko": "미루다, 보류하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "hold",
+     "type": "part",
+     "gloss": "잡다"
+    },
+    {
+     "text": "off",
+     "type": "part",
+     "gloss": "떨어져"
+    }
+   ],
+   "story": "떨어뜨려 붙잡아 두다 → 다가오지 못하게 하다 → (결정·행동을) 미루다"
+  },
+  "example": {
+   "q": "Should we send the formal offer letter today?",
+   "a": "Could you hold off until Thursday? I'm expecting a response from my current employer and want to give you a clear, final answer.",
+   "a_ko": "목요일까지 미뤄 주실 수 있을까요? 현재 회사에서 답이 올 예정이라 분명한 최종 답을 드리고 싶습니다."
+  },
+  "collocations": [
+   "hold off on",
+   "hold off until"
+  ],
+  "related": [
+   "sleep on it",
+   "on the fence",
+   "cold feet"
+  ],
+  "tip": "hold off on + 명사/-ing (hold off on signing). 기한을 함께 말하는 게 예의"
+ }
+]

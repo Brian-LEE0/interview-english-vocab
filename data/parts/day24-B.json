@@ -1,0 +1,1148 @@
+[
+ {
+  "id": "d24-B01",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "deferral",
+  "pos": "noun",
+  "ipa": "/dɪˈfɜːrəl/",
+  "meaning_ko": "연기, 유예",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떨어져 (원래 dis-, differre)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ral",
+     "type": "suffix",
+     "gloss": "~하는 일 (-al)"
+    }
+   ],
+   "story": "따로 떼어 나르다(differre) → 뒤로 미루다(defer) → 연기, 유예"
+  },
+  "example": {
+   "q": "Our team would ideally like you to start on March 3rd.",
+   "a": "I'm excited to join, but I'd like to request a two-week deferral of my start date so I can hand over my current projects properly.",
+   "a_ko": "합류하게 되어 기쁩니다만, 지금 맡은 프로젝트를 제대로 인수인계할 수 있도록 입사일을 2주 미뤄 주실 수 있을까요?"
+  },
+  "collocations": [
+   "request a deferral",
+   "start date deferral"
+  ],
+  "related": [
+   "defer",
+   "differ",
+   "transfer",
+   "offer"
+  ],
+  "tip": "defer(미루다)의 명사. '인수인계를 제대로 하려고' 처럼 이유를 붙이면 설득력이 올라감"
+ },
+ {
+  "id": "d24-B02",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "deference",
+  "pos": "noun",
+  "ipa": "/ˈdefərəns/",
+  "meaning_ko": "존중, (상대 판단을) 따름",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "아래로"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "아래로 날라 내려놓다(deferre, 맡기다) → 상대 판단에 맡기다 → 존중, 따름"
+  },
+  "example": {
+   "q": "How do you handle disagreeing with a senior engineer?",
+   "a": "I show deference to their experience, but I still share my data, because respectful pushback usually leads to a better design.",
+   "a_ko": "선배의 경험을 존중하지만 제 데이터도 꼭 공유합니다. 예의 있는 반론이 대개 더 좋은 설계로 이어지기 때문입니다."
+  },
+  "collocations": [
+   "out of deference to",
+   "show deference to"
+  ],
+  "related": [
+   "defer",
+   "refer",
+   "confer",
+   "preference"
+  ],
+  "tip": "'무조건 따른다'가 아니라 '존중한다'는 뉘앙스. in deference to = ~을 존중하여"
+ },
+ {
+  "id": "d24-B03",
+  "day": 24,
+  "level": 1,
+  "set": "B",
+  "family": "F4",
+  "word": "make a difference",
+  "pos": "phrase",
+  "ipa": "/ˌmeɪk ə ˈdɪfərəns/",
+  "meaning_ko": "변화를 만들다, 도움이 되다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "make",
+     "type": "part",
+     "gloss": "만들다"
+    },
+    {
+     "text": "a",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "dif",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "떨어지게 나르다(differre) → 다름 → 다름을 만들어 내다 → 의미 있는 변화를 만들다"
+  },
+  "example": {
+   "q": "What motivates you at work?",
+   "a": "I like work where I can make a difference for real users.",
+   "a_ko": "실제 사용자에게 변화를 만들 수 있는 일을 좋아합니다."
+  },
+  "collocations": [
+   "make a real difference",
+   "make a difference to"
+  ],
+  "related": [
+   "difference",
+   "differ",
+   "different",
+   "defer"
+  ],
+  "tip": "지원 동기 답변의 단골 표현. 누구에게(for real users) 를 붙이면 구체적으로 들림"
+ },
+ {
+  "id": "d24-B04",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "differential",
+  "pos": "noun",
+  "ipa": "/ˌdɪfəˈrenʃəl/",
+  "meaning_ko": "(급여) 격차, 차등 수당",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dif",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "fer",
+     "type": "root",
+     "gloss": "나르다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    },
+    {
+     "text": "ial",
+     "type": "suffix",
+     "gloss": "~에 관한"
+    }
+   ],
+   "story": "떨어지게 나르다 → 다름 → 차이에 관한 것 → (급여) 격차, 차등분"
+  },
+  "example": {
+   "q": "The salary for the Seoul office is set on a local scale.",
+   "a": "That makes sense. Is there a cost-of-living differential if I later relocate to the Singapore office, or would my pay be re-benchmarked?",
+   "a_ko": "이해합니다. 나중에 싱가포르 사무소로 옮기게 되면 생활비 차등 수당이 있나요, 아니면 연봉을 다시 산정하나요?"
+  },
+  "collocations": [
+   "pay differential",
+   "cost-of-living differential",
+   "shift differential"
+  ],
+  "related": [
+   "difference",
+   "differ",
+   "preferential",
+   "deferral"
+  ],
+  "tip": "지역·근무 시간대에 따라 붙는 차등분. shift differential = 야간·교대 수당"
+ },
+ {
+  "id": "d24-B05",
+  "day": 24,
+  "level": 1,
+  "set": "B",
+  "family": "F4",
+  "word": "relatively",
+  "pos": "adverb",
+  "ipa": "/ˈrelətɪvli/",
+  "meaning_ko": "비교적",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로, 다시"
+    },
+    {
+     "text": "lat",
+     "type": "root",
+     "gloss": "날라진 (latus)"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~한"
+    },
+    {
+     "text": "ly",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "되돌려 나르다(관련짓다) → 다른 것과 견주는 → 비교적"
+  },
+  "example": {
+   "q": "How flexible are you on the start date?",
+   "a": "I'm relatively flexible, but early April would be ideal.",
+   "a_ko": "비교적 유연한 편이지만, 4월 초면 가장 좋겠습니다."
+  },
+  "collocations": [
+   "relatively flexible",
+   "relatively new",
+   "relatively small"
+  ],
+  "related": [
+   "relate",
+   "relative",
+   "relation",
+   "translate"
+  ],
+  "tip": "단정을 부드럽게 만드는 말. 협상에서 여지를 남길 때 유용"
+ },
+ {
+  "id": "d24-B06",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "relatable",
+  "pos": "adjective",
+  "ipa": "/rɪˈleɪtəbəl/",
+  "meaning_ko": "공감이 가는, 와닿는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로, 다시"
+    },
+    {
+     "text": "lat",
+     "type": "root",
+     "gloss": "날라진 (latus)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "다시 날라 오다(relate) → 내 이야기와 이어질 수 있는 → 공감이 가는"
+  },
+  "example": {
+   "q": "How do you explain technical work to non-engineers?",
+   "a": "I use relatable examples, like comparing caching to keeping snacks on your desk instead of walking to the store.",
+   "a_ko": "공감 가는 예를 씁니다. 예를 들어 캐싱을, 가게까지 가지 않고 책상에 간식을 두는 것에 비유합니다."
+  },
+  "collocations": [
+   "relatable example",
+   "make it relatable"
+  ],
+  "related": [
+   "relate",
+   "relation",
+   "relatively",
+   "translate"
+  ],
+  "tip": "청중 눈높이에 맞춘 설명을 강조할 때. 약간 구어 느낌"
+ },
+ {
+  "id": "d24-B07",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "translate",
+  "pos": "verb",
+  "ipa": "/trænsˈleɪt/",
+  "meaning_ko": "번역하다, (다른 형태로) 바꾸다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trans",
+     "type": "prefix",
+     "gloss": "건너"
+    },
+    {
+     "text": "late",
+     "type": "root",
+     "gloss": "날라진 (latus)"
+    }
+   ],
+   "story": "건너편으로 날라 옮기다 → 다른 말로 옮기다 → 다른 형태로 바꾸다"
+  },
+  "example": {
+   "q": "How do you work with product managers?",
+   "a": "I translate their business goals into technical milestones, so both sides can track progress the same way.",
+   "a_ko": "PM 의 비즈니스 목표를 기술 마일스톤으로 바꿔서, 양쪽이 같은 기준으로 진행 상황을 볼 수 있게 합니다."
+  },
+  "collocations": [
+   "translate into",
+   "translate A into B",
+   "translate well"
+  ],
+  "related": [
+   "translation",
+   "relate",
+   "collate",
+   "transfer"
+  ],
+  "tip": "translate into ~ = ~로 이어지다: This will translate into faster releases."
+ },
+ {
+  "id": "d24-B08",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "visa support",
+  "pos": "noun",
+  "ipa": "/ˈviːzə səˈpɔːrt/",
+  "meaning_ko": "비자 (취득) 지원",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "visa",
+     "type": "part",
+     "gloss": "비자"
+    },
+    {
+     "text": "sup",
+     "type": "prefix",
+     "gloss": "아래 (sub)"
+    },
+    {
+     "text": "port",
+     "type": "root",
+     "gloss": "나르다"
+    }
+   ],
+   "story": "아래에서 떠받쳐 나르다(support) → 지원 → 비자 절차를 도와주는 것"
+  },
+  "example": {
+   "q": "Do you need anything from us to work in Japan?",
+   "a": "Yes, I'd need visa support, including a sponsorship letter and help with the immigration lawyer's fees.",
+   "a_ko": "네, 비자 지원이 필요합니다. 스폰서 레터와 이민 변호사 비용 지원을 포함해서요."
+  },
+  "collocations": [
+   "provide visa support",
+   "visa support package"
+  ],
+  "related": [
+   "support",
+   "report",
+   "transport",
+   "comport"
+  ],
+  "tip": "해외 취업 협상의 필수 항목. 비용을 누가 부담하는지까지 확인"
+ },
+ {
+  "id": "d24-B09",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "commit message",
+  "pos": "noun",
+  "ipa": "/kəˈmɪt ˈmesɪdʒ/",
+  "meaning_ko": "커밋 메시지",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "com",
+     "type": "prefix",
+     "gloss": "함께, 완전히"
+    },
+    {
+     "text": "mit",
+     "type": "root",
+     "gloss": "보내다"
+    },
+    {
+     "text": "mess",
+     "type": "root",
+     "gloss": "보낸 것 (missus ← mittere)"
+    },
+    {
+     "text": "age",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "완전히 보내 맡기다(committere) → 변경을 저장소에 맡김 + 보낸 소식(message) → 변경 이유를 적는 글"
+  },
+  "example": {
+   "q": "What makes a good code review culture?",
+   "a": "Clear commit messages matter a lot, so I always explain why a change was made, not just what changed.",
+   "a_ko": "명확한 커밋 메시지가 중요합니다. 그래서 무엇이 바뀌었는지뿐 아니라 왜 바꿨는지를 꼭 적습니다."
+  },
+  "collocations": [
+   "write a clear commit message",
+   "commit message convention"
+  ],
+  "related": [
+   "commit",
+   "message",
+   "mission",
+   "submit"
+  ],
+  "tip": "무엇(what)보다 왜(why)를 적는다고 말하면 좋은 인상"
+ },
+ {
+  "id": "d24-B10",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "object storage",
+  "pos": "noun",
+  "ipa": "/ˈɑːbdʒekt ˈstɔːrɪdʒ/",
+  "meaning_ko": "객체 스토리지",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "앞에"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "storage",
+     "type": "part",
+     "gloss": "저장"
+    }
+   ],
+   "story": "눈앞에 던져진 것(대상, 물건) → 하나의 덩어리(객체) → 데이터를 객체 단위로 저장하는 방식"
+  },
+  "example": {
+   "q": "How did you store the user uploads?",
+   "a": "We kept them in object storage like S3, which was cheaper and simpler than running a file server.",
+   "a_ko": "S3 같은 객체 스토리지에 저장했습니다. 파일 서버를 운영하는 것보다 싸고 간단했습니다."
+  },
+  "collocations": [
+   "object storage bucket",
+   "store files in object storage"
+  ],
+  "related": [
+   "object",
+   "objectivity",
+   "subject",
+   "project"
+  ],
+  "tip": "블록 스토리지·파일 스토리지와 비교해서 설명할 수 있으면 좋음"
+ },
+ {
+  "id": "d24-B11",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "objection handling",
+  "pos": "noun",
+  "ipa": "/əbˈdʒekʃən ˈhændlɪŋ/",
+  "meaning_ko": "반론 대응",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ob",
+     "type": "prefix",
+     "gloss": "맞서"
+    },
+    {
+     "text": "ject",
+     "type": "root",
+     "gloss": "던지다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "handling",
+     "type": "part",
+     "gloss": "다루기"
+    }
+   ],
+   "story": "맞서 던지다(obicere) → 반대 의견 → 반대 의견을 다루는 기술"
+  },
+  "example": {
+   "q": "Our CFO may push back on the budget for your proposal.",
+   "a": "That's fair. I've prepared some objection handling, including a cost breakdown and a smaller pilot option, so we can address her concerns directly.",
+   "a_ko": "그럴 수 있습니다. 비용 내역과 소규모 시범 운영안 등 반론 대응 자료를 준비해 두어서, 우려 사항에 바로 답할 수 있습니다."
+  },
+  "collocations": [
+   "objection handling skills",
+   "prepare objection handling"
+  ],
+  "related": [
+   "objection",
+   "object",
+   "reject",
+   "interject"
+  ],
+  "tip": "원래 영업 용어. 예상 반론과 답을 미리 준비했다고 말할 때"
+ },
+ {
+  "id": "d24-B12",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "tolerance",
+  "pos": "noun",
+  "ipa": "/ˈtɑːlərəns/",
+  "meaning_ko": "허용 범위, 내성",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "toler",
+     "type": "root",
+     "gloss": "견디다 (tolerare)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "짐을 지고 견디다 → 견딜 수 있는 정도 → 허용 범위"
+  },
+  "example": {
+   "q": "How did you set alert thresholds?",
+   "a": "We agreed on a latency tolerance of 300 milliseconds, so alerts fired only for real user impact.",
+   "a_ko": "지연 허용 범위를 300밀리초로 합의해서, 실제로 사용자에게 영향이 있을 때만 알림이 울리게 했습니다."
+  },
+  "collocations": [
+   "fault tolerance",
+   "risk tolerance",
+   "low tolerance for"
+  ],
+  "related": [
+   "tolerate",
+   "tolerable",
+   "extol",
+   "fault-tolerant"
+  ],
+  "tip": "risk tolerance(위험 감수 성향) 는 협상·투자 이야기에서도 씀"
+ },
+ {
+  "id": "d24-B13",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "extol",
+  "pos": "verb",
+  "ipa": "/ɪkˈstoʊl/",
+  "meaning_ko": "극찬하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로, 위로"
+    },
+    {
+     "text": "tol",
+     "type": "root",
+     "gloss": "들어 올리다 (tollere)"
+    }
+   ],
+   "story": "위로 들어 올리다 → 높이 치켜세우다 → 극찬하다"
+  },
+  "example": {
+   "q": "Your references were very positive about you.",
+   "a": "That's kind of them. My former manager tends to extol our team's work, but I'm happy to share concrete numbers so you can judge for yourself.",
+   "a_ko": "감사한 일입니다. 전 매니저님이 저희 팀 일을 높이 평가하시는 편이라, 직접 판단하실 수 있게 구체적인 수치도 공유드리겠습니다."
+  },
+  "collocations": [
+   "extol the virtues of",
+   "extol someone's work"
+  ],
+  "related": [
+   "tolerate",
+   "tolerance",
+   "elevate",
+   "levy"
+  ],
+  "tip": "격식어. 자기 자랑에는 쓰지 않고, 남이 칭찬한 것을 겸손하게 전할 때"
+ },
+ {
+  "id": "d24-B14",
+  "day": 24,
+  "level": 1,
+  "set": "B",
+  "family": "F4",
+  "word": "relief",
+  "pos": "noun",
+  "ipa": "/rɪˈliːf/",
+  "meaning_ko": "안도, (부담을) 덜어 줌",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "lief",
+     "type": "root",
+     "gloss": "들어 올림 (OF relief ← relever ← levare)"
+    }
+   ],
+   "story": "다시 들어 올려 짐을 덜다 → 덜어 줌 → 안도"
+  },
+  "example": {
+   "q": "How did you feel when the outage was finally fixed?",
+   "a": "It was a huge relief, and then I wrote the postmortem.",
+   "a_ko": "정말 안도했고, 바로 사후 분석 문서를 썼습니다."
+  },
+  "collocations": [
+   "a huge relief",
+   "to my relief"
+  ],
+  "related": [
+   "relieve",
+   "elevate",
+   "leverage",
+   "alleviate"
+  ],
+  "tip": "철자 구분: relief(명사) / relieve(동사)"
+ },
+ {
+  "id": "d24-B15",
+  "day": 24,
+  "level": 1,
+  "set": "B",
+  "family": "F4",
+  "word": "launch",
+  "pos": "verb",
+  "ipa": "/lɔːntʃ/",
+  "meaning_ko": "출시하다, 시작하다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "launch",
+     "type": "root",
+     "gloss": "던지다 (OF lancier ← lancea 창)"
+    }
+   ],
+   "story": "창을 던지다(lancier) → 배를 물에 띄우다 → 세상에 내놓다 → 출시하다"
+  },
+  "example": {
+   "q": "What's a project you're proud of?",
+   "a": "I helped launch our mobile app, which reached a million users.",
+   "a_ko": "모바일 앱 출시에 참여했고, 사용자 백만 명을 달성했습니다."
+  },
+  "collocations": [
+   "launch a product",
+   "product launch",
+   "launch date"
+  ],
+  "related": [
+   "soft launch",
+   "freelance",
+   "lance"
+  ],
+  "tip": "발음 /lɔːntʃ/ (론치). 동사·명사 모두 씀"
+ },
+ {
+  "id": "d24-B16",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "freelance",
+  "pos": "adjective",
+  "ipa": "/ˈfriːlæns/",
+  "meaning_ko": "프리랜서로 일하는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "free",
+     "type": "part",
+     "gloss": "자유로운"
+    },
+    {
+     "text": "lance",
+     "type": "root",
+     "gloss": "창 (lancea)"
+    }
+   ],
+   "story": "주군에 매이지 않은 창(용병 기사, 19세기 소설에서 쓰인 말) → 고용 계약 없이 일을 맡는 → 프리랜서"
+  },
+  "example": {
+   "q": "Would you consider a contract role first?",
+   "a": "I've done freelance work before, but now I'm looking for a full-time role with benefits and long-term ownership.",
+   "a_ko": "프리랜서로 일해 본 적이 있지만, 지금은 복리후생과 장기적인 책임이 있는 정규직을 찾고 있습니다."
+  },
+  "collocations": [
+   "freelance work",
+   "freelance contract",
+   "work freelance"
+  ],
+  "related": [
+   "launch",
+   "soft launch",
+   "lance"
+  ],
+  "tip": "사람은 freelancer. 정규직을 원하는 이유(소속감·장기 책임)를 붙이면 좋음"
+ },
+ {
+  "id": "d24-B17",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "carry over",
+  "pos": "phrasal verb",
+  "ipa": "/ˌkæri ˈoʊvər/",
+  "meaning_ko": "(다음 기간으로) 이월하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "carry",
+     "type": "root",
+     "gloss": "나르다 (AF carier ← carrus 수레)"
+    },
+    {
+     "text": "over",
+     "type": "part",
+     "gloss": "넘어"
+    }
+   ],
+   "story": "수레로 날라 넘기다 → 다음 기간으로 넘기다 → 이월하다"
+  },
+  "example": {
+   "q": "We offer twenty days of paid leave per year.",
+   "a": "That sounds good. Can unused days carry over to the next year, or do they expire in December?",
+   "a_ko": "좋습니다. 쓰지 못한 휴가는 다음 해로 이월되나요, 아니면 12월에 소멸되나요?"
+  },
+  "collocations": [
+   "carry over vacation days",
+   "carry-over limit"
+  ],
+  "related": [
+   "carry",
+   "career",
+   "charge",
+   "cargo"
+  ],
+  "tip": "명사·형용사는 carryover / carry-over. 휴가 이월 규정을 확인할 때"
+ },
+ {
+  "id": "d24-B18",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "carry weight",
+  "pos": "phrase",
+  "ipa": "/ˌkæri ˈweɪt/",
+  "meaning_ko": "영향력이 있다, 무게가 실리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "carry",
+     "type": "root",
+     "gloss": "나르다 (AF carier ← carrus 수레)"
+    },
+    {
+     "text": "weight",
+     "type": "part",
+     "gloss": "무게"
+    }
+   ],
+   "story": "무게를 싣고 나르다 → 말에 무게가 실리다 → 영향력이 있다"
+  },
+  "example": {
+   "q": "How did you convince leadership to change the architecture?",
+   "a": "My proposal carried weight because I backed it with three months of incident data and a clear cost comparison.",
+   "a_ko": "석 달 치 장애 데이터와 명확한 비용 비교로 뒷받침했기 때문에 제 제안에 무게가 실렸습니다."
+  },
+  "collocations": [
+   "carry a lot of weight",
+   "carry weight with"
+  ],
+  "related": [
+   "carry",
+   "carry over",
+   "charge",
+   "career"
+  ],
+  "tip": "근거가 있어서 의견이 받아들여졌다는 STAR 결과 부분에 잘 어울림"
+ },
+ {
+  "id": "d24-B19",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "carry the day",
+  "pos": "phrase",
+  "ipa": "/ˌkæri ðə ˈdeɪ/",
+  "meaning_ko": "(논쟁·협상에서) 이기다, 결국 채택되다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "carry",
+     "type": "root",
+     "gloss": "나르다 (AF carier ← carrus 수레)"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "day",
+     "type": "part",
+     "gloss": "날, 싸움"
+    }
+   ],
+   "story": "그날(싸움)의 승리를 실어 가다 → 논쟁이나 협상에서 이기다"
+  },
+  "example": {
+   "q": "How did the vendor negotiation end?",
+   "a": "After two rounds, our data on support costs carried the day, and the vendor agreed to a fifteen percent discount.",
+   "a_ko": "두 차례 협상 끝에 지원 비용 데이터가 결정적이었고, 업체가 15% 할인에 동의했습니다."
+  },
+  "collocations": [
+   "the argument carried the day",
+   "data carried the day"
+  ],
+  "related": [
+   "carry",
+   "carry weight",
+   "charge",
+   "career"
+  ],
+  "tip": "사람보다 근거(data, argument)를 주어로 쓰면 겸손하게 들림"
+ },
+ {
+  "id": "d24-B20",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "onus",
+  "pos": "noun",
+  "ipa": "/ˈoʊnəs/",
+  "meaning_ko": "책임, 부담",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "onus",
+     "type": "root",
+     "gloss": "짐 (onus)"
+    }
+   ],
+   "story": "짐 → 져야 할 짐 → 책임"
+  },
+  "example": {
+   "q": "Who should handle retries when the API fails?",
+   "a": "In our design, the onus is on the client to retry with backoff, so the server stays simple and stateless.",
+   "a_ko": "저희 설계에서는 백오프를 두고 재시도하는 책임을 클라이언트에 두어서, 서버를 단순하고 상태 없이 유지했습니다."
+  },
+  "collocations": [
+   "the onus is on",
+   "put the onus on"
+  ],
+  "related": [
+   "onerous",
+   "exonerate"
+  ],
+  "tip": "'the onus is on ~' 형태로 거의 고정. 책임 소재를 중립적으로 말할 때"
+ },
+ {
+  "id": "d24-B21",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "onerous",
+  "pos": "adjective",
+  "ipa": "/ˈɑːnərəs/",
+  "meaning_ko": "부담이 큰, 과중한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "oner",
+     "type": "root",
+     "gloss": "짐 (onus, oner-)"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "짐이 많은 → 무거운 → 부담이 큰"
+  },
+  "example": {
+   "q": "Do you have any concerns about the contract?",
+   "a": "The two-year non-compete feels a bit onerous for my field, so could we narrow it to direct competitors for six months?",
+   "a_ko": "2년짜리 경업 금지는 제 분야에서는 다소 과중하게 느껴집니다. 직접 경쟁사로 한정하고 6개월로 줄일 수 있을까요?"
+  },
+  "collocations": [
+   "onerous terms",
+   "onerous clause"
+  ],
+  "related": [
+   "onus",
+   "exonerate"
+  ],
+  "tip": "계약 조건이 과하다고 부드럽게 말할 때. unfair 보다 덜 공격적"
+ },
+ {
+  "id": "d24-B22",
+  "day": 24,
+  "level": 1,
+  "set": "B",
+  "family": "F4",
+  "word": "paid leave",
+  "pos": "noun",
+  "ipa": "/ˌpeɪd ˈliːv/",
+  "meaning_ko": "유급 휴가",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "paid",
+     "type": "part",
+     "gloss": "급여를 받는"
+    },
+    {
+     "text": "leave",
+     "type": "part",
+     "gloss": "허락, 휴가"
+    }
+   ],
+   "story": "떠나도 좋다는 허락(leave) + 급여 지급 → 급여를 받으며 쉬는 휴가"
+  },
+  "example": {
+   "q": "Do you have any questions about our benefits?",
+   "a": "Yes, how many days of paid leave do new employees get?",
+   "a_ko": "네, 신입 직원은 유급 휴가를 며칠 받나요?"
+  },
+  "collocations": [
+   "paid leave policy",
+   "take paid leave"
+  ],
+  "related": [
+   "time off",
+   "sick leave",
+   "parental leave"
+  ],
+  "tip": "PTO(paid time off) 라고도 함"
+ },
+ {
+  "id": "d24-B23",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "health coverage",
+  "pos": "noun",
+  "ipa": "/ˈhelθ ˌkʌvərɪdʒ/",
+  "meaning_ko": "건강보험 보장",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "health",
+     "type": "part",
+     "gloss": "건강"
+    },
+    {
+     "text": "coverage",
+     "type": "part",
+     "gloss": "보장 범위"
+    }
+   ],
+   "story": "건강 + 덮어 주는 범위 → 건강보험이 보장해 주는 범위"
+  },
+  "example": {
+   "q": "Our insurance plan starts on your first day.",
+   "a": "Great. Does the health coverage include my spouse, and are dental and vision covered as well?",
+   "a_ko": "좋습니다. 건강보험이 배우자도 보장하나요? 치과와 안과도 포함되나요?"
+  },
+  "collocations": [
+   "health coverage for dependents",
+   "full health coverage"
+  ],
+  "related": [
+   "paid leave",
+   "benefits",
+   "perk"
+  ],
+  "tip": "dependents(부양가족) 포함 여부와 본인 부담률을 함께 묻는 게 일반적"
+ },
+ {
+  "id": "d24-B24",
+  "day": 24,
+  "level": 2,
+  "set": "B",
+  "family": "F4",
+  "word": "kick in",
+  "pos": "phrasal verb",
+  "ipa": "/ˌkɪk ˈɪn/",
+  "meaning_ko": "(혜택·효력이) 시작되다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "kick",
+     "type": "part",
+     "gloss": "차다"
+    },
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "안으로"
+    }
+   ],
+   "story": "차서 넣다 → 시동이 걸리다 → (혜택·효력이) 적용되기 시작하다"
+  },
+  "example": {
+   "q": "Your bonus eligibility starts after probation.",
+   "a": "Understood. When exactly does the bonus kick in, and is the first year prorated?",
+   "a_ko": "알겠습니다. 보너스는 정확히 언제부터 적용되고, 첫해는 월할로 계산되나요?"
+  },
+  "collocations": [
+   "benefits kick in",
+   "kick in after 90 days"
+  ],
+  "related": [
+   "start date",
+   "probation",
+   "vesting"
+  ],
+  "tip": "협상에서 '언제부터 적용되나'를 물을 때 쓰는 자연스러운 구어"
+ },
+ {
+  "id": "d24-B25",
+  "day": 24,
+  "level": 3,
+  "set": "B",
+  "family": "F4",
+  "word": "garden leave",
+  "pos": "noun",
+  "ipa": "/ˈɡɑːrdən ˌliːv/",
+  "meaning_ko": "가든 리브 (급여를 받으며 출근하지 않는 퇴직 예고 기간)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "garden",
+     "type": "part",
+     "gloss": "정원"
+    },
+    {
+     "text": "leave",
+     "type": "part",
+     "gloss": "허락, 휴가"
+    }
+   ],
+   "story": "정원 + 휴가 → 회사에 나오지 않고 집 정원이나 가꾸며 급여만 받는 예고 기간"
+  },
+  "example": {
+   "q": "Your current employer might put you on garden leave, right?",
+   "a": "Yes, they usually impose three months of garden leave, so I'd ask whether you could hold the role or adjust the start date to match.",
+   "a_ko": "네, 보통 석 달간 가든 리브를 두게 해서, 자리를 그때까지 유지해 주시거나 입사일을 그에 맞춰 조정해 주실 수 있는지 여쭙고 싶습니다."
+  },
+  "collocations": [
+   "be put on garden leave",
+   "garden leave period"
+  ],
+  "related": [
+   "notice period",
+   "start date",
+   "non-compete"
+  ],
+  "tip": "영국·싱가포르 등에서 흔한 관행. 경업 금지와 함께 입사일 협상의 변수가 됨"
+ }
+]

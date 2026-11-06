@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "d29-C01",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "ruling",
+    "pos": "noun",
+    "ipa": "/ˈruːlɪŋ/",
+    "meaning_ko": "판결, (공식) 결정",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "rul",
+          "type": "root",
+          "gloss": "규칙·다스리다 (regula)"
+        },
+        {
+          "text": "ing",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "규칙(regula)으로 다스림 → 다스리는 쪽이 내린 결정 → 판결"
+    },
+    "example": {
+      "q": "Our contract still includes a non-compete clause.",
+      "a": "I've read about recent court rulings on non-competes, so could we confirm how enforceable that clause is in my state?",
+      "a_ko": "최근 경업 금지에 관한 법원 판결들을 읽었는데, 제가 사는 주에서 그 조항이 실제로 효력이 있는지 확인할 수 있을까요?"
+    },
+    "collocations": [
+      "court ruling",
+      "final ruling",
+      "ruling on"
+    ],
+    "related": [
+      "rule",
+      "regulation",
+      "regime",
+      "overrule"
+    ],
+    "tip": "rule(규칙)은 라틴어 regula 가 프랑스어를 거쳐 들어온 말"
+  },
+  {
+    "id": "d29-C02",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "redress",
+    "pos": "noun",
+    "ipa": "/rɪˈdres/",
+    "meaning_ko": "시정, 구제 (조치)",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "dress",
+          "type": "root",
+          "gloss": "바로 세우다 (directiare ← directus 곧은)"
+        }
+      ],
+      "story": "다시 바로 세우다 → 잘못을 바로잡다 → 시정·구제"
+    },
+    "example": {
+      "q": "If you ever disagree with a performance rating, you can raise it with HR.",
+      "a": "That's reassuring. Is there a formal process for redress, such as an appeal to a second reviewer, if I disagree with a rating?",
+      "a_ko": "안심이 되네요. 평가에 동의하지 않을 때 다른 평가자에게 재심을 요청하는 것 같은 공식 구제 절차가 있나요?"
+    },
+    "collocations": [
+      "seek redress",
+      "means of redress",
+      "redress a grievance"
+    ],
+    "related": [
+      "address",
+      "addressee",
+      "direct",
+      "correction"
+    ],
+    "tip": "dress 는 원래 '바로 세우다'라는 뜻 (address 와 같은 어원)"
+  },
+  {
+    "id": "d29-C03",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "addressee",
+    "pos": "noun",
+    "ipa": "/ˌædreˈsiː/",
+    "meaning_ko": "수신인",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ad",
+          "type": "prefix",
+          "gloss": "~쪽으로"
+        },
+        {
+          "text": "dress",
+          "type": "root",
+          "gloss": "곧게 향하다 (directiare)"
+        },
+        {
+          "text": "ee",
+          "type": "suffix",
+          "gloss": "~받는 사람"
+        }
+      ],
+      "story": "~쪽으로 곧게 보낸 것을 받는 사람 → 수신인"
+    },
+    "example": {
+      "q": "How careful are you with sensitive emails?",
+      "a": "Before sending anything with salary data, I double-check every addressee, because one wrong autocomplete can cause a leak.",
+      "a_ko": "연봉 정보가 담긴 메일은 보내기 전에 수신인을 하나하나 확인합니다. 자동 완성 실수 하나로 유출될 수 있기 때문입니다."
+    },
+    "collocations": [
+      "intended addressee",
+      "the addressee",
+      "addressee list"
+    ],
+    "related": [
+      "address",
+      "redress",
+      "direct"
+    ],
+    "tip": "-ee 는 '받는 사람' (employee, interviewee). 일상 메일에서는 recipient 를 더 씀"
+  },
+  {
+    "id": "d29-C04",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "resurgence",
+    "pos": "noun",
+    "ipa": "/rɪˈsɜːrdʒəns/",
+    "meaning_ko": "재기, 다시 늘어남",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "surg",
+          "type": "root",
+          "gloss": "솟아오르다 (surgere ← sub 아래에서 + regere 곧게 하다)"
+        },
+        {
+          "text": "ence",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "다시 솟아오름 → 다시 늘어남, 부활"
+    },
+    "example": {
+      "q": "Hiring has picked up a lot this quarter.",
+      "a": "I've noticed the resurgence in demand for platform engineers, which is why I'm weighing two offers and would appreciate a decision by Friday.",
+      "a_ko": "플랫폼 엔지니어 수요가 다시 늘어난 걸 느끼고 있어서 오퍼 두 개를 저울질하고 있는데, 금요일까지 결정해 주시면 감사하겠습니다."
+    },
+    "collocations": [
+      "a resurgence in",
+      "resurgence of interest",
+      "strong resurgence"
+    ],
+    "related": [
+      "surge",
+      "source",
+      "resource",
+      "resurrect"
+    ],
+    "tip": "comeback 의 격식 있는 말. 협상에서 시장 상황을 근거로 들 때 씀"
+  },
+  {
+    "id": "d29-C05",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "interrogate",
+    "pos": "verb",
+    "ipa": "/ɪnˈterəɡeɪt/",
+    "meaning_ko": "(데이터를) 따져 보다, 캐묻다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "inter",
+          "type": "prefix",
+          "gloss": "사이에"
+        },
+        {
+          "text": "rog",
+          "type": "root",
+          "gloss": "묻다 (rogare)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~하다"
+        }
+      ],
+      "story": "사이에 들어가 묻다 → 캐묻다 → 데이터를 이리저리 조회하며 따져 보다"
+    },
+    "example": {
+      "q": "How do you debug performance issues in production?",
+      "a": "I interrogate the traces first, filtering by slow endpoints, before I form any theory about the cause.",
+      "a_ko": "원인을 추측하기 전에 느린 엔드포인트로 걸러 트레이스부터 꼼꼼히 따져 봅니다."
+    },
+    "collocations": [
+      "interrogate the data",
+      "interrogate logs",
+      "interrogate assumptions"
+    ],
+    "related": [
+      "prerogative",
+      "derogatory",
+      "surrogate"
+    ],
+    "tip": "사람에게 쓰면 '심문하다'라 강한 말. 데이터·가정에 쓰면 '꼼꼼히 따져 보다'"
+  },
+  {
+    "id": "d29-C06",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "prerogative",
+    "pos": "noun",
+    "ipa": "/prɪˈrɑːɡətɪv/",
+    "meaning_ko": "특권, 고유 권한",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pre",
+          "type": "prefix",
+          "gloss": "먼저 (prae)"
+        },
+        {
+          "text": "rog",
+          "type": "root",
+          "gloss": "묻다 (rogare)"
+        },
+        {
+          "text": "ative",
+          "type": "suffix",
+          "gloss": "~하는 것"
+        }
+      ],
+      "story": "먼저 (투표 의사를) 묻는 쪽 → 먼저 정할 권리 → 고유 권한"
+    },
+    "example": {
+      "q": "We need your answer by tomorrow.",
+      "a": "I understand it's your prerogative to set the deadline, but I'd appreciate two more days to discuss the offer with my family.",
+      "a_ko": "마감일을 정하시는 건 회사의 권한이라는 걸 알지만, 가족과 오퍼를 상의할 수 있게 이틀만 더 주시면 감사하겠습니다."
+    },
+    "collocations": [
+      "it's your prerogative",
+      "management prerogative",
+      "exercise a prerogative"
+    ],
+    "related": [
+      "interrogate",
+      "derogatory",
+      "surrogate"
+    ],
+    "tip": "It's your prerogative. = 그건 당신이 정할 몫이죠 (상대 권한을 공손하게 인정할 때)"
+  },
+  {
+    "id": "d29-C07",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "derogatory",
+    "pos": "adjective",
+    "ipa": "/dɪˈrɑːɡətɔːri/",
+    "meaning_ko": "깎아내리는, 경멸적인",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어져"
+        },
+        {
+          "text": "rog",
+          "type": "root",
+          "gloss": "묻다·법안을 내다 (rogare)"
+        },
+        {
+          "text": "atory",
+          "type": "suffix",
+          "gloss": "~하는"
+        }
+      ],
+      "story": "법의 일부를 떼어 내다(derogare) → 가치를 깎아내리다 → 경멸적인"
+    },
+    "example": {
+      "q": "Our contract includes a non-disparagement clause.",
+      "a": "I'm fine with not making derogatory statements about the company, but I'd ask that the clause apply to both sides.",
+      "a_ko": "회사를 깎아내리는 말을 하지 않는 건 괜찮지만, 그 조항이 양쪽 모두에게 적용되도록 요청하고 싶습니다."
+    },
+    "collocations": [
+      "derogatory comments",
+      "derogatory remarks",
+      "derogatory term"
+    ],
+    "related": [
+      "prerogative",
+      "interrogate",
+      "surrogate"
+    ],
+    "tip": "non-disparagement(비방 금지) 조항을 이야기할 때 나오는 단어"
+  },
+  {
+    "id": "d29-C08",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "surrogate",
+    "pos": "adjective",
+    "ipa": "/ˈsɜːrəɡət/",
+    "meaning_ko": "대리의, 대체의",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "sur",
+          "type": "prefix",
+          "gloss": "대신 (sub)"
+        },
+        {
+          "text": "rog",
+          "type": "root",
+          "gloss": "묻다·뽑다 (rogare)"
+        },
+        {
+          "text": "ate",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "대신 뽑힌(surrogare) → 대리의 → 대체 키"
+    },
+    "example": {
+      "q": "How did you design the primary keys for that table?",
+      "a": "Email addresses changed too often, so I used a surrogate key and kept the email as a unique, indexed column.",
+      "a_ko": "이메일 주소가 너무 자주 바뀌어서 대체 키를 쓰고, 이메일은 유니크 인덱스 컬럼으로 두었습니다."
+    },
+    "collocations": [
+      "surrogate key",
+      "surrogate metric",
+      "serve as a surrogate"
+    ],
+    "related": [
+      "interrogate",
+      "prerogative",
+      "derogatory"
+    ],
+    "tip": "데이터 모델링 용어: natural key(자연 키) vs surrogate key(대체 키)"
+  },
+  {
+    "id": "d29-C09",
+    "day": 29,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "fatal",
+    "pos": "adjective",
+    "ipa": "/ˈfeɪtəl/",
+    "meaning_ko": "치명적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fat",
+          "type": "root",
+          "gloss": "말해진 운명 (fatum ← fari 말하다)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "(신이) 말한 것(fatum) = 운명 → 운명을 끝내는 → 치명적인"
+    },
+    "example": {
+      "q": "What did the logs show?",
+      "a": "The logs showed a fatal error right after the config change.",
+      "a_ko": "로그에 설정 변경 직후 치명적인 오류가 찍혀 있었습니다."
+    },
+    "collocations": [
+      "fatal error",
+      "fatal flaw",
+      "fatal exception"
+    ],
+    "related": [
+      "infamous",
+      "defamation",
+      "confess",
+      "fame"
+    ],
+    "tip": "fatal error = 프로그램이 멈추는 오류"
+  },
+  {
+    "id": "d29-C10",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "infamous",
+    "pos": "adjective",
+    "ipa": "/ˈɪnfəməs/",
+    "meaning_ko": "악명 높은",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "in",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "fam",
+          "type": "root",
+          "gloss": "평판·소문 (fama ← fari 말하다)"
+        },
+        {
+          "text": "ous",
+          "type": "suffix",
+          "gloss": "~한"
+        }
+      ],
+      "story": "좋은 평판이 아닌 → 나쁜 소문이 난 → 악명 높은"
+    },
+    "example": {
+      "q": "Tell me about a hard incident you handled.",
+      "a": "I handled our infamous Black Friday outage; afterwards I led the postmortem, and we added load tests that caught the next bottleneck early.",
+      "a_ko": "악명 높았던 블랙프라이데이 장애를 맡았고, 이후 포스트모템을 이끌어 다음 병목을 미리 잡는 부하 테스트를 추가했습니다."
+    },
+    "collocations": [
+      "infamous outage",
+      "infamous bug",
+      "the infamous"
+    ],
+    "related": [
+      "famous",
+      "fatal",
+      "defamation"
+    ],
+    "tip": "발음 주의: IN-famous(인퍼머스). famous 처럼 읽지 않음"
+  },
+  {
+    "id": "d29-C11",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "defamation",
+    "pos": "noun",
+    "ipa": "/ˌdefəˈmeɪʃən/",
+    "meaning_ko": "명예 훼손",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "떨어뜨려"
+        },
+        {
+          "text": "fam",
+          "type": "root",
+          "gloss": "평판 (fama ← fari 말하다)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~함"
+        }
+      ],
+      "story": "평판을 떨어뜨림 → 명예 훼손"
+    },
+    "example": {
+      "q": "The handbook says employees can be terminated for defamation of the company.",
+      "a": "I understand. Could the handbook define defamation clearly, so that honest feedback on internal forums isn't treated the same way?",
+      "a_ko": "이해합니다. 사내 게시판의 솔직한 피드백까지 같은 것으로 취급되지 않도록 명예 훼손의 정의를 분명히 해 주실 수 있을까요?"
+    },
+    "collocations": [
+      "defamation clause",
+      "defamation lawsuit",
+      "defamation of character"
+    ],
+    "related": [
+      "infamous",
+      "fatal",
+      "fame"
+    ],
+    "tip": "글로 하면 libel, 말로 하면 slander — 둘을 합쳐 defamation"
+  },
+  {
+    "id": "d29-C12",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "confess",
+    "pos": "verb",
+    "ipa": "/kənˈfes/",
+    "meaning_ko": "고백하다, 솔직히 인정하다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fess",
+          "type": "root",
+          "gloss": "인정하다 (fateri, fessus)"
+        }
+      ],
+      "story": "완전히 인정하다 → 털어놓다 → 고백하다"
+    },
+    "example": {
+      "q": "Is there a technology you struggle with?",
+      "a": "I'll confess that CSS layouts were my weak spot, so I took a course and now handle most front-end bugs myself.",
+      "a_ko": "솔직히 CSS 레이아웃이 약점이었는데, 강의를 듣고 나서는 프런트엔드 버그 대부분을 직접 처리합니다."
+    },
+    "collocations": [
+      "I must confess",
+      "confess to",
+      "confess that"
+    ],
+    "related": [
+      "professional",
+      "profession",
+      "fatal",
+      "infamous"
+    ],
+    "tip": "I'll confess / I have to confess 로 약점을 부드럽게 꺼낼 수 있음"
+  },
+  {
+    "id": "d29-C13",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "euphemism",
+    "pos": "noun",
+    "ipa": "/ˈjuːfəmɪzəm/",
+    "meaning_ko": "완곡어법, 돌려 말하기",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "eu",
+          "type": "prefix",
+          "gloss": "좋게"
+        },
+        {
+          "text": "phem",
+          "type": "root",
+          "gloss": "말 (phēmē)"
+        },
+        {
+          "text": "ism",
+          "type": "suffix",
+          "gloss": "~법"
+        }
+      ],
+      "story": "좋게 하는 말 → 거슬리는 말을 돌려 말하기"
+    },
+    "example": {
+      "q": "How do you deliver bad news to stakeholders?",
+      "a": "I avoid euphemisms like 'minor delay' when the date is really slipping by a month; I state the impact clearly and bring a recovery plan.",
+      "a_ko": "일정이 실제로 한 달 밀릴 때는 '약간의 지연' 같은 완곡한 표현을 쓰지 않습니다. 영향을 분명히 말하고 만회 계획을 함께 가져갑니다."
+    },
+    "collocations": [
+      "a euphemism for",
+      "corporate euphemism",
+      "use euphemisms"
+    ],
+    "related": [
+      "blame",
+      "blameless",
+      "rhetorical"
+    ],
+    "tip": "'rightsizing' 이 해고의 euphemism 인 것처럼 회사 말투에 자주 등장"
+  },
+  {
+    "id": "d29-C14",
+    "day": 29,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "blame",
+    "pos": "verb",
+    "ipa": "/bleɪm/",
+    "meaning_ko": "탓하다, 책임을 돌리다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "blame",
+          "type": "root",
+          "gloss": "나쁘게 말하다 (blasphemare ← phēmē 말)"
+        }
+      ],
+      "story": "그리스어 blasphēmein(나쁘게 말하다) → 라틴어 blasphemare → 고대 프랑스어 blasmer → 탓하다"
+    },
+    "example": {
+      "q": "What did you do when the release failed?",
+      "a": "I didn't blame anyone; I focused on fixing the release first.",
+      "a_ko": "누구도 탓하지 않고 먼저 릴리스를 고치는 데 집중했습니다."
+    },
+    "collocations": [
+      "blame someone for",
+      "take the blame",
+      "no one to blame"
+    ],
+    "related": [
+      "blameless",
+      "euphemism"
+    ],
+    "tip": "blame A for B / blame B on A 두 가지 어순을 모두 씀"
+  },
+  {
+    "id": "d29-C15",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "blameless",
+    "pos": "adjective",
+    "ipa": "/ˈbleɪmləs/",
+    "meaning_ko": "비난하지 않는, 잘못이 없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "blame",
+          "type": "root",
+          "gloss": "탓하다 (blasphemare)"
+        },
+        {
+          "text": "less",
+          "type": "suffix",
+          "gloss": "~없는"
+        }
+      ],
+      "story": "탓함이 없는 → 개인을 비난하지 않는"
+    },
+    "example": {
+      "q": "How does your team review incidents?",
+      "a": "We run blameless postmortems, so people share mistakes openly and we fix the system instead of the person.",
+      "a_ko": "비난 없는 포스트모템을 해서 사람들이 실수를 솔직히 공유하고, 사람 대신 시스템을 고칩니다."
+    },
+    "collocations": [
+      "blameless postmortem",
+      "blameless culture",
+      "blameless review"
+    ],
+    "related": [
+      "blame",
+      "euphemism"
+    ],
+    "tip": "SRE 문화의 핵심 표현 blameless postmortem"
+  },
+  {
+    "id": "d29-C16",
+    "day": 29,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "phone screen",
+    "pos": "noun",
+    "ipa": "/ˈfoʊn skriːn/",
+    "meaning_ko": "전화 면접 (1차 심사)",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "phone",
+          "type": "root",
+          "gloss": "소리·목소리 (phōnē)"
+        },
+        {
+          "text": "screen",
+          "type": "part",
+          "gloss": "가려내다"
+        }
+      ],
+      "story": "목소리(phōnē)로 가려내기 → 전화로 하는 1차 면접"
+    },
+    "example": {
+      "q": "How did you hear about the next steps?",
+      "a": "The recruiter explained them during my phone screen last week.",
+      "a_ko": "지난주 전화 면접 때 리크루터가 설명해 주셨습니다."
+    },
+    "collocations": [
+      "phone screen",
+      "initial phone screen",
+      "pass the phone screen"
+    ],
+    "related": [
+      "telephone",
+      "voice",
+      "vocal"
+    ],
+    "tip": "screen 은 동사로 '가려내다'. technical phone screen = 전화 기술 면접"
+  },
+  {
+    "id": "d29-C17",
+    "day": 29,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "oral",
+    "pos": "adjective",
+    "ipa": "/ˈɔːrəl/",
+    "meaning_ko": "구두의, 말로 하는",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "or",
+          "type": "root",
+          "gloss": "입 (os, oris)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "입(os)의 → 말로 하는 → 구두의"
+    },
+    "example": {
+      "q": "So we're agreed on a June 3 start date?",
+      "a": "Yes, but I'd like our oral agreement confirmed in the offer letter.",
+      "a_ko": "네, 다만 구두로 합의한 내용을 오퍼 레터에도 적어 주셨으면 합니다."
+    },
+    "collocations": [
+      "oral agreement",
+      "oral offer",
+      "oral presentation"
+    ],
+    "related": [
+      "oracle",
+      "oration",
+      "verbally"
+    ],
+    "tip": "verbal agreement 와 거의 같은 뜻. oral 은 '입으로', verbal 은 '말로'"
+  },
+  {
+    "id": "d29-C18",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "pronounced",
+    "pos": "adjective",
+    "ipa": "/prəˈnaʊnst/",
+    "meaning_ko": "뚜렷한, 두드러진",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "pro",
+          "type": "prefix",
+          "gloss": "앞으로"
+        },
+        {
+          "text": "nounc",
+          "type": "root",
+          "gloss": "알리다 (nuntiare)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "앞으로 알려진 → 공표된 → 뚜렷한"
+    },
+    "example": {
+      "q": "Did the new index help?",
+      "a": "Yes, the improvement was most pronounced for large customers, where query time dropped by half.",
+      "a_ko": "네, 대형 고객에서 개선이 가장 뚜렷해서 쿼리 시간이 절반으로 줄었습니다."
+    },
+    "collocations": [
+      "more pronounced",
+      "pronounced effect",
+      "most pronounced"
+    ],
+    "related": [
+      "pronounce",
+      "announce",
+      "unannounced",
+      "pronunciation"
+    ],
+    "tip": "형용사 pronounced = noticeable. '발음된'이라는 뜻이 아님"
+  },
+  {
+    "id": "d29-C19",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "unannounced",
+    "pos": "adjective",
+    "ipa": "/ˌʌnəˈnaʊnst/",
+    "meaning_ko": "예고 없는, 사전 공지 없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "un",
+          "type": "prefix",
+          "gloss": "아닌"
+        },
+        {
+          "text": "an",
+          "type": "prefix",
+          "gloss": "~에게 (ad)"
+        },
+        {
+          "text": "nounc",
+          "type": "root",
+          "gloss": "알리다 (nuntiare)"
+        },
+        {
+          "text": "ed",
+          "type": "suffix",
+          "gloss": "~된"
+        }
+      ],
+      "story": "알리지 않은 → 예고 없는"
+    },
+    "example": {
+      "q": "How do you test your disaster recovery?",
+      "a": "We run unannounced failover drills, so we know the team can recover even without preparation.",
+      "a_ko": "사전 공지 없이 페일오버 훈련을 해서, 준비 없이도 팀이 복구할 수 있는지 확인합니다."
+    },
+    "collocations": [
+      "unannounced drill",
+      "unannounced change",
+      "unannounced visit"
+    ],
+    "related": [
+      "announce",
+      "announcement",
+      "pronounced"
+    ],
+    "tip": "surprise 보다 공식적인 말"
+  },
+  {
+    "id": "d29-C20",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "commendable",
+    "pos": "adjective",
+    "ipa": "/kəˈmendəbəl/",
+    "meaning_ko": "칭찬할 만한, 훌륭한",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "com",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "mend",
+          "type": "root",
+          "gloss": "맡기다 (mandare)"
+        },
+        {
+          "text": "able",
+          "type": "suffix",
+          "gloss": "~할 만한"
+        }
+      ],
+      "story": "완전히 맡기다(commendare) → 믿고 추천하다 → 칭찬할 만한"
+    },
+    "example": {
+      "q": "How do you give feedback to peers?",
+      "a": "I keep it specific, for example telling a peer that her handling of the outage call was commendable because she updated customers every fifteen minutes.",
+      "a_ko": "구체적으로 말합니다. 예를 들어 동료에게 장애 대응 통화에서 15분마다 고객에게 상황을 알린 점이 훌륭했다고 말해 줍니다."
+    },
+    "collocations": [
+      "commendable effort",
+      "highly commendable",
+      "commendable job"
+    ],
+    "related": [
+      "commend",
+      "recommend",
+      "recommendation",
+      "mandate"
+    ],
+    "tip": "격식 있는 칭찬. 일상에서는 great, impressive"
+  },
+  {
+    "id": "d29-C21",
+    "day": 29,
+    "level": 1,
+    "set": "C",
+    "family": "F9",
+    "word": "verbally",
+    "pos": "adverb",
+    "ipa": "/ˈvɜːrbəli/",
+    "meaning_ko": "말로, 구두로",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "verb",
+          "type": "root",
+          "gloss": "말 (verbum)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ly",
+          "type": "suffix",
+          "gloss": "~하게"
+        }
+      ],
+      "story": "말(verbum)로 → 구두로"
+    },
+    "example": {
+      "q": "Can you accept the offer today?",
+      "a": "I can accept verbally today and sign the contract tomorrow.",
+      "a_ko": "오늘 구두로 수락하고 내일 계약서에 서명하겠습니다."
+    },
+    "collocations": [
+      "verbally accept",
+      "agree verbally",
+      "verbally confirm"
+    ],
+    "related": [
+      "verbal",
+      "verbalize",
+      "proverbial",
+      "verbatim"
+    ],
+    "tip": "구두 오퍼(verbal offer)를 받은 뒤에는 서면 오퍼(written offer)를 꼭 받기"
+  },
+  {
+    "id": "d29-C22",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "verbalize",
+    "pos": "verb",
+    "ipa": "/ˈvɜːrbəlaɪz/",
+    "meaning_ko": "말로 표현하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "verb",
+          "type": "root",
+          "gloss": "말 (verbum)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ize",
+          "type": "suffix",
+          "gloss": "~하게 하다"
+        }
+      ],
+      "story": "말로 만들다 → 생각을 말로 표현하다"
+    },
+    "example": {
+      "q": "I noticed the team was quiet in the planning meeting.",
+      "a": "I'll ask people to verbalize their concerns early, because silence in planning usually turns into surprises later.",
+      "a_ko": "계획 회의에서의 침묵은 대개 나중에 돌발 상황이 되니, 우려를 초반에 말로 꺼내 달라고 하겠습니다."
+    },
+    "collocations": [
+      "verbalize concerns",
+      "verbalize thoughts",
+      "hard to verbalize"
+    ],
+    "related": [
+      "verbal",
+      "verbally",
+      "proverbial"
+    ],
+    "tip": "머릿속 생각을 말로 꺼낸다는 뉘앙스"
+  },
+  {
+    "id": "d29-C23",
+    "day": 29,
+    "level": 3,
+    "set": "C",
+    "family": "F9",
+    "word": "astronomical",
+    "pos": "adjective",
+    "ipa": "/ˌæstrəˈnɑːmɪkəl/",
+    "meaning_ko": "천문학적인, 엄청난",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "astro",
+          "type": "prefix",
+          "gloss": "별 (astron)"
+        },
+        {
+          "text": "nom",
+          "type": "root",
+          "gloss": "법칙·배열 (nomos)"
+        },
+        {
+          "text": "ical",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "별(astron)의 법칙(nomos) → 천문학의 → 천문학적 숫자처럼 엄청난"
+    },
+    "example": {
+      "q": "Relocating you would include a temporary housing allowance.",
+      "a": "I appreciate that; rents near the office are astronomical right now, so a three-month housing allowance would make the move much easier.",
+      "a_ko": "감사합니다. 지금 사무실 근처 월세가 엄청나게 비싸서, 3개월 주거 지원이 있으면 이사가 훨씬 수월할 것 같습니다."
+    },
+    "collocations": [
+      "astronomical cost",
+      "astronomical rent",
+      "astronomical prices"
+    ],
+    "related": [
+      "autonomy",
+      "autonomous",
+      "taxonomy"
+    ],
+    "tip": "구어에서 '터무니없이 비싼'이라는 과장 표현"
+  },
+  {
+    "id": "d29-C24",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "chime in",
+    "pos": "phrasal verb",
+    "ipa": "/tʃaɪm ɪn/",
+    "meaning_ko": "(대화에) 끼어들어 한마디 하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "chime",
+          "type": "part",
+          "gloss": "종이 울리다"
+        },
+        {
+          "text": "in",
+          "type": "part",
+          "gloss": "안으로"
+        }
+      ],
+      "story": "종소리가 함께 울려 들어오다 → 대화에 끼어 한마디 하다"
+    },
+    "example": {
+      "q": "What's your role in cross-team meetings?",
+      "a": "I usually chime in when a decision affects the API, so other teams hear the trade-offs early.",
+      "a_ko": "결정이 API 에 영향을 줄 때 주로 의견을 보태서 다른 팀이 장단점을 미리 알 수 있게 합니다."
+    },
+    "collocations": [
+      "chime in on",
+      "feel free to chime in",
+      "chime in with"
+    ],
+    "related": [
+      "hard stop",
+      "talking points",
+      "takeaway"
+    ],
+    "tip": "Feel free to chime in. = 언제든 의견 주세요 (회의에서 자주 씀)"
+  },
+  {
+    "id": "d29-C25",
+    "day": 29,
+    "level": 2,
+    "set": "C",
+    "family": "F9",
+    "word": "hard stop",
+    "pos": "noun",
+    "ipa": "/hɑːrd stɑːp/",
+    "meaning_ko": "(일정상) 반드시 끝내야 하는 시각",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hard",
+          "type": "part",
+          "gloss": "단단한"
+        },
+        {
+          "text": "stop",
+          "type": "part",
+          "gloss": "멈춤"
+        }
+      ],
+      "story": "단단히 멈추는 시각 → 미룰 수 없는 종료 시각"
+    },
+    "example": {
+      "q": "Can we push the offer call to the afternoon?",
+      "a": "Sure, but I have a hard stop at 4 p.m., so could we start at 3?",
+      "a_ko": "네, 다만 오후 4시에는 반드시 끝내야 해서 3시에 시작해도 될까요?"
+    },
+    "collocations": [
+      "have a hard stop",
+      "hard stop at",
+      "hard stop on time"
+    ],
+    "related": [
+      "chime in",
+      "pencil in",
+      "follow-up call"
+    ],
+    "tip": "회의 시작 때 I have a hard stop at ~ 이라고 미리 말하는 게 매너"
+  }
+]

@@ -1,0 +1,1207 @@
+[
+ {
+  "id": "d28-A01",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "uninterrupted",
+  "pos": "adjective",
+  "ipa": "/ˌʌnɪntəˈrʌptɪd/",
+  "meaning_ko": "끊김 없는, 중단되지 않은",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "사이가 깨지지 않은 → 도중에 끊기지 않은 → 끊김 없는"
+  },
+  "example": {
+   "q": "How do you deploy a service that can't go down?",
+   "a": "We use blue-green deployments, so users get uninterrupted service while we switch traffic to the new version.",
+   "a_ko": "블루-그린 배포를 써서, 새 버전으로 트래픽을 넘기는 동안에도 사용자는 끊김 없이 서비스를 이용합니다."
+  },
+  "collocations": [
+   "uninterrupted service",
+   "uninterrupted focus",
+   "uninterrupted power supply"
+  ],
+  "related": [
+   "interrupt",
+   "disrupt",
+   "abrupt",
+   "interrupt-driven"
+  ],
+  "tip": "UPS = uninterruptible power supply(무정전 전원 장치). 집중 시간은 uninterrupted focus time"
+ },
+ {
+  "id": "d28-A02",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "interrupt-driven",
+  "pos": "adjective",
+  "ipa": "/ˈɪntərʌpt ˌdrɪvən/",
+  "meaning_ko": "(업무가) 끼어드는 요청 위주인, 인터럽트 구동 방식의",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "inter",
+     "type": "prefix",
+     "gloss": "사이에"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "-driven",
+     "type": "part",
+     "gloss": "~에 이끌리는"
+    }
+   ],
+   "story": "사이에 끼어들어 흐름을 깨는 것(인터럽트)에 이끌리는 → 계획보다 그때그때 들어오는 요청에 따라 돌아가는"
+  },
+  "example": {
+   "q": "What does a typical on-call week look like for you?",
+   "a": "On-call weeks are interrupt-driven, so I don't plan feature work and focus on alerts and tickets instead.",
+   "a_ko": "온콜 주간은 끼어드는 요청 위주로 돌아가서, 기능 개발은 잡지 않고 알림과 티켓 처리에 집중합니다."
+  },
+  "collocations": [
+   "interrupt-driven work",
+   "interrupt-driven I/O"
+  ],
+  "related": [
+   "interrupt",
+   "uninterrupted",
+   "disrupt",
+   "disruptive"
+  ],
+  "tip": "원래는 하드웨어 '인터럽트 구동' 방식. 업무 맥락에선 계속 요청이 끼어드는 상태를 말함"
+ },
+ {
+  "id": "d28-A03",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "disruptive",
+  "pos": "adjective",
+  "ipa": "/dɪsˈrʌptɪv/",
+  "meaning_ko": "지장을 주는, 혼란을 일으키는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "dis",
+     "type": "prefix",
+     "gloss": "산산이, 따로"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ive",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "산산이 깨뜨리는 → 흐름을 깨는 → 지장을 주는"
+  },
+  "example": {
+   "q": "We'd love you to start in two weeks. Is that possible?",
+   "a": "Leaving mid-sprint would be disruptive to my current team, so I'd propose starting four weeks from now instead.",
+   "a_ko": "스프린트 도중에 떠나면 지금 팀에 지장이 커서, 대신 4주 뒤 입사를 제안드리고 싶습니다."
+  },
+  "collocations": [
+   "disruptive to",
+   "highly disruptive",
+   "disruptive technology"
+  ],
+  "related": [
+   "disrupt",
+   "disruption",
+   "interrupt",
+   "bankrupt"
+  ],
+  "tip": "입사일을 미룰 때 '현 팀에 지장'을 이유로 들면 책임감 있게 들림. disruptive technology는 '파괴적 혁신 기술'(좋은 뜻)"
+ },
+ {
+  "id": "d28-A04",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "data corruption",
+  "pos": "noun",
+  "ipa": "/ˈdeɪtə kəˈrʌpʃən/",
+  "meaning_ko": "데이터 손상",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "data ",
+     "type": "part",
+     "gloss": "데이터 (datum 주어진 것)"
+    },
+    {
+     "text": "cor",
+     "type": "prefix",
+     "gloss": "완전히 (com)"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "완전히 깨뜨림 → 망가짐 → 데이터가 망가지는 것"
+  },
+  "example": {
+   "q": "Tell me about a serious bug you fixed.",
+   "a": "A race condition in our write path caused silent data corruption, so I added checksums and a lock to stop it.",
+   "a_ko": "쓰기 경로의 경쟁 조건 때문에 모르는 사이 데이터가 손상되고 있어서, 체크섬과 락을 추가해 막았습니다."
+  },
+  "collocations": [
+   "silent data corruption",
+   "prevent data corruption",
+   "detect corruption"
+  ],
+  "related": [
+   "corrupt",
+   "corruption",
+   "anti-corruption",
+   "rupture"
+  ],
+  "tip": "corrupted file(손상된 파일)도 같이 기억. 사람·조직에 쓰면 '부패'"
+ },
+ {
+  "id": "d28-A05",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "anti-corruption",
+  "pos": "adjective",
+  "ipa": "/ˌænti kəˈrʌpʃən/",
+  "meaning_ko": "부패 방지의, 반부패의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anti",
+     "type": "prefix",
+     "gloss": "반대"
+    },
+    {
+     "text": "-cor",
+     "type": "prefix",
+     "gloss": "완전히 (com)"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "완전히 깨뜨려 망가뜨림 → (도덕적) 부패 → 부패에 맞서는"
+  },
+  "example": {
+   "q": "Before you sign, we'll need you to complete a few compliance items.",
+   "a": "That's fine. I completed anti-corruption training at my current company, so I'm happy to sign the policy acknowledgment along with the offer.",
+   "a_ko": "괜찮습니다. 지금 회사에서 반부패 교육을 이수했으니, 오퍼와 함께 정책 확인서에도 기꺼이 서명하겠습니다."
+  },
+  "collocations": [
+   "anti-corruption policy",
+   "anti-corruption training",
+   "anti-corruption law"
+  ],
+  "related": [
+   "corrupt",
+   "corruption",
+   "data corruption",
+   "disrupt"
+  ],
+  "tip": "미국 FCPA·한국 청탁금지법 같은 컴플라이언스 서류를 말할 때. 발음 [앤티] 또는 [앤타이]"
+ },
+ {
+  "id": "d28-A06",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "en route",
+  "pos": "adverb",
+  "ipa": "/ɑːn ˈruːt/",
+  "meaning_ko": "가는 중에, 도중에",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "en ",
+     "type": "prefix",
+     "gloss": "~에, ~위에 (프랑스어 en)"
+    },
+    {
+     "text": "route",
+     "type": "root",
+     "gloss": "길 (rupta via 깨서 낸 길, rupt)"
+    }
+   ],
+   "story": "깨뜨려 뚫은 길(rupta via) → 길 → 길 위에 → 가는 중에"
+  },
+  "example": {
+   "q": "Are you still able to make the 3 p.m. meeting with the hiring manager?",
+   "a": "Yes, I'm en route now, but traffic is heavy, so I might be five minutes late.",
+   "a_ko": "네, 지금 가는 중인데 길이 많이 막혀서 5분쯤 늦을 수도 있습니다."
+  },
+  "collocations": [
+   "en route to",
+   "en route from"
+  ],
+  "related": [
+   "route",
+   "routine",
+   "routing number",
+   "rupture"
+  ],
+  "tip": "발음 [안 루트]. 메일·메시지에서 on my way 의 격식체"
+ },
+ {
+  "id": "d28-A07",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "routing number",
+  "pos": "noun",
+  "ipa": "/ˈraʊtɪŋ ˌnʌmbər/",
+  "meaning_ko": "(미국 은행의) 은행 식별 번호",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "rout",
+     "type": "root",
+     "gloss": "길 (route ← rupta via, rupt)"
+    },
+    {
+     "text": "ing",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": " number",
+     "type": "part",
+     "gloss": "번호"
+    }
+   ],
+   "story": "깨서 낸 길 → 길을 정해 보냄 → 송금이 갈 은행을 정하는 번호"
+  },
+  "example": {
+   "q": "HR will send you a form to set up direct deposit for your salary.",
+   "a": "Thanks. I'll fill in my bank's routing number and account number and send it back before my first payday.",
+   "a_ko": "감사합니다. 은행 식별 번호와 계좌 번호를 적어서 첫 급여일 전에 회신하겠습니다."
+  },
+  "collocations": [
+   "bank routing number",
+   "routing and account number"
+  ],
+  "related": [
+   "route",
+   "en route",
+   "router",
+   "routine"
+  ],
+  "tip": "미국 은행의 9자리 번호. 한국에 없는 개념이라 미국 회사 입사 서류에서 자주 막힘"
+ },
+ {
+  "id": "d28-A08",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "bankrupt",
+  "pos": "adjective",
+  "ipa": "/ˈbæŋkrʌpt/",
+  "meaning_ko": "파산한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bank",
+     "type": "part",
+     "gloss": "은행·환전상의 탁자 (이탈리아어 banca)"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨진 (rotta ← rupta)"
+    }
+   ],
+   "story": "깨진 탁자(이탈리아어 banca rotta) → 장사가 무너진 → 파산한"
+  },
+  "example": {
+   "q": "This is an early-stage startup. How do you feel about the risk?",
+   "a": "I'm comfortable with risk, but I'd want a higher base salary, because if the company goes bankrupt, my equity would be worth nothing.",
+   "a_ko": "위험은 괜찮지만, 회사가 파산하면 지분은 가치가 없어지니 기본급은 더 높게 받고 싶습니다."
+  },
+  "collocations": [
+   "go bankrupt",
+   "declare bankruptcy",
+   "morally bankrupt"
+  ],
+  "related": [
+   "bankruptcy",
+   "disrupt",
+   "interrupt",
+   "abrupt"
+  ],
+  "tip": "go bankrupt(파산하다) 형태가 가장 흔함. '탁자가 깨졌다'는 말은 비유로 보는 것이 정설"
+ },
+ {
+  "id": "d28-A09",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "bankruptcy",
+  "pos": "noun",
+  "ipa": "/ˈbæŋkrʌptsi/",
+  "meaning_ko": "파산",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "bank",
+     "type": "part",
+     "gloss": "은행·환전상의 탁자 (banca)"
+    },
+    {
+     "text": "rupt",
+     "type": "root",
+     "gloss": "깨진"
+    },
+    {
+     "text": "cy",
+     "type": "suffix",
+     "gloss": "~한 상태"
+    }
+   ],
+   "story": "깨진 탁자 → 무너진 장사 → 파산(한 상태)"
+  },
+  "example": {
+   "q": "Is there anything else you'd like to know about the company?",
+   "a": "Since the startup I worked for filed for bankruptcy last year, I'd appreciate a quick overview of your funding and runway before I decide.",
+   "a_ko": "제가 다니던 스타트업이 작년에 파산 신청을 해서, 결정하기 전에 투자 현황과 런웨이를 간단히 들을 수 있으면 좋겠습니다."
+  },
+  "collocations": [
+   "file for bankruptcy",
+   "declare bankruptcy",
+   "bankruptcy protection"
+  ],
+  "related": [
+   "bankrupt",
+   "insolvency",
+   "solvent",
+   "disrupt"
+  ],
+  "tip": "file for bankruptcy = 파산 신청하다. 미국 Chapter 11 은 '회생 절차'"
+ },
+ {
+  "id": "d28-A10",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "fragmented",
+  "pos": "adjective",
+  "ipa": "/ˈfræɡmentɪd/",
+  "meaning_ko": "조각난, 파편화된",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "frag",
+     "type": "root",
+     "gloss": "깨다 (frangere)"
+    },
+    {
+     "text": "ment",
+     "type": "suffix",
+     "gloss": "~된 것"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "깨진 조각 → 조각조각 흩어진 → 파편화된"
+  },
+  "example": {
+   "q": "What problem did you solve in your last role?",
+   "a": "Our monitoring was fragmented across five tools, so I consolidated everything into one dashboard to cut response time.",
+   "a_ko": "모니터링이 도구 다섯 개에 흩어져 있어서, 대응 시간을 줄이려고 대시보드 하나로 모두 합쳤습니다."
+  },
+  "collocations": [
+   "fragmented data",
+   "highly fragmented",
+   "fragmented market"
+  ],
+  "related": [
+   "fragment",
+   "fragile",
+   "fraction",
+   "noninfringement"
+  ],
+  "tip": "fragmented market(파편화된 시장)처럼 비즈니스에도 씀"
+ },
+ {
+  "id": "d28-A11",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "noninfringement",
+  "pos": "noun",
+  "ipa": "/ˌnɑːnɪnˈfrɪndʒmənt/",
+  "meaning_ko": "(권리) 비침해, 침해하지 않음",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "non",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "in",
+     "type": "prefix",
+     "gloss": "안으로"
+    },
+    {
+     "text": "fring",
+     "type": "root",
+     "gloss": "깨다 (frangere, frag)"
+    },
+    {
+     "text": "ement",
+     "type": "suffix",
+     "gloss": "~함"
+    }
+   ],
+   "story": "안으로 깨고 들어감(infringe, 침해) → 그것이 아님 → 남의 권리를 침해하지 않음"
+  },
+  "example": {
+   "q": "Is there anything in the contractor agreement you'd like to change?",
+   "a": "Since I'll be delivering code, I'd like the noninfringement warranty limited to my knowledge, because I can't guarantee every open-source dependency.",
+   "a_ko": "제가 코드를 납품하게 되니, 모든 오픈소스 의존성까지 보장할 수는 없어서 비침해 보증은 제가 아는 범위로 한정하고 싶습니다."
+  },
+  "collocations": [
+   "noninfringement warranty",
+   "warranty of noninfringement"
+  ],
+  "related": [
+   "infringe",
+   "infringement",
+   "fragment",
+   "fragile"
+  ],
+  "tip": "계약서 보증(warranty) 조항 단골 단어. infringe(침해하다)에서 나옴"
+ },
+ {
+  "id": "d28-A12",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "truncate",
+  "pos": "verb",
+  "ipa": "/ˈtrʌŋkeɪt/",
+  "meaning_ko": "(끝을) 잘라 내다, 줄이다",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "trunc",
+     "type": "root",
+     "gloss": "잘린, 줄기 (truncus)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "가지를 쳐 줄기만 남기다 → 끝을 잘라 내다 → 잘라서 줄이다"
+  },
+  "example": {
+   "q": "How did you reduce your logging costs?",
+   "a": "We truncated long payloads in the logs to two kilobytes, which cut storage costs by about forty percent.",
+   "a_ko": "로그에 남는 긴 페이로드를 2KB로 잘라서 저장 비용을 40% 정도 줄였습니다."
+  },
+  "collocations": [
+   "truncate a table",
+   "truncate the log",
+   "truncated text"
+  ],
+  "related": [
+   "trunk",
+   "truncation",
+   "section",
+   "decision tree"
+  ],
+  "tip": "SQL의 TRUNCATE TABLE(테이블 비우기)과 문자열 자르기 둘 다에 씀"
+ },
+ {
+  "id": "d28-A13",
+  "day": 28,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "atom",
+  "pos": "noun",
+  "ipa": "/ˈætəm/",
+  "meaning_ko": "원자, (더 쪼갤 수 없는) 최소 단위",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "a",
+     "type": "prefix",
+     "gloss": "아닌 (그리스어)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    }
+   ],
+   "story": "더는 자를 수 없는 것 → 가장 작은 단위 → 원자"
+  },
+  "example": {
+   "q": "How do you structure your front-end components?",
+   "a": "I follow atomic design, where an atom is a small piece like a button.",
+   "a_ko": "아토믹 디자인을 따르는데, 여기서 atom은 버튼 같은 작은 단위입니다."
+  },
+  "collocations": [
+   "an atom of",
+   "split the atom"
+  ],
+  "related": [
+   "atomic",
+   "anatomy",
+   "epitomize",
+   "false dichotomy"
+  ],
+  "tip": "Atomic Design에서 버튼·입력창 같은 최소 UI 단위를 atom이라 부름"
+ },
+ {
+  "id": "d28-A14",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "epitomize",
+  "pos": "verb",
+  "ipa": "/ɪˈpɪtəmaɪz/",
+  "meaning_ko": "~의 전형이다, 단적으로 보여 주다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "epi",
+     "type": "prefix",
+     "gloss": "위에 (그리스어)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    },
+    {
+     "text": "ize",
+     "type": "suffix",
+     "gloss": "~하다"
+    }
+   ],
+   "story": "위를 잘라 줄인 것(요약본, epitome) → 핵심만 담은 축소판 → 전형이 되다"
+  },
+  "example": {
+   "q": "Which project best represents how you work?",
+   "a": "Our payment migration epitomizes my approach: I broke it into small reversible steps, measured each one, and finished with zero downtime.",
+   "a_ko": "결제 이전 작업이 제 방식을 잘 보여 줍니다. 되돌릴 수 있는 작은 단계로 나누고, 단계마다 측정해서 다운타임 없이 끝냈습니다."
+  },
+  "collocations": [
+   "epitomize the spirit of",
+   "be epitomized by"
+  ],
+  "related": [
+   "epitome",
+   "atom",
+   "anatomy",
+   "false dichotomy"
+  ],
+  "tip": "발음 [이피터마이즈]. 명사 epitome(전형)는 끝이 [-미]"
+ },
+ {
+  "id": "d28-A15",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "false dichotomy",
+  "pos": "noun",
+  "ipa": "/ˌfɔːls daɪˈkɑːtəmi/",
+  "meaning_ko": "잘못된 이분법, 거짓 양자택일",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "false ",
+     "type": "part",
+     "gloss": "거짓의 (falsus)"
+    },
+    {
+     "text": "dicho",
+     "type": "prefix",
+     "gloss": "둘로 (그리스어 dikha)"
+    },
+    {
+     "text": "tom",
+     "type": "root",
+     "gloss": "자르다 (temnein)"
+    },
+    {
+     "text": "y",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "둘로 자름(이분법) + 거짓 → 선택지가 둘뿐이라는 잘못된 가정"
+  },
+  "example": {
+   "q": "Do you prioritize speed or quality?",
+   "a": "I think that's a false dichotomy; with good test automation, my last team shipped weekly and still cut production bugs in half.",
+   "a_ko": "그건 잘못된 양자택일이라고 생각합니다. 테스트 자동화를 잘 갖춘 덕분에 이전 팀은 매주 배포하면서도 운영 버그를 절반으로 줄였습니다."
+  },
+  "collocations": [
+   "a false dichotomy",
+   "present a false dichotomy"
+  ],
+  "related": [
+   "dichotomy",
+   "atom",
+   "anatomy",
+   "epitomize"
+  ],
+  "tip": "'속도냐 품질이냐' 같은 양자택일 질문을 정중하게 넘길 때"
+ },
+ {
+  "id": "d28-A16",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "iconoclast",
+  "pos": "noun",
+  "ipa": "/aɪˈkɑːnəklæst/",
+  "meaning_ko": "관습을 깨는 사람, 우상 파괴자",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "icono",
+     "type": "root",
+     "gloss": "형상, 우상 (그리스어 eikon)"
+    },
+    {
+     "text": "clast",
+     "type": "root",
+     "gloss": "깨는 사람 (그리스어 klan 깨다)"
+    }
+   ],
+   "story": "우상(성상)을 깨는 사람 → 굳어진 관행·권위를 깨는 사람"
+  },
+  "example": {
+   "q": "How would your colleagues describe you?",
+   "a": "They'd probably call me a bit of an iconoclast, because I question legacy processes, but I always bring data before proposing a change.",
+   "a_ko": "레거시 프로세스에 의문을 던지는 편이라 관습을 깨는 사람이라고 할 것 같지만, 변경을 제안할 때는 항상 데이터를 가져갑니다."
+  },
+  "collocations": [
+   "a bit of an iconoclast",
+   "iconoclastic approach"
+  ],
+  "related": [
+   "iconoclastic",
+   "icon",
+   "fragment",
+   "bankrupt"
+  ],
+  "tip": "자기 소개에 쓸 땐 'but I bring data'처럼 협조적인 면을 꼭 붙일 것"
+ },
+ {
+  "id": "d28-A17",
+  "day": 28,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "retailer",
+  "pos": "noun",
+  "ipa": "/ˈriːteɪlər/",
+  "meaning_ko": "소매업체, 소매상",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (tailler)"
+    },
+    {
+     "text": "er",
+     "type": "suffix",
+     "gloss": "~하는 곳·사람"
+    }
+   ],
+   "story": "다시 잘게 잘라(조각 내어) 파는 곳 → 소매업체"
+  },
+  "example": {
+   "q": "Tell me about your current company.",
+   "a": "I work for a large online retailer, building the checkout system.",
+   "a_ko": "대형 온라인 소매업체에서 결제 시스템을 만들고 있습니다."
+  },
+  "collocations": [
+   "online retailer",
+   "major retailer",
+   "retailer of"
+  ],
+  "related": [
+   "retail",
+   "detail",
+   "tailor-made",
+   "in detail"
+  ],
+  "tip": "retail(소매) ↔ wholesale(도매)"
+ },
+ {
+  "id": "d28-A18",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "tailor-made",
+  "pos": "adjective",
+  "ipa": "/ˌteɪlər ˈmeɪd/",
+  "meaning_ko": "맞춤형의, 딱 맞게 만든",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "tail",
+     "type": "root",
+     "gloss": "자르다 (tailler)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "-made",
+     "type": "part",
+     "gloss": "만들어진"
+    }
+   ],
+   "story": "자르는 사람(재단사)이 만든 → 몸에 맞게 지은 → 맞춤형의"
+  },
+  "example": {
+   "q": "We can offer you the standard relocation package.",
+   "a": "Since I'm moving with two kids, a tailor-made package with longer temporary housing would help more than a bigger lump sum.",
+   "a_ko": "아이 둘과 함께 이사하기 때문에, 일시금을 늘리는 것보다 임시 숙소 기간을 늘린 맞춤 패키지가 더 도움이 됩니다."
+  },
+  "collocations": [
+   "tailor-made package",
+   "tailor-made solution",
+   "tailor-made for"
+  ],
+  "related": [
+   "tailor",
+   "retail",
+   "detail",
+   "retailer"
+  ],
+  "tip": "tailored와 같은 뜻. 표준 조건 대신 내 상황에 맞춘 조건을 요청할 때"
+ },
+ {
+  "id": "d28-A19",
+  "day": 28,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "subsection",
+  "pos": "noun",
+  "ipa": "/ˈsʌbsekʃən/",
+  "meaning_ko": "(문서·계약서의) 하위 항목, 세부 조항",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sub",
+     "type": "prefix",
+     "gloss": "아래"
+    },
+    {
+     "text": "sect",
+     "type": "root",
+     "gloss": "자르다 (secare)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "잘라 낸 부분(section) 아래 → 더 작게 나눈 항목"
+  },
+  "example": {
+   "q": "Did you have a chance to read the offer letter?",
+   "a": "Yes, and I have a question about subsection 4.2 on the bonus.",
+   "a_ko": "네, 보너스에 관한 4.2항에 질문이 하나 있습니다."
+  },
+  "collocations": [
+   "subsection 4.2",
+   "under subsection",
+   "in subsection (b)"
+  ],
+  "related": [
+   "section",
+   "sector",
+   "segment",
+   "segmentation fault"
+  ],
+  "tip": "계약서 번호 읽기: clause 5(5조), subsection (b)((b)항)"
+ },
+ {
+  "id": "d28-A20",
+  "day": 28,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "decision-maker",
+  "pos": "noun",
+  "ipa": "/dɪˈsɪʒən ˌmeɪkər/",
+  "meaning_ko": "결정권자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "de",
+     "type": "prefix",
+     "gloss": "떼어"
+    },
+    {
+     "text": "cis",
+     "type": "root",
+     "gloss": "자르다 (caedere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "-maker",
+     "type": "part",
+     "gloss": "만드는 사람"
+    }
+   ],
+   "story": "잘라서 끝내는 것(결정)을 하는 사람 → 결정권자"
+  },
+  "example": {
+   "q": "I'll take your request to the team and get back to you.",
+   "a": "Thank you. Could you tell me who the final decision-maker on compensation is?",
+   "a_ko": "감사합니다. 보상에 대한 최종 결정권자가 누구인지 여쭤봐도 될까요?"
+  },
+  "collocations": [
+   "final decision-maker",
+   "key decision-maker"
+  ],
+  "related": [
+   "decide",
+   "decision",
+   "précis",
+   "decision tree"
+  ],
+  "tip": "협상 상대에게 결정권이 있는지 확인할 때 쓰는 질문"
+ },
+ {
+  "id": "d28-A21",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "précis",
+  "pos": "noun",
+  "ipa": "/preɪˈsiː/",
+  "meaning_ko": "요약문, 개요",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pré",
+     "type": "prefix",
+     "gloss": "앞을 (prae)"
+    },
+    {
+     "text": "cis",
+     "type": "root",
+     "gloss": "자르다 (caedere)"
+    }
+   ],
+   "story": "앞을 잘라 낸 → 짧게 줄인 → 핵심만 남긴 요약문"
+  },
+  "example": {
+   "q": "The VP won't have time to read the whole proposal before Friday's meeting.",
+   "a": "Understood. I'll send her a one-page précis covering the problem, the cost, and the decision we need, so she can skim it in two minutes.",
+   "a_ko": "알겠습니다. 문제, 비용, 필요한 결정을 담은 한 장짜리 요약을 보내 드려서 2분 안에 훑어보실 수 있게 하겠습니다."
+  },
+  "collocations": [
+   "a brief précis",
+   "write a précis of"
+  ],
+  "related": [
+   "precise",
+   "concise",
+   "decision-maker",
+   "concision"
+  ],
+  "tip": "발음 [프레이시]. precise(정확한)와 같은 뿌리. precis 로도 씀. executive summary와 비슷"
+ },
+ {
+  "id": "d28-A22",
+  "day": 28,
+  "level": 2,
+  "set": "A",
+  "family": "F8",
+  "word": "divisional",
+  "pos": "adjective",
+  "ipa": "/dɪˈvɪʒənəl/",
+  "meaning_ko": "사업부의, 부문의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "di",
+     "type": "prefix",
+     "gloss": "떨어져 (dis)"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "나누다 (vid)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    },
+    {
+     "text": "al",
+     "type": "suffix",
+     "gloss": "~의"
+    }
+   ],
+   "story": "나눈 것(division) → 회사를 나눈 부문 → 사업부의"
+  },
+  "example": {
+   "q": "This role reports to the divisional head of payments.",
+   "a": "That's helpful. Could I meet the divisional head before accepting, since I'd like to understand next year's roadmap?",
+   "a_ko": "도움이 됩니다. 내년 로드맵을 이해하고 싶어서, 수락하기 전에 사업부장님을 뵐 수 있을까요?"
+  },
+  "collocations": [
+   "divisional head",
+   "divisional director",
+   "divisional budget"
+  ],
+  "related": [
+   "divide",
+   "division",
+   "undivided",
+   "individual contributor"
+  ],
+  "tip": "division = 회사 안의 사업부. divisional VP = 사업부 담당 부사장"
+ },
+ {
+  "id": "d28-A23",
+  "day": 28,
+  "level": 1,
+  "set": "A",
+  "family": "F8",
+  "word": "break down",
+  "pos": "phrasal verb",
+  "ipa": "/ˌbreɪk ˈdaʊn/",
+  "meaning_ko": "항목별로 나눠 설명하다, 고장 나다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "break",
+     "type": "part",
+     "gloss": "깨다"
+    },
+    {
+     "text": " down",
+     "type": "part",
+     "gloss": "아래로, 잘게"
+    }
+   ],
+   "story": "깨서 잘게 내리다 → 덩어리를 쪼개다 → 항목별로 나눠 설명하다"
+  },
+  "example": {
+   "q": "Our total compensation for this role is 180,000 dollars.",
+   "a": "Thank you. Could you break down how much is base salary, bonus, and equity?",
+   "a_ko": "감사합니다. 기본급, 보너스, 주식이 각각 얼마인지 나눠서 설명해 주실 수 있을까요?"
+  },
+  "collocations": [
+   "break down the numbers",
+   "break down costs",
+   "break down into"
+  ],
+  "related": [
+   "breakdown",
+   "deal-breaker",
+   "burn bridges",
+   "turn down"
+  ],
+  "tip": "명사 breakdown(내역)도 같이: a breakdown of the package. 기계·협상이 '깨지다'는 뜻도 있음"
+ },
+ {
+  "id": "d28-A24",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "deal-breaker",
+  "pos": "noun",
+  "ipa": "/ˈdiːl ˌbreɪkər/",
+  "meaning_ko": "(거래를 깨는) 결정적 걸림돌",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "deal",
+     "type": "part",
+     "gloss": "거래"
+    },
+    {
+     "text": "-breaker",
+     "type": "part",
+     "gloss": "깨는 것"
+    }
+   ],
+   "story": "거래를 깨는 것 → 이것 때문에 계약을 안 하게 되는 조건"
+  },
+  "example": {
+   "q": "The role requires three days a week in the office.",
+   "a": "I'm flexible on most things, but a fixed five-day office policy would be a deal-breaker for me, so three days works well.",
+   "a_ko": "대부분은 유연하게 맞출 수 있지만 주 5일 출근 고정이면 결정적인 걸림돌이라, 주 3일은 괜찮습니다."
+  },
+  "collocations": [
+   "be a deal-breaker",
+   "a real deal-breaker",
+   "not a deal-breaker"
+  ],
+  "related": [
+   "break down",
+   "close the deal",
+   "burn bridges",
+   "back out"
+  ],
+  "tip": "dealbreaker로 붙여 쓰기도 함. 너무 자주 쓰면 공격적으로 들림"
+ },
+ {
+  "id": "d28-A25",
+  "day": 28,
+  "level": 3,
+  "set": "A",
+  "family": "F8",
+  "word": "burn bridges",
+  "pos": "phrase",
+  "ipa": "/ˌbɜːrn ˈbrɪdʒɪz/",
+  "meaning_ko": "(돌아갈 수 없게) 관계를 끊어 버리다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "burn",
+     "type": "part",
+     "gloss": "태우다"
+    },
+    {
+     "text": " bridges",
+     "type": "part",
+     "gloss": "다리들"
+    }
+   ],
+   "story": "건너온 다리를 불태우다 → 돌아갈 길을 없애다 → 관계를 완전히 끊다"
+  },
+  "example": {
+   "q": "Why are you leaving your current company?",
+   "a": "I'm leaving for growth, not frustration, and I'm giving a full month's notice because I never want to burn bridges with people I respect.",
+   "a_ko": "불만이 아니라 성장을 위해 떠나는 것이고, 존경하는 사람들과 관계를 끊고 싶지 않아서 한 달 전에 충분히 알리고 있습니다."
+  },
+  "collocations": [
+   "burn bridges",
+   "burn your bridges",
+   "don't burn any bridges"
+  ],
+  "related": [
+   "leave the door open",
+   "no hard feelings",
+   "turn down",
+   "deal-breaker"
+  ],
+  "tip": "부정문으로 많이 씀: I don't want to burn any bridges."
+ }
+]

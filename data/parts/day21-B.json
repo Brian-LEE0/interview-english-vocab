@@ -1,0 +1,1245 @@
+[
+ {
+  "id": "d21-B01",
+  "day": 21,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "work visa",
+  "pos": "noun",
+  "ipa": "/ˈwɝːk ˌviːzə/",
+  "meaning_ko": "취업 비자",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "work",
+     "type": "part",
+     "gloss": "일"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "a",
+     "type": "suffix",
+     "gloss": "(라틴어 어미, charta visa '확인된 문서')"
+    }
+   ],
+   "story": "라틴어 charta visa '본·확인된 문서' → 입국 허가 확인 → 일할 수 있게 허가한 비자"
+  },
+  "example": {
+   "q": "Is there anything we should know before we send the offer?",
+   "a": "Yes, I'll need a work visa, so I'd like to understand the timeline.",
+   "a_ko": "네, 취업 비자가 필요해서 진행 일정을 알고 싶습니다."
+  },
+  "collocations": [
+   "apply for a work visa",
+   "work visa holder"
+  ],
+  "related": [
+   "visa sponsorship",
+   "vision",
+   "visible",
+   "revise"
+  ],
+  "tip": "'비자'가 아니라 /ˈviːzə/ (비-저)로 발음"
+ },
+ {
+  "id": "d21-B02",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "visa sponsorship",
+  "pos": "noun",
+  "ipa": "/ˈviːzə ˈspɑːnsərʃɪp/",
+  "meaning_ko": "비자 후원 (회사가 비자 발급을 지원함)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "a",
+     "type": "suffix",
+     "gloss": "(라틴어 어미)"
+    },
+    {
+     "text": "spons",
+     "type": "root",
+     "gloss": "약속하다 (spondere)"
+    },
+    {
+     "text": "or",
+     "type": "suffix",
+     "gloss": "~하는 사람"
+    },
+    {
+     "text": "ship",
+     "type": "suffix",
+     "gloss": "~의 지위·관계"
+    }
+   ],
+   "story": "확인된 문서(visa) + 보증을 서는 사람(sponsor) → 회사가 비자 발급을 보증·지원함"
+  },
+  "example": {
+   "q": "Do you currently have the right to work in the country?",
+   "a": "Not yet, so visa sponsorship would be essential for me. I can share my documents this week to speed up the process.",
+   "a_ko": "아직 없어서 비자 후원이 꼭 필요합니다. 진행이 빨라지도록 이번 주 안에 서류를 공유드릴 수 있습니다."
+  },
+  "collocations": [
+   "offer visa sponsorship",
+   "require visa sponsorship"
+  ],
+  "related": [
+   "work visa",
+   "sponsor",
+   "vision",
+   "visible"
+  ],
+  "tip": "지원서의 'Will you require sponsorship?' 질문에 나오는 그 단어"
+ },
+ {
+  "id": "d21-B03",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "vision insurance",
+  "pos": "noun",
+  "ipa": "/ˈvɪʒən ɪnˌʃʊrəns/",
+  "meaning_ko": "안과(시력) 보험",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "insurance",
+     "type": "part",
+     "gloss": "보험"
+    }
+   ],
+   "story": "보는 것(vision) → 시력 → 시력 검사·안경 비용을 보장하는 보험"
+  },
+  "example": {
+   "q": "Our benefits include medical and dental coverage.",
+   "a": "That sounds good. Is vision insurance included as well? I wear glasses, so it would make a real difference.",
+   "a_ko": "좋네요. 안과 보험도 포함되나요? 제가 안경을 써서 꽤 차이가 클 것 같습니다."
+  },
+  "collocations": [
+   "dental and vision insurance",
+   "vision coverage"
+  ],
+  "related": [
+   "vision",
+   "tunnel vision",
+   "visible",
+   "revise"
+  ],
+  "tip": "미국 복리후생은 medical·dental·vision 이 따로인 경우가 많으니 각각 확인"
+ },
+ {
+  "id": "d21-B04",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "revised offer",
+  "pos": "noun",
+  "ipa": "/rɪˌvaɪzd ˈɔːfər/",
+  "meaning_ko": "수정된 오퍼",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    },
+    {
+     "text": "offer",
+     "type": "part",
+     "gloss": "제안"
+    }
+   ],
+   "story": "다시 보다(revisere) → 고치다(revise) → 다시 검토해 고친 제안"
+  },
+  "example": {
+   "q": "We've discussed your feedback internally.",
+   "a": "Thank you. If you can send a revised offer in writing, I'll review it and get back to you within two days.",
+   "a_ko": "감사합니다. 수정된 오퍼를 서면으로 보내 주시면 검토하고 이틀 안에 답을 드리겠습니다."
+  },
+  "collocations": [
+   "send a revised offer",
+   "receive a revised offer"
+  ],
+  "related": [
+   "revise",
+   "revision",
+   "salary revision",
+   "review"
+  ],
+  "tip": "구두로 들은 조건은 in writing 으로 다시 받아 두는 것이 협상의 기본"
+ },
+ {
+  "id": "d21-B05",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "salary revision",
+  "pos": "noun",
+  "ipa": "/ˈsæləri rɪˌvɪʒən/",
+  "meaning_ko": "연봉 조정 (정기 인상)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "salary",
+     "type": "part",
+     "gloss": "봉급"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "vis",
+     "type": "root",
+     "gloss": "보다"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "다시 보다(revise) → 고침 → 연봉을 다시 보고 고침 → 연봉 조정"
+  },
+  "example": {
+   "q": "How often do you expect a salary increase?",
+   "a": "I'd expect an annual salary revision based on performance, ideally aligned with the review cycle in March.",
+   "a_ko": "성과에 따라 매년 연봉 조정이 있기를 기대하고, 가능하면 3월 평가 주기에 맞춰졌으면 합니다."
+  },
+  "collocations": [
+   "annual salary revision",
+   "salary revision cycle"
+  ],
+  "related": [
+   "revise",
+   "revised offer",
+   "revision",
+   "review"
+  ],
+  "tip": "인도·아시아 회사에서 자주 쓰는 말. 미국에서는 salary adjustment, raise 가 더 흔함"
+ },
+ {
+  "id": "d21-B06",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "under review",
+  "pos": "phrase",
+  "ipa": "/ˌʌndər rɪˈvjuː/",
+  "meaning_ko": "검토 중인",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "under",
+     "type": "part",
+     "gloss": "~아래·~중인"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (vid)"
+    }
+   ],
+   "story": "다시 보는(review) 중에 있는 → 검토 중인"
+  },
+  "example": {
+   "q": "Are you interviewing anywhere else?",
+   "a": "Yes, I have another offer under review, but this role is my first choice, so I wanted to be transparent.",
+   "a_ko": "네, 검토 중인 다른 오퍼가 하나 있지만 이 자리가 제 1순위라서 솔직하게 말씀드리고 싶었습니다."
+  },
+  "collocations": [
+   "under review",
+   "currently under review"
+  ],
+  "related": [
+   "review",
+   "performance review",
+   "interview",
+   "preview"
+  ],
+  "tip": "be under review 는 '검토를 받는 중'. 계약서·코드·오퍼 모두에 씀"
+ },
+ {
+  "id": "d21-B07",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "in view of",
+  "pos": "phrase",
+  "ipa": "/ɪn ˈvjuː əv/",
+  "meaning_ko": "~을 고려하여, ~ 때문에",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~안에"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (vid)"
+    },
+    {
+     "text": "of",
+     "type": "part",
+     "gloss": "~의"
+    }
+   ],
+   "story": "~이 시야 안에 있으니 → ~을 눈앞에 두고 → ~을 고려하여"
+  },
+  "example": {
+   "q": "Is the relocation package acceptable to you?",
+   "a": "In view of the higher housing costs in the city, I'd ask for a one-time relocation bonus on top of the standard package.",
+   "a_ko": "도시의 높은 주거비를 고려해서, 기본 패키지에 더해 일회성 이주 보너스를 요청드리고 싶습니다."
+  },
+  "collocations": [
+   "in view of the fact that",
+   "in view of the timeline"
+  ],
+  "related": [
+   "view",
+   "with a view to",
+   "review",
+   "interview"
+  ],
+  "tip": "because of 보다 격식 있는 표현. 요구의 근거를 대며 협상할 때 좋음"
+ },
+ {
+  "id": "d21-B08",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "with a view to",
+  "pos": "phrase",
+  "ipa": "/wɪð ə ˈvjuː tə/",
+  "meaning_ko": "~할 목적으로, ~을 염두에 두고",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "with",
+     "type": "part",
+     "gloss": "~와 함께"
+    },
+    {
+     "text": "a",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "view",
+     "type": "root",
+     "gloss": "보다 (vid)"
+    },
+    {
+     "text": "to",
+     "type": "part",
+     "gloss": "~으로"
+    }
+   ],
+   "story": "~쪽을 바라보면서 → 그 목표를 내다보고 → ~할 목적으로"
+  },
+  "example": {
+   "q": "We can't offer that base salary right now.",
+   "a": "I understand. I'd accept the current base with a view to revisiting it at my six-month review, if we can put that in writing.",
+   "a_ko": "이해합니다. 6개월 평가 때 다시 논의하는 것을 전제로 현재 기본급을 받아들이겠습니다. 그 내용을 서면으로 남길 수 있다면요."
+  },
+  "collocations": [
+   "with a view to + -ing",
+   "with a view to promotion"
+  ],
+  "related": [
+   "view",
+   "in view of",
+   "review",
+   "revise"
+  ],
+  "tip": "to 뒤에 동사원형이 아니라 -ing 형태 (with a view to revisiting)"
+ },
+ {
+  "id": "d21-B09",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "imprudent",
+  "pos": "adjective",
+  "ipa": "/ɪmˈpruːdənt/",
+  "meaning_ko": "경솔한, 현명하지 못한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "im",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "prud",
+     "type": "root",
+     "gloss": "내다보다 (pro + vid 축약)"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "앞을 내다보는(providens → prudens) → 신중한(prudent) → 신중하지 못한, 경솔한"
+  },
+  "example": {
+   "q": "Can you sign the offer by the end of today?",
+   "a": "I'd love to move quickly, but it would be imprudent to sign before I've seen the full benefits summary, so could you send it today?",
+   "a_ko": "빨리 진행하고 싶지만, 복리후생 요약을 다 보기 전에 서명하는 건 경솔한 것 같습니다. 오늘 중으로 보내 주실 수 있을까요?"
+  },
+  "collocations": [
+   "it would be imprudent to",
+   "an imprudent decision"
+  ],
+  "related": [
+   "prudent",
+   "provide",
+   "vision",
+   "evidence"
+  ],
+  "tip": "it would be imprudent to ~ 는 거절이 아니라 '신중함'으로 들리게 시간을 버는 표현"
+ },
+ {
+  "id": "d21-B10",
+  "day": 21,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "computer science",
+  "pos": "noun",
+  "ipa": "/kəmˈpjuːtər ˌsaɪəns/",
+  "meaning_ko": "컴퓨터 과학, 컴퓨터공학",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "computer",
+     "type": "part",
+     "gloss": "계산기"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "아는 것(scientia) → 지식·학문 → 컴퓨터에 관한 학문"
+  },
+  "example": {
+   "q": "Tell me about your educational background.",
+   "a": "I majored in computer science at a university in Seoul.",
+   "a_ko": "서울에 있는 대학교에서 컴퓨터공학을 전공했습니다."
+  },
+  "collocations": [
+   "a degree in computer science",
+   "major in computer science"
+  ],
+  "related": [
+   "science",
+   "conscious",
+   "data science",
+   "prescient"
+  ],
+  "tip": "CS 라고 줄여 말하기도 함 (a CS degree)"
+ },
+ {
+  "id": "d21-B11",
+  "day": 21,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "data science",
+  "pos": "noun",
+  "ipa": "/ˈdeɪtə ˌsaɪəns/",
+  "meaning_ko": "데이터 과학",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "data",
+     "type": "part",
+     "gloss": "자료"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "아는 것(scientia) → 학문 → 데이터에서 지식을 얻는 학문"
+  },
+  "example": {
+   "q": "Who did you work with on the recommendation feature?",
+   "a": "I worked closely with the data science team to ship their model to production.",
+   "a_ko": "데이터 과학팀과 긴밀히 협업해서 그 팀의 모델을 프로덕션에 배포했습니다."
+  },
+  "collocations": [
+   "data science team",
+   "data science pipeline"
+  ],
+  "related": [
+   "science",
+   "computer science",
+   "conscious",
+   "omniscient"
+  ],
+  "tip": "사람은 data scientist, 분야·팀은 data science"
+ },
+ {
+  "id": "d21-B12",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "conscious",
+  "pos": "adjective",
+  "ipa": "/ˈkɑːnʃəs/",
+  "meaning_ko": "의식하는, 신경 쓰는",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "함께 알고 있는(conscius) → 스스로 알고 있는 → 의식하는"
+  },
+  "example": {
+   "q": "How do you balance speed and quality?",
+   "a": "I'm always conscious of the trade-off, so I agree on a minimum test coverage with the team before we rush anything.",
+   "a_ko": "그 균형을 항상 의식하고 있어서, 급하게 진행하기 전에 최소 테스트 커버리지를 팀과 먼저 합의합니다."
+  },
+  "collocations": [
+   "be conscious of",
+   "a conscious decision",
+   "conscious effort"
+  ],
+  "related": [
+   "conscience",
+   "science",
+   "cost-conscious",
+   "prescient"
+  ],
+  "tip": "a conscious decision(의식적인 결정)은 '일부러, 생각한 끝에' 했다는 뉘앙스"
+ },
+ {
+  "id": "d21-B13",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "cost-conscious",
+  "pos": "adjective",
+  "ipa": "/ˌkɔːst ˈkɑːnʃəs/",
+  "meaning_ko": "비용을 의식하는, 비용에 민감한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cost",
+     "type": "part",
+     "gloss": "비용"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ous",
+     "type": "suffix",
+     "gloss": "~한"
+    }
+   ],
+   "story": "잘 알고 있는(conscious) + 비용(cost) → 비용을 늘 의식하는"
+  },
+  "example": {
+   "q": "Our budget for this role is tighter than at big tech companies.",
+   "a": "I understand you're cost-conscious as a startup, so I'm open to a lower base if the equity grant reflects the extra risk I'm taking on.",
+   "a_ko": "스타트업으로서 비용에 신경 쓰신다는 점 이해합니다. 제가 감수하는 추가 위험을 주식 부여에 반영해 주신다면 낮은 기본급도 고려하겠습니다."
+  },
+  "collocations": [
+   "cost-conscious company",
+   "cost-conscious decisions"
+  ],
+  "related": [
+   "conscious",
+   "conscience",
+   "science",
+   "price-sensitive"
+  ],
+  "tip": "명사-conscious 로 '~을 의식하는' (security-conscious, health-conscious)"
+ },
+ {
+  "id": "d21-B14",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "in good conscience",
+  "pos": "phrase",
+  "ipa": "/ɪn ˌɡʊd ˈkɑːnʃəns/",
+  "meaning_ko": "양심상, 떳떳하게",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~안에"
+    },
+    {
+     "text": "good",
+     "type": "part",
+     "gloss": "좋은"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ence",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "함께 앎 → 마음속으로 아는 것(conscientia) → 양심 → 떳떳한 양심으로"
+  },
+  "example": {
+   "q": "Could you start next week instead of in a month?",
+   "a": "I appreciate the urgency, but I can't in good conscience leave my team mid-release, so the earliest I can start is the fifteenth.",
+   "a_ko": "급하신 사정은 이해하지만, 릴리스 도중에 팀을 떠나는 건 양심상 할 수 없어서 가장 빨리 시작할 수 있는 날은 15일입니다."
+  },
+  "collocations": [
+   "can't in good conscience",
+   "in all good conscience"
+  ],
+  "related": [
+   "conscience",
+   "conscientious",
+   "conscious",
+   "unconscionable"
+  ],
+  "tip": "주로 can't in good conscience + 동사 로 정중하지만 단호하게 거절할 때"
+ },
+ {
+  "id": "d21-B15",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "unconscionable",
+  "pos": "adjective",
+  "ipa": "/ʌnˈkɑːnʃənəbəl/",
+  "meaning_ko": "터무니없는, 양심상 받아들일 수 없는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "un",
+     "type": "prefix",
+     "gloss": "아닌"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "scion",
+     "type": "root",
+     "gloss": "알다 (sci, conscience 에서)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 만한"
+    }
+   ],
+   "story": "함께 앎 → 양심(conscience) → 양심에 맞는(conscionable) → 양심상 받아들일 수 없는"
+  },
+  "example": {
+   "q": "Our standard contract includes a two-year non-compete.",
+   "a": "With respect, a two-year non-compete feels unconscionable for my role, so I'd ask to limit it to direct competitors for six months.",
+   "a_ko": "외람되지만 제 직무에 2년 경업금지는 지나치다고 생각합니다. 직접 경쟁사에 한해 6개월로 줄여 주셨으면 합니다."
+  },
+  "collocations": [
+   "unconscionable terms",
+   "an unconscionable clause"
+  ],
+  "related": [
+   "conscience",
+   "in good conscience",
+   "conscious",
+   "science"
+  ],
+  "tip": "계약 조항이 '도를 넘었다'는 강한 말. 법률 용어(unconscionable contract)로도 씀"
+ },
+ {
+  "id": "d21-B16",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "prescient",
+  "pos": "adjective",
+  "ipa": "/ˈpreʃənt/",
+  "meaning_ko": "선견지명이 있는",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "미리 아는(praesciens) → 앞일을 내다보는 → 선견지명이 있는"
+  },
+  "example": {
+   "q": "Tell me about a good technical decision your team made.",
+   "a": "My lead's call to add rate limiting before Black Friday proved prescient; traffic tripled, and our API stayed up while competitors went down.",
+   "a_ko": "블랙 프라이데이 전에 레이트 리밋을 넣자던 리드의 판단은 선견지명이었습니다. 트래픽이 세 배로 늘었는데도 경쟁사들이 다운될 때 저희 API는 버텼습니다."
+  },
+  "collocations": [
+   "prove prescient",
+   "a prescient warning"
+  ],
+  "related": [
+   "science",
+   "conscious",
+   "omniscient",
+   "prescience"
+  ],
+  "tip": "발음은 /ˈpreʃənt/ (프레션트). proved prescient(결과적으로 선견지명이었다)가 흔한 짝"
+ },
+ {
+  "id": "d21-B17",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "omniscient",
+  "pos": "adjective",
+  "ipa": "/ɑːmˈnɪʃənt/",
+  "meaning_ko": "모든 것을 아는, 전지적인",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "omni",
+     "type": "prefix",
+     "gloss": "모든"
+    },
+    {
+     "text": "sci",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "ent",
+     "type": "suffix",
+     "gloss": "~하는"
+    }
+   ],
+   "story": "모든 것을 아는(omnis + scire) → 전지적인"
+  },
+  "example": {
+   "q": "How do you approach observability?",
+   "a": "No single dashboard is omniscient, so I combine logs, metrics, and traces and make sure each alert links to a runbook.",
+   "a_ko": "어떤 대시보드도 모든 걸 보여 주지는 못해서, 로그·메트릭·트레이스를 함께 보고 알림마다 런북이 연결되도록 합니다."
+  },
+  "collocations": [
+   "an omniscient view",
+   "omniscient narrator"
+  ],
+  "related": [
+   "science",
+   "prescient",
+   "conscious",
+   "conscience"
+  ],
+  "tip": "발음 /ɑːmˈnɪʃənt/ (암니션트). '다 아는 척'을 경계할 때 부정문으로 자주 씀"
+ },
+ {
+  "id": "d21-B18",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "recognizable",
+  "pos": "adjective",
+  "ipa": "/ˈrekəɡnaɪzəbəl/",
+  "meaning_ko": "알아볼 수 있는, 잘 알려진",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "cogn",
+     "type": "root",
+     "gloss": "알다"
+    },
+    {
+     "text": "iz",
+     "type": "suffix",
+     "gloss": "~하게 하다 (ize)"
+    },
+    {
+     "text": "able",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "다시 알아보다(recognoscere) → 알아볼 수 있는 → 잘 알려진"
+  },
+  "example": {
+   "q": "Why do you want to work on consumer products?",
+   "a": "I want to build something recognizable, a product my friends and family actually use every day.",
+   "a_ko": "친구와 가족이 실제로 매일 쓰는, 누구나 알아보는 제품을 만들고 싶습니다."
+  },
+  "collocations": [
+   "instantly recognizable",
+   "a recognizable brand"
+  ],
+  "related": [
+   "recognize",
+   "recognition",
+   "cognitive load",
+   "acquaintance"
+  ],
+  "tip": "instantly recognizable(바로 알아보는)이 흔한 짝"
+ },
+ {
+  "id": "d21-B19",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "acquaintance",
+  "pos": "noun",
+  "ipa": "/əˈkweɪntəns/",
+  "meaning_ko": "아는 사람, 지인",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~에 (ad)"
+    },
+    {
+     "text": "quaint",
+     "type": "root",
+     "gloss": "알다 (cogn, cognitus)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "~을 알게 하다(accognitare → acquaint) → 알게 된 사람 → 지인"
+  },
+  "example": {
+   "q": "How did you hear about this position?",
+   "a": "An acquaintance from a meetup works on your platform team, and she said the engineering culture was excellent.",
+   "a_ko": "밋업에서 알게 된 지인이 플랫폼팀에서 일하는데, 엔지니어링 문화가 아주 좋다고 하더라고요."
+  },
+  "collocations": [
+   "a mutual acquaintance",
+   "an acquaintance of mine"
+  ],
+  "related": [
+   "acquaint",
+   "acquainted",
+   "recognize",
+   "notice"
+  ],
+  "tip": "friend 보다 덜 가까운 사이. a mutual acquaintance(서로 아는 사람)도 자주 씀"
+ },
+ {
+  "id": "d21-B20",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "noticeably",
+  "pos": "adverb",
+  "ipa": "/ˈnoʊtɪsəbli/",
+  "meaning_ko": "눈에 띄게",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "not",
+     "type": "root",
+     "gloss": "알다 (gnoscere, notus)"
+    },
+    {
+     "text": "ice",
+     "type": "suffix",
+     "gloss": "~하는 것 (notice)"
+    },
+    {
+     "text": "ably",
+     "type": "suffix",
+     "gloss": "~할 만하게"
+    }
+   ],
+   "story": "알게 됨(notitia) → 알아챔(notice) → 알아챌 만큼 → 눈에 띄게"
+  },
+  "example": {
+   "q": "What was the impact of your caching work?",
+   "a": "Page loads got noticeably faster; p95 latency dropped from 900 to 300 milliseconds.",
+   "a_ko": "페이지 로딩이 눈에 띄게 빨라졌습니다. p95 지연 시간이 900밀리초에서 300밀리초로 줄었습니다."
+  },
+  "collocations": [
+   "noticeably faster",
+   "noticeably better"
+  ],
+  "related": [
+   "notice",
+   "noticeable",
+   "notify",
+   "advance notice"
+  ],
+  "tip": "체감 변화를 말한 뒤 숫자를 바로 붙이면 설득력이 커짐"
+ },
+ {
+  "id": "d21-B21",
+  "day": 21,
+  "level": 2,
+  "set": "B",
+  "family": "F1",
+  "word": "cognitive load",
+  "pos": "noun",
+  "ipa": "/ˌkɑːɡnətɪv ˈloʊd/",
+  "meaning_ko": "인지 부하",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "co",
+     "type": "prefix",
+     "gloss": "함께·완전히"
+    },
+    {
+     "text": "gni",
+     "type": "root",
+     "gloss": "알다 (gno)"
+    },
+    {
+     "text": "tive",
+     "type": "suffix",
+     "gloss": "~의"
+    },
+    {
+     "text": "load",
+     "type": "part",
+     "gloss": "짐"
+    }
+   ],
+   "story": "완전히 알다(cognoscere) → 인지의 + 짐 → 머리가 감당해야 하는 정보의 양"
+  },
+  "example": {
+   "q": "Why did you split the main module of the monolith?",
+   "a": "It had grown to 8,000 lines, and splitting it reduced cognitive load, so new hires could make changes in their first week.",
+   "a_ko": "8천 줄까지 커져 있었는데, 나누고 나니 인지 부하가 줄어서 신입도 첫 주에 수정할 수 있게 됐습니다."
+  },
+  "collocations": [
+   "reduce cognitive load",
+   "high cognitive load"
+  ],
+  "related": [
+   "cognition",
+   "cognitive bias",
+   "recognize",
+   "recognizable"
+  ],
+  "tip": "코드 가독성·API 설계·온보딩을 설명할 때 자주 쓰는 표현"
+ },
+ {
+  "id": "d21-B22",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "reconnaissance",
+  "pos": "noun",
+  "ipa": "/rɪˈkɑːnəsəns/",
+  "meaning_ko": "정찰, 사전 탐색",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "다시"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께·완전히"
+    },
+    {
+     "text": "naiss",
+     "type": "root",
+     "gloss": "알다 (cognoscere, 프랑스어 connaître)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "다시 알아보다(recognoscere → 프랑스어 reconnaître) → 미리 살펴 알아냄 → 정찰"
+  },
+  "example": {
+   "q": "Walk me through a penetration test you ran.",
+   "a": "During reconnaissance, I found an exposed staging subdomain, so we locked it down before testing anything else and added it to our asset inventory.",
+   "a_ko": "정찰 단계에서 노출된 스테이징 서브도메인을 찾아서, 다른 테스트보다 먼저 막고 자산 목록에 추가했습니다."
+  },
+  "collocations": [
+   "reconnaissance phase",
+   "passive reconnaissance"
+  ],
+  "related": [
+   "recognize",
+   "recognition",
+   "acquaintance",
+   "cognitive load"
+  ],
+  "tip": "보안에서는 recon 으로 줄여 말함. 공격 전에 정보를 모으는 단계"
+ },
+ {
+  "id": "d21-B23",
+  "day": 21,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "gut feeling",
+  "pos": "noun",
+  "ipa": "/ˈɡʌt ˌfiːlɪŋ/",
+  "meaning_ko": "직감",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "gut",
+     "type": "part",
+     "gloss": "배·내장"
+    },
+    {
+     "text": "feeling",
+     "type": "part",
+     "gloss": "느낌"
+    }
+   ],
+   "story": "배 속에서 오는 느낌 → 논리보다 먼저 오는 직감"
+  },
+  "example": {
+   "q": "What made you decide to apply here?",
+   "a": "Honestly, I had a good gut feeling after talking to the team.",
+   "a_ko": "솔직히 팀과 이야기해 보고 직감적으로 좋은 느낌이 들었습니다."
+  },
+  "collocations": [
+   "have a gut feeling",
+   "trust my gut feeling"
+  ],
+  "related": [
+   "on paper",
+   "sleep on it",
+   "second thoughts"
+  ],
+  "tip": "면접에서는 직감만 말하지 말고 이유를 하나 덧붙이면 좋음"
+ },
+ {
+  "id": "d21-B24",
+  "day": 21,
+  "level": 1,
+  "set": "B",
+  "family": "F1",
+  "word": "on paper",
+  "pos": "phrase",
+  "ipa": "/ɑːn ˈpeɪpər/",
+  "meaning_ko": "서류상으로는, 겉보기에는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "on",
+     "type": "part",
+     "gloss": "~위에"
+    },
+    {
+     "text": "paper",
+     "type": "part",
+     "gloss": "종이"
+    }
+   ],
+   "story": "종이 위에서는 → 서류·숫자로만 보면 → 겉보기에는"
+  },
+  "example": {
+   "q": "Which offer looks better to you?",
+   "a": "On paper, the other offer pays more, but your team is a better fit for me.",
+   "a_ko": "서류상으로는 다른 오퍼가 더 많이 주지만, 저한테는 이 팀이 더 잘 맞습니다."
+  },
+  "collocations": [
+   "on paper",
+   "look good on paper"
+  ],
+  "related": [
+   "gut feeling",
+   "weigh up",
+   "wiggle room"
+  ],
+  "tip": "looks good on paper, but ~ 로 '숫자 말고 다른 요소'를 꺼낼 때 씀"
+ },
+ {
+  "id": "d21-B25",
+  "day": 21,
+  "level": 3,
+  "set": "B",
+  "family": "F1",
+  "word": "wiggle room",
+  "pos": "noun",
+  "ipa": "/ˈwɪɡəl ˌruːm/",
+  "meaning_ko": "조정의 여지, 융통성",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "wiggle",
+     "type": "part",
+     "gloss": "꼼지락거리다"
+    },
+    {
+     "text": "room",
+     "type": "part",
+     "gloss": "공간"
+    }
+   ],
+   "story": "몸을 꼼지락거릴 공간 → 움직일 여유 → 조건을 조정할 여지"
+  },
+  "example": {
+   "q": "This is the top of our salary band for the role.",
+   "a": "I understand there's no wiggle room on the base, so could we look at a larger signing bonus or an earlier performance review instead?",
+   "a_ko": "기본급은 더 조정할 여지가 없다는 점 이해합니다. 그렇다면 대신 입사 보너스를 늘리거나 성과 평가 시기를 앞당기는 건 어떨까요?"
+  },
+  "collocations": [
+   "some wiggle room",
+   "wiggle room on the base"
+  ],
+  "related": [
+   "on paper",
+   "walk away",
+   "weigh up"
+  ],
+  "tip": "Is there any wiggle room on ~? 은 조건을 부드럽게 다시 물을 때 쓰는 구어 표현"
+ }
+]

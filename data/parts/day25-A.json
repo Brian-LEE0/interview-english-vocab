@@ -1,0 +1,1266 @@
+[
+ {
+  "id": "d25-A01",
+  "day": 25,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "acceptance deadline",
+  "pos": "noun",
+  "ipa": "/əkˈsɛptəns ˌdɛdlaɪn/",
+  "meaning_ko": "수락 기한, 오퍼 회신 마감일",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "deadline",
+     "type": "part",
+     "gloss": "마감"
+    }
+   ],
+   "story": "내 쪽으로 받아들이는 것(acceptance)의 마감 → 오퍼를 수락할지 답해야 하는 기한"
+  },
+  "example": {
+   "q": "We'd need your answer by this Friday. Does that work for you?",
+   "a": "Could you move the acceptance deadline to Monday so I can review everything?",
+   "a_ko": "모든 내용을 검토할 수 있도록 수락 기한을 월요일로 미뤄 주실 수 있을까요?"
+  },
+  "collocations": [
+   "extend the acceptance deadline",
+   "meet the acceptance deadline",
+   "acceptance deadline for the offer"
+  ],
+  "related": [
+   "accept",
+   "acceptable",
+   "acceptance criteria",
+   "make an exception"
+  ],
+  "tip": "오퍼 회신 기한을 늘려 달라고 할 때. decision deadline 이라고도 함"
+ },
+ {
+  "id": "d25-A02",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "acceptance criteria",
+  "pos": "noun",
+  "ipa": "/əkˈsɛptəns kraɪˌtɪriə/",
+  "meaning_ko": "인수 조건, 완료 기준",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "ac",
+     "type": "prefix",
+     "gloss": "~쪽으로 (ad)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ance",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    },
+    {
+     "text": "criteria",
+     "type": "part",
+     "gloss": "기준들"
+    }
+   ],
+   "story": "받아들일(accept) 수 있는 기준 → 이 조건을 통과해야 작업 완료로 인정"
+  },
+  "example": {
+   "q": "How do you know when a user story is actually done?",
+   "a": "We agree on acceptance criteria during refinement, so QA and I test against the same checklist.",
+   "a_ko": "리파인먼트 때 인수 조건을 합의해 두기 때문에 QA와 제가 같은 체크리스트로 테스트합니다."
+  },
+  "collocations": [
+   "define acceptance criteria",
+   "meet the acceptance criteria",
+   "clear acceptance criteria"
+  ],
+  "related": [
+   "accept",
+   "acceptance deadline",
+   "concept",
+   "receptive"
+  ],
+  "tip": "criteria 는 복수형, 단수는 criterion. 애자일의 완료 정의(DoD)와 함께 자주 나옴"
+ },
+ {
+  "id": "d25-A03",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "make an exception",
+  "pos": "phrase",
+  "ipa": "/ˌmeɪk ən ɪkˈsɛpʃən/",
+  "meaning_ko": "예외를 두다, 예외로 해 주다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "make",
+     "type": "part",
+     "gloss": "만들다"
+    },
+    {
+     "text": "an",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "밖으로 빼내 잡아 둔 것(exception) → 규칙에서 빼 주다 → 예외로 해 주다"
+  },
+  "example": {
+   "q": "Our policy is that new hires start on the first Monday of the month.",
+   "a": "I understand, but could you make an exception and let me start mid-month? My notice period ends on the 12th.",
+   "a_ko": "이해합니다만, 예외로 월 중순에 입사하게 해 주실 수 있을까요? 현 직장 퇴사 예고 기간이 12일에 끝납니다."
+  },
+  "collocations": [
+   "make an exception for",
+   "make an exception to the policy",
+   "as a one-time exception"
+  ],
+  "related": [
+   "exception",
+   "except",
+   "unhandled exception",
+   "acceptance deadline"
+  ],
+  "tip": "정책을 굽혀 달라고 부탁할 때. make an exception to + 규칙, for + 사람"
+ },
+ {
+  "id": "d25-A04",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "unhandled exception",
+  "pos": "noun",
+  "ipa": "/ʌnˌhændəld ɪkˈsɛpʃən/",
+  "meaning_ko": "처리되지 않은 예외",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "unhandled",
+     "type": "part",
+     "gloss": "처리되지 않은"
+    },
+    {
+     "text": "ex",
+     "type": "prefix",
+     "gloss": "밖으로"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "규칙 밖으로 빠져나온 것(exception)을 아무도 잡아 처리하지 않음 → 프로그램을 멈추게 하는 예외"
+  },
+  "example": {
+   "q": "What caused the outage last quarter?",
+   "a": "An unhandled exception in the payment worker crashed every pod, so I added a fallback and alerting.",
+   "a_ko": "결제 워커의 처리되지 않은 예외 때문에 모든 파드가 죽어서, 폴백과 알림을 추가했습니다."
+  },
+  "collocations": [
+   "throw an unhandled exception",
+   "log unhandled exceptions",
+   "global handler for unhandled exceptions"
+  ],
+  "related": [
+   "exception",
+   "except",
+   "try-catch",
+   "make an exception"
+  ],
+  "tip": "uncaught exception 과 같은 뜻. 장애 원인을 설명할 때 자주 씀"
+ },
+ {
+  "id": "d25-A05",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "conceptually",
+  "pos": "adverb",
+  "ipa": "/kənˈsɛptʃuəli/",
+  "meaning_ko": "개념상, 큰 틀에서는",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께, 완전히"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ually",
+     "type": "suffix",
+     "gloss": "~하게"
+    }
+   ],
+   "story": "머릿속에 함께 붙잡은 것(concept) → 개념으로 보면 → 큰 틀에서는"
+  },
+  "example": {
+   "q": "So, are you comfortable with the hybrid work arrangement we described?",
+   "a": "Conceptually, I'm on board, but I'd like the three office days written into the offer letter.",
+   "a_ko": "큰 틀에서는 동의합니다만, 주 3일 출근 조건을 오퍼 레터에 명시해 주셨으면 합니다."
+  },
+  "collocations": [
+   "conceptually similar",
+   "conceptually sound",
+   "agree conceptually"
+  ],
+  "related": [
+   "concept",
+   "conceptual",
+   "preconception",
+   "conceivably"
+  ],
+  "tip": "'큰 틀에선 OK, 세부는 확인'이라는 협상 화법을 시작할 때 좋은 부사"
+ },
+ {
+  "id": "d25-A06",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "preconception",
+  "pos": "noun",
+  "ipa": "/ˌprikənˈsɛpʃən/",
+  "meaning_ko": "선입견, 선입관",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "pre",
+     "type": "prefix",
+     "gloss": "미리"
+    },
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ion",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "미리 머릿속에 붙잡아 둔 생각 → 선입견"
+  },
+  "example": {
+   "q": "How do you lead a team that's skeptical of a new approach?",
+   "a": "I start by surfacing everyone's preconceptions about the tool, then run a small pilot so the data, not opinions, settles the debate.",
+   "a_ko": "먼저 그 도구에 대한 각자의 선입견을 꺼내 놓게 한 뒤, 작은 파일럿을 돌려 의견이 아니라 데이터로 논쟁을 정리합니다."
+  },
+  "collocations": [
+   "challenge preconceptions",
+   "preconceptions about",
+   "free of preconceptions"
+  ],
+  "related": [
+   "concept",
+   "conceive",
+   "preconceived",
+   "misconception"
+  ],
+  "tip": "형용사 preconceived 는 Day 15. 명사형으로 '고정관념을 깨다'를 말할 때"
+ },
+ {
+  "id": "d25-A07",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "susceptible",
+  "pos": "adjective",
+  "ipa": "/səˈsɛptəbəl/",
+  "meaning_ko": "(~의) 영향을 받기 쉬운, 취약한",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "sus",
+     "type": "prefix",
+     "gloss": "아래에서 (sub)"
+    },
+    {
+     "text": "cept",
+     "type": "root",
+     "gloss": "받다, 잡다 (capere)"
+    },
+    {
+     "text": "ible",
+     "type": "suffix",
+     "gloss": "~할 수 있는"
+    }
+   ],
+   "story": "아래에서 받아들이다(suscipere) → 쉽게 받아들이는 → 영향을 받기 쉬운"
+  },
+  "example": {
+   "q": "We can offer more equity instead of raising the base salary.",
+   "a": "I appreciate that, but equity at this stage is susceptible to market swings, so I'd prefer a modest bump in base and the same equity.",
+   "a_ko": "감사합니다만, 이 단계의 지분은 시장 변동에 영향을 받기 쉬워서 기본급을 조금 올리고 지분은 그대로 두는 편이 좋겠습니다."
+  },
+  "collocations": [
+   "susceptible to",
+   "highly susceptible",
+   "less susceptible to risk"
+  ],
+  "related": [
+   "accept",
+   "reception",
+   "perceived",
+   "conceivably"
+  ],
+  "tip": "susceptible to + 명사 형태로 씀. vulnerable 보다 '영향을 잘 받는' 쪽 뉘앙스"
+ },
+ {
+  "id": "d25-A08",
+  "day": 25,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "well received",
+  "pos": "phrase",
+  "ipa": "/ˌwɛl rɪˈsivd/",
+  "meaning_ko": "좋은 반응을 얻은, 호평받은",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "well",
+     "type": "part",
+     "gloss": "잘"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로, 다시"
+    },
+    {
+     "text": "ceiv",
+     "type": "root",
+     "gloss": "받다 (capere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "잘 받아들여진 → 반응이 좋은"
+  },
+  "example": {
+   "q": "How did leadership react to your cost-saving proposal?",
+   "a": "It was well received, and finance approved it the same week.",
+   "a_ko": "반응이 좋았고, 재무팀이 같은 주에 승인해 주었습니다."
+  },
+  "collocations": [
+   "be well received by",
+   "a well-received proposal",
+   "well received overall"
+  ],
+  "related": [
+   "receive",
+   "receipt",
+   "reception",
+   "perceived"
+  ],
+  "tip": "명사 앞에서는 하이픈을 씀: a well-received talk"
+ },
+ {
+  "id": "d25-A09",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "perceived",
+  "pos": "adjective",
+  "ipa": "/pərˈsivd/",
+  "meaning_ko": "(남들이) 느끼는, 체감상의",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "ceiv",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "완전히 붙잡아 알아차린 → 사람들이 그렇게 느끼는 → 체감상의"
+  },
+  "example": {
+   "q": "Is the number itself the main issue for you?",
+   "a": "Not entirely; the perceived fairness matters too, so I'd like to see how the offer compares with the internal salary band.",
+   "a_ko": "꼭 그렇진 않습니다. 체감 공정성도 중요해서, 이 오퍼가 내부 연봉 밴드와 비교해 어떤지 보고 싶습니다."
+  },
+  "collocations": [
+   "perceived value",
+   "perceived fairness",
+   "perceived risk"
+  ],
+  "related": [
+   "perceive",
+   "perception",
+   "receive",
+   "perceptron"
+  ],
+  "tip": "실제가 아니라 '느껴지는' 가치·위험을 말할 때. perceived value 는 협상 단골"
+ },
+ {
+  "id": "d25-A10",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "conceivably",
+  "pos": "adverb",
+  "ipa": "/kənˈsivəbli/",
+  "meaning_ko": "(조건이 맞으면) 어쩌면, 생각해 보면 가능하게",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "ceiv",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ably",
+     "type": "suffix",
+     "gloss": "~할 수 있게"
+    }
+   ],
+   "story": "머리로 붙잡을 수 있게 → 상상할 수 있는 범위에서 → 어쩌면 가능하게"
+  },
+  "example": {
+   "q": "Is there any way you could start earlier than June?",
+   "a": "Conceivably, yes; if my current team finishes the handover by mid-May, I could start two weeks earlier without leaving anyone stranded.",
+   "a_ko": "가능은 합니다. 현 팀이 5월 중순까지 인수인계를 끝내면, 누구에게도 공백을 남기지 않고 2주 일찍 시작할 수 있습니다."
+  },
+  "collocations": [
+   "could conceivably",
+   "conceivably possible",
+   "conceivably, yes"
+  ],
+  "related": [
+   "conceive",
+   "conceivable",
+   "concept",
+   "preconception"
+  ],
+  "tip": "확답 대신 '조건부로 가능'을 말할 때 쓰는 신중한 부사"
+ },
+ {
+  "id": "d25-A11",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "upon receipt",
+  "pos": "phrase",
+  "ipa": "/əˌpɑn rɪˈsit/",
+  "meaning_ko": "받는 즉시, 수령 시",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "upon",
+     "type": "part",
+     "gloss": "~하자마자"
+    },
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로, 다시"
+    },
+    {
+     "text": "ceipt",
+     "type": "root",
+     "gloss": "받다 (capere)"
+    }
+   ],
+   "story": "받아들인 것(recepta) → 수령 → 받는 즉시"
+  },
+  "example": {
+   "q": "When can we expect the signed contract back?",
+   "a": "I'll return the signed contract within 24 hours upon receipt of the final offer letter with the revised start date.",
+   "a_ko": "수정된 입사일이 반영된 최종 오퍼 레터를 받는 즉시 24시간 안에 서명한 계약서를 돌려드리겠습니다."
+  },
+  "collocations": [
+   "upon receipt of",
+   "payable upon receipt",
+   "confirm upon receipt"
+  ],
+  "related": [
+   "receipt",
+   "receive",
+   "reception",
+   "well received"
+  ],
+  "tip": "메일·계약서의 격식체. receipt 의 p 는 묵음 /rɪˈsit/"
+ },
+ {
+  "id": "d25-A12",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "perceptron",
+  "pos": "noun",
+  "ipa": "/pərˈsɛptrɑn/",
+  "meaning_ko": "퍼셉트론 (인공 신경망의 기본 단위)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "per",
+     "type": "prefix",
+     "gloss": "완전히"
+    },
+    {
+     "text": "cep",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "tron",
+     "type": "suffix",
+     "gloss": "장치 (-tron)"
+    }
+   ],
+   "story": "perception(지각) + -tron(장치) → 지각하는 기계 → 신경망의 가장 단순한 단위 (1957년 로젠블랫이 이름 붙임)"
+  },
+  "example": {
+   "q": "Can you explain neural networks to a non-technical stakeholder?",
+   "a": "I start with a single perceptron: it weighs a few inputs, adds them up, and fires if the total crosses a threshold. Deep networks stack thousands of those.",
+   "a_ko": "단일 퍼셉트론부터 설명합니다. 입력 몇 개에 가중치를 곱해 더하고, 합이 임계값을 넘으면 출력합니다. 딥러닝은 이것을 수천 개 쌓은 것입니다."
+  },
+  "collocations": [
+   "single-layer perceptron",
+   "multilayer perceptron (MLP)",
+   "train a perceptron"
+  ],
+  "related": [
+   "perception",
+   "perceive",
+   "perceived",
+   "receive"
+  ],
+  "tip": "MLP = multilayer perceptron. 강세는 /pər-SEP-trɑn/"
+ },
+ {
+  "id": "d25-A13",
+  "day": 25,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "anticipated",
+  "pos": "adjective",
+  "ipa": "/ænˈtɪsəˌpeɪtɪd/",
+  "meaning_ko": "예상되는, 예정된",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "anti",
+     "type": "prefix",
+     "gloss": "미리 (ante)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ated",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "미리 잡아 두다(anticipare) → 미리 예상한 → 예정된"
+  },
+  "example": {
+   "q": "When do you think you could join us?",
+   "a": "My anticipated start date is May 6, after my notice period ends.",
+   "a_ko": "현 직장의 퇴사 예고 기간이 끝난 뒤인 5월 6일이 예상 입사일입니다."
+  },
+  "collocations": [
+   "anticipated start date",
+   "anticipated timeline",
+   "highly anticipated"
+  ],
+  "related": [
+   "anticipate",
+   "participate",
+   "in principle",
+   "capable"
+  ],
+  "tip": "start date 앞에 붙이면 '확정은 아니지만 예정'이라는 뜻. anti 는 여기서 ante(앞)의 변형"
+ },
+ {
+  "id": "d25-A14",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "in principle",
+  "pos": "phrase",
+  "ipa": "/ɪn ˈprɪnsəpəl/",
+  "meaning_ko": "원칙적으로(는)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~안에서"
+    },
+    {
+     "text": "prin",
+     "type": "root",
+     "gloss": "첫째 (primus)"
+    },
+    {
+     "text": "cip",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "le",
+     "type": "suffix",
+     "gloss": "~것"
+    }
+   ],
+   "story": "첫 자리를 잡은 것(principium) → 근본, 원칙 → 원칙적으로는"
+  },
+  "example": {
+   "q": "Can we treat this as a verbal yes?",
+   "a": "Yes, I accept in principle, but I'd like to review the full contract before I sign anything.",
+   "a_ko": "네, 원칙적으로는 수락합니다만, 서명 전에 계약서 전문을 검토하고 싶습니다."
+  },
+  "collocations": [
+   "agree in principle",
+   "accept in principle",
+   "agreement in principle"
+  ],
+  "related": [
+   "principle",
+   "principal",
+   "anticipated",
+   "participate"
+  ],
+  "tip": "principle(원칙)과 principal(주요한)은 발음이 같으니 철자 주의"
+ },
+ {
+  "id": "d25-A15",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "capacity planning",
+  "pos": "noun",
+  "ipa": "/kəˈpæsəti ˌplænɪŋ/",
+  "meaning_ko": "용량 계획",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "cap",
+     "type": "root",
+     "gloss": "담다, 잡다 (capere)"
+    },
+    {
+     "text": "acity",
+     "type": "suffix",
+     "gloss": "~할 수 있는 성질 (capax)"
+    },
+    {
+     "text": "planning",
+     "type": "part",
+     "gloss": "계획"
+    }
+   ],
+   "story": "담을 수 있는 양(capacity)을 미리 계획 → 서버·인력 용량 계획"
+  },
+  "example": {
+   "q": "How did you prepare for the holiday traffic spike?",
+   "a": "I led capacity planning two months ahead, load-testing at three times last year's peak before we reserved instances.",
+   "a_ko": "두 달 전부터 용량 계획을 주도해, 작년 피크의 3배로 부하 테스트를 한 뒤 인스턴스를 예약했습니다."
+  },
+  "collocations": [
+   "do capacity planning",
+   "capacity planning for",
+   "long-term capacity planning"
+  ],
+  "related": [
+   "capacity",
+   "capable",
+   "capture",
+   "in an advisory capacity"
+  ],
+  "tip": "SRE·인프라 면접 단골. headroom(여유 용량)과 함께 말하면 좋음"
+ },
+ {
+  "id": "d25-A16",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "in an advisory capacity",
+  "pos": "phrase",
+  "ipa": "/ɪn ən ədˈvaɪzəri kəˈpæsəti/",
+  "meaning_ko": "자문 역할로, 자문 자격으로",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "in",
+     "type": "part",
+     "gloss": "~으로"
+    },
+    {
+     "text": "an",
+     "type": "part",
+     "gloss": "하나의"
+    },
+    {
+     "text": "advisory",
+     "type": "part",
+     "gloss": "자문의"
+    },
+    {
+     "text": "cap",
+     "type": "root",
+     "gloss": "담다, 잡다 (capere)"
+    },
+    {
+     "text": "acity",
+     "type": "suffix",
+     "gloss": "~할 수 있는 성질"
+    }
+   ],
+   "story": "담을 수 있는 능력(capacity) → 맡을 수 있는 자리·자격 → 자문이라는 자격으로"
+  },
+  "example": {
+   "q": "Do you have any outside commitments we should know about?",
+   "a": "I support a friend's startup in an advisory capacity a few hours a month, so I'd like the outside-activities clause to explicitly allow that.",
+   "a_ko": "한 달에 몇 시간 지인 스타트업을 자문 역할로 돕고 있어서, 외부 활동 조항에 이를 명시적으로 허용해 주셨으면 합니다."
+  },
+  "collocations": [
+   "in an advisory capacity",
+   "in a full-time capacity",
+   "in my capacity as"
+  ],
+  "related": [
+   "capacity",
+   "capable",
+   "capacity planning",
+   "captivate"
+  ],
+  "tip": "in a(n) ~ capacity = '~ 자격·역할로'. 겸업·외부 활동 조항을 협상할 때"
+ },
+ {
+  "id": "d25-A17",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "change data capture",
+  "pos": "noun",
+  "ipa": "/ˌtʃeɪndʒ ˈdeɪtə ˌkæptʃər/",
+  "meaning_ko": "변경 데이터 캡처 (CDC)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "change",
+     "type": "part",
+     "gloss": "변경"
+    },
+    {
+     "text": "data",
+     "type": "part",
+     "gloss": "데이터"
+    },
+    {
+     "text": "capt",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "ure",
+     "type": "suffix",
+     "gloss": "~하는 것"
+    }
+   ],
+   "story": "바뀐 데이터를 붙잡아(capture) 흘려보냄 → DB 변경분을 실시간으로 다른 시스템에 전달"
+  },
+  "example": {
+   "q": "How did you keep the search index in sync with the main database?",
+   "a": "We replaced nightly batch jobs with change data capture from the Postgres write-ahead log, which cut index staleness from hours to seconds.",
+   "a_ko": "야간 배치 작업을 Postgres WAL 기반 변경 데이터 캡처로 바꿔, 인덱스 지연을 몇 시간에서 몇 초로 줄였습니다."
+  },
+  "collocations": [
+   "change data capture pipeline",
+   "log-based change data capture",
+   "CDC from the WAL"
+  ],
+  "related": [
+   "capture",
+   "capacity",
+   "caption",
+   "accept"
+  ],
+  "tip": "줄여서 CDC. Debezium 같은 도구와 함께 자주 언급됨"
+ },
+ {
+  "id": "d25-A18",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "captivate",
+  "pos": "verb",
+  "ipa": "/ˈkæptəˌveɪt/",
+  "meaning_ko": "(마음을) 사로잡다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "capt",
+     "type": "root",
+     "gloss": "잡다 (capere)"
+    },
+    {
+     "text": "iv",
+     "type": "suffix",
+     "gloss": "~된 (captivus 포로)"
+    },
+    {
+     "text": "ate",
+     "type": "suffix",
+     "gloss": "~하게 하다"
+    }
+   ],
+   "story": "붙잡힌 자(captivus, 포로)로 만들다 → 마음을 사로잡다"
+  },
+  "example": {
+   "q": "Tell me about a presentation that went especially well.",
+   "a": "At our engineering all-hands, I captivated a skeptical audience by opening with a live demo of the bug instead of twenty slides of background.",
+   "a_ko": "엔지니어링 전체 회의에서 배경 설명 슬라이드 20장 대신 버그 라이브 데모로 시작해, 회의적이던 청중을 사로잡았습니다."
+  },
+  "collocations": [
+   "captivate an audience",
+   "be captivated by",
+   "a captivating story"
+  ],
+  "related": [
+   "capture",
+   "capacity",
+   "capable",
+   "caption"
+  ],
+  "tip": "attract 보다 강한 '눈을 못 떼게 하다'. 발표·리더십 경험을 말할 때"
+ },
+ {
+  "id": "d25-A19",
+  "day": 25,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "try-catch",
+  "pos": "noun",
+  "ipa": "/ˌtraɪ ˈkætʃ/",
+  "meaning_ko": "try-catch 문 (예외 처리 구문)",
+  "category": "it",
+  "etymology": {
+   "parts": [
+    {
+     "text": "try",
+     "type": "part",
+     "gloss": "시도하다"
+    },
+    {
+     "text": "catch",
+     "type": "root",
+     "gloss": "잡다 (captiare ← capere)"
+    }
+   ],
+   "story": "일단 시도(try)하고 실패하면 붙잡는다(catch) → 예외 처리 블록"
+  },
+  "example": {
+   "q": "How do you handle errors in your API code?",
+   "a": "I wrap external calls in a try-catch and log the request ID.",
+   "a_ko": "외부 호출은 try-catch 로 감싸고 요청 ID 를 로그로 남깁니다."
+  },
+  "collocations": [
+   "try-catch block",
+   "wrap in a try-catch",
+   "nested try-catch"
+  ],
+  "related": [
+   "catch",
+   "chase up",
+   "capture",
+   "unhandled exception"
+  ],
+  "tip": "아무것도 안 하는 빈 catch 는 안티패턴이라는 점도 함께 말하면 좋음"
+ },
+ {
+  "id": "d25-A20",
+  "day": 25,
+  "level": 1,
+  "set": "A",
+  "family": "F5",
+  "word": "chase up",
+  "pos": "phrasal verb",
+  "ipa": "/ˌtʃeɪs ˈʌp/",
+  "meaning_ko": "(답변·진행을) 재촉하다, 독촉하다",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "chase",
+     "type": "root",
+     "gloss": "쫓다 (captiare ← capere)"
+    },
+    {
+     "text": "up",
+     "type": "part",
+     "gloss": "끝까지"
+    }
+   ],
+   "story": "붙잡으려고 쫓다(chacier) → 끝까지 쫓아가 확인하다 → 재촉하다"
+  },
+  "example": {
+   "q": "Have you heard back from the other company yet?",
+   "a": "Not yet, so I'll chase up their recruiter on Monday.",
+   "a_ko": "아직이라서, 월요일에 그쪽 리크루터에게 진행 상황을 재촉해 보려 합니다."
+  },
+  "collocations": [
+   "chase up a reply",
+   "chase someone up",
+   "chase up the paperwork"
+  ],
+  "related": [
+   "chase",
+   "purchase",
+   "catch",
+   "try-catch"
+  ],
+  "tip": "영국식 비즈니스 영어. 미국식으로는 follow up with 가 더 흔함"
+ },
+ {
+  "id": "d25-A21",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "stock purchase plan",
+  "pos": "noun",
+  "ipa": "/ˈstɑk ˈpɝtʃəs ˌplæn/",
+  "meaning_ko": "주식 매입 제도 (ESPP)",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "stock",
+     "type": "part",
+     "gloss": "주식"
+    },
+    {
+     "text": "pur",
+     "type": "prefix",
+     "gloss": "~을 위해 (pro)"
+    },
+    {
+     "text": "chase",
+     "type": "root",
+     "gloss": "쫓다 (captiare ← capere)"
+    },
+    {
+     "text": "plan",
+     "type": "part",
+     "gloss": "제도, 계획"
+    }
+   ],
+   "story": "쫓아가 손에 넣다(porchacier) → 사다(purchase) → 직원이 할인가로 회사 주식을 사는 제도"
+  },
+  "example": {
+   "q": "Besides RSUs, do you have any questions about our equity programs?",
+   "a": "Yes, could you explain the employee stock purchase plan, specifically the discount rate, the offering period, and whether there's a lookback provision?",
+   "a_ko": "네, 직원 주식 매입 제도에 대해 설명해 주실 수 있을까요? 특히 할인율, 청약 기간, 룩백 조항이 있는지 궁금합니다."
+  },
+  "collocations": [
+   "employee stock purchase plan (ESPP)",
+   "enroll in the stock purchase plan",
+   "stock purchase plan discount"
+  ],
+  "related": [
+   "purchase",
+   "chase up",
+   "catch",
+   "capture"
+  ],
+  "tip": "ESPP 는 할인율과 lookback(기간 시작가·종료가 중 낮은 값 기준) 여부가 핵심 확인 포인트"
+ },
+ {
+  "id": "d25-A22",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "restrain",
+  "pos": "verb",
+  "ipa": "/rɪˈstreɪn/",
+  "meaning_ko": "억제하다, 자제하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "re",
+     "type": "prefix",
+     "gloss": "뒤로"
+    },
+    {
+     "text": "strain",
+     "type": "root",
+     "gloss": "조이다 (stringere)"
+    }
+   ],
+   "story": "뒤로 바짝 조이다(restringere) → 억누르다 → 자제하다"
+  },
+  "example": {
+   "q": "How do you coach junior engineers without taking over?",
+   "a": "I restrain myself from jumping in with the answer and ask guiding questions instead, because they remember what they figure out.",
+   "a_ko": "정답을 바로 말하고 싶은 걸 참고 대신 유도 질문을 합니다. 스스로 알아낸 것을 더 오래 기억하기 때문입니다."
+  },
+  "collocations": [
+   "restrain oneself from",
+   "restrain costs",
+   "restrain the urge to"
+  ],
+  "related": [
+   "restraint",
+   "strain",
+   "constrained",
+   "prestige"
+  ],
+  "tip": "명사 restraint(Day 15)와 짝. restrain myself from -ing 로 자제를 말함"
+ },
+ {
+  "id": "d25-A23",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "constrained",
+  "pos": "adjective",
+  "ipa": "/kənˈstreɪnd/",
+  "meaning_ko": "제약을 받는, 한정된",
+  "category": "negotiation",
+  "etymology": {
+   "parts": [
+    {
+     "text": "con",
+     "type": "prefix",
+     "gloss": "함께, 꽉"
+    },
+    {
+     "text": "strain",
+     "type": "root",
+     "gloss": "조이다 (stringere)"
+    },
+    {
+     "text": "ed",
+     "type": "suffix",
+     "gloss": "~된"
+    }
+   ],
+   "story": "꽉 함께 조여진 → 제약을 받는"
+  },
+  "example": {
+   "q": "Honestly, our base salary band for this level is pretty fixed.",
+   "a": "I understand you're constrained on base, so could we look at a larger sign-on bonus or an earlier equity refresh instead?",
+   "a_ko": "기본급에 제약이 있다는 점 이해합니다. 그렇다면 사이닝 보너스를 늘리거나 지분 추가 부여 시기를 앞당기는 건 어떨까요?"
+  },
+  "collocations": [
+   "constrained by budget",
+   "resource-constrained",
+   "time-constrained"
+  ],
+  "related": [
+   "constraint",
+   "restrain",
+   "strain",
+   "restraint"
+  ],
+  "tip": "상대의 제약을 인정해 주면서 다른 항목으로 협상을 돌릴 때 좋은 단어"
+ },
+ {
+  "id": "d25-A24",
+  "day": 25,
+  "level": 2,
+  "set": "A",
+  "family": "F5",
+  "word": "step back",
+  "pos": "phrasal verb",
+  "ipa": "/ˌstɛp ˈbæk/",
+  "meaning_ko": "한발 물러서다 (전체를 보다, 주도권을 넘기다)",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "step",
+     "type": "part",
+     "gloss": "걸음, 걷다"
+    },
+    {
+     "text": "back",
+     "type": "part",
+     "gloss": "뒤로"
+    }
+   ],
+   "story": "한 걸음 뒤로 물러서다 → 거리를 두고 전체를 보다 / 팀이 주도하게 두다"
+  },
+  "example": {
+   "q": "How has your leadership style changed over time?",
+   "a": "I've learned to step back once the team has context, so others can own decisions and grow.",
+   "a_ko": "팀이 맥락을 이해하고 나면 한발 물러서는 법을 배웠습니다. 그래야 다른 사람들이 결정을 맡고 성장할 수 있습니다."
+  },
+  "collocations": [
+   "step back and look at",
+   "step back from",
+   "know when to step back"
+  ],
+  "related": [
+   "step up",
+   "hands-off",
+   "lead by example",
+   "walk the talk"
+  ],
+  "tip": "step up(나서다)과 짝. 리더로서의 성숙함을 보여 주는 표현"
+ },
+ {
+  "id": "d25-A25",
+  "day": 25,
+  "level": 3,
+  "set": "A",
+  "family": "F5",
+  "word": "walk the talk",
+  "pos": "phrase",
+  "ipa": "/ˌwɔk ðə ˈtɔk/",
+  "meaning_ko": "말한 대로 실천하다, 언행일치하다",
+  "category": "interview",
+  "etymology": {
+   "parts": [
+    {
+     "text": "walk",
+     "type": "part",
+     "gloss": "걷다"
+    },
+    {
+     "text": "the",
+     "type": "part",
+     "gloss": "그"
+    },
+    {
+     "text": "talk",
+     "type": "part",
+     "gloss": "말"
+    }
+   ],
+   "story": "말(talk)한 길을 실제로 걷다(walk) → 언행일치"
+  },
+  "example": {
+   "q": "How do you build trust as a new tech lead?",
+   "a": "I walk the talk: when I asked for smaller pull requests, I made sure my own PRs were the smallest on the team for the first month.",
+   "a_ko": "말한 대로 실천합니다. PR 을 작게 올려 달라고 부탁한 뒤 첫 한 달 동안은 제 PR 을 팀에서 가장 작게 유지했습니다."
+  },
+  "collocations": [
+   "walk the talk",
+   "talk the talk and walk the walk",
+   "really walk the talk"
+  ],
+  "related": [
+   "lead by example",
+   "step back",
+   "hands-off"
+  ],
+  "tip": "lead by example 과 비슷. walk the walk 라고도 함"
+ }
+]

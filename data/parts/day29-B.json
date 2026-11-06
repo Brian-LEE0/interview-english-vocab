@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "d29-B01",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "fiduciary",
+    "pos": "noun",
+    "ipa": "/fɪˈduːʃieri/",
+    "meaning_ko": "수탁자, 신탁의",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "fiduci",
+          "type": "root",
+          "gloss": "신뢰·신탁 (fiducia ← fidere 믿다)"
+        },
+        {
+          "text": "ary",
+          "type": "suffix",
+          "gloss": "~의 (사람)"
+        }
+      ],
+      "story": "믿고 맡김(fiducia)의 → 남의 재산을 믿고 맡아 관리하는 사람"
+    },
+    "example": {
+      "q": "Our 401(k) plan is managed by a third-party fiduciary.",
+      "a": "Good to know. Could you share which fiduciary manages it and what the fund fees are, so I can compare it with my current plan?",
+      "a_ko": "좋네요. 어느 수탁 기관이 운용하는지와 펀드 수수료가 얼마인지 알려 주시면 지금 제 플랜과 비교해 보겠습니다."
+    },
+    "collocations": [
+      "fiduciary duty",
+      "act as a fiduciary",
+      "fiduciary responsibility"
+    ],
+    "related": [
+      "confide",
+      "confidant",
+      "affidavit",
+      "fidelity"
+    ],
+    "tip": "fiduciary duty(수탁자 의무)로 가장 많이 쓰임. 발음은 피두-시에리"
+  },
+  {
+    "id": "d29-B02",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "affidavit",
+    "pos": "noun",
+    "ipa": "/ˌæfɪˈdeɪvɪt/",
+    "meaning_ko": "선서 진술서",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "af",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿다·맹세하다 (fidare)"
+        },
+        {
+          "text": "avit",
+          "type": "suffix",
+          "gloss": "~했다 (라틴어 완료형)"
+        }
+      ],
+      "story": "'그가 맹세했다'(affidavit) → 맹세하고 쓴 진술서"
+    },
+    "example": {
+      "q": "For the visa, we'll need proof of your previous employment.",
+      "a": "My former employer has closed its Korean office, so if a reference letter isn't possible, I can provide a notarized affidavit instead.",
+      "a_ko": "전 직장의 한국 사무소가 문을 닫아서, 재직 확인서가 어려우면 대신 공증받은 선서 진술서를 제출할 수 있습니다."
+    },
+    "collocations": [
+      "sign an affidavit",
+      "sworn affidavit",
+      "notarized affidavit"
+    ],
+    "related": [
+      "fiduciary",
+      "confide",
+      "federal"
+    ],
+    "tip": "라틴어 동사형이 그대로 명사가 된 단어. 강세는 -da-"
+  },
+  {
+    "id": "d29-B03",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "confide",
+    "pos": "verb",
+    "ipa": "/kənˈfaɪd/",
+    "meaning_ko": "(비밀을) 털어놓다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히 (강조)"
+        },
+        {
+          "text": "fide",
+          "type": "root",
+          "gloss": "믿다 (fidere)"
+        }
+      ],
+      "story": "완전히 믿다 → 믿고 속마음을 털어놓다"
+    },
+    "example": {
+      "q": "How do you support people on your team?",
+      "a": "When a junior engineer confided that he felt overwhelmed, I reduced his on-call load and paired him with a mentor.",
+      "a_ko": "한 주니어 엔지니어가 버겁다고 털어놓았을 때, 온콜 부담을 줄이고 멘토를 붙여 주었습니다."
+    },
+    "collocations": [
+      "confide in someone",
+      "confide that",
+      "confided to me"
+    ],
+    "related": [
+      "confident",
+      "confidential",
+      "confidant",
+      "fiduciary"
+    ],
+    "tip": "confide in + 사람: ~에게 털어놓다"
+  },
+  {
+    "id": "d29-B04",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "confidant",
+    "pos": "noun",
+    "ipa": "/ˈkɑːnfɪdænt/",
+    "meaning_ko": "믿고 속을 털어놓는 상대",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "fid",
+          "type": "root",
+          "gloss": "믿다 (fidere)"
+        },
+        {
+          "text": "ant",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "완전히 믿는 사람 → 속마음을 털어놓는 상대"
+    },
+    "example": {
+      "q": "How would your teammates describe you?",
+      "a": "Several teammates have described me as a confidant, because they know they can raise problems with me early without it turning into blame.",
+      "a_ko": "몇몇 동료는 저를 속을 터놓는 상대라고 말합니다. 문제를 일찍 꺼내도 비난으로 번지지 않는다는 걸 알기 때문입니다."
+    },
+    "collocations": [
+      "trusted confidant",
+      "close confidant",
+      "act as a confidant"
+    ],
+    "related": [
+      "confide",
+      "confident",
+      "confidential"
+    ],
+    "tip": "confident(자신 있는)와 철자 한 글자 차이 — confidant 는 사람"
+  },
+  {
+    "id": "d29-B05",
+    "day": 29,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "federal",
+    "pos": "adjective",
+    "ipa": "/ˈfedərəl/",
+    "meaning_ko": "연방의",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "feder",
+          "type": "root",
+          "gloss": "동맹·조약 (foedus, fides 와 같은 뿌리)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "믿음으로 맺은 동맹(foedus)의 → 연방의"
+    },
+    "example": {
+      "q": "Our US offices follow the federal holiday calendar.",
+      "a": "Thanks. Are federal holidays paid days off for remote employees too?",
+      "a_ko": "감사합니다. 원격 직원에게도 연방 공휴일이 유급 휴일인가요?"
+    },
+    "collocations": [
+      "federal holiday",
+      "federal tax",
+      "federal law"
+    ],
+    "related": [
+      "federation",
+      "federated",
+      "confide"
+    ],
+    "tip": "미국 오퍼에서는 federal(연방) 세금과 state(주) 세금을 구분해서 씀"
+  },
+  {
+    "id": "d29-B06",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "federation",
+    "pos": "noun",
+    "ipa": "/ˌfedəˈreɪʃən/",
+    "meaning_ko": "연합, (인증) 페더레이션",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "feder",
+          "type": "root",
+          "gloss": "동맹 (foedus)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~하기"
+        }
+      ],
+      "story": "동맹을 맺음 → 연합 → 여러 시스템이 서로의 인증을 믿어 주는 구조"
+    },
+    "example": {
+      "q": "How did you handle login across your company's tools?",
+      "a": "We set up identity federation with SAML, so employees used one corporate login across twelve internal tools and offboarding took minutes.",
+      "a_ko": "SAML 로 ID 페더레이션을 구성해 직원들이 사내 도구 12개를 회사 계정 하나로 쓰게 했고, 퇴사 처리도 몇 분이면 끝났습니다."
+    },
+    "collocations": [
+      "identity federation",
+      "federation protocol",
+      "data federation"
+    ],
+    "related": [
+      "federal",
+      "federated",
+      "fidelity"
+    ],
+    "tip": "SSO 이야기에서 자주 나옴. federated(연합된)의 명사형"
+  },
+  {
+    "id": "d29-B07",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "equity grant",
+    "pos": "noun",
+    "ipa": "/ˈekwəti ɡrænt/",
+    "meaning_ko": "지분(주식) 부여",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "equ",
+          "type": "root",
+          "gloss": "공평한 (aequus)"
+        },
+        {
+          "text": "ity",
+          "type": "suffix",
+          "gloss": "~함"
+        },
+        {
+          "text": "grant",
+          "type": "root",
+          "gloss": "주다·보증하다 (credentare ← credere 믿다)"
+        }
+      ],
+      "story": "믿고 내어 줌(grant) + 지분(equity) → 회사 주식을 부여하는 것"
+    },
+    "example": {
+      "q": "The offer includes an initial equity grant.",
+      "a": "Thank you. Could you share the size of the equity grant and the vesting schedule?",
+      "a_ko": "감사합니다. 지분 부여 규모와 베스팅 일정을 알려 주실 수 있을까요?"
+    },
+    "collocations": [
+      "initial equity grant",
+      "refresher equity grant",
+      "equity grant agreement"
+    ],
+    "related": [
+      "grant",
+      "credit",
+      "credible",
+      "tax credit"
+    ],
+    "tip": "입사 때 받는 initial grant 와 매년 추가로 받는 refresher grant 를 구분"
+  },
+  {
+    "id": "d29-B08",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "tax credit",
+    "pos": "noun",
+    "ipa": "/ˈtæks ˌkredɪt/",
+    "meaning_ko": "세액 공제",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "tax",
+          "type": "part",
+          "gloss": "세금 (taxare 평가하다)"
+        },
+        {
+          "text": "cred",
+          "type": "root",
+          "gloss": "믿다"
+        },
+        {
+          "text": "it",
+          "type": "suffix",
+          "gloss": "~된 것 (creditum)"
+        }
+      ],
+      "story": "믿고 맡긴 것(creditum) → 장부의 대변(받을 몫) → 내야 할 세금에서 빼 주는 금액"
+    },
+    "example": {
+      "q": "Our benefits team can explain the relocation tax implications.",
+      "a": "That would help. I'd like to know if any tax credit applies to my moving costs, so I can plan around the net amount.",
+      "a_ko": "도움이 되겠네요. 이사 비용에 적용되는 세액 공제가 있는지 알고 실수령액 기준으로 계획하고 싶습니다."
+    },
+    "collocations": [
+      "claim a tax credit",
+      "qualify for a tax credit",
+      "tax credit for"
+    ],
+    "related": [
+      "credit",
+      "credible",
+      "credential",
+      "equity grant"
+    ],
+    "tip": "tax deduction(소득 공제)은 과세 소득을 줄이고, tax credit 은 세금 자체를 줄임"
+  },
+  {
+    "id": "d29-B09",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "attest",
+    "pos": "verb",
+    "ipa": "/əˈtest/",
+    "meaning_ko": "증명하다, 증언하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "at",
+          "type": "prefix",
+          "gloss": "~에 (ad)"
+        },
+        {
+          "text": "test",
+          "type": "root",
+          "gloss": "증인 (testis)"
+        }
+      ],
+      "story": "증인(testis)으로 나서다 → 사실임을 증명하다"
+    },
+    "example": {
+      "q": "Can your former manager confirm your role in the migration?",
+      "a": "Yes, my former manager can attest that I led the migration and coordinated three teams, and I'm happy to share her contact details.",
+      "a_ko": "네, 전 매니저가 제가 마이그레이션을 이끌고 세 팀을 조율했다고 증언해 줄 수 있고, 연락처도 기꺼이 드리겠습니다."
+    },
+    "collocations": [
+      "attest to",
+      "can attest that",
+      "attest in writing"
+    ],
+    "related": [
+      "attestation",
+      "testimonial",
+      "testament",
+      "contest"
+    ],
+    "tip": "attest to + 명사: ~을 보증하다. 레퍼런스 체크 대화에 유용"
+  },
+  {
+    "id": "d29-B10",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "attestation",
+    "pos": "noun",
+    "ipa": "/ˌætesˈteɪʃən/",
+    "meaning_ko": "증명(서), 인증 보고서",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "at",
+          "type": "prefix",
+          "gloss": "~에"
+        },
+        {
+          "text": "test",
+          "type": "root",
+          "gloss": "증인 (testis)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "증인으로 확인함 → 공식 증명 → 인증 보고서"
+    },
+    "example": {
+      "q": "Have you worked on compliance projects?",
+      "a": "I helped prepare our SOC 2 attestation by automating evidence collection, which cut audit preparation from six weeks to two.",
+      "a_ko": "증거 수집을 자동화해 SOC 2 인증 보고서 준비를 도왔고, 감사 준비 기간을 6주에서 2주로 줄였습니다."
+    },
+    "collocations": [
+      "SOC 2 attestation",
+      "attestation report",
+      "remote attestation"
+    ],
+    "related": [
+      "attest",
+      "testimonial",
+      "testament"
+    ],
+    "tip": "보안 분야의 remote attestation(원격 증명)도 같은 단어"
+  },
+  {
+    "id": "d29-B11",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "testimonial",
+    "pos": "noun",
+    "ipa": "/ˌtestɪˈmoʊniəl/",
+    "meaning_ko": "추천의 글, 사용 후기",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "test",
+          "type": "root",
+          "gloss": "증인 (testis)"
+        },
+        {
+          "text": "imon",
+          "type": "suffix",
+          "gloss": "~함 (testimonium)"
+        },
+        {
+          "text": "ial",
+          "type": "suffix",
+          "gloss": "~의 것"
+        }
+      ],
+      "story": "증언(testimonium)의 것 → 추천의 글 → 고객 후기"
+    },
+    "example": {
+      "q": "Do you have anything from past clients we could look at?",
+      "a": "Yes, I can share a testimonial from the client whose checkout system I rebuilt last year.",
+      "a_ko": "네, 작년에 결제 시스템을 다시 만들어 드린 고객사의 추천 글을 공유해 드릴 수 있습니다."
+    },
+    "collocations": [
+      "client testimonial",
+      "customer testimonial",
+      "written testimonial"
+    ],
+    "related": [
+      "attest",
+      "testament",
+      "contest"
+    ],
+    "tip": "웹사이트의 고객 후기 섹션도 testimonials"
+  },
+  {
+    "id": "d29-B12",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "testament",
+    "pos": "noun",
+    "ipa": "/ˈtestəmənt/",
+    "meaning_ko": "(~의) 증거, 증표",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "test",
+          "type": "root",
+          "gloss": "증인 (testis)"
+        },
+        {
+          "text": "ament",
+          "type": "suffix",
+          "gloss": "~것 (-mentum)"
+        }
+      ],
+      "story": "증언한 것 → 무언가를 증명해 주는 증거"
+    },
+    "example": {
+      "q": "What are you most proud of from your last job?",
+      "a": "Our on-call pages dropped by seventy percent in a year, which is a testament to how seriously the whole team took reliability.",
+      "a_ko": "1년 만에 온콜 호출이 70% 줄었는데, 팀 전체가 안정성을 얼마나 진지하게 생각했는지 보여 주는 증거입니다."
+    },
+    "collocations": [
+      "a testament to",
+      "stand as a testament",
+      "living testament"
+    ],
+    "related": [
+      "attest",
+      "testimonial",
+      "contest"
+    ],
+    "tip": "a testament to + 명사 형태로 성과를 팀 공으로 돌릴 때 좋음"
+  },
+  {
+    "id": "d29-B13",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "contest",
+    "pos": "verb",
+    "ipa": "/kənˈtest/",
+    "meaning_ko": "이의를 제기하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "test",
+          "type": "root",
+          "gloss": "증인 (testari 증언하다)"
+        }
+      ],
+      "story": "증인을 함께 부르다 → 법정에서 다투다 → 이의를 제기하다"
+    },
+    "example": {
+      "q": "The non-compete clause is standard for all engineers.",
+      "a": "I understand, but I'd like to contest the two-year duration, since it would keep me out of most of the industry.",
+      "a_ko": "이해합니다. 다만 2년이라는 기간은 업계 대부분에서 일할 수 없게 만들어서 이의를 제기하고 싶습니다."
+    },
+    "collocations": [
+      "contest a clause",
+      "contest a decision",
+      "hotly contested"
+    ],
+    "related": [
+      "attest",
+      "testimonial",
+      "testament"
+    ],
+    "tip": "동사는 뒤 강세(con-TEST), 명사(대회)는 앞 강세(CON-test)"
+  },
+  {
+    "id": "d29-B14",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "devote",
+    "pos": "verb",
+    "ipa": "/dɪˈvoʊt/",
+    "meaning_ko": "(시간·노력을) 쏟다, 바치다",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "완전히"
+        },
+        {
+          "text": "vote",
+          "type": "root",
+          "gloss": "맹세하다 (vovere, votum)"
+        }
+      ],
+      "story": "맹세하고(vovere) 완전히 바치다 → 시간·노력을 쏟다"
+    },
+    "example": {
+      "q": "How do you keep your skills current?",
+      "a": "I devote a few hours every week to reading design docs from other teams and building small side projects.",
+      "a_ko": "매주 몇 시간을 다른 팀의 설계 문서를 읽고 작은 사이드 프로젝트를 만드는 데 씁니다."
+    },
+    "collocations": [
+      "devote time to",
+      "devote yourself to",
+      "devote resources to"
+    ],
+    "related": [
+      "vote",
+      "devotion",
+      "vow"
+    ],
+    "tip": "devote A to B(-ing): A 를 B 에 쏟다. to 뒤에 동명사"
+  },
+  {
+    "id": "d29-B15",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "regulation",
+    "pos": "noun",
+    "ipa": "/ˌreɡjəˈleɪʃən/",
+    "meaning_ko": "규정, 규제",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "regul",
+          "type": "root",
+          "gloss": "규칙 (regula ← regere 다스리다)"
+        },
+        {
+          "text": "ation",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "규칙(regula)으로 다스림 → 규정·규제"
+    },
+    "example": {
+      "q": "Our visa sponsorship timeline depends on immigration regulations.",
+      "a": "Understood. Could you tell me which regulation sets the timeline, so I can plan my notice period and start date?",
+      "a_ko": "알겠습니다. 어떤 규정이 일정을 정하는지 알려 주시면 퇴사 통보 기간과 입사일을 계획하겠습니다."
+    },
+    "collocations": [
+      "comply with regulations",
+      "data protection regulation",
+      "under the regulation"
+    ],
+    "related": [
+      "regulator",
+      "regulate",
+      "regulatory",
+      "irregular"
+    ],
+    "tip": "셀 수 있음: regulations(여러 규정). rule 보다 공식적"
+  },
+  {
+    "id": "d29-B16",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "regulator",
+    "pos": "noun",
+    "ipa": "/ˈreɡjəleɪtər/",
+    "meaning_ko": "규제 기관",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "regul",
+          "type": "root",
+          "gloss": "규칙 (regula)"
+        },
+        {
+          "text": "ator",
+          "type": "suffix",
+          "gloss": "~하는 자"
+        }
+      ],
+      "story": "규칙으로 다스리는 자 → 규제 기관"
+    },
+    "example": {
+      "q": "Our product is used by several large banks.",
+      "a": "Then I'd expect the regulator to review our audit trail, so I'd design logging with that in mind from the start.",
+      "a_ko": "그렇다면 규제 기관이 감사 기록을 검토할 테니, 처음부터 그걸 염두에 두고 로깅을 설계하겠습니다."
+    },
+    "collocations": [
+      "financial regulator",
+      "industry regulator",
+      "report to the regulator"
+    ],
+    "related": [
+      "regulation",
+      "regulate",
+      "regulatory"
+    ],
+    "tip": "기계의 '조절 장치'라는 뜻도 있음 (voltage regulator)"
+  },
+  {
+    "id": "d29-B17",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "irregular",
+    "pos": "adjective",
+    "ipa": "/ɪˈreɡjələr/",
+    "meaning_ko": "불규칙한, 비정상적인",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "ir",
+          "type": "prefix",
+          "gloss": "아닌 (in)"
+        },
+        {
+          "text": "regul",
+          "type": "root",
+          "gloss": "규칙 (regula)"
+        },
+        {
+          "text": "ar",
+          "type": "suffix",
+          "gloss": "~의"
+        }
+      ],
+      "story": "규칙에 맞지 않는 → 불규칙한 → 비정상적인"
+    },
+    "example": {
+      "q": "How did you detect the fraud pattern?",
+      "a": "We flagged accounts with irregular login times and locations, which caught most fraud before any money moved.",
+      "a_ko": "로그인 시간과 위치가 비정상적인 계정을 표시해서, 돈이 빠져나가기 전에 부정 사용 대부분을 잡아냈습니다."
+    },
+    "collocations": [
+      "irregular pattern",
+      "irregular traffic",
+      "irregular activity"
+    ],
+    "related": [
+      "regular",
+      "regulation",
+      "regulator"
+    ],
+    "tip": "abnormal 보다 '패턴이 들쭉날쭉한' 뉘앙스"
+  },
+  {
+    "id": "d29-B18",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "regime",
+    "pos": "noun",
+    "ipa": "/reɪˈʒiːm/",
+    "meaning_ko": "제도, 체제",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "reg",
+          "type": "root",
+          "gloss": "다스리다 (regere)"
+        },
+        {
+          "text": "ime",
+          "type": "suffix",
+          "gloss": "~하는 방식 (regimen)"
+        }
+      ],
+      "story": "다스리는 방식(regimen) → 제도·체제"
+    },
+    "example": {
+      "q": "The tax treatment of stock options differs by country.",
+      "a": "That's why I'd like to understand the tax regime for options in Korea before choosing between the stock-heavy and cash-heavy packages.",
+      "a_ko": "그래서 주식 비중이 큰 패키지와 현금 비중이 큰 패키지 중에 고르기 전에 한국의 스톡옵션 과세 제도를 이해하고 싶습니다."
+    },
+    "collocations": [
+      "tax regime",
+      "regulatory regime",
+      "under the current regime"
+    ],
+    "related": [
+      "regulation",
+      "region",
+      "direct",
+      "royalty-free"
+    ],
+    "tip": "정치 맥락의 '정권'은 부정적이지만 tax regime 처럼 '제도'로는 중립적"
+  },
+  {
+    "id": "d29-B19",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "royalty-free",
+    "pos": "adjective",
+    "ipa": "/ˈrɔɪəlti friː/",
+    "meaning_ko": "사용료가 없는, 로열티 없는",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "roy",
+          "type": "root",
+          "gloss": "왕 (rex, regis ← regere 다스리다)"
+        },
+        {
+          "text": "al",
+          "type": "suffix",
+          "gloss": "~의"
+        },
+        {
+          "text": "ty",
+          "type": "suffix",
+          "gloss": "~것"
+        },
+        {
+          "text": "free",
+          "type": "part",
+          "gloss": "없는"
+        }
+      ],
+      "story": "왕(rex)의 권리 → 권리 사용료(로열티) → 사용료 없이 쓸 수 있는"
+    },
+    "example": {
+      "q": "Did licensing ever affect your technical decisions?",
+      "a": "Yes, we replaced a commercial video codec with a royalty-free one, which saved licensing fees and let us ship in more countries.",
+      "a_ko": "네, 상용 비디오 코덱을 로열티 없는 코덱으로 바꿔 라이선스 비용을 아끼고 더 많은 나라에 출시할 수 있었습니다."
+    },
+    "collocations": [
+      "royalty-free license",
+      "royalty-free codec",
+      "royalty-free use"
+    ],
+    "related": [
+      "regime",
+      "regulation",
+      "region"
+    ],
+    "tip": "royalty(사용료)는 royal(왕의)과 같은 어원"
+  },
+  {
+    "id": "d29-B20",
+    "day": 29,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "director",
+    "pos": "noun",
+    "ipa": "/dəˈrektər/",
+    "meaning_ko": "이사, 디렉터",
+    "category": "interview",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "따로·분명히 (dis)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "바르게 이끌다 (regere)"
+        },
+        {
+          "text": "or",
+          "type": "suffix",
+          "gloss": "~하는 사람"
+        }
+      ],
+      "story": "바르게 이끄는 사람 → 지휘자 → 이사"
+    },
+    "example": {
+      "q": "Who did you report to at your last company?",
+      "a": "I reported to the director of engineering for the payments group.",
+      "a_ko": "결제 그룹의 엔지니어링 디렉터에게 보고했습니다."
+    },
+    "collocations": [
+      "engineering director",
+      "report to the director",
+      "board of directors"
+    ],
+    "related": [
+      "direct",
+      "direction",
+      "direct deposit",
+      "correction"
+    ],
+    "tip": "직급 순서 예: manager → director → VP"
+  },
+  {
+    "id": "d29-B21",
+    "day": 29,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "direct deposit",
+    "pos": "noun",
+    "ipa": "/dəˈrekt dɪˈpɑːzɪt/",
+    "meaning_ko": "(급여) 계좌 입금",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "di",
+          "type": "prefix",
+          "gloss": "분명히"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "바르게 (regere)"
+        },
+        {
+          "text": "de",
+          "type": "prefix",
+          "gloss": "아래로"
+        },
+        {
+          "text": "posit",
+          "type": "root",
+          "gloss": "놓다 (ponere)"
+        }
+      ],
+      "story": "곧바로(direct) 맡겨 놓음(deposit) → 급여를 계좌로 바로 넣어 줌"
+    },
+    "example": {
+      "q": "Do you have any questions about payroll?",
+      "a": "Yes, can my salary be paid by direct deposit to a Korean bank?",
+      "a_ko": "네, 급여를 한국 은행 계좌로 바로 입금받을 수 있나요?"
+    },
+    "collocations": [
+      "set up direct deposit",
+      "direct deposit form",
+      "paid by direct deposit"
+    ],
+    "related": [
+      "director",
+      "direct",
+      "correction"
+    ],
+    "tip": "미국 회사 입사 서류에 꼭 나오는 표현"
+  },
+  {
+    "id": "d29-B22",
+    "day": 29,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "correction",
+    "pos": "noun",
+    "ipa": "/kəˈrekʃən/",
+    "meaning_ko": "수정, 정정",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "cor",
+          "type": "prefix",
+          "gloss": "완전히 (com)"
+        },
+        {
+          "text": "rect",
+          "type": "root",
+          "gloss": "바르게 (regere)"
+        },
+        {
+          "text": "ion",
+          "type": "suffix",
+          "gloss": "~것"
+        }
+      ],
+      "story": "완전히 바르게 함 → 고침 → 정정"
+    },
+    "example": {
+      "q": "What happens when your data pipeline produces a wrong number?",
+      "a": "We publish a correction quickly and add a test for that case.",
+      "a_ko": "빠르게 정정본을 내고 그 경우를 위한 테스트를 추가합니다."
+    },
+    "collocations": [
+      "make a correction",
+      "issue a correction",
+      "data correction"
+    ],
+    "related": [
+      "correct",
+      "corrective",
+      "director",
+      "rectify"
+    ],
+    "tip": "A small correction: ~ 으로 상대 말을 부드럽게 정정할 때도 씀"
+  },
+  {
+    "id": "d29-B23",
+    "day": 29,
+    "level": 2,
+    "set": "B",
+    "family": "F9",
+    "word": "reconcile",
+    "pos": "verb",
+    "ipa": "/ˈrekənsaɪl/",
+    "meaning_ko": "대조해 맞추다, 조화시키다",
+    "category": "it",
+    "etymology": {
+      "parts": [
+        {
+          "text": "re",
+          "type": "prefix",
+          "gloss": "다시"
+        },
+        {
+          "text": "con",
+          "type": "prefix",
+          "gloss": "함께"
+        },
+        {
+          "text": "cile",
+          "type": "root",
+          "gloss": "부르다 (calare → concilium 모임)"
+        }
+      ],
+      "story": "다시 함께 불러 모으다 → 화해시키다 → 두 기록을 맞춰 일치시키다"
+    },
+    "example": {
+      "q": "How did you find the billing bug?",
+      "a": "I wrote a script to reconcile our invoices with the payment provider's records, and it revealed a time zone mismatch.",
+      "a_ko": "청구서와 결제사 기록을 대조하는 스크립트를 짜서 시간대 불일치를 찾아냈습니다."
+    },
+    "collocations": [
+      "reconcile records",
+      "reconcile differences",
+      "reconcile A with B"
+    ],
+    "related": [
+      "reconciliation",
+      "council",
+      "conciliate"
+    ],
+    "tip": "회계·데이터에서 '두 기록을 맞춰 보다'라는 뜻으로 자주 씀"
+  },
+  {
+    "id": "d29-B24",
+    "day": 29,
+    "level": 1,
+    "set": "B",
+    "family": "F9",
+    "word": "out of office",
+    "pos": "phrase",
+    "ipa": "/ˌaʊt əv ˈɔːfɪs/",
+    "meaning_ko": "부재중 (휴가·출장 등)",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "밖에"
+        },
+        {
+          "text": "of",
+          "type": "part",
+          "gloss": "~의"
+        },
+        {
+          "text": "office",
+          "type": "part",
+          "gloss": "사무실"
+        }
+      ],
+      "story": "사무실 밖에 있음 → 부재중 → 부재중 자동 응답"
+    },
+    "example": {
+      "q": "I emailed you yesterday but got an automatic reply.",
+      "a": "Sorry, I was out of office for a family event yesterday.",
+      "a_ko": "죄송합니다. 어제는 가족 행사로 부재중이었습니다."
+    },
+    "collocations": [
+      "out of office",
+      "out-of-office reply",
+      "set an out-of-office message"
+    ],
+    "related": [
+      "hammer out",
+      "per my last email",
+      "keep me posted"
+    ],
+    "tip": "줄여서 OOO. 부재중 자동 답장은 out-of-office reply"
+  },
+  {
+    "id": "d29-B25",
+    "day": 29,
+    "level": 3,
+    "set": "B",
+    "family": "F9",
+    "word": "hammer out",
+    "pos": "phrasal verb",
+    "ipa": "/ˈhæmər aʊt/",
+    "meaning_ko": "(협상으로) 세부를 다듬어 타결하다",
+    "category": "negotiation",
+    "etymology": {
+      "parts": [
+        {
+          "text": "hammer",
+          "type": "part",
+          "gloss": "망치질하다"
+        },
+        {
+          "text": "out",
+          "type": "part",
+          "gloss": "끝까지"
+        }
+      ],
+      "story": "망치로 두드려 모양을 만들다 → 밀고 당겨 세부를 정하고 합의하다"
+    },
+    "example": {
+      "q": "We're open to adjusting the package, but legal needs to review it.",
+      "a": "That makes sense. Could we set up a call this week to hammer out the remaining details, like the sign-on bonus and start date?",
+      "a_ko": "좋습니다. 이번 주에 통화해서 사이닝 보너스와 입사일 같은 남은 세부 사항을 정리할 수 있을까요?"
+    },
+    "collocations": [
+      "hammer out the details",
+      "hammer out an agreement",
+      "hammer out a deal"
+    ],
+    "related": [
+      "out of office",
+      "pencil in",
+      "talking points"
+    ],
+    "tip": "work out 보다 '밀고 당겨서 합의'하는 뉘앙스"
+  }
+]
