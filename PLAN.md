@@ -205,6 +205,11 @@
 - 조작: 키보드 ← → (다시/외웠어요), Space (뜻 보기), 1~4 (퀴즈 보기 고르기), Enter (다음 문제) · 휴대폰은 카드를 왼쪽/오른쪽으로 밀기
 - 진도는 그 브라우저(localStorage, 키 `mensetsu-tango:v1`)에 저장. 다른 기기와 공유되지 않음
   - 진도 = 오늘의 학습에서 「외웠어요 / 다시 볼래요」를 누른 단어 수 (퀴즈만 푼 단어는 진도에 안 들어감)
+- 공유 미리보기 (카카오톡·슬랙·라인·X 등에 링크를 붙이면 이미지와 설명이 뜸)
+  - Open Graph / Twitter 카드 태그, 설명 문구에 어원 예시(`retro·spect·ive = 뒤로+보다 → 회고`), 검색용 description·canonical·구조화 데이터(JSON-LD WebApplication)
+  - 미리보기 이미지 `og-image.png` (1200×630): 원본 `design/og.html` → `python scripts/build_og.py` (Chrome/Edge 헤드리스로 렌더) → `app/og-image.png`. 핵심 내용은 가운데에 둬서 카카오톡이 2:1 로 잘라도 보임
+  - 아이콘: `app/favicon.svg`, 휴대폰 홈 화면용 `app/apple-touch-icon.png` (180×180)
+  - 카카오톡은 미리보기를 캐시함 → 이미지·문구를 바꾼 뒤에는 카카오 디벨로퍼스의 공유 디버거(https://developers.kakao.com/tool/debugger/sharing)에서 URL 캐시 초기화
 - 만드는 법: `python scripts/build_data.py` → `python scripts/build_app.py` (화면 코드 `app/index.html` 에 데이터를 넣어 `dist/index.html` 생성)
 - 공개 주소: https://brian-lee0.github.io/interview-english-vocab/ (저장소 `Brian-LEE0/interview-english-vocab`, GitHub Pages 가 `gh-pages` 브랜치 = `dist/` 를 서비스). 반영: `git subtree push --prefix dist origin gh-pages`
 - (선택, 나중에) PDF 인쇄본, Anki 가져오기용 CSV

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<!-- Share preview image (1200x630). Render: python scripts/build_og.py -->
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@600&display=block" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<style>
+  :root{--ink:#16233B;--ink-2:#4A5872;--paper:#EEF1F4;--card:#fff;--line:#C9D1DB;--prefix:#2F5BD3;--root:#B9770E;--suffix:#127A68;
+    --display:"Bricolage Grotesque","Pretendard",sans-serif;--body:"Pretendard",sans-serif;--mono:"JetBrains Mono",monospace}
+  *{box-sizing:border-box;margin:0}
+  html,body{width:1200px;height:630px;overflow:hidden}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);padding:56px 72px;display:flex;flex-direction:column}
+  .top{display:flex;align-items:center;justify-content:space-between}
+  .brand{font-family:var(--display);font-weight:800;font-size:34px;letter-spacing:-.02em}
+  .brand span{color:var(--root)}
+  .brand small{font-family:var(--body);font-weight:600;font-size:20px;color:var(--ink-2);margin-left:14px;padding-left:14px;border-left:2px solid var(--line);vertical-align:5px}
+  .pill{font-family:var(--body);font-weight:700;font-size:22px;border:2px solid var(--ink);border-radius:999px;padding:6px 20px}
+  .gloss{display:flex;align-items:flex-end;margin-top:46px}
+  .m{display:flex;flex-direction:column}
+  .t{font-family:var(--display);font-weight:800;font-size:132px;line-height:.9;letter-spacing:-.04em}
+  .u{height:8px;border-radius:4px;margin:16px 0 12px}
+  .g{font-size:26px;font-weight:700}
+  .p .t,.p .g{color:var(--prefix)} .p .u{background:var(--prefix)}
+  .r .t,.r .g{color:var(--root)} .r .u{background:var(--root);height:11px}
+  .s .t,.s .g{color:var(--suffix)} .s .u{background:var(--suffix)}
+  .dot{font-family:var(--display);font-size:70px;color:var(--line);align-self:flex-start;padding:22px 10px 0 6px}
+  .eq{align-self:center;margin-left:34px;font-size:40px;font-weight:800;line-height:1.25}
+  .eq small{display:block;font-size:22px;font-weight:600;color:var(--ink-2)}
+  .qa{margin-top:auto;display:flex;align-items:center;gap:18px;background:var(--card);border:2px solid var(--line);border-radius:18px;padding:20px 26px}
+  .who{font-family:var(--mono);font-weight:600;font-size:24px;width:44px;height:44px;border-radius:10px;background:var(--ink);color:#fff;display:grid;place-items:center;flex:none}
+  .qa p{font-size:29px;font-weight:500}
+  .qa b{color:var(--root);border-bottom:3px solid var(--root)}
+  .foot{display:flex;justify-content:space-between;margin-top:18px;font-size:22px;color:var(--ink-2);font-weight:600}
+</style>
+</head>
+<body>
+  <div class="top">
+    <div class="brand">Inter<span>view</span> English<small>면접영어 어원 단어장</small></div>
+    <div class="pill">30일 · 3,000단어</div>
+  </div>
+  <div class="gloss">
+    <div class="m p"><span class="t">retro</span><span class="u"></span><span class="g">뒤로</span></div>
+    <span class="dot">·</span>
+    <div class="m r"><span class="t">spect</span><span class="u"></span><span class="g">보다</span></div>
+    <span class="dot">·</span>
+    <div class="m s"><span class="t">ive</span><span class="u"></span><span class="g">~하는 것</span></div>
+    <div class="eq">= 회고<small>뒤를 돌아보는 회의</small></div>
+  </div>
+  <div class="qa"><span class="who">A</span><p>We hold a <b>retrospective</b> after every sprint.</p></div>
+  <div class="foot"><span>어원으로 쪼개고 · 면접 답변으로 외우기 · 면접 · IT · 협상</span><span>brian-lee0.github.io/interview-english-vocab</span></div>
+</body>
+</html>

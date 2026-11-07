@@ -19,11 +19,13 @@ IT 면접 영어 단어를 어원(접두사 + 어근 + 접미사)으로 쪼개�
 | `app/index.html` | 웹 단어장 화면 코드 |
 | `dist/index.html` | 데이터를 넣은 완성본 (이 파일을 엶) |
 | `design/mockup.html` | 디자인 시안 |
+| `design/og.html` | 공유 미리보기 이미지 원본 (→ `app/og-image.png`) |
 
 ## 다시 만들기
 
 ```bash
 python scripts/build_data.py
+python scripts/build_og.py      # 공유 미리보기 이미지를 바꿨을 때만
 python scripts/build_app.py
 ```
 

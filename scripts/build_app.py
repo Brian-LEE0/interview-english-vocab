@@ -26,6 +26,12 @@ def main():
     out.parent.mkdir(exist_ok=True)
     out.write_text(html.replace(MARK, blob), encoding="utf-8")
     (out.parent / ".nojekyll").touch()  # GitHub Pages: serve as-is
+    # share preview image + icons referenced by the <head> tags
+    for name in ("og-image.png", "favicon.svg", "apple-touch-icon.png"):
+        src = ROOT / "app" / name
+        if not src.exists():
+            sys.exit(f"app/{name} missing — run scripts/build_og.py (og-image) or restore the icon")
+        (out.parent / name).write_bytes(src.read_bytes())
     days = sorted({w["day"] for w in words})
     print(f"dist/index.html · {len(words)} words · Day {days[0]}–{days[-1]} · {out.stat().st_size // 1024} KB")
 
